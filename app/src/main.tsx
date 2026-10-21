@@ -8,6 +8,8 @@ import DishPage from './pages/Dish'
 import MapPage from './pages/MapPage'
 import Memories from './pages/Memories'
 import AddMemory from './pages/AddMemory'
+import Account from './pages/Account'
+import { syncMemories } from './memories'
 
 function App() {
   return (
@@ -19,6 +21,7 @@ function App() {
           <Route path="/map" element={<MapPage />} />
           <Route path="/memories" element={<Memories />} />
           <Route path="/add" element={<AddMemory />} />
+          <Route path="/account" element={<Account />} />
         </Routes>
       </main>
       <nav className="tabs">
@@ -30,6 +33,9 @@ function App() {
     </HashRouter>
   )
 }
+
+// Upload anything saved offline last time.
+void syncMemories()
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

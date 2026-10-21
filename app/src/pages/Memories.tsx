@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import Map, { Layer, Marker, Source, type MapLayerMouseEvent, type MapRef } from 'react-map-gl/maplibre'
 import type { FeatureCollection, Geometry } from 'geojson'
 import { dishById, restaurantById } from '../data'
+import { useSession } from '../cloud'
 import { deleteMemory, resolvePendingPlaces, useMemories, usePhotoUrl, type Memory } from '../memories'
 
 type Countries = FeatureCollection<Geometry, { iso: string; name: string }>
@@ -55,6 +56,7 @@ function MemoryView({ m, onClose }: { m: Memory; onClose: () => void }) {
 
 export default function Memories() {
   const memories = useMemories()
+  const session = useSession()
   const [countries, setCountries] = useState<Countries>()
   const [map, setMap] = useState<MapRef | null>(null)
   const [country, setCountry] = useState<string | null>(null)
@@ -101,6 +103,9 @@ export default function Memories() {
   return (
     <div className="page">
       <h1>My food memories</h1>
+      <p className="small">
+        <Link to="/account">{session ? `Backed up as ${session.user.email}` : 'Not backed up. Sign in to keep your photos safe'}</Link>
+      </p>
       <div className="stats">
         <div><b>{visited.length}</b> countries</div>
         <div><b>{new Set(list.flatMap((m) => (m.city ? `${m.countryCode}|${m.city}` : []))).size}</b> cities</div>

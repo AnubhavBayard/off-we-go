@@ -98,3 +98,11 @@
 ## 2026-10-21 (later): version control
 - `git init` (branch main), initial commit, pushed to private GitHub repo https://github.com/AnubhavBayard/off-we-go (node_modules, dist, android build output, local.properties ignored).
 - Next: Supabase cloud backup for memories (needs user's Supabase project URL + anon key).
+
+## 2026-10-21 (later): Supabase backup
+- Supabase project "Off we goooo" (ref smbywxloqusoasormzgg). Publishable key in `app/src/cloud.ts` (safe to ship; RLS protects data).
+- Ran `app/supabase/setup.sql` via Management API: `memories` table with RLS (own rows only), private `photos` bucket (5 MB, JPEG) with per-user folder policy. Verified: 2 policies, RLS on, bucket private.
+- App: email OTP sign-in (`/account` page), local-first memories with `synced` flag; `syncMemories()` uploads unsynced photos+rows and pulls memories from other devices; runs on app start, after each new memory, after sign-in. Delete removes cloud copy when signed in.
+- Blocker: custom email templates blocked on free tier with default email provider. Default email may only contain a magic link (no code). Default OTP length is 8. Built-in email limit: 2 emails/hour.
+- Fix if needed: set up custom SMTP (e.g. Resend free tier), then template with `{{ .Token }}`.
+- Personal access token used for setup: user must revoke after setup.
