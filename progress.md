@@ -114,3 +114,18 @@
 
 ## 2026-10-21 (later): data fixing
 - Created `data-fixes/places_to_check.csv` (82 places: 45 no location, 25 approximate, 12 exact to confirm; each with Google Maps search link) and `data-fixes/dishes_without_places.csv` (9 dishes). User fills in coords/status; Claude imports into `app/src/data/restaurants_*.json` (set `location_exact`, `verified`, remove closed).
+
+## 2026-10-21: WRAP-UP (session end)
+**Working now**
+- Android app "Off We Go" (Capacitor + React + Vite) installed on user's Realme phone: dish guide (48 Odia dishes), restaurant map (82 places, 37 pinned), photo memories, World Memory Map, Supabase cloud backup via email login link.
+- Code on GitHub (private): https://github.com/AnubhavBayard/off-we-go
+- Supabase project ref `smbywxloqusoasormzgg` (Mumbai). Schema in `app/supabase/setup.sql`.
+
+**Open items**
+1. User filling `data-fixes/places_to_check.csv` + `data-fixes/dishes_without_places.csv`. On "import fixes": apply coords/status to `app/src/data/restaurants_*.json`, set `verified`/`location_exact`, drop closed, rebuild APK.
+2. User to revoke Supabase personal access token `claude-setup` (no longer needed).
+3. Later: app icon + final name, offline map packs (PMTiles), timeline view, privacy policy/terms before sharing widely, custom SMTP (Resend) if login emails hit 2/hour limit.
+- No Play Store for now; share APK directly.
+
+**Rebuild + install**
+`cd app && nvm use 22 && npm run build && npx cap sync android && cd android && ANDROID_HOME=~/Android/Sdk ./gradlew assembleDebug && ~/Android/Sdk/platform-tools/adb install -r app/build/outputs/apk/debug/app-debug.apk`
