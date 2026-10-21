@@ -1,13 +1,12 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { supabase, useSession } from '../cloud'
+import { LOGIN_REDIRECT, supabase, useSession } from '../cloud'
 import { syncMemories, useMemories } from '../memories'
 
 export default function Account() {
   const session = useSession()
   const memories = useMemories()
   const [email, setEmail] = useState('')
-  const [code, setCode] = useState('')
   const [sent, setSent] = useState(false)
   const [busy, setBusy] = useState(false)
   const [msg, setMsg] = useState('')
@@ -22,19 +21,12 @@ export default function Account() {
     }
   }
 
-  const sendCode = () =>
+  const sendLink = () =>
     run(async () => {
-      const { error } = await supabase.auth.signInWithOtp({ email: email.trim() })
+      const { error } = await supabase.auth.signInWithOtp({ email: email.trim(), options: { emailRedirectTo: LOGIN_REDIRECT } })
       if (error) return error.message
       setSent(true)
-      return 'Code sent. Check your email (and spam folder).'
-    })
-
-  const verify = () =>
-    run(async () => {
-      const { error } = await supabase.auth.verifyOtp({ email: email.trim(), token: code.trim(), type: 'email' })
-      if (error) return error.message
-      return (await syncMemories()) ?? 'Signed in. Your memories are backed up.'
+      return null
     })
 
   const unsynced = memories?.filter((m) => !m.synced).length ?? 0
@@ -60,19 +52,14 @@ export default function Account() {
             Email
             <input className="search" type="email" autoComplete="email" value={email} onChange={(e) => setEmail(e.target.value)} disabled={sent} />
           </label>
-          {sent && (
-            <label className="field">
-              Code from the email
-              <input className="search" inputMode="numeric" autoComplete="one-time-code" value={code} onChange={(e) => setCode(e.target.value)} />
-            </label>
-          )}
           {!sent ? (
-            <button className="btn primary" disabled={busy || !email.includes('@')} onClick={sendCode}>Send code</button>
+            <button className="btn primary" disabled={busy || !email.includes('@')} onClick={sendLink}>Send login link</button>
           ) : (
-            <div className="row">
-              <button className="btn primary" disabled={busy || code.trim().length < 6} onClick={verify}>Verify</button>
-              <button className="btn" disabled={busy} onClick={() => { setSent(false); setCode('') }}>Change email</button>
-            </div>
+            <>
+              <p>Login link sent to <b>{email.trim()}</b>. Open that email <b>on this phone</b> and tap the link. It brings you back here signed in.</p>
+              <p className="muted small">Not there? Check spam. You can request a new link after a few minutes.</p>
+              <button className="btn" disabled={busy} onClick={() => setSent(false)}>Use a different email</button>
+            </>
           )}
         </>
       )}

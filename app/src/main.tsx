@@ -10,6 +10,7 @@ import Memories from './pages/Memories'
 import AddMemory from './pages/AddMemory'
 import Account from './pages/Account'
 import { syncMemories } from './memories'
+import { listenForLoginLinks } from './cloud'
 
 function App() {
   return (
@@ -36,6 +37,12 @@ function App() {
 
 // Upload anything saved offline last time.
 void syncMemories()
+
+listenForLoginLinks((error) => {
+  if (error) return alert(`Sign-in failed: ${error}`)
+  location.hash = '#/account'
+  void syncMemories()
+})
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
