@@ -110,3 +110,4 @@
 - Verified on phone: `com.offwego.app://login?...` opens the app and reaches the handler. Real email-link sign-in still to be tested by user (link must be opened on same phone).
 - User signed in via email link on phone. Verified on device: existing Sundargarh memory now `synced: true` (photo uploaded to `photos` bucket + row upserted; only possible when authenticated under RLS). Cloud backup works end to end.
 - Setup access token no longer needed: user to revoke it at supabase.com/dashboard/account/tokens.
+- Decision: no Play Store release for now. Testing via direct APK install.
