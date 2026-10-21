@@ -111,3 +111,6 @@
 - User signed in via email link on phone. Verified on device: existing Sundargarh memory now `synced: true` (photo uploaded to `photos` bucket + row upserted; only possible when authenticated under RLS). Cloud backup works end to end.
 - Setup access token no longer needed: user to revoke it at supabase.com/dashboard/account/tokens.
 - Decision: no Play Store release for now. Testing via direct APK install.
+
+## 2026-10-21 (later): data fixing
+- Created `data-fixes/places_to_check.csv` (82 places: 45 no location, 25 approximate, 12 exact to confirm; each with Google Maps search link) and `data-fixes/dishes_without_places.csv` (9 dishes). User fills in coords/status; Claude imports into `app/src/data/restaurants_*.json` (set `location_exact`, `verified`, remove closed).
