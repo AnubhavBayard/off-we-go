@@ -94,3 +94,7 @@
 - Verified on device: dish list (Odia script renders), map tab with restaurant pins (exact + approximate). Logcat warnings are harmless OpenFreeMap style filter notices.
 - Not yet tested on device: camera capture, GPS "Near me", saving memories (need user to tap through permission prompts).
 - User tested on device: camera + location permissions granted; memory saved with GPS, reverse-geocoded to Sundargarh, India. Core loop works on real phone.
+
+## 2026-10-21 (later): version control
+- `git init` (branch main), initial commit, pushed to private GitHub repo https://github.com/AnubhavBayard/off-we-go (node_modules, dist, android build output, local.properties ignored).
+- Next: Supabase cloud backup for memories (needs user's Supabase project URL + anon key).
