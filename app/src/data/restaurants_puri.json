@@ -1,0 +1,661 @@
+{
+  "restaurants": [
+    {
+      "id": "puri-dalma",
+      "name": "Dalma",
+      "city": "Puri",
+      "area": "VIP Road",
+      "address": "VIP Rd, near Puri Fire Station, Puri 752001",
+      "lat": 19.8088531,
+      "lng": 85.8321762,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dalma%2C%20VIP%20Road%2C%20Puri%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://wanderlog.com/place/details/1453969",
+        "https://wanderlog.com/list/geoCategory/761683",
+        "https://moha-mushkil.com/a-gastronomic-tour-in-puri/"
+      ],
+      "verified": false,
+      "location_exact": true
+    },
+    {
+      "id": "puri-wildgrass",
+      "name": "Wildgrass Restaurant",
+      "city": "Puri",
+      "area": "VIP Road",
+      "address": "VIP Road, next to Hotel Lee Garden, Puri 752001",
+      "lat": 19.8019311,
+      "lng": 85.8316884,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Wildgrass%20Restaurant%2C%20VIP%20Road%2C%20Puri%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/761683",
+        "https://wanderlog.com/list/geoCategory/206756",
+        "https://www.lonelyplanet.com/pois/479162"
+      ],
+      "verified": false,
+      "location_exact": true
+    },
+    {
+      "id": "puri-amo-odisha",
+      "name": "Amo Odisha (Sterling Puri)",
+      "city": "Puri",
+      "area": "Sipasurubili",
+      "address": "Ground Floor, 255/2 & 255/3, Subrata Sarkar Rd, Sterling Puri, Sipasurubili, Puri 752001",
+      "lat": 19.7828046,
+      "lng": 85.7818427,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Amo%20Odisha%20%28Sterling%20Puri%29%2C%20Sipasurubili%2C%20Puri%2C%20Odisha",
+      "price_level": 3,
+      "source_urls": [
+        "https://www.bindugopalrao.com/?p=23605",
+        "https://wanderlog.com/place/details/10157659"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "puri-kakatua-mistanna-bhandar",
+      "name": "Kakatua Mistanna Bhandar",
+      "city": "Puri",
+      "area": "Swargadwar",
+      "address": "Opposite Arabinda Dham, near Swargadwar Sea Beach, Puri",
+      "lat": 19.7934666,
+      "lng": 85.8161621,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kakatua%20Mistanna%20Bhandar%2C%20Swargadwar%2C%20Puri%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://www.odiasamaj.org/blog/post/savour-puri-s-flavours-at-kakatua-mistanna-bhandar6934017a8ee92",
+        "https://www.explurger.com/pd/4tsutrj5ehw1sfmve",
+        "https://apps.odishatourism.gov.in/blog-detail/a-short-trip-to-a-sweets-wonderland-in-odisha",
+        "https://moha-mushkil.com/a-gastronomic-tour-in-puri/"
+      ],
+      "verified": false,
+      "location_exact": true
+    },
+    {
+      "id": "puri-original-nrusingha-sweets",
+      "name": "Original Nrusingha Sweets",
+      "city": "Puri",
+      "area": "Khaja Patty (Balisahi), near temple south gate",
+      "address": "Khaja Lane, Balisahi, Puri",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Original%20Nrusingha%20Sweets%2C%20Khaja%20Patty%20%28Balisahi%29%2C%20near%20temple%20south%20gate%2C%20Puri%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/puri-food-tour/",
+        "https://moha-mushkil.com/a-gastronomic-tour-in-puri/",
+        "https://apps.odishatourism.gov.in/blog-detail/a-short-trip-to-a-sweets-wonderland-in-odisha"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "puri-puri-cheesecake-bikram-sahoo",
+      "name": "Puri Cheesecake (Bikram Sahoo's chhena poda shop)",
+      "city": "Puri",
+      "area": "Temple Road",
+      "address": "Temple Rd, next to Jagannath Pump House, Puri",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Puri%20Cheesecake%20%28Bikram%20Sahoo%27s%20chhena%20poda%20shop%29%2C%20Temple%20Road%2C%20Puri%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://www.lonelyplanet.com/pois/1284578"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "puri-murari-chhena-poda",
+      "name": "Murari's chhena poda shop (unnamed)",
+      "city": "Puri",
+      "area": "Lane opposite Jagannath Temple main entrance",
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Murari%27s%20chhena%20poda%20shop%20%28unnamed%29%2C%20Lane%20opposite%20Jagannath%20Temple%20main%20entrance%2C%20Puri%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://moha-mushkil.com/a-gastronomic-tour-in-puri/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "puri-ananda-bazar",
+      "name": "Ananda Bazar (Jagannath Temple)",
+      "city": "Puri",
+      "area": "Jagannath Temple, Grand Road",
+      "address": "Inside Shree Jagannath Temple complex, Grand Road, Puri",
+      "lat": 19.8047726,
+      "lng": 85.8180811,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ananda%20Bazar%20%28Jagannath%20Temple%29%2C%20Jagannath%20Temple%2C%20Grand%20Road%2C%20Puri%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Mahaprasad_(Jagannath_Temple)",
+        "https://en.wikipedia.org/wiki/Tanka_torani",
+        "https://blog.delhifoodwalks.com/puri-food-tour/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "puri-bada-danda-stalls",
+      "name": "Bada Danda (Grand Road) street stalls",
+      "city": "Puri",
+      "area": "Bada Danda / Grand Road",
+      "address": "Grand Road, Puri",
+      "lat": 19.8067087,
+      "lng": 85.8212349,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bada%20Danda%20%28Grand%20Road%29%20street%20stalls%2C%20Bada%20Danda%20/%20Grand%20Road%2C%20Puri%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://www.hidmc.com/blog-posts/regional-street-food-spotlight-odisha"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "puri-beach-morning-stalls",
+      "name": "Puri Beach morning stalls",
+      "city": "Puri",
+      "area": "Sea Beach / Swargadwar",
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Puri%20Beach%20morning%20stalls%2C%20Sea%20Beach%20/%20Swargadwar%2C%20Puri%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://www.hidmc.com/blog-posts/regional-street-food-spotlight-odisha",
+        "https://blog.delhifoodwalks.com/puri-food-tour/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "puri-fishermans-kitchen",
+      "name": "The Fisherman's Kitchen Bar and Restaurant",
+      "city": "Puri",
+      "area": "New Marine Drive Road",
+      "address": "New Marine Drive Rd, near Jagannath Temple Road, Puri 752001",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Fisherman%27s%20Kitchen%20Bar%20and%20Restaurant%2C%20New%20Marine%20Drive%20Road%2C%20Puri%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/206756"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "puri-smoke-house-pramod",
+      "name": "Smoke House (Pramod Convention & Beach Resort)",
+      "city": "Puri",
+      "area": "Chakra Tirtha Road",
+      "address": "Pramod Convention & Beach Resorts, Chakra Tirtha Rd, opp. RTO office, Badasirei, Puri 752002",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Smoke%20House%20%28Pramod%20Convention%20%26%20Beach%20Resort%29%2C%20Chakra%20Tirtha%20Road%2C%20Puri%2C%20Odisha",
+      "price_level": 3,
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/206756"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "puri-song-of-bengal",
+      "name": "Song of Bengal Restaurant (Hotel Pulin Puri)",
+      "city": "Puri",
+      "area": "Sea Beach Road",
+      "address": "Hotel Pulin Puri, Sea Beach Rd, Puri 752001",
+      "lat": 19.7936808,
+      "lng": 85.8196609,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Song%20of%20Bengal%20Restaurant%20%28Hotel%20Pulin%20Puri%29%2C%20Sea%20Beach%20Road%2C%20Puri%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/761683",
+        "https://wanderlog.com/list/geoCategory/206756"
+      ],
+      "verified": false,
+      "location_exact": true
+    },
+    {
+      "id": "puri-padmalaya-chandanpur",
+      "name": "Hotel Padmalaya",
+      "city": "Puri",
+      "area": "Chandanpur",
+      "address": "Bhubaneswar-Puri Highway, Chandanpur, Puri 752012",
+      "lat": 19.8879258,
+      "lng": 85.8182042,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Padmalaya%2C%20Chandanpur%2C%20Puri%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/puri-food-tour/"
+      ],
+      "verified": false,
+      "location_exact": true
+    },
+    {
+      "id": "puri-patitapaban-sweets-nimapada",
+      "name": "Patitapaban Sweets (Aratabandhu Sahu's chhena jhili shop)",
+      "city": "Konark",
+      "area": "Nimapada",
+      "address": "Bhubaneswar-Pipili-Konark road, Nimapada",
+      "lat": 20.0513658,
+      "lng": 85.9962992,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Patitapaban%20Sweets%20%28Aratabandhu%20Sahu%27s%20chhena%20jhili%20shop%29%2C%20Nimapada%2C%20Konark%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/puri-food-tour/",
+        "https://odishabytes.com/chhena-jhilli-delicacy-draws-tourists-to-nimapara/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "puri-chilika-dhaba",
+      "name": "Chilika Dhaba",
+      "city": "Chilika",
+      "area": "Barkul",
+      "address": "NH16, Barkul",
+      "lat": 19.7140702,
+      "lng": 85.1881364,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chilika%20Dhaba%2C%20Barkul%2C%20Chilika%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/",
+        "https://www.explurger.com/pd/7wwepnjm6okafpots"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "puri-otdc-panthanivas-barkul",
+      "name": "OTDC Panthanivas Barkul restaurant",
+      "city": "Chilika",
+      "area": "Barkul",
+      "address": "OTDC Panthanivas, Dhana Road, Barkul, Balugaon",
+      "lat": 19.7053752,
+      "lng": 85.1903718,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=OTDC%20Panthanivas%20Barkul%20restaurant%2C%20Barkul%2C%20Chilika%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://www.ghumakkar.com/rambha-and-barkul-the-flavours-of-chilka/"
+      ],
+      "verified": false,
+      "location_exact": true
+    },
+    {
+      "id": "puri-otdc-panthanivas-rambha",
+      "name": "OTDC Panthanivas Rambha restaurant",
+      "city": "Chilika",
+      "area": "Rambha",
+      "address": "OTDC Panthanivas, NH16, Rambha, Ganjam",
+      "lat": 19.5146766,
+      "lng": 85.0933351,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=OTDC%20Panthanivas%20Rambha%20restaurant%2C%20Rambha%2C%20Chilika%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://www.ghumakkar.com/rambha-and-barkul-the-flavours-of-chilka/"
+      ],
+      "verified": false,
+      "location_exact": true
+    },
+    {
+      "id": "puri-satapada-seafood-eateries",
+      "name": "Satapada roadside seafood eateries",
+      "city": "Chilika",
+      "area": "Satapada",
+      "address": null,
+      "lat": 19.6691882,
+      "lng": 85.4436346,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Satapada%20roadside%20seafood%20eateries%2C%20Satapada%2C%20Chilika%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://rangan-datta.info/Satpada.htm"
+      ],
+      "verified": false,
+      "location_exact": false
+    }
+  ],
+  "links": [
+    {
+      "dish_id": "dalma",
+      "restaurant_id": "puri-dalma",
+      "note": "Namesake dish; reviewers recommend the masala dalma and veg thali",
+      "source_urls": [
+        "https://wanderlog.com/place/details/1453969",
+        "https://moha-mushkil.com/a-gastronomic-tour-in-puri/"
+      ]
+    },
+    {
+      "dish_id": "kankada-jhola",
+      "restaurant_id": "puri-dalma",
+      "note": "Kankada tarkari (crab curry) on the menu",
+      "source_urls": [
+        "https://wanderlog.com/place/details/1453969",
+        "https://wanderlog.com/list/geoCategory/761683"
+      ]
+    },
+    {
+      "dish_id": "mutton-kasa",
+      "restaurant_id": "puri-dalma",
+      "note": "Mutton kosha",
+      "source_urls": [
+        "https://wanderlog.com/place/details/1453969",
+        "https://moha-mushkil.com/a-gastronomic-tour-in-puri/"
+      ]
+    },
+    {
+      "dish_id": "dalma",
+      "restaurant_id": "puri-wildgrass",
+      "note": "Dalma in the Odisha thali",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/761683"
+      ]
+    },
+    {
+      "dish_id": "kankada-jhola",
+      "restaurant_id": "puri-wildgrass",
+      "note": "Lonely Planet praises its Chilika crab curry; reviewers rate the crab highly",
+      "source_urls": [
+        "https://www.lonelyplanet.com/pois/479162",
+        "https://wanderlog.com/list/geoCategory/206756"
+      ]
+    },
+    {
+      "dish_id": "dalma",
+      "restaurant_id": "puri-amo-odisha",
+      "note": "Dalma (lentils with drumstick, papaya, raw banana) in the veg thali",
+      "source_urls": [
+        "https://www.bindugopalrao.com/?p=23605"
+      ]
+    },
+    {
+      "dish_id": "badi-chura",
+      "restaurant_id": "puri-amo-odisha",
+      "note": "Vadi chura in the veg thali",
+      "source_urls": [
+        "https://www.bindugopalrao.com/?p=23605"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "puri-amo-odisha",
+      "note": "Charcoal-baked chhena poda for dessert",
+      "source_urls": [
+        "https://www.bindugopalrao.com/?p=23605",
+        "https://wanderlog.com/place/details/10157659"
+      ]
+    },
+    {
+      "dish_id": "khaja",
+      "restaurant_id": "puri-kakatua-mistanna-bhandar",
+      "note": "Best known for khaja",
+      "source_urls": [
+        "https://www.odiasamaj.org/blog/post/savour-puri-s-flavours-at-kakatua-mistanna-bhandar6934017a8ee92",
+        "https://apps.odishatourism.gov.in/blog-detail/a-short-trip-to-a-sweets-wonderland-in-odisha",
+        "https://moha-mushkil.com/a-gastronomic-tour-in-puri/"
+      ]
+    },
+    {
+      "dish_id": "rabidi",
+      "restaurant_id": "puri-kakatua-mistanna-bhandar",
+      "note": "Sells rabri",
+      "source_urls": [
+        "https://www.odiasamaj.org/blog/post/savour-puri-s-flavours-at-kakatua-mistanna-bhandar6934017a8ee92"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "puri-kakatua-mistanna-bhandar",
+      "note": "Listed as celebrated for chhena poda",
+      "source_urls": [
+        "https://www.explurger.com/pd/4tsutrj5ehw1sfmve"
+      ]
+    },
+    {
+      "dish_id": "rasagola",
+      "restaurant_id": "puri-kakatua-mistanna-bhandar",
+      "note": "Listed as celebrated for rasagola",
+      "source_urls": [
+        "https://www.explurger.com/pd/4tsutrj5ehw1sfmve"
+      ]
+    },
+    {
+      "dish_id": "khaja",
+      "restaurant_id": "puri-original-nrusingha-sweets",
+      "note": "Oldest khaja shop on Khaja Lane (est. 1945); sells out early",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/puri-food-tour/",
+        "https://moha-mushkil.com/a-gastronomic-tour-in-puri/",
+        "https://apps.odishatourism.gov.in/blog-detail/a-short-trip-to-a-sweets-wonderland-in-odisha"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "puri-puri-cheesecake-bikram-sahoo",
+      "note": "Family chhena poda shop for 45+ years",
+      "source_urls": [
+        "https://www.lonelyplanet.com/pois/1284578"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "puri-murari-chhena-poda",
+      "note": "Fresh chhena poda around 6:15-6:30 PM, sells out by 8 PM",
+      "source_urls": [
+        "https://moha-mushkil.com/a-gastronomic-tour-in-puri/"
+      ]
+    },
+    {
+      "dish_id": "khiri",
+      "restaurant_id": "puri-murari-chhena-poda",
+      "note": "Also sells kheer and malai",
+      "source_urls": [
+        "https://moha-mushkil.com/a-gastronomic-tour-in-puri/"
+      ]
+    },
+    {
+      "dish_id": "mahaprasad",
+      "restaurant_id": "puri-ananda-bazar",
+      "note": "Cooked Mahaprasad sold and eaten here",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Mahaprasad_(Jagannath_Temple)",
+        "https://blog.delhifoodwalks.com/puri-food-tour/"
+      ]
+    },
+    {
+      "dish_id": "khechudi",
+      "restaurant_id": "puri-ananda-bazar",
+      "note": "Khechudi is among the cooked Mahaprasad items",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Mahaprasad_(Jagannath_Temple)"
+      ]
+    },
+    {
+      "dish_id": "besara",
+      "restaurant_id": "puri-ananda-bazar",
+      "note": "Besara is among the cooked Mahaprasad items",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Mahaprasad_(Jagannath_Temple)"
+      ]
+    },
+    {
+      "dish_id": "pakhala-bhata",
+      "restaurant_id": "puri-ananda-bazar",
+      "note": "Pakhala is among the cooked Mahaprasad items",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Mahaprasad_(Jagannath_Temple)"
+      ]
+    },
+    {
+      "dish_id": "dalma",
+      "restaurant_id": "puri-ananda-bazar",
+      "note": "Dalma is a staple of the temple kitchen",
+      "source_urls": [
+        "https://villagesquare.in/the-delicious-dishes-you-must-try-during-the-puri-rath-yatra/",
+        "https://en.wikipedia.org/wiki/Mahaprasad_(Jagannath_Temple)"
+      ]
+    },
+    {
+      "dish_id": "kanika",
+      "restaurant_id": "puri-ananda-bazar",
+      "note": "Kanika is part of the Mahaprasad; check availability on the day",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kanika_(food)",
+        "https://en.wikipedia.org/wiki/Mahaprasad_(Jagannath_Temple)"
+      ]
+    },
+    {
+      "dish_id": "tanka-torani",
+      "restaurant_id": "puri-ananda-bazar",
+      "note": "Tanka torani sold at Ananda Bazar, peak in summer",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Tanka_torani"
+      ]
+    },
+    {
+      "dish_id": "gupchup",
+      "restaurant_id": "puri-bada-danda-stalls",
+      "note": "Gupchup; ask for sukha gupchup at the end",
+      "source_urls": [
+        "https://www.hidmc.com/blog-posts/regional-street-food-spotlight-odisha"
+      ]
+    },
+    {
+      "dish_id": "malpua-amalu",
+      "restaurant_id": "puri-bada-danda-stalls",
+      "note": "Temple-style malpua",
+      "source_urls": [
+        "https://www.hidmc.com/blog-posts/regional-street-food-spotlight-odisha"
+      ]
+    },
+    {
+      "dish_id": "khaja",
+      "restaurant_id": "puri-bada-danda-stalls",
+      "note": "Temple-style khaja",
+      "source_urls": [
+        "https://www.hidmc.com/blog-posts/regional-street-food-spotlight-odisha"
+      ]
+    },
+    {
+      "dish_id": "khechudi",
+      "restaurant_id": "puri-bada-danda-stalls",
+      "note": "Temple-style khichdi",
+      "source_urls": [
+        "https://www.hidmc.com/blog-posts/regional-street-food-spotlight-odisha"
+      ]
+    },
+    {
+      "dish_id": "bara-ghugni",
+      "restaurant_id": "puri-beach-morning-stalls",
+      "note": "Bara ghuguni for breakfast with chai",
+      "source_urls": [
+        "https://www.hidmc.com/blog-posts/regional-street-food-spotlight-odisha"
+      ]
+    },
+    {
+      "dish_id": "chingudi-jhola",
+      "restaurant_id": "puri-fishermans-kitchen",
+      "note": "Chingudi jhola and fresh prawns",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/206756"
+      ]
+    },
+    {
+      "dish_id": "pakhala-bhata",
+      "restaurant_id": "puri-smoke-house-pramod",
+      "note": "Pakhala on the menu",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/206756"
+      ]
+    },
+    {
+      "dish_id": "chingudi-malai",
+      "restaurant_id": "puri-song-of-bengal",
+      "note": "Chingri malai curry",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/761683",
+        "https://wanderlog.com/list/geoCategory/206756"
+      ]
+    },
+    {
+      "dish_id": "dalma",
+      "restaurant_id": "puri-padmalaya-chandanpur",
+      "note": "Chura kadamba with dalma for breakfast",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/puri-food-tour/"
+      ]
+    },
+    {
+      "dish_id": "rabidi",
+      "restaurant_id": "puri-padmalaya-chandanpur",
+      "note": "Chura served with rabri and chhena",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/puri-food-tour/"
+      ]
+    },
+    {
+      "dish_id": "chhena-jhili",
+      "restaurant_id": "puri-patitapaban-sweets-nimapada",
+      "note": "Shop of the Sahu family credited with chhena jhili",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/puri-food-tour/",
+        "https://odishabytes.com/chhena-jhilli-delicacy-draws-tourists-to-nimapara/"
+      ]
+    },
+    {
+      "dish_id": "chingudi-jhola",
+      "restaurant_id": "puri-chilika-dhaba",
+      "note": "Chingudi jhola (prawn curry)",
+      "source_urls": [
+        "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/"
+      ]
+    },
+    {
+      "dish_id": "kankada-jhola",
+      "restaurant_id": "puri-chilika-dhaba",
+      "note": "Kankada jhola (crab curry); reviewers call the crab the star",
+      "source_urls": [
+        "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/",
+        "https://www.explurger.com/pd/7wwepnjm6okafpots"
+      ]
+    },
+    {
+      "dish_id": "chingudi-jhola",
+      "restaurant_id": "puri-otdc-panthanivas-barkul",
+      "note": "Prawn curry",
+      "source_urls": [
+        "https://www.ghumakkar.com/rambha-and-barkul-the-flavours-of-chilka/"
+      ]
+    },
+    {
+      "dish_id": "chingudi-malai",
+      "restaurant_id": "puri-otdc-panthanivas-rambha",
+      "note": "Prawn malai curry",
+      "source_urls": [
+        "https://www.ghumakkar.com/rambha-and-barkul-the-flavours-of-chilka/"
+      ]
+    },
+    {
+      "dish_id": "kankada-jhola",
+      "restaurant_id": "puri-otdc-panthanivas-rambha",
+      "note": "Crab masala (not strictly a jhola)",
+      "source_urls": [
+        "https://www.ghumakkar.com/rambha-and-barkul-the-flavours-of-chilka/"
+      ]
+    },
+    {
+      "dish_id": "kankada-jhola",
+      "restaurant_id": "puri-satapada-seafood-eateries",
+      "note": "Makeshift eateries serving Chilika crab and prawn; preparation varies",
+      "source_urls": [
+        "https://rangan-datta.info/Satpada.htm"
+      ]
+    }
+  ]
+}

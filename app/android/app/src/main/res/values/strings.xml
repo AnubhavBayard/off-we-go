@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Off We Go</string>
+    <string name="title_activity_main">Off We Go</string>
+    <string name="package_name">com.offwego.app</string>
+    <string name="custom_url_scheme">com.offwego.app</string>
+</resources>

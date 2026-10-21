@@ -1,0 +1,1295 @@
+{
+  "restaurants": [
+    {
+      "id": "bbsr-dalma-unit-4",
+      "name": "Dalma",
+      "city": "Bhubaneswar",
+      "area": "Madhusudan Nagar (Unit 4)",
+      "address": "Unit 4, Sachivalaya Marg, Madhusudan Nagar, Bhubaneswar 751022",
+      "lat": 20.2839853,
+      "lng": 85.8346924,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dalma%2C%20Madhusudan%20Nagar%20%28Unit%204%29%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://www.outlooktraveller.com/experiences/food-and-drink/places-to-visit-in-bhubaneswar-for-the-best-food",
+        "https://wanderlog.com/list/geoCategory/1557076/",
+        "https://wanderlog.com/place/details/1138918",
+        "https://veenaworld.com/blog/best-restaurant-bhubaneswar",
+        "https://odishabytes.com/savour-pakhala-at-these-joints-in-bhubaneswar-cuttack/"
+      ],
+      "verified": false,
+      "location_exact": true
+    },
+    {
+      "id": "bbsr-kanika-mayfair-lagoon",
+      "name": "Kanika (Mayfair Lagoon)",
+      "city": "Bhubaneswar",
+      "area": "Jayadev Vihar",
+      "address": "Shop No 2, Lagoon, Mayfair Lagoon Rd, Jayadev Vihar, Bhubaneswar 751013",
+      "lat": 20.2953226,
+      "lng": 85.8248421,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kanika%20%28Mayfair%20Lagoon%29%2C%20Jayadev%20Vihar%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 3,
+      "source_urls": [
+        "https://www.eazydiner.com/food-trends/bhubaneswar-restaurants-the-complete-2026-guide-to-odia-thalis-buffets-rooftops-and-budget-meals",
+        "https://www.eazydiner.com/bhubaneswar/kanika-mayfair-lagoon-bhubaneswar-695976",
+        "https://wanderlog.com/list/geoCategory/1557076/",
+        "https://veenaworld.com/blog/best-restaurant-bhubaneswar"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-odisha-hotel-saheed-nagar",
+      "name": "Odisha Hotel",
+      "city": "Bhubaneswar",
+      "area": "Saheed Nagar",
+      "address": "C, Market Building, 18, Saheed Nagar Rd, near BMC Bhawani Mall, Bhubaneswar 751007",
+      "lat": 20.2886824,
+      "lng": 85.8488154,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Odisha%20Hotel%2C%20Saheed%20Nagar%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://wanderlog.com/place/details/1536622",
+        "https://blog.delhifoodwalks.com/bhubaneswar-food-tour/",
+        "https://odishabytes.com/dig-into-chhadakhai-special-platter-in-bhubaneswar-chef-spills-secret-of-signature-odia-mutton-aloo-jhola/",
+        "https://wanderlog.com/list/geoCategory/1557076/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-michaels-kitchen-gajapati-nagar",
+      "name": "Michael's Kitchen",
+      "city": "Bhubaneswar",
+      "area": "Gajapati Nagar",
+      "address": "Near Sainik School Rd, Gajapati Nagar, Bhubaneswar 751013",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Michael%27s%20Kitchen%2C%20Gajapati%20Nagar%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/72366",
+        "https://odishabytes.com/savour-pakhala-at-these-joints-in-bhubaneswar-cuttack/",
+        "https://odishabytes.com/dig-into-chhadakhai-special-platter-in-bhubaneswar-chef-spills-secret-of-signature-odia-mutton-aloo-jhola/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-michaels-kitchen-jagamara",
+      "name": "Micheal's Kitchen (Jagamara)",
+      "city": "Bhubaneswar",
+      "area": "Jagamara",
+      "address": "Jagamara - Sundarpada Rd, Bhaktamadhu Nagar, Jagmohan Nagar, Bhubaneswar",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Micheal%27s%20Kitchen%20%28Jagamara%29%2C%20Jagamara%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://curlytales.com/web-stories/7-best-spots-to-have-chhena-poda-in-bhubaneswar/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-nimantran-otdc",
+      "name": "Nimantran (OTDC)",
+      "city": "Bhubaneswar",
+      "area": "Saheed Nagar",
+      "address": "Janpath Rd, Saheed Nagar, Bhubaneswar 751022",
+      "lat": 20.2886824,
+      "lng": 85.8488154,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nimantran%20%28OTDC%29%2C%20Saheed%20Nagar%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://wanderlog.com/place/details/7670320/nimantran-otdc-ltd",
+        "https://www.orissapost.com/pakhala-dibasa-odisha-marks-culinary-tradition-today/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-the-restaurant-trident",
+      "name": "The Restaurant, Trident",
+      "city": "Bhubaneswar",
+      "area": "Nayapalli",
+      "address": "First floor, Trident, CB-1, Nayapalli, Bhubaneswar 751013",
+      "lat": 20.3023658,
+      "lng": 85.8213822,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Restaurant%2C%20Trident%2C%20Nayapalli%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 3,
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1557076/"
+      ],
+      "verified": false,
+      "location_exact": true
+    },
+    {
+      "id": "bbsr-atithi-devo-bhaba",
+      "name": "Atithi Devo Bhaba Restaurant",
+      "city": "Bhubaneswar",
+      "area": "Saheed Nagar",
+      "address": "A/54, opposite Law University, Saheed Nagar, Bhubaneswar 751007",
+      "lat": 20.2886824,
+      "lng": 85.8488154,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Atithi%20Devo%20Bhaba%20Restaurant%2C%20Saheed%20Nagar%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1557076/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-odia-besara",
+      "name": "Odia Besara",
+      "city": "Bhubaneswar",
+      "area": "IRC Village",
+      "address": "Block N5, IRC Village, Nayapalli, Bhubaneswar 751015",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Odia%20Besara%2C%20IRC%20Village%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1557076/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-shohala-ana-odia",
+      "name": "Shohala Ana Odia",
+      "city": "Bhubaneswar",
+      "area": "Patia",
+      "address": "Near Lal Qila Restaurant, Sampark Vihar, Patia, Bhubaneswar 751024",
+      "lat": 20.3604502,
+      "lng": 85.8247661,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shohala%20Ana%20Odia%2C%20Patia%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://wanderlog.com/place/details/1536623/shohala-ana-odia",
+        "https://odishabytes.com/savour-pakhala-at-these-joints-in-bhubaneswar-cuttack/",
+        "https://blog.swiggy.com/food/uncovering-the-best-food-in-bhubaneswar/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-ram-mandir-tiffin-centre",
+      "name": "Ram Mandir Tiffin Centre",
+      "city": "Bhubaneswar",
+      "area": "Kharvela Nagar",
+      "address": "Ekamra Vihar, Kharvela Nagar, Bhubaneswar 751001",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ram%20Mandir%20Tiffin%20Centre%2C%20Kharvela%20Nagar%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1557076/",
+        "https://wanderlog.com/list/geoCategory/72366"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-lingaraj-lassi",
+      "name": "Lingaraj Lassi",
+      "city": "Bhubaneswar",
+      "area": "Saheed Nagar",
+      "address": "32, Saheed Nagar, Bhubaneswar 751007",
+      "lat": 20.2886824,
+      "lng": 85.8488154,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lingaraj%20Lassi%2C%20Saheed%20Nagar%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/bhubaneswar-food-tour/",
+        "https://wanderlog.com/place/details/2673188/lassi"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-rabi-mausa-bara-shop",
+      "name": "Rabi Mausa's Bara Shop",
+      "city": "Bhubaneswar",
+      "area": "Ganga Nagar (Unit 6)",
+      "address": "Unit 6, Ganga Nagar, Bhubaneswar",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rabi%20Mausa%27s%20Bara%20Shop%2C%20Ganga%20Nagar%20%28Unit%206%29%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/bhubaneswar-food-tour/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-nimapara-sweets",
+      "name": "Nimapara Sweets",
+      "city": "Bhubaneswar",
+      "area": "Bapuji Nagar",
+      "address": "217, Bapuji Nagar Main St, Bapuji Nagar, Bhubaneswar",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nimapara%20Sweets%2C%20Bapuji%20Nagar%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://curlytales.com/web-stories/7-best-spots-to-have-chhena-poda-in-bhubaneswar/",
+        "https://blog.delhifoodwalks.com/bhubaneswar-food-tour/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-venus-sweets",
+      "name": "Venus Sweets",
+      "city": "Bhubaneswar",
+      "area": "Gajapati Nagar",
+      "address": "7798, Sainik School Road, Gajapati Nagar, Bhubaneswar",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Venus%20Sweets%2C%20Gajapati%20Nagar%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://curlytales.com/web-stories/7-best-spots-to-have-chhena-poda-in-bhubaneswar/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-chhappan-bhog-bapuji-nagar",
+      "name": "Chhappan Bhog",
+      "city": "Bhubaneswar",
+      "area": "Bapuji Nagar",
+      "address": "3/5, Main Road, Bapuji Nagar, Bhubaneswar",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chhappan%20Bhog%2C%20Bapuji%20Nagar%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://curlytales.com/web-stories/7-best-spots-to-have-chhena-poda-in-bhubaneswar/",
+        "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar/top-culinary-delights-of-bhubaneswar"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-shree-cuttack-sweets-stall",
+      "name": "Shree Cuttack Sweets Stall",
+      "city": "Bhubaneswar",
+      "area": "Nayapalli (CRPF Square)",
+      "address": "Shopping Arcade, CRPF Square, Nayapalli, Bhubaneswar",
+      "lat": 20.2845723,
+      "lng": 85.8082248,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shree%20Cuttack%20Sweets%20Stall%2C%20Nayapalli%20%28CRPF%20Square%29%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://curlytales.com/web-stories/7-best-spots-to-have-chhena-poda-in-bhubaneswar/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-bikalananda-kar-patia",
+      "name": "Bikalananda Kar's Rasagola",
+      "city": "Bhubaneswar",
+      "area": "Patia",
+      "address": "KIIT College Road, Patia, Bhubaneswar",
+      "lat": 20.3604502,
+      "lng": 85.8247661,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bikalananda%20Kar%27s%20Rasagola%2C%20Patia%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://curlytales.com/web-stories/7-best-spots-to-have-chhena-poda-in-bhubaneswar/",
+        "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar/top-culinary-delights-of-bhubaneswar"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-tarini-mistan-bhandar-pahala",
+      "name": "Tarini Mistan Bhandar",
+      "city": "Bhubaneswar",
+      "area": "Pahala",
+      "address": "Pahala, NH16 (Bhubaneswar-Cuttack road)",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tarini%20Mistan%20Bhandar%2C%20Pahala%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://odishabytes.com/soft-tasty-union-minister-shivraj-singh-chouhan-savours-odishas-pahala-rasagola/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-sunya-mandira-sweets-pahala",
+      "name": "Sunya Mandira Sweets Shop",
+      "city": "Bhubaneswar",
+      "area": "Pahala",
+      "address": "Pahala, NH16 (Bhubaneswar-Cuttack road)",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sunya%20Mandira%20Sweets%20Shop%2C%20Pahala%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://apps.odishatourism.gov.in/blog-detail/a-short-trip-to-a-sweets-wonderland-in-odisha"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-mo-pitha",
+      "name": "Mo Pitha",
+      "city": "Bhubaneswar",
+      "area": "Saheed Nagar",
+      "address": "Plot no B-55, Saheed Nagar, Bhubaneswar 751007",
+      "lat": 20.2886824,
+      "lng": 85.8488154,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mo%20Pitha%2C%20Saheed%20Nagar%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://wanderlog.com/place/details/12149616/mo-pitha"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-ek-no-hata-kakara-pitha",
+      "name": "Ek No Hata kakara pitha shop (Trinath Sahoo)",
+      "city": "Bhubaneswar",
+      "area": "Unit 1 Market",
+      "address": "Unit 1 Market, Bhubaneswar",
+      "lat": 20.2596587,
+      "lng": 85.8309108,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ek%20No%20Hata%20kakara%20pitha%20shop%20%28Trinath%20Sahoo%29%2C%20Unit%201%20Market%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://curlytales.com/chef-saransh-goila-found-a-50-yo-bhubaneswar-shop-selling-kakara-pitha-a-classic-odia-delicacy/amp/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-kalia-sahu-bara-ghuguni",
+      "name": "Kalia Sahu Bara Ghuguni",
+      "city": "Bhubaneswar",
+      "area": "Rasulgarh",
+      "address": "846/A-H, Cuttack-Puri Rd, Nigamananda Nagar, Rasulgarh, Bhubaneswar 751010",
+      "lat": 20.2955804,
+      "lng": 85.8576146,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kalia%20Sahu%20Bara%20Ghuguni%2C%20Rasulgarh%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://wanderlog.com/place/details/9994894/kalia-sahu-bara-ghuguni"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-ananta-vasudeva-temple",
+      "name": "Ananta Vasudeva Temple (Chappan Bhog)",
+      "city": "Bhubaneswar",
+      "area": "Old Town",
+      "address": "Near Bindusagar Lake, Old Town, Bhubaneswar",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ananta%20Vasudeva%20Temple%20%28Chappan%20Bhog%29%2C%20Old%20Town%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://visit.bhubaneswar.me/temple-cuisine",
+        "https://blog.delhifoodwalks.com/bhubaneswar-food-tour/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-ekamra-haat",
+      "name": "Ekamra Haat",
+      "city": "Bhubaneswar",
+      "area": "Unit 3",
+      "address": "Madhusudan Marg, Unit 3, Ekamra Vihar, Bhubaneswar 751001",
+      "lat": 20.2771118,
+      "lng": 85.8402838,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ekamra%20Haat%2C%20Unit%203%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": null,
+      "source_urls": [
+        "https://wanderlog.com/place/details/1723076/ekamra-haat"
+      ],
+      "verified": false,
+      "location_exact": true
+    },
+    {
+      "id": "bbsr-food-exchange-novotel",
+      "name": "Food Exchange (Novotel)",
+      "city": "Bhubaneswar",
+      "area": "Satya Nagar",
+      "address": "Novotel Hotel Bhubaneswar, Satya Nagar",
+      "lat": 20.2752608,
+      "lng": 85.8531761,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Food%20Exchange%20%28Novotel%29%2C%20Satya%20Nagar%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 3,
+      "source_urls": [
+        "https://www.eazydiner.com/food-trends/bhubaneswar-restaurants-the-complete-2026-guide-to-odia-thalis-buffets-rooftops-and-budget-meals"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-narula-sweets-baramunda",
+      "name": "Narula Sweets",
+      "city": "Bhubaneswar",
+      "area": "Baramunda",
+      "address": "Krusi Vihar St, Friends Colony, Soubhagya Nagar, Baramunda, Bhubaneswar 751003",
+      "lat": 20.2731096,
+      "lng": 85.7953289,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Narula%20Sweets%2C%20Baramunda%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://wanderlog.com/place/details/12155555/narula-sweets"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-jugaad-jn-laxmisagar",
+      "name": "Jugaad Jn.",
+      "city": "Bhubaneswar",
+      "area": "Laxmisagar",
+      "address": "Mahadev Campus, Cuttack-Puri Rd, near Sunshine Hospital, Laxmisagar, Bhubaneswar 751006",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jugaad%20Jn.%2C%20Laxmisagar%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://wanderlog.com/place/details/403094/jugaad-jn",
+        "https://wanderlog.com/list/geoCategory/72366"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-the-silver-spoon",
+      "name": "The Silver Spoon",
+      "city": "Bhubaneswar",
+      "area": "Nalco Square",
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Silver%20Spoon%2C%20Nalco%20Square%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://odishabytes.com/savour-pakhala-at-these-joints-in-bhubaneswar-cuttack/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-rosys-kitchen",
+      "name": "Rosys Kitchen",
+      "city": "Bhubaneswar",
+      "area": null,
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rosys%20Kitchen%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": null,
+      "source_urls": [
+        "https://blog.swiggy.com/food/uncovering-the-best-food-in-bhubaneswar/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-odia-ruchi",
+      "name": "Odia Ruchi",
+      "city": "Bhubaneswar",
+      "area": null,
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Odia%20Ruchi%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": null,
+      "source_urls": [
+        "https://blog.swiggy.com/food/uncovering-the-best-food-in-bhubaneswar/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-mo-utkal-kitchen",
+      "name": "Mo Utkal Kitchen",
+      "city": "Bhubaneswar",
+      "area": null,
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mo%20Utkal%20Kitchen%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": null,
+      "source_urls": [
+        "https://blog.swiggy.com/food/uncovering-the-best-food-in-bhubaneswar/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-hotel-sri-mandira",
+      "name": "Hotel Sri Mandira",
+      "city": "Bhubaneswar",
+      "area": null,
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Sri%20Mandira%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": null,
+      "source_urls": [
+        "https://blog.swiggy.com/food/uncovering-the-best-food-in-bhubaneswar/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-atma-ganguram-sweets",
+      "name": "Atma Ganguram Sweets",
+      "city": "Bhubaneswar",
+      "area": null,
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Atma%20Ganguram%20Sweets%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://swiggy.com/city/bhubaneswar/sweets-cuisine-restaurants"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-mughlai-zaika",
+      "name": "Mughlai Zaika",
+      "city": "Bhubaneswar",
+      "area": "Soubhagya Nagar",
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mughlai%20Zaika%2C%20Soubhagya%20Nagar%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://yappe.in/odisha/bhubaneswar/mughlai-zaika/812906"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "bbsr-vrindavan-chaat",
+      "name": "Vrindavan Chaat",
+      "city": "Bhubaneswar",
+      "area": "Kalinga Nagar",
+      "address": "Counter 2, Astral, Kalinga Nagar, Shampur, Bhubaneswar 751029",
+      "lat": 20.2680426,
+      "lng": 85.7623093,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vrindavan%20Chaat%2C%20Kalinga%20Nagar%2C%20Bhubaneswar%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1498124"
+      ],
+      "verified": false,
+      "location_exact": false
+    }
+  ],
+  "links": [
+    {
+      "dish_id": "dalma",
+      "restaurant_id": "bbsr-dalma-unit-4",
+      "note": "Signature dalma; chingudi (prawn) dalma also on menu.",
+      "source_urls": [
+        "https://www.outlooktraveller.com/experiences/food-and-drink/places-to-visit-in-bhubaneswar-for-the-best-food",
+        "https://wanderlog.com/place/details/1138918"
+      ]
+    },
+    {
+      "dish_id": "pakhala-bhata",
+      "restaurant_id": "bbsr-dalma-unit-4",
+      "note": "Pakhala bhaat with traditional sides.",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1557076/",
+        "https://wanderlog.com/place/details/1138918"
+      ]
+    },
+    {
+      "dish_id": "dahi-pakhala",
+      "restaurant_id": "bbsr-dalma-unit-4",
+      "note": "Dahi pakhala listed on menu.",
+      "source_urls": [
+        "https://veenaworld.com/blog/best-restaurant-bhubaneswar"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "bbsr-dalma-unit-4",
+      "note": "Chhena poda praised in reviews.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/1138918"
+      ]
+    },
+    {
+      "dish_id": "kankada-jhola",
+      "restaurant_id": "bbsr-dalma-unit-4",
+      "note": "Kankada jhola (crab with potatoes).",
+      "source_urls": [
+        "https://www.outlooktraveller.com/experiences/food-and-drink/places-to-visit-in-bhubaneswar-for-the-best-food",
+        "https://wanderlog.com/place/details/1138918"
+      ]
+    },
+    {
+      "dish_id": "dalma",
+      "restaurant_id": "bbsr-kanika-mayfair-lagoon",
+      "note": "Dalma from the Odia menu.",
+      "source_urls": [
+        "https://www.eazydiner.com/food-trends/bhubaneswar-restaurants-the-complete-2026-guide-to-odia-thalis-buffets-rooftops-and-budget-meals"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "bbsr-kanika-mayfair-lagoon",
+      "note": "Chhenapoda for dessert.",
+      "source_urls": [
+        "https://www.eazydiner.com/food-trends/bhubaneswar-restaurants-the-complete-2026-guide-to-odia-thalis-buffets-rooftops-and-budget-meals"
+      ]
+    },
+    {
+      "dish_id": "machha-besara",
+      "restaurant_id": "bbsr-kanika-mayfair-lagoon",
+      "note": "Fish besara / rohi machha besara.",
+      "source_urls": [
+        "https://www.eazydiner.com/bhubaneswar/kanika-mayfair-lagoon-bhubaneswar-695976",
+        "https://veenaworld.com/blog/best-restaurant-bhubaneswar"
+      ]
+    },
+    {
+      "dish_id": "mutton-kasa",
+      "restaurant_id": "bbsr-kanika-mayfair-lagoon",
+      "note": "Mutton kassa mentioned in reviews.",
+      "source_urls": [
+        "https://www.eazydiner.com/bhubaneswar/kanika-mayfair-lagoon-bhubaneswar-695976"
+      ]
+    },
+    {
+      "dish_id": "badi-chura",
+      "restaurant_id": "bbsr-kanika-mayfair-lagoon",
+      "note": "Badi chura recommended by a reviewer.",
+      "source_urls": [
+        "https://www.eazydiner.com/bhubaneswar/kanika-mayfair-lagoon-bhubaneswar-695976"
+      ]
+    },
+    {
+      "dish_id": "chingudi-jhola",
+      "restaurant_id": "bbsr-kanika-mayfair-lagoon",
+      "note": "Chingudi jhola listed among must-haves.",
+      "source_urls": [
+        "https://www.eazydiner.com/bhubaneswar/kanika-mayfair-lagoon-bhubaneswar-695976"
+      ]
+    },
+    {
+      "dish_id": "alu-potala-rasa",
+      "restaurant_id": "bbsr-kanika-mayfair-lagoon",
+      "note": "Potala rasa listed among must-haves.",
+      "source_urls": [
+        "https://www.eazydiner.com/bhubaneswar/kanika-mayfair-lagoon-bhubaneswar-695976"
+      ]
+    },
+    {
+      "dish_id": "manda-pitha",
+      "restaurant_id": "bbsr-kanika-mayfair-lagoon",
+      "note": "Manda pitha listed among must-haves.",
+      "source_urls": [
+        "https://www.eazydiner.com/bhubaneswar/kanika-mayfair-lagoon-bhubaneswar-695976"
+      ]
+    },
+    {
+      "dish_id": "pakhala-bhata",
+      "restaurant_id": "bbsr-odisha-hotel-saheed-nagar",
+      "note": "Pakhala thali.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/1536622",
+        "https://blog.delhifoodwalks.com/bhubaneswar-food-tour/"
+      ]
+    },
+    {
+      "dish_id": "mutton-kasa",
+      "restaurant_id": "bbsr-odisha-hotel-saheed-nagar",
+      "note": "Mutton kassa.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/1536622",
+        "https://blog.delhifoodwalks.com/bhubaneswar-food-tour/"
+      ]
+    },
+    {
+      "dish_id": "chhatu-rai",
+      "restaurant_id": "bbsr-odisha-hotel-saheed-nagar",
+      "note": "Chhatu rai.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/1536622"
+      ]
+    },
+    {
+      "dish_id": "badi-chura",
+      "restaurant_id": "bbsr-odisha-hotel-saheed-nagar",
+      "note": "Badi chura was a highlight (blogger ate at the Chandrasekharpur outlet).",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/bhubaneswar-food-tour/"
+      ]
+    },
+    {
+      "dish_id": "kankada-jhola",
+      "restaurant_id": "bbsr-odisha-hotel-saheed-nagar",
+      "note": "Chilika crab (blogger ate at the Chandrasekharpur outlet).",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/bhubaneswar-food-tour/"
+      ]
+    },
+    {
+      "dish_id": "pakhala-bhata",
+      "restaurant_id": "bbsr-michaels-kitchen-gajapati-nagar",
+      "note": "Known for its pakhala festival with fusion pakhala variants.",
+      "source_urls": [
+        "https://odishabytes.com/savour-pakhala-at-these-joints-in-bhubaneswar-cuttack/"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "bbsr-michaels-kitchen-jagamara",
+      "note": "Chhena poda recommended.",
+      "source_urls": [
+        "https://curlytales.com/web-stories/7-best-spots-to-have-chhena-poda-in-bhubaneswar/"
+      ]
+    },
+    {
+      "dish_id": "santula",
+      "restaurant_id": "bbsr-nimantran-otdc",
+      "note": "Santula.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/7670320/nimantran-otdc-ltd"
+      ]
+    },
+    {
+      "dish_id": "badi-chura",
+      "restaurant_id": "bbsr-nimantran-otdc",
+      "note": "Badi chura.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/7670320/nimantran-otdc-ltd"
+      ]
+    },
+    {
+      "dish_id": "rasabali",
+      "restaurant_id": "bbsr-nimantran-otdc",
+      "note": "Rasabali for dessert.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/7670320/nimantran-otdc-ltd"
+      ]
+    },
+    {
+      "dish_id": "machha-besara",
+      "restaurant_id": "bbsr-nimantran-otdc",
+      "note": "Fish besara.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/7670320/nimantran-otdc-ltd"
+      ]
+    },
+    {
+      "dish_id": "mutton-kasa",
+      "restaurant_id": "bbsr-nimantran-otdc",
+      "note": "Mutton kassa.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/7670320/nimantran-otdc-ltd"
+      ]
+    },
+    {
+      "dish_id": "pakhala-bhata",
+      "restaurant_id": "bbsr-nimantran-otdc",
+      "note": "Pakhala bhata.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/7670320/nimantran-otdc-ltd"
+      ]
+    },
+    {
+      "dish_id": "saga-bhaja",
+      "restaurant_id": "bbsr-nimantran-otdc",
+      "note": "Saga (greens).",
+      "source_urls": [
+        "https://wanderlog.com/place/details/7670320/nimantran-otdc-ltd"
+      ]
+    },
+    {
+      "dish_id": "dalma",
+      "restaurant_id": "bbsr-the-restaurant-trident",
+      "note": "Odia menu features dalma.",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1557076/"
+      ]
+    },
+    {
+      "dish_id": "santula",
+      "restaurant_id": "bbsr-the-restaurant-trident",
+      "note": "Santula on the Odia menu.",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1557076/"
+      ]
+    },
+    {
+      "dish_id": "besara",
+      "restaurant_id": "bbsr-the-restaurant-trident",
+      "note": "Chhatu besara.",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1557076/"
+      ]
+    },
+    {
+      "dish_id": "dalma",
+      "restaurant_id": "bbsr-atithi-devo-bhaba",
+      "note": "Dalma.",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1557076/"
+      ]
+    },
+    {
+      "dish_id": "chakuli-pitha",
+      "restaurant_id": "bbsr-atithi-devo-bhaba",
+      "note": "Chakuli with aalu kasa.",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1557076/"
+      ]
+    },
+    {
+      "dish_id": "chhena-jhili",
+      "restaurant_id": "bbsr-atithi-devo-bhaba",
+      "note": "Chhena jhili for dessert.",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1557076/"
+      ]
+    },
+    {
+      "dish_id": "rasagola",
+      "restaurant_id": "bbsr-atithi-devo-bhaba",
+      "note": "Rasagola for dessert.",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1557076/"
+      ]
+    },
+    {
+      "dish_id": "chingudi-jhola",
+      "restaurant_id": "bbsr-atithi-devo-bhaba",
+      "note": "Chingudi rassa with tiger prawns.",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1557076/"
+      ]
+    },
+    {
+      "dish_id": "pakhala-bhata",
+      "restaurant_id": "bbsr-atithi-devo-bhaba",
+      "note": "Pakhala thali.",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1557076/"
+      ]
+    },
+    {
+      "dish_id": "khiri",
+      "restaurant_id": "bbsr-atithi-devo-bhaba",
+      "note": "Khiri for dessert.",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1557076/"
+      ]
+    },
+    {
+      "dish_id": "besara",
+      "restaurant_id": "bbsr-odia-besara",
+      "note": "Named for its mustard-paste besara.",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1557076/"
+      ]
+    },
+    {
+      "dish_id": "dahi-pakhala",
+      "restaurant_id": "bbsr-shohala-ana-odia",
+      "note": "Dahi pakhala with chingudi and mutton.",
+      "source_urls": [
+        "https://odishabytes.com/savour-pakhala-at-these-joints-in-bhubaneswar-cuttack/"
+      ]
+    },
+    {
+      "dish_id": "rasagola",
+      "restaurant_id": "bbsr-shohala-ana-odia",
+      "note": "Rosogolla mentioned in reviews.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/1536623/shohala-ana-odia"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "bbsr-ram-mandir-tiffin-centre",
+      "note": "Chhenapoda alongside tiffin snacks.",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1557076/",
+        "https://wanderlog.com/list/geoCategory/72366"
+      ]
+    },
+    {
+      "dish_id": "lassi-bhubaneswar",
+      "restaurant_id": "bbsr-lingaraj-lassi",
+      "note": "Special lassi layered with rabri, coconut and cherries; reportedly seasonal.",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/bhubaneswar-food-tour/",
+        "https://wanderlog.com/place/details/2673188/lassi"
+      ]
+    },
+    {
+      "dish_id": "rabidi",
+      "restaurant_id": "bbsr-lingaraj-lassi",
+      "note": "Rabri-topped lassi.",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/bhubaneswar-food-tour/",
+        "https://wanderlog.com/place/details/2673188/lassi"
+      ]
+    },
+    {
+      "dish_id": "bara-ghugni",
+      "restaurant_id": "bbsr-rabi-mausa-bara-shop",
+      "note": "Onion baras with ghugni.",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/bhubaneswar-food-tour/"
+      ]
+    },
+    {
+      "dish_id": "ghugni",
+      "restaurant_id": "bbsr-rabi-mausa-bara-shop",
+      "note": "Ghugni served with baras.",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/bhubaneswar-food-tour/"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "bbsr-rabi-mausa-bara-shop",
+      "note": "Also sells chhena poda.",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/bhubaneswar-food-tour/"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "bbsr-nimapara-sweets",
+      "note": "Chhena poda.",
+      "source_urls": [
+        "https://curlytales.com/web-stories/7-best-spots-to-have-chhena-poda-in-bhubaneswar/"
+      ]
+    },
+    {
+      "dish_id": "chhena-jhili",
+      "restaurant_id": "bbsr-nimapara-sweets",
+      "note": "Chhena jhili.",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/bhubaneswar-food-tour/"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "bbsr-venus-sweets",
+      "note": "Chhena poda.",
+      "source_urls": [
+        "https://curlytales.com/web-stories/7-best-spots-to-have-chhena-poda-in-bhubaneswar/"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "bbsr-chhappan-bhog-bapuji-nagar",
+      "note": "Chhena poda.",
+      "source_urls": [
+        "https://curlytales.com/web-stories/7-best-spots-to-have-chhena-poda-in-bhubaneswar/",
+        "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar/top-culinary-delights-of-bhubaneswar"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "bbsr-shree-cuttack-sweets-stall",
+      "note": "Chhena poda.",
+      "source_urls": [
+        "https://curlytales.com/web-stories/7-best-spots-to-have-chhena-poda-in-bhubaneswar/"
+      ]
+    },
+    {
+      "dish_id": "gupchup",
+      "restaurant_id": "bbsr-shree-cuttack-sweets-stall",
+      "note": "Gol gappa (gupchup) recommended.",
+      "source_urls": [
+        "https://curlytales.com/web-stories/7-best-spots-to-have-chhena-poda-in-bhubaneswar/"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "bbsr-bikalananda-kar-patia",
+      "note": "Chhena poda.",
+      "source_urls": [
+        "https://curlytales.com/web-stories/7-best-spots-to-have-chhena-poda-in-bhubaneswar/",
+        "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar/top-culinary-delights-of-bhubaneswar"
+      ]
+    },
+    {
+      "dish_id": "rasagola",
+      "restaurant_id": "bbsr-tarini-mistan-bhandar-pahala",
+      "note": "Hot Pahala rasagola.",
+      "source_urls": [
+        "https://odishabytes.com/soft-tasty-union-minister-shivraj-singh-chouhan-savours-odishas-pahala-rasagola/"
+      ]
+    },
+    {
+      "dish_id": "chhena-gaja",
+      "restaurant_id": "bbsr-tarini-mistan-bhandar-pahala",
+      "note": "Chhenagaja to take away.",
+      "source_urls": [
+        "https://odishabytes.com/soft-tasty-union-minister-shivraj-singh-chouhan-savours-odishas-pahala-rasagola/"
+      ]
+    },
+    {
+      "dish_id": "rasagola",
+      "restaurant_id": "bbsr-sunya-mandira-sweets-pahala",
+      "note": "Pahala sponge-style rasagola.",
+      "source_urls": [
+        "https://apps.odishatourism.gov.in/blog-detail/a-short-trip-to-a-sweets-wonderland-in-odisha"
+      ]
+    },
+    {
+      "dish_id": "chhena-gaja",
+      "restaurant_id": "bbsr-sunya-mandira-sweets-pahala",
+      "note": "Chhena gaja, one of Pahala's staple sweets.",
+      "source_urls": [
+        "https://apps.odishatourism.gov.in/blog-detail/a-short-trip-to-a-sweets-wonderland-in-odisha"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "bbsr-sunya-mandira-sweets-pahala",
+      "note": "Chhena poda, one of Pahala's staple sweets.",
+      "source_urls": [
+        "https://apps.odishatourism.gov.in/blog-detail/a-short-trip-to-a-sweets-wonderland-in-odisha"
+      ]
+    },
+    {
+      "dish_id": "poda-pitha",
+      "restaurant_id": "bbsr-mo-pitha",
+      "note": "Poda pitha.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/12149616/mo-pitha"
+      ]
+    },
+    {
+      "dish_id": "kakara-pitha",
+      "restaurant_id": "bbsr-mo-pitha",
+      "note": "Kakara pitha.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/12149616/mo-pitha"
+      ]
+    },
+    {
+      "dish_id": "arisa-pitha",
+      "restaurant_id": "bbsr-mo-pitha",
+      "note": "Arisa pitha.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/12149616/mo-pitha"
+      ]
+    },
+    {
+      "dish_id": "rasabali",
+      "restaurant_id": "bbsr-mo-pitha",
+      "note": "Rasabali.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/12149616/mo-pitha"
+      ]
+    },
+    {
+      "dish_id": "chhena-kheeri",
+      "restaurant_id": "bbsr-mo-pitha",
+      "note": "Chhena kheer.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/12149616/mo-pitha"
+      ]
+    },
+    {
+      "dish_id": "kakara-pitha",
+      "restaurant_id": "bbsr-ek-no-hata-kakara-pitha",
+      "note": "50-year-old shop selling sooji kakara pitha with coconut filling.",
+      "source_urls": [
+        "https://curlytales.com/chef-saransh-goila-found-a-50-yo-bhubaneswar-shop-selling-kakara-pitha-a-classic-odia-delicacy/amp/"
+      ]
+    },
+    {
+      "dish_id": "bara-ghugni",
+      "restaurant_id": "bbsr-kalia-sahu-bara-ghuguni",
+      "note": "Bara fried on a wood chulha with yellow-pea ghuguni; breakfast spot, closed Sundays.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/9994894/kalia-sahu-bara-ghuguni"
+      ]
+    },
+    {
+      "dish_id": "ghugni",
+      "restaurant_id": "bbsr-kalia-sahu-bara-ghuguni",
+      "note": "Ghuguni poured over bara.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/9994894/kalia-sahu-bara-ghuguni"
+      ]
+    },
+    {
+      "dish_id": "dalma",
+      "restaurant_id": "bbsr-ananta-vasudeva-temple",
+      "note": "Temple mahaprasad dalma.",
+      "source_urls": [
+        "https://visit.bhubaneswar.me/temple-cuisine"
+      ]
+    },
+    {
+      "dish_id": "kanika",
+      "restaurant_id": "bbsr-ananta-vasudeva-temple",
+      "note": "Kanika (sweet yellow rice) in the mahaprasad.",
+      "source_urls": [
+        "https://visit.bhubaneswar.me/temple-cuisine"
+      ]
+    },
+    {
+      "dish_id": "besara",
+      "restaurant_id": "bbsr-ananta-vasudeva-temple",
+      "note": "Besara topped with fried coconut.",
+      "source_urls": [
+        "https://visit.bhubaneswar.me/temple-cuisine"
+      ]
+    },
+    {
+      "dish_id": "khiri",
+      "restaurant_id": "bbsr-ananta-vasudeva-temple",
+      "note": "Khiri served in a kudua clay pot.",
+      "source_urls": [
+        "https://visit.bhubaneswar.me/temple-cuisine"
+      ]
+    },
+    {
+      "dish_id": "pakhala-bhata",
+      "restaurant_id": "bbsr-ekamra-haat",
+      "note": "Food court Odia dishes.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/1723076/ekamra-haat"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "bbsr-ekamra-haat",
+      "note": "Food court Odia dishes.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/1723076/ekamra-haat"
+      ]
+    },
+    {
+      "dish_id": "mutton-kasa",
+      "restaurant_id": "bbsr-food-exchange-novotel",
+      "note": "Odia mutton kassa.",
+      "source_urls": [
+        "https://www.eazydiner.com/food-trends/bhubaneswar-restaurants-the-complete-2026-guide-to-odia-thalis-buffets-rooftops-and-budget-meals"
+      ]
+    },
+    {
+      "dish_id": "rabidi",
+      "restaurant_id": "bbsr-narula-sweets-baramunda",
+      "note": "Rabdi rasagolla.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/12155555/narula-sweets"
+      ]
+    },
+    {
+      "dish_id": "gupchup",
+      "restaurant_id": "bbsr-narula-sweets-baramunda",
+      "note": "Gupchup at the chaat counter.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/12155555/narula-sweets"
+      ]
+    },
+    {
+      "dish_id": "gupchup",
+      "restaurant_id": "bbsr-jugaad-jn-laxmisagar",
+      "note": "Dahi gupchup praised by reviewers.",
+      "source_urls": [
+        "https://wanderlog.com/place/details/403094/jugaad-jn"
+      ]
+    },
+    {
+      "dish_id": "dahi-pakhala",
+      "restaurant_id": "bbsr-the-silver-spoon",
+      "note": "Dahi pakhala.",
+      "source_urls": [
+        "https://odishabytes.com/savour-pakhala-at-these-joints-in-bhubaneswar-cuttack/"
+      ]
+    },
+    {
+      "dish_id": "dalma",
+      "restaurant_id": "bbsr-rosys-kitchen",
+      "note": "Recommended for dalma.",
+      "source_urls": [
+        "https://blog.swiggy.com/food/uncovering-the-best-food-in-bhubaneswar/"
+      ]
+    },
+    {
+      "dish_id": "ghugni",
+      "restaurant_id": "bbsr-rosys-kitchen",
+      "note": "Recommended for ghuguni.",
+      "source_urls": [
+        "https://blog.swiggy.com/food/uncovering-the-best-food-in-bhubaneswar/"
+      ]
+    },
+    {
+      "dish_id": "santula",
+      "restaurant_id": "bbsr-odia-ruchi",
+      "note": "Recommended for santula.",
+      "source_urls": [
+        "https://blog.swiggy.com/food/uncovering-the-best-food-in-bhubaneswar/"
+      ]
+    },
+    {
+      "dish_id": "santula",
+      "restaurant_id": "bbsr-mo-utkal-kitchen",
+      "note": "Recommended for santula.",
+      "source_urls": [
+        "https://blog.swiggy.com/food/uncovering-the-best-food-in-bhubaneswar/"
+      ]
+    },
+    {
+      "dish_id": "santula",
+      "restaurant_id": "bbsr-hotel-sri-mandira",
+      "note": "Recommended for santula.",
+      "source_urls": [
+        "https://blog.swiggy.com/food/uncovering-the-best-food-in-bhubaneswar/"
+      ]
+    },
+    {
+      "dish_id": "rasabali",
+      "restaurant_id": "bbsr-atma-ganguram-sweets",
+      "note": "Rasabali on its menu.",
+      "source_urls": [
+        "https://swiggy.com/city/bhubaneswar/sweets-cuisine-restaurants"
+      ]
+    },
+    {
+      "dish_id": "mutton-kasa",
+      "restaurant_id": "bbsr-mughlai-zaika",
+      "note": "Mutton kassa praised as tender (mixed reviews).",
+      "source_urls": [
+        "https://yappe.in/odisha/bhubaneswar/mughlai-zaika/812906"
+      ]
+    },
+    {
+      "dish_id": "gupchup",
+      "restaurant_id": "bbsr-vrindavan-chaat",
+      "note": "Pani puri (gupchup) and chaat.",
+      "source_urls": [
+        "https://wanderlog.com/list/geoCategory/1498124"
+      ]
+    }
+  ]
+}

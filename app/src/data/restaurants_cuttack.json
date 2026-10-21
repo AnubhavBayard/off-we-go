@@ -1,0 +1,813 @@
+{
+  "restaurants": [
+    {
+      "id": "ctc-raghu-dahibara",
+      "name": "Raghu Dahibara",
+      "city": "Cuttack",
+      "area": "Bidanasi",
+      "address": null,
+      "lat": 20.4855064,
+      "lng": 85.8454413,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Raghu%20Dahibara%2C%20Bidanasi%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/",
+        "https://odishabytes.com/raghu-sasmal-who-put-cuttack-on-culinary-map-for-iconic-dahibara-passes-away-at-91/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-megha-dahibara",
+      "name": "Megha's Dahibara Counter",
+      "city": "Cuttack",
+      "area": "Barabati Stadium",
+      "address": "Front row, right end of the dahibara zone, Barabati Stadium",
+      "lat": 20.4807044,
+      "lng": 85.8685254,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Megha%27s%20Dahibara%20Counter%2C%20Barabati%20Stadium%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://odishabytes.com/the-other-dahibaras-of-cuttack/"
+      ],
+      "verified": false,
+      "location_exact": true
+    },
+    {
+      "id": "ctc-punia-dahibara",
+      "name": "Punia Dahibara",
+      "city": "Cuttack",
+      "area": null,
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Punia%20Dahibara%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://moha-mushkil.com/best-food-cuttack-odisha-pahala/",
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-kuna-tuna-dahibara",
+      "name": "Kuna Tuna Dahibara",
+      "city": "Cuttack",
+      "area": null,
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kuna%20Tuna%20Dahibara%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://moha-mushkil.com/best-food-cuttack-odisha-pahala/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-trinath-dahibara",
+      "name": "Trinath Dahibara",
+      "city": "Cuttack",
+      "area": null,
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Trinath%20Dahibara%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-eshwar-dahibara",
+      "name": "Eshwar Dahibara",
+      "city": "Cuttack",
+      "area": "Biju Patnaik Chowk",
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eshwar%20Dahibara%2C%20Biju%20Patnaik%20Chowk%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-babula-dahibara",
+      "name": "Babula's Dahibara Aloo Dum",
+      "city": "Cuttack",
+      "area": "Shelter Chhak",
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Babula%27s%20Dahibara%20Aloo%20Dum%2C%20Shelter%20Chhak%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://www.dailypioneer.com/2020/state-editions/cuttack-dahibara-aloo-dum-wins-nat---l-award.html"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-nayasadak-street-carts",
+      "name": "Nayasadak Street Food Carts",
+      "city": "Cuttack",
+      "area": "Nayasadak",
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nayasadak%20Street%20Food%20Carts%2C%20Nayasadak%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://odishabytes.com/the-other-dahibaras-of-cuttack/",
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-dolamundai-dahibara",
+      "name": "Dolamundai Dahibara Vendors",
+      "city": "Cuttack",
+      "area": "Dolamundai",
+      "address": "Temple ground near Dolamundai Square",
+      "lat": 20.4624859,
+      "lng": 85.8831851,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dolamundai%20Dahibara%20Vendors%2C%20Dolamundai%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://odishabytes.com/the-other-dahibaras-of-cuttack/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-jail-road-dahibara",
+      "name": "Jail Road Dahibara Vendor",
+      "city": "Cuttack",
+      "area": "Jail Road",
+      "address": "Near Netaji memorial gate, Jail Road",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jail%20Road%20Dahibara%20Vendor%2C%20Jail%20Road%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://odishabytes.com/the-other-dahibaras-of-cuttack/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-chakuli-mausi",
+      "name": "Chakuli Mausi (Annapurna Devi)",
+      "city": "Cuttack",
+      "area": "Nandi Sahi",
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chakuli%20Mausi%20%28Annapurna%20Devi%29%2C%20Nandi%20Sahi%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-hotel-shital",
+      "name": "Hotel Shital",
+      "city": "Cuttack",
+      "area": null,
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Shital%2C%20Cuttack%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://odishabytes.com/savour-pakhala-at-these-joints-in-bhubaneswar-cuttack/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-hotel-mila-misa",
+      "name": "Hotel Mila Misa",
+      "city": "Cuttack",
+      "area": "Bajrakabati",
+      "address": null,
+      "lat": 20.4636465,
+      "lng": 85.8847761,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Mila%20Misa%2C%20Bajrakabati%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://odishabytes.com/savour-pakhala-at-these-joints-in-bhubaneswar-cuttack/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-odisha-hotel",
+      "name": "Odisha Hotel",
+      "city": "Cuttack",
+      "area": "Khan Nagar",
+      "address": "Khan Nagar, opposite Jagannath temple, Cuttack 753012",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Odisha%20Hotel%2C%20Khan%20Nagar%2C%20Cuttack%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://yappe.in/odisha/cuttack/odisha-hotel/329101"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-nana-hotel",
+      "name": "Nana Hotel",
+      "city": "Cuttack",
+      "area": "Phulnakhara",
+      "address": "Roadside dhaba on NH-16 near Phulnakhara square, Cuttack-Bhubaneswar highway",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nana%20Hotel%2C%20Phulnakhara%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/",
+        "https://misiki.in/bhubaneswar/restaurants/nana-hotel-mutton-phulnakhara-cuttack-complete-guide"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-the-blue-lagoon",
+      "name": "The Blue Lagoon",
+      "city": "Cuttack",
+      "area": "Tulsipur",
+      "address": "Tulsipur, Matha Sahi, near Deer Park, Cuttack",
+      "lat": 20.4867398,
+      "lng": 85.8615908,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Blue%20Lagoon%2C%20Tulsipur%2C%20Cuttack%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://travelsetu.com/guide/cuttack-tourism/food-in-cuttack"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-the-zaika",
+      "name": "The Zaika",
+      "city": "Cuttack",
+      "area": null,
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Zaika%2C%20Cuttack%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://www.abhibus.com/blog/odisha-famous-food/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-kalinga-pakhala-dhaba",
+      "name": "Kalinga Pakhala Dhaba",
+      "city": "Cuttack",
+      "area": null,
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kalinga%20Pakhala%20Dhaba%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://www.abhibus.com/blog/odisha-famous-food/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-barabati-restaurant",
+      "name": "Barabati Restaurant",
+      "city": "Cuttack",
+      "area": "Jail Road",
+      "address": "In front of Big Bazar, Jail Road",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Barabati%20Restaurant%2C%20Jail%20Road%2C%20Cuttack%2C%20Odisha",
+      "price_level": 2,
+      "source_urls": [
+        "https://odishabytes.com/?p=189319",
+        "https://www.treebo.com/blog/famous-food-of-odisha/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-bikalananda-kar-salepur",
+      "name": "Bikalananda Kar's Rasagola (Kar & Brothers)",
+      "city": "Salepur",
+      "area": "Salepur",
+      "address": "M/S Kar & Brothers, Salepur, Cuttack 754202",
+      "lat": 20.4786719,
+      "lng": 86.1044876,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bikalananda%20Kar%27s%20Rasagola%20%28Kar%20%26%20Brothers%29%2C%20Salepur%2C%20Salepur%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Bikalananda_Kar",
+        "https://apps.odishatourism.gov.in/blog-detail/a-short-trip-to-a-sweets-wonderland-in-odisha",
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/",
+        "https://cuttack.infoisinfo.co.in/search/sweet_shops"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-bikalananda-kar-buxi-bazar",
+      "name": "Bikalananda Kar's Sweet Shop, Buxi Bazar",
+      "city": "Cuttack",
+      "area": "Buxi Bazar",
+      "address": "Buxi Bazar, Cuttack",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bikalananda%20Kar%27s%20Sweet%20Shop%2C%20Buxi%20Bazar%2C%20Buxi%20Bazar%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://travelsetu.com/guide/cuttack-tourism/food-in-cuttack",
+        "https://cuttack.infoisinfo.co.in/search/sweet_shops"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-bikalananda-kar-bajrakabati",
+      "name": "Bikalananda Kar's Rasagola, Bajrakabati Road",
+      "city": "Cuttack",
+      "area": "Bajrakabati",
+      "address": "Maruti Complex, Shop No. 1, Ground Floor, Bajrakabati Rd, Cuttack",
+      "lat": 20.4636465,
+      "lng": 85.8847761,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bikalananda%20Kar%27s%20Rasagola%2C%20Bajrakabati%20Road%2C%20Bajrakabati%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://ebhubaneswar.com/explore-city/7-sweet-shops-in-cuttack-a-taste-of-the-town/"
+      ],
+      "verified": false,
+      "location_exact": true
+    },
+    {
+      "id": "ctc-banchha-sahoo-sweets",
+      "name": "Banchha Sahoo Sweets",
+      "city": "Cuttack",
+      "area": "Balu Bazar",
+      "address": "Balu Bazaar, Cuttack 753002",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Banchha%20Sahoo%20Sweets%2C%20Balu%20Bazar%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://banchhasahoosweets.com/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-nitai-sweet",
+      "name": "Nitai Sweet",
+      "city": "Cuttack",
+      "area": "Buxi Bazar",
+      "address": "Buxi Bazar Rd, Cuttack",
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nitai%20Sweet%2C%20Buxi%20Bazar%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://ebhubaneswar.com/explore-city/7-sweet-shops-in-cuttack-a-taste-of-the-town/"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-pahala-sweets",
+      "name": "Pahala Sweets",
+      "city": "Cuttack",
+      "area": null,
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pahala%20Sweets%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://www.incredibleindia.gov.in/en/odisha/cuttack/savour-the-flavours-of-authentic-odia-cuisine-in-cuttack"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-bishnu-bakery",
+      "name": "Bishnu Bakery",
+      "city": "Cuttack",
+      "area": null,
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bishnu%20Bakery%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://www.incredibleindia.gov.in/en/odisha/cuttack/savour-the-flavours-of-authentic-odia-cuisine-in-cuttack"
+      ],
+      "verified": false,
+      "location_exact": false
+    },
+    {
+      "id": "ctc-kanika-sweets",
+      "name": "Kanika Sweets",
+      "city": "Cuttack",
+      "area": null,
+      "address": null,
+      "lat": null,
+      "lng": null,
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kanika%20Sweets%2C%20Cuttack%2C%20Odisha",
+      "price_level": 1,
+      "source_urls": [
+        "https://www.abhibus.com/blog/odisha-famous-food/"
+      ],
+      "verified": false,
+      "location_exact": false
+    }
+  ],
+  "links": [
+    {
+      "dish_id": "dahibara-aloodum",
+      "restaurant_id": "ctc-raghu-dahibara",
+      "note": "Iconic ~1950s stall: dahibara with spicy aloodum and chilli powder, no ghugni or sev; sells out fast around 5-6pm. Founder Raghu Sasmal died in 2026, so check it is still running.",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/",
+        "https://odishabytes.com/raghu-sasmal-who-put-cuttack-on-culinary-map-for-iconic-dahibara-passes-away-at-91/"
+      ]
+    },
+    {
+      "dish_id": "dahibara-aloodum",
+      "restaurant_id": "ctc-megha-dahibara",
+      "note": "Lighter, less masala; ghugni and aloo dum gravy carry it. Open morning to evening.",
+      "source_urls": [
+        "https://odishabytes.com/the-other-dahibaras-of-cuttack/"
+      ]
+    },
+    {
+      "dish_id": "ghugni",
+      "restaurant_id": "ctc-megha-dahibara",
+      "note": "Served with ghuguni on the dahibara.",
+      "source_urls": [
+        "https://odishabytes.com/the-other-dahibaras-of-cuttack/"
+      ]
+    },
+    {
+      "dish_id": "dahibara-aloodum",
+      "restaurant_id": "ctc-punia-dahibara",
+      "note": "Classic benchmark; opens ~7am and sells out by ~10am.",
+      "source_urls": [
+        "https://moha-mushkil.com/best-food-cuttack-odisha-pahala/",
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/"
+      ]
+    },
+    {
+      "dish_id": "dahibara-aloodum",
+      "restaurant_id": "ctc-kuna-tuna-dahibara",
+      "note": "Newer style, topped with onion, coriander and jhuri.",
+      "source_urls": [
+        "https://moha-mushkil.com/best-food-cuttack-odisha-pahala/"
+      ]
+    },
+    {
+      "dish_id": "dahibara-aloodum",
+      "restaurant_id": "ctc-trinath-dahibara",
+      "note": "Very spicy thick aloo dum with ghugni, sev, onion and chutney.",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/"
+      ]
+    },
+    {
+      "dish_id": "ghugni",
+      "restaurant_id": "ctc-trinath-dahibara",
+      "note": "Ghugni topping on the dahibara.",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/"
+      ]
+    },
+    {
+      "dish_id": "dahibara-aloodum",
+      "restaurant_id": "ctc-eshwar-dahibara",
+      "note": "Adds a sweet bara to the plate; topped with aloo dum, ghugni, sev and chutney.",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/"
+      ]
+    },
+    {
+      "dish_id": "ghugni",
+      "restaurant_id": "ctc-eshwar-dahibara",
+      "note": null,
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/"
+      ]
+    },
+    {
+      "dish_id": "dahibara-aloodum",
+      "restaurant_id": "ctc-babula-dahibara",
+      "note": "Won first prize at the 11th National Street Food Festival, New Delhi (2020). Source is from 2020.",
+      "source_urls": [
+        "https://www.dailypioneer.com/2020/state-editions/cuttack-dahibara-aloo-dum-wins-nat---l-award.html"
+      ]
+    },
+    {
+      "dish_id": "dahibara-aloodum",
+      "restaurant_id": "ctc-nayasadak-street-carts",
+      "note": "Two cycle vendors under the main tree for classic dahibara; evening stall near Hemraj Jewellers for spicier, drier aloo dum.",
+      "source_urls": [
+        "https://odishabytes.com/the-other-dahibaras-of-cuttack/"
+      ]
+    },
+    {
+      "dish_id": "chakuli-pitha",
+      "restaurant_id": "ctc-nayasadak-street-carts",
+      "note": "Morning chakuli with ghugni, coconut and red chilli chutney, piaji.",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/"
+      ]
+    },
+    {
+      "dish_id": "ghugni",
+      "restaurant_id": "ctc-nayasadak-street-carts",
+      "note": "Ghugni with chakuli or dahibara.",
+      "source_urls": [
+        "https://odishabytes.com/the-other-dahibaras-of-cuttack/",
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/"
+      ]
+    },
+    {
+      "dish_id": "dahibara-aloodum",
+      "restaurant_id": "ctc-dolamundai-dahibara",
+      "note": "Three vendors, evenings only; classic style. Coords are for Dolamundai Square.",
+      "source_urls": [
+        "https://odishabytes.com/the-other-dahibaras-of-cuttack/"
+      ]
+    },
+    {
+      "dish_id": "dahibara-aloodum",
+      "restaurant_id": "ctc-jail-road-dahibara",
+      "note": "Evening only; generous portions, get a half plate.",
+      "source_urls": [
+        "https://odishabytes.com/the-other-dahibaras-of-cuttack/"
+      ]
+    },
+    {
+      "dish_id": "ghugni",
+      "restaurant_id": "ctc-jail-road-dahibara",
+      "note": null,
+      "source_urls": [
+        "https://odishabytes.com/the-other-dahibaras-of-cuttack/"
+      ]
+    },
+    {
+      "dish_id": "chakuli-pitha",
+      "restaurant_id": "ctc-chakuli-mausi",
+      "note": "Breakfast from 4:30am at her house entrance; chakuli with red garlic chutney.",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/"
+      ]
+    },
+    {
+      "dish_id": "pakhala-bhata",
+      "restaurant_id": "ctc-hotel-shital",
+      "note": "Pakhala thali (par-boiled or steamed rice), with fish fry, shrimp, fish chops and chencha sides. Seasonal Pakhala Dibasa offer.",
+      "source_urls": [
+        "https://odishabytes.com/savour-pakhala-at-these-joints-in-bhubaneswar-cuttack/"
+      ]
+    },
+    {
+      "dish_id": "badi-chura",
+      "restaurant_id": "ctc-hotel-shital",
+      "note": "Badi chura is in the veg pakhala thali.",
+      "source_urls": [
+        "https://odishabytes.com/savour-pakhala-at-these-joints-in-bhubaneswar-cuttack/"
+      ]
+    },
+    {
+      "dish_id": "dahi-pakhala",
+      "restaurant_id": "ctc-hotel-mila-misa",
+      "note": "Dahi pakhala with 7 sides (Rs 90 when reported). Coords are for Bajrakabati Road.",
+      "source_urls": [
+        "https://odishabytes.com/savour-pakhala-at-these-joints-in-bhubaneswar-cuttack/"
+      ]
+    },
+    {
+      "dish_id": "pakhala-bhata",
+      "restaurant_id": "ctc-odisha-hotel",
+      "note": "Reviewers rate the pakhala thali.",
+      "source_urls": [
+        "https://yappe.in/odisha/cuttack/odisha-hotel/329101"
+      ]
+    },
+    {
+      "dish_id": "dalma",
+      "restaurant_id": "ctc-odisha-hotel",
+      "note": "Dalma only on certain days of the week.",
+      "source_urls": [
+        "https://yappe.in/odisha/cuttack/odisha-hotel/329101"
+      ]
+    },
+    {
+      "dish_id": "mutton-kasa",
+      "restaurant_id": "ctc-nana-hotel",
+      "note": "Known for its mutton curry thali with rice. It is jhola-style curry, not dry kasa. Go 12-2pm.",
+      "source_urls": [
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/",
+        "https://misiki.in/bhubaneswar/restaurants/nana-hotel-mutton-phulnakhara-cuttack-complete-guide"
+      ]
+    },
+    {
+      "dish_id": "chingudi-malai",
+      "restaurant_id": "ctc-the-blue-lagoon",
+      "note": "Signature chungdi malai. Coords are for Tulsipur Park.",
+      "source_urls": [
+        "https://travelsetu.com/guide/cuttack-tourism/food-in-cuttack"
+      ]
+    },
+    {
+      "dish_id": "dalma",
+      "restaurant_id": "ctc-the-zaika",
+      "note": null,
+      "source_urls": [
+        "https://www.abhibus.com/blog/odisha-famous-food/"
+      ]
+    },
+    {
+      "dish_id": "chingudi-jhola",
+      "restaurant_id": "ctc-the-zaika",
+      "note": null,
+      "source_urls": [
+        "https://www.abhibus.com/blog/odisha-famous-food/"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "ctc-the-zaika",
+      "note": null,
+      "source_urls": [
+        "https://www.abhibus.com/blog/odisha-famous-food/"
+      ]
+    },
+    {
+      "dish_id": "pakhala-bhata",
+      "restaurant_id": "ctc-kalinga-pakhala-dhaba",
+      "note": null,
+      "source_urls": [
+        "https://www.abhibus.com/blog/odisha-famous-food/"
+      ]
+    },
+    {
+      "dish_id": "khechudi",
+      "restaurant_id": "ctc-barabati-restaurant",
+      "note": "Named as a khechudi spot in Cuttack.",
+      "source_urls": [
+        "https://www.treebo.com/blog/famous-food-of-odisha/"
+      ]
+    },
+    {
+      "dish_id": "rasagola",
+      "restaurant_id": "ctc-bikalananda-kar-salepur",
+      "note": "The original Salepur rasagola (shop founded 1922): brown, in thick syrup.",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Bikalananda_Kar",
+        "https://apps.odishatourism.gov.in/blog-detail/a-short-trip-to-a-sweets-wonderland-in-odisha",
+        "https://blog.delhifoodwalks.com/cuttack-land-of-aloo-dum-dahi-bara/"
+      ]
+    },
+    {
+      "dish_id": "rasagola",
+      "restaurant_id": "ctc-bikalananda-kar-buxi-bazar",
+      "note": "Salepur rasagola from the Cuttack city outlet.",
+      "source_urls": [
+        "https://cuttack.infoisinfo.co.in/search/sweet_shops"
+      ]
+    },
+    {
+      "dish_id": "rasabali",
+      "restaurant_id": "ctc-bikalananda-kar-buxi-bazar",
+      "note": "Listed as a signature sweet.",
+      "source_urls": [
+        "https://travelsetu.com/guide/cuttack-tourism/food-in-cuttack"
+      ]
+    },
+    {
+      "dish_id": "chhena-jhili",
+      "restaurant_id": "ctc-bikalananda-kar-buxi-bazar",
+      "note": "Listed as a signature sweet.",
+      "source_urls": [
+        "https://travelsetu.com/guide/cuttack-tourism/food-in-cuttack"
+      ]
+    },
+    {
+      "dish_id": "rasagola",
+      "restaurant_id": "ctc-bikalananda-kar-bajrakabati",
+      "note": "Coords are for Bajrakabati Road.",
+      "source_urls": [
+        "https://ebhubaneswar.com/explore-city/7-sweet-shops-in-cuttack-a-taste-of-the-town/"
+      ]
+    },
+    {
+      "dish_id": "rasagola",
+      "restaurant_id": "ctc-banchha-sahoo-sweets",
+      "note": "Says it has made sweets for 100+ years.",
+      "source_urls": [
+        "https://banchhasahoosweets.com/"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "ctc-banchha-sahoo-sweets",
+      "note": null,
+      "source_urls": [
+        "https://banchhasahoosweets.com/"
+      ]
+    },
+    {
+      "dish_id": "chhena-gaja",
+      "restaurant_id": "ctc-banchha-sahoo-sweets",
+      "note": null,
+      "source_urls": [
+        "https://banchhasahoosweets.com/"
+      ]
+    },
+    {
+      "dish_id": "rasabali",
+      "restaurant_id": "ctc-banchha-sahoo-sweets",
+      "note": null,
+      "source_urls": [
+        "https://banchhasahoosweets.com/"
+      ]
+    },
+    {
+      "dish_id": "khira-sagara",
+      "restaurant_id": "ctc-banchha-sahoo-sweets",
+      "note": "Listed as Kheer Sagar.",
+      "source_urls": [
+        "https://banchhasahoosweets.com/"
+      ]
+    },
+    {
+      "dish_id": "rabidi",
+      "restaurant_id": "ctc-banchha-sahoo-sweets",
+      "note": null,
+      "source_urls": [
+        "https://banchhasahoosweets.com/"
+      ]
+    },
+    {
+      "dish_id": "dahibara-aloodum",
+      "restaurant_id": "ctc-banchha-sahoo-sweets",
+      "note": "Sells dahibara as a snack.",
+      "source_urls": [
+        "https://banchhasahoosweets.com/"
+      ]
+    },
+    {
+      "dish_id": "rasagola",
+      "restaurant_id": "ctc-nitai-sweet",
+      "note": null,
+      "source_urls": [
+        "https://ebhubaneswar.com/explore-city/7-sweet-shops-in-cuttack-a-taste-of-the-town/"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "ctc-pahala-sweets",
+      "note": "Incredible India recommends it for chhena poda.",
+      "source_urls": [
+        "https://www.incredibleindia.gov.in/en/odisha/cuttack/savour-the-flavours-of-authentic-odia-cuisine-in-cuttack"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "ctc-bishnu-bakery",
+      "note": "Incredible India recommends it for chhena poda.",
+      "source_urls": [
+        "https://www.incredibleindia.gov.in/en/odisha/cuttack/savour-the-flavours-of-authentic-odia-cuisine-in-cuttack"
+      ]
+    },
+    {
+      "dish_id": "chhena-poda",
+      "restaurant_id": "ctc-kanika-sweets",
+      "note": null,
+      "source_urls": [
+        "https://www.abhibus.com/blog/odisha-famous-food/"
+      ]
+    }
+  ]
+}
