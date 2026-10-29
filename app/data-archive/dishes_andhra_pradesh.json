@@ -1,0 +1,906 @@
+[
+  {
+    "id": "andhra_pradesh-gongura-pachadi",
+    "name": "Gongura Pachadi",
+    "local_name": null,
+    "pronunciation": "GON-goo-ra PUCH-cha-dee",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Guntur"
+    ],
+    "description": "A tangy, spicy relish of sorrel (gongura) leaves lightly cooked and ground with red chillies, garlic and spices, often pickled for keeping. It is considered a quintessential part of Andhra cuisine, and Guntur gongura is especially prized.",
+    "how_to_eat": "Mix a little into hot rice with ghee.",
+    "how_to_order": "Ask for gongura pachadi with an Andhra meals plate, or buy it in jars at pickle shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gongura",
+    "source_urls": [
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071",
+      "https://en.wikipedia.org/wiki/Gongura",
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-avakaya",
+    "name": "Avakaya",
+    "local_name": "ఆవకాయ",
+    "pronunciation": "AA-va-kaa-ya",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [],
+    "description": "A sharp raw-mango pickle with mustard powder, red chilli powder and sesame oil, made once a year in summer. Mudda pappu (plain dal) with avakaya is a classic first bite of an Andhra meal.",
+    "how_to_eat": "Mix a small piece with rice, dal and ghee.",
+    "how_to_order": "It comes with Andhra meals; jars are sold at pickle and sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 3,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Avakaya",
+    "source_urls": [
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071",
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-pesarattu",
+    "name": "Pesarattu",
+    "local_name": "పెసరట్టు",
+    "pronunciation": "pe-sa-RUT-too",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Godavari",
+      "Krishna",
+      "Guntur",
+      "Visakhapatnam"
+    ],
+    "description": "A crepe of soaked and ground green gram with green chilli and ginger, made without urad dal and not fermented. Originating in coastal Andhra, it is a breakfast staple; the version stuffed with upma (upma pesarattu) is especially popular.",
+    "how_to_eat": "Eat it hot with ginger chutney.",
+    "how_to_order": "Ask for 'pesarattu' or 'upma pesarattu' at a tiffin centre in the morning.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pesarattu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pesarattu",
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071",
+      "https://www.holidify.com/pages/food-of-andhra-pradesh-1644.html"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-punugulu",
+    "name": "Punugulu",
+    "local_name": null,
+    "pronunciation": "PU-nu-gu-loo",
+    "category": "street_food",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Vijayawada"
+    ],
+    "description": "Deep-fried balls of rice and urad dal batter, often made from leftover idli or dosa batter, with onion and green chillies. A common street snack across delta Andhra.",
+    "how_to_eat": "Eat them hot with coconut or peanut chutney.",
+    "how_to_order": "Ask for a plate of 'punugulu' at an evening snack cart or tiffin centre.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Punugulu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Punugulu",
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071",
+      "https://www.holidify.com/pages/food-of-andhra-pradesh-1644.html"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-ulava-charu",
+    "name": "Ulava Charu",
+    "local_name": "ఉలవచారు",
+    "pronunciation": "u-LA-va CHAA-roo",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Vijayawada",
+      "Krishna",
+      "Guntur"
+    ],
+    "description": "A dark, thick broth of horse gram cooked for a long time, halfway between a rasam and a soup. It comes from the Krishna district around Vijayawada.",
+    "how_to_eat": "Mix it into rice with a spoon of fresh cream or butter.",
+    "how_to_order": "Ask for 'ulavacharu' with an Andhra meals plate, or 'ulavacharu biryani' at restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.thenewsminute.com/andhra-pradesh/lentil-soup-telugu-soul-ulavacharu-must-try-andhra-76359",
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071",
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-pulihora",
+    "name": "Pulihora",
+    "local_name": "పులిహోర",
+    "pronunciation": "pu-li-HO-ra",
+    "category": "temple_food",
+    "state": "Andhra Pradesh",
+    "regions": [],
+    "description": "Tamarind rice tempered with mustard seeds, peanuts, curry leaves and green chillies. It is served at festivals and family events and is a common temple prasadam.",
+    "how_to_eat": "Eat it at room temperature, by hand.",
+    "how_to_order": "Ask for pulihora as prasadam at temples or with festival meals.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pulihora",
+    "source_urls": [
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071",
+      "https://www.holidify.com/pages/food-of-andhra-pradesh-1644.html",
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-gutti-vankaya-kura",
+    "name": "Gutti Vankaya Kura",
+    "local_name": null,
+    "pronunciation": "GUT-tee VUN-kaa-ya KOO-ra",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [],
+    "description": "Small brinjals stuffed with a paste of peanuts, sesame, coconut and spices and slow-cooked in gravy, sometimes with tamarind.",
+    "how_to_eat": "Eat it with rice or rotis.",
+    "how_to_order": "Ask for 'gutti vankaya' at an Andhra meals restaurant.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "peanuts",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071",
+      "https://www.holidify.com/pages/food-of-andhra-pradesh-1644.html",
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-majjiga-pulusu",
+    "name": "Majjiga Pulusu",
+    "local_name": "మజ్జిగ పులుసు",
+    "pronunciation": "MUJ-ji-ga PU-lu-su",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [],
+    "description": "Sour buttermilk boiled with a paste of chana dal and coconut, sometimes with bottle gourd, okra or ash gourd. A light, mildly spiced summer curry.",
+    "how_to_eat": "Eat it with rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andhra_cuisine",
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-dondakaya-fry",
+    "name": "Dondakaya Fry",
+    "local_name": null,
+    "pronunciation": "DON-da-kaa-ya",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [],
+    "description": "Ivy gourd stir-fried until lightly crisp with onions, red chilli powder and spices, sometimes with nuts. A common everyday side dish.",
+    "how_to_eat": "Eat it with rice and rasam or dal.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071",
+      "https://www.holidify.com/pages/food-of-andhra-pradesh-1644.html"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-panasa-pottu-kura",
+    "name": "Panasa Pottu Kura",
+    "local_name": null,
+    "pronunciation": "PA-na-sa POT-too KOO-ra",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [],
+    "description": "A seasonal curry of finely chopped raw jackfruit, valued for its meat-like texture, cooked with onions, red chillies and masala.",
+    "how_to_eat": "Eat it with rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-ragi-sangati",
+    "name": "Ragi Sangati",
+    "local_name": "రాగి సంగటి",
+    "pronunciation": "RAA-gee SUN-ga-tee",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Rayalaseema"
+    ],
+    "description": "Soft balls of finger millet cooked with rice, a Rayalaseema staple. It is traditionally eaten with natu kodi pulusu, mutton curry or greens.",
+    "how_to_eat": "Pinch off a piece, dip it in the curry and swallow without chewing much.",
+    "how_to_order": "Ask for 'ragi sangati with natu kodi pulusu' at a Rayalaseema-style restaurant.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andhra_cuisine",
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-natu-kodi-pulusu",
+    "name": "Natu Kodi Pulusu",
+    "local_name": "నాటు కోడి పులుసు",
+    "pronunciation": "NAA-too KO-dee PU-lu-su",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Rayalaseema"
+    ],
+    "description": "A spicy stew of free-range country chicken, which is tougher and gamier than broiler. It is a Rayalaseema speciality, often served with ragi sangati.",
+    "how_to_eat": "Eat it with ragi sangati or rice.",
+    "how_to_order": "Ask for 'natu kodi pulusu' at Rayalaseema or village-style restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andhra_cuisine",
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-andhra-kodi-kura",
+    "name": "Andhra Kodi Kura",
+    "local_name": null,
+    "pronunciation": "KO-dee KOO-ra",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Guntur"
+    ],
+    "description": "A very hot, thick, slow-cooked chicken curry with Guntur red chillies, onions, garlic and ground masalas. Guntur-style Andhra food is known as the spiciest in the state.",
+    "how_to_eat": "Eat it with rice or rotis.",
+    "how_to_order": "Ask for 'Andhra chicken curry' at an Andhra meals restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071",
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-gongura-mamsam",
+    "name": "Gongura Mamsam",
+    "local_name": "గోంగూర మాంసం",
+    "pronunciation": "GON-goo-ra MAAM-sum",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [],
+    "description": "Goat or sheep meat cooked in a sour gravy of gongura (sorrel) leaves, one of the best-known Andhra meat dishes.",
+    "how_to_eat": "Eat it with hot rice.",
+    "how_to_order": "Ask for 'gongura mutton' at an Andhra restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andhra_cuisine",
+      "https://en.wikipedia.org/wiki/Gongura"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-royyala-iguru",
+    "name": "Royyala Iguru",
+    "local_name": null,
+    "pronunciation": "ROY-ya-la I-gu-roo",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Coastal Andhra"
+    ],
+    "description": "A dry-style prawn curry in a thick masala of onions, red chillies and garlic, cooked until most moisture evaporates (iguru style). A coastal Andhra speciality.",
+    "how_to_eat": "Eat it with rice.",
+    "how_to_order": "Ask for 'royyala iguru' or 'prawn iguru' at a coastal Andhra restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071",
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-chepala-pulusu",
+    "name": "Chepala Pulusu",
+    "local_name": "చేపల పులుసు",
+    "pronunciation": "CHAY-pa-la PU-lu-su",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Godavari",
+      "Nellore"
+    ],
+    "description": "A hot, tangy fish stew in tamarind sauce with onions and green chillies, traditionally cooked in earthen pots. Godavari and Nellore have their own styles.",
+    "how_to_eat": "Eat it with rice.",
+    "how_to_order": "Ask for 'chepala pulusu' at a coastal Andhra restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andhra_cuisine",
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071",
+      "https://www.holidify.com/pages/food-of-andhra-pradesh-1644.html"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-bommidala-pulusu",
+    "name": "Bommidala Pulusu",
+    "local_name": "బొమ్మిడాల పులుసు",
+    "pronunciation": "bom-MI-daa-la PU-lu-su",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Coastal Andhra"
+    ],
+    "description": "A stew of lesser spiny eel, considered a seafood speciality of coastal Andhra.",
+    "how_to_eat": "Eat it with rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-doopudu-potu-pulao",
+    "name": "Doopudu Potu Pulao",
+    "local_name": "దూపుడు పోతు పులావ్",
+    "pronunciation": "DOO-pu-doo PO-too pu-LAAV",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Bhimavaram"
+    ],
+    "description": "A Bhimavaram pulao in which a ram is charred with the skin on, cubed and cooked in gravy, then added to separately cooked Chitti Mutyalu rice, giving a smoky flavour.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'doopudu pulao' at Bhimavaram eateries.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-bongu-chicken",
+    "name": "Bongu Chicken",
+    "local_name": "బొంగు కోడి",
+    "pronunciation": "BON-goo",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Araku Valley",
+      "Maredumilli"
+    ],
+    "description": "A tribal dish of chicken marinated with salt, chilli, turmeric and ginger-garlic and cooked inside bamboo over charcoal, with no oil or water. It is strongly associated with Araku Valley and Maredumilli.",
+    "how_to_eat": "Eat it hot, straight from the split bamboo.",
+    "how_to_order": "Ask for 'bongu chicken' or 'bamboo chicken' at roadside stalls around Araku Valley.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bamboo_chicken",
+    "source_urls": [
+      "https://www.thenewsminute.com/andhra-pradesh/forest-love-how-araku-valleys-famous-bamboo-chicken-made-70343",
+      "https://en.wikipedia.org/wiki/Bamboo_chicken",
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-talakaya-pulusu",
+    "name": "Talakaya Pulusu",
+    "local_name": "తలకాయ పులుసు",
+    "pronunciation": "TA-la-kaa-ya PU-lu-su",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [],
+    "description": "A sour, spicy stew of goat or sheep head.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-kodi-pulao",
+    "name": "Kodi Pulao",
+    "local_name": null,
+    "pronunciation": "KO-dee pu-LAAV",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [],
+    "description": "A spicy one-pot dish of chicken and rice with red and green chillies and ground masala, less aromatic than biryani.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'kodi pulao' at an Andhra restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-uggani-bajji",
+    "name": "Uggani Bajji",
+    "local_name": "ఉగ్గాని బజ్జి",
+    "pronunciation": "UG-gaa-nee BUJ-jee",
+    "category": "street_food",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Rayalaseema",
+      "Kurnool",
+      "Anantapur"
+    ],
+    "description": "Uggani, cooked with turmeric, is served with mirapakaya bajji (chilli fritters). It is a spicy Rayalaseema breakfast or snack.",
+    "how_to_eat": "Eat a bite of bajji with each spoon of uggani.",
+    "how_to_order": "Ask for 'uggani bajji' at a Rayalaseema tiffin centre.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-dibba-rotti",
+    "name": "Dibba Rotti",
+    "local_name": null,
+    "pronunciation": "DIB-ba ROT-tee",
+    "category": "meal",
+    "state": "Andhra Pradesh",
+    "regions": [],
+    "description": "A thick, deep-fried or pan-fried cake of urad dal and rice batter, also called minapa rotti. A classic Andhra breakfast or snack.",
+    "how_to_eat": "Eat it with chutney or pickle.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-pootharekulu",
+    "name": "Pootharekulu",
+    "local_name": "పూతరేకులు",
+    "pronunciation": "POO-tha-ray-ku-loo",
+    "category": "sweet",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Atreyapuram"
+    ],
+    "description": "Paper-thin sheets of rice starch layered with powdered sugar or jaggery and ghee, sometimes with dry fruits. The name means 'coated sheets'. It is from Atreyapuram village in the Godavari region and received a GI tag in 2023-24.",
+    "how_to_eat": "Eat gently by hand; the sheets crumble easily.",
+    "how_to_order": "Ask for 'Atreyapuram pootharekulu' at sweet shops, sold boxed by the piece.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pootharekulu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pootharekulu",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-bandar-laddu",
+    "name": "Bandar Laddu",
+    "local_name": "బందరు లడ్డు",
+    "pronunciation": "BUN-dar LUD-doo",
+    "category": "sweet",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Machilipatnam"
+    ],
+    "description": "A laddu of Bengal gram flour, jaggery syrup and ghee from Machilipatnam (Bandar), also called thokkudu laddu. It was registered as a GI foodstuff in 2017.",
+    "how_to_eat": "Eat it as is; it is soft and crumbly.",
+    "how_to_order": "Ask for 'Bandar laddu' or 'thokkudu laddu' at Machilipatnam sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bandar_laddu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bandar_laddu",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-tirupati-laddu",
+    "name": "Tirupati Laddu",
+    "local_name": "తిరుపతి లడ్డు",
+    "pronunciation": "tiru-PA-tee LUD-doo",
+    "category": "temple_food",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Tirupati",
+      "Tirumala"
+    ],
+    "description": "The prasadam laddu of the Venkateswara temple at Tirumala, made of gram flour, ghee, sugar, sugar candy, cashews, raisins and cardamom. Also called Srivari laddu, it received a GI tag in 2009.",
+    "how_to_eat": "Eat it as prasadam; break off a piece and share it.",
+    "how_to_order": "Collect it at the temple laddu counters with a darshan token; without one, show Aadhaar to buy up to two a day.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tirupati_laddu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tirupati_laddu",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-kakinada-kaja",
+    "name": "Kakinada Kaja",
+    "local_name": null,
+    "pronunciation": "KAA-ki-naa-da KAA-ja",
+    "category": "sweet",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Kakinada"
+    ],
+    "description": "A layered fried pastry of wheat flour soaked in sugar syrup, dry on the outside and juicy inside. It is from the coastal town of Kakinada.",
+    "how_to_eat": "Bite carefully; the syrup bursts out.",
+    "how_to_order": "Ask for 'Kakinada kaja' by the piece or weight at sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khaja",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khaja",
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071",
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-bobbatlu",
+    "name": "Bobbatlu",
+    "local_name": null,
+    "pronunciation": "BOB-bat-loo",
+    "category": "sweet",
+    "state": "Andhra Pradesh",
+    "regions": [],
+    "description": "A sweet flatbread of wheat or refined flour stuffed with chana dal, jaggery and cardamom, served with ghee. Also called polelu, it is made for festivals and is similar to puran poli.",
+    "how_to_eat": "Eat it warm with a spoon of ghee.",
+    "how_to_order": "Look for bobbatlu at sweet shops around festivals.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Puran_poli",
+    "source_urls": [
+      "https://www.restaurantindia.in/article/20-famous-foods-of-andhra-pradesh-that-showcase-its-rich-culinary-heritage.15071",
+      "https://www.holidify.com/pages/food-of-andhra-pradesh-1644.html",
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-ariselu",
+    "name": "Ariselu",
+    "local_name": "అరిసెలు",
+    "pronunciation": "a-RI-se-loo",
+    "category": "sweet",
+    "state": "Andhra Pradesh",
+    "regions": [],
+    "description": "A deep-fried sweet of rice flour and jaggery, often with sesame, made especially for Sankranti.",
+    "how_to_eat": "Eat at room temperature.",
+    "how_to_order": "Look for ariselu at sweet shops around Sankranti.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "sesame",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Adhirasam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-sunnundalu",
+    "name": "Sunnundalu",
+    "local_name": null,
+    "pronunciation": "sun-NUN-da-loo",
+    "category": "sweet",
+    "state": "Andhra Pradesh",
+    "regions": [],
+    "description": "Laddus of roasted urad dal ground with jaggery or sugar and bound with ghee.",
+    "how_to_eat": "Eat one as a sweet.",
+    "how_to_order": "Buy them at Andhra sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-kajjikayalu",
+    "name": "Kajjikayalu",
+    "local_name": null,
+    "pronunciation": "KUJ-ji-kaa-ya-loo",
+    "category": "sweet",
+    "state": "Andhra Pradesh",
+    "regions": [],
+    "description": "Fried dumplings with a filling of semolina, coconut and sugar, made at Deepavali.",
+    "how_to_eat": "Eat at room temperature.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-gavvalu",
+    "name": "Gavvalu",
+    "local_name": "గవ్వలు",
+    "pronunciation": "GUV-va-loo",
+    "category": "sweet",
+    "state": "Andhra Pradesh",
+    "regions": [],
+    "description": "Small fried flour pieces coated in sugar, a traditional Andhra sweet.",
+    "how_to_eat": "Eat a handful as a snack.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-malai-khaja",
+    "name": "Malai Khaja",
+    "local_name": null,
+    "pronunciation": "ma-LAI KHAA-ja",
+    "category": "sweet",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Nellore"
+    ],
+    "description": "A sweet associated with Nellore in coastal Andhra.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'malai khaja' at Nellore sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andhra_cuisine"
+    ]
+  },
+  {
+    "id": "andhra_pradesh-araku-valley-coffee",
+    "name": "Araku Valley Coffee",
+    "local_name": null,
+    "pronunciation": "AA-ra-koo",
+    "category": "drink",
+    "state": "Andhra Pradesh",
+    "regions": [
+      "Araku Valley"
+    ],
+    "description": "Arabica coffee grown in the Araku Valley hills of the Eastern Ghats. Araku Valley Arabica Coffee holds a GI tag registered in 2018-19.",
+    "how_to_eat": "Drink it black or as filter coffee.",
+    "how_to_order": "Ask for Araku coffee at cafes in Visakhapatnam and Araku, or buy beans locally.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India"
+    ]
+  }
+]

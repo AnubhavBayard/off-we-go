@@ -1,0 +1,222 @@
+[
+  {
+    "id": "dadra_and_nagar_haveli_and_daman_and_diu-ubadiyu",
+    "name": "Ubadiyu",
+    "local_name": null,
+    "pronunciation": "u-BAA-di-yu",
+    "category": "meal",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "regions": [
+      "Silvassa",
+      "Dadra and Nagar Haveli"
+    ],
+    "description": "A winter dish of potatoes, green beans, purple yam and sweet potatoes cooked with herbs in an earthen pot set upside down in a fire. It is similar to Gujarati undhiyu, and the herbs kalar (Indian nettle) and kamboi give it an earthy smell.",
+    "how_to_eat": "Eat it hot on a winter night with buttermilk spiced with turmeric.",
+    "how_to_order": "Ask for 'ubadiyu' at roadside stalls around Silvassa in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Umbadiyu",
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa/culinary-delights-of-silvassa",
+      "https://en.wikipedia.org/wiki/Umbadiyu"
+    ]
+  },
+  {
+    "id": "dadra_and_nagar_haveli_and_daman_and_diu-ponk",
+    "name": "Ponk",
+    "local_name": null,
+    "pronunciation": "PONK",
+    "category": "snack",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "regions": [
+      "Silvassa"
+    ],
+    "description": "Tender green sorghum grains, roasted and beaten from the husk, eaten as a winter snack, often with sev. Incredible India lists paunk among Silvassa's local specialities.",
+    "how_to_eat": "Eat it fresh in winter, mixed with sev.",
+    "how_to_order": "Ask for 'ponk' at stalls in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ponk",
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa/culinary-delights-of-silvassa",
+      "https://en.wikipedia.org/wiki/Ponk"
+    ]
+  },
+  {
+    "id": "dadra_and_nagar_haveli_and_daman_and_diu-bombil-fry",
+    "name": "Bombil Fry",
+    "local_name": null,
+    "pronunciation": "BOM-bil fry",
+    "category": "meal",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "regions": [
+      "Daman"
+    ],
+    "description": "Bombay duck fish marinated in spices and deep-fried until crisp, a signature fish dish of Daman.",
+    "how_to_eat": "Eat it hot as a starter.",
+    "how_to_order": "Ask for 'bombil fry' at beach-side eateries in Daman.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bombay_duck",
+    "source_urls": [
+      "https://tripxl.com/blog/best-food-in-daman/"
+    ]
+  },
+  {
+    "id": "dadra_and_nagar_haveli_and_daman_and_diu-diu-chouri-o",
+    "name": "Diu Chouriço",
+    "local_name": null,
+    "pronunciation": "cho-REE-so",
+    "category": "meal",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "regions": [
+      "Diu"
+    ],
+    "description": "Diu's chouriço sausage of pork, chillies and spices, a legacy of Portuguese rule. It is eaten on its own or cooked into curries.",
+    "how_to_eat": "Eat it fried on its own or in a curry with bread.",
+    "how_to_order": "Ask for 'chouriço' at restaurants in Diu.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu/culinary-delights-of-diu"
+    ]
+  },
+  {
+    "id": "dadra_and_nagar_haveli_and_daman_and_diu-crab-curry",
+    "name": "Crab Curry",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "regions": [
+      "Silvassa",
+      "Daman",
+      "Diu"
+    ],
+    "description": "Freshly caught crab, an all-time local favourite in Silvassa, and seasonal spicy crab gravies on the Daman and Diu coast.",
+    "how_to_eat": "Crack the shells by hand and eat with rice.",
+    "how_to_order": "Ask what crab is in season at a seafood restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa/culinary-delights-of-silvassa",
+      "https://trekgo.in/blog/food-in-daman-and-diu"
+    ]
+  },
+  {
+    "id": "dadra_and_nagar_haveli_and_daman_and_diu-coconut-fish-curry",
+    "name": "Coconut Fish Curry",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "regions": [
+      "Daman",
+      "Diu"
+    ],
+    "description": "A coastal fish curry, tangy and spiced, often with coconut, made with the local catch. Fish, coconut and rice are the base of the coastal cooking of Daman and Diu.",
+    "how_to_eat": "Eat it with steamed rice.",
+    "how_to_order": "Ask for the 'fish curry' with the day's catch, such as pomfret or surmai, at a beach-side restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.cuisineindiasociety.in/?p=1439",
+      "https://trekgo.in/blog/food-in-daman-and-diu"
+    ]
+  },
+  {
+    "id": "dadra_and_nagar_haveli_and_daman_and_diu-nagli-rotla",
+    "name": "Nagli Rotla",
+    "local_name": null,
+    "pronunciation": "NAG-li ROT-la",
+    "category": "meal",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "regions": [
+      "Silvassa",
+      "Dadra and Nagar Haveli"
+    ],
+    "description": "Flatbread made from ragi, called nagli locally; rice and jowar flours are also staples of Silvassa's cooking. Millet rotla and kodri (barnyard millet) dishes are signature foods of the territory.",
+    "how_to_eat": "Eat it with a vegetable dish or curry.",
+    "how_to_order": "Ask for 'nagli roti' or 'rotla' at a village-style eatery around Silvassa.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa/culinary-delights-of-silvassa",
+      "https://www.cuisineindiasociety.in/?p=1439"
+    ]
+  },
+  {
+    "id": "dadra_and_nagar_haveli_and_daman_and_diu-doodh-pak",
+    "name": "Doodh Pak",
+    "local_name": null,
+    "pronunciation": "DOODH-paak",
+    "category": "sweet",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "regions": [
+      "Silvassa"
+    ],
+    "description": "A rice pudding of thickened milk, sugar and nuts, named among Silvassa's local specialities.",
+    "how_to_eat": "Eat it warm or chilled, with puri.",
+    "how_to_order": "Ask for 'doodh pak' on a Gujarati thali.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Doodhpak",
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa/culinary-delights-of-silvassa",
+      "https://en.wikipedia.org/wiki/Doodhpak"
+    ]
+  }
+]

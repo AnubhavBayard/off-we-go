@@ -1,0 +1,188 @@
+[
+  {
+    "id": "chandigarh-chole-bhature",
+    "name": "Chole Bhature",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Chandigarh",
+    "regions": [],
+    "description": "Thick spiced chickpea gravy with bhatura, a deep-fried bread of white flour, sometimes stuffed with potato or paneer. It is one of Chandigarh's most popular meals.",
+    "how_to_eat": "Eat it with green chutney, onion and pickle, and a lassi on the side.",
+    "how_to_order": "Ask for a plate of 'chole bhature' at sector market eateries.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chole_bhature",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chole_bhature",
+      "https://blog.swiggy.com/food/unravel-the-city-beautiful-with-8-must-eat-foods/",
+      "https://blog.swiggy.com/food/a-guide-into-the-best-mouth-watering-street-foods-in-chandigarh/"
+    ]
+  },
+  {
+    "id": "chandigarh-amritsari-kulcha",
+    "name": "Amritsari Kulcha",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Chandigarh",
+    "regions": [],
+    "description": "Tandoor-baked flatbread stuffed with potato, paneer, onion or gobhi, topped with butter. Roadside stalls across the city sell it.",
+    "how_to_eat": "Eat it with spicy chole, chutney and pickle.",
+    "how_to_order": "Ask for an 'aloo' or 'mix kulcha' with chole at kulcha stalls, such as those in Sector 9.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kulcha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kulcha",
+      "https://blog.swiggy.com/food/unravel-the-city-beautiful-with-8-must-eat-foods/",
+      "https://blog.swiggy.com/food/a-guide-into-the-best-mouth-watering-street-foods-in-chandigarh/"
+    ]
+  },
+  {
+    "id": "chandigarh-butter-chicken",
+    "name": "Butter Chicken",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Chandigarh",
+    "regions": [],
+    "description": "Grilled chicken pieces in a buttery, smooth tomato and onion gravy. It is a staple at Chandigarh's non-vegetarian restaurants.",
+    "how_to_eat": "Eat it with butter naan.",
+    "how_to_order": "Ask for half or full 'butter chicken' at dhabas.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Butter_chicken",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Butter_chicken",
+      "https://blog.swiggy.com/food/unravel-the-city-beautiful-with-8-must-eat-foods/"
+    ]
+  },
+  {
+    "id": "chandigarh-rajma-chawal",
+    "name": "Rajma Chawal",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Chandigarh",
+    "regions": [],
+    "description": "Red kidney beans in a thick spicy tomato-onion gravy, served with jeera or steamed rice. It is a filling, everyday favourite in the city.",
+    "how_to_eat": "Mix the rajma into the rice and add onion and pickle.",
+    "how_to_order": "Ask for a plate of 'rajma chawal' at small eateries in sector markets.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rajma",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajma",
+      "https://blog.swiggy.com/food/unravel-the-city-beautiful-with-8-must-eat-foods/",
+      "https://blog.swiggy.com/food/a-guide-into-the-best-mouth-watering-street-foods-in-chandigarh/"
+    ]
+  },
+  {
+    "id": "chandigarh-sarson-da-saag-with-makki-di-roti",
+    "name": "Sarson da Saag with Makki di Roti",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Chandigarh",
+    "regions": [],
+    "description": "Mashed mustard greens with spices, eaten with flat cornbread and plenty of butter and ghee. The Punjabi classic is served from street stalls to fine dining in Chandigarh.",
+    "how_to_eat": "Top it with white butter and eat with the makki roti.",
+    "how_to_order": "Ask for 'saag makki' in winter at dhabas.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sarson_da_saag",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sarson_da_saag",
+      "https://blog.swiggy.com/food/unravel-the-city-beautiful-with-8-must-eat-foods/"
+    ]
+  },
+  {
+    "id": "chandigarh-paneer-tikka",
+    "name": "Paneer Tikka",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "state": "Chandigarh",
+    "regions": [],
+    "description": "Paneer cubes grilled on skewers with peppers and onions. It is a North Indian street food favourite in the city.",
+    "how_to_eat": "Eat it with lime and green chutney.",
+    "how_to_order": "Ask for a plate of 'paneer tikka' at tikka stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paneer_tikka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Paneer_tikka",
+      "https://blog.swiggy.com/food/unravel-the-city-beautiful-with-8-must-eat-foods/"
+    ]
+  },
+  {
+    "id": "chandigarh-lassi",
+    "name": "Lassi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "state": "Chandigarh",
+    "regions": [],
+    "description": "A chilled yogurt drink, sweet or salted, sometimes with dry fruits. Locals often follow a meal with lassi or buttermilk.",
+    "how_to_eat": "Drink it cold after a heavy meal.",
+    "how_to_order": "Ask for 'meethi' or 'namkeen lassi' at sweet shops such as those in Sector 17.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lassi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lassi",
+      "https://blog.swiggy.com/food/unravel-the-city-beautiful-with-8-must-eat-foods/",
+      "https://blog.swiggy.com/food/a-guide-into-the-best-mouth-watering-street-foods-in-chandigarh/"
+    ]
+  }
+]

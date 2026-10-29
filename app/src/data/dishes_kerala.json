@@ -1,0 +1,279 @@
+[
+  {
+    "id": "kerala-sadya",
+    "name": "Sadya",
+    "local_name": "സദ്യ",
+    "pronunciation": "SUD-ya",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A vegetarian feast of around 20 dishes served on a banana leaf with rice, including sambar, avial, thoran, kaalan, pickles and payasam. It is the centrepiece of Onam and Vishu and of weddings and other celebrations.",
+    "how_to_eat": "Eat with your right hand, working through the leaf in order from rice and parippu with ghee to sambar, then the payasams last.",
+    "how_to_order": "Book an 'Onam sadya' at hotels and restaurants around the festival, or ask for a 'sadya' or 'meals' plate at vegetarian restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sadya",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sadya",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala"
+    ]
+  },
+  {
+    "id": "kerala-puttu-kadala",
+    "name": "Puttu and Kadala Curry",
+    "local_name": "പുട്ട്",
+    "pronunciation": "PUT-tu",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [],
+    "description": "Steamed cylinders of ground rice layered with grated coconut, paired with a black chickpea curry cooked with shallots, spices and coconut. It is Kerala's best-known breakfast, served at homes, tea shops and street stalls.",
+    "how_to_eat": "Break the puttu up on the plate and mash it into the kadala curry, with a papad on the side.",
+    "how_to_order": "Ask for 'puttu kadala' at any breakfast hotel or tea shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Puttu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Puttu",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala",
+      "https://thebetterindia.com/172384/kochi-street-food-recommendations-travel",
+      "https://www.onmanorama.com/food/features/2025/09/27/kerala-food-experiences.amp.html"
+    ]
+  },
+  {
+    "id": "kerala-appam-stew",
+    "name": "Appam with Stew",
+    "local_name": "അപ്പം",
+    "pronunciation": "AAP-pum",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A bowl-shaped pancake of fermented rice batter and coconut milk, crisp at the edges and soft in the middle, cooked in an appachatti. It is classically served with a mild coconut-milk stew flavoured with ginger and pepper, made with vegetables, chicken or mutton.",
+    "how_to_eat": "Tear the lacy edge and scoop up the stew with the soft centre.",
+    "how_to_order": "Ask for 'appam and stew' and specify vegetable, chicken or mutton stew.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Appam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Appam",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala",
+      "https://thebetterindia.com/172384/kochi-street-food-recommendations-travel"
+    ]
+  },
+  {
+    "id": "kerala-parotta-beef-fry",
+    "name": "Kerala Parotta",
+    "local_name": "കേരള പൊറോട്ട",
+    "pronunciation": "po-ROT-ta",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [
+      "Kochi",
+      "Kozhikode"
+    ],
+    "description": "A flaky, layered flatbread of maida and oil, kneaded, coiled into a spiral and rolled out; some cooks add egg or ghee to the dough. The Malabar or Kerala parotta is most famously eaten with beef fry or beef curry.",
+    "how_to_eat": "Crush the parotta between your palms to separate the layers, then tear and dip it in curry.",
+    "how_to_order": "Ask for 'porotta' with beef fry or chicken curry at almost any non-vegetarian eatery.",
+    "typical_price_inr": null,
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/South_Indian_parotta",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/South_Indian_parotta",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala",
+      "https://thebetterindia.com/172384/kochi-street-food-recommendations-travel"
+    ]
+  },
+  {
+    "id": "kerala-beef-fry",
+    "name": "Kerala Beef Fry",
+    "local_name": "കേരള ബീഫ് ഫ്രൈ",
+    "pronunciation": "beef FRY",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [],
+    "description": "Beef slow-roasted with spices, onions, curry leaves and slivers of coconut, then fried in coconut oil until dark and dry. Also called beef ularthiyathu, it is one of Kerala's best-known non-vegetarian dishes.",
+    "how_to_eat": "Eat it with parotta, appam or rice.",
+    "how_to_order": "Ask for 'beef fry' or 'beef ularthiyathu' at non-vegetarian hotels.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kerala_beef_fry",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kerala_beef_fry",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine",
+      "https://thebetterindia.com/172384/kochi-street-food-recommendations-travel"
+    ]
+  },
+  {
+    "id": "kerala-karimeen-pollichathu",
+    "name": "Karimeen Pollichathu",
+    "local_name": null,
+    "pronunciation": "ka-ri-MEEN pol-li-CHA-thu",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [
+      "Kuttanad",
+      "Alappuzha",
+      "Kumarakom"
+    ],
+    "description": "Pearl spot fish (karimeen) marinated in spices, chillies and lemon, wrapped in banana leaf and grilled or steamed. The leaf gives it its distinct flavour, and it is a signature dish of the Kuttanad backwaters.",
+    "how_to_eat": "Unwrap the leaf at the table and eat the fish with rice.",
+    "how_to_order": "Ask for 'karimeen pollichathu' at backwater restaurants and toddy shops around Alappuzha and Kumarakom.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.keralatourism.org/kerala-article/2019/kuttanadan-cuisine/972",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala"
+    ]
+  },
+  {
+    "id": "kerala-fish-moilee",
+    "name": "Fish Moilee",
+    "local_name": null,
+    "pronunciation": "MOY-lee",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [
+      "Kochi"
+    ],
+    "description": "A mild fish stew of seer fish or kingfish cooked in coconut milk with green chillies, pepper, turmeric and whole spices. It is associated with Syrian Christian cooking and is traditionally made in an earthen pot.",
+    "how_to_eat": "Eat it with appam or rice.",
+    "how_to_order": "Ask for 'fish molly' or 'meen moilee' at Kerala restaurants, especially in Kochi.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fish_moolie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fish_moolie",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala",
+      "https://thebetterindia.com/172384/kochi-street-food-recommendations-travel"
+    ]
+  },
+  {
+    "id": "kerala-thalassery-biryani",
+    "name": "Thalassery Biryani",
+    "local_name": null,
+    "pronunciation": "tha-LUSH-ery bir-YAA-ni",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [
+      "Thalassery",
+      "Kannur",
+      "Kozhikode"
+    ],
+    "description": "A dum-style chicken or mutton biryani from Thalassery in north Kerala, made with small-grained kaima (jeerakasala) rice instead of basmati. It is a central dish of Malabar Mappila cooking.",
+    "how_to_eat": "Eat it with raita, pickle and a squeeze of lime; it needs no separate curry.",
+    "how_to_order": "Ask for 'Thalassery biryani' at Malabar restaurants in Thalassery, Kannur and Kozhikode.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thalassery_cuisine",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thalassery_cuisine",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala"
+    ]
+  },
+  {
+    "id": "kerala-avial",
+    "name": "Avial",
+    "local_name": "അവിയൽ",
+    "pronunciation": "a-VI-yal",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A thick mix of about 13 vegetables cooked with coconut and seasoned with coconut oil and curry leaves, often with curd for sourness. It is often the star dish of the sadya.",
+    "how_to_eat": "Eat it with rice as part of a meal.",
+    "how_to_order": "Comes with sadya or 'meals' at vegetarian restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Avial",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Avial",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-idiyappam",
+    "name": "Idiyappam",
+    "local_name": "ഇടിയപ്പം",
+    "pronunciation": "I-di-yaap-pum",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [],
+    "description": "Rice flour dough pressed into fine noodles, laid in flat nests and steamed. It is eaten with coconut milk and sugar or with curries such as egg curry or stew.",
+    "how_to_eat": "Eat it with stew or curry, or sweet with coconut milk and sugar.",
+    "how_to_order": "Ask for 'idiyappam' at breakfast; it is sold in sets of three or four.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Idiyappam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Idiyappam",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala"
+    ]
+  }
+]

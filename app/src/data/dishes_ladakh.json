@@ -1,0 +1,268 @@
+[
+  {
+    "id": "ladakh-thukpa",
+    "name": "Thukpa",
+    "local_name": "ཐུག་པ",
+    "pronunciation": "THOOK-pa",
+    "category": "meal",
+    "state": "Ladakh",
+    "regions": [
+      "Leh"
+    ],
+    "description": "A Tibetan-style noodle soup that is a staple in Ladakhi homes: a clear broth with vegetables and wheat or barley noodles, often with chicken, mutton or yak. Variants include thenthuk (hand-pulled noodles) and gyathuk (thin noodles).",
+    "how_to_eat": "Eat hot, adding spicy chutney to taste.",
+    "how_to_order": "Ask for 'veg thukpa' or 'mutton thukpa' at almost any restaurant in Leh.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thukpa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thukpa",
+      "https://www.lehladakhtaxis.com/practical-info/food-and-cuisine-10-best-dishes-to-eat-in-ladakh",
+      "https://www.dreamladakh.com/blog/?p=156",
+      "https://tribuneindia.com/news/food-of-ladakh-10-delicious-dishes-you-must-try-in-ladakh-528918"
+    ]
+  },
+  {
+    "id": "ladakh-thenthuk",
+    "name": "Thenthuk",
+    "local_name": "འཐེན་ཐུག་",
+    "pronunciation": "THEN-thook",
+    "category": "meal",
+    "state": "Ladakh",
+    "regions": [
+      "Leh"
+    ],
+    "description": "A thukpa made with flat hand-pulled pieces of wheat dough, mixed vegetables and usually mutton or yak meat; vegetable versions are common too. It is a warming soup for cold weather.",
+    "how_to_eat": "Eat hot as a full meal.",
+    "how_to_order": "Ask for 'thenthuk' (say veg or mutton) at Tibetan and Ladakhi restaurants in Leh.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thenthuk",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thenthuk",
+      "https://tribuneindia.com/news/food-of-ladakh-10-delicious-dishes-you-must-try-in-ladakh-528918",
+      "https://www.dreamladakh.com/blog/?p=156"
+    ]
+  },
+  {
+    "id": "ladakh-momos",
+    "name": "Momos",
+    "local_name": null,
+    "pronunciation": "MO-mos",
+    "category": "street_food",
+    "state": "Ladakh",
+    "regions": [
+      "Leh"
+    ],
+    "description": "Tibetan-style dumplings filled with minced meat, vegetables or cheese (sometimes chhurpi), steamed in a tiered steamer called a mokto or fried. They are widely sold as street food and eaten at festivals like Losar.",
+    "how_to_eat": "Eat hot, dipped in chilli or tomato chutney, often with a bowl of soup.",
+    "how_to_order": "Ask for 'veg', 'chicken' or 'cheese' momos at cafes and stalls in Leh.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Momo_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Momo_(food)",
+      "https://www.lehladakhtaxis.com/practical-info/food-and-cuisine-10-best-dishes-to-eat-in-ladakh",
+      "https://www.dreamladakh.com/blog/?p=156"
+    ]
+  },
+  {
+    "id": "ladakh-skyu",
+    "name": "Skyu",
+    "local_name": null,
+    "pronunciation": "SKYOO",
+    "category": "meal",
+    "state": "Ladakh",
+    "regions": [
+      "Leh",
+      "Ladakh villages"
+    ],
+    "description": "A traditional Ladakhi stew of thumb-sized flattened wheat or barley dough pieces cooked slowly with root vegetables like potato, turnip and carrot, sometimes with meat. The village version, oma skyu, is made with milk. It is mostly eaten in winter.",
+    "how_to_eat": "Eat hot as a one-pot meal.",
+    "how_to_order": "Ask for 'skyu' at Ladakhi-food restaurants in Leh or at homestays.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.lehladakhtaxis.com/practical-info/food-and-cuisine-10-best-dishes-to-eat-in-ladakh",
+      "https://tribuneindia.com/news/food-of-ladakh-10-delicious-dishes-you-must-try-in-ladakh-528918",
+      "https://www.dreamladakh.com/blog/?p=156",
+      "https://www.goya.in/blog/inside-ladakhs-high-altitude-kitchen"
+    ]
+  },
+  {
+    "id": "ladakh-chutagi",
+    "name": "Chutagi",
+    "local_name": null,
+    "pronunciation": "CHOO-ta-gee",
+    "category": "meal",
+    "state": "Ladakh",
+    "regions": [
+      "Leh"
+    ],
+    "description": "Bow-tie-shaped pieces of wheat dough cooked in a thick soup of potatoes, carrots, peas and local greens; meat versions are also common. It was traditionally a harvest-time meal for field workers.",
+    "how_to_eat": "Eat hot as a main dish.",
+    "how_to_order": "Ask for 'chutagi' at Ladakhi restaurants in Leh.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.lehladakhtaxis.com/practical-info/food-and-cuisine-10-best-dishes-to-eat-in-ladakh",
+      "https://tribuneindia.com/news/food-of-ladakh-10-delicious-dishes-you-must-try-in-ladakh-528918",
+      "https://www.dreamladakh.com/blog/?p=156",
+      "https://www.goya.in/blog/inside-ladakhs-high-altitude-kitchen"
+    ]
+  },
+  {
+    "id": "ladakh-tingmo",
+    "name": "Tingmo",
+    "local_name": "ཀྲིན་མོག",
+    "pronunciation": "TING-mo",
+    "category": "meal",
+    "state": "Ladakh",
+    "regions": [
+      "Leh"
+    ],
+    "description": "A soft, fluffy steamed bun of white flour with no filling, shaped by twisting the dough. It is eaten at any meal in Ladakh.",
+    "how_to_eat": "Tear it and dip it in dal, vegetable or meat curry.",
+    "how_to_order": "Ask for 'tingmo' with a curry at Tibetan and Ladakhi restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tingmo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tingmo",
+      "https://www.lehladakhtaxis.com/practical-info/food-and-cuisine-10-best-dishes-to-eat-in-ladakh",
+      "https://www.dreamladakh.com/blog/?p=156"
+    ]
+  },
+  {
+    "id": "ladakh-khambir",
+    "name": "Khambir",
+    "local_name": null,
+    "pronunciation": "KHAM-beer",
+    "category": "meal",
+    "state": "Ladakh",
+    "regions": [
+      "Leh"
+    ],
+    "description": "A thick, round Ladakhi bread of fermented whole-wheat dough baked on a hot stone and in the fire, with a firm crust and soft centre. It keeps for over a week.",
+    "how_to_eat": "Eat warm at breakfast with butter tea, apricot jam or eggs.",
+    "how_to_order": "Ask for 'khambir' at Ladakhi cafes and homestays for breakfast.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.lehladakhtaxis.com/practical-info/food-and-cuisine-10-best-dishes-to-eat-in-ladakh",
+      "https://www.goya.in/blog/inside-ladakhs-high-altitude-kitchen",
+      "https://www.dreamladakh.com/blog/?p=156",
+      "https://tribuneindia.com/news/food-of-ladakh-10-delicious-dishes-you-must-try-in-ladakh-528918"
+    ]
+  },
+  {
+    "id": "ladakh-butter-tea",
+    "name": "Butter Tea",
+    "local_name": null,
+    "pronunciation": "GUR-gur chai",
+    "category": "drink",
+    "state": "Ladakh",
+    "regions": [
+      "Ladakh"
+    ],
+    "description": "Known locally as gur gur chai, it is tea churned with yak butter and salt (sometimes milk) in a tall wooden churn until pinkish. Locals drink it daily and serve it at weddings and celebrations, refilling guests' cups.",
+    "how_to_eat": "Sip it hot; expect a salty, buttery taste.",
+    "how_to_order": "Ask for 'gur gur chai' at local cafes or homestays.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Butter_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Butter_tea",
+      "https://www.lehladakhtaxis.com/practical-info/food-and-cuisine-10-best-dishes-to-eat-in-ladakh",
+      "https://www.goya.in/blog/inside-ladakhs-high-altitude-kitchen",
+      "https://www.dreamladakh.com/blog/?p=156"
+    ]
+  },
+  {
+    "id": "ladakh-seabuckthorn-juice",
+    "name": "Seabuckthorn Juice",
+    "local_name": null,
+    "pronunciation": "see-BUK-thorn juice",
+    "category": "drink",
+    "state": "Ladakh",
+    "regions": [
+      "Leh",
+      "Nubra"
+    ],
+    "description": "A tart, citrusy juice from the small orange berries (chharma) that grow wild along the Indus and Shyok rivers. The berries are high in vitamin C and are also pressed into oil, jam and tea.",
+    "how_to_eat": "Drink chilled or diluted.",
+    "how_to_order": "Ask for 'seabuckthorn juice' at cafes in Leh or buy bottles in the market.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sea_buckthorn",
+    "source_urls": [
+      "https://www.goya.in/blog/inside-ladakhs-high-altitude-kitchen",
+      "https://www.dreamladakh.com/blog/?p=156",
+      "https://www.tourmyindia.com/states/jammu-kashmir/ladakh-cuisine.html"
+    ]
+  }
+]

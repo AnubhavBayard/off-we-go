@@ -1,0 +1,1001 @@
+[
+  {
+    "id": "uttar_pradesh-tunday-galouti-kebab",
+    "name": "Tunday / Galouti Kebab",
+    "local_name": null,
+    "pronunciation": "TOON-day ka-BAAB",
+    "category": "meal",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Lucknow"
+    ],
+    "description": "Very soft patties of finely minced meat, said to use around 160 spices, along with yogurt, ghee, saffron and rose water. A signature of Lucknow's Awadhi cuisine, it was popularised under Nawab Wajid Ali Shah. The classic version uses buffalo meat; mutton and chicken versions are also common.",
+    "how_to_eat": "Tear a piece of rumali roti or paratha and pinch up the kebab with it, since it is too soft to pick up alone.",
+    "how_to_order": "Ask for a plate of galouti or Tunday kebab with rumali roti at kebab shops in Aminabad or Chowk.",
+    "typical_price_inr": "50",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tunde_ke_kabab",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tunde_ke_kabab",
+      "https://www.jaypeehotels.com/blog/famous-food-uttar-pradesh",
+      "https://traveltriangle.com/blog/street-food-in-lucknow/"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-awadhi-lucknowi-biryani",
+    "name": "Awadhi (Lucknowi) Biryani",
+    "local_name": null,
+    "pronunciation": "UH-vuh-dhee bir-YAA-nee",
+    "category": "meal",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Lucknow"
+    ],
+    "description": "Basmati rice layered with marinated meat, saffron and whole spices, then slow-cooked sealed in the dum pukht style. It is milder and more aromatic than spicier southern biryanis, often scented with rose water. It is one of the best-known dishes of Lucknow's Awadhi cuisine.",
+    "how_to_eat": "Eat it with raita or salan, mixing the saffron-tinged and plain rice together.",
+    "how_to_order": "Ask for mutton or chicken Awadhi biryani by the plate at biryani shops in Aminabad or Chowk; veg handi dum versions also exist.",
+    "typical_price_inr": "100-150",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.jaypeehotels.com/blog/famous-food-uttar-pradesh",
+      "https://traveltriangle.com/blog/street-food-in-lucknow/",
+      "https://www.meer.com/en/100006-lucknows-culinary-journey-to-unesco-fame",
+      "https://en.wikipedia.org/wiki/Dum_pukht"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-shami-kebab",
+    "name": "Shami Kebab",
+    "local_name": null,
+    "pronunciation": "SHAA-mee ka-BAAB",
+    "category": "meal",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Lucknow"
+    ],
+    "description": "Shallow-fried patties of minced meat ground with chickpeas and spices, bound with egg. It developed in the Lucknow region during Mughal rule; the Awadhi version can include tangy green mango. It is served to guests and at Eid alongside sheer khurma.",
+    "how_to_eat": "Eat it hot with sliced raw onion, a squeeze of lemon and mint or coriander chutney.",
+    "how_to_order": "Ask for shami kebab by the piece or plate at kebab shops; a veg shami is also sold in Lucknow.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shami_kebab",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shami_kebab",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh",
+      "https://traveltriangle.com/blog/street-food-in-lucknow/"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-nihari-kulcha",
+    "name": "Nihari Kulcha",
+    "local_name": "निहारी",
+    "pronunciation": "ni-HAA-ree KUL-cha",
+    "category": "meal",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Lucknow"
+    ],
+    "description": "Nihari is a stew of slow-cooked meat shanks and bone marrow flavoured with long pepper; Lucknow is one of the two cities credited with its origin. In Lucknow it is eaten with a local kulcha that differs from the Punjabi kind, traditionally as a winter breakfast.",
+    "how_to_eat": "Dip pieces of kulcha into the thick gravy; it is traditionally eaten early in the morning.",
+    "how_to_order": "Ask for a plate of nihari kulcha at the old eateries of Chowk, which open early.",
+    "typical_price_inr": "60",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nihari",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nihari",
+      "https://www.jaypeehotels.com/blog/famous-food-uttar-pradesh",
+      "https://traveltriangle.com/blog/street-food-in-lucknow/"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-sheermal",
+    "name": "Sheermal",
+    "local_name": "शीरमल",
+    "pronunciation": "SHEER-maal",
+    "category": "meal",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Lucknow"
+    ],
+    "description": "A saffron-flavoured flatbread whose name means 'milk-rubbed', kneaded with milk and baked in a tandoor. Brought to North India by the Mughals, it is part of Lucknow's Awadhi cuisine.",
+    "how_to_eat": "Eat it with kebabs, nihari or korma, or on its own with tea.",
+    "how_to_order": "Ask for sheermal at bakeries and kebab shops in Chowk; it is sold by the piece.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sheermal",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sheermal",
+      "https://traveltriangle.com/blog/street-food-in-lucknow/",
+      "https://www.meer.com/en/100006-lucknows-culinary-journey-to-unesco-fame"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-pasanda",
+    "name": "Pasanda",
+    "local_name": "पसन्दा",
+    "pronunciation": "pa-SUN-da",
+    "category": "meal",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Lucknow"
+    ],
+    "description": "Flattened pieces of meat marinated in yogurt and spices and finished with cream, a style descended from the Mughal court. The Uttar Pradesh repertoire also includes pasanda kabab, skewered boneless mutton.",
+    "how_to_eat": "Eat it with naan, sheermal or rice.",
+    "how_to_order": "Ask for mutton pasanda or pasanda kabab at Awadhi restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pasanda",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pasanda",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-shab-deg",
+    "name": "Shab Deg",
+    "local_name": null,
+    "pronunciation": "shub DAYG",
+    "category": "meal",
+    "state": "Uttar Pradesh",
+    "regions": [],
+    "description": "A winter dish of turnips and mutton balls flavoured with saffron, slow-cooked overnight; the name means 'night pot' in Persian. It appears in Uttar Pradesh cuisine as a Mughal-era winter speciality.",
+    "how_to_eat": "Eat it hot with naan or sheermal.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shab_deg",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh",
+      "https://en.wikipedia.org/wiki/Shab_deg"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-makhan-malai-malaiyo-nimish",
+    "name": "Makhan Malai (Malaiyo / Nimish)",
+    "local_name": "मक्खन मलाई",
+    "pronunciation": "MUKH-khan ma-LAI",
+    "category": "sweet",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Kanpur",
+      "Varanasi",
+      "Lucknow"
+    ],
+    "description": "A winter-only froth made from milk and cream left out overnight to catch the dew, then churned for hours and flavoured with saffron, sugar and cardamom. It is said to have originated in Kanpur and is a morning street treat in Varanasi (as malaiyo) and Lucknow (as nimish). Despite the name, it contains neither butter nor cream in solid form.",
+    "how_to_eat": "Eat it right away from the earthen cup with a small spoon, before it melts.",
+    "how_to_order": "Look for morning carts in Varanasi's Chowk or Lucknow's old markets from November to February; it sells out by mid-morning.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Makhan_malai",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Makhan_malai",
+      "https://30stades.com/society/ten-street-foods-of-varanasi-tamatar-chaat-chenna-dahi-vada-malaiyo-choora-matar-1684901",
+      "https://traveltriangle.com/blog/street-food-in-lucknow/",
+      "https://blog.swiggy.com/food/uttar-pradesh-famous-sweet/"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-malai-ki-gilori",
+    "name": "Malai ki Gilori",
+    "local_name": null,
+    "pronunciation": "ma-LAI kee gi-LO-ree",
+    "category": "sweet",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Lucknow"
+    ],
+    "description": "A Lucknow sweet of thin sheets of malai (clotted cream) folded into a paan-like triangle around mishri and dry fruit. It needs no cooking and is said to have been made as a substitute for paan.",
+    "how_to_eat": "Eat it whole in one or two bites, like a paan.",
+    "how_to_order": "Ask for malai gilori or malai paan at sweet shops in Lucknow.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ship.shoppre.com/7-must-eat-foods-in-lucknow",
+      "https://blog.swiggy.com/food/uttar-pradesh-famous-sweet/"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-kulfi-faluda",
+    "name": "Kulfi Faluda",
+    "local_name": null,
+    "pronunciation": "KUL-fee fa-LOO-da",
+    "category": "sweet",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Lucknow"
+    ],
+    "description": "Dense, slow-frozen milk kulfi served with faluda noodles and syrups. Lucknow's Aminabad is especially known for it, and it is a summer favourite.",
+    "how_to_eat": "Eat it as soon as it is cut, mixing the kulfi with the noodles and syrup.",
+    "how_to_order": "Ask for kulfi faluda, full or half plate, at kulfi shops in Aminabad.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kulfi",
+    "source_urls": [
+      "https://traveltriangle.com/blog/street-food-in-lucknow/",
+      "https://en.wikipedia.org/wiki/Kulfi"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-basket-chaat",
+    "name": "Basket Chaat",
+    "local_name": null,
+    "pronunciation": "BAAS-ket CHAAT",
+    "category": "street_food",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Lucknow"
+    ],
+    "description": "A crisp, fried potato basket filled with mashed potatoes, peas, vegetables and tangy chutneys. It is credited to a cafe in Lucknow's Hazratganj and has become a city speciality.",
+    "how_to_eat": "Eat it straight away with a spoon, breaking the basket into the filling before it goes soggy.",
+    "how_to_order": "Ask for basket chaat at chaat counters in Hazratganj; one plate is filling.",
+    "typical_price_inr": "120",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://traveltriangle.com/blog/street-food-in-lucknow/",
+      "https://www.trivenicabs.in/lucknow-food-tour"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-kachori-sabzi",
+    "name": "Kachori Sabzi",
+    "local_name": null,
+    "pronunciation": "ka-CHO-ree SUB-zee",
+    "category": "street_food",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Varanasi",
+      "Lucknow",
+      "Mathura",
+      "Prayagraj"
+    ],
+    "description": "Deep-fried wheat-flour kachoris stuffed with spiced lentils or peas, served with potato curry and chutney. It is one of Uttar Pradesh's most loved breakfasts, especially in Varanasi, where the potato curry is made without onion or garlic, and in Mathura, Allahabad and Lucknow, where flaky khasta kachori is popular.",
+    "how_to_eat": "Break the kachori and dip it into the potato curry; it is often followed by a jalebi.",
+    "how_to_order": "Ask for kachori sabzi early in the morning at Varanasi's Kachori Gali or any breakfast stall; khasta kachori is sold by the piece.",
+    "typical_price_inr": "14",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kachori",
+    "source_urls": [
+      "https://30stades.com/society/ten-street-foods-of-varanasi-tamatar-chaat-chenna-dahi-vada-malaiyo-choora-matar-1684901",
+      "https://www.jaypeehotels.com/blog/famous-food-uttar-pradesh",
+      "https://traveltriangle.com/blog/street-food-in-lucknow/",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-tamatar-chaat",
+    "name": "Tamatar Chaat",
+    "local_name": null,
+    "pronunciation": "ta-MAA-tar CHAAT",
+    "category": "street_food",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Varanasi"
+    ],
+    "description": "A Varanasi speciality of ripe tomatoes cooked down with mashed potato, cumin, black salt, chilli and tamarind, sometimes topped with sev or namak pare. It is served hot in earthen pots.",
+    "how_to_eat": "Eat it hot from the kulhad with a spoon.",
+    "how_to_order": "Ask for tamatar chaat at the chaat stalls around Godowlia Chowk.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://30stades.com/society/ten-street-foods-of-varanasi-tamatar-chaat-chenna-dahi-vada-malaiyo-choora-matar-1684901",
+      "https://www.agoda.com/travel-guides/india/varanasi/exploring-the-rich-flavors-of-varanasi-a-food-lovers-guide/"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-chenna-dahi-vada",
+    "name": "Chenna Dahi Vada",
+    "local_name": null,
+    "pronunciation": "CHEN-na DA-hee VA-da",
+    "category": "street_food",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Varanasi"
+    ],
+    "description": "A Varanasi chaat of fried chenna dumplings topped with sweetened thick curd, tamarind and green chutneys, black salt and roasted cumin. It is often described as a savoury cousin of rasmalai.",
+    "how_to_eat": "Eat it chilled with a spoon, taking curd and chutney in each bite.",
+    "how_to_order": "Ask for chenna dahi vada at Varanasi chaat shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://30stades.com/society/ten-street-foods-of-varanasi-tamatar-chaat-chenna-dahi-vada-malaiyo-choora-matar-1684901"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-choora-matar",
+    "name": "Choora Matar",
+    "local_name": null,
+    "pronunciation": "CHOO-ra MA-tar",
+    "category": "street_food",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Varanasi"
+    ],
+    "description": "Flattened rice cooked in ghee with tender green peas, cumin, green chilli and coriander. A Varanasi winter street food, traditionally made when fresh peas are plentiful.",
+    "how_to_eat": "Eat it warm with a squeeze of lemon.",
+    "how_to_order": "Ask for choora matar at Varanasi street stalls, mainly in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://30stades.com/society/ten-street-foods-of-varanasi-tamatar-chaat-chenna-dahi-vada-malaiyo-choora-matar-1684901"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-banarasi-paan",
+    "name": "Banarasi Paan",
+    "local_name": null,
+    "pronunciation": "ba-NAA-ra-see PAAN",
+    "category": "snack",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Varanasi"
+    ],
+    "description": "Betel leaf folded around areca nut, slaked lime and sweet or savoury fillings, secured with a clove. Varieties include sada, meetha and zarda. Taken after meals as a digestive, it received a GI tag in 2023.",
+    "how_to_eat": "Put the whole folded paan in your mouth and chew slowly; do not swallow it all at once.",
+    "how_to_order": "Ask for 'meetha paan' (sweet, no tobacco) at any paan shop; say 'bina zarda' to avoid tobacco.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Betel_nut_chewing",
+    "source_urls": [
+      "https://30stades.com/society/ten-street-foods-of-varanasi-tamatar-chaat-chenna-dahi-vada-malaiyo-choora-matar-1684901",
+      "https://ssrana.in/articles/geographical-indication-registry-gi-certifications/",
+      "https://www.drishtiias.com/statepcs/05-04-2023/"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-launglata",
+    "name": "Launglata",
+    "local_name": null,
+    "pronunciation": "LAUNG-la-ta",
+    "category": "sweet",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Varanasi"
+    ],
+    "description": "A Varanasi sweet of pastry wrapped around a filling of khoya, nuts and saffron, sealed with a clove, fried and soaked in sugar syrup. It is linked to Holi but sold all year.",
+    "how_to_eat": "Eat it warm, removing the clove that holds it shut.",
+    "how_to_order": "Ask for launglata by the piece at sweet shops in Varanasi's Kachori Gali area.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://magicpin.com/blog/top-varanasi-street-foods-delicious"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-banarasi-lassi",
+    "name": "Banarasi Lassi",
+    "local_name": null,
+    "pronunciation": "ba-NAA-ra-see LUS-see",
+    "category": "drink",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Varanasi"
+    ],
+    "description": "Thick yogurt drink sweetened and flavoured with saffron or cardamom, with fruit versions such as mango. In Varanasi many shops still blend it by hand and serve it in clay kulhads.",
+    "how_to_eat": "Drink it from the kulhad, eating the malai on top with a spoon first.",
+    "how_to_order": "Ask for a kulhad lassi, plain or with saffron, at lassi shops in the old city.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lassi",
+    "source_urls": [
+      "https://30stades.com/society/ten-street-foods-of-varanasi-tamatar-chaat-chenna-dahi-vada-malaiyo-choora-matar-1684901",
+      "https://en.wikipedia.org/wiki/Lassi"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-banaras-thandai",
+    "name": "Banaras Thandai",
+    "local_name": null,
+    "pronunciation": "THUN-dai",
+    "category": "drink",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Varanasi"
+    ],
+    "description": "A cold milk drink blended with almonds, fennel, melon seeds, rose petals, pepper, poppy seeds, cardamom and saffron. Associated with Holi and summer, it is described as a popular Uttar Pradesh drink, and Banaras Thandai has a GI tag.",
+    "how_to_eat": "Drink it chilled; versions with bhang (cannabis) exist, so check what you are being served.",
+    "how_to_order": "Ask for plain or badam thandai at sweet and thandai shops in Varanasi.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thandai",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thandai",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh",
+      "https://en.wikipedia.org/wiki/List_of_Geographical_Indications_in_India"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-banaras-tirangi-barfi",
+    "name": "Banaras Tirangi Barfi",
+    "local_name": null,
+    "pronunciation": "ti-RUN-gee BUR-fee",
+    "category": "sweet",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Varanasi"
+    ],
+    "description": "A tricoloured barfi coloured with natural ingredients such as saffron, pistachio, khoya and cashew. It dates to the freedom movement of the 1940s, when it was made in Varanasi as a way of showing the tricolour. It received a GI tag in 2024.",
+    "how_to_eat": "Eat a piece as is, at room temperature.",
+    "how_to_order": "Ask for tirangi barfi by weight at Varanasi sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Geographical_Indications_in_India",
+      "https://agronfoodprocessing.com/varanasis-tiranga-barfi-a-taste-of-indias-liberation-movement-now-gi-tagged/",
+      "https://www.easternmirrornagaland.com/up-now-has-the-most-gi-tagged-items-in-the-country"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-jaunpur-imarti",
+    "name": "Jaunpur Imarti",
+    "local_name": null,
+    "pronunciation": "ee-MUR-tee",
+    "category": "sweet",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Jaunpur"
+    ],
+    "description": "A flower-shaped sweet of black gram (urad) batter deep-fried and soaked in sugar syrup, thicker and less sweet than jalebi. Jaunpur is famous for it, and Jaunpur Imarti has a GI tag.",
+    "how_to_eat": "Eat it warm or at room temperature; it is common at weddings and festivals.",
+    "how_to_order": "Ask for imarti by weight at Jaunpur sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Imarti",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Imarti",
+      "https://en.wikipedia.org/wiki/List_of_Geographical_Indications_in_India",
+      "https://blog.swiggy.com/food/uttar-pradesh-famous-sweet/"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-baati-chokha",
+    "name": "Baati Chokha",
+    "local_name": null,
+    "pronunciation": "BAA-tee CHO-kha",
+    "category": "meal",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Varanasi",
+      "Ballia"
+    ],
+    "description": "Roasted wheat-dough balls served with chokha, a mash of roasted eggplant, tomato and potato with minimal spices, drizzled with ghee. Originally from Bihar, it is a staple of Ballia and Varanasi in eastern Uttar Pradesh.",
+    "how_to_eat": "Break the baati, dip it in ghee and scoop up the chokha with it.",
+    "how_to_order": "Ask for a plate of baati chokha at street stalls and dhabas in Varanasi.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Litti_(dish)",
+    "source_urls": [
+      "https://30stades.com/society/ten-street-foods-of-varanasi-tamatar-chaat-chenna-dahi-vada-malaiyo-choora-matar-1684901",
+      "https://www.jaypeehotels.com/blog/famous-food-uttar-pradesh",
+      "https://en.wikipedia.org/wiki/Litti_(dish)"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-bedai-with-jalebi",
+    "name": "Bedai with Jalebi",
+    "local_name": null,
+    "pronunciation": "beh-DAI",
+    "category": "street_food",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Agra",
+      "Mathura"
+    ],
+    "description": "Bedai is a puffy deep-fried bread, in sweet and spicy types, served with spicy potato gravy and yogurt. In Agra and Mathura it is the classic breakfast, eaten with hot jalebi on the side.",
+    "how_to_eat": "Alternate bites of bedai dipped in the potato gravy with bites of jalebi.",
+    "how_to_order": "Ask for bedai-jalebi at breakfast sweet shops in Agra in the morning.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.restaurantindia.in/article/8-famous-street-foods-of-agra-you-can-t-miss.14214",
+      "https://www.jaypeehotels.com/blog/famous-food-uttar-pradesh",
+      "https://prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/agra/food-and-cuisine/Jalebi.html"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-agra-petha",
+    "name": "Agra Petha",
+    "local_name": null,
+    "pronunciation": "PAY-tha",
+    "category": "sweet",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Agra"
+    ],
+    "description": "A translucent, chewy candy made from ash gourd cooked in sugar syrup, sold plain or flavoured with saffron or mango. Agra's Noori Gate area has hundreds of small units making it. Its link to Shah Jahan is popular legend but disputed.",
+    "how_to_eat": "Eat it as is; dry petha keeps for days and is a common souvenir.",
+    "how_to_order": "Ask for plain, kesar or angoori petha by weight at Agra sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Petha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Petha",
+      "https://www.amarchitrakatha.com/history-category/kitchen-stories-medieval-india/",
+      "https://blog.swiggy.com/food/uttar-pradesh-famous-sweet/"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-mathura-peda",
+    "name": "Mathura Peda",
+    "local_name": null,
+    "pronunciation": "PAY-da",
+    "category": "temple_food",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Mathura",
+      "Vrindavan"
+    ],
+    "description": "Semi-soft brown balls of khoya, sugar and cardamom; peda is said to have originated in Mathura. It is offered as prasad in the Krishna temples of Mathura and Vrindavan.",
+    "how_to_eat": "Eat it whole or broken into pieces; it is crumbly and milky.",
+    "how_to_order": "Ask for Mathura peda by weight at sweet shops near the temples.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peda",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Peda",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh",
+      "https://www.jaypeehotels.com/blog/famous-food-uttar-pradesh"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-khurchan",
+    "name": "Khurchan",
+    "local_name": null,
+    "pronunciation": "KHUR-chun",
+    "category": "sweet",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Mathura"
+    ],
+    "description": "A rich winter sweet made by scraping off layers of thickened cream as milk is simmered; the name comes from 'khurchana', to scrape. It is associated with Mathura and Delhi.",
+    "how_to_eat": "Eat it in small pieces; it is very rich.",
+    "how_to_order": "Ask for khurchan by weight at Mathura sweet shops, mainly in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khurchan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khurchan",
+      "https://blog.swiggy.com/?p=27064"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-sohan-halwa",
+    "name": "Sohan Halwa",
+    "local_name": null,
+    "pronunciation": "SO-hun HUL-wa",
+    "category": "sweet",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Rampur",
+      "Meerut"
+    ],
+    "description": "A dense, firm halwa of milk, sugar and flour cooked in ghee with saffron, almonds, pistachios and cardamom. Uttar Pradesh links it to the former Rampur state, and Meerut is also known for its version.",
+    "how_to_eat": "Break off small pieces; it is hard and chewy.",
+    "how_to_order": "Ask for sohan halwa by weight at sweet shops in Rampur or Meerut.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sohan_halwa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sohan_halwa",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh",
+      "https://blog.swiggy.com/food/unveiling-meerut-famous-sweets/"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-tehri",
+    "name": "Tehri",
+    "local_name": null,
+    "pronunciation": "TEH-ree",
+    "category": "meal",
+    "state": "Uttar Pradesh",
+    "regions": [],
+    "description": "A one-pot rice dish cooked with spices and mixed vegetables such as potatoes, carrots and peas. It is a vegetarian staple of eastern Uttar Pradesh homes.",
+    "how_to_eat": "Eat it hot with raita, pickle or papad.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh",
+      "https://www.jaypeehotels.com/blog/famous-food-uttar-pradesh"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-dum-bhindi",
+    "name": "Dum Bhindi",
+    "local_name": null,
+    "pronunciation": "dum BHIN-dee",
+    "category": "meal",
+    "state": "Uttar Pradesh",
+    "regions": [],
+    "description": "Whole okra stuffed with a spiced potato filling and fried. It is a classic Uttar Pradesh home vegetable dish.",
+    "how_to_eat": "Eat it with roti or paratha.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-gajak",
+    "name": "Gajak",
+    "local_name": null,
+    "pronunciation": "GUH-juk",
+    "category": "sweet",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Agra"
+    ],
+    "description": "A brittle winter sweet of sesame and jaggery. It is one of the seasonal sweets of Agra.",
+    "how_to_eat": "Break off pieces and eat as a winter snack.",
+    "how_to_order": "Ask for gajak by weight at Agra sweet shops in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://blog.swiggy.com/?p=27064"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-shahi-tukda",
+    "name": "Shahi Tukda",
+    "local_name": null,
+    "pronunciation": "SHAA-hee TOOK-da",
+    "category": "sweet",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Agra",
+      "Lucknow"
+    ],
+    "description": "A Mughal-era bread pudding of ghee-fried bread soaked in sweetened milk, flavoured with saffron and cardamom, topped with rabri and nuts. It is a festive dessert across Uttar Pradesh.",
+    "how_to_eat": "Eat it with a spoon, warm or chilled.",
+    "how_to_order": "Ask for shahi tukda at sweet shops and Mughlai restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shahi_tukra",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shahi_tukra",
+      "https://blog.swiggy.com/food/uttar-pradesh-famous-sweet/",
+      "https://blog.swiggy.com/?p=27064"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-sheer-khurma",
+    "name": "Sheer Khurma",
+    "local_name": null,
+    "pronunciation": "SHEER KHOR-ma",
+    "category": "sweet",
+    "state": "Uttar Pradesh",
+    "regions": [
+      "Lucknow"
+    ],
+    "description": "A vermicelli pudding of milk, dates and dry fruit, flavoured with cardamom and saffron. It is the traditional Eid morning dish served to visiting guests.",
+    "how_to_eat": "Eat it warm or chilled with a spoon.",
+    "how_to_order": "Look for it at Eid; some sweet shops in old Lucknow sell it around the festival.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sheer_khurma",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sheer_khurma",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-malpua-with-rabri",
+    "name": "Malpua with Rabri",
+    "local_name": null,
+    "pronunciation": "MAAL-poo-a",
+    "category": "sweet",
+    "state": "Uttar Pradesh",
+    "regions": [],
+    "description": "Deep-fried sweet pancakes soaked in sugar syrup and served with rabri, milk slowly thickened with sugar. It is made across Uttar Pradesh, especially at Holi.",
+    "how_to_eat": "Eat it warm with chilled rabri spooned over.",
+    "how_to_order": "Ask for malpua-rabri at sweet shops, especially around Holi.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Malpua",
+    "source_urls": [
+      "https://blog.swiggy.com/food/uttar-pradesh-famous-sweet/",
+      "https://en.wikipedia.org/wiki/Malpua",
+      "https://en.wikipedia.org/wiki/Rabri"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-kali-gajar-ka-halwa",
+    "name": "Kali Gajar ka Halwa",
+    "local_name": null,
+    "pronunciation": "KAA-lee GA-jar ka HUL-wa",
+    "category": "sweet",
+    "state": "Uttar Pradesh",
+    "regions": [],
+    "description": "A winter halwa made from black carrots cooked with milk, sugar and ghee. It is a seasonal Uttar Pradesh variation on carrot halwa.",
+    "how_to_eat": "Eat it warm.",
+    "how_to_order": "Ask for kali gajar halwa at sweet shops in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://blog.swiggy.com/food/uttar-pradesh-famous-sweet/"
+    ]
+  },
+  {
+    "id": "uttar_pradesh-kadhai-doodh",
+    "name": "Kadhai Doodh",
+    "local_name": null,
+    "pronunciation": "ka-DHAI doodh",
+    "category": "drink",
+    "state": "Uttar Pradesh",
+    "regions": [],
+    "description": "Milk simmered in a wide kadhai with saffron, cardamom and nuts, served warm in earthen cups. It is a winter drink of Uttar Pradesh streets.",
+    "how_to_eat": "Drink it hot from the kulhad, eating the malai layer on top.",
+    "how_to_order": "Ask for kadhai doodh or kulhad doodh at evening milk stalls in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://blog.swiggy.com/food/uttar-pradesh-famous-sweet/"
+    ]
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "id": "gujarat-gujarati-thali",
+    "name": "Gujarati Thali",
+    "local_name": "ગુજરાતી થાળી",
+    "pronunciation": "gu-ja-RAA-ti THAA-li",
+    "category": "meal",
+    "state": "Gujarat",
+    "regions": [
+      "Ahmedabad"
+    ],
+    "description": "A steel platter of rotli, dal or kadhi, rice or khichdi, several vegetables, farsan, pickles, papad, chaas and a sweet such as shrikhand or basundi.",
+    "how_to_eat": "Start with farsan and sweet, then move on to rotli and shaak, and finish with rice and dal or khichdi-kadhi.",
+    "how_to_order": "Ask for the 'unlimited thali' at a Gujarati thali restaurant.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gujarati_Thali",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gujarati_Thali",
+      "https://www.outlookindia.com/traveller/cuisine/indias-culinary-heritage-gujarati-cuisine/",
+      "https://en.wikipedia.org/wiki/Gujarati_cuisine"
+    ]
+  },
+  {
+    "id": "gujarat-dhokla",
+    "name": "Dhokla",
+    "local_name": "ઢોકળાં",
+    "pronunciation": "DHOK-la",
+    "category": "snack",
+    "state": "Gujarat",
+    "regions": [],
+    "description": "A savoury steamed sponge cake that originated in Gujarat, made from a fermented batter of rice and Bengal gram (chana dal), spiced with chilli, coriander and ginger. It is mentioned in Gujarati texts from 1520 CE, and Ahmedabad was reported to eat about 10,000 kg of it a day in 2018.",
+    "how_to_eat": "Eat the squares at room temperature with green chutney and the fried chillies served alongside.",
+    "how_to_order": "Ask for 'dhokla' by weight at any farsan shop; sweet shops and street stalls sell it fresh every morning.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dhokla",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dhokla",
+      "https://en.wikipedia.org/wiki/Gujarati_cuisine",
+      "https://www.outlookindia.com/traveller/cuisine/indias-culinary-heritage-gujarati-cuisine/"
+    ]
+  },
+  {
+    "id": "gujarat-khandvi",
+    "name": "Khandvi",
+    "local_name": "ખાંડવી",
+    "pronunciation": "KHAAND-vi",
+    "category": "snack",
+    "state": "Gujarat",
+    "regions": [],
+    "description": "Tight yellow rolls made from a batter of gram flour and yogurt cooked down, spread thin, then rolled and topped with mustard seeds, coriander and coconut. It is called patudi in South Gujarat and suralichi vadi in Maharashtra.",
+    "how_to_eat": "Eat the rolls whole, one bite each, with a little garlic or green chutney.",
+    "how_to_order": "Ask for 'khandvi' by weight at a farsan shop; most people buy it rather than make it at home.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khandvi_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khandvi_(food)",
+      "https://en.wikipedia.org/wiki/Gujarati_cuisine",
+      "https://www.outlookindia.com/traveller/cuisine/indias-culinary-heritage-gujarati-cuisine/"
+    ]
+  },
+  {
+    "id": "gujarat-undhiyu",
+    "name": "Undhiyu",
+    "local_name": "ઊંધિયું",
+    "pronunciation": "OON-dhi-yu",
+    "category": "meal",
+    "state": "Gujarat",
+    "regions": [
+      "Surat"
+    ],
+    "description": "A winter mixed-vegetable dish from Surat with green beans, unripe banana, small eggplants, potatoes, purple yam and fenugreek muthia dumplings. The name comes from 'undhu' (upside down), because it was traditionally cooked upside down in buried earthen pots.",
+    "how_to_eat": "Eat it with puri and shrikhand, the classic winter pairing.",
+    "how_to_order": "Ask for 'Surti undhiyu' by weight at sweet and farsan shops in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Undhiyu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Undhiyu",
+      "https://en.wikipedia.org/wiki/Gujarati_cuisine",
+      "https://blog.swiggy.com/food/exploring-the-best-food-in-surat/"
+    ]
+  },
+  {
+    "id": "gujarat-thepla",
+    "name": "Thepla",
+    "local_name": "થેપલા",
+    "pronunciation": "THEP-la",
+    "category": "meal",
+    "state": "Gujarat",
+    "regions": [],
+    "description": "A soft flatbread of wheat flour, gram flour, fenugreek leaves (methi) and spices, eaten at breakfast, as a snack or with meals. It keeps well, so Gujaratis pack it for travel, and it is especially common in the Jain community.",
+    "how_to_eat": "Eat it with yogurt, garlic chutney or sweet chhundo pickle.",
+    "how_to_order": "Ask for 'methi thepla' at a thali restaurant or buy packs at farsan shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thepla",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thepla",
+      "https://en.wikipedia.org/wiki/Gujarati_cuisine",
+      "https://veenaworld.com/blog/food-of-gujarat"
+    ]
+  },
+  {
+    "id": "gujarat-handvo",
+    "name": "Handvo",
+    "local_name": "હાંડવો",
+    "pronunciation": "HAAND-vo",
+    "category": "snack",
+    "state": "Gujarat",
+    "regions": [],
+    "description": "A savoury vegetable cake of fermented rice-and-lentil batter mixed with yogurt, often filled with bottle gourd and sometimes peanuts, then baked or steamed. It is usually eaten with pickle or tea.",
+    "how_to_eat": "Eat a wedge warm, with its crisp crust, alongside chutney or tea.",
+    "how_to_order": "Ask for 'handvo' by the piece at farsan shops or 'live handvo' stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Handvo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Handvo",
+      "https://en.wikipedia.org/wiki/Gujarati_cuisine",
+      "https://veenaworld.com/blog/food-of-gujarat"
+    ]
+  },
+  {
+    "id": "gujarat-dabeli",
+    "name": "Dabeli",
+    "local_name": "દાબેલી",
+    "pronunciation": "DAA-be-li",
+    "category": "street_food",
+    "state": "Gujarat",
+    "regions": [
+      "Mandvi",
+      "Kutch",
+      "Bhuj"
+    ],
+    "description": "Potato mashed with a sweet-spicy dabeli masala and stuffed into a ladi pav, with tamarind, date and garlic chutneys, pomegranate and roasted peanuts. It was created in Mandvi, Kutch, in the 1960s by Keshavji Gabha Chudasama; 'dabeli' means 'pressed'.",
+    "how_to_eat": "Eat it hot off the tawa, in a few bites before the bun gets soggy.",
+    "how_to_order": "Ask for 'Kutchi dabeli' at a street cart; Bhuj and Mandvi are the source.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "peanuts",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dabeli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dabeli",
+      "https://veenaworld.com/blog/food-of-gujarat",
+      "https://www.outlookindia.com/traveller/cuisine/indias-culinary-heritage-gujarati-cuisine/"
+    ]
+  },
+  {
+    "id": "gujarat-surti-locho",
+    "name": "Surti Locho",
+    "local_name": "લોચો",
+    "pronunciation": "LO-cho",
+    "category": "street_food",
+    "state": "Gujarat",
+    "regions": [
+      "Surat",
+      "Navsari"
+    ],
+    "description": "A loose, steamed gram-flour farsan from Surat, related to khaman but served as soft, irregular scoops. It is topped with oil or butter, sev, spices, coriander and onion.",
+    "how_to_eat": "Eat it hot with a spoon, with green chutney and onion.",
+    "how_to_order": "Ask for 'Surti locho' (add 'butter' if you want it richer) at a Surat breakfast stall.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Locho",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Locho",
+      "https://blog.swiggy.com/food/exploring-the-best-food-in-surat/",
+      "https://www.outlookindia.com/traveller/cuisine/indias-culinary-heritage-gujarati-cuisine/"
+    ]
+  },
+  {
+    "id": "gujarat-fafda",
+    "name": "Fafda",
+    "local_name": "ફાફડા",
+    "pronunciation": "FAAF-da",
+    "category": "snack",
+    "state": "Gujarat",
+    "regions": [
+      "Ahmedabad",
+      "Bhavnagar"
+    ],
+    "description": "Crisp, flat strips of gram flour, carom seeds and papad khar, deep-fried. Fafda with jalebi is Gujarat's most sought-after salty-sweet breakfast pair, and shops have queues from 4 am on Dussehra.",
+    "how_to_eat": "Eat it with hot jalebi, the papaya sambharo and fried green chillies on the side.",
+    "how_to_order": "Ask for 'fafda-jalebi' by weight at a farsan shop, best in the morning.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fafda",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fafda",
+      "https://veenaworld.com/blog/food-of-gujarat",
+      "https://www.outlookindia.com/traveller/cuisine/indias-culinary-heritage-gujarati-cuisine/"
+    ]
+  },
+  {
+    "id": "gujarat-khakhra",
+    "name": "Khakhra",
+    "local_name": "ખાખરા",
+    "pronunciation": "KHAAKH-ra",
+    "category": "snack",
+    "state": "Gujarat",
+    "regions": [],
+    "description": "A thin, crisp flatbread of whole-wheat flour and a little oil, roasted on a griddle while being pressed until fully dry. It is closely linked to Gujarati and Jain cooking and comes in methi, jeera and masala flavours.",
+    "how_to_eat": "Break it into pieces and eat with tea, pickle or a smear of ghee.",
+    "how_to_order": "Buy packs of 'khakhra' in your preferred flavour at any farsan or grocery shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khakhra",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khakhra",
+      "https://veenaworld.com/blog/food-of-gujarat",
+      "https://www.outlookindia.com/traveller/cuisine/indias-culinary-heritage-gujarati-cuisine/"
+    ]
+  }
+]

@@ -1,8 +1,7 @@
 // Curated dish + restaurant data, bundled with the app so it works offline.
-// dishes.json is one list; restaurants are one file per city (restaurants_<city>.json).
+// Dishes are one file per state (dishes_<state>.json); restaurants are one file per city (restaurants_<city>.json).
 
 export type Category = 'sweet' | 'street_food' | 'meal' | 'pitha' | 'temple_food' | 'snack' | 'drink'
-export type Region = 'bhubaneswar' | 'puri' | 'cuttack' | 'konark' | 'odisha'
 
 export type Dish = {
   id: string
@@ -10,7 +9,8 @@ export type Dish = {
   local_name: string | null
   pronunciation: string | null
   category: Category
-  regions: Region[]
+  state: string
+  regions: string[] // where in the state it is best known (not shown in the app; states only)
   description: string
   how_to_eat: string | null
   how_to_order: string | null
@@ -40,17 +40,23 @@ export type Restaurant = {
   verified: boolean
 }
 
+// Lead photo of the dish's Wikipedia article (scripts/fetch_dish_images.py). Loaded from Wikimedia, not bundled.
+export type DishImage = { src: string; page: string; credit: string; license: string }
+import dishImages from './data/dish_images.json'
+export const imageFor = (dishId: string): DishImage | undefined => (dishImages as Record<string, DishImage>)[dishId]
+
 export type DishLink = { dish_id: string; restaurant_id: string; note: string | null; source_urls: string[] }
 
 type CityFile = { restaurants: Restaurant[]; links: DishLink[] }
 
-const dishFiles = import.meta.glob<Dish[]>('./data/dishes.json', { eager: true, import: 'default' })
+const dishFiles = import.meta.glob<Dish[]>('./data/dishes_*.json', { eager: true, import: 'default' })
 const cityFiles = import.meta.glob<CityFile>('./data/restaurants_*.json', { eager: true, import: 'default' })
 
 export const dishes: Dish[] = Object.values(dishFiles).flat()
 export const restaurants: Restaurant[] = Object.values(cityFiles).flatMap((f) => f.restaurants)
 const links: DishLink[] = Object.values(cityFiles).flatMap((f) => f.links)
 
+export const STATES = [...new Set(dishes.map((d) => d.state))].sort()
 export const dishById = new Map(dishes.map((d) => [d.id, d]))
 export const restaurantById = new Map(restaurants.map((r) => [r.id, r]))
 
@@ -70,14 +76,6 @@ export const CATEGORY_LABEL: Record<Category, string> = {
   temple_food: 'Temple food',
   snack: 'Snacks',
   drink: 'Drinks',
-}
-
-export const REGION_LABEL: Record<Region, string> = {
-  bhubaneswar: 'Bhubaneswar',
-  puri: 'Puri',
-  cuttack: 'Cuttack',
-  konark: 'Konark',
-  odisha: 'All Odisha',
 }
 
 // Distance in km between two lat/lng points (haversine).

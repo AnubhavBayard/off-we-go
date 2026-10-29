@@ -1,0 +1,297 @@
+[
+  {
+    "id": "telangana-hyderabadi-biryani",
+    "name": "Hyderabadi Biryani",
+    "local_name": null,
+    "pronunciation": "hy-dra-BAA-dee bir-YAA-nee",
+    "category": "meal",
+    "state": "Telangana",
+    "regions": [
+      "Hyderabad"
+    ],
+    "description": "Basmati rice layered with meat (usually goat, sometimes chicken) marinated in curd and spices, with fried onions, ghee and saffron, cooked dum in a dough-sealed pot. In the kachchi style raw marinated meat and rice cook together. It is the dish most synonymous with Hyderabad.",
+    "how_to_eat": "Eat it with mirchi ka salan and dahi chutney on the side.",
+    "how_to_order": "Ask for 'mutton dum biryani' or 'chicken dum biryani' at any biryani house in Hyderabad.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hyderabadi_biryani",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hyderabadi_biryani",
+      "https://en.wikipedia.org/wiki/Hyderabadi_cuisine",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/telangana-cuisine",
+      "https://www.holidify.com/pages/food-of-telangana-1654.html"
+    ]
+  },
+  {
+    "id": "telangana-hyderabadi-haleem",
+    "name": "Hyderabadi Haleem",
+    "local_name": null,
+    "pronunciation": "ha-LEEM",
+    "category": "meal",
+    "state": "Telangana",
+    "regions": [
+      "Hyderabad"
+    ],
+    "description": "A slow-cooked stew of pounded wheat, lentils and meat (usually goat) with ghee and spices, garnished with fried onions, lime and coriander. Descended from the Arab harees, it is eaten mainly at Iftar during Ramadan and received a GI tag in 2010.",
+    "how_to_eat": "Eat it hot, stirring in the fried onions, lime and ghee on top.",
+    "how_to_order": "Ask for 'mutton haleem' at Hyderabad's haleem stalls during Ramadan.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hyderabadi_haleem",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hyderabadi_haleem",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "https://en.wikipedia.org/wiki/Hyderabadi_cuisine",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/telangana-cuisine"
+    ]
+  },
+  {
+    "id": "telangana-mirchi-ka-salan",
+    "name": "Mirchi ka Salan",
+    "local_name": null,
+    "pronunciation": "MIR-chee ka SAA-lun",
+    "category": "meal",
+    "state": "Telangana",
+    "regions": [
+      "Hyderabad"
+    ],
+    "description": "Fried green chillies in a masala of sesame, groundnut, coconut, onion and tamarind. Despite the chillies it is fairly mild, and it is the standard accompaniment to Hyderabadi biryani.",
+    "how_to_eat": "Eat it spooned over biryani.",
+    "how_to_order": "It usually comes free with biryani; ask for extra salan if you want more.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "sesame",
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mirchi_ka_salan",
+    "source_urls": [
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/telangana-cuisine",
+      "https://en.wikipedia.org/wiki/Hyderabadi_biryani"
+    ]
+  },
+  {
+    "id": "telangana-bagara-baingan",
+    "name": "Bagara Baingan",
+    "local_name": null,
+    "pronunciation": "ba-GHAA-ra BAIN-gun",
+    "category": "meal",
+    "state": "Telangana",
+    "regions": [
+      "Hyderabad"
+    ],
+    "description": "Baby brinjals stuffed with a masala of groundnut, sesame, coconut and poppy seed, then simmered in a tangy tamarind gravy. It is a common side dish with Hyderabadi biryani.",
+    "how_to_eat": "Eat it with biryani, bagara rice or roti.",
+    "how_to_order": "Ask for 'baghare baingan' at a Hyderabadi restaurant.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "sesame",
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Baghaar-e-baingan",
+    "source_urls": [
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/telangana-cuisine",
+      "https://en.wikipedia.org/wiki/Hyderabadi_cuisine"
+    ]
+  },
+  {
+    "id": "telangana-pathar-ka-gosht",
+    "name": "Pathar ka Gosht",
+    "local_name": null,
+    "pronunciation": "PUT-thar ka GOSHT",
+    "category": "meal",
+    "state": "Telangana",
+    "regions": [
+      "Hyderabad"
+    ],
+    "description": "Marinated mutton cooked on a heated stone slab, which gives the kebab its name.",
+    "how_to_eat": "Eat it hot with roti or onion rings.",
+    "how_to_order": "Ask for 'pathar ka gosht' at an old-city Hyderabadi restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pathar-ka-Gosht",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hyderabadi_cuisine"
+    ]
+  },
+  {
+    "id": "telangana-sarva-pindi",
+    "name": "Sarva Pindi",
+    "local_name": "సర్వపిండి",
+    "pronunciation": "SAR-va PIN-dee",
+    "category": "snack",
+    "state": "Telangana",
+    "regions": [
+      "Siddipet",
+      "Warangal"
+    ],
+    "description": "A savoury, circular pancake of rice flour with chana dal, peanuts, sesame, curry leaves, ginger, garlic and green chillies, cooked in a deep round pan. It is a common breakfast; in Warangal it is also called tappala chekka or ginnappa.",
+    "how_to_eat": "Eat it warm, breaking off pieces, with tea.",
+    "how_to_order": "Ask for 'sarva pindi' at a Telangana home-style breakfast place.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "peanuts",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sarva_Pindi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sarva_Pindi",
+      "https://en.wikipedia.org/wiki/Telangana_cuisine",
+      "https://en.wikipedia.org/wiki/Andhra_cuisine",
+      "https://www.holidify.com/pages/food-of-telangana-1654.html"
+    ]
+  },
+  {
+    "id": "telangana-irani-chai",
+    "name": "Irani Chai",
+    "local_name": null,
+    "pronunciation": "ee-RAA-nee CHAI",
+    "category": "drink",
+    "state": "Telangana",
+    "regions": [
+      "Hyderabad"
+    ],
+    "description": "Tea served at Hyderabad's Irani cafes, usually drunk with Osmania biscuits.",
+    "how_to_eat": "Drink it with an Osmania biscuit dunked in.",
+    "how_to_order": "Ask for 'Irani chai' at any Irani cafe, especially around Charminar.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hyderabadi_cuisine",
+      "https://en.wikipedia.org/wiki/Osmania_biscuit"
+    ]
+  },
+  {
+    "id": "telangana-osmania-biscuit",
+    "name": "Osmania Biscuit",
+    "local_name": null,
+    "pronunciation": "os-MAA-nee-a",
+    "category": "snack",
+    "state": "Telangana",
+    "regions": [
+      "Hyderabad"
+    ],
+    "description": "A sweet-salty biscuit of flour, milk, sugar, salt and cardamom, said to trace back to the kitchens of the last Nizam, Mir Osman Ali Khan. It is the classic pairing with Irani chai.",
+    "how_to_eat": "Dunk it in Irani chai.",
+    "how_to_order": "Ask for Osmania biscuits at an Irani cafe or bakery, sold loose or in packs.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Osmania_biscuit",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Osmania_biscuit",
+      "https://en.wikipedia.org/wiki/Hyderabadi_cuisine"
+    ]
+  },
+  {
+    "id": "telangana-double-ka-meetha",
+    "name": "Double ka Meetha",
+    "local_name": null,
+    "pronunciation": "DUB-bul ka MEE-tha",
+    "category": "sweet",
+    "state": "Telangana",
+    "regions": [
+      "Hyderabad"
+    ],
+    "description": "A bread pudding of fried bread soaked in milk flavoured with saffron and cardamom, topped with dry fruits. It derives from the Mughlai shahi tukda and is a wedding favourite.",
+    "how_to_eat": "Eat it warm or chilled, after biryani.",
+    "how_to_order": "Ask for 'double ka meetha' as dessert at a Hyderabadi restaurant.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Double_ka_meetha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hyderabadi_cuisine",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/telangana-cuisine"
+    ]
+  },
+  {
+    "id": "telangana-qubani-ka-meetha",
+    "name": "Qubani ka Meetha",
+    "local_name": null,
+    "pronunciation": "khoo-BAA-nee ka MEE-tha",
+    "category": "sweet",
+    "state": "Telangana",
+    "regions": [
+      "Hyderabad"
+    ],
+    "description": "Dried apricots slow-cooked into a compote with sugar, topped with almonds and cream or malai. It is a popular Hyderabadi wedding dessert.",
+    "how_to_eat": "Eat it with a spoon of fresh cream or ice cream.",
+    "how_to_order": "Ask for 'qubani ka meetha' at a Hyderabadi restaurant or wedding caterer.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khubani_ka_meetha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hyderabadi_cuisine",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/telangana-cuisine",
+      "https://www.holidify.com/pages/food-of-telangana-1654.html"
+    ]
+  }
+]

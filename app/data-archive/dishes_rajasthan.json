@@ -1,0 +1,965 @@
+[
+  {
+    "id": "rajasthan-dal-baati-churma",
+    "name": "Dal Baati Churma",
+    "local_name": null,
+    "pronunciation": "daal BAA-tee CHUR-ma",
+    "category": "meal",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "Hard baked wheat balls (baati) served with panchratna dal of five lentils and churma, crushed baati or roti mixed with ghee and sugar or jaggery. It is Rajasthan's signature complete meal.",
+    "how_to_eat": "Break the baati, pour ghee and dal over it, and eat the sweet churma alongside.",
+    "how_to_order": "Ask for 'dal baati churma' at any Rajasthani thali restaurant or dhaba.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dal_bati",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dal_bati",
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "https://en.wikipedia.org/wiki/Churma"
+    ]
+  },
+  {
+    "id": "rajasthan-laal-maas",
+    "name": "Laal Maas",
+    "local_name": null,
+    "pronunciation": "LAAL MAAS",
+    "category": "meal",
+    "state": "Rajasthan",
+    "regions": [
+      "Jodhpur",
+      "Mewar"
+    ],
+    "description": "A fiery mutton curry in a yogurt sauce coloured red with Mathania chillies and rich in garlic. It was traditionally cooked by Rajput royalty with game meat during hunts; today tender mutton is used.",
+    "how_to_eat": "Eat with wheat roti in summer or bajra roti in winter.",
+    "how_to_order": "Ask for 'laal maas' at Rajasthani non-veg restaurants and heritage hotels.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laal_maas",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Laal_maas",
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "https://dailypioneer.com/news/padharo-mhare-feast-rajasthans-royal-kitchen"
+    ]
+  },
+  {
+    "id": "rajasthan-safed-maas",
+    "name": "Safed Maas",
+    "local_name": null,
+    "pronunciation": "sa-FED MAAS",
+    "category": "meal",
+    "state": "Rajasthan",
+    "regions": [
+      "Mewar"
+    ],
+    "description": "A creamy, mild 'white' mutton curry from the Rajput royal kitchens, the counterpart of the red laal maas.",
+    "how_to_eat": "Eat with roti or rice.",
+    "how_to_order": "Ask for 'safed maas' at heritage hotels and Rajasthani non-veg restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://dailypioneer.com/news/padharo-mhare-feast-rajasthans-royal-kitchen",
+      "https://www.thrillophilia.com/famous-dishes-of-rajasthan",
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-jungli-maas",
+    "name": "Jungli Maas",
+    "local_name": null,
+    "pronunciation": "JUNG-lee MAAS",
+    "category": "meal",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "Game meat cooked with only a few basic ingredients, a dish from the Rajput hunting tradition. Laal maas itself began as a way of cooking such wild game.",
+    "how_to_eat": "Eat with roti.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "https://en.wikipedia.org/wiki/Laal_maas"
+    ]
+  },
+  {
+    "id": "rajasthan-maas-ra-soola",
+    "name": "Maas ra Soola",
+    "local_name": null,
+    "pronunciation": "MAAS ra SOO-la",
+    "category": "meal",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "Skewered meat grilled over coals, part of the Rajput hunting cuisine.",
+    "how_to_eat": "Eat off the skewer with onion and chutney.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-khad-khargosh",
+    "name": "Khad Khargosh",
+    "local_name": null,
+    "pronunciation": "KHAD khar-GOSH",
+    "category": "meal",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "Curried rabbit wrapped in leaves and baked in a pit dug in the ground (khadd), a technique used by royal hunting parties.",
+    "how_to_eat": "Eat with roti.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-ker-sangri",
+    "name": "Ker Sangri",
+    "local_name": null,
+    "pronunciation": "KAIR SAANG-ree",
+    "category": "meal",
+    "state": "Rajasthan",
+    "regions": [
+      "Marwar"
+    ],
+    "description": "A desert dish of dried ker berries and sangri beans of the khejri tree, cooked in mustard oil with red chilli and dry mango. It is unique to Rajasthan and an integral part of the Rajasthani thali.",
+    "how_to_eat": "Eat with bajra roti or puri.",
+    "how_to_order": "Ask for 'ker sangri' at any Rajasthani thali restaurant.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Capparis_decidua",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "https://www.thrillophilia.com/famous-dishes-of-rajasthan",
+      "https://en.wikipedia.org/wiki/Capparis_decidua"
+    ]
+  },
+  {
+    "id": "rajasthan-gatte-ki-sabzi",
+    "name": "Gatte ki Sabzi",
+    "local_name": null,
+    "pronunciation": "GUT-tay kee SUB-zee",
+    "category": "meal",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "Steamed gram-flour dumplings (gatte), sliced and simmered in a tangy yogurt gravy. One account says Marwari families created it to imitate the texture of meat dishes from royal kitchens. A richer version, govind gatte, is stuffed with mawa and dry fruits.",
+    "how_to_eat": "Eat with roti or rice.",
+    "how_to_order": "Ask for 'gatte ki sabzi' at Rajasthani thali restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "https://scroll.in/magazine/902563/a-new-cookbook-shows-theres-more-to-rajasthani-cuisine-than-daal-bati-churma-and-choki-dhani",
+      "https://www.thrillophilia.com/famous-dishes-of-rajasthan"
+    ]
+  },
+  {
+    "id": "rajasthan-panchkuta",
+    "name": "Panchkuta",
+    "local_name": null,
+    "pronunciation": "PUNCH-koo-ta",
+    "category": "meal",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "A dry vegetable dish of five desert ingredients: ker, sangri, kumatiya, gunda and kachri or amchur. It is traditionally made a day before Basoda (Sheetala Ashtami), when no fresh cooking is done.",
+    "how_to_eat": "Eat with bajra roti or puri.",
+    "how_to_order": "Ask for 'panchkuta' at Rajasthani thali places.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-papad-ki-sabzi",
+    "name": "Papad ki Sabzi",
+    "local_name": null,
+    "pronunciation": "PAA-pad kee SUB-zee",
+    "category": "meal",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "Lentil-flour papad cooked in a curry with onions, spices and badis.",
+    "how_to_eat": "Eat with roti.",
+    "how_to_order": "Ask for 'papad ki sabzi' at Rajasthani thali restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-mangodi-ki-sabzi",
+    "name": "Mangodi ki Sabzi",
+    "local_name": null,
+    "pronunciation": "man-GO-dee kee SUB-zee",
+    "category": "meal",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "A curry of sun-dried moong dal fritters (mangodi), often cooked with spinach, fenugreek, onion or potato.",
+    "how_to_eat": "Eat with roti.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-bajre-ki-roti",
+    "name": "Bajre ki Roti",
+    "local_name": null,
+    "pronunciation": "BAJ-ray kee RO-tee",
+    "category": "meal",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "A large flatbread (rotla) of pearl millet flour, a winter staple of the desert. Millet breads are also made from maize and jowar.",
+    "how_to_eat": "Eat hot with ghee or white butter, garlic chutney and a curry.",
+    "how_to_order": "Ask for 'bajre ki roti' with a Rajasthani thali, especially in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "https://blog.swiggy.com/food/best-food-you-must-eat-in-ajmer/",
+      "https://en.wikipedia.org/wiki/Laal_maas"
+    ]
+  },
+  {
+    "id": "rajasthan-bajra-khichdi",
+    "name": "Bajra Khichdi",
+    "local_name": null,
+    "pronunciation": "BAJ-ra KHICH-ree",
+    "category": "meal",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "Pearl millet cooked with moong, moth, tuvar or urad lentils, sometimes with peas and spinach.",
+    "how_to_eat": "Eat hot with ghee and kadhi.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-dal-dhokli",
+    "name": "Dal Dhokli",
+    "local_name": null,
+    "pronunciation": "daal DHOK-lee",
+    "category": "meal",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "Small pieces of wheat dough boiled in a toor dal stew, common to Rajasthan and Gujarat.",
+    "how_to_eat": "Eat hot with a squeeze of lemon.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dal_dhokli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dal_dhokli",
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-pyaaz-kachori",
+    "name": "Pyaaz Kachori",
+    "local_name": null,
+    "pronunciation": "pyaaz ka-CHO-ree",
+    "category": "street_food",
+    "state": "Rajasthan",
+    "regions": [
+      "Jodhpur"
+    ],
+    "description": "A flaky, deep-fried pastry stuffed with spiced onion filling. It originated in Jodhpur and is now served throughout Rajasthan.",
+    "how_to_eat": "Eat hot with sweet-spicy tamarind chutney.",
+    "how_to_order": "Ask for 'pyaaz kachori' at Jodhpur sweet-and-snack shops in the morning.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kanda_kachori",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kanda_kachori",
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "https://www.restaurantindia.in/article/10-famous-jodhpur-street-foods-every-foodie-must-try-in-rajasthan.13975"
+    ]
+  },
+  {
+    "id": "rajasthan-mirchi-bada",
+    "name": "Mirchi Bada",
+    "local_name": null,
+    "pronunciation": "MIR-chee BAA-da",
+    "category": "street_food",
+    "state": "Rajasthan",
+    "regions": [
+      "Jodhpur"
+    ],
+    "description": "A large green chilli stuffed with spiced mashed potato, dipped in gram-flour batter and deep-fried. It is native to Jodhpur and most eaten in the rainy season.",
+    "how_to_eat": "Eat hot with mint and tamarind chutney.",
+    "how_to_order": "Ask for 'mirchi bada' at Jodhpur snack shops near the Clock Tower.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mirchi_bada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mirchi_bada",
+      "https://www.restaurantindia.in/article/10-famous-jodhpur-street-foods-every-foodie-must-try-in-rajasthan.13975",
+      "https://blog.swiggy.com/food/popular-street-food-in-jodhpur-you-must-try/"
+    ]
+  },
+  {
+    "id": "rajasthan-mawa-kachori",
+    "name": "Mawa Kachori",
+    "local_name": null,
+    "pronunciation": "MAA-wa ka-CHO-ree",
+    "category": "sweet",
+    "state": "Rajasthan",
+    "regions": [
+      "Jodhpur"
+    ],
+    "description": "A sweet kachori stuffed with mawa (khoya), nuts and cardamom, deep-fried and soaked in sugar syrup. It is a Jodhpur speciality.",
+    "how_to_eat": "Eat at room temperature; it is very rich.",
+    "how_to_order": "Ask for 'mawa kachori' at Jodhpur sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "https://www.restaurantindia.in/article/10-famous-jodhpur-street-foods-every-foodie-must-try-in-rajasthan.13975",
+      "https://blog.swiggy.com/food/popular-street-food-in-jodhpur-you-must-try/"
+    ]
+  },
+  {
+    "id": "rajasthan-kadhi-kachori",
+    "name": "Kadhi Kachori",
+    "local_name": null,
+    "pronunciation": "KA-dhee ka-CHO-ree",
+    "category": "street_food",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "A Rajasthani snack of kachori served with kadhi.",
+    "how_to_eat": "Eat hot, with the kadhi poured over the broken kachori.",
+    "how_to_order": "Ask for 'kadhi kachori' at morning snack shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-bikaneri-bhujia",
+    "name": "Bikaneri Bhujia",
+    "local_name": null,
+    "pronunciation": "bee-kaa-NAY-ree BHU-jee-ya",
+    "category": "snack",
+    "state": "Rajasthan",
+    "regions": [
+      "Bikaner"
+    ],
+    "description": "A crisp, light-yellow fried snack of moth bean and gram flour with spices, like sev but crunchier and stronger in flavour. It is a cottage industry employing many women in Bikaner's villages and received a GI tag in 2010.",
+    "how_to_eat": "Eat as is with tea, or sprinkle over chaat.",
+    "how_to_order": "Buy by weight from Bikaner namkeen shops; look for 'Bikaneri bhujia'.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bikaneri_bhujia",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bikaneri_bhujia",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-ghevar",
+    "name": "Ghevar",
+    "local_name": null,
+    "pronunciation": "GHAY-var",
+    "category": "sweet",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "A disc-shaped sweet with a honeycomb texture made from ghee, flour batter and sugar syrup. It is linked to Teej, Raksha Bandhan and the month of Shravan, and is gifted to newly married daughters on Sinjara.",
+    "how_to_eat": "Eat by the piece, plain or topped with rabri.",
+    "how_to_order": "Buy plain or 'malai ghevar' at sweet shops, especially during the monsoon festival season.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ghevar",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ghevar",
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-laapsi",
+    "name": "Laapsi",
+    "local_name": null,
+    "pronunciation": "LAAP-see",
+    "category": "sweet",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "A pudding of broken wheat cooked in ghee with milk, dry fruits and sugar. Versions are made with semolina, gram flour or moong dal, and it is offered at festivals like Durga Ashtami and Diwali.",
+    "how_to_eat": "Eat warm.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "https://en.wikipedia.org/wiki/Lapsi"
+    ]
+  },
+  {
+    "id": "rajasthan-mohanthal",
+    "name": "Mohanthal",
+    "local_name": null,
+    "pronunciation": "MO-han-thaal",
+    "category": "sweet",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "A grainy fudge of gram flour cooked in ghee and sugar, made for Janmashtami and Diwali and named after Krishna.",
+    "how_to_eat": "Eat a piece as is.",
+    "how_to_order": "Buy by weight at sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mohanthal",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mohanthal",
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-makhan-bada",
+    "name": "Makhan Bada",
+    "local_name": null,
+    "pronunciation": "MAKH-an BAA-da",
+    "category": "sweet",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "Also called balushahi, a flaky fried dough ring glazed in sugar syrup, about the size of a baati.",
+    "how_to_eat": "Eat at room temperature.",
+    "how_to_order": "Ask for 'balushahi' or 'makhan bada' at sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Makhan_Bada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Makhan_Bada",
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-sohan-halwa",
+    "name": "Sohan Halwa",
+    "local_name": null,
+    "pronunciation": "SO-han HAL-wa",
+    "category": "sweet",
+    "state": "Rajasthan",
+    "regions": [
+      "Ajmer"
+    ],
+    "description": "A very dense, biscuit-like halwa of milk, sugar and flour cooked with ghee, flavoured with saffron and studded with almonds and pistachios. Ajmer is famous for it, and it is sold at shops across the dargah market.",
+    "how_to_eat": "Break off small pieces; it is hard and chewy.",
+    "how_to_order": "Buy boxes at Ajmer's dargah market or old-city sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sohan_halwa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sohan_halwa",
+      "https://blog.delhifoodwalks.com/tag/ajmer/",
+      "https://blog.swiggy.com/food/best-food-you-must-eat-in-ajmer/"
+    ]
+  },
+  {
+    "id": "rajasthan-alwar-ka-mawa",
+    "name": "Alwar ka Mawa",
+    "local_name": null,
+    "pronunciation": "AL-war kaa MAA-wa",
+    "category": "sweet",
+    "state": "Rajasthan",
+    "regions": [
+      "Alwar"
+    ],
+    "description": "Alwar's famous milk cake, a fudgy, grainy sweet of milk reduced with sugar, related to kalakand.",
+    "how_to_eat": "Eat a slice at room temperature.",
+    "how_to_order": "Buy 'Alwar milk cake' by weight at Alwar sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kalakand",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "https://en.wikipedia.org/wiki/Kalakand",
+      "https://blog.swiggy.com/food/best-food-you-must-eat-in-ajmer/"
+    ]
+  },
+  {
+    "id": "rajasthan-malpua",
+    "name": "Malpua",
+    "local_name": null,
+    "pronunciation": "MAAL-poo-a",
+    "category": "sweet",
+    "state": "Rajasthan",
+    "regions": [
+      "Pushkar"
+    ],
+    "description": "A deep-fried milk-and-flour pancake soaked in sugar syrup. Pushkar's malpuas, sold in its bazaar, are famous and often come with rabri.",
+    "how_to_eat": "Eat hot with a dollop of rabri.",
+    "how_to_order": "Ask for 'malpua with rabri' at sweet shops in Pushkar's main bazaar.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Malpua",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Malpua",
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "https://roadsandkingdoms.com/2017/who-needs-sausage-and-eggs-when-there-are-fried-milk-pancakes",
+      "https://www.touristsecrets.com/travel-guide/food-travel/9-irresistible-rajasthani-desserts-youve-never-tasted/"
+    ]
+  },
+  {
+    "id": "rajasthan-tilpatti",
+    "name": "Tilpatti",
+    "local_name": null,
+    "pronunciation": "TIL-pat-tee",
+    "category": "sweet",
+    "state": "Rajasthan",
+    "regions": [
+      "Beawar"
+    ],
+    "description": "A brittle bar of sesame and jaggery with dry fruits, a speciality of Beawar eaten in the winter months of Magh and Sankranti.",
+    "how_to_eat": "Break off a piece and eat as is.",
+    "how_to_order": "Buy in winter from Beawar sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "sesame",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-sutar-pheni",
+    "name": "Sutar Pheni",
+    "local_name": null,
+    "pronunciation": "SOO-tar FAY-nee",
+    "category": "sweet",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "Thread-like fried vermicelli cakes, made for Karwa Chauth and in the months of Kartik and Margashirsha. Sutarfeni originates from Rajasthan.",
+    "how_to_eat": "Soak in sweetened hot milk or eat as is.",
+    "how_to_order": "Buy at sweet shops around Karwa Chauth.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pheni",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pheni",
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-panchdhari-laddu",
+    "name": "Panchdhari Laddu",
+    "local_name": null,
+    "pronunciation": "panch-DHAA-ree LAD-doo",
+    "category": "sweet",
+    "state": "Rajasthan",
+    "regions": [
+      "Bikaner"
+    ],
+    "description": "A laddu popular in Bikaner, one of Rajasthan's many laddu varieties alongside boondi, motichoor and besan laddus.",
+    "how_to_eat": "Eat as is.",
+    "how_to_order": "Ask Bikaner sweet shops for 'panchdhari laddu'.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-dudhiya-kheech",
+    "name": "Dudhiya Kheech",
+    "local_name": null,
+    "pronunciation": "DOODH-ee-ya KHEECH",
+    "category": "sweet",
+    "state": "Rajasthan",
+    "regions": [
+      "Udaipur"
+    ],
+    "description": "A milk and rice sweet popular in Udaipur.",
+    "how_to_eat": "Eat warm or chilled.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-rabri",
+    "name": "Rabri",
+    "local_name": null,
+    "pronunciation": "RAB-ree",
+    "category": "sweet",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "Rabri is milk boiled slowly until thick and pale, sweetened and flavoured with nuts, and is served on top of ghevar and malpua in Rajasthan.",
+    "how_to_eat": "Eat chilled with a spoon, or spooned over ghevar.",
+    "how_to_order": "Ask for 'rabri' at sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rabri",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rabri",
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "https://www.touristsecrets.com/travel-guide/food-travel/9-irresistible-rajasthani-desserts-youve-never-tasted/"
+    ]
+  },
+  {
+    "id": "rajasthan-makhaniya-lassi",
+    "name": "Makhaniya Lassi",
+    "local_name": null,
+    "pronunciation": "makh-NEE-ya LUS-see",
+    "category": "drink",
+    "state": "Rajasthan",
+    "regions": [
+      "Jodhpur"
+    ],
+    "description": "A thick, creamy Jodhpur lassi topped with churned malai or butter, saffron and cardamom. Shri Mishrilal Hotel near the Clock Tower is the usual stop.",
+    "how_to_eat": "Drink it with a spoon for the malai on top.",
+    "how_to_order": "Ask for 'makhaniya lassi' near Jodhpur's Clock Tower.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lassi",
+    "source_urls": [
+      "https://www.restaurantindia.in/article/10-famous-jodhpur-street-foods-every-foodie-must-try-in-rajasthan.13975",
+      "https://blog.swiggy.com/food/popular-street-food-in-jodhpur-you-must-try/",
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-kanji-bada",
+    "name": "Kanji Bada",
+    "local_name": null,
+    "pronunciation": "KAAN-jee BAA-da",
+    "category": "drink",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "Kaanji is a fermented carrot or beetroot drink; served with lentil badas it becomes kanji bada.",
+    "how_to_eat": "Drink the tangy kanji and eat the soaked badas.",
+    "how_to_order": "Ask for 'kanji bada' at chaat stalls, mostly around Holi.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-bajra-raab",
+    "name": "Bajra Raab",
+    "local_name": null,
+    "pronunciation": "BAJ-ra RAAB",
+    "category": "drink",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "A thin porridge of pearl millet flour cooked in buttermilk, drunk sweet or savoury as a midday drink.",
+    "how_to_eat": "Drink warm or at room temperature.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-amlana",
+    "name": "Amlana",
+    "local_name": null,
+    "pronunciation": "am-LAA-na",
+    "category": "drink",
+    "state": "Rajasthan",
+    "regions": [
+      "Marwar"
+    ],
+    "description": "A cooling drink of tamarind pulp with black pepper, cardamom, black salt and mint, from the bylanes of Marwar.",
+    "how_to_eat": "Drink chilled on a hot day.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  },
+  {
+    "id": "rajasthan-gud-gatta",
+    "name": "Gud Gatta",
+    "local_name": null,
+    "pronunciation": "GOOD GUT-ta",
+    "category": "sweet",
+    "state": "Rajasthan",
+    "regions": [],
+    "description": "A honeycomb-textured jaggery toffee with peanuts and dry fruits, also called kadaka, made for Makar Sankranti.",
+    "how_to_eat": "Break and eat as is.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "peanuts",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajasthani_cuisine"
+    ]
+  }
+]

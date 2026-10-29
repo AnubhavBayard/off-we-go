@@ -1,0 +1,428 @@
+[
+  {
+    "id": "andaman_and_nicobar_islands-kewadi",
+    "name": "Kewadi",
+    "local_name": null,
+    "pronunciation": "ke-WAA-di",
+    "category": "sweet",
+    "state": "Andaman and Nicobar Islands",
+    "regions": [
+      "Car Nicobar"
+    ],
+    "description": "A traditional Nicobarese sweet made from the pulp of pandanus fruit (Pandanus leram): the fruit is heated, the pulp scraped out, kneaded into dough, rolled, wrapped in leaves and cooked again. Making it is a communal activity, especially at festivals.",
+    "how_to_eat": "Eat it as a sweet at Nicobarese gatherings.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://doi.org/10.14719/pst.11059"
+    ]
+  },
+  {
+    "id": "andaman_and_nicobar_islands-andaman-fish-curry",
+    "name": "Andaman Fish Curry",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Andaman and Nicobar Islands",
+    "regions": [
+      "Port Blair",
+      "Havelock Island",
+      "Neil Island"
+    ],
+    "description": "The everyday island staple: same-day fish such as snapper, tuna or kingfish in a coconut-milk gravy with tamarind, curry leaves and spices. Bengali-style versions with mustard and turmeric are also common.",
+    "how_to_eat": "Eat it with steamed rice and papad.",
+    "how_to_order": "Ask for the day's fish curry with rice at local eateries and beach shacks.",
+    "typical_price_inr": "250-500",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://oteats.outlooktraveller.com/features/guides/a-guide-to-devouring-andaman-islands-best-local-cuisine",
+      "https://www.justwravel.com/blog/andaman-food/?amp=1",
+      "https://www.thrillophilia.com/blog/andaman-seafood-dishes-guide/",
+      "https://www.cuisineindiasociety.in/?p=1434"
+    ]
+  },
+  {
+    "id": "andaman_and_nicobar_islands-grilled-lobster",
+    "name": "Grilled Lobster",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Andaman and Nicobar Islands",
+    "regions": [
+      "Havelock Island",
+      "Port Blair"
+    ],
+    "description": "Lobster split and grilled over an open flame with butter, garlic, chilli and lemon, or in a tandoori marinade. It is the islands' premium seafood dish.",
+    "how_to_eat": "Eat it hot, squeezing lemon over the meat.",
+    "how_to_order": "Ask for grilled lobster at seafood grills in Port Blair or Havelock; price depends on size.",
+    "typical_price_inr": "600-2500",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://oteats.outlooktraveller.com/features/guides/a-guide-to-devouring-andaman-islands-best-local-cuisine",
+      "https://www.justwravel.com/blog/andaman-food/?amp=1",
+      "https://www.thrillophilia.com/blog/andaman-seafood-dishes-guide/"
+    ]
+  },
+  {
+    "id": "andaman_and_nicobar_islands-coconut-prawn-curry",
+    "name": "Coconut Prawn Curry",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Andaman and Nicobar Islands",
+    "regions": [
+      "Neil Island",
+      "Havelock Island",
+      "Port Blair"
+    ],
+    "description": "Prawns simmered in coconut milk with turmeric, mustard seeds and curry leaves. It is milder than most island curries.",
+    "how_to_eat": "Eat it with steamed rice.",
+    "how_to_order": "Ask for prawn coconut curry at local restaurants in Neil, Havelock or Port Blair.",
+    "typical_price_inr": "400-700",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://oteats.outlooktraveller.com/features/guides/a-guide-to-devouring-andaman-islands-best-local-cuisine",
+      "https://www.justwravel.com/blog/andaman-food/?amp=1",
+      "https://tripxl.com/blog/?p=24256",
+      "https://www.cuisineindiasociety.in/?p=1434"
+    ]
+  },
+  {
+    "id": "andaman_and_nicobar_islands-macher-jhol",
+    "name": "Macher Jhol",
+    "local_name": null,
+    "pronunciation": "MAA-cher JHOL",
+    "category": "meal",
+    "state": "Andaman and Nicobar Islands",
+    "regions": [
+      "Port Blair",
+      "Havelock Island"
+    ],
+    "description": "A light Bengali-style fish stew with tomato and mustard-oil gravy, turmeric, cumin and ginger, reflecting the islands' large Bengali settler community.",
+    "how_to_eat": "Eat it with steamed rice.",
+    "how_to_order": "Ask for 'macher jhol' with rice at Bengali-style restaurants.",
+    "typical_price_inr": "200-400",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.justwravel.com/blog/andaman-food/?amp=1",
+      "https://oteats.outlooktraveller.com/features/guides/a-guide-to-devouring-andaman-islands-best-local-cuisine"
+    ]
+  },
+  {
+    "id": "andaman_and_nicobar_islands-chilli-crab",
+    "name": "Chilli Crab",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Andaman and Nicobar Islands",
+    "regions": [
+      "Port Blair",
+      "Havelock Island"
+    ],
+    "description": "Crab cooked in a spicy, slightly tangy sauce of garlic, chillies, onion and tomato. It is served at street-side stalls and restaurants alike.",
+    "how_to_eat": "Crack the shells by hand and eat with rice.",
+    "how_to_order": "Ask for chilli crab at seafood restaurants; the price depends on crab size.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://oteats.outlooktraveller.com/features/guides/a-guide-to-devouring-andaman-islands-best-local-cuisine"
+    ]
+  },
+  {
+    "id": "andaman_and_nicobar_islands-crab-masala",
+    "name": "Crab Masala",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Andaman and Nicobar Islands",
+    "regions": [
+      "Havelock Island",
+      "Port Blair"
+    ],
+    "description": "Crab cooked in a spicy, tangy tomato and onion masala; one version fries the crab crisp first. It is a messy, hands-on dish.",
+    "how_to_eat": "Eat it with rice or butter naan, cracking the shells by hand.",
+    "how_to_order": "Ask for crab masala at seafood restaurants; price depends on crab size.",
+    "typical_price_inr": "500-1200",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.justwravel.com/blog/andaman-food/?amp=1",
+      "https://www.thrillophilia.com/blog/andaman-seafood-dishes-guide/",
+      "https://tripxl.com/blog/?p=24256"
+    ]
+  },
+  {
+    "id": "andaman_and_nicobar_islands-andaman-fish-fry",
+    "name": "Andaman Fish Fry",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "state": "Andaman and Nicobar Islands",
+    "regions": [],
+    "description": "Fish shallow-fried with turmeric, chilli, salt and lime, lighter than heavily battered versions. It is sold at small local restaurants and beach stalls.",
+    "how_to_eat": "Eat it with a squeeze of lime, on its own or with rice.",
+    "how_to_order": "Ask for the day's fish fry at local eateries.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://oteats.outlooktraveller.com/features/guides/a-guide-to-devouring-andaman-islands-best-local-cuisine",
+      "https://www.cuisineindiasociety.in/?p=1434"
+    ]
+  },
+  {
+    "id": "andaman_and_nicobar_islands-seafood-thali",
+    "name": "Seafood Thali",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Andaman and Nicobar Islands",
+    "regions": [],
+    "description": "A full plate of rice, fish fry, fish curry, dal, vegetables and chutneys, with crab, prawn or squid depending on the day's catch. It is a way to try much of the island cuisine in one meal.",
+    "how_to_eat": "Mix each curry with rice, one at a time.",
+    "how_to_order": "Ask for a fish or seafood thali at lunchtime in local restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://oteats.outlooktraveller.com/features/guides/a-guide-to-devouring-andaman-islands-best-local-cuisine"
+    ]
+  },
+  {
+    "id": "andaman_and_nicobar_islands-tandoori-fish-tikka",
+    "name": "Tandoori Fish Tikka",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "state": "Andaman and Nicobar Islands",
+    "regions": [
+      "Havelock Island"
+    ],
+    "description": "Chunks of kingfish or snapper marinated in yoghurt and spices and cooked in a clay tandoor.",
+    "how_to_eat": "Eat it hot with onion and mint chutney.",
+    "how_to_order": "Ask for fish tikka at cafés and restaurants on Havelock.",
+    "typical_price_inr": "400-800",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.justwravel.com/blog/andaman-food/?amp=1",
+      "https://www.thrillophilia.com/blog/andaman-seafood-dishes-guide/"
+    ]
+  },
+  {
+    "id": "andaman_and_nicobar_islands-cuttlefish-fry",
+    "name": "Cuttlefish Fry",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "state": "Andaman and Nicobar Islands",
+    "regions": [
+      "Port Blair",
+      "Havelock Island"
+    ],
+    "description": "Rings of cuttlefish in spicy batter, fried crisp and chewy.",
+    "how_to_eat": "Eat it as a starter or side.",
+    "how_to_order": "Ask for cuttlefish fry at multi-cuisine restaurants.",
+    "typical_price_inr": "300-500",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.justwravel.com/blog/andaman-food/?amp=1"
+    ]
+  },
+  {
+    "id": "andaman_and_nicobar_islands-fried-octopus",
+    "name": "Fried Octopus",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "state": "Andaman and Nicobar Islands",
+    "regions": [
+      "Port Blair"
+    ],
+    "description": "Octopus in batter with South Indian spices, fried crunchy outside and tender inside. It is a budget appetiser at local spots in Port Blair.",
+    "how_to_eat": "Eat it with mint chutney and lemon.",
+    "how_to_order": "Ask for fried octopus at no-frills local restaurants like Hotel Kattabomman.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.thrillophilia.com/blog/andaman-seafood-dishes-guide/"
+    ]
+  },
+  {
+    "id": "andaman_and_nicobar_islands-squid-masala-fry",
+    "name": "Squid Masala Fry",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Andaman and Nicobar Islands",
+    "regions": [
+      "Port Blair"
+    ],
+    "description": "Squid fried with onions, curry leaves and spices until slightly crisp and spicy.",
+    "how_to_eat": "Eat it with parathas or rice.",
+    "how_to_order": "Ask for squid masala fry at local restaurants in Port Blair.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.thrillophilia.com/blog/andaman-seafood-dishes-guide/"
+    ]
+  },
+  {
+    "id": "andaman_and_nicobar_islands-fish-cutlet",
+    "name": "Fish Cutlet",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "state": "Andaman and Nicobar Islands",
+    "regions": [
+      "Port Blair"
+    ],
+    "description": "Shallow-fried patties of deboned minced fish with herbs, spices and breadcrumbs.",
+    "how_to_eat": "Eat with chutney or ketchup, or in bread.",
+    "how_to_order": "Ask for fish cutlets at stalls in Aberdeen Bazaar.",
+    "typical_price_inr": "80-150",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://tripxl.com/blog/?p=24256"
+    ]
+  },
+  {
+    "id": "andaman_and_nicobar_islands-prawn-pakora",
+    "name": "Prawn Pakora",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "state": "Andaman and Nicobar Islands",
+    "regions": [
+      "Port Blair",
+      "Havelock Island"
+    ],
+    "description": "Prawns in spiced gram-flour batter, deep-fried as an evening snack.",
+    "how_to_eat": "Eat hot with mint chutney.",
+    "how_to_order": "Ask for prawn pakora at street stalls around Aberdeen Bazaar.",
+    "typical_price_inr": "120-200",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://tripxl.com/blog/?p=24256"
+    ]
+  }
+]

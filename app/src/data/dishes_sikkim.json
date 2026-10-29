@@ -1,0 +1,248 @@
+[
+  {
+    "id": "sikkim-momo",
+    "name": "Momo",
+    "local_name": null,
+    "pronunciation": "MO-mo",
+    "category": "street_food",
+    "state": "Sikkim",
+    "regions": [
+      "Gangtok"
+    ],
+    "description": "Steamed dumplings popular across the Himalayas, filled with minced meat (chicken, pork, beef) or vegetables such as cabbage or chayote, sometimes cheese. In Sikkim they are served with soup and a hot tomato or red chilli achar, and are the classic evening snack.",
+    "how_to_eat": "Dip each momo in the red chilli sauce; drink the soup alongside.",
+    "how_to_order": "Order a plate steamed or fried, choosing veg, cheese, chicken, pork or beef; MG Marg in Gangtok has many momo places.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Momo_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://en.wikipedia.org/wiki/Momo_(food)",
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-thukpa",
+    "name": "Thukpa",
+    "local_name": null,
+    "pronunciation": "THOOK-pa",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [
+      "Gangtok"
+    ],
+    "description": "A Tibetan noodle soup with vegetables or meat, served almost everywhere in Gangtok and the rest of Sikkim. Vegetable versions use carrot, bell pepper, cauliflower, spinach and celery; chicken is the most popular meat.",
+    "how_to_eat": "Eat hot as a full meal.",
+    "how_to_order": "Order veg, chicken or pork thukpa at any restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thukpa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thukpa",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-thenthuk",
+    "name": "Thenthuk",
+    "local_name": null,
+    "pronunciation": "THEN-thook",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [
+      "Gangtok"
+    ],
+    "description": "A hand-pulled noodle soup, a variety of thukpa, made with wheat-flour dough pieces, vegetables and mutton or other meat. It is mild but can be made spicy.",
+    "how_to_eat": "Eat hot as a main dish.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thenthuk",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thenthuk",
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html"
+    ]
+  },
+  {
+    "id": "sikkim-sha-phaley",
+    "name": "Sha Phaley",
+    "local_name": null,
+    "pronunciation": "SHA pha-LAY",
+    "category": "snack",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "Tibetan bread stuffed with seasoned meat (beef or mutton) and cabbage, shaped into semicircles and deep-fried or pan-fried. It is crisp outside and soft inside; vegetarian versions use cheese or tofu.",
+    "how_to_eat": "Eat hot with red chilli sauce.",
+    "how_to_order": "Order at Tibetan eateries; ask for meat or veg filling.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sha_phaley",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sha_phaley",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-phagshapa",
+    "name": "Phagshapa",
+    "local_name": null,
+    "pronunciation": "PHAG-sha-pa",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "Strips of pork fat stewed with radish and dried chillies, made without oil into a thick broth. It is eaten across communities in Sikkim.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-gundruk",
+    "name": "Gundruk",
+    "local_name": "गुन्द्रुक",
+    "pronunciation": "GUN-druk",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "Fermented and sun-dried leafy greens (mustard, radish, cauliflower leaves), traditionally fermented in earthen pots. It is cooked into a sour soup, sometimes with minced meat, or made into a pickle.",
+    "how_to_eat": "Have the soup with rice.",
+    "how_to_order": "Ask for 'gundruk soup' or 'gundruk ko achar' at Nepali eateries.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gundruk",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gundruk",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-kinema",
+    "name": "Kinema",
+    "local_name": "किनेमा",
+    "pronunciation": "KI-ne-ma",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "Fermented soybeans, a traditional food of the Limbu and Kirat peoples. It is cooked into a thick, sticky curry, traditionally served as a soup with rice.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": "Ask for 'kinema curry' at Nepali eateries.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kinema",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kinema",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html"
+    ]
+  },
+  {
+    "id": "sikkim-sel-roti",
+    "name": "Sel Roti",
+    "local_name": "सेल रोटी",
+    "pronunciation": "SEL RO-ti",
+    "category": "snack",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "A ring-shaped sweet bread of rice-flour batter with sugar, ghee and spices, deep-fried. It is made especially for the Dashain and Tihar festivals in Sikkim's Nepali community.",
+    "how_to_eat": "Eat with potato curry or achar.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sel_roti",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sel_roti",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html"
+    ]
+  },
+  {
+    "id": "sikkim-chhurpi",
+    "name": "Chhurpi",
+    "local_name": "छुर्पी",
+    "pronunciation": "CHHUR-pi",
+    "category": "snack",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "Himalayan cheese made from buttermilk, of cow or yak milk. Soft chhurpi is eaten as a side dish with rice, while the very hard version is chewed slowly like a sweet.",
+    "how_to_eat": "Chew hard chhurpi slowly; eat soft chhurpi with rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chhurpi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhurpi",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html"
+    ]
+  }
+]

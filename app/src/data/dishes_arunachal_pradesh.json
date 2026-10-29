@@ -1,0 +1,219 @@
+[
+  {
+    "id": "arunachal_pradesh-thukpa",
+    "name": "Thukpa",
+    "local_name": null,
+    "pronunciation": "THOOK-pa",
+    "category": "meal",
+    "state": "Arunachal Pradesh",
+    "regions": [
+      "Tawang",
+      "West Kameng"
+    ],
+    "description": "A noodle soup of Tibetan origin, a staple of the Monpa community. The Arunachali version uses local herbs, meat (often yak or pork) and vegetables; the old Monpa household version is a slow-cooked soup of roasted maize, dried radish, kidney beans and dried yak meat.",
+    "how_to_eat": "Eat hot as a full meal, especially in winter.",
+    "how_to_order": "Order at local eateries; specify veg or the meat you want.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thukpa",
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/must-have-local-delicacies-in-arunachal-pradesh",
+      "https://scroll.in/article/1078291/millet-momos-spotlight-culinary-heritage-of-arunachals-monpa-community",
+      "https://en.wikipedia.org/wiki/Thukpa"
+    ]
+  },
+  {
+    "id": "arunachal_pradesh-momo",
+    "name": "Momo",
+    "local_name": null,
+    "pronunciation": "MO-mo",
+    "category": "street_food",
+    "state": "Arunachal Pradesh",
+    "regions": [],
+    "description": "Dumplings filled with minced pork, chicken or yak, or vegetables such as bamboo shoot, steamed or fried. Traditional Monpa momos used barley wraps and were festive food; a newer version uses finger millet.",
+    "how_to_eat": "Dip in fiery chilli sauce.",
+    "how_to_order": "Order steamed or fried, with pork, chicken, yak or veg filling, at local eateries.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Momo_(food)",
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/must-have-local-delicacies-in-arunachal-pradesh",
+      "https://blog.swiggy.com/food/must-try-traditional-food-in-arunachal-pradesh/",
+      "https://scroll.in/article/1078291/millet-momos-spotlight-culinary-heritage-of-arunachals-monpa-community"
+    ]
+  },
+  {
+    "id": "arunachal_pradesh-pika-pila",
+    "name": "Pika Pila",
+    "local_name": null,
+    "pronunciation": "PI-ka PI-la",
+    "category": "meal",
+    "state": "Arunachal Pradesh",
+    "regions": [
+      "Ziro"
+    ],
+    "description": "The signature pickle of the Apatani tribe of Ziro, made from bamboo shoot, pork fat and king chilli. It is less fiery than many Indian pickles despite the chilli.",
+    "how_to_eat": "Eat a little with plain rice, dry fish or curry.",
+    "how_to_order": "Found in households and restaurants across the state; Ziro is the Apatani heartland.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://blog.swiggy.com/food/must-try-traditional-food-in-arunachal-pradesh/",
+      "https://veenaworld.com/blog/food-in-arunachal-pradesh",
+      "https://www.outlooktraveller.com/experiences/food-and-drink/must-have-local-delicacies-in-arunachal-pradesh"
+    ]
+  },
+  {
+    "id": "arunachal_pradesh-lukter",
+    "name": "Lukter",
+    "local_name": null,
+    "pronunciation": "LUK-ter",
+    "category": "meal",
+    "state": "Arunachal Pradesh",
+    "regions": [
+      "Tawang"
+    ],
+    "description": "Dried cooked beef with red chilli flakes, served as a side dish; it is a winter favourite. Wikipedia lists it with fish as part of the staple diet.",
+    "how_to_eat": "Eat as a side with rice or curry, ideally with pehak.",
+    "how_to_order": "Available at most local restaurants in the state.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://blog.swiggy.com/food/must-try-traditional-food-in-arunachal-pradesh/",
+      "https://veenaworld.com/blog/food-in-arunachal-pradesh",
+      "https://en.wikipedia.org/wiki/Arunachali_cuisine"
+    ]
+  },
+  {
+    "id": "arunachal_pradesh-pehak",
+    "name": "Pehak",
+    "local_name": null,
+    "pronunciation": "PE-hak",
+    "category": "meal",
+    "state": "Arunachal Pradesh",
+    "regions": [
+      "Tawang",
+      "West Kameng"
+    ],
+    "description": "A fiery chutney of fermented soybean with red chilli and king chilli. It is a vegetarian side for rice and is often eaten with lukter.",
+    "how_to_eat": "Eat a small amount with steamed rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 3,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://blog.swiggy.com/food/must-try-traditional-food-in-arunachal-pradesh/",
+      "https://veenaworld.com/blog/food-in-arunachal-pradesh"
+    ]
+  },
+  {
+    "id": "arunachal_pradesh-zan",
+    "name": "Zan",
+    "local_name": null,
+    "pronunciation": "ZAN",
+    "category": "meal",
+    "state": "Arunachal Pradesh",
+    "regions": [
+      "Tawang",
+      "West Kameng"
+    ],
+    "description": "A thick porridge of millet, barley or rice flour cooked in water, the staple of the Monpa tribe in the cold mountains. It is eaten with vegetables, meat, fermented soybean paste or chutney.",
+    "how_to_eat": "Eat with a side dish such as chutney or fermented soybean.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/must-have-local-delicacies-in-arunachal-pradesh",
+      "https://www.justwravel.com/blog/food-in-tawang/"
+    ]
+  },
+  {
+    "id": "arunachal_pradesh-bamboo-shoot",
+    "name": "Bamboo Shoot Dishes",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Arunachal Pradesh",
+    "regions": [],
+    "description": "Bamboo shoot is used fresh, dried, fermented and pickled across the state, cooked with smoked meat, chilli and herbs or eaten on its own.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bamboo_shoot",
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/must-have-local-delicacies-in-arunachal-pradesh",
+      "https://blog.swiggy.com/food/must-try-traditional-food-in-arunachal-pradesh/",
+      "https://en.wikipedia.org/wiki/Arunachali_cuisine"
+    ]
+  },
+  {
+    "id": "arunachal_pradesh-apong",
+    "name": "Apong (Apo)",
+    "local_name": null,
+    "pronunciation": "A-pong",
+    "category": "drink",
+    "state": "Arunachal Pradesh",
+    "regions": [],
+    "description": "Rice beer made by fermenting rice or millet, brewed at home by the Tani tribes; there are two traditional types, nogin apong and poro apong. It is offered to the spirits and served at festivals such as Nyokum, rituals and gatherings.",
+    "how_to_eat": "Let a few drops fall to the ground as an offering, as locals do, then sip.",
+    "how_to_order": "Ask for apong at village homestays and festivals; flavours vary by tribe.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Apo_(drink)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Apo_(drink)",
+      "https://en.wikipedia.org/wiki/Arunachali_cuisine",
+      "https://www.outlooktraveller.com/experiences/food-and-drink/must-have-local-delicacies-in-arunachal-pradesh"
+    ]
+  }
+]

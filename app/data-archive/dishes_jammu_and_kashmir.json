@@ -1,0 +1,1121 @@
+[
+  {
+    "id": "jammu_and_kashmir-wazwan",
+    "name": "Wazwan",
+    "local_name": "وازٕوان",
+    "pronunciation": "waz-WAAN",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "A multi-course Kashmiri feast cooked by master chefs called waze for weddings and occasions like Eid. Almost all courses are meat-based (mainly lamb or mutton) and include dishes such as methi maaz, tabak maaz, rista, rogan josh and goshtaba, with a few vegetable dishes. It is the centrepiece of Kashmiri celebratory food.",
+    "how_to_eat": "Guests sit in groups of four and share the courses from one large copper platter called a trami.",
+    "how_to_order": "Mostly served at weddings and functions; some Srinagar restaurants serve a smaller wazwan platter, so ask for a 'wazwan thali'.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wazwan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wazwan",
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
+      "https://www.jktdc.co.in/info.aspx?id=137"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-rogan-josh",
+    "name": "Rogan Josh",
+    "local_name": null,
+    "pronunciation": "ROH-gun JOSH",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "An aromatic red mutton or goat curry from the Mughal era and one of the main dishes of the wazwan. Its colour comes from alkanet (ratanjot) or cockscomb flower and Kashmiri chillies, not tomatoes. Kashmiri Pandit versions use asafoetida and curd, while Muslim versions use onion and garlic.",
+    "how_to_eat": "Eat with steamed rice or naan.",
+    "how_to_order": "Ask for 'mutton rogan josh' at any Kashmiri restaurant or as part of a wazwan.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rogan_josh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rogan_josh",
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
+      "https://blog.swiggy.com/food/famous-kashmiri-cuisine/"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-rista",
+    "name": "Rista",
+    "local_name": null,
+    "pronunciation": "RIS-ta",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Kashmiri meatballs of freshly pounded mutton, mixed with spices and egg, poached and then simmered in a fiery red gravy coloured with saffron and alkanet. It is an important course of the wazwan and is rarely found outside the valley.",
+    "how_to_eat": "Eat with rice, breaking the meatball into the red gravy.",
+    "how_to_order": "Order 'rista' at Kashmiri restaurants or as part of a wazwan.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Riste_(dish)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Riste_(dish)",
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
+      "https://mahabahu.com/traditional-cuisines-of-jammu-and-kashmir/"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-goshtaba",
+    "name": "Goshtaba",
+    "local_name": null,
+    "pronunciation": "gosh-TAA-ba",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Large meatballs of finely beaten mutton cooked in a white yogurt gravy (yakhin), often called the 'king of wazwan'. It is traditionally the last main course of the wazwan and is made for important rituals.",
+    "how_to_eat": "Eat with rice; it is served at the end of the meal.",
+    "how_to_order": "Ask for 'goshtaba' at Kashmiri restaurants or as the closing course of a wazwan.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Goshtaab",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Goshtaab",
+      "https://en.wikipedia.org/wiki/Wazwan",
+      "https://blog.swiggy.com/food/famous-kashmiri-cuisine/",
+      "https://mahabahu.com/traditional-cuisines-of-jammu-and-kashmir/"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-tabak-maaz",
+    "name": "Tabak Maaz",
+    "local_name": null,
+    "pronunciation": "TA-bak MAAZ",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Lamb ribs simmered in milk and spices until tender and then fried in ghee until crisp. Also called qabargah, it is served at festivals and as part of the wazwan.",
+    "how_to_eat": "Eat with your hands as a starter, pulling the meat off the rib.",
+    "how_to_order": "Ask for 'tabak maaz' or 'kabargah' at Kashmiri restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tabak_maaz",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tabak_maaz",
+      "https://en.wikipedia.org/wiki/Wazwan",
+      "https://mahabahu.com/traditional-cuisines-of-jammu-and-kashmir/"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-methi-maaz",
+    "name": "Methi Maaz",
+    "local_name": null,
+    "pronunciation": "MAY-thee MAAZ",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "The first dish of the wazwan: minced tripe, lamb stomach and intestine cooked with dried fenugreek (methi), Kashmiri chilli and curd. It is served alongside tabak maaz and kebab on the trami.",
+    "how_to_eat": "Eat as the opening course of a wazwan with rice.",
+    "how_to_order": "Usually found at wazwan feasts; ask Kashmiri restaurants if they serve 'methi maaz'.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Methi_maaz",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Methi_maaz",
+      "https://en.wikipedia.org/wiki/Wazwan"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-kashmiri-yakhni",
+    "name": "Kashmiri Yakhni",
+    "local_name": null,
+    "pronunciation": "YAKH-nee",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "A mild, creamy curry of lamb (or chicken) in a yogurt gravy flavoured with fennel, cloves and cardamom, without tomatoes. Yakhin gravy is a base of several wazwan dishes.",
+    "how_to_eat": "Eat with plain steamed rice.",
+    "how_to_order": "Ask for 'mutton yakhni' at Kashmiri restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://blog.swiggy.com/food/famous-kashmiri-cuisine/",
+      "https://en.wikipedia.org/wiki/Wazwan"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-aab-gosh",
+    "name": "Aab Gosh",
+    "local_name": null,
+    "pronunciation": "AAB gosh",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Lamb pieces cooked in partly reduced milk with fennel and cardamom, giving a rich, mild white curry. It is one of the courses of the wazwan.",
+    "how_to_eat": "Eat with steamed rice or bread.",
+    "how_to_order": "Ask for 'aab gosh' at Kashmiri restaurants or wazwan caterers.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wazwan",
+      "https://blog.swiggy.com/food/famous-kashmiri-cuisine/"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-shab-deg",
+    "name": "Shab Deg",
+    "local_name": null,
+    "pronunciation": "shab DAYG",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "A slow-cooked stew of mutton and turnips left to simmer overnight in a pot sealed with dough. The name means 'night pot' in Persian, and it is a Mughal-era winter dish.",
+    "how_to_eat": "Eat hot with rice.",
+    "how_to_order": "Rarely on menus; ask Kashmiri restaurants in winter whether they make 'shab deg'.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shab_deg",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shab_deg",
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
+      "https://blog.swiggy.com/food/famous-kashmiri-cuisine/"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-harissa",
+    "name": "Harissa",
+    "local_name": null,
+    "pronunciation": "ha-REE-sa",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Srinagar"
+    ],
+    "description": "A winter breakfast of lean mutton slow-cooked with rice and spices like fennel, cardamom and cloves for eight to twelve hours over wood fire until it becomes a smooth paste. Old-city Srinagar shops make it from autumn through winter, and many sell out by mid-morning.",
+    "how_to_eat": "Eat it hot in the morning with Kashmiri tchot (girda) bread.",
+    "how_to_order": "Go early to a harissa shop in old Srinagar (areas like Aali Kadal or Nawa Kadal) between October and winter's end.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.etvbharat.com/english/bharat/with-winter-kashmiris-are-savour-harissa/na20221204164218260260191",
+      "https://kashmirlife.net/harissa-boosts-mutton-demand-by-30-percent-in-kashmir-337054/",
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-tujj",
+    "name": "Tujj",
+    "local_name": null,
+    "pronunciation": "TUJ",
+    "category": "street_food",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Srinagar"
+    ],
+    "description": "Kashmiri skewered meat, usually mutton (sometimes fish), grilled over coals for a smoky taste. Also called seekh tuj, it is a popular evening street food served with chutneys.",
+    "how_to_eat": "Eat straight off the skewer with chutney and bread.",
+    "how_to_order": "Look for 'seekh tujj' grills in Srinagar's street-food areas in the evening.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tuji",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tuji"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-kashmiri-dum-aloo",
+    "name": "Kashmiri Dum Aloo",
+    "local_name": "دَمہٕ اولَو",
+    "pronunciation": "dum OH-lav",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Small potatoes fried and slow-cooked in a spiced yogurt gravy coloured with Kashmiri chilli. Known as dum olav in Kashmiri, it is also served in the wazwan as dum aelve.",
+    "how_to_eat": "Eat with rice or naan.",
+    "how_to_order": "Ask for 'Kashmiri dum aloo' at Kashmiri restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dum_aloo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dum_aloo",
+      "https://en.wikipedia.org/wiki/Wazwan",
+      "https://mahabahu.com/traditional-cuisines-of-jammu-and-kashmir/"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-nadru-yakhni",
+    "name": "Nadru Yakhni",
+    "local_name": null,
+    "pronunciation": "NUD-roo YAKH-nee",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Lotus stem (nadru) cooked in a spiced yogurt gravy with cardamom, cloves, cinnamon and aniseed. Lotus stem is harvested from Kashmir's lakes and is also eaten during Navreh, the Kashmiri New Year.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Ask for 'nadru yakhni' at Kashmiri restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://mahabahu.com/traditional-cuisines-of-jammu-and-kashmir/",
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-haakh",
+    "name": "Haakh",
+    "local_name": null,
+    "pronunciation": "HAAKH",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Collard greens braised in plenty of water with mustard oil, an everyday staple of Kashmiri homes. 'Haakh-batte' (greens and rice) is the Kashmiri phrase for a basic meal.",
+    "how_to_eat": "Eat with plain rice.",
+    "how_to_order": "Ask for 'haakh' or 'haak saag' at Kashmiri home-style restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-monje-haakh",
+    "name": "Monje Haakh",
+    "local_name": null,
+    "pronunciation": "MON-jay HAAKH",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Kohlrabi and its greens cooked in Kashmiri style, a common vegetarian dish of the valley.",
+    "how_to_eat": "Eat with plain rice.",
+    "how_to_order": "Ask for 'monje haakh' (kohlrabi) at Kashmiri home-style restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-modur-pulav",
+    "name": "Modur Pulav",
+    "local_name": null,
+    "pronunciation": "MOH-dur pu-LAAV",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "A fragrant, mildly sweet rice dish of basmati cooked with milk, saffron, cardamom and cinnamon and loaded with almonds, cashews and raisins. It is served at festivals and celebrations.",
+    "how_to_eat": "Eat on its own or alongside savoury curries.",
+    "how_to_order": "Ask for 'modur pulao' (sweet Kashmiri pulao) at Kashmiri restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://blog.swiggy.com/food/famous-kashmiri-cuisine/",
+      "https://bwcindia.org/web/Recipes/KashmiriModhurPulao.html"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-ruwangan-chaman",
+    "name": "Ruwangan Chaman",
+    "local_name": null,
+    "pronunciation": "roo-WAN-gun CHA-man",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Fried pieces of paneer (chaman) cooked in a tomato gravy. It is one of the vegetarian dishes served in the wazwan.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": "Ask for 'chaman' or 'tamatar chaman' at Kashmiri restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wazwan"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-nadru-monje",
+    "name": "Nadru Monje",
+    "local_name": null,
+    "pronunciation": "NUD-roo MON-jay",
+    "category": "street_food",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Srinagar"
+    ],
+    "description": "Planks of lotus stem dipped in a spiced rice-flour batter and deep-fried, often called Kashmir's most sought-after street snack. Vendors sell heaps of them near Sufi shrines and at Hazratbal.",
+    "how_to_eat": "Eat hot with spicy onion chutney.",
+    "how_to_order": "Buy from carts near Hazratbal and other shrines or in Lal Chowk.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://thebetterindia.com/413964/10-kashmir-street-foods-hidden-tasty",
+      "https://curlytales.com/india/trending/street-food-lovers-srinagar-is-now-getting-dedicated-food-zones-for-your-favourite-bites/"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-masaal-tchot",
+    "name": "Masaal Tchot",
+    "local_name": null,
+    "pronunciation": "ma-SAAL CHOT",
+    "category": "street_food",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Srinagar"
+    ],
+    "description": "A spicy street wrap of boiled chickpeas rolled in lavasa bread with radish chutney mixed with curd, green chilli and coriander. Srinagar is the main base for this snack.",
+    "how_to_eat": "Eat it rolled up and hot from the cart.",
+    "how_to_order": "Ask street carts in Srinagar for 'masaal tchot'.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://30stades.com/2020/06/22/kashmirs-local-bread-baking-thrives-as-kandurs-serve-up-delectable-breads-ready-to-eat-breakfast",
+      "https://thebetterindia.com/413964/10-kashmir-street-foods-hidden-tasty"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-girda",
+    "name": "Girda",
+    "local_name": null,
+    "pronunciation": "GIR-da",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Also called tschot, a medium-sized round bread of refined flour kneaded with milk and salt, with dented patterns and a golden crust. Baked fresh by kandurs (local bakers), it is a must on every Kashmiri breakfast table.",
+    "how_to_eat": "Eat it fresh in the morning with noon chai or kahwa.",
+    "how_to_order": "Buy early morning from a neighbourhood kandur (bakery).",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://30stades.com/2020/06/22/kashmirs-local-bread-baking-thrives-as-kandurs-serve-up-delectable-breads-ready-to-eat-breakfast",
+      "https://www.sahapedia.org/kandurs-srinagar-breadmaking-kashmir-valley"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-lavasa",
+    "name": "Lavasa",
+    "local_name": null,
+    "pronunciation": "la-VAA-sa",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "A thin, unleavened flatbread baked by Kashmiri kandurs. It is eaten with tea and also wraps street snacks like masaal tchot.",
+    "how_to_eat": "Eat with kahwa or noon chai, or with curries.",
+    "how_to_order": "Buy from a kandur bakery in the morning.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://30stades.com/2020/06/22/kashmirs-local-bread-baking-thrives-as-kandurs-serve-up-delectable-breads-ready-to-eat-breakfast"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-bakarkhani",
+    "name": "Bakarkhani",
+    "local_name": null,
+    "pronunciation": "ba-kar-KHAA-nee",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "A layered, crisp bread like a puff pastry, baked by Kashmiri kandurs and eaten in the morning with noon chai.",
+    "how_to_eat": "Break it into pieces and dip in salt tea.",
+    "how_to_order": "Buy from a kandur bakery; ask for 'bakirkhani'.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bakarkhani",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bakarkhani",
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
+      "https://30stades.com/2020/06/22/kashmirs-local-bread-baking-thrives-as-kandurs-serve-up-delectable-breads-ready-to-eat-breakfast"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-kandi-kulcha",
+    "name": "Kandi Kulcha",
+    "local_name": null,
+    "pronunciation": "KAN-dee KUL-cha",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "A crumbly, cookie-like bread of flour, butter and sugar topped with poppy seeds. It is a common tea-time bake in Kashmir.",
+    "how_to_eat": "Dip it in tea.",
+    "how_to_order": "Buy from Kashmiri bakeries or kandurs.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
+      "https://30stades.com/2020/06/22/kashmirs-local-bread-baking-thrives-as-kandurs-serve-up-delectable-breads-ready-to-eat-breakfast"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-phirin",
+    "name": "Phirin",
+    "local_name": null,
+    "pronunciation": "PHI-rin",
+    "category": "sweet",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Kashmiri phirni: a pudding of ground rice cooked in milk, flavoured with rose water or kewra and garnished with nuts. It is served during Ramadan and celebrations and traditionally set in clay bowls.",
+    "how_to_eat": "Eat chilled with a spoon.",
+    "how_to_order": "Ask for 'phirni' at Kashmiri sweet shops and restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Phirni",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Phirni",
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-noon-chai",
+    "name": "Noon Chai",
+    "local_name": null,
+    "pronunciation": "NOON chai",
+    "category": "drink",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Kashmir's pink salted tea, made from gunpowder green tea boiled with baking soda, milk and salt. Kashmiri Muslims call it noon chai and Kashmiri Hindus sheer chai; it is often topped with nuts or malai.",
+    "how_to_eat": "Drink hot with girda or bakarkhani bread at breakfast or tea-time.",
+    "how_to_order": "Ask for 'noon chai' or 'pink tea' at any Kashmiri tea stall or restaurant.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Noon_chai",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Noon_chai",
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-kahwa",
+    "name": "Kahwa",
+    "local_name": null,
+    "pronunciation": "KAH-wa",
+    "category": "drink",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Kashmiri green tea brewed with saffron, cardamom and cinnamon and served with almond or walnut slivers, traditionally made in a samovar. It is drunk through the day and offered to guests.",
+    "how_to_eat": "Sip it hot, especially after a heavy meal.",
+    "how_to_order": "Ask for 'kahwa' at any tea stall, hotel or houseboat.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kahwah",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kahwah",
+      "https://blog.swiggy.com/food/famous-kashmiri-cuisine/",
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-babribyol-sharbat",
+    "name": "Babribyol Sharbat",
+    "local_name": null,
+    "pronunciation": "BAB-ri-byol shar-BAT",
+    "category": "drink",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Sweetened milk with rose water or Rooh Afza syrup and soaked sweet basil seeds. It is a cooling drink in Kashmir.",
+    "how_to_eat": "Drink chilled.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-kalari-kulcha",
+    "name": "Kalari Kulcha",
+    "local_name": null,
+    "pronunciation": "ka-LAA-ree KUL-cha",
+    "category": "street_food",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Udhampur",
+      "Jammu"
+    ],
+    "description": "Kalari (kaladi) is a dense cheese of full-fat cow's or buffalo milk developed by the Dogras of Ramnagar, Udhampur, sautéed in its own fat until brown outside and gooey inside. As a street food it is pressed into kulcha bread with chilli and chutney. Udhampur Kaladi received a GI tag in 2023.",
+    "how_to_eat": "Eat hot, straight off the pan, with the kulcha and chutney.",
+    "how_to_order": "Ask street stalls in Jammu or Udhampur for 'kalari kulcha'.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kalari_cheese",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kalari_cheese",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "https://mahabahu.com/traditional-cuisines-of-jammu-and-kashmir/",
+      "https://kashmirlife.net/basohli-pashmina-udhampurs-kaladi-get-gi-tag-329449/"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-rajma-chawal",
+    "name": "Rajma Chawal",
+    "local_name": null,
+    "pronunciation": "RAAJ-ma CHAA-wal",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Jammu",
+      "Bhaderwah"
+    ],
+    "description": "Red kidney beans in a spiced gravy with rice, a Dogra staple made in many homes for Sunday lunch and big occasions. Jammu's version is served with anardana (pomegranate seed) chutney, and Bhaderwah's hill-grown rajmash is especially prized.",
+    "how_to_eat": "Eat the rajma poured over rice with anardana chutney on the side.",
+    "how_to_order": "Ask for 'rajma chawal' at any Jammu dhaba; Bhaderwahi rajma is the one to look for.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rajma",
+    "source_urls": [
+      "https://mahabahu.com/traditional-cuisines-of-jammu-and-kashmir/",
+      "https://www.jktdc.co.in/info.aspx?id=137",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-khatta-meat",
+    "name": "Khatta Meat",
+    "local_name": null,
+    "pronunciation": "KHAT-ta meat",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Jammu"
+    ],
+    "description": "A Dogra mutton dish made sour with anardana or lime juice, cooked over charcoal for a smoky flavour and finished in mustard oil.",
+    "how_to_eat": "Eat with rice or roti.",
+    "how_to_order": "Ask for 'khatta meat' at Dogra restaurants in Jammu.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dogras",
+      "https://mahabahu.com/traditional-cuisines-of-jammu-and-kashmir/",
+      "https://www.jktdc.co.in/info.aspx?id=137"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-ambal",
+    "name": "Ambal",
+    "local_name": "अंबल",
+    "pronunciation": "UM-bal",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Jammu"
+    ],
+    "description": "A tangy-sweet Dogra preparation of pumpkin cooked with jaggery and tamarind, made especially for ceremonies. It is served as part of the dal-bhat-maani spread.",
+    "how_to_eat": "Eat it with rice and dal.",
+    "how_to_order": "Mostly served at Dogra weddings and ceremonies.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dogras",
+      "https://www.jktdc.co.in/info.aspx?id=137",
+      "https://www.dailyexcelsior.com/traditional-cuisines-in-the-dogra-community/"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-auriya",
+    "name": "Auriya",
+    "local_name": null,
+    "pronunciation": "AU-ree-ya",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Jammu"
+    ],
+    "description": "A Dogra side dish of potato or pumpkin in a mustard-flavoured curd, the curd fermented with rye (mustard seed).",
+    "how_to_eat": "Eat as a side with rice and dal.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dogras",
+      "https://www.jktdc.co.in/info.aspx?id=137"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-maa-da-madra",
+    "name": "Maa da Madra",
+    "local_name": null,
+    "pronunciation": "MAA da MUD-ra",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Jammu"
+    ],
+    "description": "Black lentils (mash) cooked in a yogurt-based gravy, a Dogra speciality also made with other lentils.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dogras",
+      "https://www.jktdc.co.in/info.aspx?id=137"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-mittha-madra",
+    "name": "Mittha Madra",
+    "local_name": "मिट्ठा मदरा",
+    "pronunciation": "MIT-tha MUD-ra",
+    "category": "sweet",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Jammu"
+    ],
+    "description": "A favourite Dogra sweet dish of milk and semolina cooked with dry fruits, cardamom and raisins.",
+    "how_to_eat": "Eat warm as dessert.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dogras",
+      "https://www.jktdc.co.in/info.aspx?id=137"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-kulthein-di-dal",
+    "name": "Kulthein di Dal",
+    "local_name": null,
+    "pronunciation": "KUL-thein dee DAAL",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Jammu"
+    ],
+    "description": "A dal of horse gram (kulth), a ceremonial dish of Dogra cuisine.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dogras",
+      "https://www.jktdc.co.in/info.aspx?id=137"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-babbru",
+    "name": "Babbru",
+    "local_name": null,
+    "pronunciation": "BAB-broo",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Jammu"
+    ],
+    "description": "A fried Dogra flatbread, also called pathoru, served with maani, a potato dish, kheer or curd.",
+    "how_to_eat": "Eat with ambal or kheer.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dogras"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-patisa",
+    "name": "Patisa",
+    "local_name": null,
+    "pronunciation": "pa-TEE-sa",
+    "category": "sweet",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Jammu"
+    ],
+    "description": "A flaky, melt-in-the-mouth sweet like son papdi made from gram flour and flour, one of Jammu's best-known sweets.",
+    "how_to_eat": "Eat as is; it crumbles easily.",
+    "how_to_order": "Buy by weight at Jammu sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://mahabahu.com/traditional-cuisines-of-jammu-and-kashmir/",
+      "https://www.jktdc.co.in/info.aspx?id=137"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-kachaloo-chaat",
+    "name": "Kachaloo Chaat",
+    "local_name": null,
+    "pronunciation": "ka-CHAA-loo chaat",
+    "category": "street_food",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Jammu"
+    ],
+    "description": "A spicy, tangy Jammu street snack of boiled taro root tossed with lemon, chilli flakes and tamarind.",
+    "how_to_eat": "Eat from a leaf bowl with a toothpick.",
+    "how_to_order": "Ask Jammu street vendors for 'kachaloo'.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://mahabahu.com/traditional-cuisines-of-jammu-and-kashmir/",
+      "https://www.jktdc.co.in/info.aspx?id=137"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-kayur",
+    "name": "Kayur",
+    "local_name": "घ्यूर",
+    "pronunciation": "KAI-yoor",
+    "category": "sweet",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Jammu"
+    ],
+    "description": "A fried sweet of flour batter with curd and sugar, served by in-laws to the bridegroom at Dogra weddings.",
+    "how_to_eat": "Eat as is.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dogras",
+      "https://www.dailyexcelsior.com/traditional-cuisines-in-the-dogra-community/"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-guchchi-pulao",
+    "name": "Guchchi Pulao",
+    "local_name": null,
+    "pronunciation": "GUCH-chee pu-LAAV",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Jammu",
+      "Kashmir Valley"
+    ],
+    "description": "Pulao made with dried black morel mushrooms (guchchi), a costly wild mushroom of the hills, often served with mountain potatoes.",
+    "how_to_eat": "Eat on its own or with yogurt.",
+    "how_to_order": "Ask for 'guchchi pulao' at upscale Kashmiri and Dogra restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dogras",
+      "https://www.jktdc.co.in/info.aspx?id=137"
+    ]
+  }
+]

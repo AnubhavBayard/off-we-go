@@ -1,0 +1,660 @@
+[
+  {
+    "id": "delhi-butter-chicken",
+    "name": "Butter Chicken",
+    "local_name": null,
+    "pronunciation": "BUT-ter CHI-ken",
+    "category": "meal",
+    "state": "Delhi",
+    "regions": [
+      "Daryaganj"
+    ],
+    "description": "Chicken cooked in a spiced tomato gravy rich with butter, also called murgh makhani. It was created by chefs Kundan Lal Gujral and Kundan Lal Jaggi and popularised in the 1950s at their Moti Mahal restaurant in Daryaganj, and it has become a staple of the city.",
+    "how_to_eat": "Scoop it up with butter naan or eat it over rice.",
+    "how_to_order": "Ask for butter chicken (murgh makhani), half or full, at any Punjabi or Mughlai restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Butter_chicken",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Butter_chicken",
+      "https://en.wikipedia.org/wiki/Tandoori_chicken"
+    ]
+  },
+  {
+    "id": "delhi-tandoori-chicken",
+    "name": "Tandoori Chicken",
+    "local_name": null,
+    "pronunciation": "tun-DOO-ree CHI-ken",
+    "category": "meal",
+    "state": "Delhi",
+    "regions": [
+      "Daryaganj"
+    ],
+    "description": "Chicken marinated in yogurt and spices and roasted in a clay tandoor. Punjabi migrants from Peshawar popularised it at Moti Mahal in Daryaganj in the late 1940s, and it became a standard dish at official banquets.",
+    "how_to_eat": "Eat it with your hands, with sliced onion, lemon and mint chutney.",
+    "how_to_order": "Ask for a half or full tandoori chicken at tandoor restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tandoori_chicken",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tandoori_chicken"
+    ]
+  },
+  {
+    "id": "delhi-chole-bhature",
+    "name": "Chole Bhature",
+    "local_name": null,
+    "pronunciation": "CHHO-lay bha-TOO-ray",
+    "category": "street_food",
+    "state": "Delhi",
+    "regions": [],
+    "description": "Spicy chickpea curry with bhature, puffed deep-fried bread leavened with yogurt. Its origins are debated, but it spread to Delhi after Partition and is one of the city's best-loved breakfasts and street foods.",
+    "how_to_eat": "Tear the bhatura and scoop up the chole, with pickle, onion and chutney on the side.",
+    "how_to_order": "Ask for a plate of chole bhature in the morning at roadside stalls and old shops such as those in Paharganj.",
+    "typical_price_inr": "65",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chole_bhature",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chole_bhature",
+      "https://en.wikipedia.org/wiki/Bhatura",
+      "https://www.outlooktraveller.com/experiences/food-and-drink/discovering-old-delhis-winter-delicacies-a-culinary-journey"
+    ]
+  },
+  {
+    "id": "delhi-chole-kulche",
+    "name": "Chole Kulche",
+    "local_name": null,
+    "pronunciation": "CHHO-lay KUL-chay",
+    "category": "street_food",
+    "state": "Delhi",
+    "regions": [],
+    "description": "Spicy chickpeas served with soft kulcha bread, topped with onion, coriander and tangy seasonings. It is a cheap and filling Delhi street meal.",
+    "how_to_eat": "Tear the kulcha and eat it with the chole.",
+    "how_to_order": "Ask for chole kulche at street carts across the city; it is sold by the plate.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kulcha",
+    "source_urls": [
+      "https://www.restaurantindia.in/article/top-famous-foods-to-try-in-purani-delhi-a-journey-through-the-heart-of-old-delhi.16352",
+      "https://en.wikipedia.org/wiki/Kulcha"
+    ]
+  },
+  {
+    "id": "delhi-daulat-ki-chaat",
+    "name": "Daulat ki Chaat",
+    "local_name": null,
+    "pronunciation": "DOW-lut kee CHAAT",
+    "category": "sweet",
+    "state": "Delhi",
+    "regions": [
+      "Chandni Chowk",
+      "Dariba Kalan"
+    ],
+    "description": "Full-cream milk churned overnight into a light foam, topped with khoya, sugar, saffron and dry fruit. It is Old Delhi's version of the North Indian makhan malai and is sold only in the coldest months, roughly late November to early February, because heat melts it.",
+    "how_to_eat": "Eat it straight away from the leaf or plate with a spoon; it dissolves on the tongue.",
+    "how_to_order": "Look for vendors with large trays in the lanes of Chandni Chowk on winter mornings; it is sold by the plate.",
+    "typical_price_inr": "50",
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Makhan_malai",
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/discovering-old-delhis-winter-delicacies-a-culinary-journey",
+      "https://www.outlooktraveller.com/experiences/food-and-drink/old-delhi-and-food-the-perfect-gourmet-affair",
+      "https://www.restaurantindia.in/article/top-famous-foods-to-try-in-purani-delhi-a-journey-through-the-heart-of-old-delhi.16352",
+      "https://en.wikipedia.org/wiki/Makhan_malai"
+    ]
+  },
+  {
+    "id": "delhi-nihari",
+    "name": "Nihari",
+    "local_name": "निहारी",
+    "pronunciation": "ni-HAA-ree",
+    "category": "meal",
+    "state": "Delhi",
+    "regions": [
+      "Jama Masjid",
+      "Nizamuddin"
+    ],
+    "description": "A stew of slow-cooked meat shanks and bone marrow, cooked overnight and flavoured with long pepper; Delhi is one of the cities credited with its origin. In Old Delhi it is a breakfast dish, with nalli (marrow-bone) nihari especially popular around Jama Masjid.",
+    "how_to_eat": "Eat it hot, dipping khameeri roti or sheermal into the gravy.",
+    "how_to_order": "Ask for mutton or nalli nihari early in the morning at eateries near Jama Masjid.",
+    "typical_price_inr": "110",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nihari",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nihari",
+      "https://www.outlooktraveller.com/experiences/food-and-drink/discovering-old-delhis-winter-delicacies-a-culinary-journey",
+      "https://www.outlooktraveller.com/experiences/food-and-drink/old-delhi-and-food-the-perfect-gourmet-affair",
+      "https://www.restaurantindia.in/article/top-famous-foods-to-try-in-purani-delhi-a-journey-through-the-heart-of-old-delhi.16352"
+    ]
+  },
+  {
+    "id": "delhi-paranthe-wali-gali-paratha",
+    "name": "Paranthe Wali Gali Paratha",
+    "local_name": null,
+    "pronunciation": "pa-RAAN-thay waa-lee GA-lee",
+    "category": "street_food",
+    "state": "Delhi",
+    "regions": [
+      "Chandni Chowk"
+    ],
+    "description": "Parathas deep-fried in ghee and stuffed with potato, paneer, cauliflower, mixed vegetables, dry fruit, rabri or khoya. They are the speciality of Paranthe Wali Gali, a historic lane off Chandni Chowk.",
+    "how_to_eat": "Eat it hot with the potato curry, pumpkin sabzi, pickles and chutneys served alongside.",
+    "how_to_order": "Pick a filling from the board at any shop in Paranthe Wali Gali; parathas are sold by the piece.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paratha",
+    "source_urls": [
+      "https://www.restaurantindia.in/article/top-famous-foods-to-try-in-purani-delhi-a-journey-through-the-heart-of-old-delhi.16352",
+      "https://localiiz.com/post/travel-guides-itineraries-india-new-delhi-street-food-love-affair",
+      "https://en.wikipedia.org/wiki/Paratha"
+    ]
+  },
+  {
+    "id": "delhi-bedmi-puri",
+    "name": "Bedmi Puri",
+    "local_name": null,
+    "pronunciation": "BED-mee POO-ree",
+    "category": "street_food",
+    "state": "Delhi",
+    "regions": [
+      "Chawri Bazaar"
+    ],
+    "description": "Deep-fried puri made from wheat dough with urad dal, served with spicy potato sabzi. It is a filling Old Delhi breakfast, especially on winter mornings around Chawri Bazaar.",
+    "how_to_eat": "Tear the puri and dip it in the sabzi, with onion and pickle.",
+    "how_to_order": "Ask for bedmi puri with aloo sabzi at sweet shops in Old Delhi in the morning.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/old-delhi-and-food-the-perfect-gourmet-affair",
+      "https://www.jaypeehotels.com/blog/famous-food-uttar-pradesh"
+    ]
+  },
+  {
+    "id": "delhi-nagori-halwa",
+    "name": "Nagori Halwa",
+    "local_name": null,
+    "pronunciation": "naa-GO-ree HUL-wa",
+    "category": "street_food",
+    "state": "Delhi",
+    "regions": [
+      "Sitaram Bazar"
+    ],
+    "description": "Small crisp semolina puris (nagori) eaten with sweet halwa. It is a traditional Old Delhi breakfast, with Sitaram Bazar especially known for it.",
+    "how_to_eat": "Fill each small crisp puri with a spoonful of halwa and eat it in one bite.",
+    "how_to_order": "Ask for nagori halwa at breakfast sweet shops in Sitaram Bazar, in the morning.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.deccanherald.com/features/savouring-old-delhi-2456788",
+      "https://www.onmanorama.com/food/features/2022/07/11/delhi-breakfast-spread-food-trail.amp.html"
+    ]
+  },
+  {
+    "id": "delhi-ram-ladoo",
+    "name": "Ram Ladoo",
+    "local_name": null,
+    "pronunciation": "RAAM LUD-doo",
+    "category": "street_food",
+    "state": "Delhi",
+    "regions": [],
+    "description": "Crisp fried dumplings of soaked, ground moong dal, often mixed with urad dal. They are served topped with grated radish, coriander, green chilli and lemon. No one quite knows how the name came about.",
+    "how_to_eat": "Eat them hot from the leaf bowl with the radish and chutney.",
+    "how_to_order": "Ask for a plate of ram ladoo at street carts, especially in markets like Lajpat Nagar.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://potsandpans.in/blogs/recipes/lajpat-nagar-famous-ram-ladoo-a-taste-of-delhis-culinary-heritage",
+      "https://www.deccanherald.com/features/savouring-old-delhi-2456788"
+    ]
+  },
+  {
+    "id": "delhi-dahi-bhalla",
+    "name": "Dahi Bhalla",
+    "local_name": "दही वड़ा",
+    "pronunciation": "DA-hee BHUL-la",
+    "category": "street_food",
+    "state": "Delhi",
+    "regions": [
+      "Old Delhi"
+    ],
+    "description": "Soft lentil dumplings soaked in yogurt, topped with tamarind and green chutneys, roasted spices and pomegranate seeds. It is a classic Old Delhi chaat.",
+    "how_to_eat": "Eat it chilled with a spoon.",
+    "how_to_order": "Ask for dahi bhalla at chaat stalls in Chandni Chowk.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dahi_vada",
+    "source_urls": [
+      "https://www.restaurantindia.in/article/top-famous-foods-to-try-in-purani-delhi-a-journey-through-the-heart-of-old-delhi.16352",
+      "https://en.wikipedia.org/wiki/Dahi_vada"
+    ]
+  },
+  {
+    "id": "delhi-papri-chaat",
+    "name": "Papri Chaat",
+    "local_name": null,
+    "pronunciation": "PAP-ree CHAAT",
+    "category": "street_food",
+    "state": "Delhi",
+    "regions": [
+      "Chandni Chowk"
+    ],
+    "description": "Crisp fried papri wafers topped with potato, chickpeas, yogurt and sweet and green chutneys. It is one of the signature chaats of Chandni Chowk's chaat sellers.",
+    "how_to_eat": "Eat it quickly with a spoon before the papri goes soft.",
+    "how_to_order": "Ask for papri chaat at chaat stalls in Chandni Chowk.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Papri_chaat",
+    "source_urls": [
+      "https://localiiz.com/post/travel-guides-itineraries-india-new-delhi-street-food-love-affair",
+      "https://en.wikipedia.org/wiki/Papri_chaat"
+    ]
+  },
+  {
+    "id": "delhi-khasta-kachori",
+    "name": "Khasta Kachori",
+    "local_name": null,
+    "pronunciation": "KHUS-ta ka-CHO-ree",
+    "category": "street_food",
+    "state": "Delhi",
+    "regions": [
+      "Chandni Chowk"
+    ],
+    "description": "Flaky deep-fried pastry of refined flour stuffed with spiced moong dal. It is a popular Old Delhi snack, sold from shops near Chandni Chowk.",
+    "how_to_eat": "Eat it hot, with the potato sabzi or chutneys served alongside.",
+    "how_to_order": "Ask for khasta kachori by the plate at kachori shops around Chandni Chowk.",
+    "typical_price_inr": "70",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kachori",
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/discovering-old-delhis-winter-delicacies-a-culinary-journey",
+      "https://www.restaurantindia.in/article/top-famous-foods-to-try-in-purani-delhi-a-journey-through-the-heart-of-old-delhi.16352",
+      "https://en.wikipedia.org/wiki/Kachori"
+    ]
+  },
+  {
+    "id": "delhi-jalebi-with-rabri",
+    "name": "Jalebi with Rabri",
+    "local_name": null,
+    "pronunciation": "ja-LAY-bee",
+    "category": "sweet",
+    "state": "Delhi",
+    "regions": [
+      "Chandni Chowk",
+      "Dariba Kalan"
+    ],
+    "description": "Spirals of fermented batter deep-fried and soaked in sugar syrup, served hot with chilled rabri. Old Delhi's jalebi shops, some dating to the 1880s, are famous for them.",
+    "how_to_eat": "Eat the jalebi hot, dipped into the cold rabri.",
+    "how_to_order": "Ask for jalebi by weight, with rabri on the side, at sweet shops near Dariba Kalan.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jalebi",
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/discovering-old-delhis-winter-delicacies-a-culinary-journey",
+      "https://www.restaurantindia.in/article/top-famous-foods-to-try-in-purani-delhi-a-journey-through-the-heart-of-old-delhi.16352",
+      "https://localiiz.com/post/travel-guides-itineraries-india-new-delhi-street-food-love-affair"
+    ]
+  },
+  {
+    "id": "delhi-shahi-tukda",
+    "name": "Shahi Tukda",
+    "local_name": null,
+    "pronunciation": "SHAA-hee TOOK-da",
+    "category": "sweet",
+    "state": "Delhi",
+    "regions": [
+      "Jama Masjid"
+    ],
+    "description": "Deep-fried bread soaked in sweetened milk and saffron, topped with rabri, almonds and ghee. A Mughal-era dessert, it is a speciality of the Jama Masjid area.",
+    "how_to_eat": "Eat it with a spoon, taking rabri with each piece of bread.",
+    "how_to_order": "Ask for shahi tukda with rabri at dessert shops near Jama Masjid's Gate No. 1.",
+    "typical_price_inr": "50",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shahi_tukra",
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/discovering-old-delhis-winter-delicacies-a-culinary-journey",
+      "https://www.outlooktraveller.com/experiences/food-and-drink/old-delhi-and-food-the-perfect-gourmet-affair",
+      "https://en.wikipedia.org/wiki/Shahi_tukra"
+    ]
+  },
+  {
+    "id": "delhi-kulfi",
+    "name": "Kulfi",
+    "local_name": null,
+    "pronunciation": "KUL-fee",
+    "category": "sweet",
+    "state": "Delhi",
+    "regions": [
+      "Old Delhi"
+    ],
+    "description": "A dense frozen dessert of slowly reduced milk, flavoured with pistachio, mango, saffron or cardamom; some versions are frozen inside whole fruit. Kulfi originated in 16th-century Delhi under the Mughals.",
+    "how_to_eat": "Eat it slowly; it melts more slowly than ice cream.",
+    "how_to_order": "Ask for kulfi by flavour at kulfi shops in Old Delhi; fruit-stuffed kulfi is sold by the slice.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kulfi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kulfi",
+      "https://www.restaurantindia.in/article/top-famous-foods-to-try-in-purani-delhi-a-journey-through-the-heart-of-old-delhi.16352"
+    ]
+  },
+  {
+    "id": "delhi-khurchan",
+    "name": "Khurchan",
+    "local_name": null,
+    "pronunciation": "KHUR-chun",
+    "category": "sweet",
+    "state": "Delhi",
+    "regions": [
+      "Old Delhi"
+    ],
+    "description": "A rich winter sweet made by scraping off layers of thickened cream as milk is simmered; the name comes from 'khurchana', to scrape. It is associated with Delhi and Mathura.",
+    "how_to_eat": "Eat it in small pieces; it is very rich.",
+    "how_to_order": "Ask for khurchan by weight at Old Delhi sweet shops in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khurchan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khurchan"
+    ]
+  },
+  {
+    "id": "delhi-gajar-ka-halwa",
+    "name": "Gajar ka Halwa",
+    "local_name": null,
+    "pronunciation": "GA-jar ka HUL-wa",
+    "category": "sweet",
+    "state": "Delhi",
+    "regions": [
+      "Fatehpuri",
+      "Chandni Chowk"
+    ],
+    "description": "Grated carrots slow-cooked with milk, sugar, cardamom and ghee, garnished with nuts. It is a winter dessert in Delhi, sold hot by the kilo in Old Delhi.",
+    "how_to_eat": "Eat it warm.",
+    "how_to_order": "Ask for gajar halwa by weight at Old Delhi sweet shops in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gajar_ka_halwa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gajar_ka_halwa",
+      "https://www.outlooktraveller.com/experiences/food-and-drink/discovering-old-delhis-winter-delicacies-a-culinary-journey"
+    ]
+  },
+  {
+    "id": "delhi-moong-dal-halwa",
+    "name": "Moong Dal Halwa",
+    "local_name": null,
+    "pronunciation": "MOONG daal HUL-wa",
+    "category": "sweet",
+    "state": "Delhi",
+    "regions": [
+      "Old Delhi"
+    ],
+    "description": "A rich winter halwa of moong dal cooked slowly in ghee and sugar. It is one of Old Delhi's winter sweets.",
+    "how_to_eat": "Eat it hot.",
+    "how_to_order": "Ask for moong dal halwa by weight at sweet shops in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/old-delhi-and-food-the-perfect-gourmet-affair",
+      "https://www.outlooktraveller.com/experiences/food-and-drink/discovering-old-delhis-winter-delicacies-a-culinary-journey"
+    ]
+  },
+  {
+    "id": "delhi-gur-ka-halwa",
+    "name": "Gur ka Halwa",
+    "local_name": null,
+    "pronunciation": "GOOR ka HUL-wa",
+    "category": "sweet",
+    "state": "Delhi",
+    "regions": [
+      "Old Delhi"
+    ],
+    "description": "A winter halwa made with jaggery and ghee, flavoured with cardamom and saffron and topped with dry fruit.",
+    "how_to_eat": "Eat it warm.",
+    "how_to_order": "Ask for gur halwa at Old Delhi sweet shops in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/old-delhi-and-food-the-perfect-gourmet-affair"
+    ]
+  },
+  {
+    "id": "delhi-karachi-halwa",
+    "name": "Karachi Halwa",
+    "local_name": null,
+    "pronunciation": "ka-RAA-chee HUL-wa",
+    "category": "sweet",
+    "state": "Delhi",
+    "regions": [
+      "Old Delhi"
+    ],
+    "description": "A chewy, glossy, jelly-like halwa of cornstarch, sugar and ghee with cardamom and nuts, often in bright colours. It is sold at Delhi's old confectioners.",
+    "how_to_eat": "Eat it in small pieces; it is rubbery and chewy.",
+    "how_to_order": "Ask for Karachi halwa by weight at Old Delhi confectioners.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Karachi_halwa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Karachi_halwa",
+      "https://www.outlooktraveller.com/experiences/food-and-drink/old-delhi-and-food-the-perfect-gourmet-affair"
+    ]
+  },
+  {
+    "id": "delhi-seekh-kebab",
+    "name": "Seekh Kebab",
+    "local_name": null,
+    "pronunciation": "SEEKH ka-BAAB",
+    "category": "street_food",
+    "state": "Delhi",
+    "regions": [
+      "Jama Masjid",
+      "Chawri Bazaar"
+    ],
+    "description": "Spiced minced meat shaped onto skewers and grilled over charcoal. The streets around Jama Masjid and Chawri Bazaar serve them most evenings.",
+    "how_to_eat": "Wrap it in rumali roti with mint chutney and onion rings.",
+    "how_to_order": "Ask for seekh kebab by the plate at evening kebab stalls near Jama Masjid.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Seekh_kebab",
+    "source_urls": [
+      "https://www.restaurantindia.in/article/top-famous-foods-to-try-in-purani-delhi-a-journey-through-the-heart-of-old-delhi.16352",
+      "https://www.outlooktraveller.com/experiences/food-and-drink/old-delhi-and-food-the-perfect-gourmet-affair",
+      "https://en.wikipedia.org/wiki/Seekh_kebab"
+    ]
+  },
+  {
+    "id": "delhi-mutton-korma",
+    "name": "Mutton Korma",
+    "local_name": "क़ोरमा",
+    "pronunciation": "KOR-ma",
+    "category": "meal",
+    "state": "Delhi",
+    "regions": [
+      "Jama Masjid"
+    ],
+    "description": "Mutton slow-cooked in a rich gravy of yogurt, onions and spices, a dish descended from Mughal cooking. It is one of the classic dishes of Old Delhi's Mughlai eateries.",
+    "how_to_eat": "Eat it with khameeri roti, sheermal or naan.",
+    "how_to_order": "Ask for mutton korma at Mughlai eateries around Jama Masjid.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Korma",
+    "source_urls": [
+      "https://www.restaurantindia.in/article/top-famous-foods-to-try-in-purani-delhi-a-journey-through-the-heart-of-old-delhi.16352",
+      "https://en.wikipedia.org/wiki/Korma"
+    ]
+  }
+]

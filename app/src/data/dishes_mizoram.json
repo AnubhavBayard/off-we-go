@@ -1,0 +1,183 @@
+[
+  {
+    "id": "mizoram-bai",
+    "name": "Bai",
+    "local_name": null,
+    "pronunciation": "BAI",
+    "category": "meal",
+    "state": "Mizoram",
+    "regions": [],
+    "description": "The signature Mizo stew of boiled seasonal vegetables such as spinach, bamboo shoot, string beans and edible ferns with herbs, often flavoured with bekang (fermented soybean) or sa-um (fermented pork). Recipes vary from home to home, and some add pork.",
+    "how_to_eat": "Eat with steamed rice; some people drink it as a soup first.",
+    "how_to_order": "Ask for 'bai' at any Mizo eatery in Aizawl; it is found everywhere.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mizo_cuisine",
+      "https://sentinelassam.com/life/famous-food-of-mizoram-mizo-people-and-culture-542322",
+      "https://blog.swiggy.com/food/top-six-traditional-foods-of-mizoram/",
+      "https://www.holidify.com/pages/food-of-mizoram-1684.html",
+      "https://www.incredibleindia.gov.in/en/mizoram/aizawl/taste-the-essence-of-aizawl"
+    ]
+  },
+  {
+    "id": "mizoram-vawksa-rep",
+    "name": "Vawksa Rep",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Mizoram",
+    "regions": [],
+    "description": "Smoked pork, cut into cubes and cooked with herbs and often bamboo shoot. It is the most famous Mizo pork dish and a staple at feasts.",
+    "how_to_eat": "Eat with steamed or sticky rice.",
+    "how_to_order": "Ask for 'vawksa rep' at Mizo restaurants in Aizawl.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/mizoram/aizawl/taste-the-essence-of-aizawl",
+      "https://blog.swiggy.com/food/top-six-traditional-foods-of-mizoram/",
+      "https://sentinelassam.com/life/famous-food-of-mizoram-mizo-people-and-culture-542322",
+      "https://www.holidify.com/pages/food-of-mizoram-1684.html",
+      "https://en.wikipedia.org/wiki/Mizo_cuisine"
+    ]
+  },
+  {
+    "id": "mizoram-sawhchiar",
+    "name": "Sawhchiar",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Mizoram",
+    "regions": [],
+    "description": "Rice cooked together with beef, pork or chicken into a thick, filling one-pot dish. It is a common Mizo lunch.",
+    "how_to_eat": "Eat it hot as a full meal.",
+    "how_to_order": "Ask for 'sawhchiar' and say which meat you want.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mizo_cuisine"
+    ]
+  },
+  {
+    "id": "mizoram-arsa-buhchiar",
+    "name": "Arsa Buhchiar",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Mizoram",
+    "regions": [
+      "Aizawl"
+    ],
+    "description": "A savoury porridge of rice and chicken cooked with ginger, garlic and herbs.",
+    "how_to_eat": "Eat it hot from a bowl.",
+    "how_to_order": "Ask for 'arsa buhchiar' at Mizo eateries in Aizawl.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/mizoram/aizawl/taste-the-essence-of-aizawl",
+      "https://travelsetu.com/guide/mizoram-tourism/food-in-mizoram"
+    ]
+  },
+  {
+    "id": "mizoram-bekang",
+    "name": "Bekang",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Mizoram",
+    "regions": [],
+    "description": "Fermented soybeans, similar to Japanese natto but less slimy, eaten raw or made into a curry with salt, green chillies and tomatoes. A cheap, protein-rich side that matters a lot in Mizo food culture.",
+    "how_to_eat": "Eat a little with rice and meat.",
+    "how_to_order": "Ask for 'bekang' at Mizo eateries or buy it at Aizawl markets.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mizo_cuisine",
+      "https://sentinelassam.com/life/famous-food-of-mizoram-mizo-people-and-culture-542322"
+    ]
+  },
+  {
+    "id": "mizoram-hmarcha-rawt",
+    "name": "Hmarcha Rawt",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Mizoram",
+    "regions": [],
+    "description": "A tangy, spicy chutney of green chillies with garlic and onion, a long-standing staple served with rice.",
+    "how_to_eat": "Use a little on the side of rice and meat.",
+    "how_to_order": "Comes with most Mizo meals; ask for 'hmarcha rawt'.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/mizoram/aizawl/taste-the-essence-of-aizawl",
+      "https://en.wikipedia.org/wiki/Mizo_cuisine"
+    ]
+  },
+  {
+    "id": "mizoram-chhum-han",
+    "name": "Chhum Han",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Mizoram",
+    "regions": [],
+    "description": "Mixed vegetables such as cabbage, beans and leafy greens steamed with ginger and no masala or oil. A light everyday side.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": "Ask for 'chhum han' with a Mizo meal.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mizo_cuisine",
+      "https://sentinelassam.com/life/famous-food-of-mizoram-mizo-people-and-culture-542322",
+      "https://blog.swiggy.com/food/top-six-traditional-foods-of-mizoram/",
+      "https://www.holidify.com/pages/food-of-mizoram-1684.html"
+    ]
+  }
+]

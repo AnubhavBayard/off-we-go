@@ -1,0 +1,907 @@
+[
+  {
+    "id": "bihar-litti-chokha",
+    "name": "Litti Chokha",
+    "local_name": null,
+    "pronunciation": "LIT-ti CHO-kha",
+    "category": "meal",
+    "state": "Bihar",
+    "regions": [],
+    "description": "Whole-wheat dough balls stuffed with spiced sattu (roasted gram flour), roasted over charcoal or fire, served with chokha, a mash of roasted eggplant, tomato or potato with mustard oil. It is Bihar's best-known dish and a popular street food in towns and cities.",
+    "how_to_eat": "Break the litti open, dip it in ghee and eat it with chokha.",
+    "how_to_order": "Ask for a plate of 'litti chokha' at roadside stalls; say if you want it with ghee.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Litti_(dish)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Litti_(dish)",
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://www.holidify.com/pages/food-of-bihar-1643.html"
+    ]
+  },
+  {
+    "id": "bihar-champaran-meat",
+    "name": "Champaran Meat (Ahuna)",
+    "local_name": null,
+    "pronunciation": "cham-PA-ran meet",
+    "category": "meal",
+    "state": "Bihar",
+    "regions": [
+      "Champaran"
+    ],
+    "description": "Mutton marinated in mustard oil, ghee, garlic, onion, ginger and spices, cooked in an earthen handi sealed with dough over a slow wood fire. Also called ahuna, handi meat or batlohi, it comes from the Champaran region and is now served in cities across India.",
+    "how_to_eat": "Eat with rice or roti, scooping up the thick gravy.",
+    "how_to_order": "Ask for 'Champaran mutton' or 'ahuna mutton' at Bihari restaurants and dhabas.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Champaran_meat",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Champaran_meat",
+      "https://en.wikipedia.org/wiki/Bihari_cuisine"
+    ]
+  },
+  {
+    "id": "bihar-taash",
+    "name": "Champaran Taash",
+    "local_name": null,
+    "pronunciation": "TAASH",
+    "category": "meal",
+    "state": "Bihar",
+    "regions": [
+      "Champaran"
+    ],
+    "description": "Grilled mutton from Champaran, one of Bihar's named non-vegetarian specialities.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'taash' at meat stalls and dhabas in the Champaran region.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine"
+    ]
+  },
+  {
+    "id": "bihar-bihari-kebab",
+    "name": "Bihari Kebab",
+    "local_name": null,
+    "pronunciation": "bi-HAA-ri ke-BAAB",
+    "category": "meal",
+    "state": "Bihar",
+    "regions": [
+      "Patna"
+    ],
+    "description": "Traditionally mutton kebabs, eaten with roti, paratha or rice. Patna is known for its mutton kebabs and reshmi kebabs.",
+    "how_to_eat": "Eat with roti or paratha and sliced onions.",
+    "how_to_order": "Ask for 'Bihari kebab' or 'reshmi kebab' at kebab shops in Patna.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://www.holidify.com/pages/food-of-bihar-1643.html"
+    ]
+  },
+  {
+    "id": "bihar-sattu-paratha",
+    "name": "Sattu Paratha (Makuni)",
+    "local_name": null,
+    "pronunciation": "SAT-tu pa-RAA-tha",
+    "category": "meal",
+    "state": "Bihar",
+    "regions": [],
+    "description": "Flatbread stuffed with spiced sattu (roasted gram flour), also called makuni. It is a hallmark of Bihari home cooking.",
+    "how_to_eat": "Eat hot with pickle, curd or aloo bhujia.",
+    "how_to_order": "Ask for 'sattu paratha' at Bihari eateries and breakfast stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://www.holidify.com/pages/food-of-bihar-1643.html"
+    ]
+  },
+  {
+    "id": "bihar-dal-puri",
+    "name": "Dalpuri",
+    "local_name": null,
+    "pronunciation": "DAAL-poo-ri",
+    "category": "meal",
+    "state": "Bihar",
+    "regions": [],
+    "description": "Salted wheat-flour bread stuffed with fried, crushed gram lentils. It is a common Bihari bread.",
+    "how_to_eat": "Eat hot with a vegetable curry or kheer.",
+    "how_to_order": "Ask for 'dalpuri' at sweet shops and breakfast stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dal_puri",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://en.wikipedia.org/wiki/Dal_puri",
+      "https://www.holidify.com/pages/food-of-bihar-1643.html"
+    ]
+  },
+  {
+    "id": "bihar-kadhi-bari",
+    "name": "Kadhi Bari",
+    "local_name": null,
+    "pronunciation": "KA-dhi BA-ri",
+    "category": "meal",
+    "state": "Bihar",
+    "regions": [],
+    "description": "Fried besan dumplings (bari) simmered in a spiced yogurt and gram-flour gravy. It is a staple Bihari lunch dish.",
+    "how_to_eat": "Eat with steamed rice or puris.",
+    "how_to_order": "Ask for 'kadhi bari' at Bihari thali restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://www.holidify.com/pages/food-of-bihar-1643.html"
+    ]
+  },
+  {
+    "id": "bihar-dahi-chura",
+    "name": "Dahi Chura",
+    "local_name": null,
+    "pronunciation": "DA-hi CHOO-ra",
+    "category": "meal",
+    "state": "Bihar",
+    "regions": [],
+    "description": "Beaten rice (chura) eaten with curd and sugar or jaggery; in winter it may be served with spiced peas and onions. It is a simple, everyday Bihari meal.",
+    "how_to_eat": "Mix the chura, curd and jaggery together and eat with your hand or a spoon.",
+    "how_to_order": "Mostly home food; ask for 'dahi chura' at Bihari eateries, especially around Makar Sankranti.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine"
+    ]
+  },
+  {
+    "id": "bihar-ghugni",
+    "name": "Chana Ghugni",
+    "local_name": null,
+    "pronunciation": "GHUG-ni",
+    "category": "snack",
+    "state": "Bihar",
+    "regions": [],
+    "description": "Black chickpeas sautéed in mustard oil with ground masala, onion and spices. It is an evening snack in most Bihari households, often with fried flattened rice.",
+    "how_to_eat": "Eat hot with chura (flattened rice) or mudi (puffed rice).",
+    "how_to_order": "Ask for 'ghugni chura' or 'ghugni mudi' at evening snack stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ghugni",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://www.holidify.com/pages/food-of-bihar-1643.html",
+      "https://en.wikipedia.org/wiki/Ghugni"
+    ]
+  },
+  {
+    "id": "bihar-dal-pitha",
+    "name": "Dal Pitha",
+    "local_name": null,
+    "pronunciation": "DAAL PEE-tha",
+    "category": "snack",
+    "state": "Bihar",
+    "regions": [],
+    "description": "Rice-flour dumplings filled with spiced lentil paste and steamed or fried. They are a common Bihari breakfast.",
+    "how_to_eat": "Eat warm with chutney or pickle.",
+    "how_to_order": "Mostly home-made; ask for 'dal pitha' at Bihari restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-bihar-1643.html",
+      "https://en.wikipedia.org/wiki/Bihari_cuisine"
+    ]
+  },
+  {
+    "id": "bihar-bagiya",
+    "name": "Bagiya",
+    "local_name": null,
+    "pronunciation": "BA-gi-ya",
+    "category": "snack",
+    "state": "Bihar",
+    "regions": [
+      "Mithila"
+    ],
+    "description": "A steamed rice-flour dumpling filled with sweet chaku, vegetables or other fillings, a delicacy of the Maithil community. It is a key part of Diwali on the day of Laxmi Puja.",
+    "how_to_eat": "Eat warm, as a festive snack.",
+    "how_to_order": "Mostly home-made in Mithila homes around Diwali.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bagiya",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bagiya",
+      "https://en.wikipedia.org/wiki/Bihari_cuisine"
+    ]
+  },
+  {
+    "id": "bihar-singhada",
+    "name": "Singhada (Samosa)",
+    "local_name": null,
+    "pronunciation": "sing-HAA-da",
+    "category": "street_food",
+    "state": "Bihar",
+    "regions": [],
+    "description": "The Bihari name for the samosa, a fried pastry with a spiced filling. It is also turned into singhada chaat with sweet chutney, curd and chura.",
+    "how_to_eat": "Eat hot with chutney.",
+    "how_to_order": "Ask for 'singhada' at sweet shops and tea stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine"
+    ]
+  },
+  {
+    "id": "bihar-silao-khaja",
+    "name": "Silao Khaja",
+    "local_name": null,
+    "pronunciation": "si-LAA-o KHAA-ja",
+    "category": "sweet",
+    "state": "Bihar",
+    "regions": [
+      "Silao",
+      "Nalanda"
+    ],
+    "description": "A flaky sweet of 12 to 16 paper-thin layers of wheat-flour dough with ghee, cardamom and aniseed, fried and glazed with syrup, often compared to baklava. Silao in Nalanda district is famous for it, and Silao Khaja received a GI tag in 2018.",
+    "how_to_eat": "Eat it dry and crisp; it shatters, so hold a plate under it.",
+    "how_to_order": "Ask for 'Silao khaja' at shops in Silao on the Rajgir-Nalanda road.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khaja",
+    "source_urls": [
+      "https://thebetterindia.com/262824/bihar-gi-tag-silao-khaja-nalanda-buddha-jagannath-puri-food-history",
+      "https://www.gktoday.in/silao-khaja-gets-gi-tag/",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "https://en.wikipedia.org/wiki/Bihari_cuisine"
+    ]
+  },
+  {
+    "id": "bihar-tilkut",
+    "name": "Gaya Tilkut",
+    "local_name": null,
+    "pronunciation": "TIL-koot",
+    "category": "sweet",
+    "state": "Bihar",
+    "regions": [
+      "Gaya"
+    ],
+    "description": "A winter sweet of pounded sesame bound with jaggery or sugar, pressed into thin biscuit-like discs. Gaya is reputed to make the best, especially the tilkut of Dangra village, and it is eaten around Makar Sankranti.",
+    "how_to_eat": "Eat as is; it is crunchy and keeps for days.",
+    "how_to_order": "Ask for 'Gaya tilkut' by weight at sweet shops in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tilkut",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tilkut",
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://www.holidify.com/pages/food-of-bihar-1643.html"
+    ]
+  },
+  {
+    "id": "bihar-thekua",
+    "name": "Thekua",
+    "local_name": null,
+    "pronunciation": "THE-ku-a",
+    "category": "sweet",
+    "state": "Bihar",
+    "regions": [],
+    "description": "A hard fried biscuit of whole-wheat flour, jaggery and ghee, flavoured with aniseed. It is the main prasad of Chhath Puja and a common gift sweet.",
+    "how_to_eat": "Eat as a snack with tea; it keeps for weeks.",
+    "how_to_order": "Ask for 'thekua' at sweet shops, especially around Chhath.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thekua",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thekua",
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://www.holidify.com/pages/food-of-bihar-1643.html"
+    ]
+  },
+  {
+    "id": "bihar-malpua",
+    "name": "Malpua",
+    "local_name": null,
+    "pronunciation": "MAAL-poo-a",
+    "category": "sweet",
+    "state": "Bihar",
+    "regions": [
+      "Patna"
+    ],
+    "description": "A fried pancake of maida, milk and mashed banana, soaked in sugar syrup. In Bihar it is often served with thick rabri and is closely tied to Holi.",
+    "how_to_eat": "Eat warm, with rabri spooned over.",
+    "how_to_order": "Ask for 'malpua rabri' at sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Malpua",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://www.holidify.com/pages/food-of-bihar-1643.html",
+      "https://en.wikipedia.org/wiki/Malpua"
+    ]
+  },
+  {
+    "id": "bihar-anarsa",
+    "name": "Anarsa",
+    "local_name": null,
+    "pronunciation": "a-NAR-sa",
+    "category": "sweet",
+    "state": "Bihar",
+    "regions": [
+      "Gaya",
+      "Mithila"
+    ],
+    "description": "A rice-flour and jaggery biscuit coated in poppy or sesame seeds and fried in ghee, especially associated with Gaya. It is made for Diwali and other festivals.",
+    "how_to_eat": "Eat as is; the outside is crisp and the inside chewy.",
+    "how_to_order": "Ask for 'gur anarsa' at sweet shops in Gaya.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anarsa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Anarsa",
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://www.holidify.com/pages/food-of-bihar-1643.html"
+    ]
+  },
+  {
+    "id": "bihar-balushahi",
+    "name": "Harnaut Balushahi",
+    "local_name": null,
+    "pronunciation": "baa-loo-SHAA-hi",
+    "category": "sweet",
+    "state": "Bihar",
+    "regions": [
+      "Harnaut"
+    ],
+    "description": "A fried, sugar-glazed flour pastry with a flaky, porous texture. Harnaut in Nalanda district is famous for it.",
+    "how_to_eat": "Eat at room temperature.",
+    "how_to_order": "Ask for 'balushahi' at sweet shops in Harnaut.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Makhan_Bada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://www.holidify.com/pages/food-of-bihar-1643.html"
+    ]
+  },
+  {
+    "id": "bihar-motichoor-ladoo",
+    "name": "Maner Motichoor Ladoo",
+    "local_name": null,
+    "pronunciation": "mo-ti-CHOOR LAD-doo",
+    "category": "sweet",
+    "state": "Bihar",
+    "regions": [
+      "Maner"
+    ],
+    "description": "A ladoo of tiny fried gram-flour pearls bound in syrup. Maner, near Patna, is famous for it.",
+    "how_to_eat": "Eat as is.",
+    "how_to_order": "Ask for 'Maner ka laddu' at sweet shops in Maner.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine"
+    ]
+  },
+  {
+    "id": "bihar-makhana-kheer",
+    "name": "Makhana Kheer",
+    "local_name": null,
+    "pronunciation": "MAKH-aa-na kheer",
+    "category": "sweet",
+    "state": "Bihar",
+    "regions": [
+      "Darbhanga",
+      "Mithila"
+    ],
+    "description": "A lightly sweet, rich pudding of fox nuts (makhana) cooked in milk. Bihar grows about 90% of the world's fox nuts, and the Darbhanga area is famous for this kheer.",
+    "how_to_eat": "Eat warm or chilled as dessert.",
+    "how_to_order": "Ask for 'makhane ki kheer' at Bihari restaurants or sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://en.wikipedia.org/wiki/Euryale_ferox",
+      "https://betastate.bihar.gov.in/Cuisineofbihar.aspx"
+    ]
+  },
+  {
+    "id": "bihar-rasia",
+    "name": "Rasia",
+    "local_name": null,
+    "pronunciation": "RA-si-ya",
+    "category": "sweet",
+    "state": "Bihar",
+    "regions": [],
+    "description": "A rice kheer sweetened with jaggery, made as a special offering for Chhath Puja.",
+    "how_to_eat": "Eat warm, usually after the Chhath fast.",
+    "how_to_order": "Mostly home-made for Chhath.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://www.holidify.com/pages/food-of-bihar-1643.html"
+    ]
+  },
+  {
+    "id": "bihar-kesaria-peda",
+    "name": "Kesaria Peda",
+    "local_name": null,
+    "pronunciation": "ke-SA-ri-ya PE-da",
+    "category": "sweet",
+    "state": "Bihar",
+    "regions": [
+      "Kesaria"
+    ],
+    "description": "A milk sweet (peda) of khoa and sugar; the town of Kesaria is famous for its version.",
+    "how_to_eat": "Eat as is.",
+    "how_to_order": "Ask for 'peda' at sweet shops in Kesaria.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peda",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://en.wikipedia.org/wiki/Peda"
+    ]
+  },
+  {
+    "id": "bihar-khurma",
+    "name": "Khurma",
+    "local_name": null,
+    "pronunciation": "KHUR-ma",
+    "category": "sweet",
+    "state": "Bihar",
+    "regions": [
+      "Udwantnagar",
+      "Arrah"
+    ],
+    "description": "Strips of flour dough deep-fried and dipped in sugar syrup, which crystallises into a powdery coat; it is also called shakkarpara. It originated in Udwantnagar and Arrah in Bhojpur district.",
+    "how_to_eat": "Eat as a sweet snack.",
+    "how_to_order": "Ask for 'khurma' at sweet shops in Bhojpur district.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khurma_(sweet)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khurma_(sweet)",
+      "https://www.holidify.com/pages/food-of-bihar-1643.html",
+      "https://en.wikipedia.org/wiki/Bihari_cuisine"
+    ]
+  },
+  {
+    "id": "bihar-belgrami",
+    "name": "Belgrami",
+    "local_name": null,
+    "pronunciation": "bel-GRAA-mi",
+    "category": "sweet",
+    "state": "Bihar",
+    "regions": [
+      "Udwantnagar"
+    ],
+    "description": "A milk-solid sweet made with sugar and ghee, less sweet than khaja. It comes from Udwantnagar between Arrah and Buxar.",
+    "how_to_eat": "Eat as is.",
+    "how_to_order": "Ask for 'belgrami' at sweet shops in Udwantnagar.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-bihar-1643.html",
+      "https://en.wikipedia.org/wiki/Bihari_cuisine"
+    ]
+  },
+  {
+    "id": "bihar-parwal-ki-mithai",
+    "name": "Parwal ki Mithai",
+    "local_name": null,
+    "pronunciation": "PAR-wal ki mi-THAI",
+    "category": "sweet",
+    "state": "Bihar",
+    "regions": [],
+    "description": "Pointed gourd (parwal) scooped out, boiled in syrup and stuffed with sweetened khoya and dry fruit. It is a distinctive Bihari sweet.",
+    "how_to_eat": "Eat chilled or at room temperature.",
+    "how_to_order": "Ask for 'parwal mithai' at sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://www.holidify.com/pages/food-of-bihar-1643.html"
+    ]
+  },
+  {
+    "id": "bihar-chandrakala",
+    "name": "Chandrakala (Pedakiya)",
+    "local_name": null,
+    "pronunciation": "chan-dra-KA-la",
+    "category": "sweet",
+    "state": "Bihar",
+    "regions": [],
+    "description": "A crisp gujia-like shell stuffed with sweetened khoya, coconut, cardamom and dry fruits, dipped in sugar syrup.",
+    "how_to_eat": "Eat as is.",
+    "how_to_order": "Ask for 'chandrakala' or 'pedakiya' at sweet shops, especially at festivals.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-bihar-1643.html",
+      "https://en.wikipedia.org/wiki/Bihari_cuisine"
+    ]
+  },
+  {
+    "id": "bihar-laung-latika",
+    "name": "Laung Latika",
+    "local_name": null,
+    "pronunciation": "laung LA-ti-ka",
+    "category": "sweet",
+    "state": "Bihar",
+    "regions": [
+      "Patna"
+    ],
+    "description": "A crisp pastry with a sweet filling, sealed with a clove in the centre and dipped in sugar syrup. It is a winter festival sweet sold at well-known shops around Patna.",
+    "how_to_eat": "Remove the clove before eating if you prefer.",
+    "how_to_order": "Ask for 'laung latika' at Patna sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-bihar-1643.html"
+    ]
+  },
+  {
+    "id": "bihar-kala-jamun",
+    "name": "Kala Jamun",
+    "local_name": null,
+    "pronunciation": "KAA-la JAA-mun",
+    "category": "sweet",
+    "state": "Bihar",
+    "regions": [
+      "Munger",
+      "Bhagalpur",
+      "Banka"
+    ],
+    "description": "Dark, deep-fried milk-solid balls soaked in syrup, a darker relative of gulab jamun. Munger, Bhagalpur and Banka are known for it.",
+    "how_to_eat": "Eat warm with a little syrup.",
+    "how_to_order": "Ask for 'kala jamun' at sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://www.holidify.com/pages/food-of-bihar-1643.html"
+    ]
+  },
+  {
+    "id": "bihar-lai",
+    "name": "Lai",
+    "local_name": null,
+    "pronunciation": "LAI",
+    "category": "sweet",
+    "state": "Bihar",
+    "regions": [
+      "Gaya",
+      "Barh"
+    ],
+    "description": "Discs of ram dana (amaranth seeds), puffed rice or beaten rice bound with khoya or jaggery syrup. Gaya lai and Barh's khubi ki lai are well-known varieties.",
+    "how_to_eat": "Eat as a sweet snack.",
+    "how_to_order": "Ask for 'lai' at sweet shops in Gaya or Barh.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://www.holidify.com/pages/food-of-bihar-1643.html"
+    ]
+  },
+  {
+    "id": "bihar-naivedyam",
+    "name": "Naivedyam (Mahavir Mandir)",
+    "local_name": null,
+    "pronunciation": "nai-VED-yam",
+    "category": "temple_food",
+    "state": "Bihar",
+    "regions": [
+      "Patna"
+    ],
+    "description": "A ball-shaped sweet of besan, sugar, cashew, raisin, cardamom and saffron cooked in ghee, sold as prasad at the Hanuman (Mahavir) Mandir near Patna Junction.",
+    "how_to_eat": "Eat as prasad; it is a soft ladoo.",
+    "how_to_order": "Buy it at the counters of the Hanuman Mandir near Patna Railway Station.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-bihar-1643.html"
+    ]
+  },
+  {
+    "id": "bihar-sattu-sharbat",
+    "name": "Sattu Sharbat",
+    "local_name": null,
+    "pronunciation": "SAT-tu shar-BAT",
+    "category": "drink",
+    "state": "Bihar",
+    "regions": [],
+    "description": "A filling summer drink of sattu (roasted gram flour) mixed with water, often salted. It is valued as cooling and energising.",
+    "how_to_eat": "Drink cold, stirring first since the sattu settles.",
+    "how_to_order": "Ask for 'sattu sharbat' (namkeen or meetha) at street carts in summer.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sattu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sattu",
+      "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "https://www.holidify.com/pages/food-of-bihar-1643.html"
+    ]
+  },
+  {
+    "id": "bihar-bel-sharbat",
+    "name": "Bel Sharbat",
+    "local_name": null,
+    "pronunciation": "bel shar-BAT",
+    "category": "drink",
+    "state": "Bihar",
+    "regions": [],
+    "description": "A cooling summer drink made from the pulp of wood apple (bel).",
+    "how_to_eat": "Drink chilled.",
+    "how_to_order": "Ask for 'bel sharbat' at juice carts in summer.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine"
+    ]
+  },
+  {
+    "id": "bihar-mattha",
+    "name": "Mattha",
+    "local_name": null,
+    "pronunciation": "MAT-tha",
+    "category": "drink",
+    "state": "Bihar",
+    "regions": [],
+    "description": "Spiced buttermilk drunk as a cooler, often with meals.",
+    "how_to_eat": "Drink chilled after a meal.",
+    "how_to_order": "Ask for 'mattha' at eateries and dairy shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bihari_cuisine"
+    ]
+  }
+]

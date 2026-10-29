@@ -1,0 +1,529 @@
+[
+  {
+    "id": "puducherry-fish-assad",
+    "name": "Fish Assad Curry",
+    "local_name": null,
+    "pronunciation": "fish a-SAAD",
+    "category": "meal",
+    "state": "Puducherry",
+    "regions": [
+      "Puducherry"
+    ],
+    "description": "A Pondicherry Creole fish curry rich with coconut milk, flavoured with anise and curry leaves and finished with lime. It is described as the quintessential local dish of the Franco-Tamil Creole kitchen, which is now fading from restaurants.",
+    "how_to_eat": "Eat it with plain rice.",
+    "how_to_order": "Ask for 'fish assad' at restaurants serving Creole or Franco-Tamil food in the French Quarter.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Pondicherry",
+      "https://www.bindugopalrao.com/franco-tamil-food-of-pondicherry/"
+    ]
+  },
+  {
+    "id": "puducherry-meen-puyabaise",
+    "name": "Meen Puyabaise",
+    "local_name": null,
+    "pronunciation": "meen pwee-ya-BAYZ",
+    "category": "meal",
+    "state": "Puducherry",
+    "regions": [
+      "Puducherry"
+    ],
+    "description": "Pondicherry's version of the French bouillabaisse fish soup, adapted with turmeric, green chillies, bay leaf, cinnamon and coconut milk, with carrots, beans and potatoes. It shows how French dishes were reworked in Creole kitchens.",
+    "how_to_eat": "Eat it as a soup-stew, with bread or rice.",
+    "how_to_order": "Ask for 'meen puyabaise' or 'pouillon baisse' at Creole restaurants in the French Quarter.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Pondicherry",
+      "https://www.bindugopalrao.com/franco-tamil-food-of-pondicherry/",
+      "https://en.wikipedia.org/wiki/Bouillabaisse"
+    ]
+  },
+  {
+    "id": "puducherry-pondicherry-vindaloo",
+    "name": "Pondicherry Vindaloo",
+    "local_name": null,
+    "pronunciation": "vin-DAA-loo",
+    "category": "meal",
+    "state": "Puducherry",
+    "regions": [
+      "Puducherry"
+    ],
+    "description": "A Creole meat curry, often made with pork (called 'vindali' locally), that differs from the Goan vindaloo. It is attributed to the area's Portuguese past.",
+    "how_to_eat": "Eat it with rice or bread.",
+    "how_to_order": "Ask for 'pork vindali' at Creole home kitchens and restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Pondicherry",
+      "https://www.bindugopalrao.com/franco-tamil-food-of-pondicherry/"
+    ]
+  },
+  {
+    "id": "puducherry-vadouvan-curry",
+    "name": "Vadouvan Curry",
+    "local_name": null,
+    "pronunciation": "VAA-doo-vaan",
+    "category": "meal",
+    "state": "Puducherry",
+    "regions": [
+      "Puducherry"
+    ],
+    "description": "A Creole curry, such as pork vadavoum, flavoured with vadouvan, a 'French curry' spice blend derived from the Tamil vadagam. Vadouvan is made from pounded onion and garlic with cumin, mustard and fenugreek, sun-dried, mixed with castor oil and rolled into balls.",
+    "how_to_eat": "Eat it with rice.",
+    "how_to_order": "Ask for 'pork vadouvan curry' at Creole restaurants; the vadouvan spice balls are sold in shops too.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vadouvan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Vadouvan",
+      "https://www.bindugopalrao.com/franco-tamil-food-of-pondicherry/"
+    ]
+  },
+  {
+    "id": "puducherry-fish-koda-curry",
+    "name": "Fish Koda Curry",
+    "local_name": null,
+    "pronunciation": "fish KO-da",
+    "category": "meal",
+    "state": "Puducherry",
+    "regions": [
+      "Puducherry"
+    ],
+    "description": "A Creole curry of fish and shrimp cooked with eggs and coconut cream. It is one of the old home-style dishes that Creole restaurants have revived.",
+    "how_to_eat": "Eat it with rice.",
+    "how_to_order": "Ask for 'fish koda curry' at restaurants specialising in Pondicherry Creole food.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "shellfish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/flavours-of-pondicherry"
+    ]
+  },
+  {
+    "id": "puducherry-peerkangai-eraal-puttu",
+    "name": "Peerkangai Eraal Puttu",
+    "local_name": null,
+    "pronunciation": "peer-KAN-gai ay-RAAL PUT-tu",
+    "category": "meal",
+    "state": "Puducherry",
+    "regions": [
+      "Puducherry"
+    ],
+    "description": "A Creole dish of shrimp cooked with ridge gourd and coconut. It is one of the home-kitchen specialities rarely found outside native Pondicherry homes.",
+    "how_to_eat": "Eat it as a side with rice.",
+    "how_to_order": "Ask for 'peerkangai eraal puttu' at Creole specialist restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/flavours-of-pondicherry"
+    ]
+  },
+  {
+    "id": "puducherry-rasam-aux-crevettes",
+    "name": "Rasam aux Crevettes",
+    "local_name": null,
+    "pronunciation": "RA-sam oh kre-VET",
+    "category": "meal",
+    "state": "Puducherry",
+    "regions": [
+      "Puducherry"
+    ],
+    "description": "A Franco-Tamil soup: South Indian rasam made with prawns, coconut milk and fish stock, with tomato, shallots, mustard seeds, curry leaves, green chilli and lemon. It shows the French-named, Tamil-spiced style of Creole menus.",
+    "how_to_eat": "Drink it as a soup course or pour it over rice.",
+    "how_to_order": "Ask for 'rasam aux crevettes' at Franco-Tamil restaurants on the seafront.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.bindugopalrao.com/franco-tamil-food-of-pondicherry/"
+    ]
+  },
+  {
+    "id": "puducherry-poricha-kozhi",
+    "name": "Poricha Kozhi",
+    "local_name": null,
+    "pronunciation": "po-RI-cha KO-zhi",
+    "category": "meal",
+    "state": "Puducherry",
+    "regions": [
+      "Puducherry"
+    ],
+    "description": "Free-range chicken deep-fried, then sautéed with Pondicherry spices and tossed with tomatoes, onion and garlic. Franco-Tamil restaurants serve it with French fries and salad.",
+    "how_to_eat": "Eat it as a main with fries or rice.",
+    "how_to_order": "Ask for 'poricha kozhi' at Franco-Tamil restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.bindugopalrao.com/franco-tamil-food-of-pondicherry/"
+    ]
+  },
+  {
+    "id": "puducherry-karaikal-mutton-varuval",
+    "name": "Karaikal Mutton Varuval",
+    "local_name": null,
+    "pronunciation": "MUT-ton va-RU-val",
+    "category": "meal",
+    "state": "Puducherry",
+    "regions": [
+      "Karaikal"
+    ],
+    "description": "A dry, spicy mutton fry from Karaikal, the Puducherry enclave on the Tamil coast. Karaikal eateries are known for seafood and mutton.",
+    "how_to_eat": "Eat it with rice or parotta.",
+    "how_to_order": "Ask for 'mutton varuval' at non-veg eateries in Karaikal.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.dtnext.in/amp/story/islambhais-special-mutton-from-karaikal"
+    ]
+  },
+  {
+    "id": "puducherry-meat-and-cheese-dosa",
+    "name": "Meat and Cheese Dosa",
+    "local_name": null,
+    "pronunciation": "DO-sa",
+    "category": "street_food",
+    "state": "Puducherry",
+    "regions": [
+      "Puducherry"
+    ],
+    "description": "A fusion dosa made like a French crêpe, filled with meat and cheese instead of the usual potato masala. Butter and cheese dosas are found along Mission Street, Beach Road and JN Street.",
+    "how_to_eat": "Eat it hot off the griddle with chutney.",
+    "how_to_order": "Ask for a 'cheese dosa' or meat-and-cheese dosa at dosa stalls on Mission Street or JN Street.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Pondicherry",
+      "https://www.incredibleindia.gov.in/en/puducherry/puducherry/exploring-puducherrys-gastronomic-palette"
+    ]
+  },
+  {
+    "id": "puducherry-egg-pakoda",
+    "name": "Egg Pakoda",
+    "local_name": null,
+    "pronunciation": "EGG pa-KO-da",
+    "category": "street_food",
+    "state": "Puducherry",
+    "regions": [
+      "Puducherry"
+    ],
+    "description": "Boiled eggs dipped in spiced gram-flour batter and deep-fried. It is a popular Puducherry street snack.",
+    "how_to_eat": "Eat it hot with chutney or ketchup.",
+    "how_to_order": "Ask for 'egg pakoda' at evening snack stalls.",
+    "typical_price_inr": null,
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://newsable.asianetnews.com/gallery/lifestyle/puducherry-famous-crispy-egg-pakoda-recipe-sri-sh556oi"
+    ]
+  },
+  {
+    "id": "puducherry-pondicherry-halwa",
+    "name": "Pondicherry and Karaikal Halwa",
+    "local_name": null,
+    "pronunciation": "AL-wa",
+    "category": "sweet",
+    "state": "Puducherry",
+    "regions": [
+      "Karaikal",
+      "Puducherry"
+    ],
+    "description": "A wheat-based halwa made with sugar and ghee, often topped with nuts and raisins. Halwa is the trademark of Karaikal, where roadside shops sell many types.",
+    "how_to_eat": "Eat it warm in small pieces.",
+    "how_to_order": "Ask for 'halwa' by weight at sweet shops in Karaikal or Puducherry.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://blog.swiggy.com/?p=17679",
+      "https://wikipedia.jakami.de/content/wikipedia_de_all_mini_2024-06/A/Karikal"
+    ]
+  },
+  {
+    "id": "puducherry-sangia",
+    "name": "Sangia",
+    "local_name": null,
+    "pronunciation": "SAN-gee-ya",
+    "category": "sweet",
+    "state": "Puducherry",
+    "regions": [
+      "Puducherry"
+    ],
+    "description": "A Creole coconut pudding made with eggs and jaggery. It is one of the Franco-Tamil desserts served at Creole restaurants.",
+    "how_to_eat": "Eat it chilled with a spoon after a meal.",
+    "how_to_order": "Ask for 'sangia' at restaurants serving Creole food.",
+    "typical_price_inr": null,
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/flavours-of-pondicherry"
+    ]
+  },
+  {
+    "id": "puducherry-coconut-baguette",
+    "name": "Coconut Baguette",
+    "local_name": null,
+    "pronunciation": "ba-GET",
+    "category": "sweet",
+    "state": "Puducherry",
+    "regions": [
+      "Puducherry"
+    ],
+    "description": "A Creole dessert of soft baguette soaked in chilled coconut milk and topped with dried fruit. It mixes French bread with a Tamil coconut base.",
+    "how_to_eat": "Eat it cold with a spoon.",
+    "how_to_order": "Ask for 'coconut baguette' at Creole specialist restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/flavours-of-pondicherry"
+    ]
+  },
+  {
+    "id": "puducherry-pondicherry-macarons",
+    "name": "Pondicherry Macarons",
+    "local_name": null,
+    "pronunciation": "ma-ka-RON",
+    "category": "sweet",
+    "state": "Puducherry",
+    "regions": [
+      "Puducherry"
+    ],
+    "description": "French macarons sold by Pondicherry bakeries and patisseries with local flavours such as cardamom, mango and coconut. They reflect the town's French heritage.",
+    "how_to_eat": "Eat them as a sweet with coffee.",
+    "how_to_order": "Ask for macarons at patisseries in the French Quarter (White Town).",
+    "typical_price_inr": null,
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Macaron",
+    "source_urls": [
+      "https://blog.swiggy.com/?p=17679",
+      "https://en.wikipedia.org/wiki/Macaron"
+    ]
+  },
+  {
+    "id": "puducherry-crepes",
+    "name": "Crêpes",
+    "local_name": null,
+    "pronunciation": "KREP",
+    "category": "sweet",
+    "state": "Puducherry",
+    "regions": [
+      "Puducherry"
+    ],
+    "description": "Thin French pancakes, sweet or savoury, which are still widely made in Pondicherry. Cafés serve them with fillings like lemon, chocolate, honey, or sugar and butter.",
+    "how_to_eat": "Eat them fresh and warm.",
+    "how_to_order": "Ask for a sweet crêpe at cafés in the French Quarter.",
+    "typical_price_inr": null,
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cr%C3%AApe",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Pondicherry",
+      "https://www.outlooktraveller.com/experiences/food-and-drink/flavours-of-pondicherry"
+    ]
+  },
+  {
+    "id": "puducherry-baguette-and-croissant",
+    "name": "Baguettes and Croissants",
+    "local_name": null,
+    "pronunciation": "ba-GET, kwa-SON",
+    "category": "snack",
+    "state": "Puducherry",
+    "regions": [
+      "Puducherry"
+    ],
+    "description": "French breads and pastries baked by Pondicherry's bakeries using French techniques, a legacy of the colonial period. They are eaten for breakfast with coffee.",
+    "how_to_eat": "Have them for breakfast with coffee.",
+    "how_to_order": "Buy them fresh in the morning at bakeries in White Town.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Pondicherry",
+      "https://www.incredibleindia.gov.in/en/puducherry/puducherry/exploring-puducherrys-gastronomic-palette"
+    ]
+  },
+  {
+    "id": "puducherry-kalkandu-pongal",
+    "name": "Kalkandu Pongal",
+    "local_name": null,
+    "pronunciation": "kal-KAN-du pon-GAL",
+    "category": "sweet",
+    "state": "Puducherry",
+    "regions": [
+      "Puducherry"
+    ],
+    "description": "A festive sweet pongal of rice cooked with ghee and kalkandu (sugar candy). It is one of the well-known sweets in Pondicherry.",
+    "how_to_eat": "Eat it warm.",
+    "how_to_order": "Ask for 'kalkandu pongal' at sweet shops and temples, especially at festivals.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://blog.swiggy.com/?p=17679",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "puducherry-kadugu-yerra",
+    "name": "Kadugu Yerra",
+    "local_name": null,
+    "pronunciation": "ka-DU-gu YER-ra",
+    "category": "snack",
+    "state": "Puducherry",
+    "regions": [
+      "Puducherry"
+    ],
+    "description": "A crunchy snack of roasted Bengal gram and fried peanuts, seasoned with chilli powder, cumin and salt.",
+    "how_to_eat": "Eat it by the handful as a tea-time snack.",
+    "how_to_order": "Ask for it at snack shops and along Beach Road.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/puducherry/puducherry/exploring-puducherrys-gastronomic-palette"
+    ]
+  }
+]

@@ -1,0 +1,291 @@
+[
+  {
+    "id": "tamil_nadu-chettinad-chicken",
+    "name": "Chettinad Chicken",
+    "local_name": null,
+    "pronunciation": "chet-ti-NAAD",
+    "category": "meal",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Chettinad",
+      "Karaikudi"
+    ],
+    "description": "A spicy chicken curry from the Chettinad region of Sivaganga district, made with a freshly roasted and ground masala of pepper, dried chillies, fennel, star anise and kalpasi (a lichen). Chettinad cooking is often called the most renowned in Tamil Nadu.",
+    "how_to_eat": "Eat it with rice, dosa, idiyappam or parotta.",
+    "how_to_order": "Ask for 'chicken Chettinad' at Chettinad restaurants or messes, most authentically around Karaikudi.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chettinad_cuisine",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine",
+      "https://www.indianhealthyrecipes.com/chettinad-chicken-curry/"
+    ]
+  },
+  {
+    "id": "tamil_nadu-kanchipuram-idli",
+    "name": "Kanchipuram Idli",
+    "local_name": null,
+    "pronunciation": "kaan-chi-PU-ram ID-li",
+    "category": "temple_food",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Kanchipuram"
+    ],
+    "description": "A spiced idli of rice and urad dal batter mixed with pepper, cumin, dry ginger, asafoetida and curry leaves, traditionally steamed in leaf-lined bamboo baskets. It is the prasadam of Kanchipuram's Varadaraja Perumal temple.",
+    "how_to_eat": "Eat it in slices with coconut chutney or sambar.",
+    "how_to_order": "Ask for 'Kanchipuram idli' at the Varadaraja Perumal temple counter or vegetarian restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.goya.in/blog/this-world-idli-day-we-celebrate-the-famed-kanchi-idli",
+      "https://aahaaramonline.com/kanchipuram-idli-prasadam-varadaraja-perumal-temple/"
+    ]
+  },
+  {
+    "id": "tamil_nadu-ven-pongal",
+    "name": "Ven Pongal",
+    "local_name": null,
+    "pronunciation": "VEN pon-GAL",
+    "category": "meal",
+    "state": "Tamil Nadu",
+    "regions": [],
+    "description": "A savoury porridge of rice and mung dal cooked with ghee, black pepper, cumin, ginger, curry leaves and cashews. It is a common Tamil breakfast.",
+    "how_to_eat": "Eat it hot with coconut chutney and sambar, and a filter coffee.",
+    "how_to_order": "Ask for 'pongal' at breakfast in any tiffin centre.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pongal_(dish)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pongal_(dish)",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-kothu-parotta",
+    "name": "Kothu Parotta",
+    "local_name": "கொத்து பரோட்டா",
+    "pronunciation": "KOTH-thu pa-ROT-ta",
+    "category": "street_food",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Madurai",
+      "Chennai"
+    ],
+    "description": "Parotta chopped on a hot griddle with egg, onion, chillies, salna (gravy) and often meat. It came to Madurai from Sri Lanka and became a signature street food there.",
+    "how_to_eat": "Eat it hot with extra salna and onion raita.",
+    "how_to_order": "Ask for 'egg kothu' or 'chicken kothu parotta' at night-time parotta stalls.",
+    "typical_price_inr": null,
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kottu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kottu",
+      "https://en.wikipedia.org/wiki/South_Indian_parotta",
+      "https://en.wikipedia.org/wiki/Street_food_of_Chennai"
+    ]
+  },
+  {
+    "id": "tamil_nadu-ambur-biryani",
+    "name": "Ambur Biryani",
+    "local_name": null,
+    "pronunciation": "AAM-boor BIR-ya-ni",
+    "category": "meal",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Ambur",
+      "Vaniyambadi"
+    ],
+    "description": "A biryani from the towns of Ambur and Vaniyambadi in Tirupattur district, dating to the Nawabs of Arcot. It uses small-grained jeera samba rice, a curd base, moderate spice and a high ratio of meat to rice.",
+    "how_to_eat": "Eat it with dhalcha (sour brinjal curry) and onion raita.",
+    "how_to_order": "Ask for 'Ambur mutton (or chicken) biryani' at biryani shops along the Chennai-Bengaluru highway.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Varieties_of_biryani",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-jigarthanda",
+    "name": "Jigarthanda",
+    "local_name": "ஜில் ஜில் ஜிகர்தண்டா",
+    "pronunciation": "ji-gar-THAN-da",
+    "category": "drink",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Madurai"
+    ],
+    "description": "Madurai's signature cold drink of milk, almond gum, nannari (sarsaparilla root) syrup, sugar and ice cream. The name means 'cool heart', and it is sold at roadside stalls, especially in summer.",
+    "how_to_eat": "Drink it cold, eating the ice cream and almond gum with a spoon.",
+    "how_to_order": "Ask for 'special jigarthanda' at stalls like Famous Jigarthanda near Vilakkuthoon.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jigarthanda_(drink)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jigarthanda_(drink)",
+      "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai/must-eat-local-dishes-in-madurai",
+      "https://en.wikipedia.org/wiki/Street_food_of_Chennai"
+    ]
+  },
+  {
+    "id": "tamil_nadu-kumbakonam-degree-coffee",
+    "name": "Kumbakonam Degree Coffee",
+    "local_name": "கும்பகோணம் டிகிரி காபி",
+    "pronunciation": "kum-ba-KO-nam DEG-ree KAA-pi",
+    "category": "drink",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Kumbakonam"
+    ],
+    "description": "A style of filter coffee from Kumbakonam in Thanjavur district, made with a strong chicory decoction and pure, undiluted cows' milk. It is served frothed in a steel tumbler and dabara.",
+    "how_to_eat": "Pour it between the tumbler and dabara to cool and froth it before drinking.",
+    "how_to_order": "Ask for 'degree coffee' at coffee shops in Kumbakonam and along the highways.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kumbakonam_Degree_Coffee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kumbakonam_Degree_Coffee",
+      "https://en.wikipedia.org/wiki/Indian_filter_coffee",
+      "https://assets.atlasobscura.com/foods/kumbakonam-degree-coffee"
+    ]
+  },
+  {
+    "id": "tamil_nadu-srivilliputhur-palkova",
+    "name": "Srivilliputhur Palkova",
+    "local_name": null,
+    "pronunciation": "paal-KO-va",
+    "category": "sweet",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Srivilliputhur"
+    ],
+    "description": "A caramel-brown milk sweet made only from milk and sugar, boiled down slowly for hours until thick. The GI is tied to milk from cows reared around Srivilliputhur, and the sweet received its GI tag in 2019-20.",
+    "how_to_eat": "Eat it by the spoonful at room temperature; it is soft and grainy.",
+    "how_to_order": "Ask for 'palkova' by weight in Srivilliputhur, where shops sell it in boxes or banana-leaf packs.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "https://www.outlooktraveller.com/experiences/heritage/exploring-tamil-nadus-gi-tag-products-part-2",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-kovilpatti-kadalai-mittai",
+    "name": "Kovilpatti Kadalai Mittai",
+    "local_name": "கடலை மிட்டாய்",
+    "pronunciation": "ka-da-lai MIT-tai",
+    "category": "sweet",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Kovilpatti",
+      "Thoothukudi"
+    ],
+    "description": "A peanut brittle of roasted groundnuts set in jaggery syrup, made in Kovilpatti and nearby villages of Thoothukudi district. Makers credit Thamirabarani river water and selected jaggery for its taste, and it received a GI tag in 2020.",
+    "how_to_eat": "Snap off a piece and eat it as a snack; it is crunchy and chewy.",
+    "how_to_order": "Ask for 'Kovilpatti kadalai mittai' at sweet and snack shops; it is sold in packets or bars.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chikki",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "https://deccanherald.com/india/sweet-news-famous-kovilpatti-kadalai-mittai-gets-gi-tag-831871.html",
+      "https://en.wikipedia.org/wiki/Chikki"
+    ]
+  },
+  {
+    "id": "tamil_nadu-manapparai-murukku",
+    "name": "Manapparai Murukku",
+    "local_name": "மணப்பாறை முறுக்கு",
+    "pronunciation": "ma-NAP-pa-rai mu-RUK-ku",
+    "category": "snack",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Manapparai",
+      "Tiruchirappalli"
+    ],
+    "description": "A crunchy spiral snack of rice flour and urad dal with cumin or sesame, deep-fried, from Manapparai town in Tiruchirappalli district. Makers credit the area's slightly saline water for its crispness, and it received a GI tag in 2023.",
+    "how_to_eat": "Break off pieces and eat it with tea; it keeps for weeks.",
+    "how_to_order": "Ask for 'Manapparai murukku' at shops in Manapparai or snack stores across the state.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Manapparai_Murukku",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Manapparai_Murukku",
+      "https://en.wikipedia.org/wiki/Murukku",
+      "https://onmanorama.com/food/features/2022/06/16/manapparai-tamil-nadus-murukku-village.html",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India"
+    ]
+  }
+]

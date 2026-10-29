@@ -1,0 +1,287 @@
+[
+  {
+    "id": "himachal_pradesh-dham",
+    "name": "Dham",
+    "local_name": null,
+    "pronunciation": "DHAAM",
+    "category": "meal",
+    "state": "Himachal Pradesh",
+    "regions": [
+      "Mandi",
+      "Chamba",
+      "Kangra"
+    ],
+    "description": "Himachal's festive vegetarian feast served for weddings, birthdays and festivals, once offered only in temples. It is cooked by hereditary Brahmin chefs called botis in copper or brass vessels, without onion or garlic, and served in courses of rice, dal, madra, kadhi, rajma, khatta and a sweet; Chamba, Kangra and Mandi each have their own version.",
+    "how_to_eat": "Sit on the floor and eat with your hand from the leaf plate as each course is served.",
+    "how_to_order": "It is served at weddings and fairs rather than sold; some restaurants offer a 'Himachali dham' thali.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://oteats.outlooktraveller.com/features/guides/a-step-closer-to-understanding-himachal-pradeshs-rich-and-diverse-cuisine",
+      "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala/10-local-foods-you-must-eat",
+      "https://curlytales.com/traditional-pahadi-dishes-you-must-treat-yourself-with-in-himachal-pradesh/amp/",
+      "https://www.cuisineindiasociety.in/?p=1387"
+    ]
+  },
+  {
+    "id": "himachal_pradesh-siddu",
+    "name": "Siddu",
+    "local_name": null,
+    "pronunciation": "SID-du",
+    "category": "meal",
+    "state": "Himachal Pradesh",
+    "regions": [
+      "Kullu",
+      "Manali",
+      "Mandi",
+      "Shimla"
+    ],
+    "description": "Steamed bread of fermented wheat dough stuffed with a savoury or sweet filling such as lentil paste, poppy seeds or walnuts. It is eaten in Mandi, Kullu, Manali, Rohru and Shimla.",
+    "how_to_eat": "Eat it hot with desi ghee, dal or green mint chutney.",
+    "how_to_order": "Ask for 'siddu with ghee' at local eateries and roadside stalls in Kullu and Manali.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "nuts",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://oteats.outlooktraveller.com/features/guides/a-step-closer-to-understanding-himachal-pradeshs-rich-and-diverse-cuisine",
+      "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala/10-local-foods-you-must-eat",
+      "https://curlytales.com/traditional-pahadi-dishes-you-must-treat-yourself-with-in-himachal-pradesh/amp/"
+    ]
+  },
+  {
+    "id": "himachal_pradesh-madra",
+    "name": "Madra",
+    "local_name": null,
+    "pronunciation": "MUD-ra",
+    "category": "meal",
+    "state": "Himachal Pradesh",
+    "regions": [
+      "Chamba"
+    ],
+    "description": "Chickpeas or kidney beans slow-cooked in a yogurt gravy with cardamom, cinnamon and cloves, usually in brass vessels. It is the highlight of the dham and is associated with Chamba; variants include kala chana madra and rajma madra.",
+    "how_to_eat": "Eat it with rice, or with babru as a snack.",
+    "how_to_order": "Ask for 'chana madra' at Himachali restaurants and dhabas.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://oteats.outlooktraveller.com/features/guides/a-step-closer-to-understanding-himachal-pradeshs-rich-and-diverse-cuisine",
+      "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala/10-local-foods-you-must-eat",
+      "https://curlytales.com/traditional-pahadi-dishes-you-must-treat-yourself-with-in-himachal-pradesh/amp/",
+      "https://www.cuisineindiasociety.in/?p=1387"
+    ]
+  },
+  {
+    "id": "himachal_pradesh-chamba-chukh",
+    "name": "Chamba Chukh",
+    "local_name": null,
+    "pronunciation": "CHUM-ba CHOOKH",
+    "category": "meal",
+    "state": "Himachal Pradesh",
+    "regions": [
+      "Chamba"
+    ],
+    "description": "A cooked chilli sauce of sun-dried red or fresh green chillies blended with citrus from a local fruit, made by women at home in Chamba. It is a generations-old preparation now sold more widely; its GI application is pending.",
+    "how_to_eat": "Use a small amount as a relish with rice, dal or snacks.",
+    "how_to_order": "Buy bottled chukh in Chamba markets.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chamba_chukh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chamba_chukh",
+      "https://www.drishtiias.com/state-pcs-current-affairs/eight-traditional-products-of-himachal-pradesh-receive-gi-tags"
+    ]
+  },
+  {
+    "id": "himachal_pradesh-patrodu",
+    "name": "Patrodu",
+    "local_name": null,
+    "pronunciation": "pa-TRO-du",
+    "category": "snack",
+    "state": "Himachal Pradesh",
+    "regions": [],
+    "description": "Colocasia (taro) leaves coated in a spiced gram flour batter, rolled, steamed and sliced. Wikipedia notes the dish originated in Himachal Pradesh before spreading south.",
+    "how_to_eat": "Eat the slices as a snack, plain or shallow-fried.",
+    "how_to_order": "Mostly home-cooked in the monsoon; some Himachali eateries serve it.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Patrode",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Patrode",
+      "https://oteats.outlooktraveller.com/features/guides/a-step-closer-to-understanding-himachal-pradeshs-rich-and-diverse-cuisine"
+    ]
+  },
+  {
+    "id": "himachal_pradesh-babru",
+    "name": "Babru",
+    "local_name": null,
+    "pronunciation": "BAB-roo",
+    "category": "snack",
+    "state": "Himachal Pradesh",
+    "regions": [],
+    "description": "A Himachali kachori: wheat flour flatbread stuffed with a paste of black gram soaked overnight, then deep-fried. It is a cold-weather evening snack.",
+    "how_to_eat": "Eat it with tea and tamarind chutney, or with chana madra.",
+    "how_to_order": "Ask for 'babru' at sweet shops and tea stalls, mainly in Shimla and the hills.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://oteats.outlooktraveller.com/features/guides/a-step-closer-to-understanding-himachal-pradeshs-rich-and-diverse-cuisine",
+      "https://curlytales.com/traditional-pahadi-dishes-you-must-treat-yourself-with-in-himachal-pradesh/amp/",
+      "https://www.cuisineindiasociety.in/?p=1387"
+    ]
+  },
+  {
+    "id": "himachal_pradesh-tudkiya-bhath",
+    "name": "Tudkiya Bhath",
+    "local_name": null,
+    "pronunciation": "TUD-ki-ya BHAATH",
+    "category": "meal",
+    "state": "Himachal Pradesh",
+    "regions": [
+      "Chamba"
+    ],
+    "description": "A spiced rice dish, similar to a pulao, cooked with potatoes, onion, garlic, ginger, cardamom, cinnamon and bay leaves. Sources link it to Chamba.",
+    "how_to_eat": "Eat it hot, often with a squeeze of lemon or with madra.",
+    "how_to_order": "Ask for 'tudkiya bhath' at Himachali restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala/10-local-foods-you-must-eat",
+      "https://blog.swiggy.com/food/famous-food-dishes-of-shimla/"
+    ]
+  },
+  {
+    "id": "himachal_pradesh-sepu-vadi",
+    "name": "Sepu Vadi",
+    "local_name": null,
+    "pronunciation": "SAY-pu VA-di",
+    "category": "meal",
+    "state": "Himachal Pradesh",
+    "regions": [
+      "Mandi"
+    ],
+    "description": "Steamed and fried urad dal dumplings in a spinach and yogurt gravy, traditionally cooked in mustard oil. It is a Mandi speciality and received a GI tag as 'Sepu Vadi of Mandi'.",
+    "how_to_eat": "Eat it with rice or roti.",
+    "how_to_order": "Ask for 'sepu vadi' at restaurants in Mandi or at a Mandyali dham.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://himachaltourism.gov.in/cusine/",
+      "https://www.drishtiias.com/state-pcs-current-affairs/eight-traditional-products-of-himachal-pradesh-receive-gi-tags",
+      "https://www.archanaskitchen.com/sepu-vadi-recipe-himachali-split-urad-dal-dumplings-in-spinach-gravy"
+    ]
+  },
+  {
+    "id": "himachal_pradesh-momos",
+    "name": "Momos",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "state": "Himachal Pradesh",
+    "regions": [
+      "Dharamshala",
+      "McLeod Ganj"
+    ],
+    "description": "Steamed dumplings with vegetable or meat filling, brought by the Tibetan community. They are among the most popular foods in Dharamshala and McLeod Ganj.",
+    "how_to_eat": "Dip them in the spicy chilli sauce.",
+    "how_to_order": "Ask for 'veg' or 'chicken momos', steamed or fried, at stalls in McLeod Ganj; usually sold by the plate.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Momo_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Momo_(food)",
+      "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala/10-local-foods-you-must-eat"
+    ]
+  },
+  {
+    "id": "himachal_pradesh-kangra-tea",
+    "name": "Kangra Tea",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "state": "Himachal Pradesh",
+    "regions": [
+      "Kangra",
+      "Palampur",
+      "Dharamshala"
+    ],
+    "description": "Black and green tea grown in the Kangra valley since the mid-19th century, known for its colour and flavour. It received a Geographical Indication tag in 2005.",
+    "how_to_eat": "Drink it plain or lightly sweetened.",
+    "how_to_order": "Buy packets in Palampur and Dharamshala, or ask for 'Kangra chai' at local tea stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kangra_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kangra_tea",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India"
+    ]
+  }
+]

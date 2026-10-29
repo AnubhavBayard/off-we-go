@@ -1,0 +1,283 @@
+[
+  {
+    "id": "maharashtra-vada-pav",
+    "name": "Vada Pav",
+    "local_name": "वडापाव",
+    "pronunciation": "VA-da PAAV",
+    "category": "street_food",
+    "state": "Maharashtra",
+    "regions": [
+      "Mumbai"
+    ],
+    "description": "A deep-fried, spiced potato dumpling (batata vada) inside a pav bun, served with garlic-chilli chutney and a fried green chilli. It began as cheap street food in Mumbai and is the city's most famous snack, sometimes called the 'Bombay burger'.",
+    "how_to_eat": "Eat it hot in a few bites, with a bite of fried chilli in between.",
+    "how_to_order": "Ask for 'vada pav' at any Mumbai street stall or station-side cart; ask for extra 'sukha chutney' (dry garlic chutney) if you like heat.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vada_pav",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Vada_pav",
+      "https://en.wikipedia.org/wiki/Maharashtrian_cuisine",
+      "https://www.outlooktraveller.com/destinations/india/culinary-traditions-of-maharashtra"
+    ]
+  },
+  {
+    "id": "maharashtra-misal-pav",
+    "name": "Misal Pav",
+    "local_name": "मिसळ पाव",
+    "pronunciation": "MI-sal PAAV",
+    "category": "street_food",
+    "state": "Maharashtra",
+    "regions": [
+      "Kolhapur",
+      "Pune",
+      "Nashik"
+    ],
+    "description": "A spicy curry of sprouted moth beans (misal) topped with farsan or sev, onion, lemon and coriander, served with pav. Kolhapur's version is known for its heat, and Pune and Nashik have their own styles.",
+    "how_to_eat": "Pour the thin 'tarri' gravy over the sprouts and mop it up with pav; ask for more tarri if it runs out.",
+    "how_to_order": "Ask for 'misal pav' and say 'kami tikhat' (less spicy) if you cannot take heat; breakfast is the usual time.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Misal_pav",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Misal_pav",
+      "https://en.wikipedia.org/wiki/Maharashtrian_cuisine",
+      "https://www.outlooktraveller.com/destinations/india/culinary-traditions-of-maharashtra"
+    ]
+  },
+  {
+    "id": "maharashtra-pav-bhaji",
+    "name": "Pav Bhaji",
+    "local_name": "पाव भाजी",
+    "pronunciation": "PAAV BHAA-ji",
+    "category": "street_food",
+    "state": "Maharashtra",
+    "regions": [
+      "Mumbai"
+    ],
+    "description": "A thick, spicy mash of mixed vegetables cooked on a large flat griddle and served with buttered, toasted pav. It began as a quick lunch for Mumbai textile-mill workers.",
+    "how_to_eat": "Tear the pav and scoop the bhaji, with chopped onion and a squeeze of lemon.",
+    "how_to_order": "Ask for 'pav bhaji' (add 'extra butter' if you like) at a street cart or Juhu and Chowpatty beach stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pav_bhaji",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pav_bhaji",
+      "https://en.wikipedia.org/wiki/Maharashtrian_cuisine"
+    ]
+  },
+  {
+    "id": "maharashtra-puran-poli",
+    "name": "Puran Poli",
+    "local_name": "पुरणपोळी",
+    "pronunciation": "POO-run PO-li",
+    "category": "sweet",
+    "state": "Maharashtra",
+    "regions": [],
+    "description": "Wheat flatbread stuffed with cooked chana dal, jaggery and cardamom, cooked with ghee. It is made for Holi and Gudi Padwa and often served with katachi amti.",
+    "how_to_eat": "Eat it warm with ghee or milk poured over.",
+    "how_to_order": "Ask for 'puran poli' at a Maharashtrian sweet shop or thali restaurant on festival days.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Puran_poli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Puran_poli",
+      "https://en.wikipedia.org/wiki/Maharashtrian_cuisine",
+      "https://www.outlooktraveller.com/destinations/india/culinary-traditions-of-maharashtra"
+    ]
+  },
+  {
+    "id": "maharashtra-ukadiche-modak",
+    "name": "Ukadiche Modak",
+    "local_name": "मोदक",
+    "pronunciation": "u-KAA-di-che MO-dak",
+    "category": "sweet",
+    "state": "Maharashtra",
+    "regions": [],
+    "description": "Steamed rice-flour dumplings filled with grated coconut and jaggery. Modak is considered Ganesha's favourite sweet and is made in quantity for Ganesh Chaturthi; there is also a fried version.",
+    "how_to_eat": "Eat it warm with a spoon of ghee poured into the top.",
+    "how_to_order": "Ask for 'ukadiche modak' at sweet shops, especially during Ganesh Chaturthi.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Modak",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Modak",
+      "https://en.wikipedia.org/wiki/Maharashtrian_cuisine",
+      "https://www.outlooktraveller.com/destinations/india/culinary-traditions-of-maharashtra"
+    ]
+  },
+  {
+    "id": "maharashtra-kolhapuri-tambda-rassa",
+    "name": "Kolhapuri Tambda Rassa",
+    "local_name": null,
+    "pronunciation": "TAAM-bda RUS-sa",
+    "category": "meal",
+    "state": "Maharashtra",
+    "regions": [
+      "Kolhapur"
+    ],
+    "description": "A fiery red meat curry from Kolhapur made with a coconut base and the region's hot chilli masala. It is served together with its white counterpart, pandhra rassa.",
+    "how_to_eat": "Drink the rassa from a bowl between bites of mutton and bhakri.",
+    "how_to_order": "Ask for a 'Kolhapuri mutton thali' at a Kolhapur khanavali; it comes with both rassas.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Maharashtrian_cuisine",
+      "https://www.outlooktraveller.com/destinations/india/culinary-traditions-of-maharashtra"
+    ]
+  },
+  {
+    "id": "maharashtra-thalipeeth",
+    "name": "Thalipeeth",
+    "local_name": "थालीपीठ",
+    "pronunciation": "THAA-li-peeth",
+    "category": "meal",
+    "state": "Maharashtra",
+    "regions": [],
+    "description": "A spiced multigrain flatbread made from bhajani, a flour of roasted rice, wheat, millets, chana and urad, mixed with onion, coriander and spices. It is a breakfast dish served with butter, ghee or curd.",
+    "how_to_eat": "Eat it hot with a dollop of white butter or curd.",
+    "how_to_order": "Ask for 'thalipeeth' at a Maharashtrian breakfast or snack restaurant.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thalipeeth",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thalipeeth",
+      "https://en.wikipedia.org/wiki/Maharashtrian_cuisine"
+    ]
+  },
+  {
+    "id": "maharashtra-sabudana-vada",
+    "name": "Sabudana Vada",
+    "local_name": "साबुदाणा वडा",
+    "pronunciation": "saa-BU-daa-na VA-da",
+    "category": "snack",
+    "state": "Maharashtra",
+    "regions": [],
+    "description": "Deep-fried patties of soaked sago, mashed potato, peanuts and spices, served with green chutney and chai. They are eaten especially during fasts such as Navratri.",
+    "how_to_eat": "Eat them fresh and hot; they harden as they cool.",
+    "how_to_order": "Ask for 'sabudana vada' at a snack stall or tea shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sabudana_vada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sabudana_vada",
+      "https://en.wikipedia.org/wiki/Maharashtrian_cuisine"
+    ]
+  },
+  {
+    "id": "maharashtra-bhel-puri",
+    "name": "Bhel Puri",
+    "local_name": "भेळपुरी",
+    "pronunciation": "BHEL-poo-ri",
+    "category": "street_food",
+    "state": "Maharashtra",
+    "regions": [
+      "Mumbai"
+    ],
+    "description": "Puffed rice, crushed puris and sev tossed with potato, onion and coriander and tamarind chutneys. It is linked to Mumbai's beaches and is one of the city's most popular street foods.",
+    "how_to_eat": "Eat it immediately, before the puffed rice softens.",
+    "how_to_order": "Ask for 'bhel' at a beach or roadside chaat stall; say 'teekha' or 'meetha' for spicier or sweeter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bhel_puri",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bhel_puri",
+      "https://en.wikipedia.org/wiki/Maharashtrian_cuisine"
+    ]
+  },
+  {
+    "id": "maharashtra-bombil-fry",
+    "name": "Bombil Fry",
+    "local_name": "बोंबील",
+    "pronunciation": "BOM-bil fry",
+    "category": "meal",
+    "state": "Maharashtra",
+    "regions": [
+      "Mumbai",
+      "Konkan"
+    ],
+    "description": "Bombay duck (bombil), a soft lizardfish caught off Mumbai, coated in spices and fried crisp. The fish was traditionally also sun-dried.",
+    "how_to_eat": "Eat it hot as a starter or with rice and curry.",
+    "how_to_order": "Ask for 'bombil fry' at a Konkani or Malvani seafood restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bombay_duck",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bombay_duck",
+      "https://en.wikipedia.org/wiki/Maharashtrian_cuisine",
+      "https://www.outlooktraveller.com/destinations/india/culinary-traditions-of-maharashtra"
+    ]
+  }
+]

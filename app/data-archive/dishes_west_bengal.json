@@ -1,0 +1,1101 @@
+[
+  {
+    "id": "west_bengal-rosogolla",
+    "name": "Banglar Rosogolla",
+    "local_name": null,
+    "pronunciation": "ro-sho-GOL-la",
+    "category": "sweet",
+    "state": "West Bengal",
+    "regions": [
+      "Kolkata"
+    ],
+    "description": "Spongy white balls of chhena (fresh cheese) cooked in light sugar syrup until the syrup soaks through. The spongy Kolkata version is credited to confectioner Nobin Chandra Das in 1868, and West Bengal received a GI tag for 'Banglar Rasogolla' in 2017.",
+    "how_to_eat": "Eat at room temperature or chilled, pressing gently with a spoon to get the syrup with each bite.",
+    "how_to_order": "Ask for 'rosogolla' by the piece or in a handi/tin at any Kolkata mishti shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rasgulla",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rasgulla",
+      "https://en.wikipedia.org/wiki/West_Bengal_cuisine",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India"
+    ]
+  },
+  {
+    "id": "west_bengal-mishti-doi",
+    "name": "Mishti Doi",
+    "local_name": "মিষ্টি দই",
+    "pronunciation": "mish-TI doi",
+    "category": "sweet",
+    "state": "West Bengal",
+    "regions": [
+      "Kolkata",
+      "Nabadwip"
+    ],
+    "description": "Sweet curd made by boiling milk until slightly thick, sweetening it with sugar or khejur gur (date palm jaggery), and fermenting it overnight. It is always set in earthenware, whose porous walls thicken the curd further.",
+    "how_to_eat": "Eat chilled straight from the clay pot with a spoon, usually at the end of a meal.",
+    "how_to_order": "Ask for 'mishti doi' in a clay bhaar (pot) at any sweet shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mishti_doi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mishti_doi",
+      "https://en.wikipedia.org/wiki/Bengali_cuisine",
+      "https://kitchenofdebjani.com/2015/10/20-bengali-dishes-to-try-before-you-die/"
+    ]
+  },
+  {
+    "id": "west_bengal-sandesh",
+    "name": "Sandesh",
+    "local_name": "সন্দেশ",
+    "pronunciation": "SHON-desh",
+    "category": "sweet",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "A Bengali sweet of chhena (or milk) and sugar, pressed into many shapes and flavours. Varieties include the syrup-filled jolbhora and kachagolla, a speciality of Basirhat.",
+    "how_to_eat": "Eat as is, one piece at a time; it is not served with syrup.",
+    "how_to_order": "Ask for 'sandesh' by the piece at a mishti shop and name a variety such as kachagolla or jolbhora.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sandesh_(confectionery)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sandesh_(confectionery)",
+      "https://en.wikipedia.org/wiki/Bengali_cuisine",
+      "https://kitchenofdebjani.com/2015/10/20-bengali-dishes-to-try-before-you-die/"
+    ]
+  },
+  {
+    "id": "west_bengal-mihidana",
+    "name": "Mihidana",
+    "local_name": "মিহিদানা",
+    "pronunciation": "mi-hi-DA-na",
+    "category": "sweet",
+    "state": "West Bengal",
+    "regions": [
+      "Bardhaman"
+    ],
+    "description": "A sweet from Bardhaman described as the micro cousin of boondi; the name comes from 'mihi' (fine) and 'dana' (grain). The tiny fried grains are soaked in syrup, and Bardhaman Mihidana received a GI tag in 2017.",
+    "how_to_eat": "Eat by the spoonful; it is often paired with sitabhog.",
+    "how_to_order": "Ask for 'Bardhaman mihidana' by weight at sweet shops in Bardhaman.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mihidana",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mihidana",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India"
+    ]
+  },
+  {
+    "id": "west_bengal-sitabhog",
+    "name": "Sitabhog",
+    "local_name": "সীতাভোগ",
+    "pronunciation": "SEE-ta-bhog",
+    "category": "sweet",
+    "state": "West Bengal",
+    "regions": [
+      "Bardhaman"
+    ],
+    "description": "A Bardhaman sweet that looks like white rice or vermicelli mixed with small gulab jamun pieces, made from chhena, rice flour and sugar. It resembles a pulao but is sweet, and Bardhaman Sitabhog received a GI tag in 2017.",
+    "how_to_eat": "Eat by the spoonful, warm or at room temperature.",
+    "how_to_order": "Ask for 'Bardhaman sitabhog' by weight at sweet shops in Bardhaman.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sitabhog",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sitabhog",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India"
+    ]
+  },
+  {
+    "id": "west_bengal-joynagarer-moa",
+    "name": "Joynagarer Moa",
+    "local_name": "জয়নগরের মোয়া",
+    "pronunciation": "joy-NO-ger-er MO-a",
+    "category": "sweet",
+    "state": "West Bengal",
+    "regions": [
+      "Joynagar",
+      "Kolkata"
+    ],
+    "description": "A seasonal winter sweet ball made from date palm jaggery (nolen gur) and Kanakchur khoi (puffed rice). It originated in Jaynagar Majilpur in South 24 Parganas and received a GI tag in 2015.",
+    "how_to_eat": "Eat as is; buy fresh in winter since it is seasonal.",
+    "how_to_order": "Ask for 'Joynagarer moa' at sweet shops in winter, sold by the piece or in boxes.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jaynagarer_Moa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jaynagarer_Moa",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India"
+    ]
+  },
+  {
+    "id": "west_bengal-langcha",
+    "name": "Langcha",
+    "local_name": null,
+    "pronunciation": "LANG-cha",
+    "category": "sweet",
+    "state": "West Bengal",
+    "regions": [
+      "Bardhaman"
+    ],
+    "description": "A fried sweet of flour and milk powder, soaked in sugar syrup for a long time. It originated in Bardhaman, and the state government has begun the GI registration process for it.",
+    "how_to_eat": "Eat warm or at room temperature with a little of its syrup.",
+    "how_to_order": "Ask for 'langcha' by the piece at sweet shops, especially around Bardhaman.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lyangcha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lyangcha",
+      "https://en.wikipedia.org/wiki/West_Bengal_cuisine"
+    ]
+  },
+  {
+    "id": "west_bengal-pantua",
+    "name": "Pantua",
+    "local_name": "পান্তুয়া",
+    "pronunciation": "PAN-tu-a",
+    "category": "sweet",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "Deep-fried balls of semolina, chhena, milk and ghee soaked in sugar syrup, ranging from pale brown to almost black. It is similar to gulab jamun and is sometimes flavoured with rose water or cardamom.",
+    "how_to_eat": "Eat warm, cutting it with a spoon and taking some syrup with each bite.",
+    "how_to_order": "Ask for 'pantua' by the piece at any mishti shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pantua",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pantua",
+      "https://en.wikipedia.org/wiki/Bengali_cuisine"
+    ]
+  },
+  {
+    "id": "west_bengal-ledikeni",
+    "name": "Ledikeni",
+    "local_name": "লেডিকেনি",
+    "pronunciation": "LE-di-ke-ni",
+    "category": "sweet",
+    "state": "West Bengal",
+    "regions": [
+      "Kolkata"
+    ],
+    "description": "A light fried reddish-brown ball of chhena and flour soaked in sugar syrup, very similar to pantua. It is named after Lady Canning, the first vicereine of India, and the name was first used by confectioner Bhim Chandra Nag.",
+    "how_to_eat": "Eat warm or at room temperature with its syrup.",
+    "how_to_order": "Ask for 'ledikeni' by the piece at a traditional sweet shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ledikeni",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ledikeni",
+      "https://en.wikipedia.org/wiki/Pantua"
+    ]
+  },
+  {
+    "id": "west_bengal-chomchom",
+    "name": "Chomchom",
+    "local_name": "চমচম",
+    "pronunciation": "CHOM-chom",
+    "category": "sweet",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "An oval chhena sweet in light pink, yellow or white, garnished with coconut or mawa flakes. It is a traditional Bengali sweet common across the subcontinent.",
+    "how_to_eat": "Eat as is, one piece at a time.",
+    "how_to_order": "Ask for 'chomchom' by the piece at a mishti shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chomchom",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chomchom",
+      "https://en.wikipedia.org/wiki/Bengali_cuisine"
+    ]
+  },
+  {
+    "id": "west_bengal-sarbhaja",
+    "name": "Sarbhaja",
+    "local_name": "সরভাজা",
+    "pronunciation": "SHOR-bha-ja",
+    "category": "sweet",
+    "state": "West Bengal",
+    "regions": [
+      "Krishnanagar"
+    ],
+    "description": "Layers of sar (the cream that forms on boiled milk) fried golden in ghee and dipped in sugar syrup. It is mentioned as early as the 15th-century Chaitanya Charitamrita and is a speciality of Krishnanagar in Nadia.",
+    "how_to_eat": "Eat as is, in small pieces, since it is very rich.",
+    "how_to_order": "Ask for 'sarbhaja' at sweet shops in Krishnanagar.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sarbhaja",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sarbhaja",
+      "https://en.wikipedia.org/wiki/West_Bengal_cuisine"
+    ]
+  },
+  {
+    "id": "west_bengal-sarpuria",
+    "name": "Sarpuria",
+    "local_name": null,
+    "pronunciation": "shor-PU-ri-a",
+    "category": "sweet",
+    "state": "West Bengal",
+    "regions": [
+      "Krishnanagar"
+    ],
+    "description": "A milk-cream sweet that is a speciality of Krishnanagar, made famous by Adharchandra Das's shop opened there in 1902 along with sarbhaja.",
+    "how_to_eat": "Eat as is, in small pieces.",
+    "how_to_order": "Ask for 'sarpuria' at sweet shops in Krishnanagar.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sarpuria",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sarpuria",
+      "https://en.wikipedia.org/wiki/Sarbhaja"
+    ]
+  },
+  {
+    "id": "west_bengal-chhanabora",
+    "name": "Chhanabora",
+    "local_name": null,
+    "pronunciation": "CHHA-na-bo-ra",
+    "category": "sweet",
+    "state": "West Bengal",
+    "regions": [
+      "Murshidabad"
+    ],
+    "description": "A chhena sweet in syrup with a burnt brown crust, related to both rosogolla and pantua and attested from the 16th century. Legend says the Maharaja of Cossimbazar asked his cook for a dessert that was neither rosogolla nor pantua, and outsized chhanaboras are a common gift for visitors in Murshidabad.",
+    "how_to_eat": "Eat warm or at room temperature with its syrup.",
+    "how_to_order": "Ask for 'chhanabora' at sweet shops in Murshidabad.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chhenabara",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhenabara",
+      "https://en.wikipedia.org/wiki/West_Bengal_cuisine"
+    ]
+  },
+  {
+    "id": "west_bengal-roshomalai",
+    "name": "Roshomalai",
+    "local_name": null,
+    "pronunciation": "ro-sho-MA-lai",
+    "category": "sweet",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "Discs of chhena soaked in sweetened, thickened milk, a dessert that originated in Bengal. The Sen brothers' Matri Bhandar is credited with popularising it in 1930.",
+    "how_to_eat": "Eat chilled with a spoon, taking the milk with each bite.",
+    "how_to_order": "Ask for 'roshomalai' by the plate or piece at a sweet shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ras_malai",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ras_malai",
+      "https://en.wikipedia.org/wiki/Bengali_cuisine"
+    ]
+  },
+  {
+    "id": "west_bengal-payesh",
+    "name": "Gobindobhog Chaler Payesh",
+    "local_name": null,
+    "pronunciation": "PA-yesh",
+    "category": "sweet",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "Rice pudding made by boiling milk with rice and sugar or jaggery, in Bengal often with fragrant Gobindobhog rice. It is a symbol of Bengali cuisine, cooked for birthdays and festivals.",
+    "how_to_eat": "Eat warm or chilled as dessert.",
+    "how_to_order": "Ask for 'payesh' at Bengali restaurants; it is mostly home-cooked.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kheer",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/West_Bengal_cuisine",
+      "https://en.wikipedia.org/wiki/Kheer"
+    ]
+  },
+  {
+    "id": "west_bengal-patisapta",
+    "name": "Patisapta",
+    "local_name": null,
+    "pronunciation": "pa-ti-SHAP-ta",
+    "category": "pitha",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "A winter pitha of thin rice-flour crepes filled with coconut, jaggery or kheer. It is mentioned in the 16th-century Chandikavya by Mukundaram Chakrabarti.",
+    "how_to_eat": "Eat warm or at room temperature as a sweet snack.",
+    "how_to_order": "Mostly home-made in winter, especially for Poush Sankranti; look for it at winter pitha fairs.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Patisapta",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Patisapta",
+      "https://kitchenofdebjani.com/2015/10/20-bengali-dishes-to-try-before-you-die/"
+    ]
+  },
+  {
+    "id": "west_bengal-phuchka",
+    "name": "Phuchka",
+    "local_name": null,
+    "pronunciation": "PHUCH-ka",
+    "category": "street_food",
+    "state": "West Bengal",
+    "regions": [
+      "Kolkata"
+    ],
+    "description": "Thin crisp hollow shells filled with spiced mashed potato and chickpeas and dipped in tangy tamarind water, Kolkata's version of panipuri. A phuchkawala makes them fresh one at a time.",
+    "how_to_eat": "Eat each one whole in a single bite as soon as it is handed to you.",
+    "how_to_order": "Stand at a phuchka stall and ask for a plate; the vendor serves one at a time until you say stop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Panipuri",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Panipuri",
+      "https://www.nationalgeographic.com/travel/article/west-bengal-dishes-curries-kolkata-street-food",
+      "https://en.wikipedia.org/wiki/Bengali_cuisine"
+    ]
+  },
+  {
+    "id": "west_bengal-jhalmuri",
+    "name": "Jhalmuri",
+    "local_name": "ঝালমুড়ি",
+    "pronunciation": "JHAL-mu-ri",
+    "category": "street_food",
+    "state": "West Bengal",
+    "regions": [
+      "Kolkata"
+    ],
+    "description": "Puffed rice tossed with spices, chopped vegetables, chanachur (Bombay mix) and mustard oil. It is a near-staple of Kolkata streets.",
+    "how_to_eat": "Eat immediately from the paper cone before it goes soggy.",
+    "how_to_order": "Ask a jhalmuri vendor for a cone; say how hot ('jhal') you want it.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jhalmuri",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jhalmuri",
+      "https://www.nationalgeographic.com/travel/article/west-bengal-dishes-curries-kolkata-street-food"
+    ]
+  },
+  {
+    "id": "west_bengal-ghugni",
+    "name": "Ghugni",
+    "local_name": "ঘুগনি",
+    "pronunciation": "GHUG-ni",
+    "category": "street_food",
+    "state": "West Bengal",
+    "regions": [
+      "Kolkata"
+    ],
+    "description": "A curry of boiled white or yellow peas with onion, chilli and tamarind, sold at almost every street corner in Kolkata. It is also eaten with luchi or bread at breakfast.",
+    "how_to_eat": "Eat hot from a leaf bowl, topped with onion and chilli.",
+    "how_to_order": "Ask for 'ghugni' at street stalls or telebhaja shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ghugni",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ghugni",
+      "https://homegrown.co.in/homegrown-explore/a-guide-to-kolkata-s-most-delicious-street-food",
+      "https://www.nationalgeographic.com/travel/article/west-bengal-dishes-curries-kolkata-street-food"
+    ]
+  },
+  {
+    "id": "west_bengal-kati-roll",
+    "name": "Kati Roll",
+    "local_name": "কাঠি রোল",
+    "pronunciation": "KA-ti roll",
+    "category": "street_food",
+    "state": "West Bengal",
+    "regions": [
+      "Kolkata"
+    ],
+    "description": "Skewer-roasted kebab wrapped in a paratha, often with an egg layer, onions, chutney and lime. It originated in Kolkata, where it is simply called a 'roll'.",
+    "how_to_eat": "Eat it hot, peeling back the paper wrapping as you go.",
+    "how_to_order": "Ask for an 'egg chicken roll' or 'mutton roll' at a roll counter.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kati_roll",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kati_roll",
+      "https://www.nationalgeographic.com/travel/article/west-bengal-dishes-curries-kolkata-street-food",
+      "https://kitchenofdebjani.com/2015/10/20-bengali-dishes-to-try-before-you-die/"
+    ]
+  },
+  {
+    "id": "west_bengal-mughlai-paratha",
+    "name": "Mughlai Paratha",
+    "local_name": "মোগলাই পরোটা",
+    "pronunciation": "MOG-lai po-RO-ta",
+    "category": "street_food",
+    "state": "West Bengal",
+    "regions": [
+      "Kolkata"
+    ],
+    "description": "A paratha wrapped around or stuffed with keema (spiced minced meat) and/or egg, then fried. It is believed to date from Mughal-era Bengal.",
+    "how_to_eat": "Eat hot in slices with the onion-cucumber salad and potato curry it usually comes with.",
+    "how_to_order": "Ask for 'Mughlai paratha' at Kolkata cabins and street eateries.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mughlai_paratha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mughlai_paratha"
+    ]
+  },
+  {
+    "id": "west_bengal-beguni",
+    "name": "Beguni",
+    "local_name": "বেগুনী",
+    "pronunciation": "BE-gu-ni",
+    "category": "snack",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "Slices of eggplant dipped in gram flour batter with salt and turmeric and deep-fried in mustard oil. It is a classic telebhaja (fried snack) and is popular at iftar during Ramadan.",
+    "how_to_eat": "Eat hot, often with muri (puffed rice) or khichuri.",
+    "how_to_order": "Ask for 'beguni' at a telebhaja shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beguni",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Beguni",
+      "https://homegrown.co.in/homegrown-explore/a-guide-to-kolkata-s-most-delicious-street-food"
+    ]
+  },
+  {
+    "id": "west_bengal-mochar-chop",
+    "name": "Mochar Chop",
+    "local_name": null,
+    "pronunciation": "MO-char chop",
+    "category": "snack",
+    "state": "West Bengal",
+    "regions": [
+      "Kolkata"
+    ],
+    "description": "A breaded, deep-fried croquette of banana flower, one of the 'chop' style telebhaja sold in Kolkata. Chops arrived in Bengali cooking during the colonial era.",
+    "how_to_eat": "Eat hot with muri and a dab of kasundi (mustard sauce).",
+    "how_to_order": "Ask for 'mochar chop' at a telebhaja shop in the evening.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://homegrown.co.in/homegrown-explore/a-guide-to-kolkata-s-most-delicious-street-food",
+      "https://en.wikipedia.org/wiki/Bengali_cuisine",
+      "https://kitchenofdebjani.com/2015/10/20-bengali-dishes-to-try-before-you-die/"
+    ]
+  },
+  {
+    "id": "west_bengal-fish-fry",
+    "name": "Kolkata Fish Fry",
+    "local_name": null,
+    "pronunciation": "fish fry",
+    "category": "snack",
+    "state": "West Bengal",
+    "regions": [
+      "Kolkata"
+    ],
+    "description": "A breaded, deep-fried fillet, commonly bhetki, served as a snack in Kolkata. It belongs to the colonial-era chop and cutlet tradition of the city.",
+    "how_to_eat": "Eat hot with kasundi (mustard sauce) and onion salad.",
+    "how_to_order": "Ask for a 'fish fry' at a Kolkata cabin or snack counter.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://homegrown.co.in/homegrown-explore/a-guide-to-kolkata-s-most-delicious-street-food",
+      "https://en.wikipedia.org/wiki/Bengali_cuisine",
+      "https://www.nationalgeographic.com/travel/article/west-bengal-dishes-curries-kolkata-street-food"
+    ]
+  },
+  {
+    "id": "west_bengal-kabiraji",
+    "name": "Kabiraji Cutlet",
+    "local_name": "কবিরাজি",
+    "pronunciation": "ko-bi-RA-ji",
+    "category": "snack",
+    "state": "West Bengal",
+    "regions": [
+      "Kolkata"
+    ],
+    "description": "A fish, chicken, mutton or prawn cutlet wrapped in a lacy coating of crunchy deep-fried egg floss. It originated in Kolkata and is served at old cafes such as Mitra Cafe.",
+    "how_to_eat": "Eat hot with kasundi and salad.",
+    "how_to_order": "Ask for 'fish kabiraji' or 'chicken kabiraji' at a Kolkata cabin.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "gluten",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kabiraji",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kabiraji",
+      "https://homegrown.co.in/homegrown-explore/a-guide-to-kolkata-s-most-delicious-street-food"
+    ]
+  },
+  {
+    "id": "west_bengal-kolkata-biryani",
+    "name": "Kolkata Biryani",
+    "local_name": "কোলকাতা বিরিয়ানি",
+    "pronunciation": null,
+    "category": "meal",
+    "state": "West Bengal",
+    "regions": [
+      "Kolkata"
+    ],
+    "description": "A lightly spiced Mughlai rice dish with meat, egg and its signature potato. The Kolkata style dates to the 1850s-60s.",
+    "how_to_eat": "Eat with your hand or a spoon; the potato and egg are part of every plate.",
+    "how_to_order": "Ask for a 'mutton biryani' or 'chicken biryani' plate at a Kolkata biryani house.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kolkata_biryani",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kolkata_biryani",
+      "https://kitchenofdebjani.com/2015/10/20-bengali-dishes-to-try-before-you-die/"
+    ]
+  },
+  {
+    "id": "west_bengal-kosha-mangsho",
+    "name": "Kosha Mangsho",
+    "local_name": null,
+    "pronunciation": "KO-sha MANG-sho",
+    "category": "meal",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "Mutton (goat) curry slow-cooked with spices until the gravy is thick. It is named as one of the traditional dishes of West Bengal.",
+    "how_to_eat": "Eat with luchi, paratha or rice.",
+    "how_to_order": "Ask for 'kosha mangsho' at Bengali restaurants and cabins.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mutton_curry",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/West_Bengal_cuisine",
+      "https://en.wikipedia.org/wiki/Mutton_curry"
+    ]
+  },
+  {
+    "id": "west_bengal-shorshe-ilish",
+    "name": "Shorshe Ilish",
+    "local_name": null,
+    "pronunciation": "SHOR-she I-lish",
+    "category": "meal",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "Hilsa (ilish), the state fish of West Bengal, cooked in a pungent mustard gravy. It is one of Bengal's most prized dishes.",
+    "how_to_eat": "Eat with steamed rice, picking out the fine bones with your fingers.",
+    "how_to_order": "Ask for 'shorshe ilish' at Bengali restaurants, mainly in the monsoon hilsa season.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shorshe_ilish",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shorshe_ilish",
+      "https://en.wikipedia.org/wiki/Ilish",
+      "https://en.wikipedia.org/wiki/West_Bengal_cuisine"
+    ]
+  },
+  {
+    "id": "west_bengal-bhapa-ilish",
+    "name": "Ilish Bhapa",
+    "local_name": null,
+    "pronunciation": "I-lish BHA-pa",
+    "category": "meal",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "Hilsa steamed with mustard paste, green chillies and mustard oil. It is one of the classic ways of cooking Bengal's favourite fish.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Ask for 'bhapa ilish' at Bengali restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://kitchenofdebjani.com/2015/10/20-bengali-dishes-to-try-before-you-die/",
+      "https://en.wikipedia.org/wiki/Ilish"
+    ]
+  },
+  {
+    "id": "west_bengal-chingri-malai-curry",
+    "name": "Chingri Malai Curry",
+    "local_name": null,
+    "pronunciation": "CHING-ri ma-LAI",
+    "category": "meal",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "Tiger and king prawns in a mild, rich coconut milk gravy flavoured with spices. It is served at weddings and for guests, and was popular with the British in Calcutta.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Ask for 'chingri malaikari' at Bengali restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chingri_malai_curry",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chingri_malai_curry",
+      "https://kitchenofdebjani.com/2015/10/20-bengali-dishes-to-try-before-you-die/"
+    ]
+  },
+  {
+    "id": "west_bengal-bhetki-paturi",
+    "name": "Bhetki Macher Paturi",
+    "local_name": null,
+    "pronunciation": "BHET-ki PA-tu-ri",
+    "category": "meal",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "Bhetki fish coated in mustard and coconut paste, wrapped in banana leaf and slow-cooked until very tender.",
+    "how_to_eat": "Unwrap the banana leaf at the table and eat with steamed rice.",
+    "how_to_order": "Ask for 'bhetki paturi' at Bengali restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://kitchenofdebjani.com/2015/10/20-bengali-dishes-to-try-before-you-die/"
+    ]
+  },
+  {
+    "id": "west_bengal-machher-jhol",
+    "name": "Machher Jhol",
+    "local_name": "মাছের ঝোল",
+    "pronunciation": "MA-chher jhol",
+    "category": "meal",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "A thin spiced fish curry with turmeric, ginger and potatoes, usually made with rohu or other freshwater fish. It is the everyday fish curry of Bengal, eaten with rice.",
+    "how_to_eat": "Eat poured over steamed rice.",
+    "how_to_order": "Ask for 'machher jhol' at Bengali home-style eateries.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Machher_jhol",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Machher_jhol",
+      "https://en.wikipedia.org/wiki/West_Bengal_cuisine"
+    ]
+  },
+  {
+    "id": "west_bengal-doi-maach",
+    "name": "Doi Maach",
+    "local_name": null,
+    "pronunciation": "DOI maach",
+    "category": "meal",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "Rohu or hilsa cooked gently in yogurt with green chillies. It is a simple, mild Bengali fish dish.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Ask for 'doi maach' at Bengali restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://kitchenofdebjani.com/2015/10/20-bengali-dishes-to-try-before-you-die/"
+    ]
+  },
+  {
+    "id": "west_bengal-aloo-posto",
+    "name": "Aloo Posto",
+    "local_name": null,
+    "pronunciation": "A-loo POS-to",
+    "category": "meal",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "Potatoes cooked in a paste of poppy seeds (posto), a staple of Bengali home cooking and a symbol of West Bengal cuisine. It is typical of the Rarh (western Bengal) style.",
+    "how_to_eat": "Eat with steamed rice and biulir dal.",
+    "how_to_order": "Ask for 'aloo posto' at Bengali thali restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/West_Bengal_cuisine",
+      "https://kitchenofdebjani.com/2015/10/20-bengali-dishes-to-try-before-you-die/"
+    ]
+  },
+  {
+    "id": "west_bengal-shukto",
+    "name": "Shukto",
+    "local_name": "শুক্তো",
+    "pronunciation": "SHUK-to",
+    "category": "meal",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "A slightly bitter mixed-vegetable dish, including bitter gourd, in a light gravy. It is served first in a Bengali thali, following an old belief that bitters aid digestion.",
+    "how_to_eat": "Eat at the start of the meal, mixed with a little rice.",
+    "how_to_order": "Ask for 'shukto' as part of a Bengali thali.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shukto",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shukto",
+      "https://kitchenofdebjani.com/2015/10/20-bengali-dishes-to-try-before-you-die/"
+    ]
+  },
+  {
+    "id": "west_bengal-luchi-alur-dom",
+    "name": "Luchi with Alur Torkari",
+    "local_name": null,
+    "pronunciation": "LU-chi",
+    "category": "meal",
+    "state": "West Bengal",
+    "regions": [
+      "Kolkata"
+    ],
+    "description": "Luchi is a deep-fried puffed flatbread of maida, water and ghee, first attested in 1660, served with a spiced potato curry. It is a festive and weekend breakfast in Bengal.",
+    "how_to_eat": "Tear the hot luchi and scoop up the potato curry.",
+    "how_to_order": "Ask for 'luchi aloor dom' or 'luchi torkari' at sweet shops and breakfast stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Luchi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Luchi",
+      "https://en.wikipedia.org/wiki/West_Bengal_cuisine"
+    ]
+  },
+  {
+    "id": "west_bengal-dhokar-dalna",
+    "name": "Dhokar Dalna",
+    "local_name": null,
+    "pronunciation": "DHO-kar DAL-na",
+    "category": "meal",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "Spiced Bengal gram (chana dal) cakes simmered in a gravy with Bengali garam masala and ginger, made without onion or garlic.",
+    "how_to_eat": "Eat with luchi or steamed rice.",
+    "how_to_order": "Ask for 'dhokar dalna' at Bengali restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/West_Bengal_cuisine",
+      "https://kitchenofdebjani.com/2015/10/20-bengali-dishes-to-try-before-you-die/"
+    ]
+  },
+  {
+    "id": "west_bengal-chhanar-dalna",
+    "name": "Chhanar Dalna",
+    "local_name": null,
+    "pronunciation": "CHHA-nar DAL-na",
+    "category": "meal",
+    "state": "West Bengal",
+    "regions": [],
+    "description": "A curry of chhena (fresh milk curds) with large potato pieces, made without onion or garlic. It is a dish of the Rarh (western Bengal) style.",
+    "how_to_eat": "Eat with rice or luchi.",
+    "how_to_order": "Ask for 'chhanar dalna' at Bengali restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/West_Bengal_cuisine",
+      "https://kitchenofdebjani.com/2015/10/20-bengali-dishes-to-try-before-you-die/"
+    ]
+  },
+  {
+    "id": "west_bengal-chilli-chicken",
+    "name": "Kolkata Chilli Chicken",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "West Bengal",
+    "regions": [
+      "Kolkata"
+    ],
+    "description": "Indo-Chinese fried chicken tossed with chillies and sauces. Indian Chinese cuisine is believed to have begun with Chinese immigrants in Calcutta, and chilli chicken and chow mein became state favourites.",
+    "how_to_eat": "Eat with fried rice or Hakka noodles.",
+    "how_to_order": "Ask for 'chilli chicken' (dry or gravy) at Indo-Chinese restaurants, especially in Tangra.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chilli_chicken",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chilli_chicken",
+      "https://en.wikipedia.org/wiki/Indian_Chinese_cuisine",
+      "https://www.nationalgeographic.com/travel/article/west-bengal-dishes-curries-kolkata-street-food"
+    ]
+  },
+  {
+    "id": "west_bengal-darjeeling-tea",
+    "name": "Darjeeling Tea",
+    "local_name": null,
+    "pronunciation": "dar-JEE-ling",
+    "category": "drink",
+    "state": "West Bengal",
+    "regions": [
+      "Darjeeling",
+      "Kalimpong"
+    ],
+    "description": "Tea grown and processed on estates in Darjeeling and Kalimpong districts, mostly as black tea, plucked in four flushes from March to November. It has been a registered geographical indication since 2004.",
+    "how_to_eat": "Drink it plain without milk to taste the flush.",
+    "how_to_order": "Ask for 'first flush' or 'second flush' Darjeeling at tea shops in Darjeeling.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Darjeeling_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Darjeeling_tea",
+      "https://en.wikipedia.org/wiki/West_Bengal_cuisine"
+    ]
+  }
+]

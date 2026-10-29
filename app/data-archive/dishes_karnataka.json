@@ -1,0 +1,972 @@
+[
+  {
+    "id": "karnataka-bisi-bele-bath",
+    "name": "Bisi Bele Bath",
+    "local_name": "ಬಿಸಿ ಬೇಳೆ ಭಾತ್",
+    "pronunciation": "BI-si BAY-lay baath",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [
+      "Mysuru",
+      "Bengaluru"
+    ],
+    "description": "A spicy one-pot dish of rice, lentils and vegetables cooked with tamarind, jaggery and a roasted spice mix, finished with ghee. The name means 'hot lentil rice', and it is said to have originated in the Mysore Palace kitchens.",
+    "how_to_eat": "Eat it hot with a spoonful of ghee on top, alongside papad or khara boondi and a glass of buttermilk.",
+    "how_to_order": "Ask for 'bisi bele bath' at any darshini or tiffin hotel, usually on the breakfast and lunch menu.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bisi_Bele_Bhat",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bisi_Bele_Bhat",
+      "https://en.wikipedia.org/wiki/Karnataka_cuisine",
+      "https://sotc.in/blog/indian-holidays/famous-foods-of-karnataka-you-must-try",
+      "https://traveltriangle.com/blog/karnataka-cuisine/"
+    ]
+  },
+  {
+    "id": "karnataka-mysore-pak",
+    "name": "Mysore Pak",
+    "local_name": "ಮೈಸೂರು ಪಾಕ್",
+    "pronunciation": "MY-soor paak",
+    "category": "sweet",
+    "state": "Karnataka",
+    "regions": [
+      "Mysuru"
+    ],
+    "description": "A rich confection of gram flour (besan), sugar and generous amounts of ghee, often flavoured with cardamom. It originated in the royal kitchens of the Kingdom of Mysore and is a staple at Karnataka weddings and festivals.",
+    "how_to_eat": "Eat a piece as is; the soft, ghee-heavy version melts in the mouth while the older porous style is firmer and crumbly.",
+    "how_to_order": "Buy it by weight at any sweet shop in Mysuru or Bengaluru.",
+    "typical_price_inr": "150 per kg",
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mysore_pak",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mysore_pak",
+      "https://en.wikipedia.org/wiki/Karnataka_cuisine",
+      "https://sotc.in/blog/indian-holidays/famous-foods-of-karnataka-you-must-try",
+      "https://traveltriangle.com/blog/karnataka-cuisine/"
+    ]
+  },
+  {
+    "id": "karnataka-dharwad-pedha",
+    "name": "Dharwad Pedha",
+    "local_name": "ಧಾರವಾಡ ಪೇಡ",
+    "pronunciation": "DHAR-waad PAY-da",
+    "category": "sweet",
+    "state": "Karnataka",
+    "regions": [
+      "Dharwad",
+      "Hubballi"
+    ],
+    "description": "A brown, grainy milk sweet made by slowly cooking milk down with sugar until it caramelises, named after the city of Dharwad. Its history goes back about 175 years, and it holds a Geographical Indication tag.",
+    "how_to_eat": "Eat it at room temperature; the slightly crumbly, caramel-toned texture is the point.",
+    "how_to_order": "Ask for 'Dharwad pedha' by weight at sweet shops in Dharwad and Hubballi; boxed packs travel well.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dharwad_pedha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dharwad_pedha",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "https://sotc.in/blog/indian-holidays/famous-foods-of-karnataka-you-must-try"
+    ]
+  },
+  {
+    "id": "karnataka-mysore-masala-dosa",
+    "name": "Mysore Masala Dosa",
+    "local_name": null,
+    "pronunciation": "MY-soor MA-sa-la DO-sa",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [
+      "Mysuru",
+      "Bengaluru"
+    ],
+    "description": "A crisp fermented rice-and-lentil crepe smeared on the inside with a red chutney-spice paste and filled with spiced potato. It is one of several dishes that started in Karnataka and spread across India, and is served with coconut chutney, sambar and ghee.",
+    "how_to_eat": "Tear pieces by hand and dip them in coconut chutney and sambar.",
+    "how_to_order": "Order 'Mysore masala dose' at any tiffin hotel; it is a breakfast and evening staple.",
+    "typical_price_inr": "70",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Karnataka_cuisine",
+      "https://sotc.in/blog/indian-holidays/famous-foods-of-karnataka-you-must-try",
+      "https://traveltriangle.com/blog/karnataka-cuisine/"
+    ]
+  },
+  {
+    "id": "karnataka-benne-dose",
+    "name": "Davanagere Benne Dose",
+    "local_name": "ಬೆಣ್ಣೆ ದೋಸೆ",
+    "pronunciation": "BEN-nay DO-say",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [
+      "Davanagere"
+    ],
+    "description": "A butter-rich dosa from Davanagere, made with a batter of parboiled rice, black gram and puffed rice and traditionally cooked on a wood-fired griddle. It is topped with more butter and served with coconut chutney; a GI tag request for it was turned down.",
+    "how_to_eat": "Eat it straight off the griddle while the butter is still melting, with coconut chutney.",
+    "how_to_order": "Ask for 'benne dose' in Davanagere; most places serve it in sets of two or more.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Benne_dose",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Benne_dose",
+      "https://karnatakatourism.org/experiences/davanagere-benne-dose"
+    ]
+  },
+  {
+    "id": "karnataka-neer-dosa",
+    "name": "Neer Dosa",
+    "local_name": "ನೀರ್ ದೋಸೆ",
+    "pronunciation": "NEER DO-sa",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [
+      "Mangaluru",
+      "Udupi"
+    ],
+    "description": "A thin, lacy crepe made from an unfermented, watery rice batter; 'neer' means water in Kannada and Tulu. It is a staple of Tulu Nadu and Mangalorean cooking and usually comes with coconut chutney or coastal chicken and fish curries.",
+    "how_to_eat": "Fold it and eat it with chicken curry (kori gassi) or coconut chutney.",
+    "how_to_order": "Ask for 'neer dosa' at coastal Karnataka eateries, usually served in sets of two or three.",
+    "typical_price_inr": "80",
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Neer_dosa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Neer_dosa",
+      "https://en.wikipedia.org/wiki/Karnataka_cuisine",
+      "https://sotc.in/blog/indian-holidays/famous-foods-of-karnataka-you-must-try",
+      "https://traveltriangle.com/blog/karnataka-cuisine/"
+    ]
+  },
+  {
+    "id": "karnataka-ragi-mudde",
+    "name": "Ragi Mudde with Soppina Saaru",
+    "local_name": "ರಾಗಿ ಮುದ್ದೆ",
+    "pronunciation": "RAA-gi MUD-day",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [
+      "Mysuru",
+      "Mandya",
+      "Hassan",
+      "Tumakuru"
+    ],
+    "description": "Dense balls of finger millet flour cooked with water, a daily staple in the Mysuru, Mandya, Hassan and Tumakuru districts. It is traditionally eaten with saaru, such as soppina saaru made from leafy greens and lentils.",
+    "how_to_eat": "Pinch off a small piece, dip it in the saaru and swallow it without chewing.",
+    "how_to_order": "Ask for 'mudde oota' (mudde meal) at rural-style and military hotels around Mysuru and Mandya.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ragi_mudde",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ragi_mudde",
+      "https://en.wikipedia.org/wiki/Karnataka_cuisine",
+      "https://traveltriangle.com/blog/karnataka-cuisine/"
+    ]
+  },
+  {
+    "id": "karnataka-jolada-rotti",
+    "name": "Jolada Rotti",
+    "local_name": "ಜೋಳದ ರೊಟ್ಟಿ",
+    "pronunciation": "JO-la-da ROT-ti",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [
+      "Hubballi",
+      "Dharwad",
+      "Vijayapura",
+      "Kalaburagi"
+    ],
+    "description": "An unleavened flatbread of sorghum (jowar), soft or dried crisp, that is the staple of North Karnataka. It is eaten with pulse curries, yennegayi (stuffed brinjal) and peanut chutney.",
+    "how_to_eat": "Eat it with yennegayi and a dab of chutney powder mixed with curd.",
+    "how_to_order": "Ask for a 'jolada rotti oota' (North Karnataka meal) at khanavalis in Hubballi, Dharwad or Vijayapura.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jolada_rotti",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jolada_rotti",
+      "https://en.wikipedia.org/wiki/Karnataka_cuisine",
+      "https://sotc.in/blog/indian-holidays/famous-foods-of-karnataka-you-must-try"
+    ]
+  },
+  {
+    "id": "karnataka-akki-rotti",
+    "name": "Akki Rotti",
+    "local_name": "ಅಕ್ಕಿ ರೊಟ್ಟಿ",
+    "pronunciation": "UK-ki ROT-ti",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [],
+    "description": "A flatbread of rice flour mixed with grated coconut, cumin and chopped onion, patted out by hand and cooked until crisp outside and soft inside. It is eaten at any meal across Karnataka.",
+    "how_to_eat": "Eat it hot with coconut chutney, pickle or curd.",
+    "how_to_order": "Ask for 'akki rotti' at breakfast in tiffin hotels.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Akki_rotti",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Akki_rotti",
+      "https://sotc.in/blog/indian-holidays/famous-foods-of-karnataka-you-must-try"
+    ]
+  },
+  {
+    "id": "karnataka-ragi-rotti",
+    "name": "Ragi Rotti",
+    "local_name": "ರಾಗಿ ರೊಟ್ಟಿ",
+    "pronunciation": "RAA-gi ROT-ti",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [],
+    "description": "A breakfast flatbread of finger millet flour kneaded with onion, carrot, coriander and cumin and spread thin on a griddle. It is most popular in rural southern Karnataka.",
+    "how_to_eat": "Eat it with chutney or a spicy pickle.",
+    "how_to_order": "Ask for 'ragi rotti' at breakfast places in southern Karnataka.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ragi_rotti",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ragi_rotti"
+    ]
+  },
+  {
+    "id": "karnataka-thatte-idli",
+    "name": "Thatte Idli",
+    "local_name": null,
+    "pronunciation": "THUT-tay ID-li",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [
+      "Bengaluru"
+    ],
+    "description": "A large, flat, plate-sized idli steamed from the usual fermented rice and lentil batter. It is eaten for breakfast, lunch or dinner.",
+    "how_to_eat": "Eat it with coconut chutney and sambar, often with a dollop of butter.",
+    "how_to_order": "Ask for 'thatte idli' at highway eateries and tiffin hotels around Bengaluru.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://sotc.in/blog/indian-holidays/famous-foods-of-karnataka-you-must-try"
+    ]
+  },
+  {
+    "id": "karnataka-rava-idli",
+    "name": "Rava Idli",
+    "local_name": "ರವೆ ಇಡ್ಲಿ",
+    "pronunciation": "RAA-va ID-li",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [
+      "Bengaluru"
+    ],
+    "description": "A version of idli made with semolina (rava) instead of fermented rice batter. It originated in Karnataka and has spread across South India.",
+    "how_to_eat": "Eat it with coconut chutney, sagu or potato palya.",
+    "how_to_order": "Ask for 'rava idli' at breakfast in Bengaluru tiffin hotels.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rava_idli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rava_idli",
+      "https://en.wikipedia.org/wiki/Karnataka_cuisine"
+    ]
+  },
+  {
+    "id": "karnataka-chow-chow-bath",
+    "name": "Chow Chow Bath",
+    "local_name": null,
+    "pronunciation": "chow chow BAATH",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [
+      "Bengaluru"
+    ],
+    "description": "A Bengaluru breakfast plate pairing two semolina dishes: spicy khara bath (upma with peanuts and vegetables) and sweet kesari bath (saffron-tinted semolina halwa with ghee). The kesari half is a dessert Karnataka claims as its own.",
+    "how_to_eat": "Alternate spoonfuls of the savoury and sweet halves.",
+    "how_to_order": "Ask for 'chow chow bath' at any Bengaluru darshini in the morning.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts",
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kesari_bat",
+    "source_urls": [
+      "https://traveltriangle.com/blog/karnataka-cuisine/",
+      "https://en.wikipedia.org/wiki/Kesari_bat",
+      "https://sotc.in/blog/indian-holidays/famous-foods-of-karnataka-you-must-try"
+    ]
+  },
+  {
+    "id": "karnataka-chitranna",
+    "name": "Chitranna",
+    "local_name": "ಚಿತ್ರಾನ್ನ",
+    "pronunciation": "chit-RAA-nna",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [],
+    "description": "Cooked rice tossed with a tempering of mustard seeds, fried lentils, peanuts, curry leaves, chillies, turmeric and lemon juice or grated raw mango. It is a common everyday and festival rice dish in Karnataka.",
+    "how_to_eat": "Eat it with curd, pickle or papad.",
+    "how_to_order": "Ask for 'chitranna' at tiffin hotels or in a lunch thali.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chitranna",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chitranna",
+      "https://en.wikipedia.org/wiki/Karnataka_cuisine"
+    ]
+  },
+  {
+    "id": "karnataka-maddur-vada",
+    "name": "Maddur Vada",
+    "local_name": "ಮದ್ದೂರು ವಡೆ",
+    "pronunciation": "MUD-door VA-day",
+    "category": "snack",
+    "state": "Karnataka",
+    "regions": [
+      "Maddur",
+      "Mandya"
+    ],
+    "description": "A crisp, flat fritter of rice flour, semolina, maida and onion, named after the town of Maddur in Mandya district. It is sold at stalls and railway platforms along the Bengaluru-Mysuru route.",
+    "how_to_eat": "Eat it hot with coconut chutney and a filter coffee.",
+    "how_to_order": "Ask for 'Maddur vade' at stalls in Maddur town or on the Bengaluru-Mysuru highway.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maddur_vada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Maddur_vada",
+      "https://sotc.in/blog/indian-holidays/famous-foods-of-karnataka-you-must-try",
+      "https://traveltriangle.com/blog/karnataka-cuisine/"
+    ]
+  },
+  {
+    "id": "karnataka-mangalore-buns",
+    "name": "Mangalore Buns",
+    "local_name": "ಬನ್ಸ್",
+    "pronunciation": "MANG-a-lore buns",
+    "category": "snack",
+    "state": "Karnataka",
+    "regions": [
+      "Mangaluru",
+      "Udupi"
+    ],
+    "description": "Mildly sweet, soft, puri-like fried breads made from all-purpose flour and mashed ripe banana. Legend says a temple cook invented them to use up bananas offered by devotees.",
+    "how_to_eat": "Eat them warm with coconut chutney and sambar, or just with tea.",
+    "how_to_order": "Ask for 'buns' (or 'banana buns') at tiffin places in Mangaluru and Udupi.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mangalore_buns",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mangalore_buns",
+      "https://sotc.in/blog/indian-holidays/famous-foods-of-karnataka-you-must-try"
+    ]
+  },
+  {
+    "id": "karnataka-goli-baje",
+    "name": "Goli Baje",
+    "local_name": "ಗೋಳಿಬಜೆ",
+    "pronunciation": "GO-li BA-jay",
+    "category": "snack",
+    "state": "Karnataka",
+    "regions": [
+      "Mangaluru",
+      "Udupi"
+    ],
+    "description": "Soft, airy fritters made from a fermented batter of maida and curd with spices. Called goli baje in Tulu and Mangalore bajji in Kannada, it is a classic coastal tea-time snack.",
+    "how_to_eat": "Eat them hot with coconut chutney.",
+    "how_to_order": "Ask for 'goli baje' at tea-time in Udupi and Mangaluru eateries.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mangalore_bajji",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mangalore_bajji",
+      "https://sotc.in/blog/indian-holidays/famous-foods-of-karnataka-you-must-try"
+    ]
+  },
+  {
+    "id": "karnataka-mysore-bonda",
+    "name": "Mysore Bonda",
+    "local_name": null,
+    "pronunciation": "MY-soor BON-da",
+    "category": "snack",
+    "state": "Karnataka",
+    "regions": [
+      "Mysuru"
+    ],
+    "description": "A round fritter of maida and curd (some versions use urad dal), crisp outside and soft inside. It is a common snack across the state.",
+    "how_to_eat": "Eat it with coconut chutney and sambar.",
+    "how_to_order": "Ask for 'Mysore bonda' at tiffin hotels in the evening.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://traveltriangle.com/blog/karnataka-cuisine/"
+    ]
+  },
+  {
+    "id": "karnataka-patrode",
+    "name": "Patrode",
+    "local_name": "ಪತ್ರೊಡೆ",
+    "pronunciation": "PAT-ro-day",
+    "category": "snack",
+    "state": "Karnataka",
+    "regions": [
+      "Udupi",
+      "Mangaluru"
+    ],
+    "description": "Colocasia (taro) leaves layered with a spiced rice and lentil paste, rolled, steamed and sliced. It is a well-known dish of the Tulu coast.",
+    "how_to_eat": "Eat the slices as is, or shallow-fried until crisp.",
+    "how_to_order": "Ask for 'patrode' at Udupi-style eateries, mostly during the monsoon.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Patrode",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Patrode"
+    ]
+  },
+  {
+    "id": "karnataka-kori-rotti",
+    "name": "Kori Rotti",
+    "local_name": "ಕೋರಿ ರೊಟ್ಟಿ",
+    "pronunciation": "KO-ri ROT-ti",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [
+      "Mangaluru",
+      "Udupi"
+    ],
+    "description": "A Tuluva dish of a red chilli and coconut milk chicken curry poured over crisp, dry wafers made from boiled rice. 'Kori' means chicken in Tulu, and it is a Sunday and special-occasion dish in Tulu Nadu homes.",
+    "how_to_eat": "Crumble the rotti into a bowl and pour the curry over it just before eating, so it softens only slightly.",
+    "how_to_order": "Ask for 'kori rotti' at Mangalorean restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kori_rotti",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kori_rotti",
+      "https://traveltriangle.com/blog/karnataka-cuisine/"
+    ]
+  },
+  {
+    "id": "karnataka-chicken-ghee-roast",
+    "name": "Chicken Ghee Roast",
+    "local_name": null,
+    "pronunciation": "CHI-ken GHEE roast",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [
+      "Kundapura",
+      "Mangaluru"
+    ],
+    "description": "A fiery red, tangy chicken dish cooked with ghee, curd, tamarind, jaggery and roasted spices. It is a Tuluva Mangalorean recipe whose origins trace to Kundapura near Udupi.",
+    "how_to_eat": "Eat it with neer dosa or appam.",
+    "how_to_order": "Ask for 'chicken ghee roast' at Mangalorean restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chicken_ghee_roast",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chicken_ghee_roast"
+    ]
+  },
+  {
+    "id": "karnataka-kundapura-koli-saaru",
+    "name": "Kundapura Koli Saaru",
+    "local_name": null,
+    "pronunciation": "KOON-da-poo-ra KO-li SAA-ru",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [
+      "Kundapura"
+    ],
+    "description": "A coastal chicken curry from the Kundapura area cooked with onion, ginger, garlic and spices. It is usually served with neer dosa, rice or chapati.",
+    "how_to_eat": "Eat it with neer dosa or rice.",
+    "how_to_order": "Ask for 'Kundapura koli saaru' at coastal Karnataka restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://traveltriangle.com/blog/karnataka-cuisine/"
+    ]
+  },
+  {
+    "id": "karnataka-kane-rava-fry",
+    "name": "Kane Rava Fry",
+    "local_name": null,
+    "pronunciation": "KAA-nay RAA-va fry",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [
+      "Mangaluru",
+      "Udupi"
+    ],
+    "description": "Ladyfish (kane) coated in a fiery red chilli paste, rolled in semolina and shallow-fried. It is a coastal Karnataka seafood favourite served as a starter or side.",
+    "how_to_eat": "Eat it hot with a squeeze of lemon, alongside rice and fish curry.",
+    "how_to_order": "Ask for 'kane fry' at seafood restaurants in Mangaluru and Udupi.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://sotc.in/blog/indian-holidays/famous-foods-of-karnataka-you-must-try",
+      "https://traveltriangle.com/blog/karnataka-cuisine/"
+    ]
+  },
+  {
+    "id": "karnataka-pandi-curry",
+    "name": "Pandi Curry",
+    "local_name": null,
+    "pronunciation": "PUN-di curry",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [
+      "Kodagu",
+      "Madikeri"
+    ],
+    "description": "Kodagu's signature dark pork curry made with roasted pepper, coriander and cumin and soured with kachampuli, a vinegar made from Garcinia fruit that also preserves the meat. It was traditionally made with wild boar.",
+    "how_to_eat": "Eat it with kadambuttu or akki otti (rice roti).",
+    "how_to_order": "Ask for 'pandi curry' at Kodava homestays and restaurants in Madikeri.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.outlookindia.com/traveller/cuisine/feasting-in-coorg/",
+      "https://www.evolveback.com/blogs/pandi-curry-the-emperor-of-kodava-cuisine.html",
+      "https://sotc.in/blog/indian-holidays/famous-foods-of-karnataka-you-must-try",
+      "https://traveltriangle.com/blog/karnataka-cuisine/"
+    ]
+  },
+  {
+    "id": "karnataka-kadambuttu",
+    "name": "Kadambuttu",
+    "local_name": null,
+    "pronunciation": "ka-DUM-but-tu",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [
+      "Kodagu"
+    ],
+    "description": "Small, firm balls of steamed broken rice, made with ghee. They are the traditional partner to pandi curry in Kodava cooking.",
+    "how_to_eat": "Break them up and mop up pandi curry or chicken curry.",
+    "how_to_order": "Order with pandi curry at Kodava restaurants and homestays.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.outlookindia.com/traveller/cuisine/feasting-in-coorg/",
+      "https://www.evolveback.com/blogs/pandi-curry-the-emperor-of-kodava-cuisine.html"
+    ]
+  },
+  {
+    "id": "karnataka-nool-puttu",
+    "name": "Nool Puttu",
+    "local_name": null,
+    "pronunciation": "NOOL put-tu",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [
+      "Kodagu"
+    ],
+    "description": "Kodava rice noodles, pressed from rice dough and steamed. They are eaten with a thin chicken curry poured over them.",
+    "how_to_eat": "Pour thin chicken curry over the noodles and eat.",
+    "how_to_order": "Ask for 'nool puttu' with koli curry at Kodava eateries.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.outlookindia.com/traveller/cuisine/feasting-in-coorg/"
+    ]
+  },
+  {
+    "id": "karnataka-baimbale-curry",
+    "name": "Baimbale Curry (Bamboo Shoot)",
+    "local_name": null,
+    "pronunciation": "BAIM-ba-lay curry",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [
+      "Kodagu"
+    ],
+    "description": "A seasonal Kodava dish of tender bamboo shoots fermented by soaking in water for three days, then cooked with mustard seeds, curry leaves and red chillies.",
+    "how_to_eat": "Eat it as a side with rice.",
+    "how_to_order": "Ask for 'baimbale' at Kodava homestays during the monsoon season.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.outlookindia.com/traveller/cuisine/feasting-in-coorg/"
+    ]
+  },
+  {
+    "id": "karnataka-obbattu",
+    "name": "Obbattu (Holige)",
+    "local_name": "ಒಬ್ಬಟ್ಟು",
+    "pronunciation": "OB-bat-tu",
+    "category": "sweet",
+    "state": "Karnataka",
+    "regions": [],
+    "description": "A sweet flatbread of a lentil, jaggery and coconut filling sealed in thin dough and griddle-cooked with ghee. It is made across Karnataka for Ugadi and other festivals.",
+    "how_to_eat": "Eat it warm with a spoon of ghee or with milk.",
+    "how_to_order": "Ask for 'holige' or 'obbattu' at holige shops or festive-meal restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Puran_poli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Puran_poli",
+      "https://en.wikipedia.org/wiki/Karnataka_cuisine",
+      "https://traveltriangle.com/blog/karnataka-cuisine/"
+    ]
+  },
+  {
+    "id": "karnataka-chiroti",
+    "name": "Chiroti",
+    "local_name": "ಚಿರೋಟಿ",
+    "pronunciation": "chi-RO-ti",
+    "category": "sweet",
+    "state": "Karnataka",
+    "regions": [],
+    "description": "A flaky, layered fried pastry of maida and ghee, sprinkled with powdered sugar and cardamom. It is served at weddings and festivals.",
+    "how_to_eat": "Pour a little warm almond milk (badami haalu) over it, or eat it dry with sugar.",
+    "how_to_order": "Buy it at sweet shops, especially around festivals.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chirote",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chirote",
+      "https://sotc.in/blog/indian-holidays/famous-foods-of-karnataka-you-must-try",
+      "https://traveltriangle.com/blog/karnataka-cuisine/"
+    ]
+  },
+  {
+    "id": "karnataka-karadantu",
+    "name": "Gokak Karadantu",
+    "local_name": "ಕರದಂಟು",
+    "pronunciation": "ka-ra-DUN-tu",
+    "category": "sweet",
+    "state": "Karnataka",
+    "regions": [
+      "Gokak",
+      "Amingad"
+    ],
+    "description": "A chewy sweet of fried edible gum mixed with dry fruits, fried gram flour, jaggery and marking-nut seeds. Gokak and Amingad are the towns famous for it.",
+    "how_to_eat": "Eat a small piece; it is dense and rich.",
+    "how_to_order": "Buy boxed 'karadantu' from sweet shops in Gokak or Amingad.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Karadantu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Karadantu"
+    ]
+  },
+  {
+    "id": "karnataka-belagavi-kunda",
+    "name": "Belagavi Kunda",
+    "local_name": null,
+    "pronunciation": "KOON-da",
+    "category": "sweet",
+    "state": "Karnataka",
+    "regions": [
+      "Belagavi"
+    ],
+    "description": "A brown, caramelised milk sweet of milk or khova and sugar, finished with cardamom and dry fruits. Belagavi has more than 200 shops that make and sell it.",
+    "how_to_eat": "Eat it with a spoon; it is soft and fudgy.",
+    "how_to_order": "Ask for 'kunda' by weight at sweet shops in Belagavi.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://karnatakatourism.org/experiences/belagavi-kunda/"
+    ]
+  },
+  {
+    "id": "karnataka-halbai",
+    "name": "Halbai",
+    "local_name": null,
+    "pronunciation": "HAL-bai",
+    "category": "sweet",
+    "state": "Karnataka",
+    "regions": [
+      "Mangaluru",
+      "Udupi"
+    ],
+    "description": "A soft, set sweet of ground rice, coconut, coconut milk and jaggery, cooked down and cut into pieces.",
+    "how_to_eat": "Eat it at room temperature as a sweet with tea.",
+    "how_to_order": "Look for 'halbai' at traditional sweet shops and Karnataka-style eateries.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://traveltriangle.com/blog/karnataka-cuisine/"
+    ]
+  },
+  {
+    "id": "karnataka-kosambari",
+    "name": "Kosambari",
+    "local_name": "ಕೋಸಂಬರಿ",
+    "pronunciation": "ko-SUM-ba-ri",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [],
+    "description": "A salad of soaked split mung beans with cucumber or carrot, seasoned with mustard seeds. It is part of the traditional Karnataka festive meal served on a banana leaf.",
+    "how_to_eat": "Eat it as part of a full meal, at the start.",
+    "how_to_order": "Comes as part of a festival or wedding meal; also on some thali menus.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kosambari",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kosambari",
+      "https://en.wikipedia.org/wiki/Karnataka_cuisine"
+    ]
+  },
+  {
+    "id": "karnataka-majjige-huli",
+    "name": "Majjige Huli",
+    "local_name": null,
+    "pronunciation": "MAJ-ji-gay HU-li",
+    "category": "meal",
+    "state": "Karnataka",
+    "regions": [],
+    "description": "Vegetables simmered in a sour curd and buttermilk gravy, a traditional Sankranti dish. Ash gourd, cucumber, ivy gourd or Chinese potato are common choices.",
+    "how_to_eat": "Pour it over hot rice.",
+    "how_to_order": "Found in home-style meals and thalis.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Majjige_huli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Majjige_huli"
+    ]
+  },
+  {
+    "id": "karnataka-filter-coffee",
+    "name": "Filter Coffee",
+    "local_name": null,
+    "pronunciation": "FIL-ter KOF-fee",
+    "category": "drink",
+    "state": "Karnataka",
+    "regions": [],
+    "description": "Strong coffee decoction brewed in a metal filter and mixed with frothy boiled milk and sugar.",
+    "how_to_eat": "Pour it between the tumbler and dabara to cool and froth it before sipping.",
+    "how_to_order": "Ask for 'filter coffee' or 'kaapi' at any darshini.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://traveltriangle.com/blog/karnataka-cuisine/"
+    ]
+  }
+]

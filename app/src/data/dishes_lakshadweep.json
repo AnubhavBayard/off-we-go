@@ -1,0 +1,189 @@
+[
+  {
+    "id": "lakshadweep-tuna-curry",
+    "name": "Lakshadweep Tuna Curry",
+    "local_name": null,
+    "pronunciation": "TOO-na curry",
+    "category": "meal",
+    "state": "Lakshadweep",
+    "regions": [],
+    "description": "A spicy curry of fresh tuna in coconut milk with spices. Tuna and related fish make up about 60% of the islands' catch.",
+    "how_to_eat": "Eat it with steamed rice.",
+    "how_to_order": "Ask for the day's tuna curry at local eateries.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.sotc.in/blog/indian-holidays/lakshadweeps-food-and-culture-a-detailed-guide",
+      "https://en.wikipedia.org/wiki/Lakshadweep"
+    ]
+  },
+  {
+    "id": "lakshadweep-mus-kavaab",
+    "name": "Mus Kavaab",
+    "local_name": null,
+    "pronunciation": "MUS ka-VAAB",
+    "category": "meal",
+    "state": "Lakshadweep",
+    "regions": [
+      "Minicoy"
+    ],
+    "description": "A curry of boneless fish, usually tuna, in a creamy, mildly sweet coconut gravy with onion, garlic, ginger, green chillies and curry leaves. It is one of Lakshadweep's best-known dishes and is linked to Minicoy.",
+    "how_to_eat": "Eat it with rice or parotta.",
+    "how_to_order": "Ask for 'mus kavaab' at local eateries and guesthouses.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/here-are-the-top-local-dishes-to-try-in-lakshwadeep",
+      "https://onmanorama.com/food/features/2024/01/18/mass-podichathu-kilanji-lakshadweep-food-options-tourism-maldives.html",
+      "https://curlytales.com/?p=558076"
+    ]
+  },
+  {
+    "id": "lakshadweep-maas-podichathu",
+    "name": "Maas Podichathu",
+    "local_name": null,
+    "pronunciation": "MAAS po-di-CHA-thu",
+    "category": "meal",
+    "state": "Lakshadweep",
+    "regions": [],
+    "description": "Dried tuna (mas min, the islands' version of Maldives fish) cut into small pieces and mixed with grated coconut, turmeric, onion, garlic and ginger. It is the islands' signature side dish and closely resembles Maldivian mas huni.",
+    "how_to_eat": "Eat it as a side with rice.",
+    "how_to_order": "Ask for 'maas podichathu' at island guesthouses and local eateries; tourist resorts can arrange it.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://onmanorama.com/food/features/2024/01/18/mass-podichathu-kilanji-lakshadweep-food-options-tourism-maldives.html",
+      "https://en.wikipedia.org/wiki/Maldives_fish",
+      "https://www.outlooktraveller.com/experiences/food-and-drink/here-are-the-top-local-dishes-to-try-in-lakshwadeep"
+    ]
+  },
+  {
+    "id": "lakshadweep-octopus-fry",
+    "name": "Octopus Fry",
+    "local_name": null,
+    "pronunciation": "OK-to-pus fry",
+    "category": "snack",
+    "state": "Lakshadweep",
+    "regions": [],
+    "description": "Small octopus cleaned, marinated with salt, turmeric and red chilli powder and deep-fried until crisp. It is a popular beach snack, served with green chillies, garlic and a local sauce.",
+    "how_to_eat": "Eat it hot as a snack or as a side with rice.",
+    "how_to_order": "Ask for 'octopus fry' at local eateries and beach stalls.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/here-are-the-top-local-dishes-to-try-in-lakshwadeep",
+      "https://onmanorama.com/food/features/2024/01/18/mass-podichathu-kilanji-lakshadweep-food-options-tourism-maldives.html",
+      "https://curlytales.com/?p=558076"
+    ]
+  },
+  {
+    "id": "lakshadweep-squid-fry",
+    "name": "Squid Fry",
+    "local_name": null,
+    "pronunciation": "SKWID fry",
+    "category": "snack",
+    "state": "Lakshadweep",
+    "regions": [],
+    "description": "Fresh squid pan-fried crisp with aromatic spices, often served with lime.",
+    "how_to_eat": "Squeeze lime over it and eat hot.",
+    "how_to_order": "Ask for 'squid fry' at local eateries.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.sotc.in/blog/indian-holidays/lakshadweeps-food-and-culture-a-detailed-guide"
+    ]
+  },
+  {
+    "id": "lakshadweep-kilanji",
+    "name": "Kilanji",
+    "local_name": null,
+    "pronunciation": "ki-LAAN-ji",
+    "category": "sweet",
+    "state": "Lakshadweep",
+    "regions": [
+      "Minicoy"
+    ],
+    "description": "A very thin crepe of rice flour and eggs from Minicoy, served with a sweet, thin dish of coconut milk, sliced banana and jaggery. It is made for weddings and to welcome guests.",
+    "how_to_eat": "Dip or soak the crepe in the sweet coconut milk and banana mix.",
+    "how_to_order": "Ask local hosts or guesthouses on Minicoy; it is mostly made for occasions rather than sold.",
+    "typical_price_inr": null,
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://onmanorama.com/food/features/2024/01/18/mass-podichathu-kilanji-lakshadweep-food-options-tourism-maldives.html",
+      "https://www.outlooktraveller.com/experiences/food-and-drink/here-are-the-top-local-dishes-to-try-in-lakshwadeep"
+    ]
+  },
+  {
+    "id": "lakshadweep-unnakaya",
+    "name": "Unnakaya",
+    "local_name": null,
+    "pronunciation": "UN-na-ka-ya",
+    "category": "sweet",
+    "state": "Lakshadweep",
+    "regions": [],
+    "description": "Mashed ripe banana shaped around a filling of coconut and nuts and deep-fried. Originally from Kerala's Malabar region, it is popular in Lakshadweep, especially during Ramadan.",
+    "how_to_eat": "Eat it warm as a snack.",
+    "how_to_order": "Look for it at home kitchens and during Ramadan.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Unnakai",
+    "source_urls": [
+      "https://www.outlooktraveller.com/experiences/food-and-drink/here-are-the-top-local-dishes-to-try-in-lakshwadeep"
+    ]
+  }
+]

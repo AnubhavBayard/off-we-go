@@ -1,0 +1,562 @@
+[
+  {
+    "id": "haryana-gohana-jalebi",
+    "name": "Gohana Jalebi",
+    "local_name": null,
+    "pronunciation": "go-HA-na ja-LAY-bee",
+    "category": "sweet",
+    "state": "Haryana",
+    "regions": [
+      "Gohana"
+    ],
+    "description": "Giant jalebis fried in desi ghee, each weighing about 250 grams, from the town of Gohana. The style dates to 1958, when Matu Ram started selling them, reportedly piping batter through an earthen pot to get the thick rings.",
+    "how_to_eat": "Break off a piece of the thick ring; one jalebi is enough to share.",
+    "how_to_order": "Ask for a box by weight; a box of four (about 1 kg) costs around 320 rupees.",
+    "typical_price_inr": "320 per kg",
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gohana",
+      "https://m.tribuneindia.com/article/gohana-s-sweet-wonder/767745/amp",
+      "https://news24online.com/india/bjps-sweet-taunt-jalebi-order-for-rahul-gandhi-delivered-to-congress-office/355476/"
+    ]
+  },
+  {
+    "id": "haryana-murthal-paratha",
+    "name": "Murthal Paratha",
+    "local_name": null,
+    "pronunciation": "MUR-thal pa-RAA-tha",
+    "category": "meal",
+    "state": "Haryana",
+    "regions": [
+      "Murthal",
+      "Sonipat"
+    ],
+    "description": "Large stuffed parathas served with a slab of fresh white butter at the highway dhabas of Murthal on the Grand Trunk Road near Sonipat. The dhabas date from the 1950s, and the aloo paratha here is seen as the benchmark for North Indian highway parathas.",
+    "how_to_eat": "Let the white butter melt into the layers and eat with yogurt, pickle and a glass of lassi.",
+    "how_to_order": "Stop at a Murthal dhaba and ask for an 'aloo paratha with makhan'; go before 8 am to avoid queues.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.livetheworld.com/activities/india/amrik-sukhdev-murthal",
+      "https://magicpin.com/blog/india/murthal/food-and-beverage/murthal-best-restaurants-dhabas"
+    ]
+  },
+  {
+    "id": "haryana-bajre-ki-roti",
+    "name": "Bajre ki Roti",
+    "local_name": null,
+    "pronunciation": "BAJ-re ki RO-ti",
+    "category": "meal",
+    "state": "Haryana",
+    "regions": [],
+    "description": "Flatbread made from pearl millet (bajra) flour and eaten with ghee. It is one of the best-known breads of Haryana, a state that eats roti far more than rice.",
+    "how_to_eat": "Eat it hot with a generous spoon of ghee, a sabzi and buttermilk.",
+    "how_to_order": "Ask for 'bajre ki roti' at a village-style dhaba, mostly in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Haryana",
+      "https://www.onmanorama.com/food/features/2018/10/20/in-haryana-they-love-home-made-delicacies.html"
+    ]
+  },
+  {
+    "id": "haryana-bajra-aloo-roti",
+    "name": "Bajra Aloo Roti",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Haryana",
+    "regions": [],
+    "description": "Pearl millet flatbread stuffed with spiced mashed potato, sometimes with onion. It is a popular winter food in Haryana.",
+    "how_to_eat": "Eat it hot with butter and raita.",
+    "how_to_order": "Mostly home food; ask for it at Haryanvi dhabas in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-haryana-157.html",
+      "https://blog.swiggy.com/food/traditional-food-of-haryana/"
+    ]
+  },
+  {
+    "id": "haryana-besan-masala-roti",
+    "name": "Besan Masala Roti",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Haryana",
+    "regions": [],
+    "description": "Flatbread of gram flour and wheat flour spiced with chilli, cumin, coriander and amchur, cooked with ghee. It is a Haryanvi home staple.",
+    "how_to_eat": "Eat it with raita or a sabzi.",
+    "how_to_order": "Mostly home-cooked; some Haryanvi dhabas serve it with lassi.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-haryana-157.html",
+      "https://blog.swiggy.com/food/traditional-food-of-haryana/"
+    ]
+  },
+  {
+    "id": "haryana-singri-ki-sabzi",
+    "name": "Singri ki Sabzi",
+    "local_name": null,
+    "pronunciation": "SING-ri ki SUB-zi",
+    "category": "meal",
+    "state": "Haryana",
+    "regions": [],
+    "description": "Dried desert beans (singri, also ker sangri) soaked overnight, boiled and cooked with spices, amchur and sometimes yogurt into a thick curry. The dish is shared by Haryana and Rajasthan.",
+    "how_to_eat": "Eat it with bajra roti, puri or paratha.",
+    "how_to_order": "Ask for 'singri ki sabzi' at Haryanvi dhabas; dried singri is sold in markets.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Haryana",
+      "https://www.holidify.com/pages/food-of-haryana-157.html",
+      "https://blog.swiggy.com/food/traditional-food-of-haryana/"
+    ]
+  },
+  {
+    "id": "haryana-kachri-ki-sabzi",
+    "name": "Kachri ki Sabzi",
+    "local_name": null,
+    "pronunciation": "KUCH-ri ki SUB-zi",
+    "category": "meal",
+    "state": "Haryana",
+    "regions": [],
+    "description": "A tangy dish of kachri, a small wild cucumber that grows in the state's dry areas, cooked with onion, tomato and spices. It reflects the Rajasthani side of Haryanvi food.",
+    "how_to_eat": "Eat it with bajra roti or rice.",
+    "how_to_order": "Mostly home-cooked; ask for it at rural Haryanvi eateries.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://vocal.media/wander/haryana-food-culture-tourism",
+      "https://www.onmanorama.com/food/features/2018/10/20/in-haryana-they-love-home-made-delicacies.html"
+    ]
+  },
+  {
+    "id": "haryana-kachri-ki-chutney",
+    "name": "Kachri ki Chutney",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Haryana",
+    "regions": [],
+    "description": "A tangy chutney ground from kachri (wild melon) with garlic, onion, spices and sometimes yogurt. It is eaten in Haryana and Rajasthan.",
+    "how_to_eat": "Eat a small amount alongside roti and sabzi.",
+    "how_to_order": "Served with thali meals at Haryanvi dhabas.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Haryana",
+      "https://www.holidify.com/pages/food-of-haryana-157.html"
+    ]
+  },
+  {
+    "id": "haryana-hara-dhania-choliya",
+    "name": "Hara Dhania Choliya",
+    "local_name": null,
+    "pronunciation": "HA-ra DHA-nia CHO-li-ya",
+    "category": "meal",
+    "state": "Haryana",
+    "regions": [],
+    "description": "Fresh green chickpeas (choliya) cooked with coriander, onion, carrot and spices. It is one of the named dishes of Haryanvi cuisine, made in the green chickpea season.",
+    "how_to_eat": "Eat it with roti or rice.",
+    "how_to_order": "Mostly home-cooked in winter and spring when green chana is in season.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Haryana",
+      "https://www.holidify.com/pages/food-of-haryana-157.html"
+    ]
+  },
+  {
+    "id": "haryana-bathua-raita",
+    "name": "Bathua Raita",
+    "local_name": null,
+    "pronunciation": "BA-thu-a RAI-ta",
+    "category": "meal",
+    "state": "Haryana",
+    "regions": [],
+    "description": "Yogurt mixed with boiled bathua (chenopodium) leaves, cumin, red chilli and salt. Haryanvis serve it with almost every meal.",
+    "how_to_eat": "Eat it as a cooling side with roti and sabzi.",
+    "how_to_order": "Ask for 'bathua raita' at Haryanvi thali places, mostly in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Haryana",
+      "https://www.holidify.com/pages/food-of-haryana-157.html"
+    ]
+  },
+  {
+    "id": "haryana-kadhi-pakora",
+    "name": "Kadhi Pakora",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Haryana",
+    "regions": [],
+    "description": "Sour yogurt and gram flour simmered into a thick tangy gravy with fried besan fritters. It is common to Haryana and Punjab.",
+    "how_to_eat": "Eat it with rice or paratha.",
+    "how_to_order": "Ask for 'kadhi chawal' at a dhaba.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kadhi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kadhi",
+      "https://www.holidify.com/pages/food-of-haryana-157.html",
+      "https://blog.swiggy.com/food/traditional-food-of-haryana/"
+    ]
+  },
+  {
+    "id": "haryana-mithe-chawal",
+    "name": "Mithe Chawal",
+    "local_name": null,
+    "pronunciation": "MEE-the CHAA-wal",
+    "category": "sweet",
+    "state": "Haryana",
+    "regions": [],
+    "description": "Sweet rice made with basmati, ghee, sugar, cardamom, saffron and dry fruits. It is served at weddings and special occasions; Haryana is a major basmati region.",
+    "how_to_eat": "Eat it warm as a dessert after the meal.",
+    "how_to_order": "Mostly served at weddings and festivals rather than sold.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-haryana-157.html",
+      "https://blog.swiggy.com/food/traditional-food-of-haryana/"
+    ]
+  },
+  {
+    "id": "haryana-bajra-khichdi",
+    "name": "Bajra Khichdi",
+    "local_name": null,
+    "pronunciation": "BAJ-ra KHICH-di",
+    "category": "meal",
+    "state": "Haryana",
+    "regions": [],
+    "description": "Khichdi made with pearl millet instead of rice, soaked overnight and cooked with moong dal and spices. It is a named dish of Haryanvi cuisine.",
+    "how_to_eat": "Eat it hot with ghee and buttermilk or yogurt.",
+    "how_to_order": "Mostly home-cooked in winter; some rural dhabas serve it.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khichdi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khichdi",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Haryana",
+      "https://www.holidify.com/pages/food-of-haryana-157.html",
+      "https://blog.swiggy.com/food/traditional-food-of-haryana/"
+    ]
+  },
+  {
+    "id": "haryana-bhura-roti-ghee",
+    "name": "Bhura Roti Ghee",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "state": "Haryana",
+    "regions": [],
+    "description": "Leftover rotis eaten with bhura (powdered raw sugar) and ghee. It is a simple Haryanvi sweet eaten after a meal.",
+    "how_to_eat": "Dip pieces of roti in the ghee and bhura.",
+    "how_to_order": "A home dish; rarely sold.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-haryana-157.html"
+    ]
+  },
+  {
+    "id": "haryana-churma",
+    "name": "Churma",
+    "local_name": null,
+    "pronunciation": "CHOOR-ma",
+    "category": "sweet",
+    "state": "Haryana",
+    "regions": [],
+    "description": "Roti mashed with ghee and jaggery. In Haryana it is also eaten without ghee as a diet for wrestlers in the akharas.",
+    "how_to_eat": "Eat it with a tall glass of warm milk, lassi or with kadhi.",
+    "how_to_order": "Mostly home food; some dhabas serve it with a thali.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Churma",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Churma"
+    ]
+  },
+  {
+    "id": "haryana-alsi-ki-pinni",
+    "name": "Alsi ki Pinni",
+    "local_name": null,
+    "pronunciation": "AL-si ki PIN-ni",
+    "category": "sweet",
+    "state": "Haryana",
+    "regions": [],
+    "description": "Laddoos made from flaxseed, wheat flour, ghee, sugar and nuts. It is a winter sweet in Haryana, valued for its omega-3 and iron.",
+    "how_to_eat": "Eat one a day in winter, often with milk.",
+    "how_to_order": "Buy it by weight at sweet shops in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-haryana-157.html",
+      "https://blog.swiggy.com/food/traditional-food-of-haryana/",
+      "https://en.wikipedia.org/wiki/Pinni"
+    ]
+  },
+  {
+    "id": "haryana-malpua",
+    "name": "Malpua",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "state": "Haryana",
+    "regions": [],
+    "description": "Fluffy sweet pancakes fried in ghee, sometimes served with rabri. It is a popular festival sweet in Haryana.",
+    "how_to_eat": "Eat it hot, with rabri if offered.",
+    "how_to_order": "Ask for 'malpua' at a halwai during festivals.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Malpua",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Malpua",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Haryana",
+      "https://www.holidify.com/pages/food-of-haryana-157.html"
+    ]
+  },
+  {
+    "id": "haryana-gulgule",
+    "name": "Gulgule",
+    "local_name": null,
+    "pronunciation": "GUL-gu-le",
+    "category": "sweet",
+    "state": "Haryana",
+    "regions": [],
+    "description": "Sweet fried dough balls soaked in sugar syrup. A food article calls gulgule the most popular dessert in Haryana.",
+    "how_to_eat": "Eat them warm as a sweet snack.",
+    "how_to_order": "Mostly made at home for festivals.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.onmanorama.com/food/features/2018/10/20/in-haryana-they-love-home-made-delicacies.html"
+    ]
+  },
+  {
+    "id": "haryana-methi-gajar",
+    "name": "Methi Gajar",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Haryana",
+    "regions": [],
+    "description": "Carrots cooked with fenugreek and spices, garam masala and a little sugar for a sweet-spicy taste. It is a simple Haryanvi winter sabzi.",
+    "how_to_eat": "Eat it with chapati or paratha.",
+    "how_to_order": "A home dish; look for it on thali menus in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-haryana-157.html",
+      "https://blog.swiggy.com/food/traditional-food-of-haryana/"
+    ]
+  },
+  {
+    "id": "haryana-mixed-dal",
+    "name": "Mixed Dal",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Haryana",
+    "regions": [],
+    "description": "A thick blend of toor, moong, masoor, urad and chana dal, partly mashed and cooked in ghee with tomato and spices. It is a common Haryanvi main dish.",
+    "how_to_eat": "Eat it with rice, roti or paratha and papad.",
+    "how_to_order": "Ask for 'mixed dal' at a dhaba.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-haryana-157.html",
+      "https://blog.swiggy.com/food/traditional-food-of-haryana/",
+      "https://www.onmanorama.com/food/features/2018/10/20/in-haryana-they-love-home-made-delicacies.html"
+    ]
+  },
+  {
+    "id": "haryana-lassi",
+    "name": "Lassi",
+    "local_name": null,
+    "pronunciation": "LUS-see",
+    "category": "drink",
+    "state": "Haryana",
+    "regions": [],
+    "description": "A yogurt drink churned with water, served sweet or salted. Haryana's food relies heavily on dairy, and lassi is its favourite drink.",
+    "how_to_eat": "Drink a tall glass with or after a meal.",
+    "how_to_order": "Ask for 'meethi' or 'namkeen lassi' at any dhaba or dairy.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lassi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lassi",
+      "https://www.onmanorama.com/food/features/2018/10/20/in-haryana-they-love-home-made-delicacies.html"
+    ]
+  }
+]

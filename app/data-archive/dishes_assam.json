@@ -1,0 +1,865 @@
+[
+  {
+    "id": "assam-masor-tenga",
+    "name": "Masor Tenga",
+    "local_name": null,
+    "pronunciation": "MA-sor TEN-ga",
+    "category": "meal",
+    "state": "Assam",
+    "regions": [],
+    "description": "A light, sour fish curry and the signature dish of Assamese cuisine; 'tenga' means sour. Freshwater fish such as rohu or catla is cooked in a thin broth with minimal spice, soured with tomato, lemon, thekera (dried mangosteen) or elephant apple. It is a warm-weather dish said to aid digestion.",
+    "how_to_eat": "Pour it over steamed rice at lunch or dinner.",
+    "how_to_order": "Ask for 'masor tenga' at any Assamese restaurant in Guwahati; the fish of the day varies.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Assamese_cuisine",
+      "https://www.incredibleindia.gov.in/en/assam/guwahati/11-traditional-dishes-of-assam-you-must-try-in-guwahati",
+      "https://blog.swiggy.com/food/famous-cuisine-of-assam/"
+    ]
+  },
+  {
+    "id": "assam-khar",
+    "name": "Khar",
+    "local_name": null,
+    "pronunciation": "KHAAR",
+    "category": "meal",
+    "state": "Assam",
+    "regions": [],
+    "description": "An alkaline dish named after its key ingredient, khar, a liquid made by filtering water through the ash of sun-dried banana peel or stem. The classic version cooks raw papaya and pulses in it, giving a smoky, slightly bitter taste. A traditional Assamese meal usually begins with khar as a palate cleanser.",
+    "how_to_eat": "Mix a little with rice as the first course of the meal.",
+    "how_to_order": "Ask for 'khar' as part of an Assamese thali; it comes first.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Assamese_cuisine",
+      "https://www.incredibleindia.gov.in/en/assam/guwahati/11-traditional-dishes-of-assam-you-must-try-in-guwahati",
+      "https://blog.swiggy.com/food/famous-cuisine-of-assam/"
+    ]
+  },
+  {
+    "id": "assam-aloo-pitika",
+    "name": "Aloo Pitika",
+    "local_name": "আলু পিটিকা",
+    "pronunciation": "AA-lu PI-ti-ka",
+    "category": "meal",
+    "state": "Assam",
+    "regions": [],
+    "description": "Mashed potato mixed with raw mustard oil, chopped onion, green chilli and salt, sometimes with boiled egg. It is the best-known pitika, a family of Assamese mashes that also includes roasted eggplant, tomato and fish. Simple comfort food found in almost every household.",
+    "how_to_eat": "Eat a spoonful with rice alongside dal or a curry.",
+    "how_to_order": "Comes as a side in most Assamese thalis; ask for 'aloo pitika'.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Assamese_cuisine",
+      "https://www.incredibleindia.gov.in/en/assam/guwahati/11-traditional-dishes-of-assam-you-must-try-in-guwahati",
+      "https://blog.swiggy.com/food/famous-cuisine-of-assam/"
+    ]
+  },
+  {
+    "id": "assam-haanh-mangxo",
+    "name": "Duck Curry (Haanh Mangxo)",
+    "local_name": null,
+    "pronunciation": "HAANH MAANG-xo",
+    "category": "meal",
+    "state": "Assam",
+    "regions": [],
+    "description": "A rich, spiced duck curry, most popularly cooked with joha kumura (a kind of ash gourd), ginger, garlic, green chilli and black pepper. It is a winter feast dish and a highlight of Uruka, the night before Magh Bihu.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Ask for 'haanh mangxo' or duck curry with ash gourd at Assamese restaurants, mainly in winter.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Assamese_cuisine",
+      "https://www.incredibleindia.gov.in/en/assam/guwahati/11-traditional-dishes-of-assam-you-must-try-in-guwahati",
+      "https://blog.swiggy.com/food/famous-cuisine-of-assam/"
+    ]
+  },
+  {
+    "id": "assam-paro-mangxo",
+    "name": "Pigeon Curry (Paror Mangxo)",
+    "local_name": null,
+    "pronunciation": "PA-ror MAANG-xo",
+    "category": "meal",
+    "state": "Assam",
+    "regions": [],
+    "description": "Pigeon meat curry, a delicacy not eaten by everyone in Assam. It is traditionally paired with koldil (finely chopped banana flower) or papaya and is eaten in the colder months for its warming quality.",
+    "how_to_eat": "Eat as a curry with rice.",
+    "how_to_order": "Ask for 'paro mangxo' (pigeon curry), usually with banana flower, at specialist Assamese restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Assamese_cuisine",
+      "https://www.incredibleindia.gov.in/en/assam/guwahati/11-traditional-dishes-of-assam-you-must-try-in-guwahati"
+    ]
+  },
+  {
+    "id": "assam-pork-bamboo-shoot",
+    "name": "Pork with Bamboo Shoot",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Assam",
+    "regions": [],
+    "description": "Pork cooked with bamboo shoot and black lentils (urad dal) with local herbs and spices. Bamboo shoot, fresh or fermented, is one of the most characteristic sour-bitter flavours of Assamese and tribal cooking.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Ask for pork with bamboo shoot (often with 'matimah', black lentil) at Assamese restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/assam/guwahati/11-traditional-dishes-of-assam-you-must-try-in-guwahati",
+      "https://en.wikipedia.org/wiki/Assamese_cuisine"
+    ]
+  },
+  {
+    "id": "assam-lai-xaak-gahori",
+    "name": "Pork with Mustard Greens (Lai Xaak Gahori)",
+    "local_name": null,
+    "pronunciation": "LAI XAAK GA-ho-ri",
+    "category": "meal",
+    "state": "Assam",
+    "regions": [],
+    "description": "Pork cooked with lai xaak (mustard greens), ginger, garlic and chilli, traditionally without oil. It is either simmered with the greens or stir-fried.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": "Ask for 'lai xaak diya gahori' at Assamese restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/assam/guwahati/11-traditional-dishes-of-assam-you-must-try-in-guwahati"
+    ]
+  },
+  {
+    "id": "assam-patot-diya-maas",
+    "name": "Patot Diya Maas",
+    "local_name": null,
+    "pronunciation": "PA-tot DI-ya MAAS",
+    "category": "meal",
+    "state": "Assam",
+    "regions": [],
+    "description": "Small fresh river fish mixed with coriander or sawtooth coriander, onion, chilli, salt and mustard oil, wrapped in banana or turmeric leaves and steamed or roasted. The leaf keeps the fish moist and adds aroma.",
+    "how_to_eat": "Unwrap the leaf parcel at the table and eat the fish with rice.",
+    "how_to_order": "Ask for 'patot diya maas' (fish in banana leaf) at Assamese restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/assam/guwahati/11-traditional-dishes-of-assam-you-must-try-in-guwahati",
+      "https://en.wikipedia.org/wiki/Assamese_cuisine"
+    ]
+  },
+  {
+    "id": "assam-poita-bhat",
+    "name": "Poita Bhat",
+    "local_name": null,
+    "pronunciation": "POI-ta BHAAT",
+    "category": "meal",
+    "state": "Assam",
+    "regions": [],
+    "description": "Cooked rice left to soak and ferment overnight in water, then served cold. It is a summer favourite eaten to cool the body in the heat and humidity, with mustard oil, onion, green chilli, pickles and pitika.",
+    "how_to_eat": "Squeeze in raw mustard oil and salt, and eat with mashed potato or roasted fish.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Assamese_cuisine",
+      "https://blog.swiggy.com/food/famous-cuisine-of-assam/"
+    ]
+  },
+  {
+    "id": "assam-doi-chira",
+    "name": "Doi Chira",
+    "local_name": null,
+    "pronunciation": "DOI CHI-ra",
+    "category": "snack",
+    "state": "Assam",
+    "regions": [],
+    "description": "Flattened rice (chira) soaked and eaten with curd (doi) and jaggery, the most popular form of jolpan, the traditional Assamese breakfast. It is traditionally served in bell-metal bowls and goes with pitha during Bihu.",
+    "how_to_eat": "Mix chira, curd and jaggery in the bowl and eat with a spoon.",
+    "how_to_order": "Ask for a 'jolpan' or 'doi chira' plate at Assamese restaurants, especially around Bihu.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jolpan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jolpan",
+      "https://www.incredibleindia.gov.in/en/assam/guwahati/11-traditional-dishes-of-assam-you-must-try-in-guwahati",
+      "https://en.wikipedia.org/wiki/Assamese_cuisine"
+    ]
+  },
+  {
+    "id": "assam-bora-saul",
+    "name": "Bora Saul with Curd",
+    "local_name": "বৰা চাউল",
+    "pronunciation": "BO-ra SAUL",
+    "category": "snack",
+    "state": "Assam",
+    "regions": [],
+    "description": "Bora saul is Assam's glutinous (sticky) rice. Boiled, it is served as jolpan with curd or milk and jaggery or sugar, especially in northern Assam and at Bihu; it is also the base of most pithas.",
+    "how_to_eat": "Eat warm with curd and jaggery.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bora_saul",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bora_saul",
+      "https://en.wikipedia.org/wiki/Jolpan"
+    ]
+  },
+  {
+    "id": "assam-komal-saul",
+    "name": "Komal Saul",
+    "local_name": "কোমল চাউল",
+    "pronunciation": "KO-mol SAUL",
+    "category": "snack",
+    "state": "Assam",
+    "regions": [],
+    "description": "A rice that needs no cooking: precooked, dried and husked, it softens after a short soak in warm water. It is eaten as a light jolpan with milk, curd and jaggery.",
+    "how_to_eat": "Soak in warm water, drain and eat with curd and jaggery.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jolpan",
+      "https://en.wikipedia.org/wiki/Assamese_cuisine"
+    ]
+  },
+  {
+    "id": "assam-xandoh-guri",
+    "name": "Xandoh Guri",
+    "local_name": "সান্দহ গুৰি",
+    "pronunciation": "XAN-doh GU-ri",
+    "category": "snack",
+    "state": "Assam",
+    "regions": [],
+    "description": "A jolpan powder made from bora saul that is soaked for days, fried, pounded in a dheki (foot-operated mortar), sifted and roasted in hot sand. It is eaten moistened with curd or hot milk and sweetened with jaggery or sugar.",
+    "how_to_eat": "Mix with hot milk or curd and jaggery.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jolpan",
+      "https://en.wikipedia.org/wiki/Assamese_cuisine"
+    ]
+  },
+  {
+    "id": "assam-sunga-pitha",
+    "name": "Sunga Pitha",
+    "local_name": null,
+    "pronunciation": "SU-nga PI-tha",
+    "category": "pitha",
+    "state": "Assam",
+    "regions": [],
+    "description": "Sticky rice, sometimes with milk, sugar and coconut, stuffed into a tube of young bamboo, sealed with banana leaf and slowly roasted over fire. A traditional delicacy of Magh (Bhogali) Bihu.",
+    "how_to_eat": "Split the bamboo, take out the rice roll and eat with curd, hot milk or sugar.",
+    "how_to_order": "Look for it around Magh (Bhogali) Bihu in January.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sunga_pitha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sunga_pitha",
+      "https://en.wikipedia.org/wiki/Jolpan",
+      "https://en.wikipedia.org/wiki/Assamese_cuisine"
+    ]
+  },
+  {
+    "id": "assam-til-pitha",
+    "name": "Til Pitha",
+    "local_name": null,
+    "pronunciation": "TIL PI-tha",
+    "category": "pitha",
+    "state": "Assam",
+    "regions": [],
+    "description": "The signature Bihu pitha: a thin sheet of soaked and ground sticky rice flour cooked on a griddle and rolled around a filling of sesame (til) and jaggery. Pithas are made mainly for Bihu and other occasions.",
+    "how_to_eat": "Eat as is with a cup of tea.",
+    "how_to_order": "Ask for 'til pitha'; most widely available around Bihu.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Assamese_cuisine",
+      "https://en.wikipedia.org/wiki/Jolpan",
+      "https://www.incredibleindia.gov.in/en/assam/guwahati/11-traditional-dishes-of-assam-you-must-try-in-guwahati"
+    ]
+  },
+  {
+    "id": "assam-ghila-pitha",
+    "name": "Ghila Pitha",
+    "local_name": null,
+    "pronunciation": "GHI-la PI-tha",
+    "category": "pitha",
+    "state": "Assam",
+    "regions": [],
+    "description": "A fried pitha of rice flour (bora or ordinary rice) and jaggery paste, named for its kneecap-like shape. A salted version replaces jaggery with salt.",
+    "how_to_eat": "Eat warm with tea.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jolpan",
+      "https://en.wikipedia.org/wiki/Assamese_cuisine"
+    ]
+  },
+  {
+    "id": "assam-tekeli-pitha",
+    "name": "Tekeli Pitha",
+    "local_name": null,
+    "pronunciation": "TE-ke-li PI-tha",
+    "category": "pitha",
+    "state": "Assam",
+    "regions": [],
+    "description": "Rice flour mixed with coconut, sugar, powdered milk and sometimes cardamom or dried orange rind, steamed over the mouth of an earthenware pitcher (tekeli). The same cake made in a kettle is called ketli pitha.",
+    "how_to_eat": "Eat with tea.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jolpan",
+      "https://en.wikipedia.org/wiki/Assamese_cuisine"
+    ]
+  },
+  {
+    "id": "assam-kol-pitha",
+    "name": "Kol Pitha",
+    "local_name": null,
+    "pronunciation": "KOL PI-tha",
+    "category": "pitha",
+    "state": "Assam",
+    "regions": [],
+    "description": "A sweet pitha of ripe banana (kol), rice flour and jaggery, steamed or fried. It is soft and chewy and often made at Bihu.",
+    "how_to_eat": "Eat as a snack with tea.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://blog.swiggy.com/food/famous-cuisine-of-assam/"
+    ]
+  },
+  {
+    "id": "assam-narikolor-laru",
+    "name": "Narikolor Laru",
+    "local_name": null,
+    "pronunciation": "NA-ri-ko-lor LA-ru",
+    "category": "sweet",
+    "state": "Assam",
+    "regions": [],
+    "description": "Small balls of grated mature coconut fried and caramelised with sugar. Laru are the sweets of the Bihu season and are offered to guests with tea.",
+    "how_to_eat": "Eat one or two with tea.",
+    "how_to_order": "Ask for 'narikol laru' at sweet shops, mostly around Bihu.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jolpan",
+      "https://en.wikipedia.org/wiki/Assamese_cuisine"
+    ]
+  },
+  {
+    "id": "assam-tilor-laru",
+    "name": "Tilor Laru",
+    "local_name": null,
+    "pronunciation": "TI-lor LA-ru",
+    "category": "sweet",
+    "state": "Assam",
+    "regions": [],
+    "description": "A sesame candy: fried sesame seeds bound with melted jaggery and rolled into balls. A standard Bihu-season sweet.",
+    "how_to_eat": "Eat with tea.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jolpan",
+      "https://en.wikipedia.org/wiki/Assamese_cuisine"
+    ]
+  },
+  {
+    "id": "assam-ou-khatta",
+    "name": "Ou Khatta",
+    "local_name": null,
+    "pronunciation": "OU KHAT-ta",
+    "category": "meal",
+    "state": "Assam",
+    "regions": [],
+    "description": "A sweet-and-sour chutney of elephant apple (ou) cooked with jaggery. It is served as an accompaniment to rice and curries.",
+    "how_to_eat": "Eat a little with rice at the end of the meal.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/assam/guwahati/11-traditional-dishes-of-assam-you-must-try-in-guwahati",
+      "https://en.wikipedia.org/wiki/Assamese_cuisine"
+    ]
+  },
+  {
+    "id": "assam-khorisa-tenga",
+    "name": "Khorisa Tenga",
+    "local_name": null,
+    "pronunciation": "KHO-ri-xa TEN-ga",
+    "category": "meal",
+    "state": "Assam",
+    "regions": [],
+    "description": "A sour mash of fermented bamboo shoot (khorisa). Fermented bamboo shoot is also used to sour fish and pork dishes across Assam.",
+    "how_to_eat": "Eat a small amount with rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Assamese_cuisine"
+    ]
+  },
+  {
+    "id": "assam-bor",
+    "name": "Bor",
+    "local_name": null,
+    "pronunciation": "BOR",
+    "category": "snack",
+    "state": "Assam",
+    "regions": [],
+    "description": "Fried balls of mashed lentil or gram, similar to vada. They are often served in a tamarind (teteli) curry.",
+    "how_to_eat": "Eat with rice or on their own while hot.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Assamese_cuisine"
+    ]
+  },
+  {
+    "id": "assam-hukoti",
+    "name": "Hukoti",
+    "local_name": null,
+    "pronunciation": "HU-ko-ti",
+    "category": "meal",
+    "state": "Assam",
+    "regions": [],
+    "description": "Small dried fish pounded with arum stem and stored packed in bamboo tubes. It is a traditional preserved food with a strong flavour.",
+    "how_to_eat": "Eat a little as a relish with rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Assamese_cuisine"
+    ]
+  },
+  {
+    "id": "assam-laal-saah",
+    "name": "Laal Saah (Red Tea)",
+    "local_name": null,
+    "pronunciation": "LAAL SAAH",
+    "category": "drink",
+    "state": "Assam",
+    "regions": [],
+    "description": "Black Assam tea served without milk, the everyday drink of the state. Tea is almost always served with jolpan and pitha, also as milk tea, lemon tea or spiced tea.",
+    "how_to_eat": "Drink hot with pitha or laru.",
+    "how_to_order": "Ask for 'laal saah' at any tea stall.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Assam_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Assamese_cuisine",
+      "https://en.wikipedia.org/wiki/Jolpan",
+      "https://en.wikipedia.org/wiki/Assam_tea"
+    ]
+  },
+  {
+    "id": "assam-xaj-laopani",
+    "name": "Xaj (Laopani)",
+    "local_name": null,
+    "pronunciation": "XAAJ",
+    "category": "drink",
+    "state": "Assam",
+    "regions": [],
+    "description": "Assamese rice beer, served in traditional utensils. Most communities brew their own: zou (Bodo), apong (Mishing), haj (Tiwa), hor (Karbi) and nam-lao (Tai-Ahom).",
+    "how_to_eat": "Sip from the traditional cup it is served in.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Assamese_cuisine"
+    ]
+  },
+  {
+    "id": "assam-judima",
+    "name": "Judima",
+    "local_name": null,
+    "pronunciation": "ju-DI-ma",
+    "category": "drink",
+    "state": "Assam",
+    "regions": [
+      "Dima Hasao"
+    ],
+    "description": "A rice wine of the Dimasa people made from glutinous bora rice fermented with humao, a starter cake containing the bark of thembra, a herb local to Dima Hasao district. It is pale yellow or reddish and used ritually at births, marriages and deaths; it received a GI tag in 2021.",
+    "how_to_eat": "Sip slowly; it is served at Dimasa celebrations and rituals.",
+    "how_to_order": "Look for it in Dima Hasao (Haflong); a distilled version is called juharo.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Judima",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Judima"
+    ]
+  },
+  {
+    "id": "assam-apong",
+    "name": "Apong",
+    "local_name": null,
+    "pronunciation": "A-pong",
+    "category": "drink",
+    "state": "Assam",
+    "regions": [],
+    "description": "A rice beer of the Mishing and other Tani peoples, brewed at home; the two traditional types are nogin apong and poro apong. It is served at festivals and ceremonies.",
+    "how_to_eat": "Drink from a bamboo or traditional cup at festivals.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Apo_(drink)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Apo_(drink)",
+      "https://en.wikipedia.org/wiki/Assamese_cuisine"
+    ]
+  },
+  {
+    "id": "assam-bodo-napham",
+    "name": "Bodo Napham",
+    "local_name": null,
+    "pronunciation": "NA-pham",
+    "category": "meal",
+    "state": "Assam",
+    "regions": [
+      "Kokrajhar",
+      "Bodoland"
+    ],
+    "description": "Fermented fish of the Bodo people: smoke-dried fish pounded with taro stem or leaves and sealed in a bamboo cylinder to ferment anaerobically for about two to three months. It is kept like a chutney to eat with rice and dal later in the year, and got a GI tag in 2024.",
+    "how_to_eat": "Eat a little fried or as is with rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Napham",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Napham",
+      "https://sentinelassam.com/topheadlines/assam-bodo-aronai-food-items-and-beverages-granted-gi-tag",
+      "https://pwonlyias.com/current-affairs/gi-tag-for-bodo-products/"
+    ]
+  },
+  {
+    "id": "assam-bodo-ondla",
+    "name": "Bodo Ondla",
+    "local_name": null,
+    "pronunciation": "ON-dla",
+    "category": "meal",
+    "state": "Assam",
+    "regions": [
+      "Kokrajhar",
+      "Bodoland"
+    ],
+    "description": "A Bodo curry made from rice powder flavoured with garlic, ginger, salt and alkali (khar). It is considered a complete meal in itself, and got a GI tag in 2024.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://sentinelassam.com/topheadlines/assam-bodo-aronai-food-items-and-beverages-granted-gi-tag",
+      "https://pwonlyias.com/current-affairs/gi-tag-for-bodo-products/",
+      "https://en.wikipedia.org/wiki/Assamese_cuisine"
+    ]
+  },
+  {
+    "id": "assam-bodo-narzi",
+    "name": "Bodo Narzi",
+    "local_name": null,
+    "pronunciation": "NAR-zi",
+    "category": "meal",
+    "state": "Assam",
+    "regions": [
+      "Kokrajhar",
+      "Bodoland"
+    ],
+    "description": "A semi-fermented Bodo dish made with jute leaves, rich in omega-3 fatty acids. It received a GI tag in 2024.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://sentinelassam.com/topheadlines/assam-bodo-aronai-food-items-and-beverages-granted-gi-tag",
+      "https://pwonlyias.com/current-affairs/gi-tag-for-bodo-products/"
+    ]
+  },
+  {
+    "id": "assam-bodo-jou-gwran",
+    "name": "Bodo Jou Gwran",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "state": "Assam",
+    "regions": [
+      "Kokrajhar",
+      "Bodoland"
+    ],
+    "description": "A Bodo rice beer with the highest alcohol content (about 16%) among Bodo rice beers. It received a GI tag in 2024.",
+    "how_to_eat": "Sip slowly; it is strong.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://sentinelassam.com/topheadlines/assam-bodo-aronai-food-items-and-beverages-granted-gi-tag",
+      "https://pwonlyias.com/current-affairs/gi-tag-for-bodo-products/"
+    ]
+  },
+  {
+    "id": "assam-maibra-jou-bidwi",
+    "name": "Maibra Jou Bidwi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "state": "Assam",
+    "regions": [
+      "Kokrajhar",
+      "Bodoland"
+    ],
+    "description": "A revered Bodo rice beer served as a welcome drink by most Bodo families. It received a GI tag in 2024.",
+    "how_to_eat": "Accept it as the welcome drink when visiting a Bodo home.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://sentinelassam.com/topheadlines/assam-bodo-aronai-food-items-and-beverages-granted-gi-tag",
+      "https://pwonlyias.com/current-affairs/gi-tag-for-bodo-products/"
+    ]
+  },
+  {
+    "id": "assam-bodo-jou-gishi",
+    "name": "Bodo Jou Gishi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "state": "Assam",
+    "regions": [
+      "Kokrajhar",
+      "Bodoland"
+    ],
+    "description": "A traditional fermented alcoholic drink of the Bodo made from rice. It received a GI tag in 2024.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://sentinelassam.com/topheadlines/assam-bodo-aronai-food-items-and-beverages-granted-gi-tag",
+      "https://pwonlyias.com/current-affairs/gi-tag-for-bodo-products/"
+    ]
+  }
+]

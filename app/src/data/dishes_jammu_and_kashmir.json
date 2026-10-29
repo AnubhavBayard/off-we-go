@@ -1,0 +1,295 @@
+[
+  {
+    "id": "jammu_and_kashmir-wazwan",
+    "name": "Wazwan",
+    "local_name": "وازٕوان",
+    "pronunciation": "waz-WAAN",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "A multi-course Kashmiri feast cooked by master chefs called waze for weddings and occasions like Eid. Almost all courses are meat-based (mainly lamb or mutton) and include dishes such as methi maaz, tabak maaz, rista, rogan josh and goshtaba, with a few vegetable dishes. It is the centrepiece of Kashmiri celebratory food.",
+    "how_to_eat": "Guests sit in groups of four and share the courses from one large copper platter called a trami.",
+    "how_to_order": "Mostly served at weddings and functions; some Srinagar restaurants serve a smaller wazwan platter, so ask for a 'wazwan thali'.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wazwan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wazwan",
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
+      "https://www.jktdc.co.in/info.aspx?id=137"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-rogan-josh",
+    "name": "Rogan Josh",
+    "local_name": null,
+    "pronunciation": "ROH-gun JOSH",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "An aromatic red mutton or goat curry from the Mughal era and one of the main dishes of the wazwan. Its colour comes from alkanet (ratanjot) or cockscomb flower and Kashmiri chillies, not tomatoes. Kashmiri Pandit versions use asafoetida and curd, while Muslim versions use onion and garlic.",
+    "how_to_eat": "Eat with steamed rice or naan.",
+    "how_to_order": "Ask for 'mutton rogan josh' at any Kashmiri restaurant or as part of a wazwan.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rogan_josh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rogan_josh",
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
+      "https://blog.swiggy.com/food/famous-kashmiri-cuisine/"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-rista",
+    "name": "Rista",
+    "local_name": null,
+    "pronunciation": "RIS-ta",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Kashmiri meatballs of freshly pounded mutton, mixed with spices and egg, poached and then simmered in a fiery red gravy coloured with saffron and alkanet. It is an important course of the wazwan and is rarely found outside the valley.",
+    "how_to_eat": "Eat with rice, breaking the meatball into the red gravy.",
+    "how_to_order": "Order 'rista' at Kashmiri restaurants or as part of a wazwan.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Riste_(dish)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Riste_(dish)",
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
+      "https://mahabahu.com/traditional-cuisines-of-jammu-and-kashmir/"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-goshtaba",
+    "name": "Goshtaba",
+    "local_name": null,
+    "pronunciation": "gosh-TAA-ba",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Large meatballs of finely beaten mutton cooked in a white yogurt gravy (yakhin), often called the 'king of wazwan'. It is traditionally the last main course of the wazwan and is made for important rituals.",
+    "how_to_eat": "Eat with rice; it is served at the end of the meal.",
+    "how_to_order": "Ask for 'goshtaba' at Kashmiri restaurants or as the closing course of a wazwan.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Goshtaab",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Goshtaab",
+      "https://en.wikipedia.org/wiki/Wazwan",
+      "https://blog.swiggy.com/food/famous-kashmiri-cuisine/",
+      "https://mahabahu.com/traditional-cuisines-of-jammu-and-kashmir/"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-tabak-maaz",
+    "name": "Tabak Maaz",
+    "local_name": null,
+    "pronunciation": "TA-bak MAAZ",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Lamb ribs simmered in milk and spices until tender and then fried in ghee until crisp. Also called qabargah, it is served at festivals and as part of the wazwan.",
+    "how_to_eat": "Eat with your hands as a starter, pulling the meat off the rib.",
+    "how_to_order": "Ask for 'tabak maaz' or 'kabargah' at Kashmiri restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tabak_maaz",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tabak_maaz",
+      "https://en.wikipedia.org/wiki/Wazwan",
+      "https://mahabahu.com/traditional-cuisines-of-jammu-and-kashmir/"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-kashmiri-yakhni",
+    "name": "Kashmiri Yakhni",
+    "local_name": null,
+    "pronunciation": "YAKH-nee",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "A mild, creamy curry of lamb (or chicken) in a yogurt gravy flavoured with fennel, cloves and cardamom, without tomatoes. Yakhin gravy is a base of several wazwan dishes.",
+    "how_to_eat": "Eat with plain steamed rice.",
+    "how_to_order": "Ask for 'mutton yakhni' at Kashmiri restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://blog.swiggy.com/food/famous-kashmiri-cuisine/",
+      "https://en.wikipedia.org/wiki/Wazwan"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-kashmiri-dum-aloo",
+    "name": "Kashmiri Dum Aloo",
+    "local_name": "دَمہٕ اولَو",
+    "pronunciation": "dum OH-lav",
+    "category": "meal",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Small potatoes fried and slow-cooked in a spiced yogurt gravy coloured with Kashmiri chilli. Known as dum olav in Kashmiri, it is also served in the wazwan as dum aelve.",
+    "how_to_eat": "Eat with rice or naan.",
+    "how_to_order": "Ask for 'Kashmiri dum aloo' at Kashmiri restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dum_aloo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dum_aloo",
+      "https://en.wikipedia.org/wiki/Wazwan",
+      "https://mahabahu.com/traditional-cuisines-of-jammu-and-kashmir/"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-kalari-kulcha",
+    "name": "Kalari Kulcha",
+    "local_name": null,
+    "pronunciation": "ka-LAA-ree KUL-cha",
+    "category": "street_food",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Udhampur",
+      "Jammu"
+    ],
+    "description": "Kalari (kaladi) is a dense cheese of full-fat cow's or buffalo milk developed by the Dogras of Ramnagar, Udhampur, sautéed in its own fat until brown outside and gooey inside. As a street food it is pressed into kulcha bread with chilli and chutney. Udhampur Kaladi received a GI tag in 2023.",
+    "how_to_eat": "Eat hot, straight off the pan, with the kulcha and chutney.",
+    "how_to_order": "Ask street stalls in Jammu or Udhampur for 'kalari kulcha'.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kalari_cheese",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kalari_cheese",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "https://mahabahu.com/traditional-cuisines-of-jammu-and-kashmir/",
+      "https://kashmirlife.net/basohli-pashmina-udhampurs-kaladi-get-gi-tag-329449/"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-kahwa",
+    "name": "Kahwa",
+    "local_name": null,
+    "pronunciation": "KAH-wa",
+    "category": "drink",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Kashmiri green tea brewed with saffron, cardamom and cinnamon and served with almond or walnut slivers, traditionally made in a samovar. It is drunk through the day and offered to guests.",
+    "how_to_eat": "Sip it hot, especially after a heavy meal.",
+    "how_to_order": "Ask for 'kahwa' at any tea stall, hotel or houseboat.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kahwah",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kahwah",
+      "https://blog.swiggy.com/food/famous-kashmiri-cuisine/",
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine"
+    ]
+  },
+  {
+    "id": "jammu_and_kashmir-noon-chai",
+    "name": "Noon Chai",
+    "local_name": null,
+    "pronunciation": "NOON chai",
+    "category": "drink",
+    "state": "Jammu and Kashmir",
+    "regions": [
+      "Kashmir Valley"
+    ],
+    "description": "Kashmir's pink salted tea, made from gunpowder green tea boiled with baking soda, milk and salt. Kashmiri Muslims call it noon chai and Kashmiri Hindus sheer chai; it is often topped with nuts or malai.",
+    "how_to_eat": "Drink hot with girda or bakarkhani bread at breakfast or tea-time.",
+    "how_to_order": "Ask for 'noon chai' or 'pink tea' at any Kashmiri tea stall or restaurant.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Noon_chai",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Noon_chai",
+      "https://en.wikipedia.org/wiki/Kashmiri_cuisine"
+    ]
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "id": "manipur-eromba",
+    "name": "Eromba",
+    "local_name": null,
+    "pronunciation": "EE-rom-ba",
+    "category": "meal",
+    "state": "Manipur",
+    "regions": [
+      "Imphal"
+    ],
+    "description": "Boiled vegetables such as potato, stink bean and greens mashed with chillies (often king chilli), roasted ngari (fermented fish) and herbs. Made with no oil, it is a staple of almost every Meitei meal.",
+    "how_to_eat": "Eat a little with rice and fresh herbs; it is pungent and hot.",
+    "how_to_order": "Ask for 'eromba' as part of a Manipuri thali in Imphal.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eromba",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Eromba",
+      "https://en.wikipedia.org/wiki/Manipuri_cuisine",
+      "https://outlookindia.com/traveller/cuisine/explore-versatile-world-manipuri-cuisine",
+      "https://curlytales.com/?p=463633"
+    ]
+  },
+  {
+    "id": "manipur-singju",
+    "name": "Singju",
+    "local_name": "ꯁꯤꯡꯖꯨ",
+    "pronunciation": "sing-zoo",
+    "category": "snack",
+    "state": "Manipur",
+    "regions": [
+      "Imphal"
+    ],
+    "description": "A salad of finely cut raw vegetables such as cabbage, lotus stem, banana flower and stink bean with herbs, dressed with roasted ngari and chilli, or with roasted perilla seed and gram flour in the vegetarian version. It is a spicy side dish and a popular afternoon snack.",
+    "how_to_eat": "Eat it fresh as an evening snack or as a side with a meal.",
+    "how_to_order": "Ask for 'singju' at roadside stalls in Imphal; ask for the thoiding-besan version if you want it without fish.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Singju",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Singju",
+      "https://en.wikipedia.org/wiki/Manipuri_cuisine",
+      "https://outlookindia.com/traveller/cuisine/explore-versatile-world-manipuri-cuisine"
+    ]
+  },
+  {
+    "id": "manipur-kangshoi",
+    "name": "Kangshoi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Manipur",
+    "regions": [],
+    "description": "Also called chamthong, a light soupy stew of seasonal vegetables with onion, ginger, maroi (local allium), ngari and dried or fried fish. It is cooked with little or no oil.",
+    "how_to_eat": "Eat it with rice as the soupy part of the meal.",
+    "how_to_order": "Ask for 'kangshoi' or 'chamthong' with a Manipuri thali.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chamthong",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chamthong",
+      "https://en.wikipedia.org/wiki/Manipuri_cuisine",
+      "https://outlookindia.com/traveller/cuisine/explore-versatile-world-manipuri-cuisine",
+      "https://curlytales.com/?p=463633"
+    ]
+  },
+  {
+    "id": "manipur-nga-thongba",
+    "name": "Nga Thongba",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Manipur",
+    "regions": [],
+    "description": "Manipuri fish curry, often with the fish fried first (nga ataoba thongba). Fish is the main protein of Meitei cooking.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Ask for 'nga thongba' at any Manipuri eatery.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nga_thongba",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nga_thongba",
+      "https://en.wikipedia.org/wiki/Manipuri_cuisine",
+      "https://outlookindia.com/traveller/cuisine/explore-versatile-world-manipuri-cuisine",
+      "https://lukthel.com/blog/15/exploring-the-culinary-delights-of-manipuri-cuisine"
+    ]
+  },
+  {
+    "id": "manipur-morok-metpa",
+    "name": "Morok Metpa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Manipur",
+    "regions": [],
+    "description": "A chutney of roasted green or dry red chillies with onion, coriander, salt and roasted ngari. Rongmei Nagas add a fermented mustard leaf paste.",
+    "how_to_eat": "Take a little with each mouthful of rice.",
+    "how_to_order": "Ask for 'morok metpa'; it comes with most Manipuri meals.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Manipuri_cuisine",
+      "https://en.wikipedia.org/wiki/Meitei_cuisine",
+      "https://outlookindia.com/traveller/cuisine/explore-versatile-world-manipuri-cuisine",
+      "https://curlytales.com/?p=463633"
+    ]
+  },
+  {
+    "id": "manipur-paaknam",
+    "name": "Paaknam",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Manipur",
+    "regions": [],
+    "description": "A savoury cake of gram (pea) flour mixed with herbs, chilli and ngari, wrapped in turmeric and banana leaves and baked or steamed, then roasted.",
+    "how_to_eat": "Unwrap and eat in slices with rice.",
+    "how_to_order": "Ask for 'paaknam' at Manipuri eateries in Imphal.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Manipuri_cuisine",
+      "https://curlytales.com/?p=463633"
+    ]
+  },
+  {
+    "id": "manipur-kabok",
+    "name": "Kabok",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "state": "Manipur",
+    "regions": [],
+    "description": "A Meitei snack of puffed and roasted rice bound with molasses, with flavours like honey and sugarcane.",
+    "how_to_eat": "Eat by hand as a snack.",
+    "how_to_order": "Buy 'kabok' at Imphal markets.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kabok",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kabok",
+      "https://en.wikipedia.org/wiki/Manipuri_cuisine"
+    ]
+  },
+  {
+    "id": "manipur-chak-hao-kheer",
+    "name": "Chak-hao Kheer",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "state": "Manipur",
+    "regions": [],
+    "description": "A pudding of Chak-Hao, Manipur's purple-black aromatic rice, cooked with milk and sweetened, often with jaggery or honey. It is served at festivals and ceremonies; the Chak-Hao rice itself got a GI tag in 2020.",
+    "how_to_eat": "Eat warm or cold with a spoon.",
+    "how_to_order": "Ask for 'chak-hao kheer' at Manipuri restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chak-Hao_black_rice",
+      "https://outlookindia.com/traveller/cuisine/explore-versatile-world-manipuri-cuisine",
+      "https://curlytales.com/?p=463633",
+      "https://lukthel.com/blog/15/exploring-the-culinary-delights-of-manipuri-cuisine"
+    ]
+  }
+]

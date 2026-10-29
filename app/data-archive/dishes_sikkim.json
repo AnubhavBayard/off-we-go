@@ -1,0 +1,643 @@
+[
+  {
+    "id": "sikkim-momo",
+    "name": "Momo",
+    "local_name": null,
+    "pronunciation": "MO-mo",
+    "category": "street_food",
+    "state": "Sikkim",
+    "regions": [
+      "Gangtok"
+    ],
+    "description": "Steamed dumplings popular across the Himalayas, filled with minced meat (chicken, pork, beef) or vegetables such as cabbage or chayote, sometimes cheese. In Sikkim they are served with soup and a hot tomato or red chilli achar, and are the classic evening snack.",
+    "how_to_eat": "Dip each momo in the red chilli sauce; drink the soup alongside.",
+    "how_to_order": "Order a plate steamed or fried, choosing veg, cheese, chicken, pork or beef; MG Marg in Gangtok has many momo places.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Momo_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://en.wikipedia.org/wiki/Momo_(food)",
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-thukpa",
+    "name": "Thukpa",
+    "local_name": null,
+    "pronunciation": "THOOK-pa",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [
+      "Gangtok"
+    ],
+    "description": "A Tibetan noodle soup with vegetables or meat, served almost everywhere in Gangtok and the rest of Sikkim. Vegetable versions use carrot, bell pepper, cauliflower, spinach and celery; chicken is the most popular meat.",
+    "how_to_eat": "Eat hot as a full meal.",
+    "how_to_order": "Order veg, chicken or pork thukpa at any restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thukpa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thukpa",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-thenthuk",
+    "name": "Thenthuk",
+    "local_name": null,
+    "pronunciation": "THEN-thook",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [
+      "Gangtok"
+    ],
+    "description": "A hand-pulled noodle soup, a variety of thukpa, made with wheat-flour dough pieces, vegetables and mutton or other meat. It is mild but can be made spicy.",
+    "how_to_eat": "Eat hot as a main dish.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thenthuk",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thenthuk",
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html"
+    ]
+  },
+  {
+    "id": "sikkim-gya-kho",
+    "name": "Gya Kho",
+    "local_name": null,
+    "pronunciation": "GYA kho",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "A Tibetan hotpot soup also called chimney soup, because the bowl it is served in looks like a chimney. It is eaten as a starter or main dish, usually shared.",
+    "how_to_eat": "Share from the pot at the table.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html"
+    ]
+  },
+  {
+    "id": "sikkim-sha-phaley",
+    "name": "Sha Phaley",
+    "local_name": null,
+    "pronunciation": "SHA pha-LAY",
+    "category": "snack",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "Tibetan bread stuffed with seasoned meat (beef or mutton) and cabbage, shaped into semicircles and deep-fried or pan-fried. It is crisp outside and soft inside; vegetarian versions use cheese or tofu.",
+    "how_to_eat": "Eat hot with red chilli sauce.",
+    "how_to_order": "Order at Tibetan eateries; ask for meat or veg filling.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sha_phaley",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sha_phaley",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-sel-roti",
+    "name": "Sel Roti",
+    "local_name": "सेल रोटी",
+    "pronunciation": "SEL RO-ti",
+    "category": "snack",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "A ring-shaped sweet bread of rice-flour batter with sugar, ghee and spices, deep-fried. It is made especially for the Dashain and Tihar festivals in Sikkim's Nepali community.",
+    "how_to_eat": "Eat with potato curry or achar.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sel_roti",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sel_roti",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html"
+    ]
+  },
+  {
+    "id": "sikkim-gundruk",
+    "name": "Gundruk",
+    "local_name": "गुन्द्रुक",
+    "pronunciation": "GUN-druk",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "Fermented and sun-dried leafy greens (mustard, radish, cauliflower leaves), traditionally fermented in earthen pots. It is cooked into a sour soup, sometimes with minced meat, or made into a pickle.",
+    "how_to_eat": "Have the soup with rice.",
+    "how_to_order": "Ask for 'gundruk soup' or 'gundruk ko achar' at Nepali eateries.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gundruk",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gundruk",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-sinki",
+    "name": "Sinki",
+    "local_name": "सिन्की",
+    "pronunciation": "SIN-ki",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "Fermented radish taproot: sliced radish is packed into a bamboo-lined pit, covered and left about a month, then sun-dried and kept for years. It is used for soup and pickle.",
+    "how_to_eat": "Have as soup with rice or as a pickle.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sinki_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sinki_(food)",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-kinema",
+    "name": "Kinema",
+    "local_name": "किनेमा",
+    "pronunciation": "KI-ne-ma",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "Fermented soybeans, a traditional food of the Limbu and Kirat peoples. It is cooked into a thick, sticky curry, traditionally served as a soup with rice.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": "Ask for 'kinema curry' at Nepali eateries.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kinema",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kinema",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html"
+    ]
+  },
+  {
+    "id": "sikkim-phagshapa",
+    "name": "Phagshapa",
+    "local_name": null,
+    "pronunciation": "PHAG-sha-pa",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "Strips of pork fat stewed with radish and dried chillies, made without oil into a thick broth. It is eaten across communities in Sikkim.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-chhurpi",
+    "name": "Chhurpi",
+    "local_name": "छुर्पी",
+    "pronunciation": "CHHUR-pi",
+    "category": "snack",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "Himalayan cheese made from buttermilk, of cow or yak milk. Soft chhurpi is eaten as a side dish with rice, while the very hard version is chewed slowly like a sweet.",
+    "how_to_eat": "Chew hard chhurpi slowly; eat soft chhurpi with rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chhurpi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhurpi",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html"
+    ]
+  },
+  {
+    "id": "sikkim-chhurpi-soup",
+    "name": "Chhurpi Soup",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "A soft, white, sour soup of chhurpi cheese and vegetables, popular in the colder months and available in many restaurants.",
+    "how_to_eat": "Drink hot as a soup or evening snack.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html"
+    ]
+  },
+  {
+    "id": "sikkim-ningro-churpi",
+    "name": "Ningro with Churpi",
+    "local_name": null,
+    "pronunciation": "NING-ro CHUR-pi",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "Wild fern tendrils (ningro) sauteed with churpi cheese, a spring dish; a curry version adds bamboo shoot.",
+    "how_to_eat": "Eat with rice or bread.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://darjeeling-tourism.com/darj_0001eb.htm",
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html"
+    ]
+  },
+  {
+    "id": "sikkim-sishnu-soup",
+    "name": "Sishnu Soup",
+    "local_name": null,
+    "pronunciation": "SISH-nu",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "Soup of stinging-nettle leaves (sishnu), sometimes with minced meat, popular in spring and summer. It is served hot, sometimes with churpi added.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-dhindo",
+    "name": "Dhindo",
+    "local_name": "ढिँडो",
+    "pronunciation": "DHIN-do",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "A thick paste made by gradually stirring flour (millet, buckwheat, corn or wheat) into boiling water. A Nepali staple of Sikkim's mountain areas.",
+    "how_to_eat": "Roll into small balls and dip in soup, gundruk or chutney.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dhindo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dhindo",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html"
+    ]
+  },
+  {
+    "id": "sikkim-kodo-ko-roti",
+    "name": "Kodo ko Roti",
+    "local_name": null,
+    "pronunciation": "KO-do ko RO-ti",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "A pancake-like bread of finger millet (kodo) batter, sometimes sweetened with sugar and cooked with ghee. It is shared across Sikkim's communities.",
+    "how_to_eat": "Eat with tomato achar or other pickles.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-masaura",
+    "name": "Masaura Curry",
+    "local_name": "मस्यौरा",
+    "pronunciation": "ma-SAU-ra",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "Fermented, sun-dried balls of black lentil and minced vegetables such as taro or colocasia leaf, fried and cooked into a curry.",
+    "how_to_eat": "Eat with boiled rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Masaura",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Masaura",
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine"
+    ]
+  },
+  {
+    "id": "sikkim-wachipa",
+    "name": "Wachipa",
+    "local_name": null,
+    "pronunciation": "WA-chi-pa",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "A Rai dish of rice and minced chicken mixed with powder from burnt chicken feathers, which gives a bitter taste. It is eaten on special occasions such as the Sakewa festival and is rarely in restaurants.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wachipa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wachipa",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-tuk-tok",
+    "name": "Tuk-tok",
+    "local_name": null,
+    "pronunciation": "TUK-tok",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "A Lepcha rice porridge, vegetarian or with meat, eaten especially during the Losoong festival (Lepcha New Year, December-January).",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine"
+    ]
+  },
+  {
+    "id": "sikkim-mesu",
+    "name": "Mesu",
+    "local_name": null,
+    "pronunciation": "ME-su",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "Fermented bamboo shoot, made into a pickle with garlic, mustard oil and chilli powder.",
+    "how_to_eat": "Eat a little with rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://deccanchronicle.com/lifestyle/food-and-recipes/050922/famous-food-of-sikkim.html",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-dalle-achar",
+    "name": "Dalle Khursani Achar",
+    "local_name": null,
+    "pronunciation": "DAL-le khur-SA-ni",
+    "category": "meal",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "A very hot pickle of dalle, Sikkim's round red cherry chillies, with a fresh aroma.",
+    "how_to_eat": "Eat a tiny amount with bread or rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-tongba",
+    "name": "Tongba",
+    "local_name": null,
+    "pronunciation": "TONG-ba",
+    "category": "drink",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "Fermented millet in a bamboo vessel (also called tongba), topped up with warm water and sipped through a bamboo straw (pipsing). A traditional drink of the Limbu and Kirat peoples.",
+    "how_to_eat": "Keep adding warm water and sip through the bamboo straw.",
+    "how_to_order": "Ask for tongba at village homestays.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tongba",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tongba",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-chhaang",
+    "name": "Chhaang",
+    "local_name": "छ्याङ",
+    "pronunciation": "CHHAANG",
+    "category": "drink",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "A traditional Himalayan beer of fermented grain such as millet, rice, barley or maize, with ritual importance for many communities.",
+    "how_to_eat": "Drink warm with snacks such as meat fry.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chhaang",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhaang",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  },
+  {
+    "id": "sikkim-raksi",
+    "name": "Raksi",
+    "local_name": "रक्सी",
+    "pronunciation": "RAK-si",
+    "category": "drink",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "A clear distilled liquor made by distilling chhaang brewed from millet or rice. It is drunk at festivals, rituals and gatherings.",
+    "how_to_eat": "Sip neat in small amounts.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Raksi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Raksi",
+      "https://en.wikipedia.org/wiki/Sikkimese_cuisine"
+    ]
+  },
+  {
+    "id": "sikkim-butter-tea",
+    "name": "Butter Tea (Solja)",
+    "local_name": null,
+    "pronunciation": "SOL-ja",
+    "category": "drink",
+    "state": "Sikkim",
+    "regions": [],
+    "description": "Tea churned with butter and salt, called solja by the Bhutia, who serve it with their breads.",
+    "how_to_eat": "Sip hot with bread.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Butter_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Butter_tea",
+      "https://darjeeling-tourism.com/darj_0001eb.htm"
+    ]
+  }
+]

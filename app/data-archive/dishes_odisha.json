@@ -1,0 +1,1387 @@
+[
+  {
+    "id": "rasagola",
+    "name": "Odisha Rasagola",
+    "local_name": "ରସଗୋଲା",
+    "pronunciation": "ro-sho-GO-la",
+    "category": "sweet",
+    "state": "Odisha",
+    "regions": [
+      "puri",
+      "bhubaneswar",
+      "cuttack",
+      "odisha"
+    ],
+    "description": "Soft balls of chhena (fresh cheese) cooked in light sugar syrup until the syrup soaks through. Odisha's version, often with a slight orange tinge, is offered at the Puri Jagannath Temple and received its own GI tag as 'Odisha Rasagola' in 2019. The roadside stalls of Pahala, between Bhubaneswar and Cuttack, are famous for it.",
+    "how_to_eat": "Eat it at room temperature, squeezing gently with a spoon so you get both the spongy ball and the syrup.",
+    "how_to_order": "Ask for 'Pahala rasagola' at a Pahala roadside stall or any sweet shop, sold by the piece or in a tin.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rasgulla",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rasgulla",
+      "https://en.wikipedia.org/wiki/Geographical_indications_in_India",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/",
+      "https://inditales.com/vegetarian-street-food-of-odisha/",
+      "https://moha-mushkil.com/best-food-cuttack-odisha-pahala/"
+    ]
+  },
+  {
+    "id": "chhena-poda",
+    "name": "Chhena Poda",
+    "local_name": "ଛେନାପୋଡ଼",
+    "pronunciation": "CHHE-na PO-da",
+    "category": "sweet",
+    "state": "Odisha",
+    "regions": [
+      "odisha",
+      "puri"
+    ],
+    "description": "Literally 'burnt cheese': kneaded fresh chhena mixed with sugar and semolina, baked for hours until the outside caramelises brown. Its flavour comes mainly from caramelised sugar, and it originated in Nayagarh district. It is also offered to Lord Jagannath.",
+    "how_to_eat": "Eat a slice as is, warm or at room temperature; the darker crust is the prized part.",
+    "how_to_order": "Ask for 'chhena poda' by weight or by the slice at a sweet shop; Puri and Pahala stalls stock it.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chhena_poda",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhena_poda",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/",
+      "https://inditales.com/vegetarian-street-food-of-odisha/",
+      "https://www.holidify.com/pages/food-of-odisha-1324.html"
+    ]
+  },
+  {
+    "id": "chhena-jhili",
+    "name": "Chhena Jhili",
+    "local_name": "ଛେନାଝିଲି",
+    "pronunciation": "CHHE-na JHEE-lee",
+    "category": "sweet",
+    "state": "Odisha",
+    "regions": [
+      "puri",
+      "konark"
+    ],
+    "description": "Fried chhena dumplings soaked in sugar syrup, made with chhena, a little wheat flour, cardamom and ghee. It originates from Nimapada in Puri district, on the Bhubaneswar-Konark highway, and is often compared to gulab jamun.",
+    "how_to_eat": "Eat warm with a little of the syrup; it is meant to melt in the mouth.",
+    "how_to_order": "Ask for 'chhena jhili' at sweet shops in Nimapada when driving to or from Konark.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chhena_Jhili",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhena_Jhili",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/",
+      "https://inditales.com/vegetarian-street-food-of-odisha/"
+    ]
+  },
+  {
+    "id": "rasabali",
+    "name": "Rasabali",
+    "local_name": "ରସାବଳୀ",
+    "pronunciation": "ro-SHA-bo-lee",
+    "category": "sweet",
+    "state": "Odisha",
+    "regions": [
+      "odisha",
+      "puri"
+    ],
+    "description": "Deep-fried, flattened reddish-brown chhena patties soaked in thickened, sweetened milk (rabri) lightly flavoured with cardamom. It originated at the Baladevjew Temple of Kendrapara, is part of the Chhappan Bhoga at Puri's Jagannath Temple, and got a GI tag as 'Kendrapara Rasabali' in 2023.",
+    "how_to_eat": "Eat with a spoon, taking each patty with plenty of the thick milk.",
+    "how_to_order": "Ask for 'rasabali' at coastal sweet shops; it is usually served in a small bowl.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rasabali",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rasabali",
+      "https://en.wikipedia.org/wiki/Geographical_indications_in_India",
+      "https://inditales.com/vegetarian-street-food-of-odisha/",
+      "https://www.holidify.com/pages/food-of-odisha-1324.html"
+    ]
+  },
+  {
+    "id": "chhena-gaja",
+    "name": "Chhena Gaja",
+    "local_name": "ଛେନା ଗଜା",
+    "pronunciation": "CHHE-na GA-ja",
+    "category": "sweet",
+    "state": "Odisha",
+    "regions": [
+      "odisha",
+      "bhubaneswar"
+    ],
+    "description": "Palm-sized rectangular pieces of chhena mixed with semolina, fried and soaked in sugar syrup. It uses essentially the same ingredients as rasagola but tastes very different, and it is popular mostly within Odisha itself. Pahala, near Bhubaneswar, is noted as one of the best places for it.",
+    "how_to_eat": "Eat it as a sweet; it is firmer and chewier than rasagola.",
+    "how_to_order": "Ask for 'chhena gaja' at Pahala stalls or any Odia sweet shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chhena_gaja",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhena_gaja",
+      "https://inditales.com/vegetarian-street-food-of-odisha/",
+      "https://www.holidify.com/pages/food-of-odisha-1324.html"
+    ]
+  },
+  {
+    "id": "chhena-jalebi",
+    "name": "Chhena Jalebi",
+    "local_name": "ଛେନା ଜିଲାପି",
+    "pronunciation": "CHHE-na ji-LA-pee",
+    "category": "sweet",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "A jalebi-style coiled sweet made from chhena (fresh cheese). It originated in Odisha and is now also popular in West Bengal and Bangladesh.",
+    "how_to_eat": "Eat warm or at room temperature as a sweet snack.",
+    "how_to_order": "Ask for 'chhena jilapi' at a sweet shop, usually sold by weight.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chhena_jalebi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhena_jalebi",
+      "https://en.wikipedia.org/wiki/Chhena"
+    ]
+  },
+  {
+    "id": "chhena-kheeri",
+    "name": "Chhena Kheeri",
+    "local_name": "ଛେନା ଖିରୀ",
+    "pronunciation": "CHHE-na KHEE-ree",
+    "category": "sweet",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "A milk-based sweet of chhena cooked in sweetened thickened milk (rabri), originally from coastal Odisha.",
+    "how_to_eat": "Eat chilled or at room temperature with a spoon.",
+    "how_to_order": "Ask for 'chhena kheeri' at Odia sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chhena_kheeri",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhena_kheeri",
+      "https://en.wikipedia.org/wiki/Rabri"
+    ]
+  },
+  {
+    "id": "khira-sagara",
+    "name": "Khira Sagara",
+    "local_name": "କ୍ଷୀର ସାଗର",
+    "pronunciation": "KHEE-ro SA-go-ro",
+    "category": "sweet",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "Literally 'ocean of milk': marble-sized chhena balls soaked in sweetened condensed milk seasoned with saffron and cardamom. The milk base is thick, close to rabri, and the sweet is linked in Hindu scripture to Lakshmi serving Vishnu.",
+    "how_to_eat": "Served at room temperature or slightly chilled; eat with a spoon.",
+    "how_to_order": "Ask for 'khira sagara' (also written kheersagar) at a sweet shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khira_sagara",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khira_sagara",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/"
+    ]
+  },
+  {
+    "id": "chhena-murki",
+    "name": "Chhena Murki",
+    "local_name": null,
+    "pronunciation": "CHHE-na MUR-kee",
+    "category": "sweet",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "Small cubes of chhena with a thick crust of crystallised sugar. Bhadrak and Keonjhar are famous for it, and it is now found across the state.",
+    "how_to_eat": "Eat by hand as a dry sweet; it keeps well for travel.",
+    "how_to_order": "Ask for 'chhena murki' (also chhena muduki) by weight at sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/",
+      "https://inditales.com/vegetarian-street-food-of-odisha/",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha"
+    ]
+  },
+  {
+    "id": "khiri",
+    "name": "Khiri (Odia rice pudding)",
+    "local_name": "ଖିରି",
+    "pronunciation": "KHEE-ree",
+    "category": "sweet",
+    "state": "Odisha",
+    "regions": [
+      "odisha",
+      "puri"
+    ],
+    "description": "Khiri is the Odia word for kheer: a rice pudding of rice boiled in milk with sugar or jaggery, often flavoured with cardamom and nuts.",
+    "how_to_eat": "Eat warm or chilled with a spoon, usually at the end of a meal.",
+    "how_to_order": "Ask for 'khiri' at a sweet shop or as the dessert with an Odia thali.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kheer",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kheer",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha"
+    ]
+  },
+  {
+    "id": "malpua-amalu",
+    "name": "Malpua (Amalu)",
+    "local_name": "ଅମାଲୁ",
+    "pronunciation": "AA-ma-loo / mal-POO-a",
+    "category": "sweet",
+    "state": "Odisha",
+    "regions": [
+      "puri",
+      "odisha"
+    ],
+    "description": "Fried sweet pancakes; in Odisha the fritters are dipped in sugar syrup after frying. Called amalu, it is one of the Chhappan Bhoga of Lord Jagannath and is included in the evening offering.",
+    "how_to_eat": "Eat warm, soaked with syrup.",
+    "how_to_order": "Ask for 'malpua' or 'amalu' at Puri sweet shops near the temple.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Malpua",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Malpua",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/"
+    ]
+  },
+  {
+    "id": "rabidi",
+    "name": "Rabidi",
+    "local_name": "ରାବିଡ଼ି",
+    "pronunciation": "RA-bi-ri",
+    "category": "sweet",
+    "state": "Odisha",
+    "regions": [
+      "odisha",
+      "puri"
+    ],
+    "description": "Milk slowly boiled on low heat until dense and pale yellow, sweetened and chilled. It is the base of Odia sweets like rasabali, chhena kheeri and khira sagara.",
+    "how_to_eat": "Eat chilled with a spoon, often from an earthen cup.",
+    "how_to_order": "Ask for 'rabidi' or 'chhena rabidi' from street vendors or sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rabri",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rabri",
+      "https://inditales.com/vegetarian-street-food-of-odisha/"
+    ]
+  },
+  {
+    "id": "mahaprasad",
+    "name": "Mahaprasad (Ananda Bazar, Puri)",
+    "local_name": "ମହାପ୍ରସାଦ",
+    "pronunciation": "MO-ha pro-SAAD",
+    "category": "temple_food",
+    "state": "Odisha",
+    "regions": [
+      "puri"
+    ],
+    "description": "Sanctified food offered to Lord Jagannath and then to Devi Bimala, cooked by temple cooks in earthen pots over firewood in the temple kitchen (Rosa Ghara) with no onion or garlic. The cooked 'abadha' set includes rice, dali, besara, khechudi, saga and pakhala, and it is eaten communally by everyone regardless of caste or religion.",
+    "how_to_eat": "Eat it seated at Ananda Bazar inside the temple's outer enclosure, by hand, from the earthen pots.",
+    "how_to_order": "At Ananda Bazar, ask a vendor for 'abadha' (cooked Mahaprasad) for the number of people; note that temple entry rules apply.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mahaprasad_(Jagannath_Temple)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mahaprasad_(Jagannath_Temple)",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha"
+    ]
+  },
+  {
+    "id": "khaja",
+    "name": "Puri Khaja",
+    "local_name": "ଖଜା",
+    "pronunciation": "KHA-ja",
+    "category": "temple_food",
+    "state": "Odisha",
+    "regions": [
+      "puri"
+    ],
+    "description": "A flaky, layered pastry of flour and ghee, deep fried and dipped in sugar syrup. It is part of the Mahaprasad offered at the Jagannath Temple and is said to be Lord Jagannath's favourite; dry khaja stays fresh for days, so pilgrims carry it home.",
+    "how_to_eat": "Eat by hand as a crisp sweet; it shatters, so hold a plate under it.",
+    "how_to_order": "Ask for 'Puri khaja' by the kilo at Ananda Bazar or the shops on Bada Danda.",
+    "typical_price_inr": "120-250 per kg",
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khaja",
+    "source_urls": [
+      "https://www.odishalifestyle.com/the-story-of-puri-khaja",
+      "https://inditales.com/vegetarian-street-food-of-odisha/",
+      "https://en.wikipedia.org/wiki/Khaja"
+    ]
+  },
+  {
+    "id": "kanika",
+    "name": "Kanika",
+    "local_name": "କାନିକା",
+    "pronunciation": "KA-ni-ka",
+    "category": "temple_food",
+    "state": "Odisha",
+    "regions": [
+      "puri",
+      "odisha"
+    ],
+    "description": "An aromatic sweet rice dish made with fragrant rice, ghee, raisins, cashews, cardamom, cinnamon, cloves, sugar and turmeric. It is one of the items of the Jagannath Temple's Mahaprasad, offered in the morning meal (sakala dhupa), and is also cooked at home for festivals.",
+    "how_to_eat": "Eat it as part of a festive meal alongside curries; it is sweet but served with the main course.",
+    "how_to_order": "Ask for 'kanika' in an Odia thali restaurant or as part of Mahaprasad.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kanika_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kanika_(food)",
+      "https://www.holidify.com/pages/food-of-odisha-1324.html"
+    ]
+  },
+  {
+    "id": "khechudi",
+    "name": "Khechudi",
+    "local_name": null,
+    "pronunciation": "KHE-chu-ri",
+    "category": "temple_food",
+    "state": "Odisha",
+    "regions": [
+      "puri",
+      "odisha"
+    ],
+    "description": "The Odia version of khichdi: rice cooked with lentils and ghee. It is one of the main bhog dishes offered to Lord Jagannath and is part of the cooked Mahaprasad.",
+    "how_to_eat": "Eat hot with curd, papad or a vegetable side.",
+    "how_to_order": "Ask for 'khechudi' at Ananda Bazar or as a thali item.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://en.wikipedia.org/wiki/Mahaprasad_(Jagannath_Temple)",
+      "https://www.holidify.com/pages/food-of-odisha-1324.html"
+    ]
+  },
+  {
+    "id": "kora-khai",
+    "name": "Kora Khai",
+    "local_name": null,
+    "pronunciation": "KO-ra KHAI",
+    "category": "temple_food",
+    "state": "Odisha",
+    "regions": [
+      "bhubaneswar",
+      "puri"
+    ],
+    "description": "Puffed paddy (khai) caramelised with jaggery, spiced with cardamom and cinnamon and mixed with coconut. It is offered as prasad at Lingaraj Temple in Bhubaneswar and is a dry offering (sukhila bhoga) at Puri.",
+    "how_to_eat": "Eat by hand as a crunchy sweet snack.",
+    "how_to_order": "Ask for 'kora khai' from the stalls around Lingaraj Temple.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/",
+      "https://www.holidify.com/pages/food-of-odisha-1324.html",
+      "https://en.wikipedia.org/wiki/Mahaprasad_(Jagannath_Temple)"
+    ]
+  },
+  {
+    "id": "tanka-torani",
+    "name": "Tanka Torani",
+    "local_name": "ଟଙ୍କ ତୋରାଣି",
+    "pronunciation": "TON-ko to-RA-nee",
+    "category": "drink",
+    "state": "Odisha",
+    "regions": [
+      "puri"
+    ],
+    "description": "A drink made from one-day-old cooked rice (anna) that is part of the Mahaprasad of Lord Jagannath. It is available year-round at Ananda Bazar and is especially loved in summer.",
+    "how_to_eat": "Drink it cool as a refreshing, slightly sour sip.",
+    "how_to_order": "Ask for 'tanka torani' at Ananda Bazar, Puri.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tanka_torani",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tanka_torani",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha"
+    ]
+  },
+  {
+    "id": "enduri-pitha",
+    "name": "Enduri Pitha",
+    "local_name": "ଏଣ୍ଡୁରି ପିଠା",
+    "pronunciation": "en-DU-ree PEE-tha",
+    "category": "pitha",
+    "state": "Odisha",
+    "regions": [
+      "odisha",
+      "puri"
+    ],
+    "description": "Rice and black gram batter with a coconut or chhena and jaggery filling, wrapped in turmeric leaves and steamed. It is made for Prathamastami and Manabasa Gurubara and offered to Jagannath for the morning meal (sakala dhupa); the turmeric leaf gives it a distinct aroma.",
+    "how_to_eat": "Unwrap the turmeric leaf and eat the warm cake; do not eat the leaf.",
+    "how_to_order": "Ask for 'enduri pitha' around Prathamastami (November-December) at homes or pitha stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Enduri_pitha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Enduri_pitha",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha"
+    ]
+  },
+  {
+    "id": "poda-pitha",
+    "name": "Poda Pitha",
+    "local_name": "ପୋଡ଼ ପିଠା",
+    "pronunciation": "PO-ra PEE-tha",
+    "category": "pitha",
+    "state": "Odisha",
+    "regions": [
+      "odisha",
+      "puri"
+    ],
+    "description": "A slow-baked cake of fermented rice and black gram batter with grated coconut and jaggery, cooked overnight so the crust is slightly burnt and the inside soft and white. It is made for Raja Parba and served to Jagannath and his siblings at the Mausi Maa Temple on the return Ratha Yatra.",
+    "how_to_eat": "Eat a slice by hand; it pairs well with tea.",
+    "how_to_order": "Ask for 'poda pitha' at pitha stalls, especially around Raja festival in June.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Podo_pitha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Podo_pitha",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha"
+    ]
+  },
+  {
+    "id": "chakuli-pitha",
+    "name": "Chakuli Pitha",
+    "local_name": "ଚକୁଳି ପିଠା",
+    "pronunciation": "CHO-ku-lee PEE-tha",
+    "category": "pitha",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "A thin, round fermented rice and black gram pancake, Odisha's everyday answer to the dosa, cooked in mustard oil. It is made in most households and served at festivals with sides like ghugni, potato fry, dalma or jaggery.",
+    "how_to_eat": "Tear pieces and scoop up the ghugni or curry served alongside.",
+    "how_to_order": "Ask for 'chakuli ghugni' at a roadside breakfast stall.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chakuli_pitha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chakuli_pitha",
+      "https://inditales.com/vegetarian-street-food-of-odisha/",
+      "https://www.holidify.com/pages/food-of-odisha-1324.html"
+    ]
+  },
+  {
+    "id": "arisa-pitha",
+    "name": "Arisa Pitha",
+    "local_name": null,
+    "pronunciation": "A-ri-sa PEE-tha",
+    "category": "pitha",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "A deep-fried sweet of rice flour and jaggery, often topped with sesame seeds. Its long shelf life makes it a favourite festival snack; Anandapur in Keonjhar district is known for it.",
+    "how_to_eat": "Eat by hand at room temperature as a sweet snack.",
+    "how_to_order": "Ask for 'arisa pitha' at pitha shops or during festivals.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Adhirasam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://en.wikipedia.org/wiki/Adhirasam",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/"
+    ]
+  },
+  {
+    "id": "manda-pitha",
+    "name": "Manda Pitha",
+    "local_name": "ମଣ୍ଡା ପିଠା",
+    "pronunciation": "MON-da PEE-tha",
+    "category": "pitha",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "A steamed rice dumpling stuffed with coconut and jaggery (sometimes chhena), similar to modak. It is made for festivals in the monsoon and post-monsoon seasons such as Raja, Kumar Purnima and Manabasa Gurubara.",
+    "how_to_eat": "Eat warm by hand; bite through the soft shell to the sweet filling.",
+    "how_to_order": "Ask for 'manda pitha' at festival time or at pitha stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Manda_pitha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Manda_pitha",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/"
+    ]
+  },
+  {
+    "id": "kakara-pitha",
+    "name": "Kakara Pitha",
+    "local_name": "କାକରା ପିଠା",
+    "pronunciation": "KA-ka-ra PEE-tha",
+    "category": "pitha",
+    "state": "Odisha",
+    "regions": [
+      "odisha",
+      "cuttack"
+    ],
+    "description": "A sweet deep-fried cake, essentially the fried version of manda pitha, with a coconut filling in a semolina or rice shell. It is offered to temple deities on many festivals; Choudwar and Tangi in Cuttack district are known for it.",
+    "how_to_eat": "Eat hot or cold by hand as a sweet snack.",
+    "how_to_order": "Ask for 'kakara pitha' at sweet or pitha shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kakara_pitha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kakara_pitha",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/"
+    ]
+  },
+  {
+    "id": "dahibara-aloodum",
+    "name": "Dahibara Aloodum",
+    "local_name": "ଦହିବରା ଆଳୁଦମ",
+    "pronunciation": "do-hee-BO-ra AA-loo-dom",
+    "category": "street_food",
+    "state": "Odisha",
+    "regions": [
+      "cuttack",
+      "bhubaneswar",
+      "puri"
+    ],
+    "description": "Fried lentil vadas soaked in thin curd water tempered with mustard seeds and curry leaves, topped with spicy potato curry (aloodum), pea curry (ghuguni), onion, coriander and sev. It started in old Cuttack (Bidanasi) and was popularised near Barabati Fort in the 1960s; March 1 is celebrated as Dahibara Aloodum Dibasa.",
+    "how_to_eat": "Eat it fresh from a leaf bowl, mixing the curd, curries and vada together; best in the morning.",
+    "how_to_order": "Ask for 'dahibara aloodum', and say 'ghuguni and sev' if you want the full toppings.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dahibara_Aloodum",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dahibara_Aloodum",
+      "https://odishabytes.com/dahibara-aloodum-dibasa-today-odishas-quintessential-street-food-with-feelings-on-platter/",
+      "https://inditales.com/vegetarian-street-food-of-odisha/",
+      "https://moha-mushkil.com/best-food-cuttack-odisha-pahala/"
+    ]
+  },
+  {
+    "id": "gupchup",
+    "name": "Gupchup",
+    "local_name": "ଗୁପଚୁପ",
+    "pronunciation": "GUP-chup",
+    "category": "street_food",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "Odisha's name for pani puri: hollow crisp puris stuffed with mashed potato, boiled chana, onion and spices and dipped in tangy spiced water. It is sold from carts in almost every town.",
+    "how_to_eat": "Eat each one in a single bite straight from the vendor, one at a time as he hands them over.",
+    "how_to_order": "Ask the cart vendor for 'gupchup' and say how many plates; ask for 'less spicy' if needed.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Panipuri",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Panipuri",
+      "https://inditales.com/vegetarian-street-food-of-odisha/",
+      "https://www.holidify.com/pages/food-of-odisha-1324.html"
+    ]
+  },
+  {
+    "id": "ghugni",
+    "name": "Ghugni",
+    "local_name": "ଗୁଗୁନି",
+    "pronunciation": "GHOO-gu-nee",
+    "category": "street_food",
+    "state": "Odisha",
+    "regions": [
+      "odisha",
+      "puri",
+      "cuttack"
+    ],
+    "description": "A curry of overnight-soaked dried peas with potato, sometimes thickened with horse gram powder. It is a street-food staple especially in the old Puri and Cuttack districts, eaten with bara, puri, chakuli, upma or idli.",
+    "how_to_eat": "Eat it with bara, puri or chakuli, scooping up the curry.",
+    "how_to_order": "Ask for 'bara ghuguni' or 'puri ghuguni' at a breakfast stall.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ghugni",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ghugni",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://inditales.com/vegetarian-street-food-of-odisha/"
+    ]
+  },
+  {
+    "id": "bara-ghugni",
+    "name": "Bara Ghugni",
+    "local_name": null,
+    "pronunciation": "BO-ra GHOO-gu-nee",
+    "category": "street_food",
+    "state": "Odisha",
+    "regions": [
+      "cuttack",
+      "puri",
+      "odisha"
+    ],
+    "description": "Bara is a crisp fried urad dal fritter, Odisha's local take on medu vada. It is eaten with ghugni (pea curry), potato curry or dalma, and the bara-ghugni pairing is especially popular in the Puri and Cuttack regions.",
+    "how_to_eat": "Break the bara into the ghugni and eat while hot.",
+    "how_to_order": "Ask for 'bara ghuguni' at a morning street stall.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vada_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://inditales.com/vegetarian-street-food-of-odisha/",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/"
+    ]
+  },
+  {
+    "id": "mudhi-mansa",
+    "name": "Mudhi Mansa",
+    "local_name": null,
+    "pronunciation": "MOO-dhee MAAN-sa",
+    "category": "street_food",
+    "state": "Odisha",
+    "regions": [
+      "bhubaneswar",
+      "odisha"
+    ],
+    "description": "Spicy goat-meat curry in a tomato-onion gravy poured over puffed rice (mudhi) and topped with onion, tomato and coriander. It is a popular snack in Bhubaneswar.",
+    "how_to_eat": "Eat quickly after it is mixed so the mudhi stays a little crunchy.",
+    "how_to_order": "Ask for 'mudhi mansa' at a roadside mutton stall.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-odisha-1324.html"
+    ]
+  },
+  {
+    "id": "thunka-puri",
+    "name": "Thunka Puri",
+    "local_name": null,
+    "pronunciation": "THOON-ka POO-ree",
+    "category": "street_food",
+    "state": "Odisha",
+    "regions": [
+      "cuttack"
+    ],
+    "description": "A very large puffed puri, bigger than a bhatura, served with chhena tarkari (chhena balls in potato curry). It is a seasonal dish of Cuttack's Bali Jatra fair in November-December.",
+    "how_to_eat": "Tear the puffed puri and scoop up the curry.",
+    "how_to_order": "Ask for 'thunka puri' at food stalls at Bali Jatra in Cuttack.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://inditales.com/vegetarian-street-food-of-odisha/"
+    ]
+  },
+  {
+    "id": "lassi-bhubaneswar",
+    "name": "Odia Lassi",
+    "local_name": null,
+    "pronunciation": "LUS-see",
+    "category": "drink",
+    "state": "Odisha",
+    "regions": [
+      "bhubaneswar"
+    ],
+    "description": "Odisha's lassi sherbet is made by churning curd with sugar syrup and topping it with rabri, cashew and coconut. Lingaraj Lassi in Bhubaneswar is often named the best.",
+    "how_to_eat": "Drink it chilled, using a spoon for the rabri topping.",
+    "how_to_order": "Ask for a 'lassi' at a lassi shop near Lingaraj Temple, Bhubaneswar.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://inditales.com/vegetarian-street-food-of-odisha/"
+    ]
+  },
+  {
+    "id": "bela-pana",
+    "name": "Bela Pana",
+    "local_name": null,
+    "pronunciation": "BE-la PO-na",
+    "category": "drink",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "A thick summer drink of bael (wood apple) pulp with water, jaggery or sugar and black pepper; the pana version adds milk, banana, chhena, cashew and coconut. It is prepared for Pana Sankranti, the Odia New Year.",
+    "how_to_eat": "Drink it chilled, especially in summer.",
+    "how_to_order": "Ask for 'bela pana' around mid-April or 'bela sarbat' at juice stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://inditales.com/vegetarian-street-food-of-odisha/"
+    ]
+  },
+  {
+    "id": "pakhala-bhata",
+    "name": "Pakhala Bhata",
+    "local_name": "ପଖାଳ",
+    "pronunciation": "PO-kha-la BHA-ta",
+    "category": "meal",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "Cooked rice soaked in water and often lightly fermented overnight; the liquid is called torani. It is Odisha's signature summer lunch, eaten with sides like fried fish, potato, badi chura, saga bhaja, green chillies and onion.",
+    "how_to_eat": "Mix the rice and water by hand and take bites of the fried and mashed sides with it.",
+    "how_to_order": "Ask for a 'pakhala thali' at an Odia restaurant in summer, and choose 'basi' (fermented) or 'saja' (fresh).",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pakhala",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pakhala",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://www.holidify.com/pages/food-of-odisha-1324.html"
+    ]
+  },
+  {
+    "id": "dahi-pakhala",
+    "name": "Dahi Pakhala",
+    "local_name": null,
+    "pronunciation": "DO-hee PO-kha-la",
+    "category": "meal",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "A version of pakhala in which cooked rice is mixed with water and curd, often seasoned with cumin, curry leaves, fried onion or mint. It is eaten as a cooling summer meal with fried sides.",
+    "how_to_eat": "Eat it cool, mixing by hand, with fried vegetables, fish or badi on the side.",
+    "how_to_order": "Ask for 'dahi pakhala' at an Odia thali place.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pakhala",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pakhala",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/"
+    ]
+  },
+  {
+    "id": "dalma",
+    "name": "Dalma",
+    "local_name": null,
+    "pronunciation": "DAL-ma",
+    "category": "meal",
+    "state": "Odisha",
+    "regions": [
+      "odisha",
+      "puri"
+    ],
+    "description": "Dal, usually toor or roasted moong, cooked with chopped vegetables like raw papaya, plantain, eggplant, pumpkin and gourd and tempered with pancha phutana. A no-onion, no-garlic version is part of Odia temple cooking.",
+    "how_to_eat": "Eat with steamed rice, mixing it in by hand.",
+    "how_to_order": "Ask for 'dalma bhata' (dalma with rice) or as part of an Odia thali.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/",
+      "https://www.holidify.com/pages/food-of-odisha-1324.html"
+    ]
+  },
+  {
+    "id": "santula",
+    "name": "Santula",
+    "local_name": null,
+    "pronunciation": "SON-tu-la",
+    "category": "meal",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "Finely chopped vegetables such as raw papaya, potato, brinjal and tomato, lightly sauteed or boiled with garlic, green chilli and mustard; some versions add milk. It is a light, low-spice everyday dish.",
+    "how_to_eat": "Eat with rice or roti as a gentle side.",
+    "how_to_order": "Ask for 'santula' in an Odia thali, or request it as a light option.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/",
+      "https://www.holidify.com/pages/food-of-odisha-1324.html"
+    ]
+  },
+  {
+    "id": "besara",
+    "name": "Besara",
+    "local_name": null,
+    "pronunciation": "BE-so-ra",
+    "category": "meal",
+    "state": "Odisha",
+    "regions": [
+      "odisha",
+      "puri"
+    ],
+    "description": "Assorted vegetables cooked in mustard paste and tempered with pancha phutana. A version is part of the cooked Mahaprasad at the Jagannath Temple; the word loosely means any mustard-based gravy.",
+    "how_to_eat": "Eat with rice; the mustard gives a sharp, nose-tingling bite.",
+    "how_to_order": "Ask for 'besara' or 'saru besara' as a side in an Odia thali.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://en.wikipedia.org/wiki/Mahaprasad_(Jagannath_Temple)",
+      "https://www.holidify.com/pages/food-of-odisha-1324.html"
+    ]
+  },
+  {
+    "id": "chhatu-rai",
+    "name": "Chhatu Rai (mushroom in mustard)",
+    "local_name": null,
+    "pronunciation": "CHHO-tu RAI",
+    "category": "meal",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "Mushrooms (chhatu) cooked in mustard paste with turmeric and tomato, a tangy dish made for special occasions.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Ask for 'chhatu rai' or 'chhatu tarkari' at an Odia restaurant, especially in the monsoon.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://www.holidify.com/pages/food-of-odisha-1324.html"
+    ]
+  },
+  {
+    "id": "saga-bhaja",
+    "name": "Saga Bhaja",
+    "local_name": "ଶାଗ ଭଜା",
+    "pronunciation": "SAA-go BHO-ja",
+    "category": "meal",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "Leafy greens such as amaranth, water spinach or drumstick leaves stir-fried with pancha phutana, with or without onion and garlic. It is a standard side for pakhala and rice meals.",
+    "how_to_eat": "Eat a little with each mouthful of rice or pakhala.",
+    "how_to_order": "Ask for 'saga bhaja' as a side with rice or pakhala.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha"
+    ]
+  },
+  {
+    "id": "badi-chura",
+    "name": "Badi Chura",
+    "local_name": null,
+    "pronunciation": "BO-ri CHOO-ra",
+    "category": "meal",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "Fried sun-dried lentil dumplings (badi) coarsely crushed with raw onion, garlic, green chilli and mustard oil. It is the classic punchy side for pakhala; Keonjhar is noted for its badis.",
+    "how_to_eat": "Take a pinch with each bite of pakhala or rice.",
+    "how_to_order": "Ask for 'badi chura' along with a pakhala thali.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/",
+      "https://www.holidify.com/pages/food-of-odisha-1324.html"
+    ]
+  },
+  {
+    "id": "ou-khatta",
+    "name": "Ou Khatta",
+    "local_name": "ଔ ଖଟା",
+    "pronunciation": "OU KHA-ta",
+    "category": "meal",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "A sweet-and-sour chutney of elephant apple (ou) cooked with jaggery, made mostly in the post-monsoon season. It is rich in vitamin C and served with Odia meals.",
+    "how_to_eat": "Eat a spoonful alongside rice and dal.",
+    "how_to_order": "Ask for 'ou khatta' or any 'khatta' with your thali.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ou_khatta",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ou_khatta",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha"
+    ]
+  },
+  {
+    "id": "alu-potala-rasa",
+    "name": "Alu Potala Rasa",
+    "local_name": null,
+    "pronunciation": "AA-loo PO-to-la RO-sa",
+    "category": "meal",
+    "state": "Odisha",
+    "regions": [
+      "odisha",
+      "puri"
+    ],
+    "description": "A spicy gravy curry of potato and pointed gourd (potala), sometimes enriched with cashew paste. It is a popular home and restaurant curry and a version is offered at the Puri Jagannath Temple.",
+    "how_to_eat": "Eat with rice or puri.",
+    "how_to_order": "Ask for 'alu potala rasa' at an Odia restaurant.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alu_Potala_Rasa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Alu_Potala_Rasa",
+      "https://www.holidify.com/pages/food-of-odisha-1324.html",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha"
+    ]
+  },
+  {
+    "id": "machha-besara",
+    "name": "Machha Besara",
+    "local_name": null,
+    "pronunciation": "MA-chha BE-so-ra",
+    "category": "meal",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "Freshwater fish such as rohu or catla, fried and then simmered in a mustard paste gravy, often soured with ambula (sun-dried mango). It is a staple in Odia homes.",
+    "how_to_eat": "Eat hot with plain rice, picking the fish off the bones by hand.",
+    "how_to_order": "Ask for 'machha besara' (mustard fish) with rice at an Odia restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://www.goya.in/blog/maacha-besara-odia-style-fish-with-mustard-ambula",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/"
+    ]
+  },
+  {
+    "id": "dahi-machha",
+    "name": "Dahi Machha",
+    "local_name": null,
+    "pronunciation": "DO-hee MA-chha",
+    "category": "meal",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "Fish in a spicy yogurt-based sauce seasoned with turmeric, onion, garlic, mustard and garam masala, giving it a yellow colour. It is usually served with rice.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Ask for 'dahi machha' at an Odia restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "dairy",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dahi_machha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dahi_machha",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/"
+    ]
+  },
+  {
+    "id": "chingudi-malai",
+    "name": "Chingudi (Chungdi) Malai",
+    "local_name": null,
+    "pronunciation": "CHIN-gu-ri ma-LAI",
+    "category": "meal",
+    "state": "Odisha",
+    "regions": [
+      "odisha",
+      "puri"
+    ],
+    "description": "A creamy prawn curry cooked with coconut milk and mild spices. It is one of coastal Odisha's best-known seafood dishes.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Ask for 'chingudi malai' or 'chungdi malai' at a seafood restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://www.holidify.com/pages/food-of-odisha-1324.html"
+    ]
+  },
+  {
+    "id": "chingudi-jhola",
+    "name": "Chingudi Jhola",
+    "local_name": "ଚିଙ୍ଗୁଡ଼ି ଝୋଳ",
+    "pronunciation": "CHIN-gu-ri JHO-la",
+    "category": "meal",
+    "state": "Odisha",
+    "regions": [
+      "odisha",
+      "puri"
+    ],
+    "description": "A spicy, thin gravy prawn curry, eaten mostly in coastal and river-basin Odisha. Chilika Lake prawns are famous, and the Chilika Dhaba near the lake is known for it.",
+    "how_to_eat": "Eat with plain rice.",
+    "how_to_order": "Ask for 'chingudi jhola' (prawn curry) with rice.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chingudi_jhola",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chingudi_jhola",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/"
+    ]
+  },
+  {
+    "id": "kankada-jhola",
+    "name": "Kankada Jhola (Chilika crab curry)",
+    "local_name": null,
+    "pronunciation": "KON-ko-ra JHO-la",
+    "category": "meal",
+    "state": "Odisha",
+    "regions": [
+      "puri",
+      "odisha"
+    ],
+    "description": "Crab curry, a coastal Odia speciality. Chilika Lake, which spreads into Puri district, is rich in crabs (mangrove crab is the main commercial species), and lakeside dhabas serve crab curry.",
+    "how_to_eat": "Eat with rice and use your hands to crack the shells.",
+    "how_to_order": "Ask for 'kankada jhola' or 'crab curry' at a Chilika-side dhaba or Puri seafood restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/",
+      "https://en.wikipedia.org/wiki/Chilika_Lake"
+    ]
+  },
+  {
+    "id": "mutton-kasa",
+    "name": "Mutton Kasa",
+    "local_name": null,
+    "pronunciation": "MAAN-so KO-sha",
+    "category": "meal",
+    "state": "Odisha",
+    "regions": [
+      "odisha"
+    ],
+    "description": "A thick, dry-ish goat curry slow-cooked in spices; chicken kasa is also common. It is described as the most widely available Odia dish and is often eaten with rice or roti in a simple thali.",
+    "how_to_eat": "Eat with rice, roti or puri.",
+    "how_to_order": "Ask for 'mutton kasa' (or 'mansa kasa') at an Odia restaurant or dhaba.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+      "https://www.outlookindia.com/traveller/ot-getaway-guides/odiya_cuisine/"
+    ]
+  }
+]

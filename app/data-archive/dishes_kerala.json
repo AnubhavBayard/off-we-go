@@ -1,0 +1,1069 @@
+[
+  {
+    "id": "kerala-sadya",
+    "name": "Sadya",
+    "local_name": "സദ്യ",
+    "pronunciation": "SUD-ya",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A vegetarian feast of around 20 dishes served on a banana leaf with rice, including sambar, avial, thoran, kaalan, pickles and payasam. It is the centrepiece of Onam and Vishu and of weddings and other celebrations.",
+    "how_to_eat": "Eat with your right hand, working through the leaf in order from rice and parippu with ghee to sambar, then the payasams last.",
+    "how_to_order": "Book an 'Onam sadya' at hotels and restaurants around the festival, or ask for a 'sadya' or 'meals' plate at vegetarian restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sadya",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sadya",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala"
+    ]
+  },
+  {
+    "id": "kerala-puttu-kadala",
+    "name": "Puttu and Kadala Curry",
+    "local_name": "പുട്ട്",
+    "pronunciation": "PUT-tu",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [],
+    "description": "Steamed cylinders of ground rice layered with grated coconut, paired with a black chickpea curry cooked with shallots, spices and coconut. It is Kerala's best-known breakfast, served at homes, tea shops and street stalls.",
+    "how_to_eat": "Break the puttu up on the plate and mash it into the kadala curry, with a papad on the side.",
+    "how_to_order": "Ask for 'puttu kadala' at any breakfast hotel or tea shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Puttu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Puttu",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala",
+      "https://thebetterindia.com/172384/kochi-street-food-recommendations-travel",
+      "https://www.onmanorama.com/food/features/2025/09/27/kerala-food-experiences.amp.html"
+    ]
+  },
+  {
+    "id": "kerala-appam-stew",
+    "name": "Appam with Stew",
+    "local_name": "അപ്പം",
+    "pronunciation": "AAP-pum",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A bowl-shaped pancake of fermented rice batter and coconut milk, crisp at the edges and soft in the middle, cooked in an appachatti. It is classically served with a mild coconut-milk stew flavoured with ginger and pepper, made with vegetables, chicken or mutton.",
+    "how_to_eat": "Tear the lacy edge and scoop up the stew with the soft centre.",
+    "how_to_order": "Ask for 'appam and stew' and specify vegetable, chicken or mutton stew.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Appam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Appam",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala",
+      "https://thebetterindia.com/172384/kochi-street-food-recommendations-travel"
+    ]
+  },
+  {
+    "id": "kerala-idiyappam",
+    "name": "Idiyappam",
+    "local_name": "ഇടിയപ്പം",
+    "pronunciation": "I-di-yaap-pum",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [],
+    "description": "Rice flour dough pressed into fine noodles, laid in flat nests and steamed. It is eaten with coconut milk and sugar or with curries such as egg curry or stew.",
+    "how_to_eat": "Eat it with stew or curry, or sweet with coconut milk and sugar.",
+    "how_to_order": "Ask for 'idiyappam' at breakfast; it is sold in sets of three or four.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Idiyappam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Idiyappam",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala"
+    ]
+  },
+  {
+    "id": "kerala-parotta-beef-fry",
+    "name": "Kerala Parotta",
+    "local_name": "കേരള പൊറോട്ട",
+    "pronunciation": "po-ROT-ta",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [
+      "Kochi",
+      "Kozhikode"
+    ],
+    "description": "A flaky, layered flatbread of maida and oil, kneaded, coiled into a spiral and rolled out; some cooks add egg or ghee to the dough. The Malabar or Kerala parotta is most famously eaten with beef fry or beef curry.",
+    "how_to_eat": "Crush the parotta between your palms to separate the layers, then tear and dip it in curry.",
+    "how_to_order": "Ask for 'porotta' with beef fry or chicken curry at almost any non-vegetarian eatery.",
+    "typical_price_inr": null,
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/South_Indian_parotta",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/South_Indian_parotta",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala",
+      "https://thebetterindia.com/172384/kochi-street-food-recommendations-travel"
+    ]
+  },
+  {
+    "id": "kerala-beef-fry",
+    "name": "Kerala Beef Fry",
+    "local_name": "കേരള ബീഫ് ഫ്രൈ",
+    "pronunciation": "beef FRY",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [],
+    "description": "Beef slow-roasted with spices, onions, curry leaves and slivers of coconut, then fried in coconut oil until dark and dry. Also called beef ularthiyathu, it is one of Kerala's best-known non-vegetarian dishes.",
+    "how_to_eat": "Eat it with parotta, appam or rice.",
+    "how_to_order": "Ask for 'beef fry' or 'beef ularthiyathu' at non-vegetarian hotels.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kerala_beef_fry",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kerala_beef_fry",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine",
+      "https://thebetterindia.com/172384/kochi-street-food-recommendations-travel"
+    ]
+  },
+  {
+    "id": "kerala-karimeen-pollichathu",
+    "name": "Karimeen Pollichathu",
+    "local_name": null,
+    "pronunciation": "ka-ri-MEEN pol-li-CHA-thu",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [
+      "Kuttanad",
+      "Alappuzha",
+      "Kumarakom"
+    ],
+    "description": "Pearl spot fish (karimeen) marinated in spices, chillies and lemon, wrapped in banana leaf and grilled or steamed. The leaf gives it its distinct flavour, and it is a signature dish of the Kuttanad backwaters.",
+    "how_to_eat": "Unwrap the leaf at the table and eat the fish with rice.",
+    "how_to_order": "Ask for 'karimeen pollichathu' at backwater restaurants and toddy shops around Alappuzha and Kumarakom.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.keralatourism.org/kerala-article/2019/kuttanadan-cuisine/972",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala"
+    ]
+  },
+  {
+    "id": "kerala-fish-moilee",
+    "name": "Fish Moilee",
+    "local_name": null,
+    "pronunciation": "MOY-lee",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [
+      "Kochi"
+    ],
+    "description": "A mild fish stew of seer fish or kingfish cooked in coconut milk with green chillies, pepper, turmeric and whole spices. It is associated with Syrian Christian cooking and is traditionally made in an earthen pot.",
+    "how_to_eat": "Eat it with appam or rice.",
+    "how_to_order": "Ask for 'fish molly' or 'meen moilee' at Kerala restaurants, especially in Kochi.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fish_moolie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fish_moolie",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala",
+      "https://thebetterindia.com/172384/kochi-street-food-recommendations-travel"
+    ]
+  },
+  {
+    "id": "kerala-chemmeen-curry",
+    "name": "Chemmeen Curry (Prawn Curry)",
+    "local_name": null,
+    "pronunciation": "CHEM-meen curry",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [],
+    "description": "Prawns cooked with fenugreek, mustard, pepper, raw mango, coconut milk and kudampuli (Malabar tamarind), giving a tangy, spicy and slightly sweet gravy.",
+    "how_to_eat": "Eat it with rice or appam.",
+    "how_to_order": "Ask for 'chemmeen curry' at seafood restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala",
+      "https://www.keralatourism.org/kerala-article/2019/kuttanadan-cuisine/972"
+    ]
+  },
+  {
+    "id": "kerala-meen-curry-kappa",
+    "name": "Kappa and Meen Curry",
+    "local_name": null,
+    "pronunciation": "KUP-pa and MEEN curry",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [
+      "Kuttanad"
+    ],
+    "description": "Boiled, mashed tapioca (kappa) eaten with a red fish curry soured with kudampuli (Malabar tamarind) or made fiery with red chilli. It is hugely popular in Kuttanad and at toddy shops across the state.",
+    "how_to_eat": "Take a bit of kappa with each piece of fish and plenty of gravy.",
+    "how_to_order": "Ask for 'kappa meen curry' at toddy shops and local eateries.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.keralatourism.org/kerala-article/2019/kuttanadan-cuisine/972",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-kappa-biryani",
+    "name": "Kappa Biryani (Ellum Kappayum)",
+    "local_name": null,
+    "pronunciation": "KUP-pa bir-YAA-ni",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [
+      "Kochi",
+      "Thrissur"
+    ],
+    "description": "A rice-free 'biryani' of tapioca cooked with beef rib bones, also called ellum kappayum or Asiad. A related dish, kappa boti, pairs mashed tapioca with goat gizzards and comes from Thrissur.",
+    "how_to_eat": "Eat it hot as a full meal.",
+    "how_to_order": "Ask for 'kappa biryani' at local non-vegetarian eateries in Kochi.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://thebetterindia.com/172384/kochi-street-food-recommendations-travel"
+    ]
+  },
+  {
+    "id": "kerala-thalassery-biryani",
+    "name": "Thalassery Biryani",
+    "local_name": null,
+    "pronunciation": "tha-LUSH-ery bir-YAA-ni",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [
+      "Thalassery",
+      "Kannur",
+      "Kozhikode"
+    ],
+    "description": "A dum-style chicken or mutton biryani from Thalassery in north Kerala, made with small-grained kaima (jeerakasala) rice instead of basmati. It is a central dish of Malabar Mappila cooking.",
+    "how_to_eat": "Eat it with raita, pickle and a squeeze of lime; it needs no separate curry.",
+    "how_to_order": "Ask for 'Thalassery biryani' at Malabar restaurants in Thalassery, Kannur and Kozhikode.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thalassery_cuisine",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thalassery_cuisine",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala"
+    ]
+  },
+  {
+    "id": "kerala-kuzhi-mandi",
+    "name": "Kuzhi Mandi",
+    "local_name": null,
+    "pronunciation": "KU-zhi MUN-di",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [
+      "Kozhikode",
+      "Malappuram"
+    ],
+    "description": "Meat and rice cooked with spices in a pit (kuzhi), a Yemeni dish that is now widely popular in Kerala.",
+    "how_to_eat": "Share a platter and eat the rice and meat with the accompanying chutney.",
+    "how_to_order": "Ask for 'kuzhi mandi' (chicken or mutton) at Arabic-style restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mandi_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mandi_(food)",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-pidiyum-kozhiyum",
+    "name": "Pidiyum Kozhiyum",
+    "local_name": null,
+    "pronunciation": "PI-di-yum KO-zhi-yum",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [
+      "Kottayam",
+      "Kochi"
+    ],
+    "description": "Small boiled balls of rice flour (pidi) in a thick, whitish coconut-milk sauce with cumin and garlic, eaten with chicken curry (kozhi). It is a traditional dish of the St Thomas Christians of central Kerala.",
+    "how_to_eat": "Spoon the chicken curry over the pidi and eat together.",
+    "how_to_order": "Look for it at Syrian Christian home-style restaurants; Kochi also has erachi pidi with beef or mutton.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pidiyum_kozhiyum",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pidiyum_kozhiyum",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine",
+      "https://thebetterindia.com/172384/kochi-street-food-recommendations-travel"
+    ]
+  },
+  {
+    "id": "kerala-duck-roast",
+    "name": "Kerala Duck Roast",
+    "local_name": null,
+    "pronunciation": "duck ROAST",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [
+      "Kuttanad",
+      "Alappuzha"
+    ],
+    "description": "Duck cooked down with a ground masala, cashews and raisins and finished with coconut milk. Duck (tharavu) curry is called the king of Kuttanad cuisine, and duck mappas, a coconut-milk duck curry, is a close relative.",
+    "how_to_eat": "Eat it with appam or rice.",
+    "how_to_order": "Ask for 'tharavu roast' or 'duck mappas' at Kuttanad eateries and toddy shops.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.keralatourism.org/kerala-food/duck-roast/76",
+      "https://www.keralatourism.org/kerala-article/2019/kuttanadan-cuisine/972",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-arikkadukka",
+    "name": "Arikkadukka",
+    "local_name": null,
+    "pronunciation": "a-ri-KA-duk-ka",
+    "category": "snack",
+    "state": "Kerala",
+    "regions": [
+      "Kozhikode",
+      "Thalassery"
+    ],
+    "description": "Mussels in their shells stuffed with a spiced rice paste, steamed and then fried. It is a Mappila snack of the Malabar coast.",
+    "how_to_eat": "Eat them hot, pulling the stuffed mussel from the shell.",
+    "how_to_order": "Ask for 'arikkadukka' at tea-time snack shops in Kozhikode and Thalassery.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-avial",
+    "name": "Avial",
+    "local_name": "അവിയൽ",
+    "pronunciation": "a-VI-yal",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A thick mix of about 13 vegetables cooked with coconut and seasoned with coconut oil and curry leaves, often with curd for sourness. It is often the star dish of the sadya.",
+    "how_to_eat": "Eat it with rice as part of a meal.",
+    "how_to_order": "Comes with sadya or 'meals' at vegetarian restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Avial",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Avial",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-olan",
+    "name": "Olan",
+    "local_name": "ഓലൻ",
+    "pronunciation": "O-lun",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A mild stew of ash gourd and cowpeas simmered in coconut milk, with coconut oil and curry leaves stirred in at the end. It is one of the dishes of the Onam sadya.",
+    "how_to_eat": "Eat it with rice to balance spicier curries.",
+    "how_to_order": "Comes with sadya and vegetarian meals.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Olan_(dish)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Olan_(dish)"
+    ]
+  },
+  {
+    "id": "kerala-kaalan",
+    "name": "Kaalan",
+    "local_name": "കാളൻ",
+    "pronunciation": "KAA-lun",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A thick, sour curry of yoghurt and coconut with raw plantain or elephant-foot yam. It is a fixture of the sadya.",
+    "how_to_eat": "Mix it into rice.",
+    "how_to_order": "Comes with sadya and vegetarian meals.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kaalan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kaalan",
+      "https://thebetterindia.com/172384/kochi-street-food-recommendations-travel"
+    ]
+  },
+  {
+    "id": "kerala-erissery",
+    "name": "Erissery",
+    "local_name": "എരിശ്ശേരി",
+    "pronunciation": "e-RISH-sheri",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A thick, mildly sweet and spicy curry of pumpkin, raw plantain or yam with lentils, ground coconut, cumin and garlic. It is an essential part of the sadya, made for Onam and other festivals.",
+    "how_to_eat": "Eat it with rice, sometimes topped with ghee.",
+    "how_to_order": "Comes with sadya and vegetarian meals.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Erissery",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Erissery",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala"
+    ]
+  },
+  {
+    "id": "kerala-thoran",
+    "name": "Thoran",
+    "local_name": "തോരൻ",
+    "pronunciation": "THO-run",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A dry stir-fry of chopped vegetables such as cabbage, beans, raw jackfruit or raw banana with grated coconut. It is an everyday side dish and part of the sadya.",
+    "how_to_eat": "Eat it with rice and curry.",
+    "how_to_order": "Comes with Kerala 'meals'; ask by vegetable, e.g. 'cabbage thoran'.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thoran",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thoran",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-ada-pradhaman",
+    "name": "Ada Pradhaman",
+    "local_name": "അടപ്രഥമൻ",
+    "pronunciation": "UD-a PRA-tha-mun",
+    "category": "sweet",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A payasam of rice ada (flakes) cooked in coconut milk and jaggery. It is made in Kerala homes for Onam and served at the end of the sadya.",
+    "how_to_eat": "Drink it from the leaf or a cup.",
+    "how_to_order": "Comes with sadya; some sweet shops and restaurants sell it by the cup or litre during Onam.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ada_pradhaman",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ada_pradhaman",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-palada-payasam",
+    "name": "Palada Payasam",
+    "local_name": null,
+    "pronunciation": "PAA-la-da PAA-ya-sum",
+    "category": "sweet",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A creamy, pale pink pudding of rice ada cooked slowly in milk and sugar with ghee. It is made for special occasions such as Onam.",
+    "how_to_eat": "Eat it warm or chilled at the end of a meal.",
+    "how_to_order": "Comes with sadya; ask for 'palada' at vegetarian restaurants during festivals.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-chakka-prathaman",
+    "name": "Chakka Prathaman",
+    "local_name": "ചക്ക പ്രഥമൻ",
+    "pronunciation": "CHUK-ka PRA-tha-mun",
+    "category": "sweet",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A traditional Kerala payasam made with jackfruit.",
+    "how_to_eat": null,
+    "how_to_order": "Look for it with sadya in jackfruit season.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chakka_prathaman",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chakka_prathaman"
+    ]
+  },
+  {
+    "id": "kerala-kozhikodan-halwa",
+    "name": "Kozhikodan Halwa",
+    "local_name": null,
+    "pronunciation": "ko-zhi-KO-dun HUL-wa",
+    "category": "sweet",
+    "state": "Kerala",
+    "regions": [
+      "Kozhikode"
+    ],
+    "description": "Glossy, brightly coloured halwa cubes made from flour starch, sugar or jaggery and nuts cooked in coconut oil for about two hours; some recipes use egg. Sweetmeat Street (SM Street, Mittayi Theruvu) in Kozhikode is the centre of its making and selling.",
+    "how_to_eat": "Eat it in small slices; it is chewy and very sweet.",
+    "how_to_order": "Buy by weight on SM Street in Kozhikode; shops let you mix flavours.",
+    "typical_price_inr": "80-180 per kg",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://keralatourism.org/shopping-options/kozhikkodan-halwa-a-sweet-legacy-of-kerala/31",
+      "https://www.onmanorama.com/food/features/2020/02/15/kozhikode-calicut-halwa-food-history.html",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-banana-chips",
+    "name": "Kerala Banana Chips",
+    "local_name": "നേന്ത്രക്കായ ഉപ്പേരി",
+    "pronunciation": "BA-na-na chips",
+    "category": "snack",
+    "state": "Kerala",
+    "regions": [],
+    "description": "Thin slices of raw Nendran banana fried in coconut oil, either salted or coated in jaggery (sharkara upperi). They are part of the sadya and a standard take-home snack.",
+    "how_to_eat": "Eat them as is with tea.",
+    "how_to_order": "Buy freshly fried chips by weight at chips shops in any town.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Banana_chips",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Banana_chips",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-pazham-pori",
+    "name": "Pazham Pori",
+    "local_name": "പഴംപൊരി",
+    "pronunciation": "PA-zham PO-ri",
+    "category": "snack",
+    "state": "Kerala",
+    "regions": [],
+    "description": "Ripe Nendran banana slices dipped in a maida batter and deep-fried. It is the default tea-time snack at Kerala tea shops; in Kochi it is also eaten with beef curry.",
+    "how_to_eat": "Eat it hot with a glass of sweet tea.",
+    "how_to_order": "Ask for 'pazham pori' at any chayakada (tea stall) in the evening.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Banana_fritter",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Banana_fritter",
+      "https://sotc.in/blog/indian-holidays/top-10-foods-to-eat-in-kerala",
+      "https://thebetterindia.com/172384/kochi-street-food-recommendations-travel",
+      "https://www.onmanorama.com/food/features/2025/09/27/kerala-food-experiences.amp.html"
+    ]
+  },
+  {
+    "id": "kerala-parippu-vada",
+    "name": "Parippu Vada",
+    "local_name": null,
+    "pronunciation": "pa-RIP-pu VA-da",
+    "category": "snack",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A crisp, flat lentil fritter with shallots, onion, ginger, chillies and curry leaves. A chayakada (tea stall) in Kerala is said to be incomplete without it.",
+    "how_to_eat": "Eat it hot with tea; some pair it with a banana.",
+    "how_to_order": "Ask for 'parippu vada' at tea stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://gulfnews.com/food/guide-cooking/weekend-food-guide-keralas-parippu-vada-is-a-crispy-delight-best-eaten-with-tea-or-a-banana-1.1625150729966",
+      "https://www.onmanorama.com/food/features/2025/09/27/kerala-food-experiences.amp.html"
+    ]
+  },
+  {
+    "id": "kerala-unniyappam",
+    "name": "Unniyappam",
+    "local_name": "ഉണ്ണിയപ്പം",
+    "pronunciation": "un-ni-YAAP-pum",
+    "category": "snack",
+    "state": "Kerala",
+    "regions": [],
+    "description": "Small round fritters of rice, jaggery, banana, roasted coconut pieces, sesame, ghee and cardamom, fried in a special pan. 'Unni' means small in Malayalam.",
+    "how_to_eat": "Eat them warm or at room temperature as a tea-time snack.",
+    "how_to_order": "Buy them in packets at bakeries or at temple counters.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Unni_appam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Unni_appam",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-neyyappam",
+    "name": "Neyyappam",
+    "local_name": "നെയ്യപ്പം",
+    "pronunciation": "NEY-yaap-pum",
+    "category": "snack",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A sweet fritter of rice flour, jaggery and ghee-fried coconut fried in ghee. It is a tea-time snack and is offered in Hindu temples in Kerala.",
+    "how_to_eat": "Eat it as a snack with tea.",
+    "how_to_order": "Buy it at bakeries and temple prasadam counters.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Neyyappam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Neyyappam"
+    ]
+  },
+  {
+    "id": "kerala-achappam",
+    "name": "Achappam",
+    "local_name": "അച്ചപ്പം",
+    "pronunciation": "ACH-chap-pum",
+    "category": "snack",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A crisp, lightly sweet rose-shaped cookie of rice flour, coconut milk, sugar and egg, fried using a patterned iron mould. It is a signature Kerala snack believed to come from Dutch influence.",
+    "how_to_eat": "Eat it as is; it keeps well for days.",
+    "how_to_order": "Buy packets at bakeries.",
+    "typical_price_inr": null,
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Achappam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Achappam",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-ela-ada",
+    "name": "Ela Ada",
+    "local_name": null,
+    "pronunciation": "E-la UD-a",
+    "category": "snack",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A rice flour jacket filled with jaggery and grated coconut, folded in a piece of banana leaf and steamed. It is a common evening snack in Kerala.",
+    "how_to_eat": "Peel off the leaf and eat it warm.",
+    "how_to_order": "Look for 'ela ada' at tea shops and bakeries.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kerala_cuisine",
+      "https://gulfnews.com/food/tea-time-try-these-9-must-try-snacks-from-kerala-that-you-can-make-at-home-1.1696332715223"
+    ]
+  },
+  {
+    "id": "kerala-kozhukkatta",
+    "name": "Kozhukkatta",
+    "local_name": "കൊഴുക്കട്ട",
+    "pronunciation": "ko-ZHUK-kat-ta",
+    "category": "snack",
+    "state": "Kerala",
+    "regions": [],
+    "description": "Steamed rice flour dumplings filled with grated coconut and jaggery. Saint Thomas Christians make them before Palm Sunday.",
+    "how_to_eat": "Eat them warm with tea.",
+    "how_to_order": "Found at tea shops and home-style bakeries.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kozhukkatta",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kozhukkatta",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-sukhiyan",
+    "name": "Sukhiyan",
+    "local_name": null,
+    "pronunciation": "SU-khi-yun",
+    "category": "snack",
+    "state": "Kerala",
+    "regions": [],
+    "description": "A ball of cooked mung beans and jaggery dipped in maida batter and deep-fried. It is a common item at small tea shops in Kerala towns and villages.",
+    "how_to_eat": "Eat it hot with tea.",
+    "how_to_order": "Ask for 'sukhiyan' at tea shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sukiyan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sukiyan",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-unnakaya",
+    "name": "Unnakaya",
+    "local_name": null,
+    "pronunciation": "UN-na-ka-ya",
+    "category": "snack",
+    "state": "Kerala",
+    "regions": [
+      "Kozhikode",
+      "Malappuram",
+      "Kannur"
+    ],
+    "description": "A spindle-shaped sweet of mashed ripe Nendran banana stuffed with a filling and deep-fried. It belongs to Mappila cooking of the Malabar coast and is eaten at weddings and Iftar.",
+    "how_to_eat": "Eat it warm as a snack.",
+    "how_to_order": "Look for it at Malabar snack shops, especially during Ramadan.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Unnakai",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Unnakai",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-pathiri",
+    "name": "Pathiri",
+    "local_name": "പത്തിരി",
+    "pronunciation": "PUT-thi-ri",
+    "category": "meal",
+    "state": "Kerala",
+    "regions": [
+      "Kozhikode",
+      "Malappuram"
+    ],
+    "description": "A thin, soft flatbread of rice flour. It is a staple of the Mappila Muslim community of Malabar.",
+    "how_to_eat": "Eat it with chicken or mutton curry.",
+    "how_to_order": "Ask for 'pathiri' at Malabar restaurants, especially at Iftar time.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pathiri",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pathiri",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-chatti-pathiri",
+    "name": "Chatti Pathiri",
+    "local_name": "ചട്ടിപ്പത്തിരി",
+    "pronunciation": "CHUT-ti PUT-thi-ri",
+    "category": "sweet",
+    "state": "Kerala",
+    "regions": [
+      "Kozhikode",
+      "Malappuram"
+    ],
+    "description": "A layered Malabar 'cake' of thin flour pancakes softened in milk and stacked with sweetened beaten egg, nuts and raisins, then baked; savoury versions use a meat filling. It is a must at Iftar and weddings.",
+    "how_to_eat": "Cut it into wedges and eat warm.",
+    "how_to_order": "Look for it at Malabar homes and Ramadan food stalls.",
+    "typical_price_inr": null,
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chatti_pathiri",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chatti_pathiri",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-kalathappam",
+    "name": "Kalathappam",
+    "local_name": "കലത്തപ്പം",
+    "pronunciation": "KA-lath-ap-pum",
+    "category": "snack",
+    "state": "Kerala",
+    "regions": [
+      "Kannur",
+      "Malappuram",
+      "Kasaragod"
+    ],
+    "description": "A thick rice cake of ground rice, jaggery, coconut flakes, fried shallots and cardamom, cooked in a pan or baked. It is a North Malabar speciality.",
+    "how_to_eat": "Cut it into slices and eat with tea.",
+    "how_to_order": "Look for it at Malabar bakeries and tea shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kalathappam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kalathappam",
+      "https://en.wikipedia.org/wiki/Kerala_cuisine"
+    ]
+  },
+  {
+    "id": "kerala-kulukki-sarbath",
+    "name": "Kulukki Sarbath",
+    "local_name": null,
+    "pronunciation": "KU-luk-ki SAR-bath",
+    "category": "drink",
+    "state": "Kerala",
+    "regions": [
+      "Kochi"
+    ],
+    "description": "A local lemonade with khus-khus seeds, shaken hard in a closed glass by the seller before serving ('kulukki' means shaken).",
+    "how_to_eat": "Drink it straight away while it is still frothy.",
+    "how_to_order": "Ask for 'kulukki sarbath' at juice stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://thebetterindia.com/172384/kochi-street-food-recommendations-travel"
+    ]
+  },
+  {
+    "id": "kerala-sulaimani",
+    "name": "Sulaimani Tea",
+    "local_name": null,
+    "pronunciation": "su-lai-MAA-ni",
+    "category": "drink",
+    "state": "Kerala",
+    "regions": [
+      "Kozhikode"
+    ],
+    "description": "Black tea without milk, sweetened and finished with lemon, often spiced with cardamom or cloves. In Malabar it is drunk after heavy meals such as biryani and served to guests.",
+    "how_to_eat": "Sip it after a rich meal.",
+    "how_to_order": "Ask for 'sulaimani' at Malabar restaurants, especially after biryani.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://gulfnews.com/food/the-journey-of-sulaimani-tea-from-keralas-malabar-coast-to-the-uae-1.1628444711871",
+      "https://thebetterindia.com/135601/sulaimani-tea-history-kerala"
+    ]
+  }
+]

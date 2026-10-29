@@ -1,0 +1,213 @@
+[
+  {
+    "id": "tripura-mui-borok",
+    "name": "Mui Borok",
+    "local_name": null,
+    "pronunciation": "mui BO-rok",
+    "category": "meal",
+    "state": "Tripura",
+    "regions": [
+      "Agartala"
+    ],
+    "description": "Tripura's best-known dish: vegetables and bamboo shoots cooked with berma (dried, fermented fish), usually without oil. It is called the soul food of the state.",
+    "how_to_eat": "Eat with plain steamed rice.",
+    "how_to_order": "Ask for 'mui borok' at Tripuri restaurants in Agartala.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tripuri_cuisine",
+      "https://blog.swiggy.com/?p=24292",
+      "https://www.cuisineindiasociety.in/latest_news/tripura-the-land-of-wholesome-and-delicious-food/",
+      "https://neramac.com/cuisine-of-tripura"
+    ]
+  },
+  {
+    "id": "tripura-mosdeng-serma",
+    "name": "Mosdeng Serma",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Tripura",
+    "regions": [],
+    "description": "A tangy chutney of soaked dry red chillies and tomato, often with berma, garlic and green chilli. Served with meat dishes and rice.",
+    "how_to_eat": "Eat a little with rice and meat.",
+    "how_to_order": "Ask for 'mosdeng serma'.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mosdeng",
+    "source_urls": [
+      "https://www.cuisineindiasociety.in/latest_news/tripura-the-land-of-wholesome-and-delicious-food/",
+      "https://blog.swiggy.com/?p=24292",
+      "https://en.wikipedia.org/wiki/Mosdeng"
+    ]
+  },
+  {
+    "id": "tripura-chakhwi",
+    "name": "Chakhwi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Tripura",
+    "regions": [],
+    "description": "A slow-cooked ceremonial Tripuri dish of meat (often pork) and bamboo shoots, sometimes with jackfruit and papaya, cooked with khar (banana peel ash) or soda and thickened with rice powder. It is served at weddings and ceremonies.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Ask for 'chakhwi' at Tripuri restaurants or community feasts.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.cuisineindiasociety.in/latest_news/tripura-the-land-of-wholesome-and-delicious-food/",
+      "https://blog.swiggy.com/?p=24292"
+    ]
+  },
+  {
+    "id": "tripura-berma-bwtwi",
+    "name": "Berma Bwtwi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Tripura",
+    "regions": [],
+    "description": "A stew of berma, fermented fish, cooked with assorted vegetables.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Ask for 'berma bwtwi' at Tripuri eateries.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tripuri_cuisine"
+    ]
+  },
+  {
+    "id": "tripura-wahan-mosdeng",
+    "name": "Wahan Mosdeng",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Tripura",
+    "regions": [],
+    "description": "A spicy pork dish, traditionally made with wild boar, where the meat is grilled over charcoal and mixed with chilli, onion, garlic and ginger like a salad or chutney.",
+    "how_to_eat": "Eat as a side with rice.",
+    "how_to_order": "Ask for 'wahan mosdeng' at Tripuri restaurants in Agartala.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tripuri_cuisine",
+      "https://www.cuisineindiasociety.in/latest_news/tripura-the-land-of-wholesome-and-delicious-food/",
+      "https://blog.swiggy.com/?p=24292"
+    ]
+  },
+  {
+    "id": "tripura-gudok",
+    "name": "Gudok",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Tripura",
+    "regions": [],
+    "description": "A slow-cooked indigenous dish of berma (fermented fish) with beans, potatoes and seasonal vegetables or bamboo shoot. A staple at festivals and family gatherings.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Ask for 'gudok' at Tripuri eateries.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.cuisineindiasociety.in/latest_news/tripura-the-land-of-wholesome-and-delicious-food/",
+      "https://blog.swiggy.com/?p=24292"
+    ]
+  },
+  {
+    "id": "tripura-awandru",
+    "name": "Awandru",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Tripura",
+    "regions": [],
+    "description": "A Tiprasa dish of yellow peas, bamboo shoots, mushrooms or snails thickened with rice powder slurry and crushed garlic; the bamboo shoot version is muya awandru, made with berma.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": "Ask for 'muya awandru' at Tripuri eateries.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.cuisineindiasociety.in/latest_news/tripura-the-land-of-wholesome-and-delicious-food/"
+    ]
+  },
+  {
+    "id": "tripura-matabari-peda",
+    "name": "Matabari Peda",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "temple_food",
+    "state": "Tripura",
+    "regions": [
+      "Udaipur"
+    ],
+    "description": "A peda made from pindi khoya and sugar, offered as prasad at the Tripura Sundari (Matabari) temple in Udaipur. Its low moisture gives it a long shelf life, and it received a GI tag in 2024.",
+    "how_to_eat": "Eat as prasad or as a sweet; it keeps for days.",
+    "how_to_order": "Buy 'Matabari peda' from shops outside the Tripura Sundari temple in Udaipur.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.cuisineindiasociety.in/latest_news/tripura-the-land-of-wholesome-and-delicious-food/",
+      "https://www.eastmojo.com/tripura/2024/03/31/tripura-tribal-attire-rignai-matabari-peda-get-gi-tag-jackfruit-rejected/",
+      "https://www.borderlens.com/2024/04/01/tripuras-matabari-peda-and-traditional-rignai-awarded-gi-tag/"
+    ]
+  }
+]

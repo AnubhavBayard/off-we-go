@@ -9,7 +9,7 @@ import { deleteMemory, resolvePendingPlaces, useMemories, usePhotoUrl, type Memo
 type Countries = FeatureCollection<Geometry, { iso: string; name: string }>
 
 // Plain world outline, no street tiles: works offline and loads instantly.
-const WORLD_STYLE = { version: 8 as const, sources: {}, layers: [{ id: 'bg', type: 'background' as const, paint: { 'background-color': '#cfe3ef' } }] }
+const WORLD_STYLE = { version: 8 as const, sources: {}, layers: [{ id: 'bg', type: 'background' as const, paint: { 'background-color': '#e3eaf2' } }] }
 
 function bbox(geometry: Geometry): [number, number, number, number] {
   const b: [number, number, number, number] = [180, 90, -180, -90]
@@ -102,7 +102,7 @@ export default function Memories() {
 
   return (
     <div className="page">
-      <h1>My food memories</h1>
+      <h1>My food <span className="hl">memories</span></h1>
       <p className="small">
         <Link to="/account">{session ? `Backed up as ${session.user.email}` : 'Not backed up. Sign in to keep your photos safe'}</Link>
       </p>
@@ -129,9 +129,9 @@ export default function Memories() {
               <Layer
                 id="country-fill"
                 type="fill"
-                paint={{ 'fill-color': ['case', ['in', ['get', 'iso'], ['literal', visited]], '#e8743b', '#f4f1ea'] }}
+                paint={{ 'fill-color': ['case', ['in', ['get', 'iso'], ['literal', visited]], '#d2f04f', '#ffffff'] }}
               />
-              <Layer id="country-line" type="line" paint={{ 'line-color': '#9a9488', 'line-width': 0.5 }} />
+              <Layer id="country-line" type="line" paint={{ 'line-color': '#c5ccd6', 'line-width': 0.5 }} />
             </Source>
           )}
           {cities.map((c) => (

@@ -1,0 +1,216 @@
+[
+  {
+    "id": "meghalaya-jadoh",
+    "name": "Jadoh",
+    "local_name": null,
+    "pronunciation": "JA-doh",
+    "category": "meal",
+    "state": "Meghalaya",
+    "regions": [
+      "Shillong",
+      "Mylliem"
+    ],
+    "description": "The best-known Khasi dish: rice, often red rice, cooked with pork and spices, sometimes with chicken or fish instead. It is traditionally served with dohkhlieh and tungrymbai, and roadside jadoh stalls at Mylliem near Shillong are famous for it.",
+    "how_to_eat": "Eat with doh khlieh, tungtap chutney and a thin dal on the side.",
+    "how_to_order": "Order a jadoh plate at a jadoh stall in Shillong's Lewdah (Bara Bazar) market or at Mylliem; you choose the meat side dish.",
+    "typical_price_inr": "60",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Meghalayan_cuisine",
+      "https://meghalayatourism.in/meghalaya-mosaic/flavours-of-heritage/",
+      "https://www.trawell.in/blog/unique-foods-of-meghalaya",
+      "https://moha-mushkil.com/best-food-shillong-meghalaya-cherrapunji/"
+    ]
+  },
+  {
+    "id": "meghalaya-dohkhlieh",
+    "name": "Dohkhlieh",
+    "local_name": null,
+    "pronunciation": "doh-KHLEH",
+    "category": "meal",
+    "state": "Meghalaya",
+    "regions": [
+      "Shillong"
+    ],
+    "description": "A Khasi and Jaintia pork salad of boiled minced pork with onion, green chilli and salt; some places add tomato, beans or lemon. It is light, easy to make and sold at food stalls across the state.",
+    "how_to_eat": "Eat as a side with jadoh or rice.",
+    "how_to_order": "Ask for 'doh khlieh' at jadoh stalls and Khasi restaurants in Shillong.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Meghalayan_cuisine",
+      "https://meghalayatourism.in/meghalaya-mosaic/flavours-of-heritage/",
+      "https://www.trawell.in/blog/unique-foods-of-meghalaya"
+    ]
+  },
+  {
+    "id": "meghalaya-doh-neiiong",
+    "name": "Doh Neiiong",
+    "local_name": null,
+    "pronunciation": "doh NAI-ong",
+    "category": "meal",
+    "state": "Meghalaya",
+    "regions": [],
+    "description": "Pork cooked with a paste of black sesame seeds, which gives a dark, nutty, earthy gravy. It is common in Khasi and Pnar (Jaintia) homes and is served at festivals.",
+    "how_to_eat": "Eat with steamed rice or jadoh.",
+    "how_to_order": "Ask for 'doh sniang nei-iong' (pork with black sesame) at Khasi restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://meghalayatourism.in/meghalaya-mosaic/flavours-of-heritage/",
+      "https://en.wikipedia.org/wiki/Meghalayan_cuisine",
+      "https://www.restaurantindia.in/article/top-10-famous-foods-from-shillong-you-must-try-once.16269"
+    ]
+  },
+  {
+    "id": "meghalaya-tungrymbai",
+    "name": "Tungrymbai",
+    "local_name": null,
+    "pronunciation": "tung-RIM-bai",
+    "category": "meal",
+    "state": "Meghalaya",
+    "regions": [],
+    "description": "Fermented soybeans of the Khasi and Jaintia peoples, cooked into a thick dish with black sesame, ginger, garlic, onion and often pork. It has a strong, earthy flavour; vegetarians can have it without the pork.",
+    "how_to_eat": "Eat with hot steamed rice.",
+    "how_to_order": "Ask for 'tungrymbai' with your jadoh or rice; ask if it has pork.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tungrymbai",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tungrymbai",
+      "https://en.wikipedia.org/wiki/Meghalayan_cuisine",
+      "https://meghalayatourism.in/meghalaya-mosaic/flavours-of-heritage/",
+      "https://www.trawell.in/blog/unique-foods-of-meghalaya"
+    ]
+  },
+  {
+    "id": "meghalaya-nakham-bitchi",
+    "name": "Nakham Bitchi",
+    "local_name": null,
+    "pronunciation": "NA-kham BIT-chi",
+    "category": "meal",
+    "state": "Meghalaya",
+    "regions": [
+      "Garo Hills"
+    ],
+    "description": "A Garo soup or gravy of nakham, a sun- or fire-dried local fish, boiled with vegetables, chilli and pepper. It is spicy, prized as a delicacy and served as a starter before the main meal.",
+    "how_to_eat": "Drink it as a starter or pour over rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.trawell.in/blog/unique-foods-of-meghalaya",
+      "https://meghalayatourism.in/meghalaya-mosaic/flavours-of-heritage/"
+    ]
+  },
+  {
+    "id": "meghalaya-pumaloi",
+    "name": "Pumaloi",
+    "local_name": null,
+    "pronunciation": "pu-ma-LOI",
+    "category": "meal",
+    "state": "Meghalaya",
+    "regions": [],
+    "description": "A Khasi steamed cake of powdered rice cooked in a black terracotta pot called khiew ranei. It is unspiced, so it is served with a gravy of pork, chicken or vegetables, at any meal of the day.",
+    "how_to_eat": "Eat with a meat or vegetable curry.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.trawell.in/blog/unique-foods-of-meghalaya",
+      "https://meghalayatourism.in/meghalaya-mosaic/flavours-of-heritage/"
+    ]
+  },
+  {
+    "id": "meghalaya-putharo",
+    "name": "Putharo",
+    "local_name": null,
+    "pronunciation": "pu-THA-ro",
+    "category": "meal",
+    "state": "Meghalaya",
+    "regions": [
+      "Jaintia Hills"
+    ],
+    "description": "A soft, spongy rice-flour flatbread steamed in a special black pot. It is a Jaintia and Khasi favourite, paired with dohjem (pork curry with black sesame) or taken with tea and chutney.",
+    "how_to_eat": "Eat with pork curry or with tea and chutney.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://meghalayatourism.in/meghalaya-mosaic/flavours-of-heritage/",
+      "https://www.businessinsider.in/travel/india/taste-of-shillong-delight-in-its-signature-dishes/articleshow/103650579.cms"
+    ]
+  },
+  {
+    "id": "meghalaya-pukhlein",
+    "name": "Pukhlein",
+    "local_name": null,
+    "pronunciation": "pu-KHLEIN",
+    "category": "snack",
+    "state": "Meghalaya",
+    "regions": [],
+    "description": "A deep-fried Khasi rice cake of powdered rice and jaggery, thick and golden brown. It is one of the jingbam dihsha, the rice snacks served with red tea.",
+    "how_to_eat": "Eat with tea as an evening snack.",
+    "how_to_order": "Ask for 'pu khlein' at tea stalls and markets in Shillong.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://meghalayatourism.in/meghalaya-mosaic/flavours-of-heritage/",
+      "https://www.trawell.in/blog/unique-foods-of-meghalaya"
+    ]
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "id": "uttarakhand-kafuli",
+    "name": "Kafuli",
+    "local_name": null,
+    "pronunciation": "ka-FOO-lee",
+    "category": "meal",
+    "state": "Uttarakhand",
+    "regions": [
+      "Garhwal"
+    ],
+    "description": "A thick green curry of spinach and fenugreek leaves, thickened with rice or wheat flour and often finished with yogurt or buttermilk. Traditionally cooked in an iron pot, it is a signature dish of Uttarakhand, favoured in Garhwal.",
+    "how_to_eat": "Eat it with steamed rice or mandua roti.",
+    "how_to_order": "Ask for kafuli with rice at pahadi-food restaurants and homestays.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://blog.swiggy.com/food/traditional-food-of-uttarakhand/",
+      "https://30stades.com/2021/05/30/uttarakhand-garhwali-kumaoni-food-cuisine-pictures-thechwani-bal-mithai-bhang-chutney-gahat-paratha",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Uttarakhand"
+    ]
+  },
+  {
+    "id": "uttarakhand-phaanu",
+    "name": "Phaanu",
+    "local_name": null,
+    "pronunciation": "PHAA-noo",
+    "category": "meal",
+    "state": "Uttarakhand",
+    "regions": [
+      "Garhwal"
+    ],
+    "description": "A Garhwali stew of one or several lentils soaked overnight, ground to a paste and slow-cooked for hours to a soupy consistency with minimal spices.",
+    "how_to_eat": "Eat it with steamed rice.",
+    "how_to_order": "Ask for phaanu-bhaat at Garhwali home kitchens or pahadi-food restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://blog.swiggy.com/food/traditional-food-of-uttarakhand/",
+      "https://30stades.com/2021/05/30/uttarakhand-garhwali-kumaoni-food-cuisine-pictures-thechwani-bal-mithai-bhang-chutney-gahat-paratha"
+    ]
+  },
+  {
+    "id": "uttarakhand-chainsoo",
+    "name": "Chainsoo",
+    "local_name": null,
+    "pronunciation": "CHAIN-soo",
+    "category": "meal",
+    "state": "Uttarakhand",
+    "regions": [
+      "Garhwal"
+    ],
+    "description": "Black urad dal roasted, ground and cooked in ghee with onion, tomato and spices. A Garhwali dish also made in Kumaon, it is often cooked in iron vessels and eaten especially in winter.",
+    "how_to_eat": "Eat it with steamed rice.",
+    "how_to_order": "Ask for chainsoo (also called chaunsu) with rice at pahadi-food restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://inditales.com/delicacies-kumaon-cuisine-uttarakhand/",
+      "https://blog.swiggy.com/food/traditional-food-of-uttarakhand/",
+      "https://30stades.com/2021/05/30/uttarakhand-garhwali-kumaoni-food-cuisine-pictures-thechwani-bal-mithai-bhang-chutney-gahat-paratha",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Uttarakhand"
+    ]
+  },
+  {
+    "id": "uttarakhand-bhatt-ki-churkani",
+    "name": "Bhatt ki Churkani",
+    "local_name": null,
+    "pronunciation": "BHUTT kee CHUR-ka-nee",
+    "category": "meal",
+    "state": "Uttarakhand",
+    "regions": [
+      "Kumaon"
+    ],
+    "description": "A Kumaoni curry of bhatt (black soybean) blended with rice flour, ginger-garlic paste, turmeric and chilli. Bhatt is a key crop of Kumaon.",
+    "how_to_eat": "Eat it with rice, garnished with coriander.",
+    "how_to_order": "Ask for bhatt ki churkani with rice at Kumaoni restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://inditales.com/delicacies-kumaon-cuisine-uttarakhand/",
+      "https://30stades.com/2021/05/30/uttarakhand-garhwali-kumaoni-food-cuisine-pictures-thechwani-bal-mithai-bhang-chutney-gahat-paratha",
+      "https://en.wikipedia.org/wiki/Kumauni_cuisine"
+    ]
+  },
+  {
+    "id": "uttarakhand-aloo-ke-gutke",
+    "name": "Aloo ke Gutke",
+    "local_name": null,
+    "pronunciation": "AA-loo kay GUT-kay",
+    "category": "snack",
+    "state": "Uttarakhand",
+    "regions": [
+      "Kumaon"
+    ],
+    "description": "Parboiled pahadi potatoes cut into pieces and fried with basic spices. Called the fast food of Kumaon, it is sold hot at tea stalls and eaten at Holi.",
+    "how_to_eat": "Eat it hot with bhang ki chutney and tea.",
+    "how_to_order": "Ask for aloo ke gutke at tea stalls in Kumaoni towns.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://inditales.com/delicacies-kumaon-cuisine-uttarakhand/",
+      "https://30stades.com/2021/05/30/uttarakhand-garhwali-kumaoni-food-cuisine-pictures-thechwani-bal-mithai-bhang-chutney-gahat-paratha",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Uttarakhand"
+    ]
+  },
+  {
+    "id": "uttarakhand-jhangore-ki-kheer",
+    "name": "Jhangore ki Kheer",
+    "local_name": null,
+    "pronunciation": "JHUN-go-ray kee KHEER",
+    "category": "sweet",
+    "state": "Uttarakhand",
+    "regions": [],
+    "description": "A pudding of jhangora (barnyard millet) cooked in milk with sugar and cardamom. It is a hill alternative to rice kheer.",
+    "how_to_eat": "Eat it warm or chilled with a spoon.",
+    "how_to_order": "Ask for jhangora kheer at pahadi restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://30stades.com/2021/05/30/uttarakhand-garhwali-kumaoni-food-cuisine-pictures-thechwani-bal-mithai-bhang-chutney-gahat-paratha",
+      "https://ghughuti.org/uttarakhand-famous-food/"
+    ]
+  },
+  {
+    "id": "uttarakhand-bhang-ki-chutney",
+    "name": "Bhang ki Chutney",
+    "local_name": null,
+    "pronunciation": "BHAANG kee CHUT-nee",
+    "category": "meal",
+    "state": "Uttarakhand",
+    "regions": [
+      "Kumaon"
+    ],
+    "description": "A tangy paste of roasted hemp seeds ground with green chilli, lemon juice, mint, coriander and salt. It accompanies many Kumaoni snacks.",
+    "how_to_eat": "Eat it as a dip with aloo ke gutke, parathas or pakoras.",
+    "how_to_order": "Ask for bhang ki chutney on the side when ordering aloo ke gutke or gahat paratha.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://inditales.com/delicacies-kumaon-cuisine-uttarakhand/",
+      "https://30stades.com/2021/05/30/uttarakhand-garhwali-kumaoni-food-cuisine-pictures-thechwani-bal-mithai-bhang-chutney-gahat-paratha",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Uttarakhand"
+    ]
+  },
+  {
+    "id": "uttarakhand-bal-mithai",
+    "name": "Bal Mithai",
+    "local_name": null,
+    "pronunciation": "baal MI-thai",
+    "category": "sweet",
+    "state": "Uttarakhand",
+    "regions": [
+      "Almora",
+      "Kumaon"
+    ],
+    "description": "A brown, chocolate-like fudge of roasted khoya coated in tiny white sugar-coated poppy-seed balls. It is the best-known sweet of Kumaon, and Almora is the place most associated with it.",
+    "how_to_eat": "Eat a piece as is; the sugar balls give it crunch.",
+    "how_to_order": "Ask for bal mithai by weight at sweet shops in Almora's bazaar; it travels well as a gift.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bal_mithai",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bal_mithai",
+      "https://inditales.com/delicacies-kumaon-cuisine-uttarakhand/",
+      "https://30stades.com/2021/05/30/uttarakhand-garhwali-kumaoni-food-cuisine-pictures-thechwani-bal-mithai-bhang-chutney-gahat-paratha"
+    ]
+  },
+  {
+    "id": "uttarakhand-singori",
+    "name": "Singori",
+    "local_name": "सिङ्गौड़ी",
+    "pronunciation": "sin-GO-ree",
+    "category": "sweet",
+    "state": "Uttarakhand",
+    "regions": [
+      "Almora",
+      "Tehri"
+    ],
+    "description": "Thickened, flavoured khoya, sometimes with coconut, wrapped in a cone of maalu leaf. It began as a delicacy of Old Tehri under the Panwar dynasty and is now strongly identified with Almora and Kumaon.",
+    "how_to_eat": "Unwrap the leaf cone and eat the sweet inside; the leaf is not eaten.",
+    "how_to_order": "Ask for singori by the piece at Almora sweet shops, usually sold alongside bal mithai.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Singori",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Singori",
+      "https://inditales.com/delicacies-kumaon-cuisine-uttarakhand/",
+      "https://30stades.com/2021/05/30/uttarakhand-garhwali-kumaoni-food-cuisine-pictures-thechwani-bal-mithai-bhang-chutney-gahat-paratha"
+    ]
+  },
+  {
+    "id": "uttarakhand-buransh-sharbat",
+    "name": "Buransh Sharbat",
+    "local_name": null,
+    "pronunciation": "boo-RAANSH SHUR-bat",
+    "category": "drink",
+    "state": "Uttarakhand",
+    "regions": [],
+    "description": "A deep-red drink made from the flowers of Rhododendron arboreum (buransh), which bloom across the Uttarakhand hills. Burans Sharbat received a GI tag in 2023.",
+    "how_to_eat": "Dilute the squash with cold water and drink it chilled.",
+    "how_to_order": "Ask for buransh juice or squash at shops and government outlets in hill towns; it is sold bottled.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.drishtiias.com/state-pcs-current-affairs/uttarakhand-is-the-state-in-the-country-to-get-maximum-18-tags-in-a-single-day/print_manually",
+      "https://www.latestly.com/agency-news/india-news-uttarakhand-first-gallery-of-gi-products-established-in-haldwani-7515678.html"
+    ]
+  }
+]

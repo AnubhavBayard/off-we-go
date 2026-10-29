@@ -33,8 +33,8 @@ export default function Account() {
 
   return (
     <div className="page">
-      <Link to="/memories" className="back">← Memories</Link>
-      <h1>Back up memories</h1>
+      <Link to="/memories" className="back" aria-label="Back to memories">←</Link>
+      <h1>Back up <span className="hl">memories</span></h1>
 
       {session ? (
         <>

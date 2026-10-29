@@ -1,0 +1,301 @@
+[
+  {
+    "id": "madhya_pradesh-indori-poha",
+    "name": "Indori Poha",
+    "local_name": null,
+    "pronunciation": "PO-ha",
+    "category": "street_food",
+    "state": "Madhya Pradesh",
+    "regions": [
+      "Indore",
+      "Bhopal"
+    ],
+    "description": "Flattened rice cooked with onions, mustard seeds, curry leaves and mild spices, sometimes with potatoes and peanuts. In Indore it is topped with sev, pomegranate seeds and lemon. Originally Maharashtrian, it is now Madhya Pradesh's signature breakfast, usually paired with jalebi.",
+    "how_to_eat": "Eat it hot in the morning with a jalebi on the side for the sweet-salty contrast.",
+    "how_to_order": "Ask for 'poha jalebi' at any morning street stall; Chappan Dukan in Indore is a known spot.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Flattened_rice",
+    "source_urls": [
+      "https://www.restaurantindia.in/article/15-famous-foods-of-indore-you-must-try-street-food-capital-of-madhya-pradesh.15161",
+      "https://www.restaurantindia.in/article/best-street-food-in-indore-what-to-eat-at-sarafa-bazaar-and-chappan-dukan.16705",
+      "https://outlooktraveller.com/explore/food-and-drink/one-state-many-flavours-a-food-lovers-guide-to-madhya-pradeshs-cuisine",
+      "https://www.outlooktraveller.com/experiences/food-and-drink/eat-like-a-local-street-food-of-bhopal"
+    ]
+  },
+  {
+    "id": "madhya_pradesh-dal-bafla",
+    "name": "Dal Bafla",
+    "local_name": null,
+    "pronunciation": "daal BAF-la",
+    "category": "meal",
+    "state": "Madhya Pradesh",
+    "regions": [
+      "Bhopal",
+      "Indore",
+      "Malwa"
+    ],
+    "description": "Wheat dough balls boiled and then baked, so they are softer than Rajasthani baati, then dipped in ghee and served with spicy dal and coriander chutney. It is the signature meal of the Malwa region and often part of a thali.",
+    "how_to_eat": "Break the bafla, pour ghee and dal over it, and eat it by hand.",
+    "how_to_order": "Ask for a 'dal bafla thali' at a local bhojanalaya; Bhopal and Indore are known for it.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-madhya-pradesh-1646.html",
+      "https://outlooktraveller.com/explore/food-and-drink/one-state-many-flavours-a-food-lovers-guide-to-madhya-pradeshs-cuisine",
+      "https://www.restaurantindia.in/article/15-famous-foods-of-indore-you-must-try-street-food-capital-of-madhya-pradesh.15161",
+      "https://blog.swiggy.com/?p=17814"
+    ]
+  },
+  {
+    "id": "madhya_pradesh-bhutte-ka-kees",
+    "name": "Bhutte ka Kees",
+    "local_name": null,
+    "pronunciation": "BHUT-tay ka KEES",
+    "category": "street_food",
+    "state": "Madhya Pradesh",
+    "regions": [
+      "Indore",
+      "Malwa"
+    ],
+    "description": "A Malwa dish of fresh grated corn cooked slowly with milk and spices, tempered with mustard seeds and green chillies. Slightly sweet and savoury, it is an Indore evening street snack.",
+    "how_to_eat": "Eat it hot from a small bowl or leaf plate, with a squeeze of lemon if offered.",
+    "how_to_order": "Ask for 'bhutte ka kees' at Sarafa Bazaar or other evening stalls in Indore.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.restaurantindia.in/article/15-famous-foods-of-indore-you-must-try-street-food-capital-of-madhya-pradesh.15161",
+      "https://www.restaurantindia.in/article/best-street-food-in-indore-what-to-eat-at-sarafa-bazaar-and-chappan-dukan.16705",
+      "https://www.holidify.com/pages/food-of-madhya-pradesh-1646.html",
+      "https://www.pw.live/exams/state-psc/traditional-food-of-madhya-pradesh"
+    ]
+  },
+  {
+    "id": "madhya_pradesh-bhopali-seekh-kebab",
+    "name": "Bhopali Seekh Kebab",
+    "local_name": null,
+    "pronunciation": "SEEKH ka-BAAB",
+    "category": "street_food",
+    "state": "Madhya Pradesh",
+    "regions": [
+      "Bhopal"
+    ],
+    "description": "Minced meat shaped onto skewers and roasted over an open flame, part of Bhopal's Mughlai food heritage. Chatori Gali in Old Bhopal is the best-known place for kebabs.",
+    "how_to_eat": "Eat it hot with onion rings, chutney and roti.",
+    "how_to_order": "Ask for 'seekh kebab' at the evening stalls of Chatori Gali, Old Bhopal.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Seekh_kebab",
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-madhya-pradesh-1646.html",
+      "https://outlooktraveller.com/explore/food-and-drink/one-state-many-flavours-a-food-lovers-guide-to-madhya-pradeshs-cuisine"
+    ]
+  },
+  {
+    "id": "madhya_pradesh-kadaknath-chicken",
+    "name": "Kadaknath Chicken",
+    "local_name": null,
+    "pronunciation": "ka-DUK-naath",
+    "category": "meal",
+    "state": "Madhya Pradesh",
+    "regions": [
+      "Jhabua",
+      "Dhar"
+    ],
+    "description": "Meat of the black-fleshed Kadaknath (Kali Masi) chicken breed from Jhabua and Dhar districts, believed locally to boost vigour. 'Jhabua Kadaknath Black Chicken Meat' received a GI tag in 2018.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'Kadaknath chicken' curry at dhabas around Jhabua.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kadaknath",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kadaknath",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India"
+    ]
+  },
+  {
+    "id": "madhya_pradesh-ratlami-sev",
+    "name": "Ratlami Sev",
+    "local_name": null,
+    "pronunciation": "rat-LAA-mee SEV",
+    "category": "snack",
+    "state": "Madhya Pradesh",
+    "regions": [
+      "Ratlam",
+      "Malwa"
+    ],
+    "description": "Crisp fried noodles of gram flour spiced mainly with cloves and black pepper. It is linked to the Bhil community of Ratlam and holds a GI tag registered in 2014-15.",
+    "how_to_eat": "Eat it as a tea-time snack or sprinkle it over poha.",
+    "how_to_order": "Ask for 'Ratlami sev' by weight at a namkeen shop; Ratlam shops sell the original.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "https://www.thebetterindia.com/322913/history-and-origin-of-ratlami-sev-made-by-bhil-tribe-for-mughal-emperors/",
+      "https://www.india.gov.in/explore-india/odop/details/ratlami-sev"
+    ]
+  },
+  {
+    "id": "madhya_pradesh-mawa-bati",
+    "name": "Mawa Bati",
+    "local_name": null,
+    "pronunciation": "MAA-wa BAA-tee",
+    "category": "sweet",
+    "state": "Madhya Pradesh",
+    "regions": [],
+    "description": "A sweet of mawa (milk solids) dough mixed with dry fruits, deep-fried and soaked in sugar syrup. It is often described as a larger relative of gulab jamun and is a festive favourite in the state.",
+    "how_to_eat": "Eat it warm, cut in half to reach the dry-fruit centre.",
+    "how_to_order": "Ask for 'mawa bati' by the piece at a sweet shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-madhya-pradesh-1646.html",
+      "https://outlooktraveller.com/explore/food-and-drink/one-state-many-flavours-a-food-lovers-guide-to-madhya-pradeshs-cuisine",
+      "https://www.pw.live/exams/state-psc/traditional-food-of-madhya-pradesh",
+      "https://www.restaurantindia.in/article/15-famous-foods-of-indore-you-must-try-street-food-capital-of-madhya-pradesh.15161"
+    ]
+  },
+  {
+    "id": "madhya_pradesh-jalebi",
+    "name": "Jalebi",
+    "local_name": null,
+    "pronunciation": "ja-LE-bee",
+    "category": "sweet",
+    "state": "Madhya Pradesh",
+    "regions": [
+      "Indore",
+      "Khandwa",
+      "Bhopal"
+    ],
+    "description": "Batter fried into spirals and soaked in sugar syrup. It is part of the daily breakfast routine in Indore alongside poha, and Khandwa is recommended for some of the best in the state.",
+    "how_to_eat": "Eat it hot and crisp, straight after frying, with poha.",
+    "how_to_order": "Ask for jalebi by weight at a morning sweet or poha stall.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jalebi",
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-madhya-pradesh-1646.html",
+      "https://www.restaurantindia.in/article/15-famous-foods-of-indore-you-must-try-street-food-capital-of-madhya-pradesh.15161",
+      "https://www.pw.live/exams/state-psc/traditional-food-of-madhya-pradesh"
+    ]
+  },
+  {
+    "id": "madhya_pradesh-malpua",
+    "name": "Malpua",
+    "local_name": null,
+    "pronunciation": "MAAL-poo-a",
+    "category": "sweet",
+    "state": "Madhya Pradesh",
+    "regions": [
+      "Jabalpur",
+      "Indore"
+    ],
+    "description": "Pancakes of thick batter fried in ghee and soaked in sugar syrup, sometimes flavoured with saffron. Jabalpur is known for it, and Indore's evening markets serve it with chilled rabdi.",
+    "how_to_eat": "Eat it warm with rabdi on top.",
+    "how_to_order": "Ask for 'malpua rabdi' at a sweet shop or Sarafa Bazaar stall.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Malpua",
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-madhya-pradesh-1646.html",
+      "https://www.restaurantindia.in/article/best-street-food-in-indore-what-to-eat-at-sarafa-bazaar-and-chappan-dukan.16705",
+      "https://blog.swiggy.com/?p=17814"
+    ]
+  },
+  {
+    "id": "madhya_pradesh-morena-gajak",
+    "name": "Morena Gajak",
+    "local_name": null,
+    "pronunciation": "mo-RAY-na ga-JAK",
+    "category": "sweet",
+    "state": "Madhya Pradesh",
+    "regions": [
+      "Morena",
+      "Gwalior"
+    ],
+    "description": "A winter sweet of sesame and jaggery: caramelised jaggery is stretched and folded, mixed with sesame and pressed into sheets. Gajak making is Morena's main industry, and Morena Gajak received a GI tag in 2023.",
+    "how_to_eat": "Eat it in winter as a snack, a piece at a time.",
+    "how_to_order": "Ask for 'Morena gajak' by weight at a gajak shop in Morena or Gwalior.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "https://www.drishtiias.com/state-pcs-current-affairs/sundarja-mango-of-rewa-and-gajak-of-morena-got-gi-tag",
+      "https://www.outlookindia.com/traveller/mp/inspire-me/culture/morena-gajak/",
+      "https://www.goheritagerun.com/?p=14847"
+    ]
+  }
+]

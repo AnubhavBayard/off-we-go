@@ -1,0 +1,881 @@
+[
+  {
+    "id": "punjab-amritsari-kulcha",
+    "name": "Amritsari Kulcha",
+    "local_name": null,
+    "pronunciation": "am-RIT-sa-ri KUL-cha",
+    "category": "meal",
+    "state": "Punjab",
+    "regions": [
+      "Amritsar"
+    ],
+    "description": "A leavened flatbread stuffed with spiced potato (or cauliflower, paneer, onion) and baked against the wall of a clay tandoor until crisp. It is Amritsar's signature breakfast, finished with butter and served with spicy chole; Punjab's food processing department has applied for a GI tag for it, but none is granted yet.",
+    "how_to_eat": "Tear it and scoop up the chole, onions and achaar, with the butter melting on top.",
+    "how_to_order": "Ask for a 'chole kulcha' or 'aloo kulcha' at a kulcha shop in the morning; popular ones sell out by noon.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kulcha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kulcha",
+      "https://www.thehosteller.com/blogs/famous-food-of-amritsar",
+      "https://www.amritsar.com/blogs/amritsars-famous-foods-2025",
+      "https://amritsar.com/blogs/punjabs-amritsari-kulcha-eyes-gi-tag-a-locals-perspective"
+    ]
+  },
+  {
+    "id": "punjab-chole-bhature",
+    "name": "Chole Bhature",
+    "local_name": null,
+    "pronunciation": "CHHO-le bha-TOO-re",
+    "category": "meal",
+    "state": "Punjab",
+    "regions": [],
+    "description": "Spiced chickpea curry paired with bhatura, a puffed deep-fried flatbread of maida leavened with yogurt. Some sources trace its origin to Punjab, and it is eaten as a heavy breakfast or street food.",
+    "how_to_eat": "Tear the hot bhatura and wrap it around the chole with onion and pickle.",
+    "how_to_order": "Ask for 'chole bhature', usually sold as a plate of two bhature, at sweet shops and dhabas.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chole_bhature",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chole_bhature",
+      "https://www.amritsar.com/blogs/amritsars-famous-foods-2025",
+      "https://en.wikipedia.org/wiki/Bhatura"
+    ]
+  },
+  {
+    "id": "punjab-sarson-da-saag-with-makki-di-roti",
+    "name": "Sarson da Saag with Makki di Roti",
+    "local_name": null,
+    "pronunciation": "SAR-son da SAAG, MUK-ki di RO-ti",
+    "category": "meal",
+    "state": "Punjab",
+    "regions": [],
+    "description": "Mustard greens slow-cooked with spices into a thick mash, eaten with flatbread made from maize flour. It is the classic Punjabi winter meal, available mostly from October to February.",
+    "how_to_eat": "Top the saag with white butter and eat it with the makki di roti, with a piece of jaggery on the side.",
+    "how_to_order": "Ask for 'saag makki' at a dhaba in winter; it is usually off the menu in summer.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sarson_da_saag",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sarson_da_saag",
+      "https://en.wikipedia.org/wiki/Makki_di_roti",
+      "https://www.thehosteller.com/blogs/famous-food-of-amritsar"
+    ]
+  },
+  {
+    "id": "punjab-butter-chicken",
+    "name": "Butter Chicken",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Punjab",
+    "regions": [
+      "Amritsar"
+    ],
+    "description": "Chicken cooked in a rich, spiced tomato and butter gravy, also called murgh makhani. It was invented by chefs Kundan Lal Gujral and Kundan Lal Jaggi,, who popularised it at Moti Mahal in Delhi in the 1950s, and it is a staple at Amritsar's chicken houses.",
+    "how_to_eat": "Eat it with butter naan or rice and onion salad.",
+    "how_to_order": "Ask for 'butter chicken', usually ordered as a half or full plate.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Butter_chicken",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Butter_chicken",
+      "https://www.thehosteller.com/blogs/famous-food-of-amritsar",
+      "https://en.wikipedia.org/wiki/Punjabi_cuisine"
+    ]
+  },
+  {
+    "id": "punjab-tandoori-chicken",
+    "name": "Tandoori Chicken",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Punjab",
+    "regions": [],
+    "description": "Chicken marinated in yogurt and spices and roasted in a tandoor, the cylindrical clay oven central to Punjabi cooking. Punjabi cuisine notes an Amritsari style of tandoori chicken.",
+    "how_to_eat": "Eat it with your hands, squeezing lemon over it and dipping in mint chutney with onion rings.",
+    "how_to_order": "Ask for a half or full 'tandoori chicken' at a chicken corner or dhaba.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tandoori_chicken",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tandoori_chicken",
+      "https://en.wikipedia.org/wiki/Punjabi_cuisine"
+    ]
+  },
+  {
+    "id": "punjab-amritsari-fish",
+    "name": "Amritsari Fish",
+    "local_name": null,
+    "pronunciation": "am-RIT-sa-ri MACH-chi",
+    "category": "snack",
+    "state": "Punjab",
+    "regions": [
+      "Amritsar"
+    ],
+    "description": "Freshwater fish marinated in ginger, garlic, turmeric and spices, coated in a besan (gram flour) and rice flour batter and deep-fried. It is Amritsar's best-known non-vegetarian street food, reflecting Punjab's river fish.",
+    "how_to_eat": "Eat it hot with mint chutney, onions and a squeeze of lemon.",
+    "how_to_order": "Ask for 'Amritsari fish', sold by weight or plate at fish and chicken corners.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.thehosteller.com/blogs/famous-food-of-amritsar",
+      "https://www.amritsar.com/blogs/amritsars-famous-foods-2025",
+      "https://en.wikipedia.org/wiki/Punjabi_cuisine"
+    ]
+  },
+  {
+    "id": "punjab-dal-makhani",
+    "name": "Dal Makhani",
+    "local_name": null,
+    "pronunciation": "daal MUKH-ni",
+    "category": "meal",
+    "state": "Punjab",
+    "regions": [],
+    "description": "Whole black urad dal with some kidney beans, slow-cooked with butter, cream and tomatoes until velvety. It is a relatively modern dish originating in the Punjab region and is a staple of Punjabi dhabas.",
+    "how_to_eat": "Eat it with butter naan, lachha paratha or rice.",
+    "how_to_order": "Ask for 'dal makhani' at any dhaba; a half plate serves one.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dal_makhani",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dal_makhani",
+      "https://www.thehosteller.com/blogs/famous-food-of-amritsar"
+    ]
+  },
+  {
+    "id": "punjab-amritsari-lassi",
+    "name": "Amritsari Lassi",
+    "local_name": null,
+    "pronunciation": "LUS-see",
+    "category": "drink",
+    "state": "Punjab",
+    "regions": [
+      "Amritsar"
+    ],
+    "description": "A very thick sweet yogurt drink, sometimes blended with khoya and dry fruits and topped with cream or fresh makhan (butter). Lassi originated in Punjab, traditionally from buffalo-milk yogurt, and Amritsar's version is famous for its density.",
+    "how_to_eat": "Drink it slowly from the tall glass or clay kulhad; it is filling enough to be a meal.",
+    "how_to_order": "Ask for 'meethi lassi' (sweet) or 'namkeen' (salted) at a milk bhandar or dairy shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lassi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lassi",
+      "https://www.thehosteller.com/blogs/famous-food-of-amritsar",
+      "https://www.amritsar.com/blogs/amritsars-famous-foods-2025"
+    ]
+  },
+  {
+    "id": "punjab-pinni",
+    "name": "Pinni",
+    "local_name": null,
+    "pronunciation": "PIN-ni",
+    "category": "sweet",
+    "state": "Punjab",
+    "regions": [
+      "Amritsar"
+    ],
+    "description": "A dense round sweet of wheat flour roasted in desi ghee with jaggery or sugar and almonds, sometimes with urad dal or flaxseed. It is a winter sweet made at home and gifted at Lohri and Diwali.",
+    "how_to_eat": "Eat one as a sweet or energy snack, especially in winter.",
+    "how_to_order": "Ask for 'pinni' by the kilo at a sweet shop; it travels well as a gift.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pinni",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pinni",
+      "https://www.thehosteller.com/blogs/famous-food-of-amritsar",
+      "https://www.amritsar.com/blogs/amritsars-famous-foods-2025"
+    ]
+  },
+  {
+    "id": "punjab-kada-prasad",
+    "name": "Kada Prasad",
+    "local_name": null,
+    "pronunciation": "KA-ra pra-SHAAD",
+    "category": "temple_food",
+    "state": "Punjab",
+    "regions": [
+      "Amritsar"
+    ],
+    "description": "A warm halwa of whole wheat flour, ghee and sugar in equal parts, served as the blessed offering at gurdwaras. The equal measures are said to symbolise equality, a core Sikh teaching.",
+    "how_to_eat": "Receive it with both hands cupped together and eat it there.",
+    "how_to_order": "It is not sold; it is given free to every visitor at the Golden Temple and other gurdwaras.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.thehosteller.com/blogs/famous-food-of-amritsar",
+      "https://www.vegrecipesofindia.com/kada-prashad-recipe",
+      "https://curlytales.com/food/guru-nanak-jayanti-the-sacred-story-of-karah-prasad-a-symbol-of-selfless-devotion-and-how-to-make-it/"
+    ]
+  },
+  {
+    "id": "punjab-langar",
+    "name": "Langar",
+    "local_name": "ਲੰਗਰ",
+    "pronunciation": "LUN-gar",
+    "category": "temple_food",
+    "state": "Punjab",
+    "regions": [
+      "Amritsar"
+    ],
+    "description": "The free community meal of the gurdwara, always lacto-vegetarian, cooked and served by volunteers to everyone regardless of religion or caste. At the Golden Temple it is usually rotis, dal, a seasonal vegetable, rice and kheer, eaten seated on the floor.",
+    "how_to_eat": "Sit cross-legged in the row, hold out your hands for rotis and cover your head throughout.",
+    "how_to_order": "Simply walk into the langar hall; it is free and open to all, and early morning or late evening is less crowded.",
+    "typical_price_inr": "0",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Langar_(Sikhism)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Langar_(Sikhism)",
+      "https://www.thehosteller.com/blogs/famous-food-of-amritsar",
+      "https://www.dtnext.in/golden-temple-langar-still-lingers-in-the-mind"
+    ]
+  },
+  {
+    "id": "punjab-phirni",
+    "name": "Phirni",
+    "local_name": null,
+    "pronunciation": "FIR-nee",
+    "category": "sweet",
+    "state": "Punjab",
+    "regions": [
+      "Amritsar"
+    ],
+    "description": "Rice pudding made with coarsely ground rice cooked in full-fat milk and sugar, flavoured with saffron or cardamom and garnished with dry fruits and silver leaf. It is served chilled in clay pots called shikoras.",
+    "how_to_eat": "Eat it cold with a spoon straight from the clay pot.",
+    "how_to_order": "Ask for 'kesar phirni' at a milk bhandar or sweet shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Phirni",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Phirni",
+      "https://www.thehosteller.com/blogs/famous-food-of-amritsar"
+    ]
+  },
+  {
+    "id": "punjab-kulfa",
+    "name": "Kulfa",
+    "local_name": null,
+    "pronunciation": "KUL-fa",
+    "category": "sweet",
+    "state": "Punjab",
+    "regions": [
+      "Amritsar"
+    ],
+    "description": "A layered frozen dessert of kulfi, phirni, rose-flavoured falooda vermicelli and rabri served together in one bowl. Food guides describe it as an Amritsar speciality sold near the Golden Temple.",
+    "how_to_eat": "Eat it quickly with a spoon, getting a bit of every layer in each bite.",
+    "how_to_order": "Ask for a 'kulfa' plate at kulfi shops near the Golden Temple.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.thehosteller.com/blogs/famous-food-of-amritsar"
+    ]
+  },
+  {
+    "id": "punjab-gajrela",
+    "name": "Gajrela",
+    "local_name": null,
+    "pronunciation": "gaj-RAY-la",
+    "category": "sweet",
+    "state": "Punjab",
+    "regions": [],
+    "description": "Carrot halwa: grated carrots cooked slowly in milk and sugar, finished with ghee and nuts. Punjabis call it gajrela, and it is a winter dessert served hot.",
+    "how_to_eat": "Eat it warm, often in winter after a meal.",
+    "how_to_order": "Ask for 'gajar ka halwa' or 'gajrela' by weight at a sweet shop in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gajar_ka_halwa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gajar_ka_halwa",
+      "https://en.wikipedia.org/wiki/Punjabi_cuisine"
+    ]
+  },
+  {
+    "id": "punjab-jalebi-with-rabri",
+    "name": "Jalebi with Rabri",
+    "local_name": null,
+    "pronunciation": "ja-LAY-bee, RUB-ri",
+    "category": "sweet",
+    "state": "Punjab",
+    "regions": [
+      "Amritsar"
+    ],
+    "description": "Spirals of fermented maida batter deep-fried and soaked in sugar syrup, served with rabri, milk thickened by long boiling. Amritsar's sweet shops fry them in desi ghee.",
+    "how_to_eat": "Eat the jalebi hot, dipping it in the cold rabri.",
+    "how_to_order": "Ask for 'jalebi rabri' by plate or weight at a halwai, best when freshly fried.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jalebi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jalebi",
+      "https://en.wikipedia.org/wiki/Rabri",
+      "https://www.thehosteller.com/blogs/famous-food-of-amritsar",
+      "https://www.amritsar.com/blogs/amritsars-famous-foods-2025"
+    ]
+  },
+  {
+    "id": "punjab-papad-warian",
+    "name": "Papad Warian",
+    "local_name": null,
+    "pronunciation": "pa-PAD va-REE-an",
+    "category": "snack",
+    "state": "Punjab",
+    "regions": [
+      "Amritsar"
+    ],
+    "description": "Amritsar is known for crisp urad dal papads and warian (sun-dried spiced lentil dumplings used in curries). The area near the Golden Temple selling them is called 'papadaan wala bazaar'.",
+    "how_to_eat": "Roast or fry the papad and eat it with meals; cook the warian into a curry with potatoes.",
+    "how_to_order": "Buy them by weight in the papad shops near the Golden Temple; they keep for months.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.cityamritsar.com/?p=5353",
+      "https://www.onmanorama.com/food/features/2022/03/21/a-gastronomical-guide-to-amritsar.html",
+      "https://en.wikipedia.org/wiki/Papadam"
+    ]
+  },
+  {
+    "id": "punjab-aloo-paratha",
+    "name": "Aloo Paratha",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Punjab",
+    "regions": [],
+    "description": "Whole wheat flatbread stuffed with spiced mashed potato and griddle-cooked with ghee and white butter. It is the standard Punjabi breakfast, and some sources say paratha itself comes from Punjabi cuisine.",
+    "how_to_eat": "Eat it hot with white butter, yogurt and pickle.",
+    "how_to_order": "Ask for 'aloo paratha' at a dhaba in the morning, served with a dollop of makhan.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paratha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Paratha",
+      "https://www.thehosteller.com/blogs/famous-food-of-amritsar",
+      "https://en.wikipedia.org/wiki/Punjabi_cuisine"
+    ]
+  },
+  {
+    "id": "punjab-puri-chole",
+    "name": "Puri Chole",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Punjab",
+    "regions": [
+      "Amritsar"
+    ],
+    "description": "Crisp deep-fried whole wheat puris with spiced chickpea curry. In Amritsar it is a cheap, filling breakfast.",
+    "how_to_eat": "Tear the puri and scoop up chole with raita and chutney.",
+    "how_to_order": "Ask for 'puri chole' at a sweet shop in the morning; a plate costs under 100 rupees.",
+    "typical_price_inr": "under 100",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chana_masala",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chana_masala",
+      "https://www.thehosteller.com/blogs/famous-food-of-amritsar"
+    ]
+  },
+  {
+    "id": "punjab-kadhi-pakora",
+    "name": "Kadhi Pakora",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Punjab",
+    "regions": [],
+    "description": "Sour yogurt simmered with besan (gram flour) into a thick tangy gravy, with deep-fried gram flour fritters added. It is a common home dish in Punjab.",
+    "how_to_eat": "Eat it over steamed rice.",
+    "how_to_order": "Ask for 'kadhi chawal' at a dhaba; it is often served at langars too.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kadhi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kadhi",
+      "https://en.wikipedia.org/wiki/Punjabi_cuisine",
+      "https://www.dtnext.in/golden-temple-langar-still-lingers-in-the-mind"
+    ]
+  },
+  {
+    "id": "punjab-rajma-chawal",
+    "name": "Rajma Chawal",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Punjab",
+    "regions": [],
+    "description": "Red kidney beans cooked in a thick gravy with whole spices, served over rice. It is part of the everyday diet of North India and Punjab.",
+    "how_to_eat": "Mix the rajma into the rice and eat it with onion and pickle.",
+    "how_to_order": "Ask for 'rajma chawal' as a plate at dhabas and lunch stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rajma",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rajma",
+      "https://en.wikipedia.org/wiki/Punjabi_cuisine"
+    ]
+  },
+  {
+    "id": "punjab-paneer-tikka",
+    "name": "Paneer Tikka",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "state": "Punjab",
+    "regions": [],
+    "description": "Cubes of paneer marinated in yogurt and spices and grilled in a tandoor, often with onion and peppers. It is the vegetarian counterpart of chicken tikka and is popular in Punjab.",
+    "how_to_eat": "Eat it hot with green chutney and onion rings.",
+    "how_to_order": "Ask for 'paneer tikka' by plate (usually 6-8 pieces) at dhabas and tikka stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paneer_tikka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Paneer_tikka",
+      "https://en.wikipedia.org/wiki/Punjabi_cuisine"
+    ]
+  },
+  {
+    "id": "punjab-chicken-tikka",
+    "name": "Chicken Tikka",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "state": "Punjab",
+    "regions": [],
+    "description": "Boneless chicken marinated in yogurt and spices and roasted on skewers in a tandoor. The dish comes from the Mughal tradition of tandoor cooking and is a Punjabi dhaba staple.",
+    "how_to_eat": "Eat it with mint chutney, lemon and onion rings.",
+    "how_to_order": "Ask for 'chicken tikka', half or full plate, at chicken corners.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chicken_tikka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chicken_tikka",
+      "https://en.wikipedia.org/wiki/Punjabi_cuisine"
+    ]
+  },
+  {
+    "id": "punjab-mutton-chaap",
+    "name": "Mutton Chaap",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "state": "Punjab",
+    "regions": [
+      "Amritsar"
+    ],
+    "description": "Minced mutton patties coated in a spiced Amritsari batter and deep-fried, giving a tangy and spicy snack. Amritsar's meat shops are known for it.",
+    "how_to_eat": "Eat it hot as a snack with onions and chutney.",
+    "how_to_order": "Ask for 'mutton chaap' at a meat shop or non-veg dhaba in Amritsar.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.thehosteller.com/blogs/famous-food-of-amritsar"
+    ]
+  },
+  {
+    "id": "punjab-aloo-tikki",
+    "name": "Aloo Tikki",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "state": "Punjab",
+    "regions": [],
+    "description": "Patties of boiled potato and peas with spices, shallow-fried crisp on a large griddle. In Punjab it is served with chickpeas, yogurt and tamarind and mint chutneys.",
+    "how_to_eat": "Eat it hot from a leaf bowl or plate with the chutneys mixed in.",
+    "how_to_order": "Ask for 'tikki' or 'tikki chaat' at a chaat stall in the bazaars.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aloo_tikki",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Aloo_tikki",
+      "https://www.amritsar.com/blogs/amritsars-famous-foods-2025"
+    ]
+  },
+  {
+    "id": "punjab-gol-gappe",
+    "name": "Gol Gappe",
+    "local_name": null,
+    "pronunciation": "gol GUP-pe",
+    "category": "street_food",
+    "state": "Punjab",
+    "regions": [],
+    "description": "Hollow crisp puris filled with potato and chickpeas and dipped in spicy mint-coriander water or sweet tamarind water. In Punjab they are called gol gappe and are a staple of bazaar street food.",
+    "how_to_eat": "Eat each one in a single bite as soon as the vendor hands it over.",
+    "how_to_order": "Stand at a gol gappa cart and say how many; the vendor serves them one at a time.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Panipuri",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Panipuri",
+      "https://www.amritsar.com/blogs/amritsars-famous-foods-2025",
+      "https://en.wikipedia.org/wiki/Punjabi_cuisine"
+    ]
+  },
+  {
+    "id": "punjab-doodh-soda",
+    "name": "Doodh Soda",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "state": "Punjab",
+    "regions": [],
+    "description": "Milk mixed with lemon-lime soda, a cold drink popular in the Punjab region of India and Pakistan, especially in summer. It is often paired with spicy food.",
+    "how_to_eat": "Drink it chilled alongside a spicy meal.",
+    "how_to_order": "Ask for 'doodh soda' at a milk or soda shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Doodh_soda",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Doodh_soda",
+      "https://en.wikipedia.org/wiki/Punjabi_cuisine"
+    ]
+  },
+  {
+    "id": "punjab-shikanjvi",
+    "name": "Shikanjvi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "state": "Punjab",
+    "regions": [],
+    "description": "A spiced lemon drink made with lemon, sugar, salt and roasted cumin, popular as a summer cooler. Punjabi cuisine lists it among its summer drinks.",
+    "how_to_eat": "Drink it cold on a hot afternoon.",
+    "how_to_order": "Ask for 'shikanjvi' or 'nimbu pani' at a juice or soda stall.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shikanji",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shikanji",
+      "https://en.wikipedia.org/wiki/Punjabi_cuisine"
+    ]
+  },
+  {
+    "id": "punjab-panjiri",
+    "name": "Panjiri",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "state": "Punjab",
+    "regions": [],
+    "description": "A dry, crumbly mix of wheat flour roasted in ghee with sugar, nuts and seeds. Punjabi cuisine includes it among traditional sweets, often eaten in winter.",
+    "how_to_eat": "Eat it by the spoonful, often with warm milk.",
+    "how_to_order": "Buy it by weight at sweet shops, mainly in winter.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Panjiri",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Panjiri",
+      "https://en.wikipedia.org/wiki/Punjabi_cuisine"
+    ]
+  },
+  {
+    "id": "punjab-aam-papad",
+    "name": "Aam Papad",
+    "local_name": null,
+    "pronunciation": "aam PAA-pad",
+    "category": "snack",
+    "state": "Punjab",
+    "regions": [
+      "Amritsar"
+    ],
+    "description": "Chewy sheets of sun-dried ripe mango pulp with sugar, made in sweet, sour and spicy versions. Amritsar has well-known aam papad sellers.",
+    "how_to_eat": "Tear off strips and chew them as a snack.",
+    "how_to_order": "Buy it by weight from aam papad shops in Amritsar's old city.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.thehosteller.com/blogs/famous-food-of-amritsar"
+    ]
+  },
+  {
+    "id": "punjab-malpua",
+    "name": "Malpua",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "state": "Punjab",
+    "regions": [],
+    "description": "Small sweet pancakes fried in ghee and soaked in syrup, sometimes served with rabri. It is among the traditional sweets of Punjabi cuisine.",
+    "how_to_eat": "Eat it hot, with rabri if available.",
+    "how_to_order": "Ask for 'malpua' at a halwai, often during festivals.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Malpua",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Malpua",
+      "https://en.wikipedia.org/wiki/Punjabi_cuisine"
+    ]
+  },
+  {
+    "id": "punjab-paya",
+    "name": "Paya",
+    "local_name": null,
+    "pronunciation": "PAA-ya",
+    "category": "meal",
+    "state": "Punjab",
+    "regions": [],
+    "description": "A stew of goat or sheep trotters slow-cooked with spices into a rich broth. It is part of the meat tradition of Punjabi cuisine, made for gatherings and special guests.",
+    "how_to_eat": "Drink the broth and eat it with naan or roti.",
+    "how_to_order": "Ask for 'paya' at non-vegetarian dhabas, usually in the morning or winter.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paya_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Paya_(food)",
+      "https://en.wikipedia.org/wiki/Punjabi_cuisine"
+    ]
+  },
+  {
+    "id": "punjab-churi",
+    "name": "Churi",
+    "local_name": null,
+    "pronunciation": "CHOO-ri",
+    "category": "sweet",
+    "state": "Punjab",
+    "regions": [],
+    "description": "Roti crumbled and mashed with ghee and sugar or jaggery. In Punjab this homestyle sweet is called churi, the local name for churma.",
+    "how_to_eat": "Eat it with your fingers, often with a glass of milk or lassi.",
+    "how_to_order": "Mostly made at home; dhabas sometimes serve it as a sweet with a meal.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Churma",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Churma",
+      "https://en.wikipedia.org/wiki/Punjabi_cuisine"
+    ]
+  }
+]

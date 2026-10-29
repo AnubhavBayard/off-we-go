@@ -1,0 +1,220 @@
+[
+  {
+    "id": "nagaland-smoked-pork-with-bamboo-shoot",
+    "name": "Smoked Pork with Bamboo Shoot",
+    "local_name": null,
+    "pronunciation": "smoked pork (bam-BOO shoot)",
+    "category": "meal",
+    "state": "Nagaland",
+    "regions": [],
+    "description": "Pork smoked for days above the kitchen fire, then cooked with fermented bamboo shoot, which gives it a smoky, sour taste. It is one of the best-loved dishes in Nagaland and is often called the crown jewel of Naga cooking.",
+    "how_to_eat": "Eat it with plain steamed rice and a little chilli chutney on the side.",
+    "how_to_order": "Ask for 'smoked pork with bamboo shoot' at any Naga eatery or at the Hornbill Festival food stalls in Kisama.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://nenow.in/web-stories/a-taste-of-nagaland-6-mouthwatering-naga-dishes-you-need-to-try",
+      "https://www.hidmc.com/blog-posts/the-naga-cuisine-a-culinary-journey-through-nagaland",
+      "https://www.onmanorama.com/food/foodie/2018/07/09/naga-cuisine-pork-bamboo.html",
+      "https://en.wikipedia.org/wiki/Naga_cuisine"
+    ]
+  },
+  {
+    "id": "nagaland-smoked-pork-with-akhuni",
+    "name": "Smoked Pork with Akhuni",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Nagaland",
+    "regions": [],
+    "description": "Smoked pork stewed with akhuni (axone), fermented soybean with a strong, smoky, slightly bitter taste, often with vegetables. It is made across all Naga tribes year-round.",
+    "how_to_eat": "Eat it with steamed rice; the stew is strong, so a little goes a long way.",
+    "how_to_order": "Ask for 'pork with axone' or 'akhuni pork' at a Naga restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Akhuni",
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/nagaland/kohima/food-guide-traditional-naga-dishes",
+      "https://homegrown.co.in/amp/story/homegrown-explore/from-akhuni-to-amrusu-9-iconic-dishes-from-nagaland-you-should-try",
+      "https://en.wikipedia.org/wiki/Akhuni",
+      "https://en.wikipedia.org/wiki/Naga_cuisine"
+    ]
+  },
+  {
+    "id": "nagaland-akhuni-chutney",
+    "name": "Akhuni Chutney",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Nagaland",
+    "regions": [
+      "Zunheboto"
+    ],
+    "description": "Akhuni (axone) is fermented soybean, sold as dried cakes or paste and a Sümi Naga speciality. Besides stews, it is pounded into pickles and chutneys eaten with rice.",
+    "how_to_eat": "Take a small spoonful with rice and meat; the smell is strong but the taste is mellow.",
+    "how_to_order": "Ask for 'axone chutney' or buy akhuni cakes at Kohima or Dimapur markets.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Akhuni",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Akhuni",
+      "https://homegrown.co.in/amp/story/homegrown-explore/from-akhuni-to-amrusu-9-iconic-dishes-from-nagaland-you-should-try",
+      "https://en.wikipedia.org/wiki/Naga_cuisine"
+    ]
+  },
+  {
+    "id": "nagaland-raja-mircha-chutney",
+    "name": "Raja Mircha Chutney",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Nagaland",
+    "regions": [],
+    "description": "A fiery chutney of raja mircha (Naga king chilli, bhut jolokia) ground with tomato, garlic and salt. The Naga Mircha has a GI tag (the chilli, not this chutney) and is one of the hottest chillies in the world.",
+    "how_to_eat": "Use a tiny amount alongside rice and meat; it is extremely hot.",
+    "how_to_order": "Ask for 'raja mircha chutney' or 'king chilli chutney'; jars are sold at Kohima markets.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Naga_Mircha",
+    "source_urls": [
+      "https://www.hidmc.com/blog-posts/the-naga-cuisine-a-culinary-journey-through-nagaland",
+      "https://en.wikipedia.org/wiki/Naga_Mircha",
+      "https://en.wikipedia.org/wiki/Naga_cuisine"
+    ]
+  },
+  {
+    "id": "nagaland-galho",
+    "name": "Galho",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Nagaland",
+    "regions": [
+      "Kohima"
+    ],
+    "description": "A soupy one-pot dish of rice cooked with seasonal greens and usually smoked pork or pork fat, often with axone, sometimes called the Naga khichdi. It is an Angami and Chakhesang speciality but cooked in tribal kitchens across the state; a vegetarian version uses just vegetables and ginger.",
+    "how_to_eat": "Eat it hot from a bowl as a complete meal, especially on cold days.",
+    "how_to_order": "Ask for 'galho' (say whether you want pork or veg) at Naga eateries in Kohima.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Galho",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Galho",
+      "https://www.incredibleindia.gov.in/en/nagaland/kohima/food-guide-traditional-naga-dishes",
+      "https://sentinelassam.com/north-east-india-news/nagaland-news/healthy-tasty-dishes-of-nagaland-541373",
+      "https://homegrown.co.in/amp/story/homegrown-explore/from-akhuni-to-amrusu-9-iconic-dishes-from-nagaland-you-should-try",
+      "https://www.onmanorama.com/food/foodie/2018/07/09/naga-cuisine-pork-bamboo.html"
+    ]
+  },
+  {
+    "id": "nagaland-anishi",
+    "name": "Anishi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Nagaland",
+    "regions": [
+      "Mokokchung"
+    ],
+    "description": "Colocasia (taro) leaves fermented, shaped into patties and then smoked or sun-dried. An Ao Naga speciality, it is cooked into a curry, typically with smoked pork.",
+    "how_to_eat": "Eat the anishi curry with rice; it is sour and earthy.",
+    "how_to_order": "Ask for 'anishi with pork' at Ao Naga eateries in Mokokchung.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anishi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Anishi",
+      "https://en.wikipedia.org/wiki/Naga_cuisine",
+      "https://sentinelassam.com/north-east-india-news/nagaland-news/healthy-tasty-dishes-of-nagaland-541373"
+    ]
+  },
+  {
+    "id": "nagaland-samathu",
+    "name": "Samathu",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "state": "Nagaland",
+    "regions": [
+      "Zunheboto"
+    ],
+    "description": "A thick curry of smoked pork with chilli flakes, local pepper, ginger, garlic and bamboo shoot vinegar. It is a well-known dish of the Sümi (Sema) Nagas.",
+    "how_to_eat": "Eat it with steamed rice and fresh ginger chutney.",
+    "how_to_order": "Ask for 'samathu' or 'Sumi-style smoked pork' at a Naga restaurant.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://sentinelassam.com/north-east-india-news/nagaland-news/healthy-tasty-dishes-of-nagaland-541373",
+      "https://www.incredibleindia.gov.in/en/nagaland/kohima/food-guide-traditional-naga-dishes"
+    ]
+  },
+  {
+    "id": "nagaland-zutho",
+    "name": "Zutho",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "state": "Nagaland",
+    "regions": [],
+    "description": "A fermented rice beer made by sprouting and fermenting rice and filtering it through bamboo mesh. It has a fruity aroma and sour taste, is lighter than thuthse, and was popularised by the Hornbill Festival.",
+    "how_to_eat": "Sip it from a bamboo mug, usually with food.",
+    "how_to_order": "Ask for 'zutho' at Hornbill Festival stalls or in village homes.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zutho",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Zutho",
+      "https://homegrown.co.in/amp/story/homegrown-explore/from-akhuni-to-amrusu-9-iconic-dishes-from-nagaland-you-should-try",
+      "https://sentinelassam.com/north-east-india-news/nagaland-news/healthy-tasty-dishes-of-nagaland-541373",
+      "https://en.wikipedia.org/wiki/Naga_cuisine"
+    ]
+  }
+]

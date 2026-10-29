@@ -129,3 +129,90 @@
 
 **Rebuild + install**
 `cd app && nvm use 22 && npm run build && npx cap sync android && cd android && ANDROID_HOME=~/Android/Sdk ./gradlew assembleDebug && ~/Android/Sdk/platform-tools/adb install -r app/build/outputs/apk/debug/app-debug.apk`
+
+## 2026-10-29: data fixing
+- Geocoded all 82 places via OpenStreetMap Nominatim (bounded to Odisha). Only 9 hits, 2 wrong. Wrote 7 good matches into `data-fixes/places_to_check.csv` `new_coords` with note "OSM match (confirm)".
+- OSM coverage too thin for the rest: remaining places need manual Google Maps lookup by user.
+- Next: user fills rest of CSVs, then "import fixes".
+
+## 2026-10-29: scaling to all of India
+- Decision: no per-city restaurant curation. Dish page gets "Find <dish> near me" button (Google Maps search); curated places shown below as "Our picks".
+- Dishes now one file per state: `dishes.json` renamed `dishes_odisha.json`, new `state` field. Discover has state dropdown; region chips come from the chosen state's dishes.
+- Validator: `app/scripts/check_dishes.py`.
+- In progress: 10 research agents writing `dishes_<state>.json` for the other 27 states + 8 UTs (spec: ids `<state>-<dish>`, same schema, sourced facts only).
+- Done: all 36 states/UTs have `app/src/data/dishes_<state>.json`. 1,001 dishes total; validator passes. ~1 MB JSON bundled (JS bundle 313 kB gzip).
+- Cleanup: Ladakh momos/thukpa set nonveg (consistent with other states; often contain meat). Dropped Gamthi Chicken (DNHDD, no description).
+- Tested in headless Chrome: state dropdown, Discover list, dish page with "Find near me" button. Debug APK rebuilt; not installed (phone not connected).
+- Privacy incident: at least 6 research agents sent user's email in User-Agent header to Wikipedia API. Not in any saved file. Removed from scratchpad scripts; spec now forbids personal info in requests.
+- Data to review before launch: guessed pronunciations (agents' syllable guesses, not sourced); Kerala Parotta + Kozhikode Halwa marked egg; Assam's 6 Bodo GI tags (2024) from news/exam sites, not Wikipedia list; thin single-source entries (Jharkhand, Arunachal, Lakshadweep, Andaman, Puducherry Creole, DNHDD, Chandigarh = Punjabi staples); Feni and NE rice beers are alcoholic.
+- Next: install APK on phone (`adb install -r`), commit. Odisha dish ids have no state prefix (others do); fine, ids still unique.
+
+## 2026-10-29: UI restyle from `inspo/`
+- Inspo (5 travel-app shots): pale sage bg, lime accent, deep forest-green dark surfaces, big bold headlines with a lime-highlighted word, 22-28px rounded cards, pill chips, floating pill tab bar with lime active tab.
+- Rewrote `app/src/index.css` with that palette (light + dark), same class names. Added `.hl` headline highlight (Discover, Memories, Add, Account), `.hero` dark card on dish page, round back buttons, stats as dark card with lime numbers, map pins/world map recolored. Nav label "+ Memory" renamed "Add".
+- Checked light + dark in headless Chrome (Discover, Dish, Memories, Add). World map renders blank in headless (WebGL); country file loads fine; check on phone.
+- Debug APK rebuilt; not installed (phone not connected).
+- Possible next: dish photos (inspo is image-heavy; e.g. Wikipedia thumbnails, needs attribution), icons in tab bar, custom font.
+
+## 2026-10-29: dish photos from Wikipedia
+- `app/scripts/fetch_dish_images.py`: batched Wikipedia API (pageimages + imageinfo, ~20 requests, generic User-Agent) -> `app/src/data/dish_images.json` {dish_id: src, page, credit, license}. Images load from Wikimedia at runtime (not bundled; offline = hidden, no broken icon).
+- 432 of 1,001 dishes have a photo (only dishes with a Wikipedia article; cuisine pages skipped). All free licences (mostly CC BY-SA).
+- UI: photo on Discover cards (photo dishes sorted first), big photo on dish page with credit line "Photo: author, licence, Wikimedia Commons" (required by CC BY/BY-SA).
+- Known: some lead images show the ingredient, not the dish (e.g. Gongura Pachadi shows gongura leaves). 569 dishes without photos.
+- Debug APK rebuilt; not installed (phone not connected).
+- Installed on phone (Realme, adb). Verified on device: new UI (dark mode), Wikipedia photos load on Discover cards, floating nav.
+
+## 2026-10-29: welcome screen
+- First-launch screen modelled on `inspo/Screenshot from 2026-10-29 10-26-36.png` (left phone): full-bleed photo, frosted blurred panel on left with lime mark, "Off We / Go" title, tagline, dish count, black "Let's eat" pill.
+- `app/src/pages/Welcome.tsx`; shown until tapped once (localStorage `welcomed`). Photo bundled at `app/public/welcome.jpg` (Wazwan, 1280px, 310 KB, CC BY-SA 4.0, credit on screen) so it works offline.
+- Installed + verified on phone.
+
+## 2026-10-29: UI v2 from `inspo/Screenshot from 2026-10-29 10-26-48.png`
+- Light theme only (like inspo): grey-white bg, black ink, lime accent; dark mode dropped. Font Plus Jakarta Sans (bundled via @fontsource-variable, offline). Icons: lucide-react.
+- Home: misty-hills background, avatar + "Hello, foodie" + account button, headline with lime highlight, search + state pickers with icons, category pills with icons (active = black), "Must try" carousel of big photo cards (GI-tagged first, badge on photo), "All dishes" list as photo-thumb row cards; category icon when no photo.
+- Dish page: full-bleed photo with round back button and title over it, rounded sheet overlapping, fact chips (diet/category/spice/GI/Jain/vegan), bottom bar with price + lime "Find near me". Nav hidden there. Opens scrolled to top.
+- Nav: floating white pill of icons; active tab = lime pill with label.
+- Shared UI bits in `app/src/ui.tsx` (category icons, photo with fallback).
+- Verified on phone (home, list) and headless Chrome via DevTools script (dish pages). Installed.
+- Skipped: heart/favourites on cards (no favourites feature yet).
+- Welcome screen now shows on every fresh launch (was first-launch only; user expected it as landing page). Removed localStorage flag.
+- Reverted: welcome screen first launch only again (user decision). localStorage flag `welcomed`. To see it again: clear app data.
+
+## 2026-10-29: Add page restyle from `inspo/Screenshot from 2026-10-29 10-27-14.png`
+- Header (lime avatar + "New memory"), big headline "Tell me about your food moment", subtitle; sections with icon labels: Photo (empty dashed card + Take photo / Gallery pills), Where (pill select), What did you eat (pill select), Who were you with (Solo/Partner/Family/Friends option pills, 2x2, selected = black), Note; big lime "Save memory" button.
+- "Who were you with" has no DB field: saved as prefix of note ("With family · ..."). Add a real column if filtering by it is ever needed.
+- Built + installed on phone; checked in headless Chrome.
+- Dish page: photo fades out + drifts slower (parallax) as you scroll; title and its dark gradient fade first. Pure CSS scroll-driven animations (`animation-timeline: scroll()`), skipped on old WebViews. Installed.
+- Dish page scroll v2: photo blurs + darkens (not fades to white). Name block now lives at top of sheet; scroll animation starts it lifted over the photo in white, then glides it down into the sheet turning dark (15-45vh of scroll). Its measured height (--title-h) closes the gap while lifted. Installed.
+- Fixed: back from dish page showed blank screen. Cause: `useEffect(() => window.scrollTo(0,0))` returned scrollTo's Promise (new Chrome returns one); React called it as cleanup on unmount -> crash. Wrapped in braces. Test script for this flow: scratchpad backtest.mjs (CDP). Installed.
+
+## 2026-10-29: curated to 5-10 best dishes per state, no cities
+- User decision: app shows only 5-10 best dishes per state, state level only (no cities).
+- Hand-picked per state (mix of signature meal, street food, sweet, drink; ranking hint = GI tag > Wikipedia article > photo > research order). 329 dishes total, 206 with photos. Picks list: `app/data-archive/picks.py`.
+- Full research (1,001 dishes) moved to `app/data-archive/dishes_<state>.json` (not bundled). Restore = copy back.
+- Removed city filter chips, city names on cards and dish page (state only), REGION_LABEL/regionLabel. `regions` field kept in data, unused.
+- Bundle 337 -> 243 kB gzip. Odisha restaurant links to dropped Odisha dishes are ignored (map popups list only kept dishes). Memories pointing at dropped dishes just show no dish name.
+- Installed on phone.
+- Background: app-wide fixed backdrop (body::before/::after) with lime top-left, misty blue right, saffron bottom glows + faint dot texture fading down. Body made transparent so the layers show. Home hills kept. Installed.
+- Nav: removed blue tap box (-webkit-tap-highlight-color transparent; focus ring only for keyboard via :focus-visible). Tab switches use View Transitions API (document.startViewTransition + flushSync): page fades/rises in, lime active pill morphs to the new tab, nav bar stays still; instant fallback; respects reduced motion. Tested 4 tabs headless, no errors. Installed.
+- Background v2: user's `inspo/wallpaper.jpg` (alpine valley) as app-wide fixed backdrop. Pre-blurred offline (PIL, 384x640, Gaussian 14) -> `app/public/wallpaper-blur.jpg` (11 KB), under a light veil (50-72% white) for readability. Removed earlier glows, dot texture, home hills. Darkened --muted (#4b525c) for contrast on the wallpaper. Installed.
+- Licence: wallpaper carries a wallpaperswide.com watermark (third-party photo). Fine for testing; replace with an owned/licensed photo before public release.
+
+## 2026-10-29: logo + animated entry
+- Logo from `inspo/logo.jpeg` (noodle bowl, red sun). `app/scripts/make_icons.py` builds: Android launcher icons (adaptive foreground on cream #F7EFE2 + legacy square/round, all densities), pre-Android-12 splash.png (cream + logo), `public/logo.jpg` (512px, in-app), `public/favicon.png`. Android 12+ splash background set cream (`windowSplashScreenBackground`). Old favicon.svg deleted.
+- Logo now in home header avatar and welcome screen mark.
+- `app/src/pages/Intro.tsx`: launch animation every app start (~2.3s, tap to skip, skipped with reduced motion): cream bg matching native splash, logo pops in over red ripple, "Off We Go" letters rise staggered, tagline "Eat your way across India", then zoom-fade into app. Order: Intro -> Welcome (first launch only) -> app.
+- Verified headless (frames at 0.35/1/1.6/3s, no errors) and on phone. Installed.
+- Licence: logo looks like a downloaded third-party image (Pinterest-size 736px). Replace with owned/licensed logo before public release.
+
+## 2026-10-29: launch + animation performance fixes
+- Static logo before intro: Android 12+ system splash showed the icon until WebView painted. Now plain cream (windowSplashScreenAnimatedIcon = transparent `drawable/splash_blank.xml`, bg `@color/splash_cream` in `values/splash.xml`); old splash.png files deleted.
+- Intro moved from React into static HTML in `index.html` (styles in index.css), so it starts on WebView's first paint, not after the ~950 KB bundle. main.tsx removes it on end/tap; CSS ends it with visibility:hidden so it can't block taps; hidden with reduced motion. App renders underneath. `pages/Intro.tsx` deleted.
+- Measured on phone (rapid screencaps): ~1.5-2 s plain cream (WebView cold start, unavoidable in Capacitor) -> intro ~2.5 s -> fades into already-rendered home ~4.8 s.
+- Dish page scroll effects rebuilt GPU-only (transform/opacity): parallax wrapper; pre-blurred dark photo copy fades in (no animated filter); sheet background pseudo-element slides up behind the title (no margin animation); white/dark title copies cross-fade (no colour/text-shadow animation). Sheet holds the bottom padding.
+- Tab transitions: React Router renders async, so old page was animating and new one popped in. View transition now waits for the route commit (layout effect resolves a promise; 600 ms safety). Home renders first 20 cards, rest after 450 ms; off-screen cards use content-visibility. Tab-switch prep time at 4x CPU throttle: ~150 ms -> 25-50 ms.
+- Sources line shows one link per site. Installed; back-button test still passes.
+- Dish page fixes: (1) name touched the sheet edge: offsets now account for sheet padding (28px); sheet bg starts 18px below the name and still overlaps the photo for the round corners; content after the name gets 36px. (2) gap at the bottom showing wallpaper: `main` reserved 100px for the nav even on dish pages; `main:has(.detail)` drops it. (3) short dishes couldn't scroll far enough for the sheet to finish rising: sheet min-height = 100vh + title + 74px, and scroll ranges now in px (all done by 300px; scroll room is >= photo height 340px). Installed.
+- Home avatar: logo replaced by `FoodTicker` (ui.tsx): lime circle cycling 12 food icons (curry, chai, drumstick, kulfi, wheat, fish, sweets, pot, prawn, citrus, popcorn, cookie) every 2.2 s; new icon springs up/spins in, old one exits up. Transform/opacity only; static with reduced motion. Logo still on welcome screen, intro and app icon. Installed.
+- Food circle is now a button: tap = 3D flip (perspective rotateY 360deg with lift, 0.8 s, springy) and jump to next food. Two identical keyframes (spin3d-a/b) alternate so repeat taps restart it. Gotcha: lightningcss minifier turns a name-less `animation` shorthand into `animation:none` (drops duration) -> use longhands. Off with reduced motion. Installed.
+- 2026-10-29: committed and pushed all work above to GitHub (main).

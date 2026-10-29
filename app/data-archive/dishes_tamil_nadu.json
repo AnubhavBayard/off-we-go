@@ -1,0 +1,1105 @@
+[
+  {
+    "id": "tamil_nadu-tirunelveli-halwa",
+    "name": "Tirunelveli Halwa",
+    "local_name": null,
+    "pronunciation": "thi-ru-NEL-vay-li AL-wa",
+    "category": "sweet",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Tirunelveli"
+    ],
+    "description": "A glossy, soft halwa made from wheat, sugar and ghee that Tirunelveli has been known for since the mid-1800s. It later spread across the southern districts, but the city's old shops such as Iruttu Kadai remain the famous names.",
+    "how_to_eat": "Eat it warm, scooped straight from the banana leaf or paper it is served on.",
+    "how_to_order": "Ask for 'Tirunelveli alwa' by weight at a sweet shop in Tirunelveli town.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tirunelveli",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-srivilliputhur-palkova",
+    "name": "Srivilliputhur Palkova",
+    "local_name": null,
+    "pronunciation": "paal-KO-va",
+    "category": "sweet",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Srivilliputhur"
+    ],
+    "description": "A caramel-brown milk sweet made only from milk and sugar, boiled down slowly for hours until thick. The GI is tied to milk from cows reared around Srivilliputhur, and the sweet received its GI tag in 2019-20.",
+    "how_to_eat": "Eat it by the spoonful at room temperature; it is soft and grainy.",
+    "how_to_order": "Ask for 'palkova' by weight in Srivilliputhur, where shops sell it in boxes or banana-leaf packs.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "https://www.outlooktraveller.com/experiences/heritage/exploring-tamil-nadus-gi-tag-products-part-2",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-kovilpatti-kadalai-mittai",
+    "name": "Kovilpatti Kadalai Mittai",
+    "local_name": "கடலை மிட்டாய்",
+    "pronunciation": "ka-da-lai MIT-tai",
+    "category": "sweet",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Kovilpatti",
+      "Thoothukudi"
+    ],
+    "description": "A peanut brittle of roasted groundnuts set in jaggery syrup, made in Kovilpatti and nearby villages of Thoothukudi district. Makers credit Thamirabarani river water and selected jaggery for its taste, and it received a GI tag in 2020.",
+    "how_to_eat": "Snap off a piece and eat it as a snack; it is crunchy and chewy.",
+    "how_to_order": "Ask for 'Kovilpatti kadalai mittai' at sweet and snack shops; it is sold in packets or bars.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chikki",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+      "https://deccanherald.com/india/sweet-news-famous-kovilpatti-kadalai-mittai-gets-gi-tag-831871.html",
+      "https://en.wikipedia.org/wiki/Chikki"
+    ]
+  },
+  {
+    "id": "tamil_nadu-thoothukudi-macaroon",
+    "name": "Thoothukudi Macaroon",
+    "local_name": "தூத்துக்குடி மக்ரூன்",
+    "pronunciation": "MAK-roon",
+    "category": "sweet",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Thoothukudi"
+    ],
+    "description": "A crisp, cone-shaped meringue cookie from the port town of Thoothukudi (Tuticorin), made from egg whites and sugar with locally grown cashew in place of the almonds of European macaroons. It came via Portuguese influence, and several local bakeries still make it the old way.",
+    "how_to_eat": "Eat it as is with tea; it is crunchy outside and slightly chewy inside.",
+    "how_to_order": "Ask for 'Tuticorin macaroons' at a Thoothukudi bakery, sold in packs.",
+    "typical_price_inr": null,
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thooththukkudi_macaroon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thooththukkudi_macaroon",
+      "https://en.wikipedia.org/wiki/Macaroon"
+    ]
+  },
+  {
+    "id": "tamil_nadu-adhirasam",
+    "name": "Adhirasam",
+    "local_name": "அதிரசம்",
+    "pronunciation": "a-dhi-RA-sam",
+    "category": "sweet",
+    "state": "Tamil Nadu",
+    "regions": [],
+    "description": "A dark, doughnut-like fried sweet made from rice flour and jaggery, sometimes with coconut, cardamom and sesame, and with ghee. It is a classic offering in Tamil homes and temples during Deepavali.",
+    "how_to_eat": "Eat it at room temperature as a sweet; it is chewy inside and slightly crisp outside.",
+    "how_to_order": "Ask for 'adhirasam' at traditional sweet shops, especially around Deepavali.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Adhirasam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Adhirasam",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-kozhukattai",
+    "name": "Kozhukattai",
+    "local_name": "கொழுகட்டை",
+    "pronunciation": "ko-zhu-KAT-tai",
+    "category": "sweet",
+    "state": "Tamil Nadu",
+    "regions": [],
+    "description": "Steamed rice-flour dumplings filled with grated coconut and jaggery, sometimes with ghee and cardamom. In Tamil Nadu they are made as an offering to Ganesha on Vinayaka Chathurthi; savoury versions also exist.",
+    "how_to_eat": "Eat them warm, whole, by hand.",
+    "how_to_order": "Ask for 'kozhukattai' (sweet or kara/savoury) at sweet shops and tiffin centres, most easily around Vinayaka Chathurthi.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kozhukkatta",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kozhukkatta",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-sakkarai-pongal",
+    "name": "Sakkarai Pongal",
+    "local_name": null,
+    "pronunciation": "sak-ka-RAI pon-GAL",
+    "category": "temple_food",
+    "state": "Tamil Nadu",
+    "regions": [],
+    "description": "Sweet pongal: rice and lentils cooked with jaggery, cardamom, cashews, raisins, nutmeg and ghee. It is the dish cooked for the Pongal harvest festival and is often served as prasadam after being offered to deities.",
+    "how_to_eat": "Eat it warm with your fingers or a spoon, often from a leaf cup at a temple.",
+    "how_to_order": "Ask for 'sakkarai pongal' at temple prasadam counters or at vegetarian restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pongal_(dish)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pongal_(dish)",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-ellu-urundai",
+    "name": "Ellu Urundai",
+    "local_name": "எள்ளுருண்டை",
+    "pronunciation": "EL-lu u-run-DAI",
+    "category": "sweet",
+    "state": "Tamil Nadu",
+    "regions": [],
+    "description": "Sesame balls bound with jaggery, sometimes with coconut. They are one of the traditional Tamil laddu-style sweets alongside peanut and puffed-rice balls.",
+    "how_to_eat": "Eat one whole as a snack; it is crunchy and sticky.",
+    "how_to_order": "Ask for 'ellu urundai' at sweet and snack shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thala_guli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thala_guli",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-boli",
+    "name": "Boli",
+    "local_name": "போளி",
+    "pronunciation": "BO-li",
+    "category": "sweet",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Chennai"
+    ],
+    "description": "A golden flatbread stuffed with mashed toor dal (or coconut) cooked with jaggery and cardamom. Once a poor man's sweet, it is now a popular street food in Chennai and is especially famous in the southernmost districts.",
+    "how_to_eat": "Eat it warm, often with a little ghee or alongside payasam.",
+    "how_to_order": "Ask for 'paruppu boli' or 'thengai (coconut) boli' at boli stalls and sweet shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Puran_poli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Street_food_of_Chennai",
+      "https://www.outlooktraveller.com/explore/food-and-drink/top-street-foods-to-enjoy-in-chennai",
+      "https://en.wikipedia.org/wiki/Puran_poli"
+    ]
+  },
+  {
+    "id": "tamil_nadu-palani-panchamirtham",
+    "name": "Palani Panchamirtham",
+    "local_name": "பஞ்சாமிர்தம்",
+    "pronunciation": "pan-cha-MIR-tham",
+    "category": "temple_food",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Palani"
+    ],
+    "description": "A jam-like temple prasadam of mashed bananas with ghee, honey, jaggery and cardamom, sometimes with dates and sugar candy. The Palani Dhandayuthapani temple's version uses Virupachi hill bananas from the Palani hills and got a GI tag in 2019.",
+    "how_to_eat": "Eat a spoonful as prasadam; it is very sweet.",
+    "how_to_order": "Buy it in tins or jars at the Palani temple prasadam counters.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Panchamrita",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Panchamrita",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India"
+    ]
+  },
+  {
+    "id": "tamil_nadu-manapparai-murukku",
+    "name": "Manapparai Murukku",
+    "local_name": "மணப்பாறை முறுக்கு",
+    "pronunciation": "ma-NAP-pa-rai mu-RUK-ku",
+    "category": "snack",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Manapparai",
+      "Tiruchirappalli"
+    ],
+    "description": "A crunchy spiral snack of rice flour and urad dal with cumin or sesame, deep-fried, from Manapparai town in Tiruchirappalli district. Makers credit the area's slightly saline water for its crispness, and it received a GI tag in 2023.",
+    "how_to_eat": "Break off pieces and eat it with tea; it keeps for weeks.",
+    "how_to_order": "Ask for 'Manapparai murukku' at shops in Manapparai or snack stores across the state.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Manapparai_Murukku",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Manapparai_Murukku",
+      "https://en.wikipedia.org/wiki/Murukku",
+      "https://onmanorama.com/food/features/2022/06/16/manapparai-tamil-nadus-murukku-village.html",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India"
+    ]
+  },
+  {
+    "id": "tamil_nadu-ooty-varkey",
+    "name": "Ooty Varkey",
+    "local_name": "ஊட்டி வர்க்கி",
+    "pronunciation": "OO-ty VAR-key",
+    "category": "snack",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Ooty",
+      "Nilgiris"
+    ],
+    "description": "A crisp, flaky baked biscuit from the Nilgiris made from wheat flour, ghee and a mix called mava (banana, rava and sugar). More than 90 bakers in the region make it, and it received a GI tag in 2022-23.",
+    "how_to_eat": "Eat it with a cup of tea or coffee.",
+    "how_to_order": "Ask for 'varkey' at bakeries in Ooty and the Nilgiris.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ooty_varkey",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ooty_varkey",
+      "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India"
+    ]
+  },
+  {
+    "id": "tamil_nadu-medu-vada",
+    "name": "Medu Vada",
+    "local_name": "மெது வடை",
+    "pronunciation": "MAY-du VA-dai",
+    "category": "snack",
+    "state": "Tamil Nadu",
+    "regions": [],
+    "description": "A doughnut-shaped fritter of ground black gram (urad dal), crisp outside and soft inside. It is a standard Tamil breakfast and tea-time item, usually served with idli.",
+    "how_to_eat": "Dip it in sambar or coconut chutney, or order it soaked in sambar.",
+    "how_to_order": "Ask for 'vadai' or 'sambar vadai' at any tiffin centre or tea stall.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Medu_vada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Medu_vada",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine",
+      "https://en.wikipedia.org/wiki/Street_food_of_Chennai"
+    ]
+  },
+  {
+    "id": "tamil_nadu-sundal",
+    "name": "Sundal",
+    "local_name": "சுண்டல்",
+    "pronunciation": "SUN-dal",
+    "category": "street_food",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Chennai"
+    ],
+    "description": "Boiled legumes such as chickpeas tossed with grated coconut, raw mango, green chillies and curry leaves. It is the classic snack sold in paper cones on Chennai's Marina Beach.",
+    "how_to_eat": "Eat it from the paper cone with a small spoon or your fingers.",
+    "how_to_order": "Buy a cone of 'sundal' from vendors walking along Marina Beach.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.outlooktraveller.com/explore/food-and-drink/top-street-foods-to-enjoy-in-chennai",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-atho",
+    "name": "Atho",
+    "local_name": "அத்தோ",
+    "pronunciation": "AT-tho",
+    "category": "street_food",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Chennai"
+    ],
+    "description": "A Burmese-style noodle salad brought to North Chennai by Tamils who returned from Burma: wheat noodles hand-tossed with cabbage, onion, lime, garlic oil and chilli. It is most associated with stalls near Burma Bazaar.",
+    "how_to_eat": "Eat it fresh, as soon as it is tossed, with its crispy fried garnish.",
+    "how_to_order": "Ask for 'atho' at stalls near Burma Bazaar in North Chennai, such as Ibrahim Atho Shop.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Burmese_salads",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Street_food_of_Chennai",
+      "https://www.outlooktraveller.com/explore/food-and-drink/top-street-foods-to-enjoy-in-chennai",
+      "https://www.lonelyplanet.com/articles/what-to-eat-and-drink-chennai"
+    ]
+  },
+  {
+    "id": "tamil_nadu-keerai-vada",
+    "name": "Keerai Vada",
+    "local_name": null,
+    "pronunciation": "KEE-rai VA-dai",
+    "category": "snack",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Madurai"
+    ],
+    "description": "A fried urad dal fritter mixed with dried greens (mulmurungai leaves), cumin and pepper. It is a tea-time snack at roadside tea stalls across Madurai.",
+    "how_to_eat": "Eat it hot with a glass of tea.",
+    "how_to_order": "Ask for 'keerai vadai' at Madurai tea stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai/must-eat-local-dishes-in-madurai"
+    ]
+  },
+  {
+    "id": "tamil_nadu-kuzhi-paniyaram",
+    "name": "Kuzhi Paniyaram",
+    "local_name": "குழிப்பணியாரம்",
+    "pronunciation": "ku-zhi pa-ni-YA-ram",
+    "category": "snack",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Chettinad",
+      "Karaikudi"
+    ],
+    "description": "Small round dumplings of fermented rice and black gram batter cooked in a pan with hemispherical moulds. They are made spicy with chillies or sweet with jaggery, and are a Chettinad speciality.",
+    "how_to_eat": "Eat them hot with coconut or tomato chutney.",
+    "how_to_order": "Ask for 'kara (spicy) paniyaram' or 'inippu (sweet) paniyaram' at tiffin shops.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paddu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Paddu",
+      "https://en.wikipedia.org/wiki/Chettinad_cuisine",
+      "https://en.wikipedia.org/wiki/Street_food_of_Chennai"
+    ]
+  },
+  {
+    "id": "tamil_nadu-kanchipuram-idli",
+    "name": "Kanchipuram Idli",
+    "local_name": null,
+    "pronunciation": "kaan-chi-PU-ram ID-li",
+    "category": "temple_food",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Kanchipuram"
+    ],
+    "description": "A spiced idli of rice and urad dal batter mixed with pepper, cumin, dry ginger, asafoetida and curry leaves, traditionally steamed in leaf-lined bamboo baskets. It is the prasadam of Kanchipuram's Varadaraja Perumal temple.",
+    "how_to_eat": "Eat it in slices with coconut chutney or sambar.",
+    "how_to_order": "Ask for 'Kanchipuram idli' at the Varadaraja Perumal temple counter or vegetarian restaurants.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.goya.in/blog/this-world-idli-day-we-celebrate-the-famed-kanchi-idli",
+      "https://aahaaramonline.com/kanchipuram-idli-prasadam-varadaraja-perumal-temple/"
+    ]
+  },
+  {
+    "id": "tamil_nadu-ven-pongal",
+    "name": "Ven Pongal",
+    "local_name": null,
+    "pronunciation": "VEN pon-GAL",
+    "category": "meal",
+    "state": "Tamil Nadu",
+    "regions": [],
+    "description": "A savoury porridge of rice and mung dal cooked with ghee, black pepper, cumin, ginger, curry leaves and cashews. It is a common Tamil breakfast.",
+    "how_to_eat": "Eat it hot with coconut chutney and sambar, and a filter coffee.",
+    "how_to_order": "Ask for 'pongal' at breakfast in any tiffin centre.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pongal_(dish)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pongal_(dish)",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-puliyodarai",
+    "name": "Puliyodarai",
+    "local_name": null,
+    "pronunciation": "pu-li-YO-da-rai",
+    "category": "temple_food",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Thanjavur"
+    ],
+    "description": "Tamarind rice: cooked rice mixed with a tamarind paste tempered in sesame oil with mustard, fenugreek, chilli, peanuts, chana and urad dal, curry leaves and jaggery. It is a classic temple prasadam and travel food, and Thanjavur is noted for it.",
+    "how_to_eat": "Eat it at room temperature, often with appalam or curd.",
+    "how_to_order": "Ask for 'puliyodarai' at temple counters or vegetarian restaurants as a 'variety rice'.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "peanuts",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pulihora",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tamil_cuisine",
+      "https://en.wikipedia.org/wiki/Pulihora"
+    ]
+  },
+  {
+    "id": "tamil_nadu-curd-rice",
+    "name": "Curd Rice",
+    "local_name": "தயிர் சாதம்",
+    "pronunciation": "THA-yir SAA-tham",
+    "category": "meal",
+    "state": "Tamil Nadu",
+    "regions": [],
+    "description": "Cooked rice mixed with plain yoghurt and usually tempered with mustard, curry leaves and chilli. It is eaten as the last course of a Tamil meal.",
+    "how_to_eat": "Eat it at the end of a meal, with pickle on the side.",
+    "how_to_order": "Ask for 'thayir sadam' at any meals restaurant.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Curd_rice",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Curd_rice",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-idiyappam",
+    "name": "Idiyappam",
+    "local_name": "இடியப்பம்",
+    "pronunciation": "i-DI-yap-pam",
+    "category": "meal",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Madurai",
+      "Chettinad"
+    ],
+    "description": "Rice flour pressed into fine noodles, laid in discs and steamed (string hoppers). It is eaten for breakfast or dinner, often with korma or sweetened coconut milk.",
+    "how_to_eat": "Eat it with coconut milk for a sweet version or with korma or kurma for a savoury one.",
+    "how_to_order": "Ask for 'idiyappam' with 'thengai paal' (coconut milk) at tiffin shops or from vendors.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Idiyappam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Idiyappam",
+      "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai/must-eat-local-dishes-in-madurai",
+      "https://en.wikipedia.org/wiki/Street_food_of_Chennai"
+    ]
+  },
+  {
+    "id": "tamil_nadu-chettinad-chicken",
+    "name": "Chettinad Chicken",
+    "local_name": null,
+    "pronunciation": "chet-ti-NAAD",
+    "category": "meal",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Chettinad",
+      "Karaikudi"
+    ],
+    "description": "A spicy chicken curry from the Chettinad region of Sivaganga district, made with a freshly roasted and ground masala of pepper, dried chillies, fennel, star anise and kalpasi (a lichen). Chettinad cooking is often called the most renowned in Tamil Nadu.",
+    "how_to_eat": "Eat it with rice, dosa, idiyappam or parotta.",
+    "how_to_order": "Ask for 'chicken Chettinad' at Chettinad restaurants or messes, most authentically around Karaikudi.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chettinad_cuisine",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine",
+      "https://www.indianhealthyrecipes.com/chettinad-chicken-curry/"
+    ]
+  },
+  {
+    "id": "tamil_nadu-chicken-65",
+    "name": "Chicken 65",
+    "local_name": "சிக்கன் 65",
+    "pronunciation": null,
+    "category": "snack",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Chennai"
+    ],
+    "description": "Spicy, deep-fried chicken pieces coloured red with chillies, which originated at Hotel Buhari in Chennai. It is served as a starter or quick snack, with onion and lemon.",
+    "how_to_eat": "Eat it hot as a starter with onion rings and lemon.",
+    "how_to_order": "Ask for 'chicken 65' at almost any non-veg restaurant; Buhari in Chennai claims to be the original.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chicken_65",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chicken_65",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-ambur-biryani",
+    "name": "Ambur Biryani",
+    "local_name": null,
+    "pronunciation": "AAM-boor BIR-ya-ni",
+    "category": "meal",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Ambur",
+      "Vaniyambadi"
+    ],
+    "description": "A biryani from the towns of Ambur and Vaniyambadi in Tirupattur district, dating to the Nawabs of Arcot. It uses small-grained jeera samba rice, a curd base, moderate spice and a high ratio of meat to rice.",
+    "how_to_eat": "Eat it with dhalcha (sour brinjal curry) and onion raita.",
+    "how_to_order": "Ask for 'Ambur mutton (or chicken) biryani' at biryani shops along the Chennai-Bengaluru highway.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Varieties_of_biryani",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-dindigul-biryani",
+    "name": "Dindigul Biryani",
+    "local_name": null,
+    "pronunciation": "DIN-di-gul BIR-ya-ni",
+    "category": "meal",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Dindigul"
+    ],
+    "description": "A biryani from the city of Dindigul, noted for using a little curd and lemon juice, which give it a tangy taste.",
+    "how_to_eat": "Eat it with raita and brinjal curry.",
+    "how_to_order": "Ask for 'Dindigul mutton biryani' at biryani restaurants.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Varieties_of_biryani",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-kothu-parotta",
+    "name": "Kothu Parotta",
+    "local_name": "கொத்து பரோட்டா",
+    "pronunciation": "KOTH-thu pa-ROT-ta",
+    "category": "street_food",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Madurai",
+      "Chennai"
+    ],
+    "description": "Parotta chopped on a hot griddle with egg, onion, chillies, salna (gravy) and often meat. It came to Madurai from Sri Lanka and became a signature street food there.",
+    "how_to_eat": "Eat it hot with extra salna and onion raita.",
+    "how_to_order": "Ask for 'egg kothu' or 'chicken kothu parotta' at night-time parotta stalls.",
+    "typical_price_inr": null,
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kottu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kottu",
+      "https://en.wikipedia.org/wiki/South_Indian_parotta",
+      "https://en.wikipedia.org/wiki/Street_food_of_Chennai"
+    ]
+  },
+  {
+    "id": "tamil_nadu-bun-parotta",
+    "name": "Bun Parotta",
+    "local_name": null,
+    "pronunciation": "BUN pa-ROT-ta",
+    "category": "meal",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Madurai"
+    ],
+    "description": "A thick, fluffy cross between a bun and a parotta, from a dough of flour, eggs, milk and sugar that is rested and tossed thin. It appeared in Madurai in the 1990s.",
+    "how_to_eat": "Tear it and dip it into mutton or chicken salna, or have it with vazhiyal (egg and gravy).",
+    "how_to_order": "Ask for 'bun parotta' with salna at Madurai restaurants such as Madurai Bun Parotta Kadai.",
+    "typical_price_inr": null,
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/South_Indian_parotta",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/South_Indian_parotta",
+      "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai/must-eat-local-dishes-in-madurai",
+      "https://www.tamilnadutourism.tn.gov.in/food/pandiya-nadu-cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-virudhunagar-poricha-parotta",
+    "name": "Virudhunagar Poricha Parotta",
+    "local_name": null,
+    "pronunciation": "po-RI-cha pa-ROT-ta",
+    "category": "meal",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Virudhunagar"
+    ],
+    "description": "A parotta from Virudhunagar that is first cooked on a griddle and then deep-fried until crisp. Parotta became popular in Madurai and Virudhunagar as cheap food during rice shortages.",
+    "how_to_eat": "Eat it with spicy mutton or chicken gravy poured over it.",
+    "how_to_order": "Ask for 'poricha parotta' or 'Virudhunagar parotta' at parotta stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/South_Indian_parotta",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/South_Indian_parotta",
+      "https://www.tamilnadutourism.tn.gov.in/food/pandiya-nadu-cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-kari-dosai",
+    "name": "Kari Dosai",
+    "local_name": null,
+    "pronunciation": "KA-ri DO-sai",
+    "category": "meal",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Madurai"
+    ],
+    "description": "A Madurai triple-layer dosa: a thick dosa base, an omelette, and a top layer of spicy minced mutton with onions and curry leaves. Simmakkal Konar Kadai is the best-known place for it.",
+    "how_to_eat": "Eat it with mutton gravy poured on top.",
+    "how_to_order": "Ask for 'kari dosai' at Madurai non-veg messes like Konar Kadai.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai/must-eat-local-dishes-in-madurai",
+      "https://www.tamilnadutourism.tn.gov.in/food/pandiya-nadu-cuisine",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-kola-urundai",
+    "name": "Kola Urundai",
+    "local_name": null,
+    "pronunciation": "KO-la u-run-DAI",
+    "category": "snack",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Madurai"
+    ],
+    "description": "Fried balls of minced mutton and masala. They are a Madurai street-food item served at messes, eaten on their own or with rice.",
+    "how_to_eat": "Eat them hot as a side to rice or parotta.",
+    "how_to_order": "Ask for 'mutton kola urundai' at Madurai messes.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai/must-eat-local-dishes-in-madurai",
+      "https://www.tamilnadutourism.tn.gov.in/food/pandiya-nadu-cuisine",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-mutton-chukka",
+    "name": "Mutton Chukka",
+    "local_name": null,
+    "pronunciation": "MUT-ton CHUK-ka",
+    "category": "meal",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Madurai"
+    ],
+    "description": "Goat meat cooked with freshly ground spices until all the liquid dries out, leaving a dry, spicy fry. It is a Madurai mess favourite.",
+    "how_to_eat": "Eat it with rice, parotta or dosa.",
+    "how_to_order": "Ask for 'mutton chukka' at Madurai non-veg messes.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.tamilnadutourism.tn.gov.in/food/pandiya-nadu-cuisine",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-pallipalayam-chicken",
+    "name": "Pallipalayam Chicken",
+    "local_name": null,
+    "pronunciation": "pal-li-PAA-la-yam",
+    "category": "meal",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Erode"
+    ],
+    "description": "A dry chicken fry from the Kongu region near Erode, cooked slowly with shallots, lots of dried red chillies, garlic and slivers of dry coconut. It is named after a town near Erode.",
+    "how_to_eat": "Eat it as a side with rasam rice or curd rice.",
+    "how_to_order": "Ask for 'Pallipalayam chicken' at Kongu-style restaurants in Erode and Coimbatore.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://amp.scroll.in/food/958481/scroll_in",
+      "https://www.archanaskitchen.com/erode-pallipalayam-chicken-fry-recipe",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-kuzhambu",
+    "name": "Kuzhambu",
+    "local_name": "குழம்பு",
+    "pronunciation": "ku-ZHAM-bu",
+    "category": "meal",
+    "state": "Tamil Nadu",
+    "regions": [],
+    "description": "A tamarind-based curry central to Tamil meals, cooked with coriander, fenugreek and toor dal and made with vegetables, lentil balls, fish or meat. It can be thin like a broth or thick like a gravy.",
+    "how_to_eat": "Mix it into rice as the first course of a meal.",
+    "how_to_order": "Ask for 'kara kuzhambu' or 'meen (fish) kuzhambu' at a meals restaurant or mess.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kuzhambu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kuzhambu",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-jigarthanda",
+    "name": "Jigarthanda",
+    "local_name": "ஜில் ஜில் ஜிகர்தண்டா",
+    "pronunciation": "ji-gar-THAN-da",
+    "category": "drink",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Madurai"
+    ],
+    "description": "Madurai's signature cold drink of milk, almond gum, nannari (sarsaparilla root) syrup, sugar and ice cream. The name means 'cool heart', and it is sold at roadside stalls, especially in summer.",
+    "how_to_eat": "Drink it cold, eating the ice cream and almond gum with a spoon.",
+    "how_to_order": "Ask for 'special jigarthanda' at stalls like Famous Jigarthanda near Vilakkuthoon.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jigarthanda_(drink)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jigarthanda_(drink)",
+      "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai/must-eat-local-dishes-in-madurai",
+      "https://en.wikipedia.org/wiki/Street_food_of_Chennai"
+    ]
+  },
+  {
+    "id": "tamil_nadu-paruthi-paal",
+    "name": "Paruthi Paal",
+    "local_name": null,
+    "pronunciation": "pa-RU-thi PAAL",
+    "category": "drink",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Madurai"
+    ],
+    "description": "A thick, sweet, milky drink made from cotton seed extract. It is a Madurai street drink, usually served hot.",
+    "how_to_eat": "Drink it hot from a small glass.",
+    "how_to_order": "Ask for 'paruthi paal' from street vendors in Madurai.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.tamilnadutourism.tn.gov.in/food/pandiya-nadu-cuisine",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-kumbakonam-degree-coffee",
+    "name": "Kumbakonam Degree Coffee",
+    "local_name": "கும்பகோணம் டிகிரி காபி",
+    "pronunciation": "kum-ba-KO-nam DEG-ree KAA-pi",
+    "category": "drink",
+    "state": "Tamil Nadu",
+    "regions": [
+      "Kumbakonam"
+    ],
+    "description": "A style of filter coffee from Kumbakonam in Thanjavur district, made with a strong chicory decoction and pure, undiluted cows' milk. It is served frothed in a steel tumbler and dabara.",
+    "how_to_eat": "Pour it between the tumbler and dabara to cool and froth it before drinking.",
+    "how_to_order": "Ask for 'degree coffee' at coffee shops in Kumbakonam and along the highways.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kumbakonam_Degree_Coffee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kumbakonam_Degree_Coffee",
+      "https://en.wikipedia.org/wiki/Indian_filter_coffee",
+      "https://assets.atlasobscura.com/foods/kumbakonam-degree-coffee"
+    ]
+  },
+  {
+    "id": "tamil_nadu-neer-mor",
+    "name": "Neer Mor",
+    "local_name": "மோர்",
+    "pronunciation": "NEER MOR",
+    "category": "drink",
+    "state": "Tamil Nadu",
+    "regions": [],
+    "description": "Spiced, thinned buttermilk flavoured with ginger, green chilli, curry leaves and salt. It is a staple Tamil summer cooler.",
+    "how_to_eat": "Drink it chilled, especially on a hot afternoon.",
+    "how_to_order": "Ask for 'mor' at meals restaurants or roadside stalls.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-koozh",
+    "name": "Koozh",
+    "local_name": "கூழ்",
+    "pronunciation": "KOOZH",
+    "category": "drink",
+    "state": "Tamil Nadu",
+    "regions": [],
+    "description": "A fermented porridge of finger millet (kezhvaragu) or pearl millet (kambu) flour and broken rice, cooked in a clay pot. It is a village staple eaten for breakfast or lunch.",
+    "how_to_eat": "Drink it cool from a cup or bowl.",
+    "how_to_order": "Ask for 'kambu koozh' or 'ragi koozh' from roadside vendors in summer.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Koozh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Koozh",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  },
+  {
+    "id": "tamil_nadu-panakam",
+    "name": "Panakam",
+    "local_name": "பானகம்",
+    "pronunciation": "PAA-na-kam",
+    "category": "drink",
+    "state": "Tamil Nadu",
+    "regions": [],
+    "description": "A sweet drink of jaggery water with dried ginger, cardamom and lemon or tamarind. It is traditionally made for Rama Navami and offered as temple prasadam in summer.",
+    "how_to_eat": "Drink it at room temperature, usually in small cups after prayers.",
+    "how_to_order": "Look for it at temples during Rama Navami.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Panakam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Panakam",
+      "https://en.wikipedia.org/wiki/Tamil_cuisine"
+    ]
+  }
+]

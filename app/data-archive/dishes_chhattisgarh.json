@@ -1,0 +1,744 @@
+[
+  {
+    "id": "chhattisgarh-chila",
+    "name": "Chila",
+    "local_name": null,
+    "pronunciation": "CHEE-la",
+    "category": "meal",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "A thin, dosa-like pancake of rice batter, often with urad dal, eaten at breakfast or as a snack. It is served with tomato, chilli and coriander chutney, and on Hareli it is traditionally cooked on sal leaves over an earthen griddle.",
+    "how_to_eat": "Eat it hot with green or tomato chutney.",
+    "how_to_order": "Ask for 'chila' (also spelt cheela) at a home-style breakfast stall.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhattisgarhi_cuisine",
+      "https://www.holidify.com/pages/food-of-chhattisgarh-1655.html",
+      "https://blog.swiggy.com/?p=18289",
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh"
+    ]
+  },
+  {
+    "id": "chhattisgarh-fara",
+    "name": "Fara",
+    "local_name": null,
+    "pronunciation": "FAA-ra",
+    "category": "snack",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "Steamed rice-flour dumplings, sometimes cut into small rolls or stuffed with spiced dal or vegetables, with minimal spice and coriander. Often called a desi momo, it is commonly made from leftover rice mixed with rice flour and tempered with mustard, cumin and curry leaves.",
+    "how_to_eat": "Eat it warm with green or coconut chutney.",
+    "how_to_order": "Ask for 'fara' or 'farra' at a local breakfast stall or home-style eatery.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhattisgarhi_cuisine",
+      "https://www.holidify.com/pages/food-of-chhattisgarh-1655.html",
+      "https://blog.swiggy.com/?p=18289",
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh"
+    ]
+  },
+  {
+    "id": "chhattisgarh-muthia",
+    "name": "Muthia",
+    "local_name": null,
+    "pronunciation": "MUTH-ee-ya",
+    "category": "snack",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "Rice-flour dough with sesame seeds, onion, coriander and spices, shaped by hand and steamed rather than fried. It is a filling breakfast snack popular with rural farmers.",
+    "how_to_eat": "Eat it warm with chutney.",
+    "how_to_order": "Ask for 'muthia' at a local breakfast stall.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-chhattisgarh-1655.html",
+      "https://blog.swiggy.com/?p=18289"
+    ]
+  },
+  {
+    "id": "chhattisgarh-bore-baasi",
+    "name": "Bore Baasi",
+    "local_name": null,
+    "pronunciation": "BO-ray BAA-see",
+    "category": "meal",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "Cooked rice soaked overnight in water, curd or buttermilk and eaten the next day with pickle and raw onion. It is a summer meal believed to keep the body cool and hydrated, and reflects the local habit of not wasting rice.",
+    "how_to_eat": "Eat it cold, with salt, raw onion and pickle on the side.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhattisgarhi_cuisine",
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh"
+    ]
+  },
+  {
+    "id": "chhattisgarh-angakar-roti",
+    "name": "Angakar Roti",
+    "local_name": null,
+    "pronunciation": "UNG-a-kar ROH-tee",
+    "category": "meal",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "A thick flatbread of coarse rice flour or jowar, cooked on a griddle or over burning charcoal, which gives it its name (angar means burning charcoal). It is traditionally eaten with badi chutney.",
+    "how_to_eat": "Tear it and eat it with badi chutney or a curry.",
+    "how_to_order": "Ask for 'angakar roti' at a Chhattisgarhi thali restaurant.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhattisgarhi_cuisine",
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh",
+      "https://possible11.com/top-stories/traditional-food-from-chhattisgarh-you-simply-cannot-miss-out-on/"
+    ]
+  },
+  {
+    "id": "chhattisgarh-chausela",
+    "name": "Chausela",
+    "local_name": null,
+    "pronunciation": "chow-SAY-la",
+    "category": "meal",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "A salty puri made of rice flour, carom seeds, salt and warm water, deep-fried until puffed.",
+    "how_to_eat": "Eat it hot with a curry or chutney.",
+    "how_to_order": "Ask for 'chausela' at a Chhattisgarhi thali restaurant or during festivals.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhattisgarhi_cuisine",
+      "https://www.cuisineindiasociety.in/?p=132"
+    ]
+  },
+  {
+    "id": "chhattisgarh-aamat",
+    "name": "Aamat",
+    "local_name": null,
+    "pronunciation": "AA-mut",
+    "category": "meal",
+    "state": "Chhattisgarh",
+    "regions": [
+      "Bastar"
+    ],
+    "description": "A mixed-vegetable stew compared to sambar, flavoured with ginger-garlic paste, tamarind and spices and sometimes fermented rice water. In Bastar it is traditionally cooked with bamboo shoots, which add aroma.",
+    "how_to_eat": "Eat it warm with rice.",
+    "how_to_order": "Ask for 'aamat' at a Bastar or Chhattisgarhi home-style eatery.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-chhattisgarh-1655.html",
+      "https://blog.swiggy.com/?p=18289",
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh",
+      "https://www.tataneu.com/pages/travel/hotels/faqs-about-chhattisgarh-traditional-food-and-recipes"
+    ]
+  },
+  {
+    "id": "chhattisgarh-bafauri",
+    "name": "Bafauri",
+    "local_name": null,
+    "pronunciation": "ba-FOW-ree",
+    "category": "snack",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "Steamed dumplings of chana dal (or gram flour) with vegetables and spices, sometimes tossed in mustard oil. A healthier, unfried alternative to pakoras from the central plains.",
+    "how_to_eat": "Eat them warm with chutney and tea.",
+    "how_to_order": "Ask for 'bafauri' at a local snack or breakfast stall.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-chhattisgarh-1655.html",
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh",
+      "https://mayuris-jikoni.com/2018/01/31/740-bafauri/"
+    ]
+  },
+  {
+    "id": "chhattisgarh-dubki-kadhi",
+    "name": "Dubki Kadhi",
+    "local_name": null,
+    "pronunciation": "DUB-kee KUR-hee",
+    "category": "meal",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "Gram-flour pakoras simmered in a tangy, spiced curd curry, garnished with red chillies, mint and coriander. It is a lunch dish, with variants such as arbi kadhi and bhindi kadhi.",
+    "how_to_eat": "Eat it with steamed rice.",
+    "how_to_order": "Ask for 'dubki kadhi' with rice at a Chhattisgarhi thali place.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-chhattisgarh-1655.html",
+      "https://blog.swiggy.com/?p=18289"
+    ]
+  },
+  {
+    "id": "chhattisgarh-iddhar",
+    "name": "Iddhar",
+    "local_name": null,
+    "pronunciation": "ID-dhar",
+    "category": "meal",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "Ground urad dal (sometimes besan) is layered with kochai (colocasia) leaves, rolled, steamed and sliced. The slices are served in a curd-based curry.",
+    "how_to_eat": "Eat the slices with the curd curry and rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhattisgarhi_cuisine"
+    ]
+  },
+  {
+    "id": "chhattisgarh-bara",
+    "name": "Bara",
+    "local_name": null,
+    "pronunciation": "BAA-ra",
+    "category": "snack",
+    "state": "Chhattisgarh",
+    "regions": [
+      "Bastar"
+    ],
+    "description": "A fried snack of fermented, ground urad dal (or soaked moong dal) with vegetables and spices, similar to South Indian vada. It is a must at the state's festivals and village fairs and is served at weddings in Bastar.",
+    "how_to_eat": "Eat it hot with red and green chutneys.",
+    "how_to_order": "Ask for 'bara' at a village fair or snack stall.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-chhattisgarh-1655.html",
+      "https://blog.swiggy.com/?p=18289"
+    ]
+  },
+  {
+    "id": "chhattisgarh-chhattisgarhi-bhajia",
+    "name": "Chhattisgarhi Bhajia",
+    "local_name": null,
+    "pronunciation": "BHUJ-ee-ya",
+    "category": "street_food",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "Gram-flour fritters in chilli, onion and potato versions, a local take on bajji. They are a common street snack, especially in the rains.",
+    "how_to_eat": "Eat them hot with spicy green chutney and tea.",
+    "how_to_order": "Ask for 'mirchi bhajia' or 'aloo bhajia' at a tea stall.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-chhattisgarh-1655.html",
+      "https://blog.swiggy.com/?p=18289"
+    ]
+  },
+  {
+    "id": "chhattisgarh-chana-samosa-bhaji",
+    "name": "Chana Samosa Bhaji",
+    "local_name": null,
+    "pronunciation": "CHA-na sa-MO-sa BHAA-jee",
+    "category": "street_food",
+    "state": "Chhattisgarh",
+    "regions": [
+      "Raipur",
+      "Bilaspur"
+    ],
+    "description": "Crisp fried samosas served with spicy chickpeas. It is a popular breakfast in Raipur and Bilaspur.",
+    "how_to_eat": "Break the samosa into the chana and eat with a spoon.",
+    "how_to_order": "Ask for 'chana samosa' at a morning snack stall in Raipur or Bilaspur.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh"
+    ]
+  },
+  {
+    "id": "chhattisgarh-badi-chutney",
+    "name": "Badi Chutney",
+    "local_name": null,
+    "pronunciation": "BA-ree CHUT-nee",
+    "category": "snack",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "A paste of sun-dried lentil cakes (badi) crushed with garlic and chilli. It is the usual partner for angakar roti.",
+    "how_to_eat": "Eat a little with each piece of angakar roti or rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh"
+    ]
+  },
+  {
+    "id": "chhattisgarh-chapda-chutney",
+    "name": "Chapda Chutney",
+    "local_name": null,
+    "pronunciation": "CHAP-ra CHUT-nee",
+    "category": "snack",
+    "state": "Chhattisgarh",
+    "regions": [
+      "Bastar"
+    ],
+    "description": "A tribal chutney of red weaver ants and their eggs collected from leaf nests in sal trees, ground with salt, chilli, garlic, ginger and coriander. It is tangy and fiery and is believed locally to boost immunity.",
+    "how_to_eat": "Eat a small amount with rice or maize porridge to balance the heat.",
+    "how_to_order": "Ask for 'chapda chutney' at Bastar weekly haats or tribal food festivals.",
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Red_ant_chutney",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Red_ant_chutney",
+      "https://assets.atlasobscura.com/foods/red-ant-chutney-chaprah-india",
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh"
+    ]
+  },
+  {
+    "id": "chhattisgarh-bohar-bhaji-achaar",
+    "name": "Bohar Bhaji Achaar",
+    "local_name": null,
+    "pronunciation": "bo-HAR BHAA-jee a-CHAAR",
+    "category": "snack",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "A pickle made mostly from the blossoms of the bohar (lasoda) tree. Pickles are a regular side in Chhattisgarhi meals.",
+    "how_to_eat": "Eat a little alongside rice and dal.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhattisgarhi_cuisine"
+    ]
+  },
+  {
+    "id": "chhattisgarh-korma-bans",
+    "name": "Korma Bans",
+    "local_name": null,
+    "pronunciation": "KOR-ma BAANS",
+    "category": "meal",
+    "state": "Chhattisgarh",
+    "regions": [
+      "Bastar",
+      "Dantewada"
+    ],
+    "description": "A bamboo shoot curry from the forest regions: the shoots are boiled to remove bitterness, then cooked with onion, garlic and mustard seeds.",
+    "how_to_eat": "Eat it with rice.",
+    "how_to_order": "Ask for bamboo shoot curry at Bastar weekly haats or tribal eateries.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh"
+    ]
+  },
+  {
+    "id": "chhattisgarh-sukha-machhli",
+    "name": "Sukha Machhli",
+    "local_name": null,
+    "pronunciation": "SOO-kha MUCH-lee",
+    "category": "meal",
+    "state": "Chhattisgarh",
+    "regions": [
+      "Bastar",
+      "Bilaspur"
+    ],
+    "description": "A curry of dried river fish cooked in mustard oil with tamarind, garlic and chilli, from the Bastar and Bilaspur river areas.",
+    "how_to_eat": "Eat it with plain rice.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh"
+    ]
+  },
+  {
+    "id": "chhattisgarh-bhunja-maans",
+    "name": "Bhunja Maans",
+    "local_name": null,
+    "pronunciation": "BHOON-ja MAANS",
+    "category": "meal",
+    "state": "Chhattisgarh",
+    "regions": [
+      "Bastar"
+    ],
+    "description": "Goat or wild boar marinated in garlic, chilli and coriander, then slow-roasted over an open flame. It is a forest-village dish of the tribal belt.",
+    "how_to_eat": "Eat it hot off the fire with rice or roti.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh"
+    ]
+  },
+  {
+    "id": "chhattisgarh-kosha-chicken",
+    "name": "Kosha Chicken",
+    "local_name": null,
+    "pronunciation": "KO-sha",
+    "category": "meal",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "Chicken stewed for hours in an iron pot with mustard oil, cumin, coriander, onion and turmeric. A plains dish served with rice or angakar roti.",
+    "how_to_eat": "Eat it with rice or angakar roti.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh"
+    ]
+  },
+  {
+    "id": "chhattisgarh-kodo-khichdi",
+    "name": "Kodo Khichdi",
+    "local_name": null,
+    "pronunciation": "KO-do KHICH-ree",
+    "category": "meal",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "Khichdi made from kodo millet, served at Pola, the bull-worship festival.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh"
+    ]
+  },
+  {
+    "id": "chhattisgarh-khurmi",
+    "name": "Khurmi",
+    "local_name": null,
+    "pronunciation": "KHUR-mee",
+    "category": "sweet",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "A crunchy traditional sweet made from wheat flour with jaggery or sugar. It is made for festivals and small occasions.",
+    "how_to_eat": "Eat it as a tea-time sweet.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhattisgarhi_cuisine",
+      "https://possible11.com/top-stories/traditional-food-from-chhattisgarh-you-simply-cannot-miss-out-on/"
+    ]
+  },
+  {
+    "id": "chhattisgarh-dehrori",
+    "name": "Dehrori",
+    "local_name": null,
+    "pronunciation": "deh-RO-ree",
+    "category": "sweet",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "A festive sweet of fermented rice batter (with curd or lentils in some versions), deep-fried and soaked in sugar syrup. It is made for Diwali and Holi and at fairs.",
+    "how_to_eat": "Eat it at room temperature, letting the syrup soak through.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh",
+      "https://possible11.com/top-stories/traditional-food-from-chhattisgarh-you-simply-cannot-miss-out-on/"
+    ]
+  },
+  {
+    "id": "chhattisgarh-anarsa",
+    "name": "Anarsa",
+    "local_name": null,
+    "pronunciation": "a-NAR-sa",
+    "category": "sweet",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "Rice-flour discs studded with sesame, made for rituals and fairs.",
+    "how_to_eat": "Eat it as a festival sweet.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anarsa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhattisgarhi_cuisine",
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh"
+    ]
+  },
+  {
+    "id": "chhattisgarh-gulgula",
+    "name": "Gulgula",
+    "local_name": null,
+    "pronunciation": "GUL-gu-la",
+    "category": "sweet",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "A sweet, also called bobra, listed among Chhattisgarh's traditional rice-flour preparations.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhattisgarhi_cuisine"
+    ]
+  },
+  {
+    "id": "chhattisgarh-tilgur",
+    "name": "Tilgur",
+    "local_name": null,
+    "pronunciation": "TIL-gur",
+    "category": "sweet",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "Laddoos of roasted sesame, dark jaggery and peanuts, made for festivals and weddings, especially Makar Sankranti.",
+    "how_to_eat": "Eat one as a sweet in winter.",
+    "how_to_order": "Ask for 'til ke laddoo' at sweet shops around Makar Sankranti.",
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "sesame",
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-chhattisgarh-1655.html",
+      "https://blog.swiggy.com/?p=18289"
+    ]
+  },
+  {
+    "id": "chhattisgarh-khurma",
+    "name": "Khurma",
+    "local_name": null,
+    "pronunciation": "KHUR-ma",
+    "category": "sweet",
+    "state": "Chhattisgarh",
+    "regions": [],
+    "description": "Roasted vermicelli cooked in milk with sugar and dry fruits. It is widely served around Eid in the state's cities.",
+    "how_to_eat": "Eat it warm or chilled with a spoon.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.holidify.com/pages/food-of-chhattisgarh-1655.html",
+      "https://blog.swiggy.com/?p=18289"
+    ]
+  },
+  {
+    "id": "chhattisgarh-mahua-ladoo",
+    "name": "Mahua Ladoo",
+    "local_name": null,
+    "pronunciation": "MAH-hoo-a LAD-doo",
+    "category": "sweet",
+    "state": "Chhattisgarh",
+    "regions": [
+      "Bastar",
+      "Dantewada"
+    ],
+    "description": "Sweets made from dried mahua flowers with jaggery, used as festive offerings in the tribal regions.",
+    "how_to_eat": "Eat one as a sweet.",
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh"
+    ]
+  },
+  {
+    "id": "chhattisgarh-mahua",
+    "name": "Mahua",
+    "local_name": null,
+    "pronunciation": "MAH-hoo-a",
+    "category": "drink",
+    "state": "Chhattisgarh",
+    "regions": [
+      "Bastar",
+      "Dantewada"
+    ],
+    "description": "An amber alcoholic brew distilled from dried mahua flowers, drunk by tribal and village communities at rituals and gatherings.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price_inr": null,
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhattisgarhi_cuisine",
+      "https://dailypioneer.com/news/grains-of-grace-the-culinary-soul-of-chhattisgarh"
+    ]
+  }
+]
