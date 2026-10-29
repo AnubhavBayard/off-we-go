@@ -1,18 +1,30 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useLayoutEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Award, Leaf, MapPin, Search, Sprout, UserRound } from 'lucide-react'
 import { CATEGORY_LABEL, STATES, dishes, imageFor, type Category } from '../data'
 import { CATEGORY_ICON, DishPhoto, FoodTicker } from '../ui'
 
+// Filters and scroll position outlive the page (open a dish, come back) for the rest of the app session.
+const saved = { q: '', category: null as Category | null, state: '', vegOnly: false, jainOnly: false, scrollY: 0 }
+
 export default function Discover() {
-  const [q, setQ] = useState('')
-  const [category, setCategory] = useState<Category | null>(null)
-  const [state, setState] = useState('')
-  const [vegOnly, setVegOnly] = useState(false)
-  const [jainOnly, setJainOnly] = useState(false)
+  const [q, setQ] = useState(saved.q)
+  const [category, setCategory] = useState(saved.category)
+  const [state, setState] = useState(saved.state)
+  const [vegOnly, setVegOnly] = useState(saved.vegOnly)
+  const [jainOnly, setJainOnly] = useState(saved.jainOnly)
+  useEffect(() => { Object.assign(saved, { q, category, state, vegOnly, jainOnly }) }, [q, category, state, vegOnly, jainOnly])
+
   // First frame renders a screenful of cards; the rest follow once the tab transition is over, so it stays smooth.
-  const [limit, setLimit] = useState(20)
+  // Coming back to a scrolled list renders everything at once so the old position exists to scroll back to.
+  const [limit, setLimit] = useState(saved.scrollY ? Infinity : 20)
   useEffect(() => { const t = setTimeout(() => setLimit(Infinity), 450); return () => clearTimeout(t) }, [])
+  useLayoutEffect(() => { window.scrollTo(0, saved.scrollY) }, []) // braces: scrollTo returns a Promise React would call as cleanup
+  useEffect(() => {
+    const remember = () => { saved.scrollY = window.scrollY }
+    addEventListener('scroll', remember, { passive: true })
+    return () => removeEventListener('scroll', remember)
+  }, [])
 
   const query = q.trim().toLowerCase()
   const inState = dishes.filter((d) => !state || d.state === state)
