@@ -1,5 +1,6 @@
 // Curated dish + restaurant data, bundled with the app so it works offline.
-// Dishes are one file per state (dishes_<state>.json); restaurants are one file per city (restaurants_<city>.json).
+// Dishes: India one file per state (dishes_<state>.json), other countries one file each (dishes_world_<country>.json).
+// Restaurants are one file per city (restaurants_<city>.json).
 
 export type Category = 'sweet' | 'street_food' | 'meal' | 'pitha' | 'temple_food' | 'snack' | 'drink'
 
@@ -9,12 +10,14 @@ export type Dish = {
   local_name: string | null
   pronunciation: string | null
   category: Category
-  state: string
+  country: string
+  state: string // first-level region within the country: Indian state, French region, US state...
   regions: string[] // where in the state it is best known (not shown in the app; states only)
   description: string
   how_to_eat: string | null
   how_to_order: string | null
-  typical_price_inr: string | null
+  typical_price: string | null // e.g. "20-40", in `currency`
+  currency: string // ISO 4217, e.g. INR, EUR
   diet: 'veg' | 'nonveg' | 'egg'
   jain: boolean
   vegan: boolean
@@ -56,7 +59,23 @@ export const dishes: Dish[] = Object.values(dishFiles).flat()
 export const restaurants: Restaurant[] = Object.values(cityFiles).flatMap((f) => f.restaurants)
 const links: DishLink[] = Object.values(cityFiles).flatMap((f) => f.links)
 
-export const STATES = [...new Set(dishes.map((d) => d.state))].sort()
+export const COUNTRIES = [...new Set(dishes.map((d) => d.country))].sort()
+export const regionsOf = (country: string) => [...new Set(dishes.filter((d) => d.country === country).map((d) => d.state))].sort()
+
+// ISO codes for matching the user's location (reverse geocoding gives a code; names vary, e.g. Türkiye/Turkey).
+export const COUNTRY_CODE: Record<string, string> = {
+  India: 'IN', France: 'FR', Spain: 'ES', 'United States': 'US', Italy: 'IT', Turkey: 'TR', Mexico: 'MX',
+  'United Kingdom': 'GB', Germany: 'DE', Greece: 'GR', Thailand: 'TH', Japan: 'JP', China: 'CN',
+  'United Arab Emirates': 'AE', Malaysia: 'MY', Vietnam: 'VN', Indonesia: 'ID', Portugal: 'PT',
+  Netherlands: 'NL', 'South Korea': 'KR', Singapore: 'SG',
+}
+
+// "₹20-40", "€8-12", "THB 50-80"
+export const priceLabel = (d: Dish) => {
+  if (!d.typical_price) return null
+  const symbol = new Intl.NumberFormat('en', { style: 'currency', currency: d.currency }).formatToParts(0).find((p) => p.type === 'currency')?.value ?? d.currency
+  return `${symbol}${symbol.length > 1 ? ' ' : ''}${d.typical_price}`
+}
 export const dishById = new Map(dishes.map((d) => [d.id, d]))
 export const restaurantById = new Map(restaurants.map((r) => [r.id, r]))
 

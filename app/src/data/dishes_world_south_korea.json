@@ -1,0 +1,1090 @@
+[
+  {
+    "id": "south_korea-seolleongtang",
+    "name": "Seolleongtang",
+    "local_name": "설렁탕",
+    "pronunciation": "SUL-lung-tang",
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Seoul and Gyeonggi",
+    "regions": [
+      "Seoul"
+    ],
+    "description": "A milky soup of ox bones, brisket and other cuts, simmered for hours to a whole day. It is a local dish of Seoul, seasoned at the table.",
+    "how_to_eat": "Add salt, pepper and spring onion yourself, then mix in rice.",
+    "how_to_order": "Ask for 'seolleongtang' at long-running soup restaurants in Seoul.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Seolleongtang",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Seolleongtang",
+      "https://en.wikipedia.org/wiki/Korean_regional_cuisine"
+    ]
+  },
+  {
+    "id": "south_korea-tteokbokki",
+    "name": "Tteokbokki",
+    "local_name": "떡볶이",
+    "pronunciation": "DUK-bo-kki",
+    "category": "street_food",
+    "country": "South Korea",
+    "state": "Seoul and Gyeonggi",
+    "regions": [
+      "Seoul",
+      "Sindang-dong"
+    ],
+    "description": "Chewy cylinder rice cakes simmered in spicy gochujang sauce, often with fish cakes, boiled eggs and scallions. The spicy version is credited to Ma Bok-rim in Sindang, Seoul, in 1953.",
+    "how_to_eat": "Eat with a toothpick or fork from a paper cup or shared pan.",
+    "how_to_order": "Buy a cup at street stalls (pojangmacha), or visit Sindang-dong's tteokbokki alley in Seoul.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "fish",
+      "soy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tteokbokki",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tteokbokki",
+      "https://en.wikipedia.org/wiki/Korean_regional_cuisine"
+    ]
+  },
+  {
+    "id": "south_korea-budae-jjigae",
+    "name": "Budae-jjigae",
+    "local_name": "부대찌개",
+    "pronunciation": "boo-DAE jji-gae",
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Seoul and Gyeonggi",
+    "regions": [
+      "Uijeongbu"
+    ],
+    "description": "Spicy 'army base stew' of ham, sausage, Spam, kimchi, instant noodles, gochujang and American cheese, born from post-war scarcity. Uijeongbu in Gyeonggi claims to have first made it and has a street of budae-jjigae restaurants.",
+    "how_to_eat": "Share the pot cooked at the table, with rice.",
+    "how_to_order": "Ask for 'budae-jjigae' on Uijeongbu's Budae-jjigae Street or at chains across Korea.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Budae-jjigae",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Budae-jjigae"
+    ]
+  },
+  {
+    "id": "south_korea-jjajangmyeon",
+    "name": "Jjajangmyeon",
+    "local_name": "짜장면",
+    "pronunciation": "JJA-jang-myun",
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Seoul and Gyeonggi",
+    "regions": [
+      "Incheon"
+    ],
+    "description": "Wheat noodles under a thick black-bean (chunjang) sauce with diced pork and vegetables, a Korean take on Chinese zhajiangmian. It developed among Shandong migrants in Incheon, and was served at Gonghwachun in Incheon Chinatown from 1905.",
+    "how_to_eat": "Mix the sauce through the noodles before eating, with pickled radish on the side.",
+    "how_to_order": "Order from Korean-Chinese restaurants, or visit Incheon Chinatown.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jjajangmyeon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jjajangmyeon"
+    ]
+  },
+  {
+    "id": "south_korea-bulgogi",
+    "name": "Bulgogi",
+    "local_name": "불고기",
+    "pronunciation": "bool-GO-gi",
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Seoul and Gyeonggi",
+    "regions": [
+      "Seoul"
+    ],
+    "description": "Thin slices of marinated beef grilled on a barbecue or griddle. It is one of Korea's most popular dishes, found from upscale restaurants to home kitchens.",
+    "how_to_eat": "Wrap the meat in lettuce with garlic and ssamjang.",
+    "how_to_order": "Ask for 'bulgogi' at Korean barbecue restaurants.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bulgogi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bulgogi"
+    ]
+  },
+  {
+    "id": "south_korea-korean-fried-chicken",
+    "name": "Korean Fried Chicken",
+    "local_name": "치킨",
+    "pronunciation": "CHI-kin",
+    "category": "street_food",
+    "country": "South Korea",
+    "state": "Seoul and Gyeonggi",
+    "regions": [
+      "Seoul"
+    ],
+    "description": "Fried chicken created in South Korea, either plain 'huraideu' or coated in spicy-sweet 'yangnyeom' sauce. It is eaten as a meal, a late-night snack or with beer ('chimaek').",
+    "how_to_eat": "Order half-and-half (plain and yangnyeom) and eat with pickled radish and beer.",
+    "how_to_order": "Ask for 'chikin' at fried chicken shops, or order delivery.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Korean_fried_chicken",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Korean_fried_chicken"
+    ]
+  },
+  {
+    "id": "south_korea-hotteok",
+    "name": "Hotteok",
+    "local_name": "호떡",
+    "pronunciation": "HO-ttuk",
+    "category": "street_food",
+    "country": "South Korea",
+    "state": "Seoul and Gyeonggi",
+    "regions": [],
+    "description": "A filled pancake sold as a popular street food, usually filled with brown sugar and ground peanuts or sesame. It came from Qing China in the 19th century.",
+    "how_to_eat": "Eat hot from a paper cup, carefully, as the syrup is very hot.",
+    "how_to_order": "Buy from street stalls, especially in winter.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "peanuts",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hotteok",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hotteok"
+    ]
+  },
+  {
+    "id": "south_korea-dak-galbi",
+    "name": "Dak-galbi",
+    "local_name": "닭갈비",
+    "pronunciation": "DAK-gal-bi",
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Gangwon",
+    "regions": [
+      "Chuncheon"
+    ],
+    "description": "Diced chicken stir-fried in gochujang sauce with sweet potato, cabbage, perilla, scallion and rice cakes on a hot plate. Chuncheon dak-galbi is a signature Gangwon dish.",
+    "how_to_eat": "Wrap pieces in lettuce or perilla leaves, then fry rice in the leftover sauce.",
+    "how_to_order": "Ask for 'dak-galbi' at restaurants with built-in hot plates in Chuncheon.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "soy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dak-galbi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dak-galbi",
+      "https://en.wikipedia.org/wiki/Korean_regional_cuisine"
+    ]
+  },
+  {
+    "id": "south_korea-mak-guksu",
+    "name": "Mak-guksu",
+    "local_name": "막국수",
+    "pronunciation": "MAK-guk-su",
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Gangwon",
+    "regions": [
+      "Chuncheon"
+    ],
+    "description": "Buckwheat noodles served in chilled broth or kimchi soup, sometimes with mustard, sesame oil or vinegar. It is a local specialty of Gangwon, especially Chuncheon.",
+    "how_to_eat": "Add vinegar and mustard to taste and eat cold.",
+    "how_to_order": "Ask for 'mak-guksu' at noodle restaurants in Chuncheon.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "sesame",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mak-guksu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mak-guksu",
+      "https://en.wikipedia.org/wiki/Korean_regional_cuisine"
+    ]
+  },
+  {
+    "id": "south_korea-gamja-ongsimi",
+    "name": "Gamja-ongsimi",
+    "local_name": "감자옹심이",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Gangwon",
+    "regions": [],
+    "description": "Chewy potato dumplings in soup, a type of hand-pulled dough soup. It belongs to Gangwon's simple cuisine based on potato, corn and buckwheat.",
+    "how_to_eat": "Eat hot with kimchi.",
+    "how_to_order": "Ask for 'gamja-ongsimi' at local restaurants in Gangwon, such as in Gangneung.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gamja-ongsimi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gamja-ongsimi",
+      "https://en.wikipedia.org/wiki/Korean_regional_cuisine"
+    ]
+  },
+  {
+    "id": "south_korea-chodang-sundubu",
+    "name": "Chodang Sundubu",
+    "local_name": "초당순두부",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Gangwon",
+    "regions": [
+      "Gangneung"
+    ],
+    "description": "Extra-soft, unpressed tofu, served mild or as spicy sundubu-jjigae stew. The tofu is said to have originated in the village of Chodang, where a Joseon official made it with spring water and sea water.",
+    "how_to_eat": "Eat with rice and side dishes.",
+    "how_to_order": "Ask for 'sundubu' at the tofu restaurants of Chodang village in Gangneung.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sundubu-jjigae",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sundubu-jjigae"
+    ]
+  },
+  {
+    "id": "south_korea-ojingeo-sundae",
+    "name": "Ojingeo-sundae",
+    "local_name": "오징어순대",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Gangwon",
+    "regions": [
+      "Sokcho"
+    ],
+    "description": "Fresh squid stuffed with a sundae-style filling and sliced. It is a local specialty of Gangwon.",
+    "how_to_eat": "Eat the slices dipped in soy sauce, sometimes pan-fried in egg.",
+    "how_to_order": "Ask for 'ojingeo-sundae' at seafood restaurants on the Gangwon coast.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sundae_(sausage)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sundae_(sausage)"
+    ]
+  },
+  {
+    "id": "south_korea-jeonju-bibimbap",
+    "name": "Jeonju Bibimbap",
+    "local_name": "전주비빔밥",
+    "pronunciation": "JUN-ju BEE-bim-bap",
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Jeolla",
+    "regions": [
+      "Jeonju"
+    ],
+    "description": "Warm rice topped with seasoned vegetables, gochujang, often egg and beef, mixed together before eating. Jeonju's version is the most famous in South Korea.",
+    "how_to_eat": "Mix everything thoroughly with the gochujang before eating.",
+    "how_to_order": "Ask for 'Jeonju bibimbap' at restaurants in Jeonju.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy",
+      "sesame",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bibimbap",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bibimbap",
+      "https://en.wikipedia.org/wiki/Jeonju"
+    ]
+  },
+  {
+    "id": "south_korea-kongnamul-gukbap",
+    "name": "Kongnamul-gukbap",
+    "local_name": "콩나물국밥",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Jeolla",
+    "regions": [
+      "Jeonju"
+    ],
+    "description": "Rice in a soybean sprout soup, a Jeonju specialty. Koreans eat it as a hangover cure after a night of drinking.",
+    "how_to_eat": "Mix the rice into the hot soup and add a raw or soft egg if served.",
+    "how_to_order": "Ask for 'kongnamul-gukbap' at early-opening soup restaurants in Jeonju.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "soy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://koreabridge.net/post/guest-post-taste-jeonju-chrisinsouthkorea",
+      "https://en.busannavi.net/korea/jeonju/7488"
+    ]
+  },
+  {
+    "id": "south_korea-hongeo-hoe",
+    "name": "Hongeo-hoe",
+    "local_name": "홍어회",
+    "pronunciation": "HONG-uh-hweh",
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Jeolla",
+    "regions": [
+      "Mokpo",
+      "Heuksando"
+    ],
+    "description": "Fermented skate with a powerful ammonia smell, a dish from Jeolla province; skate from Heuksando island is the most prized. It is often eaten with pork (bossam) and kimchi as hongeo samhap.",
+    "how_to_eat": "Eat as 'samhap': a slice of skate with boiled pork and aged kimchi together.",
+    "how_to_order": "Ask for 'hongeo samhap' at restaurants in Mokpo and South Jeolla.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hongeo-hoe",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hongeo-hoe"
+    ]
+  },
+  {
+    "id": "south_korea-tteok-galbi",
+    "name": "Tteok-galbi",
+    "local_name": "떡갈비",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Jeolla",
+    "regions": [
+      "Damyang",
+      "Gwangju"
+    ],
+    "description": "Patties of minced beef short rib, originally a royal dish, grilled. Damyang tteok-galbi is the most famous, and a beef-and-pork version was first sold in Gwangju in the 1950s.",
+    "how_to_eat": "Eat with rice and side dishes.",
+    "how_to_order": "Ask for 'tteok-galbi' at restaurants in Damyang and Gwangju.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tteok-galbi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tteok-galbi"
+    ]
+  },
+  {
+    "id": "south_korea-ganjang-gejang",
+    "name": "Ganjang-gejang",
+    "local_name": "간장게장",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Jeolla",
+    "regions": [],
+    "description": "Raw crabs, usually females with roe, marinated in soy sauce. Gejang has roots in Chungcheong and Jeolla, and Jeolla is among the regions famous for its own types.",
+    "how_to_eat": "Eat with rice, mixing rice into the crab shell.",
+    "how_to_order": "Ask for 'ganjang-gejang' at seafood restaurants in Jeolla.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gejang",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gejang"
+    ]
+  },
+  {
+    "id": "south_korea-makgeolli",
+    "name": "Makgeolli",
+    "local_name": "막걸리",
+    "pronunciation": "MAK-gul-li",
+    "category": "drink",
+    "country": "South Korea",
+    "state": "Jeolla",
+    "regions": [
+      "Jeonju"
+    ],
+    "description": "A milky, lightly sparkling rice wine of about 6-9% alcohol, slightly sweet and tangy. Jeonju is known for makgeolli alleys where kettles of it come with many side dishes.",
+    "how_to_eat": "Shake or stir gently and drink from a bowl.",
+    "how_to_order": "Order a kettle at makgeolli houses in Jeonju.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Makgeolli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Makgeolli",
+      "https://www.koreajoongangdaily.com/korea/down-an-alley-theres-a-kettle-full-of-makgeolli-waiting-for-you/10461585",
+      "https://koreabridge.net/post/guest-post-taste-jeonju-chrisinsouthkorea"
+    ]
+  },
+  {
+    "id": "south_korea-andong-jjimdak",
+    "name": "Andong Jjimdak",
+    "local_name": "안동찜닭",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Gyeongsang",
+    "regions": [
+      "Andong"
+    ],
+    "description": "Chicken braised with vegetables and glass noodles in a soy sauce-based sauce. It originated in the city of Andong.",
+    "how_to_eat": "Share from a large platter with rice.",
+    "how_to_order": "Ask for 'jjimdak' at restaurants in Andong's old market.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andong_jjimdak",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andong_jjimdak",
+      "https://en.wikipedia.org/wiki/Korean_regional_cuisine"
+    ]
+  },
+  {
+    "id": "south_korea-heotjesatbap",
+    "name": "Heotjesatbap",
+    "local_name": "헛제삿밥",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Gyeongsang",
+    "regions": [
+      "Andong"
+    ],
+    "description": "'Mock ancestral-rite meal': rice with several vegetable namul, mixed with soy sauce instead of gochujang, served with grilled fish and pancakes. Andong is its birthplace.",
+    "how_to_eat": "Mix the vegetables and soy sauce into the rice.",
+    "how_to_order": "Ask for 'heotjesatbap' at traditional restaurants in Andong.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "fish",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Heotjesatbap",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Heotjesatbap",
+      "https://en.wikipedia.org/wiki/Korean_regional_cuisine"
+    ]
+  },
+  {
+    "id": "south_korea-andong-salted-mackerel",
+    "name": "Andong Salted Mackerel",
+    "local_name": "안동간고등어",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Gyeongsang",
+    "regions": [
+      "Andong"
+    ],
+    "description": "Salted mackerel grilled or braised, a famous local food of Andong.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": "Ask for 'Andong godeungeo' at restaurants in Andong.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andong",
+      "https://en.wikipedia.org/wiki/Korean_regional_cuisine"
+    ]
+  },
+  {
+    "id": "south_korea-andong-soju",
+    "name": "Andong Soju",
+    "local_name": "안동소주",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "South Korea",
+    "state": "Gyeongsang",
+    "regions": [
+      "Andong"
+    ],
+    "description": "A traditional distilled soju made in Andong, North Gyeongsang.",
+    "how_to_eat": "Sip neat in small glasses.",
+    "how_to_order": "Buy at Andong breweries or order at local restaurants.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andong_soju",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Andong_soju",
+      "https://en.wikipedia.org/wiki/Korean_regional_cuisine"
+    ]
+  },
+  {
+    "id": "south_korea-gwamegi",
+    "name": "Gwamegi",
+    "local_name": "과메기",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "South Korea",
+    "state": "Gyeongsang",
+    "regions": [
+      "Pohang"
+    ],
+    "description": "Half-dried Pacific herring or saury, made in winter by freezing and thawing outdoors. It is eaten mostly in North Gyeongsang, with Guryongpo Harbor in Pohang the most famous.",
+    "how_to_eat": "Wrap in seaweed with green onion and chilli paste.",
+    "how_to_order": "Ask for 'gwamegi' in Pohang in winter.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gwamegi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gwamegi"
+    ]
+  },
+  {
+    "id": "south_korea-makchang-gui",
+    "name": "Makchang-gui",
+    "local_name": "막창구이",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Gyeongsang",
+    "regions": [
+      "Daegu"
+    ],
+    "description": "Grilled beef abomasum (or pork rectum). It is said to have originated in Daegu.",
+    "how_to_eat": "Grill at the table and dip in seasoned soybean paste sauce.",
+    "how_to_order": "Ask for 'makchang' at grill restaurants in Daegu.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Makchang",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Makchang"
+    ]
+  },
+  {
+    "id": "south_korea-agwi-jjim",
+    "name": "Agwi-jjim",
+    "local_name": "아귀찜",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Gyeongsang",
+    "regions": [
+      "Masan"
+    ],
+    "description": "Spicy braised monkfish with soybean sprouts, chilli, doenjang and garlic. It originated at a fish market in Masan and is still a local specialty there.",
+    "how_to_eat": "Share from the platter with rice.",
+    "how_to_order": "Ask for 'agu-jjim' in Masan's Odong-dong district.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Agwi-jjim",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Agwi-jjim"
+    ]
+  },
+  {
+    "id": "south_korea-hwangnam-ppang",
+    "name": "Hwangnam-ppang",
+    "local_name": "황남빵",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "South Korea",
+    "state": "Gyeongsang",
+    "regions": [
+      "Gyeongju"
+    ],
+    "description": "A small pastry filled with red bean paste, also called Gyeongju bread. It was first baked in 1939 in Gyeongju's Hwangnam-dong.",
+    "how_to_eat": "Eat warm with tea.",
+    "how_to_order": "Buy boxes at bakeries in Gyeongju.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hwangnam-ppang",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hwangnam-ppang"
+    ]
+  },
+  {
+    "id": "south_korea-dwaeji-gukbap",
+    "name": "Dwaeji-gukbap",
+    "local_name": "돼지국밥",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Busan",
+    "regions": [
+      "Busan"
+    ],
+    "description": "Pork and rice in bone broth, served with salted shrimp, kimchi, garlic and chillies to add. It began as poverty food during the Korean War and is especially popular in Busan.",
+    "how_to_eat": "Season with the salted shrimp and mix in the rice.",
+    "how_to_order": "Ask for 'dwaeji-gukbap' at gukbap restaurants in Busan.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dwaeji-gukbap",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dwaeji-gukbap"
+    ]
+  },
+  {
+    "id": "south_korea-milmyeon",
+    "name": "Milmyeon",
+    "local_name": "밀면",
+    "pronunciation": "MIL-myun",
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Busan",
+    "regions": [
+      "Busan"
+    ],
+    "description": "Wheat noodles in cold meat broth (mul) or spicy sauce (bibim), a variant of naengmyeon. Northern refugees created it in Busan during the Korean War when buckwheat was scarce.",
+    "how_to_eat": "Add vinegar and mustard and eat cold.",
+    "how_to_order": "Ask for 'mul milmyeon' or 'bibim milmyeon' at noodle restaurants in Busan.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Milmyeon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Milmyeon"
+    ]
+  },
+  {
+    "id": "south_korea-busan-eomuk",
+    "name": "Busan Eomuk",
+    "local_name": "부산어묵",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "South Korea",
+    "state": "Busan",
+    "regions": [
+      "Busan"
+    ],
+    "description": "Fish cake skewers simmered in hot broth, sold from street stalls. Korea's eomuk industry grew in Busan after the Korean War.",
+    "how_to_eat": "Eat from the skewer and sip the broth from a paper cup.",
+    "how_to_order": "Buy skewers at street stalls and markets in Busan.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fishcake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fishcake"
+    ]
+  },
+  {
+    "id": "south_korea-dongnae-pajeon",
+    "name": "Dongnae Pajeon",
+    "local_name": "동래파전",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Busan",
+    "regions": [
+      "Busan",
+      "Dongnae"
+    ],
+    "description": "A scallion pancake where whole scallions keep their shape in the batter, often with seafood. It is named after Busan's Dongnae district.",
+    "how_to_eat": "Dip in soy-vinegar sauce and eat with makgeolli.",
+    "how_to_order": "Ask for 'Dongnae pajeon' at restaurants in Dongnae, Busan.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "shellfish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pajeon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pajeon"
+    ]
+  },
+  {
+    "id": "south_korea-ssiat-hotteok",
+    "name": "Ssiat Hotteok",
+    "local_name": "씨앗호떡",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "South Korea",
+    "state": "Busan",
+    "regions": [
+      "Busan"
+    ],
+    "description": "Busan's 'seed hotteok': a fried pancake stuffed with brown sugar and filled with pine nuts, sunflower and pumpkin seeds. Vendors cluster around BIFF Square in Nampo-dong.",
+    "how_to_eat": "Eat hot from a paper cup.",
+    "how_to_order": "Buy from street vendors at BIFF Square, Busan; cash is best.",
+    "typical_price": "1000-1500",
+    "currency": "KRW",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://zenkimchi.com/featured/fun-food-find-ssiat-hotteok-at-biff-square-busan/",
+      "https://www.trazy.com/spot/714/ssiat-hotteok-씨앗호떡-restaurant-cafe"
+    ]
+  },
+  {
+    "id": "south_korea-jeju-black-pork",
+    "name": "Jeju Black Pork",
+    "local_name": "제주흑돼지",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Jeju",
+    "regions": [
+      "Jeju"
+    ],
+    "description": "Grilled pork from the Jeju Black, a native black pig breed of the island. In Jeju it is eaten dipped in fermented anchovy sauce (meljeot).",
+    "how_to_eat": "Grill at the table and dip in the anchovy sauce warmed on the grill.",
+    "how_to_order": "Ask for 'heukdwaeji' at barbecue restaurants on Jeju.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jeju_Black_pig",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jeju_Black_pig",
+      "https://koreaexperience.com/blog/jeju-black-pork-where-to-eat-on-the-island"
+    ]
+  },
+  {
+    "id": "south_korea-gogi-guksu",
+    "name": "Gogi-guksu",
+    "local_name": "고기국수",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Jeju",
+    "regions": [
+      "Jeju"
+    ],
+    "description": "Pork-based wheat noodle soup served with sliced pork and chives. It developed in the 20th century and is now widely associated with Jeju.",
+    "how_to_eat": "Eat hot, slurping noodles and broth.",
+    "how_to_order": "Ask for 'gogi-guksu' at noodle shops in Jeju City.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gogi-guksu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gogi-guksu",
+      "https://en.wikipedia.org/wiki/List_of_Jeju_dishes"
+    ]
+  },
+  {
+    "id": "south_korea-jeonbok-juk",
+    "name": "Jeonbok-juk",
+    "local_name": "전복죽",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Jeju",
+    "regions": [
+      "Jeju"
+    ],
+    "description": "Rice porridge made with abalone. Porridges with seafood are representative main dishes of Jeju cuisine.",
+    "how_to_eat": "Eat warm, often as breakfast.",
+    "how_to_order": "Ask for 'jeonbok-juk' at restaurants near Jeju's coast.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Korean_regional_cuisine",
+      "https://en.wikipedia.org/wiki/List_of_Jeju_dishes",
+      "https://en.wikipedia.org/wiki/Juk_(Korean_food)"
+    ]
+  },
+  {
+    "id": "south_korea-jari-mulhoe",
+    "name": "Jari-mulhoe",
+    "local_name": "자리물회",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Korea",
+    "state": "Jeju",
+    "regions": [
+      "Jeju"
+    ],
+    "description": "Raw damselfish (jari) in a cold soup, one of Jeju's raw fish dishes. Raw seafood is a common part of Jeju meals.",
+    "how_to_eat": "Eat cold, mixing in rice or noodles if served.",
+    "how_to_order": "Ask for 'jari-mulhoe' at seafood restaurants on Jeju in summer.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Jeju_dishes",
+      "https://en.wikipedia.org/wiki/Korean_regional_cuisine"
+    ]
+  },
+  {
+    "id": "south_korea-omegi-tteok",
+    "name": "Omegi-tteok",
+    "local_name": "오메기떡",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "South Korea",
+    "state": "Jeju",
+    "regions": [
+      "Jeju"
+    ],
+    "description": "A rice cake particular to Jeju, traditionally made with millet. Today it is one of the island's best-selling souvenir snacks.",
+    "how_to_eat": "Eat as a snack with tea.",
+    "how_to_order": "Buy at markets and souvenir shops on Jeju.",
+    "typical_price": null,
+    "currency": "KRW",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Omegi-tteok",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Omegi-tteok",
+      "https://en.wikipedia.org/wiki/List_of_Jeju_dishes"
+    ]
+  }
+]

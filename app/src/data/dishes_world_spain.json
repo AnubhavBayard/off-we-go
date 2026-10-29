@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "spain-cocido-madrileno",
+    "name": "Cocido madrileño",
+    "local_name": "Cocido madrileño",
+    "pronunciation": "ko-THEE-do ma-dree-LEN-yo",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Madrid",
+    "regions": [
+      "Madrid"
+    ],
+    "description": "A hearty chickpea stew from Madrid cooked with meats, chorizo, morcilla, vegetables and potatoes. It is traditionally served in courses: first the broth with noodles, then the chickpeas, vegetables and meats.",
+    "how_to_eat": "Eat in stages: soup first, then chickpeas and meats.",
+    "how_to_order": "Order at traditional Madrid taverns, usually at lunch and often on set days.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cocido_madrileño",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cocido_madrileño",
+      "https://en.wikipedia.org/wiki/Spanish_cuisine"
+    ]
+  },
+  {
+    "id": "spain-bocadillo-de-calamares",
+    "name": "Bocadillo de calamares",
+    "local_name": "Bocadillo de calamares",
+    "pronunciation": "bo-ka-DEE-yo deh ka-la-MA-res",
+    "category": "street_food",
+    "country": "Spain",
+    "state": "Madrid",
+    "regions": [
+      "Madrid"
+    ],
+    "description": "A crusty bread roll filled with battered, deep-fried squid rings. It is a famous cheap snack in Madrid, especially in bars around the Plaza Mayor.",
+    "how_to_eat": "Eat on the spot, sometimes with a squeeze of lemon or mayonnaise.",
+    "how_to_order": "Ask for 'un bocadillo de calamares' at bars near the Plaza Mayor.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Squid_sandwich",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Squid_sandwich",
+      "https://en.wikipedia.org/wiki/Spanish_cuisine"
+    ]
+  },
+  {
+    "id": "spain-churros-con-chocolate",
+    "name": "Churros con chocolate",
+    "local_name": "Churros con chocolate",
+    "pronunciation": "CHOO-ros kon cho-ko-LA-teh",
+    "category": "sweet",
+    "country": "Spain",
+    "state": "Madrid",
+    "regions": [
+      "Madrid"
+    ],
+    "description": "Fried dough sticks served with a cup of thick hot chocolate for dipping. In Madrid they are a classic breakfast or late-night treat, along with thicker 'porras'.",
+    "how_to_eat": "Dip the churros into the hot chocolate.",
+    "how_to_order": "Order 'chocolate con churros' at a chocolatería.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Churro",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Churro",
+      "https://en.wikipedia.org/wiki/Spanish_cuisine"
+    ]
+  },
+  {
+    "id": "spain-huevos-rotos",
+    "name": "Huevos rotos",
+    "local_name": "Huevos rotos",
+    "pronunciation": "WEH-vos RO-tos",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Madrid",
+    "regions": [
+      "Madrid"
+    ],
+    "description": "Fried eggs served over fried potatoes, often with ham or chorizo, and broken so the yolk runs through the potatoes. It is a popular dish in Madrid taverns.",
+    "how_to_eat": "Break the yolks and mix them into the potatoes.",
+    "how_to_order": "Order 'huevos rotos con jamón' at Madrid bars.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Huevos_rotos",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Huevos_rotos",
+      "https://en.wikipedia.org/wiki/Spanish_cuisine"
+    ]
+  },
+  {
+    "id": "spain-callos-a-la-madrilena",
+    "name": "Callos a la madrileña",
+    "local_name": "Callos a la madrileña",
+    "pronunciation": "KA-yos",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Madrid",
+    "regions": [
+      "Madrid"
+    ],
+    "description": "A stew of beef tripe cooked with chorizo, morcilla and paprika. It is a traditional winter dish of Madrid.",
+    "how_to_eat": "Eat hot with bread.",
+    "how_to_order": "Order as a ración or tapa at traditional Madrid taverns.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Callos",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Callos",
+      "https://en.wikipedia.org/wiki/Spanish_cuisine"
+    ]
+  },
+  {
+    "id": "spain-tortilla-de-patatas",
+    "name": "Tortilla de patatas",
+    "local_name": "Tortilla de patatas",
+    "pronunciation": "tor-TEE-ya deh pa-TA-tas",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Madrid",
+    "regions": [],
+    "description": "A thick omelette of eggs and potatoes fried in olive oil, often with onion. It is one of Spain's most common dishes, served in nearly every bar.",
+    "how_to_eat": "Eat a wedge as a tapa or in a bread roll.",
+    "how_to_order": "Ask for 'un pincho de tortilla' at any bar.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spanish_omelette",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Spanish_omelette",
+      "https://en.wikipedia.org/wiki/Spanish_cuisine"
+    ]
+  },
+  {
+    "id": "spain-pa-amb-tomaquet",
+    "name": "Pa amb tomàquet",
+    "local_name": "Pa amb tomàquet",
+    "pronunciation": "pa am too-MA-ket",
+    "category": "snack",
+    "country": "Spain",
+    "state": "Catalonia",
+    "regions": [
+      "Barcelona"
+    ],
+    "description": "Bread rubbed with ripe tomato, drizzled with olive oil and salted. It is the basic accompaniment to meals in Catalonia.",
+    "how_to_eat": "Eat on its own or with ham, cheese or anchovies.",
+    "how_to_order": "It comes with most meals; ask for 'pa amb tomàquet' at Catalan restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pa_amb_tomàquet",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pa_amb_tomàquet",
+      "https://en.wikipedia.org/wiki/Catalan_cuisine"
+    ]
+  },
+  {
+    "id": "spain-crema-catalana",
+    "name": "Crema catalana",
+    "local_name": "Crema catalana",
+    "pronunciation": "KREH-ma ka-ta-LA-na",
+    "category": "sweet",
+    "country": "Spain",
+    "state": "Catalonia",
+    "regions": [],
+    "description": "A custard of milk, egg yolks and sugar flavoured with lemon or orange peel and cinnamon, with a burnt sugar top. It is the classic Catalan dessert.",
+    "how_to_eat": "Crack the caramel top with your spoon.",
+    "how_to_order": "Order as a dessert at Catalan restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Crema_catalana",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Crema_catalana",
+      "https://en.wikipedia.org/wiki/Catalan_cuisine"
+    ]
+  },
+  {
+    "id": "spain-escalivada",
+    "name": "Escalivada",
+    "local_name": "Escalivada",
+    "pronunciation": "es-ka-lee-VA-da",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Catalonia",
+    "regions": [],
+    "description": "Aubergines, red peppers and onions roasted whole over embers, then peeled, sliced and dressed with olive oil. It is a traditional Catalan dish served as a side or on bread.",
+    "how_to_eat": "Eat on toast or as a side with grilled meat.",
+    "how_to_order": "Order as a starter or side at Catalan restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Escalivada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Escalivada",
+      "https://en.wikipedia.org/wiki/Catalan_cuisine"
+    ]
+  },
+  {
+    "id": "spain-calcots",
+    "name": "Calçots",
+    "local_name": "Calçotada",
+    "pronunciation": "kal-SOTS",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Catalonia",
+    "regions": [
+      "Valls"
+    ],
+    "description": "Long green onions grilled over a fire until charred, then dipped in romesco-style salvitxada sauce. They are eaten at calçotadas, winter feasts that originated in Valls.",
+    "how_to_eat": "Peel off the charred layer, dip in sauce and eat holding the stem above your mouth.",
+    "how_to_order": "Book a 'calçotada' at countryside restaurants from January to April.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Calçot",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Calçot",
+      "https://en.wikipedia.org/wiki/Catalan_cuisine"
+    ]
+  },
+  {
+    "id": "spain-botifarra-amb-mongetes",
+    "name": "Botifarra amb mongetes",
+    "local_name": "Botifarra amb mongetes",
+    "pronunciation": "boo-tee-FA-ra am moon-ZHEH-tes",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Catalonia",
+    "regions": [],
+    "description": "Grilled Catalan pork sausage (botifarra) served with white beans sautéed in oil. It is a traditional Catalan meal.",
+    "how_to_eat": "Eat with pa amb tomàquet and allioli.",
+    "how_to_order": "Order at traditional Catalan restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Botifarra",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Botifarra",
+      "https://en.wikipedia.org/wiki/Catalan_cuisine"
+    ]
+  },
+  {
+    "id": "spain-cava",
+    "name": "Cava",
+    "local_name": "Cava",
+    "pronunciation": "KA-va",
+    "category": "drink",
+    "country": "Spain",
+    "state": "Catalonia",
+    "regions": [
+      "Penedès"
+    ],
+    "description": "A sparkling wine made by the traditional method, mostly in the Penedès area of Catalonia. Cava is a protected designation of origin (DO).",
+    "how_to_eat": "Drink chilled, often as an apéritif or for celebrations.",
+    "how_to_order": "Ask for 'una copa de cava' at bars.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cava_(Spanish_wine)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cava_(Spanish_wine)",
+      "https://en.wikipedia.org/wiki/Catalan_cuisine"
+    ]
+  },
+  {
+    "id": "spain-paella-valenciana",
+    "name": "Paella valenciana",
+    "local_name": "Paella valenciana",
+    "pronunciation": "pa-EH-ya va-len-THYA-na",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Valencia",
+    "regions": [
+      "Valencia"
+    ],
+    "description": "A rice dish cooked in a wide, shallow pan with chicken, rabbit, green beans, butter beans and saffron. It originated in Valencia, where it is traditionally cooked over a wood fire.",
+    "how_to_eat": "Eat straight from the pan; the crispy rice at the bottom ('socarrat') is prized.",
+    "how_to_order": "Order at lunchtime in Valencia, usually for at least two people.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paella",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Paella",
+      "https://en.wikipedia.org/wiki/Valencian_cuisine"
+    ]
+  },
+  {
+    "id": "spain-horchata",
+    "name": "Horchata",
+    "local_name": "Orxata",
+    "pronunciation": "or-CHA-ta",
+    "category": "drink",
+    "country": "Spain",
+    "state": "Valencia",
+    "regions": [
+      "Alboraya"
+    ],
+    "description": "A sweet, milky drink made from soaked and ground tiger nuts (chufa), water and sugar, served chilled. Valencian horchata made with Chufa de Valencia carries a protected designation of origin label.",
+    "how_to_eat": "Drink very cold with fartons for dipping.",
+    "how_to_order": "Ask for 'una horchata' at a horchatería, especially in Alboraya.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Horchata",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Horchata",
+      "https://en.wikipedia.org/wiki/Valencian_cuisine",
+      "https://www.consumer.es/?p=123094"
+    ]
+  },
+  {
+    "id": "spain-fartons",
+    "name": "Fartons",
+    "local_name": "Fartons",
+    "pronunciation": "far-TONS",
+    "category": "sweet",
+    "country": "Spain",
+    "state": "Valencia",
+    "regions": [
+      "Valencia"
+    ],
+    "description": "Long, soft glazed pastries from Alboraya in Valencia. They are made to be dipped in horchata.",
+    "how_to_eat": "Dip into a glass of horchata.",
+    "how_to_order": "Order with horchata at a horchatería.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fartons",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fartons",
+      "https://en.wikipedia.org/wiki/Valencian_cuisine"
+    ]
+  },
+  {
+    "id": "spain-fideua",
+    "name": "Fideuà",
+    "local_name": "Fideuà",
+    "pronunciation": "fee-deh-WA",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Valencia",
+    "regions": [
+      "Valencia"
+    ],
+    "description": "A seafood dish similar to paella but made with short thin noodles instead of rice, cooked in fish stock. It comes from Gandia on the Valencian coast.",
+    "how_to_eat": "Eat with allioli (garlic sauce).",
+    "how_to_order": "Order at seafood restaurants on the Valencian coast.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "shellfish",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fideuà",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fideuà",
+      "https://en.wikipedia.org/wiki/Valencian_cuisine"
+    ]
+  },
+  {
+    "id": "spain-arros-negre",
+    "name": "Arròs negre",
+    "local_name": "Arròs negre",
+    "pronunciation": "a-ROS NEH-greh",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Valencia",
+    "regions": [],
+    "description": "Rice cooked with squid or cuttlefish and their ink, which turns it black. It is a coastal dish of Valencia and Catalonia.",
+    "how_to_eat": "Eat with a spoonful of allioli.",
+    "how_to_order": "Order at seafood restaurants, usually for two or more.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arròs_negre",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Arròs_negre",
+      "https://en.wikipedia.org/wiki/Valencian_cuisine"
+    ]
+  },
+  {
+    "id": "spain-agua-de-valencia",
+    "name": "Agua de Valencia",
+    "local_name": "Aigua de València",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Spain",
+    "state": "Valencia",
+    "regions": [
+      "Valencia"
+    ],
+    "description": "A cocktail of cava, orange juice, vodka and gin. It was created in Valencia in 1959.",
+    "how_to_eat": "Drink chilled, usually shared from a jug.",
+    "how_to_order": "Order a jug at bars in Valencia.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aigua_de_València",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Aigua_de_València",
+      "https://en.wikipedia.org/wiki/Valencian_cuisine"
+    ]
+  },
+  {
+    "id": "spain-gazpacho",
+    "name": "Gazpacho",
+    "local_name": "Gazpacho andaluz",
+    "pronunciation": "gath-PA-cho",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Andalusia",
+    "regions": [],
+    "description": "A cold soup of blended raw tomatoes, peppers, cucumber, garlic, olive oil, vinegar and bread. It is the classic summer dish of Andalusia.",
+    "how_to_eat": "Drink from a glass or eat from a bowl, well chilled.",
+    "how_to_order": "Order in summer at bars and restaurants across Andalusia.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gazpacho",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gazpacho",
+      "https://en.wikipedia.org/wiki/Andalusian_cuisine"
+    ]
+  },
+  {
+    "id": "spain-salmorejo",
+    "name": "Salmorejo",
+    "local_name": "Salmorejo",
+    "pronunciation": "sal-mo-REH-ho",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Andalusia",
+    "regions": [
+      "Córdoba"
+    ],
+    "description": "A thick cold purée of tomato, bread, olive oil and garlic from Córdoba, topped with chopped hard-boiled egg and jamón. It is thicker than gazpacho.",
+    "how_to_eat": "Eat chilled with a spoon.",
+    "how_to_order": "Order at tapas bars in Córdoba and across Andalusia; ask without ham for a vegetarian version.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Salmorejo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Salmorejo",
+      "https://en.wikipedia.org/wiki/Andalusian_cuisine"
+    ]
+  },
+  {
+    "id": "spain-pescaito-frito",
+    "name": "Pescaíto frito",
+    "local_name": "Pescaíto frito",
+    "pronunciation": "pes-ka-EE-to FREE-to",
+    "category": "street_food",
+    "country": "Spain",
+    "state": "Andalusia",
+    "regions": [
+      "Cádiz",
+      "Málaga"
+    ],
+    "description": "Small fish and seafood, such as anchovies, squid and red mullet, lightly floured and deep-fried in olive oil. It is typical of the Andalusian coast, especially Cádiz and Málaga.",
+    "how_to_eat": "Eat hot with your fingers and a squeeze of lemon.",
+    "how_to_order": "Order a mixed plate at a 'freiduría' or beach bar ('chiringuito').",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "shellfish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pescado_frito",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pescado_frito",
+      "https://en.wikipedia.org/wiki/Andalusian_cuisine"
+    ]
+  },
+  {
+    "id": "spain-jamon-iberico",
+    "name": "Jamón ibérico",
+    "local_name": "Jamón ibérico",
+    "pronunciation": "ha-MON ee-BEH-ree-ko",
+    "category": "snack",
+    "country": "Spain",
+    "state": "Andalusia",
+    "regions": [
+      "Huelva",
+      "Jabugo"
+    ],
+    "description": "Dry-cured ham from black Iberian pigs, aged for years; the top grade comes from acorn-fed pigs (bellota). Jabugo in Huelva is one of its most famous producing areas.",
+    "how_to_eat": "Eat thin hand-carved slices at room temperature with bread.",
+    "how_to_order": "Ask for 'una ración de jamón ibérico de bellota' at a tapas bar.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jamón_ibérico",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jamón_ibérico",
+      "https://en.wikipedia.org/wiki/Andalusian_cuisine"
+    ]
+  },
+  {
+    "id": "spain-rabo-de-toro",
+    "name": "Rabo de toro",
+    "local_name": "Rabo de toro",
+    "pronunciation": "RA-bo deh TO-ro",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Andalusia",
+    "regions": [
+      "Córdoba"
+    ],
+    "description": "Oxtail stewed slowly in red wine with vegetables until the meat falls off the bone. It is a traditional dish of Córdoba.",
+    "how_to_eat": "Eat with bread or fried potatoes to soak up the sauce.",
+    "how_to_order": "Order at traditional restaurants in Córdoba and Seville.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Oxtail",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Oxtail",
+      "https://en.wikipedia.org/wiki/Andalusian_cuisine"
+    ]
+  },
+  {
+    "id": "spain-sherry",
+    "name": "Sherry",
+    "local_name": "Jerez",
+    "pronunciation": "SHEH-ree",
+    "category": "drink",
+    "country": "Spain",
+    "state": "Andalusia",
+    "regions": [
+      "Jerez de la Frontera"
+    ],
+    "description": "A fortified wine made from white grapes around Jerez de la Frontera, ranging from dry fino and manzanilla to sweet Pedro Ximénez. Sherry is a protected designation of origin.",
+    "how_to_eat": "Drink fino or manzanilla chilled with tapas.",
+    "how_to_order": "Ask for 'un fino' or 'una manzanilla' at bars in Jerez, Seville or Sanlúcar.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sherry",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sherry",
+      "https://en.wikipedia.org/wiki/Andalusian_cuisine"
+    ]
+  },
+  {
+    "id": "spain-ajoblanco",
+    "name": "Ajoblanco",
+    "local_name": "Ajoblanco",
+    "pronunciation": "ah-ho-BLAN-ko",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Andalusia",
+    "regions": [
+      "Málaga"
+    ],
+    "description": "A cold white soup of ground almonds, bread, garlic, olive oil and vinegar, often served with grapes. It is a traditional summer dish of Málaga.",
+    "how_to_eat": "Eat chilled with a spoon.",
+    "how_to_order": "Order in summer at restaurants in Málaga.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "nuts",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ajoblanco",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ajoblanco",
+      "https://en.wikipedia.org/wiki/Andalusian_cuisine"
+    ]
+  },
+  {
+    "id": "spain-pintxos",
+    "name": "Pintxos",
+    "local_name": "Pintxos",
+    "pronunciation": "PEEN-chos",
+    "category": "street_food",
+    "country": "Spain",
+    "state": "Basque Country",
+    "regions": [
+      "San Sebastián",
+      "Bilbao"
+    ],
+    "description": "Small snacks, often on a slice of bread held with a toothpick, served at bar counters. The Gilda, an anchovy, olive and pickled-pepper skewer, is a classic.",
+    "how_to_eat": "Pick a few pintxos at each bar and move on, often with txakoli.",
+    "how_to_order": "Point to what you want on the bar counter in San Sebastián's old town; hot pintxos are ordered from a menu.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pincho",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pincho",
+      "https://en.wikipedia.org/wiki/Basque_cuisine"
+    ]
+  },
+  {
+    "id": "spain-bacalao-al-pil-pil",
+    "name": "Bacalao al pil-pil",
+    "local_name": "Bakailaoa pil-pilean",
+    "pronunciation": "ba-ka-LAO al peel-PEEL",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Basque Country",
+    "regions": [
+      "Bilbao"
+    ],
+    "description": "Salt cod cooked gently in olive oil with garlic and chilli, swirled until the fish's gelatin emulsifies the oil into a sauce. It is a classic Basque dish.",
+    "how_to_eat": "Eat with bread to mop up the sauce.",
+    "how_to_order": "Order at traditional Basque restaurants, especially in Bilbao.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bacalao_al_pil_pil",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bacalao_al_pil_pil",
+      "https://en.wikipedia.org/wiki/Basque_cuisine"
+    ]
+  },
+  {
+    "id": "spain-marmitako",
+    "name": "Marmitako",
+    "local_name": "Marmitako",
+    "pronunciation": "mar-mee-TA-ko",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Basque Country",
+    "regions": [],
+    "description": "A fishermen's stew of tuna, potatoes, onions, peppers and tomatoes. It is a summer dish of the Basque coast, made in tuna season.",
+    "how_to_eat": "Eat hot from a bowl with bread.",
+    "how_to_order": "Order in summer at seafood restaurants on the Basque coast.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tuna_pot",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tuna_pot",
+      "https://en.wikipedia.org/wiki/Basque_cuisine"
+    ]
+  },
+  {
+    "id": "spain-basque-cheesecake",
+    "name": "Basque cheesecake",
+    "local_name": "Tarta de queso de La Viña",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Spain",
+    "state": "Basque Country",
+    "regions": [
+      "San Sebastián"
+    ],
+    "description": "A crustless cheesecake baked at a high temperature so the top burns dark while the centre stays creamy. It was created at La Viña bar in San Sebastián in 1990.",
+    "how_to_eat": "Eat a slice at room temperature.",
+    "how_to_order": "Order a slice at La Viña or other bars in San Sebastián's old town.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Basque_cheesecake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Basque_cheesecake",
+      "https://en.wikipedia.org/wiki/Basque_cuisine"
+    ]
+  },
+  {
+    "id": "spain-txakoli",
+    "name": "Txakoli",
+    "local_name": "Txakolina",
+    "pronunciation": "cha-ko-LEE",
+    "category": "drink",
+    "country": "Spain",
+    "state": "Basque Country",
+    "regions": [
+      "Getaria"
+    ],
+    "description": "A slightly sparkling, dry white wine from the Basque Country, made mainly from the Hondarrabi Zuri grape. Getariako Txakolina is a protected designation of origin.",
+    "how_to_eat": "Drink chilled with pintxos; it is poured from a height to aerate it.",
+    "how_to_order": "Ask for 'un txakoli' at pintxos bars.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Txakoli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Txakoli",
+      "https://www.getariakotxakolina.eus/en/designation-of-origin/"
+    ]
+  },
+  {
+    "id": "spain-pulpo-a-la-gallega",
+    "name": "Pulpo a la gallega",
+    "local_name": "Polbo á feira",
+    "pronunciation": "POOL-po a la ga-YEH-ga",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Galicia and Asturias",
+    "regions": [
+      "Galicia"
+    ],
+    "description": "Boiled octopus cut into slices with scissors and dressed with olive oil, coarse salt and paprika, served on a wooden plate. It is Galicia's signature fair-day dish.",
+    "how_to_eat": "Eat with toothpicks, with bread and boiled potatoes.",
+    "how_to_order": "Order 'pulpo á feira' at a 'pulpería' in Galicia.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Polbo_á_feira",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Polbo_á_feira",
+      "https://en.wikipedia.org/wiki/Galician_cuisine"
+    ]
+  },
+  {
+    "id": "spain-empanada-gallega",
+    "name": "Empanada gallega",
+    "local_name": "Empanada galega",
+    "pronunciation": "em-pa-NA-da ga-YEH-ga",
+    "category": "snack",
+    "country": "Spain",
+    "state": "Galicia and Asturias",
+    "regions": [
+      "Galicia"
+    ],
+    "description": "A large flat pie of bread dough filled with fish (often tuna), meat or seafood cooked with onions and peppers. It is sold by the slice all over Galicia.",
+    "how_to_eat": "Eat a slice cold or warm as a snack.",
+    "how_to_order": "Buy by the slice at Galician bakeries and bars.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Empanada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Empanada",
+      "https://en.wikipedia.org/wiki/Galician_cuisine"
+    ]
+  },
+  {
+    "id": "spain-tarta-de-santiago",
+    "name": "Tarta de Santiago",
+    "local_name": "Tarta de Santiago",
+    "pronunciation": "TAR-ta deh san-TYA-go",
+    "category": "sweet",
+    "country": "Spain",
+    "state": "Galicia and Asturias",
+    "regions": [
+      "Santiago de Compostela"
+    ],
+    "description": "An almond cake from Galicia made of ground almonds, sugar and eggs, decorated with the cross of St James in icing sugar. It has been an EU protected geographical indication since 2010.",
+    "how_to_eat": null,
+    "how_to_order": "Buy at bakeries in Santiago de Compostela, by the slice or whole.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts",
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tarta_de_Santiago",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tarta_de_Santiago",
+      "https://en.wikipedia.org/wiki/Galician_cuisine",
+      "https://agacal.xunta.gal/sites/default/files/calidade-alimentaria/panaderia-e-reposteria/Ficha-tecnica-IXP-Tarta-de-Santiago-2021.pdf"
+    ]
+  },
+  {
+    "id": "spain-fabada-asturiana",
+    "name": "Fabada asturiana",
+    "local_name": "Fabada asturiana",
+    "pronunciation": "fa-BA-da as-too-RYA-na",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Galicia and Asturias",
+    "regions": [
+      "Asturias"
+    ],
+    "description": "A rich stew of large white beans (fabes) with chorizo, morcilla and pork. It is the signature dish of Asturias.",
+    "how_to_eat": "Eat hot, often as a lunch main course, with cider.",
+    "how_to_order": "Order at restaurants and 'sidrerías' in Asturias.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fabada_asturiana",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fabada_asturiana",
+      "https://en.wikipedia.org/wiki/Asturian_cuisine"
+    ]
+  },
+  {
+    "id": "spain-cachopo",
+    "name": "Cachopo",
+    "local_name": "Cachopo",
+    "pronunciation": "ka-CHO-po",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Galicia and Asturias",
+    "regions": [
+      "Asturias"
+    ],
+    "description": "Two large veal fillets filled with ham and cheese, breaded and fried. It is a hugely popular Asturian dish, usually big enough to share.",
+    "how_to_eat": "Eat with fried potatoes and peppers, shared between two.",
+    "how_to_order": "Order at sidrerías in Asturias.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cachopo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cachopo",
+      "https://en.wikipedia.org/wiki/Asturian_cuisine"
+    ]
+  },
+  {
+    "id": "spain-asturian-cider",
+    "name": "Asturian cider",
+    "local_name": "Sidra d'Asturies",
+    "pronunciation": "SEE-dra",
+    "category": "drink",
+    "country": "Spain",
+    "state": "Galicia and Asturias",
+    "regions": [
+      "Asturias"
+    ],
+    "description": "A natural, still and sour cider made from Asturian apples. 'Sidra de Asturias' is a protected designation of origin, and the cider is poured from above the head ('escanciar') to aerate it.",
+    "how_to_eat": "Drink each short pour ('culín') in one go, while it is still lively.",
+    "how_to_order": "Order a bottle at a sidrería; the waiter pours it for you.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cider",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cider",
+      "https://en.wikipedia.org/wiki/Asturian_cuisine",
+      "https://www.asturias.es/documents/4911212/4919930/DOP-Sidra-Normal25.pdf/dc24402b-e4a8-ff38-fc8c-24838b3296dd"
+    ]
+  },
+  {
+    "id": "spain-queimada",
+    "name": "Queimada",
+    "local_name": "Queimada",
+    "pronunciation": "kay-MA-da",
+    "category": "drink",
+    "country": "Spain",
+    "state": "Galicia and Asturias",
+    "regions": [
+      "Galicia"
+    ],
+    "description": "A hot Galician punch of orujo (grape spirit) with sugar, lemon peel and coffee beans, set alight in a clay bowl. It is traditionally made while reciting a spell to ward off evil spirits.",
+    "how_to_eat": "Drink warm from small clay cups after the flames die down.",
+    "how_to_order": "Ask for it at Galician restaurants, usually after dinner for a group.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Queimada_(drink)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Queimada_(drink)",
+      "https://en.wikipedia.org/wiki/Galician_cuisine"
+    ]
+  },
+  {
+    "id": "spain-cochinillo-asado",
+    "name": "Cochinillo asado",
+    "local_name": "Cochinillo asado",
+    "pronunciation": "ko-chee-NEE-yo a-SA-do",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Castile",
+    "regions": [
+      "Segovia"
+    ],
+    "description": "Suckling pig roasted whole in a wood-fired oven until the skin is crisp. It is the signature dish of Segovia, where it is traditionally cut with the edge of a plate to show how tender it is.",
+    "how_to_eat": "Eat with salad or roast potatoes.",
+    "how_to_order": "Order at traditional asadores in Segovia, ideally booked ahead.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cochinillo_asado",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cochinillo_asado",
+      "https://en.wikipedia.org/wiki/Manchego_cuisine"
+    ]
+  },
+  {
+    "id": "spain-lechazo-asado",
+    "name": "Lechazo asado",
+    "local_name": "Lechazo asado",
+    "pronunciation": "leh-CHA-tho a-SA-do",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Castile",
+    "regions": [
+      "Valladolid",
+      "Aranda de Duero"
+    ],
+    "description": "Milk-fed baby lamb roasted in a wood-fired clay oven with just water and salt. It is a signature dish of Castile and León, especially around Valladolid and Aranda de Duero.",
+    "how_to_eat": "Eat with a simple lettuce and onion salad and bread.",
+    "how_to_order": "Order a quarter lamb ('cuarto de lechazo') at a Castilian asador, usually for two.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lechazo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lechazo",
+      "https://en.wikipedia.org/wiki/Manchego_cuisine"
+    ]
+  },
+  {
+    "id": "spain-pisto-manchego",
+    "name": "Pisto manchego",
+    "local_name": "Pisto manchego",
+    "pronunciation": "PEES-to man-CHEH-go",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Castile",
+    "regions": [
+      "La Mancha"
+    ],
+    "description": "A slow-cooked mix of tomatoes, onions, peppers and courgette in olive oil from La Mancha, similar to ratatouille. It is often topped with a fried egg.",
+    "how_to_eat": "Eat with bread, or with a fried egg on top.",
+    "how_to_order": "Order at restaurants in Castilla-La Mancha.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pisto",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pisto",
+      "https://en.wikipedia.org/wiki/Manchego_cuisine"
+    ]
+  },
+  {
+    "id": "spain-migas",
+    "name": "Migas",
+    "local_name": "Migas",
+    "pronunciation": "MEE-gas",
+    "category": "meal",
+    "country": "Spain",
+    "state": "Castile",
+    "regions": [],
+    "description": "Day-old bread crumbs fried in olive oil with garlic, chorizo, pork belly and peppers. It began as a shepherds' dish in central Spain.",
+    "how_to_eat": "Eat hot, sometimes with grapes or a fried egg.",
+    "how_to_order": "Order at traditional restaurants in Castile and La Mancha.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Migas",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Migas",
+      "https://en.wikipedia.org/wiki/Manchego_cuisine"
+    ]
+  },
+  {
+    "id": "spain-sopa-castellana",
+    "name": "Sopa castellana",
+    "local_name": "Sopa de ajo",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Spain",
+    "state": "Castile",
+    "regions": [],
+    "description": "A garlic soup made with stale bread, paprika, olive oil and stock, with an egg poached in it, often with ham. It is a traditional winter dish of Castile.",
+    "how_to_eat": "Eat hot from an earthenware bowl.",
+    "how_to_order": "Order 'sopa castellana' at traditional restaurants in winter.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Garlic_soup",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Garlic_soup",
+      "https://en.wikipedia.org/wiki/Spanish_cuisine"
+    ]
+  }
+]

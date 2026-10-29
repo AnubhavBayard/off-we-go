@@ -1,4 +1,4 @@
-import { dishes } from '../data'
+import { COUNTRIES, dishes } from '../data'
 
 // First-launch screen: full-bleed photo, frosted panel on the left, one button.
 export default function Welcome({ onStart }: { onStart: () => void }) {
@@ -10,7 +10,7 @@ export default function Welcome({ onStart }: { onStart: () => void }) {
         <h1>Off We <span>Go</span></h1>
         <p>Find the dish every place is known for, then keep the memory.</p>
         <p className="welcome-foot">
-          From temple sweets to street chaat: {dishes.length.toLocaleString('en-IN')} dishes from every state
+          From street stalls to temple kitchens: {dishes.length.toLocaleString('en')} dishes across {COUNTRIES.length} {COUNTRIES.length === 1 ? 'country' : 'countries'}
         </p>
       </div>
       <a className="welcome-credit" href="https://commons.wikimedia.org/wiki/File:Wazwan_trami_full.jpg" target="_blank" rel="noreferrer">

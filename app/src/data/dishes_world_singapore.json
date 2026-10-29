@@ -1,0 +1,898 @@
+[
+  {
+    "id": "singapore-hainanese-chicken-rice",
+    "name": "Hainanese Chicken Rice",
+    "local_name": "海南鸡饭",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Poached or roasted chicken with rice cooked in chicken stock, served with chilli sauce and cucumber. Created by Hainanese immigrants from Wenchang chicken, it is widely considered one of Singapore's national dishes.",
+    "how_to_eat": "Eat the chicken and rice with chilli sauce, ginger paste and dark soy.",
+    "how_to_order": "Order 'white' (poached) or 'roasted' chicken rice at a hawker centre stall.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hainanese_chicken_rice",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hainanese_chicken_rice",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-chilli-crab",
+    "name": "Chilli Crab",
+    "local_name": "辣椒螃蟹",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Mud crabs stir-fried in a sweet, savoury, semi-thick sauce of tomato and chilli, thickened with egg. The modern dish originated in the 1950s and is one of Singapore's best-known dishes.",
+    "how_to_eat": "Crack the shell by hand and mop up the sauce with fried mantou buns.",
+    "how_to_order": "Order at seafood restaurants; crabs are priced by weight.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chilli_crab",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chilli_crab",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-black-pepper-crab",
+    "name": "Black Pepper Crab",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Hard-shell crabs fried with plenty of black pepper. Unlike chilli crab it has no sauce and a dry consistency.",
+    "how_to_eat": "Eat with your hands, cracking the shell.",
+    "how_to_order": "Order at seafood restaurants alongside chilli crab; priced by weight.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "soy",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_pepper_crab",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Black_pepper_crab",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-katong-laksa",
+    "name": "Katong Laksa",
+    "local_name": null,
+    "pronunciation": "LUCK-sah",
+    "category": "meal",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [
+      "Katong"
+    ],
+    "description": "A Peranakan-inspired laksa with spicy coconut and dried shrimp broth over noodles, topped with cockles, prawns and fish cake. The noodles are cut short so the whole dish can be eaten with a spoon.",
+    "how_to_eat": "Eat with just a spoon.",
+    "how_to_order": "Order at laksa stalls, especially in the Katong area.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Katong_laksa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Katong_laksa",
+      "https://en.wikipedia.org/wiki/Laksa",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-char-kway-teow",
+    "name": "Char Kway Teow",
+    "local_name": "炒粿条",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Flat rice noodles stir-fried over very high heat with soy sauce, egg, Chinese sausage, cockles and bean sprouts. A Hokkien and Teochew-style hawker classic.",
+    "how_to_eat": "Eat hot, with sambal chilli on the side.",
+    "how_to_order": "Order at a hawker stall; say if you want it without cockles.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish",
+      "egg",
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Char_kway_teow",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Char_kway_teow",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-bak-kut-teh",
+    "name": "Bak Kut Teh",
+    "local_name": "肉骨茶",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Pork ribs simmered for hours in a broth of herbs and spices such as star anise, cinnamon, cloves and garlic. The name means 'meat bone tea' in Hokkien; Singapore's Teochew style is peppery and garlicky.",
+    "how_to_eat": "Eat with rice and youtiao dipped in the soup, with Chinese tea.",
+    "how_to_order": "Order at bak kut teh shops; broth refills are usually free.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bak_kut_teh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bak_kut_teh",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-hokkien-mee",
+    "name": "Hokkien Prawn Mee",
+    "local_name": "福建面",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Egg noodles and rice vermicelli fried in a rich prawn stock with prawns, squid and egg. It belongs to the family of Hokkien mee dishes with origins in Fujian cuisine.",
+    "how_to_eat": "Squeeze the lime and mix in the sambal.",
+    "how_to_order": "Order at hawker stalls; portions are priced by size.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish",
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hokkien_mee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hokkien_mee",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-satay",
+    "name": "Satay",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Small pieces of seasoned meat on sticks grilled over charcoal and served with peanut sauce, rice cakes and cucumber. Satay is a fixture of Singapore hawker centres.",
+    "how_to_eat": "Dip each stick in peanut sauce, with rice cake and cucumber.",
+    "how_to_order": "Order by the stick (often in tens) at satay stalls, choosing chicken, beef or mutton.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Satay",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Satay",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-roti-prata",
+    "name": "Roti Prata",
+    "local_name": null,
+    "pronunciation": "ROH-tee PRAH-tah",
+    "category": "street_food",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "An unleavened flatbread of Indian origin, flipped and fried on a griddle until flaky. In Singapore it is called roti prata and is usually eaten with curry.",
+    "how_to_eat": "Tear pieces by hand and dip in fish or mutton curry.",
+    "how_to_order": "Order plain, egg or cheese prata at Indian-Muslim stalls, often for breakfast.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roti_canai",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Roti_canai",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-nasi-lemak",
+    "name": "Nasi Lemak",
+    "local_name": null,
+    "pronunciation": "NAH-see leh-MAHK",
+    "category": "meal",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Rice cooked in coconut milk and pandan leaf, served with sambal, fried anchovies, peanuts and egg. A Malay dish common throughout the Malay world, including Singapore.",
+    "how_to_eat": "Mix a little sambal with each bite of rice.",
+    "how_to_order": "Order at Malay stalls, adding fried chicken or fish if wanted.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "peanuts",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nasi_lemak",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nasi_lemak",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-fish-head-curry",
+    "name": "Fish Head Curry",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "A red snapper head stewed in a Kerala-style curry with vegetables such as okra and eggplant. It has mixed Indian and Chinese origins and is a Singapore staple.",
+    "how_to_eat": "Share it with rice or bread.",
+    "how_to_order": "Order a whole fish head to share at Indian restaurants, e.g. in Little India.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fish_head_curry",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fish_head_curry",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-kaya-toast",
+    "name": "Kaya Toast",
+    "local_name": null,
+    "pronunciation": "KAH-yah",
+    "category": "snack",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Toast with butter and kaya, a coconut and egg jam, usually served with kopi and soft-boiled eggs. It is believed to have been created by Hainanese immigrants in the 19th century.",
+    "how_to_eat": "Dip the toast into soft-boiled eggs seasoned with soy sauce and pepper.",
+    "how_to_order": "Order a kaya toast set at a kopitiam for breakfast.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kaya_toast",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kaya_toast",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-carrot-cake",
+    "name": "Carrot Cake (Chai Tow Kway)",
+    "local_name": "菜头粿",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Steamed cakes of rice flour and white radish, cut and fried with egg; it has no relation to the European carrot cake. It comes in 'white' and 'black' (with sweet dark soy) versions.",
+    "how_to_eat": "Eat hot with chilli.",
+    "how_to_order": "Ask for 'white' or 'black' carrot cake at hawker stalls.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Turnip_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Turnip_cake",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-rojak",
+    "name": "Rojak",
+    "local_name": null,
+    "pronunciation": "ROH-jak",
+    "category": "snack",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "A salad of sliced fruit and vegetables with a sweet, spicy dressing. In Singapore the dressing commonly uses prawn paste and crushed peanuts.",
+    "how_to_eat": "Eat with toothpicks from the shared plate.",
+    "how_to_order": "Order a small or large plate at rojak stalls.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish",
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rojak",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rojak",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-popiah",
+    "name": "Popiah",
+    "local_name": null,
+    "pronunciation": "POH-pee-ah",
+    "category": "snack",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "A Fujian and Teochew-style fresh spring roll with a thin wheat skin wrapped around cooked turnip and other fresh, dried and cooked ingredients. It is eaten at the Qingming Festival and other celebrations.",
+    "how_to_eat": "Eat by hand as a roll.",
+    "how_to_order": "Buy by the roll at popiah stalls.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "shellfish",
+      "egg",
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Popiah",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Popiah",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-oyster-omelette",
+    "name": "Oyster Omelette (Orh Luak)",
+    "local_name": "蚝烙",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Small oysters fried with egg and a starch batter until crisp in parts. It is a Hokkien and Teochew dish popular in Singapore hawker centres.",
+    "how_to_eat": "Dip in chilli sauce.",
+    "how_to_order": "Ask for 'orh luak' at hawker stalls.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Oyster_omelette",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Oyster_omelette",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-bak-chor-mee",
+    "name": "Bak Chor Mee",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Flat yellow mee pok noodles tossed in vinegar, chilli and lard with minced pork, liver and meatballs. Mee pok is of Chaoshan origin; Hill Street Tai Hwa Pork Noodle, a bak chor mee stall, won a Michelin star in 2016.",
+    "how_to_eat": "Mix the noodles well with the sauce at the bottom.",
+    "how_to_order": "Order 'dry' or 'soup' at hawker stalls.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mee_pok",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mee_pok",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-chwee-kueh",
+    "name": "Chwee Kueh",
+    "local_name": "水粿",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Small steamed rice-flour cakes topped with preserved radish (chai poh). A Teochew dish that became established in Singapore.",
+    "how_to_eat": "Eat with a spoon, with chilli on top.",
+    "how_to_order": "Order a plate of several at hawker centre breakfast stalls.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chwee_kueh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chwee_kueh",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-mee-siam",
+    "name": "Mee Siam",
+    "local_name": null,
+    "pronunciation": "mee SYAM",
+    "category": "meal",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Thin rice vermicelli in a hot, sweet and sour gravy. Popular in Singapore among Malay and Peranakan communities.",
+    "how_to_eat": "Squeeze the lime over the gravy before eating.",
+    "how_to_order": "Order at Malay stalls in hawker centres.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "egg",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mee_siam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mee_siam",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-mee-rebus",
+    "name": "Mee Rebus",
+    "local_name": null,
+    "pronunciation": "mee rə-BOHSS",
+    "category": "meal",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Yellow noodles in a thick, sweet and spicy gravy. Its name means 'boiled noodles'; it is a popular Malay dish in Singapore.",
+    "how_to_eat": "Eat with lime and green chilli.",
+    "how_to_order": "Order at Malay hawker stalls.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mee_rebus",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mee_rebus",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-hainanese-curry-rice",
+    "name": "Hainanese Curry Rice",
+    "local_name": "海南咖喱饭",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "White rice smothered with curry and gravy, with curry chicken, pork chop, braised cabbage and braised pork. It originated in Singapore with Hainanese cooks.",
+    "how_to_eat": "Ask for extra gravy over everything.",
+    "how_to_order": "Pick your dishes at a curry rice stall.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hainanese_curry_rice",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hainanese_curry_rice",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-fish-soup-bee-hoon",
+    "name": "Fish Soup Bee Hoon",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "A Singaporean soup of fish with rice vermicelli (bee hoon). It is seen as a healthy everyday meal.",
+    "how_to_eat": "Eat with the sliced red chilli and soy dip.",
+    "how_to_order": "Order sliced or fried fish, with or without milk in the soup, at hawker stalls.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fish_soup_bee_hoon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fish_soup_bee_hoon",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-sambal-stingray",
+    "name": "Sambal Stingray",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Stingray grilled on banana leaf and topped with sambal paste. It is easily found at hawker centres.",
+    "how_to_eat": "Eat with rice and squeeze calamansi lime over it.",
+    "how_to_order": "Order at barbecue seafood stalls in hawker centres.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sambal_stingray",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sambal_stingray",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-yong-tau-foo",
+    "name": "Yong Tau Foo",
+    "local_name": "酿豆腐",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "A Hakka dish of tofu and vegetables stuffed with fish paste or ground meat, served dry with sauce or in soup.",
+    "how_to_eat": "Eat with chilli and sweet sauce.",
+    "how_to_order": "Pick your pieces into a bowl, then choose soup or dry and a noodle.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yong_tau_foo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Yong_tau_foo",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-murtabak",
+    "name": "Murtabak",
+    "local_name": null,
+    "pronunciation": "MUR-tah-bak",
+    "category": "street_food",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "A stuffed pan-fried bread filled with minced meat, egg and onion. It is a classic of Singapore's Indian-Muslim stalls.",
+    "how_to_eat": "Eat in pieces dipped in curry.",
+    "how_to_order": "Choose chicken or mutton murtabak at Indian-Muslim restaurants.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Murtabak",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Murtabak",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-ice-kachang",
+    "name": "Ice Kachang",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "A dessert of shaved ice with syrup and condensed milk over sweet fillings. It is sold at many coffee shops, hawker centres and food courts.",
+    "how_to_eat": "Eat quickly before the ice melts.",
+    "how_to_order": "Order at dessert stalls in hawker centres.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ais_kacang",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ais_kacang",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-chendol",
+    "name": "Chendol",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Green pandan-flavoured rice-flour jelly strands with coconut milk and palm sugar syrup over shaved ice. It is a traditional Southeast Asian dessert.",
+    "how_to_eat": "Stir the palm sugar through before eating.",
+    "how_to_order": "Order at dessert stalls in hawker centres.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cendol",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cendol",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-kueh-lapis",
+    "name": "Kueh Lapis",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "A colourful steamed layered cake with a soft, chewy texture, associated with Peranakan cuisine.",
+    "how_to_eat": "Peel and eat it layer by layer.",
+    "how_to_order": "Buy at kueh shops and markets.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kue_lapis",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kue_lapis",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-kopi",
+    "name": "Kopi",
+    "local_name": null,
+    "pronunciation": "KOH-pee",
+    "category": "drink",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Local coffee served at kopitiam (traditional coffee shops), usually sweetened with condensed milk. Kopi is Malay for coffee and tiam is Hokkien for shop.",
+    "how_to_eat": "Drink with kaya toast for breakfast.",
+    "how_to_order": "Order 'kopi' (with condensed milk), 'kopi-o' (black with sugar) or 'kopi-c' (with evaporated milk).",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kopitiam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kopitiam",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-teh-tarik",
+    "name": "Teh Tarik",
+    "local_name": null,
+    "pronunciation": "teh TAH-rik",
+    "category": "drink",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [],
+    "description": "Hot milk tea 'pulled' by pouring it back and forth between containers to give a frothy top. It is sold at Indian-Muslim stalls and kopitiams.",
+    "how_to_eat": "Drink hot with prata.",
+    "how_to_order": "Order at Indian-Muslim stalls.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Teh_tarik",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Teh_tarik",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  },
+  {
+    "id": "singapore-singapore-sling",
+    "name": "Singapore Sling",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Singapore",
+    "state": "Singapore",
+    "regions": [
+      "Raffles Hotel"
+    ],
+    "description": "A gin-based sling cocktail reputed to have been developed in 1915 by bartender Ngiam Tong Boon at the Long Bar in Raffles Hotel.",
+    "how_to_eat": "Sip as a long drink.",
+    "how_to_order": "Order at the Long Bar in Raffles Hotel or any cocktail bar.",
+    "typical_price": null,
+    "currency": "SGD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Singapore_sling",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Singapore_sling",
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+    ]
+  }
+]

@@ -1,0 +1,730 @@
+[
+  {
+    "id": "vietnam-pho",
+    "name": "Pho",
+    "local_name": "Phở",
+    "pronunciation": "fuh",
+    "category": "meal",
+    "country": "Vietnam",
+    "state": "Hanoi & the North",
+    "regions": [
+      "Hanoi",
+      "Nam Định"
+    ],
+    "description": "Rice noodle soup in a clear beef broth simmered with spices, topped with sliced beef or chicken (phở gà). Born in northern Vietnam, it is the country's national dish.",
+    "how_to_eat": "Add lime, chilli and herbs to taste, and eat with chopsticks and a spoon.",
+    "how_to_order": "Ask for 'phở bò' (beef) or 'phở gà' (chicken), usually as breakfast.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pho",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pho",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-bun-cha",
+    "name": "Bun Cha",
+    "local_name": "Bún chả",
+    "pronunciation": "boon CHA",
+    "category": "meal",
+    "country": "Vietnam",
+    "state": "Hanoi & the North",
+    "regions": [
+      "Hanoi"
+    ],
+    "description": "Grilled pork patties and pork belly served in a sweet-sour fish sauce dip with rice vermicelli and fresh herbs. It is a Hanoi lunchtime classic.",
+    "how_to_eat": "Dip noodles and herbs into the bowl of pork and sauce.",
+    "how_to_order": "Look for smoky charcoal grills at lunchtime and ask for 'bún chả'.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bún_chả",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bún_chả",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-cha-ca-la-vong",
+    "name": "Cha Ca La Vong",
+    "local_name": "Chả cá Lã Vọng",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Vietnam",
+    "state": "Hanoi & the North",
+    "regions": [
+      "Hanoi"
+    ],
+    "description": "Catfish marinated in turmeric, galangal and fermented rice, grilled and then finished in a hot pan with dill and spring onions. It has been served on Hanoi's Grilled Fish Lane (Chả Cá street) since the 1800s.",
+    "how_to_eat": "Eat with rice vermicelli, herbs, peanuts and mắm tôm shrimp sauce.",
+    "how_to_order": "Ask for 'chả cá' at restaurants on Chả Cá street in Hanoi's Old Quarter.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "shellfish",
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chả_cá_Lã_Vọng",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chả_cá_Lã_Vọng",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-banh-cuon",
+    "name": "Banh Cuon",
+    "local_name": "Bánh cuốn",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Vietnam",
+    "state": "Hanoi & the North",
+    "regions": [
+      "Hanoi"
+    ],
+    "description": "Thin steamed rice sheets rolled around minced pork and wood ear mushroom, topped with fried shallots. It is a typical Hanoi breakfast.",
+    "how_to_eat": "Dip in nước chấm fish sauce with slices of chả lụa pork sausage.",
+    "how_to_order": "Ask for 'bánh cuốn' at breakfast stalls where the sheets are steamed to order.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bánh_cuốn",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bánh_cuốn",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-bun-rieu",
+    "name": "Bun Rieu",
+    "local_name": "Bún riêu",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Vietnam",
+    "state": "Hanoi & the North",
+    "regions": [],
+    "description": "Rice vermicelli in a tomato and crab broth with a crab paste topping. It comes from the Red River Delta and is also popular in the south.",
+    "how_to_eat": "Add shrimp paste, lime and herbs to taste.",
+    "how_to_order": "Ask for 'bún riêu cua' (crab) at street stalls.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bún_riêu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bún_riêu",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-egg-coffee",
+    "name": "Egg Coffee",
+    "local_name": "Cà phê trứng",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Vietnam",
+    "state": "Hanoi & the North",
+    "regions": [
+      "Hanoi"
+    ],
+    "description": "Robusta coffee topped with a cream of egg yolk whipped with sugar and condensed milk. It was created in Hanoi in the 1940s, when milk was scarce, and popularised by Giảng café.",
+    "how_to_eat": "Stir the foam in gradually or eat it with a spoon first.",
+    "how_to_order": "Ask for 'cà phê trứng' hot or iced at Old Quarter cafés.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Egg_coffee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Egg_coffee",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-bun-bo-hue",
+    "name": "Bun Bo Hue",
+    "local_name": "Bún bò Huế",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Vietnam",
+    "state": "Central Vietnam",
+    "regions": [
+      "Huế"
+    ],
+    "description": "A spicy beef and pork noodle soup flavoured with lemongrass and fermented shrimp paste, with thick round rice noodles. It is the signature dish of Huế, the old imperial capital.",
+    "how_to_eat": "Add lime, chilli and banana blossom from the herb plate.",
+    "how_to_order": "Ask for 'bún bò Huế' at noodle shops, typically for breakfast.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bún_bò_Huế",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bún_bò_Huế",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-cao-lau",
+    "name": "Cao Lau",
+    "local_name": "Cao lầu",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Vietnam",
+    "state": "Central Vietnam",
+    "regions": [
+      "Hội An"
+    ],
+    "description": "Chewy rice noodles with char siu-style pork, greens, bean sprouts and herbs in a little broth. Local legend says the noodles need water from Hội An's Bá Lễ well, so it is rarely found elsewhere.",
+    "how_to_eat": "Mix the noodles, pork and herbs together with the small amount of broth.",
+    "how_to_order": "Ask for 'cao lầu' at Hội An eateries and market stalls.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cao_lầu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cao_lầu",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-mi-quang",
+    "name": "Mi Quang",
+    "local_name": "Mì Quảng",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Vietnam",
+    "state": "Central Vietnam",
+    "regions": [
+      "Đà Nẵng",
+      "Hội An"
+    ],
+    "description": "Wide turmeric rice noodles with a small amount of rich broth, topped with pork, chicken or shrimp, herbs, peanuts and rice crackers. It is the specialty of Quảng Nam and Đà Nẵng.",
+    "how_to_eat": "Break the rice cracker over the bowl and mix everything.",
+    "how_to_order": "Ask for 'mì Quảng' with 'tôm thịt' (shrimp and pork) or 'gà' (chicken).",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "peanuts",
+      "shellfish",
+      "fish",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mì_Quảng",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mì_Quảng",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-banh-beo",
+    "name": "Banh Beo",
+    "local_name": "Bánh bèo",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Vietnam",
+    "state": "Central Vietnam",
+    "regions": [
+      "Huế"
+    ],
+    "description": "Small steamed savoury rice cakes served in little dishes, topped with dried shrimp, pork crackling and spring onion oil. They are a well-known central Vietnamese snack.",
+    "how_to_eat": "Drizzle fish sauce over each one and scoop out with a spoon.",
+    "how_to_order": "Ask for a tray of 'bánh bèo' at Huế snack shops.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bánh_bèo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bánh_bèo",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-com-hen",
+    "name": "Com Hen",
+    "local_name": "Cơm hến",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Vietnam",
+    "state": "Central Vietnam",
+    "regions": [
+      "Huế"
+    ],
+    "description": "Rice mixed with baby river clams, peanuts, pork crackling, herbs and shrimp paste, served with clam broth. It is a cheap, everyday Huế dish.",
+    "how_to_eat": "Mix everything together and sip the clam broth alongside.",
+    "how_to_order": "Ask for 'cơm hến' at Huế street stalls and markets.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "peanuts",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cơm_hến",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cơm_hến",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-banh-khoai",
+    "name": "Banh Khoai",
+    "local_name": "Bánh khoái",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Vietnam",
+    "state": "Central Vietnam",
+    "regions": [
+      "Huế"
+    ],
+    "description": "A crispy half-moon pancake from central Vietnam made with rice batter and egg yolk, filled with shrimp, pork and bean sprouts. It is the central cousin of bánh xèo.",
+    "how_to_eat": "Wrap pieces in herbs and dip in the accompanying sauce.",
+    "how_to_order": "Ask for 'bánh khoái' at Huế street stalls.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "shellfish",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Bánh_xèo",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-banh-mi",
+    "name": "Banh Mi",
+    "local_name": "Bánh mì",
+    "pronunciation": "bun MEE",
+    "category": "street_food",
+    "country": "Vietnam",
+    "state": "Saigon & the South",
+    "regions": [
+      "Ho Chi Minh City",
+      "Hội An"
+    ],
+    "description": "A crusty baguette filled with pâté, cold cuts or grilled meat, pickled carrot and daikon, cucumber, coriander and chilli. A legacy of French bread, it is Vietnam's best-known street food.",
+    "how_to_eat": "Eat on the go, straight from the paper wrapper.",
+    "how_to_order": "Ask for 'bánh mì thịt' (mixed meats) at street carts.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg",
+      "soy",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bánh_mì",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bánh_mì",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-com-tam",
+    "name": "Com Tam",
+    "local_name": "Cơm tấm",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Vietnam",
+    "state": "Saigon & the South",
+    "regions": [
+      "Ho Chi Minh City"
+    ],
+    "description": "Broken rice served with a grilled pork chop, steamed pork and egg loaf and shredded pork skin, with sweet fish sauce. It is Saigon's everyday rice plate.",
+    "how_to_eat": "Pour the fish sauce over the rice and pork.",
+    "how_to_order": "Ask for 'cơm tấm sườn bì chả' for the full plate.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cơm_tấm",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cơm_tấm",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-banh-xeo",
+    "name": "Banh Xeo",
+    "local_name": "Bánh xèo",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Vietnam",
+    "state": "Saigon & the South",
+    "regions": [],
+    "description": "A large, crispy rice-flour crepe coloured with turmeric, filled with pork, prawns, mung beans and bean sprouts. The southern version is big, thin and bright yellow from turmeric and coconut milk.",
+    "how_to_eat": "Wrap pieces in lettuce or mustard leaves with herbs and dip in sweet-sour fish sauce.",
+    "how_to_order": "Ask for 'bánh xèo' at street stalls and family restaurants.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bánh_xèo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bánh_xèo",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-goi-cuon",
+    "name": "Goi Cuon",
+    "local_name": "Gỏi cuốn",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Vietnam",
+    "state": "Saigon & the South",
+    "regions": [],
+    "description": "Fresh summer rolls of rice paper wrapped around rice vermicelli, shrimp, pork and herbs. They are a light southern snack.",
+    "how_to_eat": "Dip in hoisin-peanut sauce.",
+    "how_to_order": "Ask for 'gỏi cuốn' at street stalls and restaurants.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "peanuts",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gỏi_cuốn",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gỏi_cuốn",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-vietnamese-iced-coffee",
+    "name": "Vietnamese Iced Coffee",
+    "local_name": "Cà phê sữa đá",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Vietnam",
+    "state": "Saigon & the South",
+    "regions": [
+      "Ho Chi Minh City"
+    ],
+    "description": "Dark roast coffee dripped through a small metal phin filter onto sweetened condensed milk and poured over ice. It is the classic drink of Vietnamese street cafés.",
+    "how_to_eat": "Stir the condensed milk up from the bottom before drinking.",
+    "how_to_order": "Ask for 'cà phê sữa đá'; 'cà phê đen đá' is without milk.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vietnamese_iced_coffee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Vietnamese_iced_coffee",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-che",
+    "name": "Che",
+    "local_name": "Chè",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Vietnam",
+    "state": "Saigon & the South",
+    "regions": [],
+    "description": "A family of sweet dessert soups and puddings made with beans, jellies, tapioca, fruit and coconut milk, served hot or over ice. Chè is sold at dessert stalls across the country.",
+    "how_to_eat": "Stir the layers together and eat with a spoon.",
+    "how_to_order": "Point at the toppings you want at a chè stall.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chè",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chè",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-hu-tieu",
+    "name": "Hu Tieu",
+    "local_name": "Hủ tiếu",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Vietnam",
+    "state": "Mekong Delta",
+    "regions": [
+      "Mỹ Tho",
+      "Cần Thơ"
+    ],
+    "description": "A noodle soup of Teochew and Cambodian origin with a pork-bone broth; hủ tiếu Mỹ Tho is topped with seafood, while hủ tiếu Nam Vang is Phnom Penh style. It is a southern breakfast staple.",
+    "how_to_eat": "Season with lime, chilli and herbs; it can also be ordered dry with broth on the side.",
+    "how_to_order": "Ask for 'hủ tiếu Mỹ Tho' or 'hủ tiếu Nam Vang', 'nước' (soup) or 'khô' (dry).",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "fish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hủ_tiếu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hủ_tiếu",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-ca-kho-to",
+    "name": "Ca Kho To",
+    "local_name": "Cá kho tộ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Vietnam",
+    "state": "Mekong Delta",
+    "regions": [],
+    "description": "Catfish or snakehead braised in a clay pot with caramel sauce, fish sauce, pepper and garlic. The Mekong Delta is thought to be its birthplace.",
+    "how_to_eat": "Eat with steamed rice and a sour soup.",
+    "how_to_order": "Ask for 'cá kho tộ' at home-style rice restaurants.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kho_(cooking_technique)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kho_(cooking_technique)",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-canh-chua",
+    "name": "Canh Chua",
+    "local_name": "Canh chua",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Vietnam",
+    "state": "Mekong Delta",
+    "regions": [],
+    "description": "A hot and sour soup with tamarind, pineapple, tomato, okra and bean sprouts, usually with fish. It is a Mekong Delta favourite.",
+    "how_to_eat": "Eat with rice, often alongside cá kho tộ.",
+    "how_to_order": "Ask for 'canh chua cá lóc' (with snakehead fish).",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Canh_chua",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Canh_chua",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-bun-mam",
+    "name": "Bun Mam",
+    "local_name": "Bún mắm",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Vietnam",
+    "state": "Mekong Delta",
+    "regions": [
+      "Sóc Trăng",
+      "Trà Vinh"
+    ],
+    "description": "Rice vermicelli in a pungent broth made from fermented fish, topped with seafood and pork. It is a specialty of the Khmer-influenced provinces of Sóc Trăng and Trà Vinh.",
+    "how_to_eat": "Add the raw vegetables and herbs served alongside.",
+    "how_to_order": "Ask for 'bún mắm' at Mekong Delta noodle shops.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bún_mắm",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bún_mắm",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  },
+  {
+    "id": "vietnam-banh-pia",
+    "name": "Banh Pia",
+    "local_name": "Bánh pía",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Vietnam",
+    "state": "Mekong Delta",
+    "regions": [
+      "Sóc Trăng"
+    ],
+    "description": "A flaky Teochew-style pastry filled with mung bean paste and durian, sometimes with salted egg yolk. It is the signature sweet of Sóc Trăng province.",
+    "how_to_eat": "Eat with hot tea.",
+    "how_to_order": "Buy boxes of 'bánh pía' from bakeries in Sóc Trăng.",
+    "typical_price": null,
+    "currency": "VND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bánh_pía",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bánh_pía",
+      "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+    ]
+  }
+]

@@ -1,0 +1,1500 @@
+[
+  {
+    "id": "united_states-clam-chowder",
+    "name": "New England Clam Chowder",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "New England",
+    "regions": [
+      "Boston"
+    ],
+    "description": "A thick, creamy soup of clams, potatoes, onion and salt pork or bacon, made with milk or cream. It is the best-known chowder style and a staple of the New England coast.",
+    "how_to_eat": "Eat hot from a cup or bread bowl with oyster crackers crumbled on top.",
+    "how_to_order": "Ask for 'clam chowder' or 'chowdah' at seafood shacks and harbourside restaurants.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "shellfish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Clam_chowder",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Clam_chowder",
+      "https://en.wikipedia.org/wiki/Cuisine_of_New_England"
+    ]
+  },
+  {
+    "id": "united_states-lobster-roll",
+    "name": "Lobster Roll",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "United States",
+    "state": "New England",
+    "regions": [
+      "Maine"
+    ],
+    "description": "Chunks of lobster meat served in a split-top, butter-toasted hot dog bun. It comes cold with mayonnaise (Maine style) or warm with melted butter (Connecticut style).",
+    "how_to_eat": "Eat by hand, fresh, with chips or fries on the side.",
+    "how_to_order": "Ask for a lobster roll 'Maine style' (cold, mayo) or 'Connecticut style' (warm, butter) at lobster shacks in summer.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lobster_roll",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lobster_roll",
+      "https://en.wikipedia.org/wiki/Cuisine_of_New_England"
+    ]
+  },
+  {
+    "id": "united_states-fried-clams",
+    "name": "Fried Clams",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "United States",
+    "state": "New England",
+    "regions": [
+      "Ipswich",
+      "Essex"
+    ],
+    "description": "Whole soft-shell clams dipped in milk, dredged in flour or corn flour and deep-fried. The dish is credited to Essex, Massachusetts, and is a classic of North Shore clam shacks.",
+    "how_to_eat": "Eat hot with tartar sauce and a squeeze of lemon.",
+    "how_to_order": "Ask for 'whole-belly fried clams' at clam shacks on the Massachusetts North Shore.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fried_clams",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fried_clams",
+      "https://en.wikipedia.org/wiki/Cuisine_of_New_England"
+    ]
+  },
+  {
+    "id": "united_states-boston-baked-beans",
+    "name": "Boston Baked Beans",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "New England",
+    "regions": [
+      "Boston"
+    ],
+    "description": "Navy beans slow-baked with molasses and salt pork. The dish is so tied to the city that Boston is nicknamed 'Beantown'.",
+    "how_to_eat": "Eat as a side, traditionally with brown bread and frankfurters.",
+    "how_to_order": "Ask for 'Boston baked beans' at traditional New England restaurants.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boston_baked_beans",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Boston_baked_beans",
+      "https://en.wikipedia.org/wiki/Cuisine_of_New_England"
+    ]
+  },
+  {
+    "id": "united_states-boston-cream-pie",
+    "name": "Boston Cream Pie",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United States",
+    "state": "New England",
+    "regions": [
+      "Boston"
+    ],
+    "description": "Despite the name, a sponge cake filled with vanilla custard and topped with chocolate glaze. It is the official dessert of Massachusetts.",
+    "how_to_eat": "Eat by the slice, chilled.",
+    "how_to_order": "Ask for a slice of 'Boston cream pie' at bakeries and diners in Boston.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boston_cream_pie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Boston_cream_pie",
+      "https://en.wikipedia.org/wiki/Cuisine_of_New_England"
+    ]
+  },
+  {
+    "id": "united_states-whoopie-pie",
+    "name": "Whoopie Pie",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United States",
+    "state": "New England",
+    "regions": [
+      "Maine"
+    ],
+    "description": "Two soft, cake-like chocolate rounds sandwiching a sweet, fluffy white filling. It is the official state treat of Maine.",
+    "how_to_eat": "Eat by hand as a snack.",
+    "how_to_order": "Look for whoopie pies at bakeries, general stores and farm stands in Maine.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Whoopie_pie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Whoopie_pie",
+      "https://en.wikipedia.org/wiki/Cuisine_of_New_England"
+    ]
+  },
+  {
+    "id": "united_states-pizza",
+    "name": "New York-Style Pizza",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "United States",
+    "state": "New York",
+    "regions": [
+      "New York City"
+    ],
+    "description": "Large, thin, hand-tossed pizza with a crisp yet foldable crust, tomato sauce and mozzarella, sold whole or by the slice. It grew from the Neapolitan pizza of Italian immigrants in New York City.",
+    "how_to_eat": "Fold the slice lengthwise and eat it by hand.",
+    "how_to_order": "Ask for 'a plain slice' or 'a cheese slice' at any New York pizzeria.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/New_York%E2%80%93style_pizza",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/New_York%E2%80%93style_pizza",
+      "https://en.wikipedia.org/wiki/Cuisine_of_New_York_City"
+    ]
+  },
+  {
+    "id": "united_states-bagel-lox",
+    "name": "Bagel with Lox and Cream Cheese",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "New York",
+    "regions": [
+      "New York City"
+    ],
+    "description": "A boiled-then-baked bagel spread with cream cheese and topped with thin slices of cured salmon, often with onion, tomato and capers. It is a classic of New York's Jewish delis and appetizing shops.",
+    "how_to_eat": "Eat as an open or closed sandwich for breakfast or brunch.",
+    "how_to_order": "Ask for 'a bagel with lox and schmear' at bagel shops and appetizing stores.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bagel_and_cream_cheese",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bagel_and_cream_cheese",
+      "https://en.wikipedia.org/wiki/Cuisine_of_New_York_City"
+    ]
+  },
+  {
+    "id": "united_states-pastrami-on-rye",
+    "name": "Pastrami on Rye",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "New York",
+    "regions": [
+      "New York City"
+    ],
+    "description": "Thick-cut, spice-crusted smoked beef pastrami piled on rye bread with mustard. It is the signature sandwich of New York's Jewish delicatessens.",
+    "how_to_eat": "Eat with mustard and a pickle on the side.",
+    "how_to_order": "Ask for 'pastrami on rye' at a Jewish deli.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pastrami_on_rye",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pastrami_on_rye",
+      "https://en.wikipedia.org/wiki/Cuisine_of_New_York_City"
+    ]
+  },
+  {
+    "id": "united_states-cheesecake",
+    "name": "New York Cheesecake",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United States",
+    "state": "New York",
+    "regions": [
+      "New York City"
+    ],
+    "description": "A dense, rich cheesecake made with cream cheese, eggs and cream on a graham-cracker or pastry base. The cream-cheese style is strongly associated with New York City.",
+    "how_to_eat": "Eat by the slice, plain or with fruit topping.",
+    "how_to_order": "Ask for 'New York cheesecake' at diners and delis.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cheesecake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cheesecake",
+      "https://en.wikipedia.org/wiki/Cuisine_of_New_York_City"
+    ]
+  },
+  {
+    "id": "united_states-buffalo-wings",
+    "name": "Buffalo Wings",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "United States",
+    "state": "New York",
+    "regions": [
+      "Buffalo"
+    ],
+    "description": "Deep-fried chicken wings tossed in a sauce of cayenne pepper hot sauce and butter. They were created in Buffalo, New York, in 1964.",
+    "how_to_eat": "Eat with celery sticks and blue cheese dressing.",
+    "how_to_order": "Order by heat level (mild, medium, hot) at bars and wing joints.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Buffalo_wing",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Buffalo_wing",
+      "https://en.wikipedia.org/wiki/Cuisine_of_New_York_City"
+    ]
+  },
+  {
+    "id": "united_states-black-and-white-cookie",
+    "name": "Black and White Cookie",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United States",
+    "state": "New York",
+    "regions": [
+      "New York City"
+    ],
+    "description": "A large, soft, cake-like cookie iced half with vanilla and half with chocolate fondant. It is a fixture of New York bakeries and delis.",
+    "how_to_eat": "Eat by hand.",
+    "how_to_order": "Look for them at New York bakeries and delis.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_and_white_cookie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Black_and_white_cookie",
+      "https://en.wikipedia.org/wiki/Cuisine_of_New_York_City"
+    ]
+  },
+  {
+    "id": "united_states-egg-cream",
+    "name": "Egg Cream",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "United States",
+    "state": "New York",
+    "regions": [
+      "Brooklyn"
+    ],
+    "description": "A fizzy drink of milk, carbonated water and chocolate syrup; it contains neither egg nor cream. It is a classic of old New York soda fountains.",
+    "how_to_eat": "Drink right after it is mixed, while still foamy.",
+    "how_to_order": "Ask for a 'chocolate egg cream' at old-style diners and luncheonettes.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Egg_cream",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Egg_cream",
+      "https://en.wikipedia.org/wiki/Cuisine_of_New_York_City"
+    ]
+  },
+  {
+    "id": "united_states-fried-chicken",
+    "name": "Southern Fried Chicken",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "The South",
+    "regions": [],
+    "description": "Chicken pieces dredged in seasoned flour or batter and deep- or pan-fried until crisp. It is one of the defining dishes of Southern cooking.",
+    "how_to_eat": "Eat by hand with biscuits, mashed potatoes or collard greens.",
+    "how_to_order": "Order 'fried chicken' by the piece at Southern restaurants and soul food spots.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fried_chicken",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fried_chicken",
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Southern_United_States"
+    ]
+  },
+  {
+    "id": "united_states-pulled-pork",
+    "name": "Pulled Pork",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "The South",
+    "regions": [
+      "North Carolina",
+      "Memphis"
+    ],
+    "description": "Pork shoulder slow-smoked until tender, then pulled into shreds and dressed with sauce. It is the core of Carolina and Memphis barbecue.",
+    "how_to_eat": "Eat on a soft bun with coleslaw or on a plate with sides.",
+    "how_to_order": "Ask for a 'pulled pork sandwich' or plate at barbecue joints.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pulled_pork",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pulled_pork",
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Southern_United_States"
+    ]
+  },
+  {
+    "id": "united_states-shrimp-and-grits",
+    "name": "Shrimp and Grits",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "The South",
+    "regions": [
+      "Charleston"
+    ],
+    "description": "Shrimp cooked with bacon or sausage and served over creamy stone-ground corn grits. It comes from the Lowcountry of South Carolina and Georgia.",
+    "how_to_eat": "Eat with a spoon, mixing the shrimp and sauce into the grits.",
+    "how_to_order": "Ask for 'shrimp and grits' at Lowcountry restaurants, often at brunch.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shrimp_and_grits",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shrimp_and_grits",
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Southern_United_States"
+    ]
+  },
+  {
+    "id": "united_states-biscuits-and-gravy",
+    "name": "Biscuits and Gravy",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "The South",
+    "regions": [],
+    "description": "Soft, flaky buttermilk biscuits covered in a thick white gravy made with pork sausage drippings, flour and milk. It is a classic Southern breakfast.",
+    "how_to_eat": "Eat hot with a knife and fork.",
+    "how_to_order": "Ask for 'biscuits and gravy' at diners and breakfast spots.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Biscuits_and_gravy",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Biscuits_and_gravy",
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Southern_United_States"
+    ]
+  },
+  {
+    "id": "united_states-hot-chicken",
+    "name": "Nashville Hot Chicken",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "The South",
+    "regions": [
+      "Nashville"
+    ],
+    "description": "Fried chicken coated in a fiery paste of cayenne pepper and spices. It is a local specialty of Nashville, Tennessee.",
+    "how_to_eat": "Eat on white bread with pickle slices to cool the heat.",
+    "how_to_order": "Order by heat level; 'medium' is already very spicy for most people.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hot_chicken",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hot_chicken",
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Southern_United_States"
+    ]
+  },
+  {
+    "id": "united_states-pecan-pie",
+    "name": "Pecan Pie",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United States",
+    "state": "The South",
+    "regions": [],
+    "description": "A pie of pecan nuts in a sweet filling of eggs, butter and sugar or corn syrup. Pecans are native to the South and the pie is a holiday staple there.",
+    "how_to_eat": "Eat by the slice, often with whipped cream or vanilla ice cream.",
+    "how_to_order": "Ask for a slice at Southern diners and bakeries.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts",
+      "egg",
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pecan_pie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pecan_pie",
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Southern_United_States"
+    ]
+  },
+  {
+    "id": "united_states-sweet-tea",
+    "name": "Sweet Tea",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "United States",
+    "state": "The South",
+    "regions": [],
+    "description": "Iced black tea brewed strong and sweetened heavily while still hot. It is the everyday table drink of the South.",
+    "how_to_eat": "Drink cold over ice, sometimes with lemon.",
+    "how_to_order": "Ask for 'sweet tea' (or 'unsweet' if you want it plain).",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sweet_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sweet_tea",
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Southern_United_States"
+    ]
+  },
+  {
+    "id": "united_states-gumbo",
+    "name": "Gumbo",
+    "local_name": null,
+    "pronunciation": "GUM-boh",
+    "category": "meal",
+    "country": "United States",
+    "state": "Louisiana",
+    "regions": [
+      "New Orleans"
+    ],
+    "description": "A thick stew built on a dark roux with the 'holy trinity' of onion, celery and bell pepper, plus seafood or chicken and andouille sausage, thickened with okra or filé. It is the official state cuisine of Louisiana.",
+    "how_to_eat": "Eat from a bowl over white rice.",
+    "how_to_order": "Ask for 'seafood gumbo' or 'chicken and sausage gumbo' at Creole and Cajun restaurants.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gumbo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gumbo",
+      "https://en.wikipedia.org/wiki/Louisiana_Creole_cuisine"
+    ]
+  },
+  {
+    "id": "united_states-jambalaya",
+    "name": "Jambalaya",
+    "local_name": null,
+    "pronunciation": "jum-buh-LY-uh",
+    "category": "meal",
+    "country": "United States",
+    "state": "Louisiana",
+    "regions": [
+      "New Orleans"
+    ],
+    "description": "Rice cooked with meat such as andouille sausage and chicken, often with shrimp, and the holy trinity of vegetables. Creole jambalaya includes tomatoes; Cajun jambalaya does not.",
+    "how_to_eat": "Eat from a bowl as a one-pot meal.",
+    "how_to_order": "Ask for 'jambalaya' at Cajun and Creole restaurants and at festivals.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jambalaya",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jambalaya",
+      "https://en.wikipedia.org/wiki/Louisiana_Creole_cuisine"
+    ]
+  },
+  {
+    "id": "united_states-po-boy",
+    "name": "Po' Boy",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "United States",
+    "state": "Louisiana",
+    "regions": [
+      "New Orleans"
+    ],
+    "description": "A sandwich on crisp New Orleans French bread, filled most often with fried shrimp or oysters or roast beef with gravy. It is the city's everyday lunch sandwich.",
+    "how_to_eat": "Eat by hand; order it 'dressed' for lettuce, tomato, pickles and mayo.",
+    "how_to_order": "Ask for a 'shrimp po' boy, dressed' at sandwich shops and corner stores.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "shellfish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Po%27_boy",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Po%27_boy",
+      "https://en.wikipedia.org/wiki/Louisiana_Creole_cuisine"
+    ]
+  },
+  {
+    "id": "united_states-crawfish-etouffee",
+    "name": "Crawfish Étouffée",
+    "local_name": null,
+    "pronunciation": "ay-too-FAY",
+    "category": "meal",
+    "country": "United States",
+    "state": "Louisiana",
+    "regions": [],
+    "description": "Crawfish tails smothered in a thick butter-and-roux sauce with onion, celery and bell pepper. It is a classic of Cajun and Creole cooking.",
+    "how_to_eat": "Eat spooned over white rice.",
+    "how_to_order": "Ask for 'crawfish étouffée' at Cajun restaurants, best in crawfish season (spring).",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89touff%C3%A9e",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/%C3%89touff%C3%A9e",
+      "https://en.wikipedia.org/wiki/Louisiana_Creole_cuisine"
+    ]
+  },
+  {
+    "id": "united_states-beignet",
+    "name": "Beignet",
+    "local_name": null,
+    "pronunciation": "ben-YAY",
+    "category": "sweet",
+    "country": "United States",
+    "state": "Louisiana",
+    "regions": [
+      "New Orleans"
+    ],
+    "description": "Square pieces of deep-fried yeast dough buried under powdered sugar. Introduced by French colonists, it is the official state doughnut of Louisiana.",
+    "how_to_eat": "Eat hot by hand with café au lait.",
+    "how_to_order": "Order beignets (usually in threes) at New Orleans coffee stands.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beignet",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Beignet",
+      "https://en.wikipedia.org/wiki/Louisiana_Creole_cuisine"
+    ]
+  },
+  {
+    "id": "united_states-muffuletta",
+    "name": "Muffuletta",
+    "local_name": null,
+    "pronunciation": "muff-uh-LET-uh",
+    "category": "meal",
+    "country": "United States",
+    "state": "Louisiana",
+    "regions": [
+      "New Orleans"
+    ],
+    "description": "A large round sesame-topped Sicilian loaf filled with olive salad, salami, ham, mortadella and provolone. It was created by Italian immigrants in New Orleans' French Quarter.",
+    "how_to_eat": "Eat in wedges; a whole one feeds two or more.",
+    "how_to_order": "Ask for a whole or half muffuletta at Italian grocers and delis in New Orleans.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Muffuletta",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Muffuletta",
+      "https://en.wikipedia.org/wiki/Louisiana_Creole_cuisine"
+    ]
+  },
+  {
+    "id": "united_states-red-beans-and-rice",
+    "name": "Red Beans and Rice",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "Louisiana",
+    "regions": [
+      "New Orleans"
+    ],
+    "description": "Red kidney beans slow-cooked with the holy trinity, spices and pork bones or sausage, served over rice. It is traditionally eaten on Mondays in New Orleans.",
+    "how_to_eat": "Eat over rice, often with a side of smoked sausage.",
+    "how_to_order": "Look for it on Monday lunch specials across New Orleans.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Red_beans_and_rice",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Red_beans_and_rice",
+      "https://en.wikipedia.org/wiki/Louisiana_Creole_cuisine"
+    ]
+  },
+  {
+    "id": "united_states-brisket",
+    "name": "Texas Smoked Brisket",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "Texas",
+    "regions": [
+      "Austin",
+      "Lockhart"
+    ],
+    "description": "Beef brisket rubbed simply with salt and pepper and smoked for many hours over post oak. It is the centrepiece of Central Texas barbecue.",
+    "how_to_eat": "Eat sliced on butcher paper with white bread, pickles and onion.",
+    "how_to_order": "Order by weight and ask for 'lean' or 'moist/fatty' cuts at barbecue joints.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brisket",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Brisket",
+      "https://en.wikipedia.org/wiki/Tex-Mex"
+    ]
+  },
+  {
+    "id": "united_states-chili-con-carne",
+    "name": "Chili con Carne",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "Texas",
+    "regions": [
+      "San Antonio"
+    ],
+    "description": "A spicy stew of beef and chili peppers, in Texas traditionally made without beans. It is the official state dish of Texas and traces back to San Antonio's chili queens.",
+    "how_to_eat": "Eat from a bowl with crackers, cheese and onion.",
+    "how_to_order": "Ask for 'Texas red' or a bowl of chili at diners and chili parlors.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chili_con_carne",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chili_con_carne",
+      "https://en.wikipedia.org/wiki/Tex-Mex"
+    ]
+  },
+  {
+    "id": "united_states-breakfast-taco",
+    "name": "Breakfast Taco",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "United States",
+    "state": "Texas",
+    "regions": [
+      "Austin",
+      "San Antonio"
+    ],
+    "description": "A flour or corn tortilla filled with scrambled eggs plus fillings like bacon, chorizo, potato or beans. Austin and San Antonio both claim it as their own.",
+    "how_to_eat": "Eat by hand with salsa.",
+    "how_to_order": "Order by filling, e.g. 'egg, potato and cheese', at taquerias and food trucks.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Taco#Breakfast_taco",
+      "https://en.wikipedia.org/wiki/Tex-Mex"
+    ]
+  },
+  {
+    "id": "united_states-fajitas",
+    "name": "Fajitas",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "Texas",
+    "regions": [
+      "Rio Grande Valley"
+    ],
+    "description": "Grilled strips of marinated skirt steak (or chicken) served sizzling with onions and peppers and wrapped in tortillas. The dish comes from ranch workers in South Texas.",
+    "how_to_eat": "Build your own tacos with tortillas, guacamole, sour cream and pico de gallo.",
+    "how_to_order": "Order beef or chicken fajitas at Tex-Mex restaurants; they arrive on a sizzling platter.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fajita",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fajita",
+      "https://en.wikipedia.org/wiki/Tex-Mex"
+    ]
+  },
+  {
+    "id": "united_states-kolache",
+    "name": "Kolache",
+    "local_name": null,
+    "pronunciation": "koh-LAH-chee",
+    "category": "sweet",
+    "country": "United States",
+    "state": "Texas",
+    "regions": [
+      "West"
+    ],
+    "description": "A soft yeast pastry with a fruit or cheese filling, brought by Czech immigrants. Texas also has the savory sausage-filled version (klobasnek).",
+    "how_to_eat": "Eat by hand for breakfast.",
+    "how_to_order": "Look for kolaches at Czech bakeries and gas stations along I-35.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kolache",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kolache",
+      "https://en.wikipedia.org/wiki/Tex-Mex"
+    ]
+  },
+  {
+    "id": "united_states-chile-con-queso",
+    "name": "Chile con Queso",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "United States",
+    "state": "Texas",
+    "regions": [],
+    "description": "A warm, melted cheese dip mixed with chili peppers and tomatoes. It is a staple appetizer of Tex-Mex restaurants.",
+    "how_to_eat": "Scoop up with tortilla chips.",
+    "how_to_order": "Ask for 'queso' with chips at any Tex-Mex restaurant.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chile_con_queso",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chile_con_queso",
+      "https://en.wikipedia.org/wiki/Tex-Mex"
+    ]
+  },
+  {
+    "id": "united_states-mission-burrito",
+    "name": "Mission Burrito",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "United States",
+    "state": "California",
+    "regions": [
+      "San Francisco"
+    ],
+    "description": "An oversized flour tortilla burrito packed with rice, beans, meat, salsa and often cheese, sour cream and guacamole, wrapped in foil. It was born in the taquerias of San Francisco's Mission District.",
+    "how_to_eat": "Eat by hand, peeling the foil back as you go.",
+    "how_to_order": "Pick a meat such as carne asada or carnitas at Mission taquerias.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mission_burrito",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mission_burrito",
+      "https://en.wikipedia.org/wiki/California_cuisine"
+    ]
+  },
+  {
+    "id": "united_states-fish-taco",
+    "name": "Fish Taco",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "United States",
+    "state": "California",
+    "regions": [
+      "San Diego"
+    ],
+    "description": "Battered and fried or grilled white fish in a corn tortilla with shredded cabbage, crema and salsa. Popularized from Baja California, it is a San Diego signature.",
+    "how_to_eat": "Eat by hand with a squeeze of lime.",
+    "how_to_order": "Order at taco stands and beach shacks in San Diego.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Taco#Traditional_variations",
+      "https://en.wikipedia.org/wiki/California_cuisine"
+    ]
+  },
+  {
+    "id": "united_states-cioppino",
+    "name": "Cioppino",
+    "local_name": null,
+    "pronunciation": "chuh-PEE-noh",
+    "category": "meal",
+    "country": "United States",
+    "state": "California",
+    "regions": [
+      "San Francisco"
+    ],
+    "description": "A fish stew of Dungeness crab, clams, shrimp, mussels and fish in a tomato and wine broth. It was developed by Italian fishermen in San Francisco.",
+    "how_to_eat": "Eat from a bowl with sourdough bread to soak up the broth.",
+    "how_to_order": "Ask for 'cioppino' at seafood restaurants around San Francisco's waterfront.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "shellfish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cioppino",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cioppino",
+      "https://en.wikipedia.org/wiki/California_cuisine"
+    ]
+  },
+  {
+    "id": "united_states-sourdough",
+    "name": "San Francisco Sourdough",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "United States",
+    "state": "California",
+    "regions": [
+      "San Francisco"
+    ],
+    "description": "A tangy, crusty bread leavened with a wild yeast and bacteria starter. San Francisco has been known for it since the Gold Rush.",
+    "how_to_eat": "Eat on its own or as a bread bowl filled with clam chowder.",
+    "how_to_order": "Buy a loaf or a bread bowl at bakeries around Fisherman's Wharf.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sourdough",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sourdough",
+      "https://en.wikipedia.org/wiki/California_cuisine"
+    ]
+  },
+  {
+    "id": "united_states-french-dip",
+    "name": "French Dip",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "California",
+    "regions": [
+      "Los Angeles"
+    ],
+    "description": "Thinly sliced roast beef on a French roll, served with a cup of meat juices (au jus) for dipping. Two Los Angeles restaurants claim its invention.",
+    "how_to_eat": "Dip each bite into the jus.",
+    "how_to_order": "Ask for a 'French dip' at sandwich counters in Los Angeles.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/French_dip",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/French_dip",
+      "https://en.wikipedia.org/wiki/California_cuisine"
+    ]
+  },
+  {
+    "id": "united_states-cobb-salad",
+    "name": "Cobb Salad",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "California",
+    "regions": [
+      "Los Angeles"
+    ],
+    "description": "A chopped salad of lettuce, chicken, bacon, hard-boiled egg, avocado, tomato and blue cheese in rows. It was created in Hollywood in the 1930s.",
+    "how_to_eat": "Toss with vinaigrette and eat with a fork.",
+    "how_to_order": "Ask for a 'Cobb salad' at diners and cafes.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cobb_salad",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cobb_salad",
+      "https://en.wikipedia.org/wiki/California_cuisine"
+    ]
+  },
+  {
+    "id": "united_states-deep-dish-pizza",
+    "name": "Chicago Deep-Dish Pizza",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "The Midwest",
+    "regions": [
+      "Chicago"
+    ],
+    "description": "Pizza baked in a deep round pan with a tall buttery crust, layered with cheese and fillings and topped with chunky tomato sauce. It is Chicago's signature pizza.",
+    "how_to_eat": "Eat with a knife and fork; slices are heavy.",
+    "how_to_order": "Order a whole pie and expect a 45-minute bake time at Chicago pizzerias.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Deep-dish_pizza",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Deep-dish_pizza",
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Midwestern_United_States"
+    ]
+  },
+  {
+    "id": "united_states-chicago-hot-dog",
+    "name": "Chicago-Style Hot Dog",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "United States",
+    "state": "The Midwest",
+    "regions": [
+      "Chicago"
+    ],
+    "description": "An all-beef frankfurter in a poppy seed bun topped with yellow mustard, relish, onion, tomato, pickle spear, sport peppers and celery salt. Ketchup is famously not used.",
+    "how_to_eat": "Eat by hand; never ask for ketchup.",
+    "how_to_order": "Ask for a hot dog 'dragged through the garden' at Chicago hot dog stands.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chicago-style_hot_dog",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chicago-style_hot_dog",
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Midwestern_United_States"
+    ]
+  },
+  {
+    "id": "united_states-burnt-ends",
+    "name": "Burnt Ends",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "The Midwest",
+    "regions": [
+      "Kansas City"
+    ],
+    "description": "Crusty, fatty pieces cut from the point of a smoked beef brisket, glazed with barbecue sauce. They are a Kansas City barbecue specialty.",
+    "how_to_eat": "Eat by fork or on a sandwich with sauce.",
+    "how_to_order": "Order burnt ends at Kansas City barbecue joints; they often sell out early.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Burnt_ends",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Burnt_ends",
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Midwestern_United_States"
+    ]
+  },
+  {
+    "id": "united_states-cincinnati-chili",
+    "name": "Cincinnati Chili",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "The Midwest",
+    "regions": [
+      "Cincinnati"
+    ],
+    "description": "A thin meat sauce spiced with cinnamon, clove and cocoa, created by Greek immigrants. It is served over spaghetti or hot dogs with toppings.",
+    "how_to_eat": "Order it 'three-way' (spaghetti, chili, cheese), 'four-way' or 'five-way' (adding onions, beans).",
+    "how_to_order": "Ask for a 'three-way' at Cincinnati chili parlors.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cincinnati_chili",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cincinnati_chili",
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Midwestern_United_States"
+    ]
+  },
+  {
+    "id": "united_states-cheese-curds",
+    "name": "Cheese Curds",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "United States",
+    "state": "The Midwest",
+    "regions": [
+      "Wisconsin"
+    ],
+    "description": "Fresh, squeaky curds of young cheddar, eaten plain or battered and deep-fried. They are a Wisconsin dairy-country classic.",
+    "how_to_eat": "Eat fresh (they squeak) or fried with ranch dip.",
+    "how_to_order": "Look for fresh curds at dairies and fried curds at bars and fairs.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cheese_curd",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cheese_curd",
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Midwestern_United_States"
+    ]
+  },
+  {
+    "id": "united_states-detroit-pizza",
+    "name": "Detroit-Style Pizza",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "The Midwest",
+    "regions": [
+      "Detroit"
+    ],
+    "description": "A rectangular pizza baked in a steel pan with a thick, airy crust and crispy caramelized cheese edges, topped with stripes of sauce. It dates from 1946 in Detroit.",
+    "how_to_eat": "Eat by the square, prizing the corner pieces.",
+    "how_to_order": "Order a square pie at Detroit pizzerias.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Detroit-style_pizza",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Detroit-style_pizza",
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Midwestern_United_States"
+    ]
+  },
+  {
+    "id": "united_states-poke",
+    "name": "Poke",
+    "local_name": null,
+    "pronunciation": "POH-kay",
+    "category": "meal",
+    "country": "United States",
+    "state": "Hawaii",
+    "regions": [],
+    "description": "Cubes of raw fish, usually ahi tuna, seasoned with soy sauce, sesame oil, sea salt, seaweed and onion. It is a native Hawaiian dish and a staple across the islands.",
+    "how_to_eat": "Eat as a snack or over rice as a poke bowl.",
+    "how_to_order": "Order by the pound at grocery and fish market poke counters.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "soy",
+      "sesame",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Poke_(dish)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Poke_(dish)",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Hawaii"
+    ]
+  },
+  {
+    "id": "united_states-loco-moco",
+    "name": "Loco Moco",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "Hawaii",
+    "regions": [
+      "Hilo"
+    ],
+    "description": "White rice topped with a hamburger patty, a fried egg and brown gravy. It was created in Hilo on the Big Island.",
+    "how_to_eat": "Eat with a fork, breaking the egg yolk over everything.",
+    "how_to_order": "Ask for a 'loco moco' at diners and plate-lunch spots.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Loco_moco",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Loco_moco",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Hawaii"
+    ]
+  },
+  {
+    "id": "united_states-spam-musubi",
+    "name": "Spam Musubi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "United States",
+    "state": "Hawaii",
+    "regions": [],
+    "description": "A block of rice topped with grilled teriyaki-glazed Spam and wrapped in nori. It is a hugely popular grab-and-go snack across Hawaii.",
+    "how_to_eat": "Eat by hand.",
+    "how_to_order": "Buy at convenience stores and plate-lunch counters.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spam_musubi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Spam_musubi",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Hawaii"
+    ]
+  },
+  {
+    "id": "united_states-shave-ice",
+    "name": "Shave Ice",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United States",
+    "state": "Hawaii",
+    "regions": [],
+    "description": "Very finely shaved ice drenched in flavored syrups. It came to Hawaii with Japanese plantation workers.",
+    "how_to_eat": "Eat with a spoon before it melts.",
+    "how_to_order": "Pick two or three syrup flavors; add-ons like ice cream or condensed milk cost extra.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hawaiian_shave_ice",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hawaiian_shave_ice",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Hawaii"
+    ]
+  }
+]

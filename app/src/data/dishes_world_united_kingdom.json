@@ -1,0 +1,1291 @@
+[
+  {
+    "id": "united_kingdom-pie-and-mash",
+    "name": "Pie and Mash",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "London",
+    "regions": [
+      "London"
+    ],
+    "description": "A minced beef pie served with mashed potato and a green parsley sauce called liquor. It is the classic meal of London's traditional pie and mash shops, a working-class staple since the 19th century.",
+    "how_to_eat": "Eat with a fork and spoon, with plenty of liquor poured over and malt vinegar or chilli vinegar to taste.",
+    "how_to_order": "Order 'pie and mash with liquor' at an East End pie and mash shop.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pie_and_mash",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pie_and_mash",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-jellied-eels",
+    "name": "Jellied Eels",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "United Kingdom",
+    "state": "London",
+    "regions": [
+      "London"
+    ],
+    "description": "Chopped eels boiled in a spiced stock that sets into a jelly as it cools, served cold. A traditional East End food, sold for centuries at pie and mash shops and seaside stalls.",
+    "how_to_eat": "Eat cold with a sprinkle of chilli vinegar and white pepper.",
+    "how_to_order": "Ask for a pot of jellied eels at a pie and mash shop or an East End eel stall.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jellied_eels",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jellied_eels",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-fish-and-chips",
+    "name": "Fish and Chips",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "London",
+    "regions": [],
+    "description": "Battered fried white fish, usually cod or haddock, served with thick-cut chips. Britain's best-known takeaway, sold from 'chippies' across the country since the 1860s.",
+    "how_to_eat": "Season with salt and malt vinegar and eat with mushy peas or tartare sauce.",
+    "how_to_order": "Order 'cod and chips' or 'haddock and chips' at a fish and chip shop.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fish_and_chips",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fish_and_chips",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-full-english-breakfast",
+    "name": "Full English Breakfast",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "London",
+    "regions": [],
+    "description": "A cooked breakfast of bacon, sausages, eggs, baked beans, tomatoes and mushrooms, often with toast and black pudding. It is a British institution served in cafés and hotels.",
+    "how_to_eat": "Eat as a late, big breakfast with toast and a mug of tea.",
+    "how_to_order": "Ask for a 'full English' at any café ('caff') or pub serving breakfast.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Full_breakfast",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Full_breakfast",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-sunday-roast",
+    "name": "Sunday Roast",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "London",
+    "regions": [],
+    "description": "Roast meat, typically beef, lamb, chicken or pork, served with roast potatoes, vegetables, Yorkshire pudding and gravy. It is the traditional Sunday main meal and a pub favourite.",
+    "how_to_eat": "Pour gravy over everything; beef is traditionally paired with horseradish and Yorkshire pudding.",
+    "how_to_order": "Order the Sunday roast at a pub on Sunday lunchtime; booking ahead helps.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sunday_roast",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sunday_roast",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-eton-mess",
+    "name": "Eton Mess",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United Kingdom",
+    "state": "London",
+    "regions": [
+      "Eton"
+    ],
+    "description": "A dessert of strawberries, broken meringue and whipped cream mixed together. It is named after Eton College, where it is served at the annual cricket match against Harrow.",
+    "how_to_eat": "Eat chilled from a glass or bowl in summer.",
+    "how_to_order": "Look for it on summer dessert menus in pubs and restaurants.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eton_mess",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Eton_mess",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-cornish-pasty",
+    "name": "Cornish Pasty",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "United Kingdom",
+    "state": "South West England",
+    "regions": [
+      "Cornwall"
+    ],
+    "description": "A D-shaped pastry with a crimped edge filled with beef, potato, swede and onion, baked uncooked. 'Cornish pasty' is a Protected Geographical Indication and must be made in Cornwall to that recipe.",
+    "how_to_eat": "Eat by hand, holding the crimped crust.",
+    "how_to_order": "Buy one hot from a Cornish bakery or pasty shop.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pasty",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pasty",
+      "https://www.gov.uk/protected-food-drink-names/cornish-pasty",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-cream-tea",
+    "name": "Cream Tea",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United Kingdom",
+    "state": "South West England",
+    "regions": [
+      "Devon",
+      "Cornwall"
+    ],
+    "description": "Scones served with clotted cream and strawberry jam alongside a pot of tea. Devon and Cornwall both claim it and argue over whether cream or jam goes on first.",
+    "how_to_eat": "Split the scone; in Devon spread cream then jam, in Cornwall jam then cream.",
+    "how_to_order": "Ask for a 'cream tea' at a tearoom.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cream_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cream_tea",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-stargazy-pie",
+    "name": "Stargazy Pie",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "South West England",
+    "regions": [
+      "Mousehole"
+    ],
+    "description": "A Cornish pie of baked pilchards (sardines) with eggs and potato under a pastry crust, with the fish heads poking out to 'gaze at the stars'. It is tied to the village of Mousehole and Tom Bawcock's Eve on 23 December.",
+    "how_to_eat": null,
+    "how_to_order": "Look for it in Mousehole around Tom Bawcock's Eve; it is rarely on everyday menus.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stargazy_pie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Stargazy_pie",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-saffron-bun",
+    "name": "Saffron Bun",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United Kingdom",
+    "state": "South West England",
+    "regions": [
+      "Cornwall"
+    ],
+    "description": "A sweet yeasted bun coloured yellow and flavoured with saffron, studded with currants. It is a traditional Cornish teatime bake.",
+    "how_to_eat": "Eat split and buttered with tea.",
+    "how_to_order": "Buy from Cornish bakeries.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Saffron_bun",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Saffron_bun",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-scrumpy",
+    "name": "Scrumpy",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "United Kingdom",
+    "state": "South West England",
+    "regions": [
+      "Somerset"
+    ],
+    "description": "Rough, often cloudy farmhouse cider made from local apples. The West Country, especially Somerset, is famous for it.",
+    "how_to_eat": "Drink cool by the pint, carefully, as it is often strong.",
+    "how_to_order": "Ask for local scrumpy at West Country pubs or farm shops.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scrumpy",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Scrumpy",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-yorkshire-pudding",
+    "name": "Yorkshire Pudding",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "Northern England",
+    "regions": [
+      "Yorkshire"
+    ],
+    "description": "A baked batter of eggs, flour and milk that puffs up in hot beef dripping. Served with roast beef and gravy, it is the signature side of the Sunday roast.",
+    "how_to_eat": "Eat filled with gravy, as a starter in Yorkshire or alongside roast beef.",
+    "how_to_order": "Comes with a roast beef dinner; some pubs serve giant ones filled with stew.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yorkshire_pudding",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Yorkshire_pudding",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-lancashire-hotpot",
+    "name": "Lancashire Hotpot",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "Northern England",
+    "regions": [
+      "Lancashire"
+    ],
+    "description": "Lamb or mutton and onion slow-baked in a pot under a layer of sliced potatoes. It is the classic dish of Lancashire's industrial towns.",
+    "how_to_eat": "Eat with pickled red cabbage.",
+    "how_to_order": "Ask for hotpot at pubs in Lancashire.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lancashire_hotpot",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lancashire_hotpot",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-cumberland-sausage",
+    "name": "Cumberland Sausage",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "Northern England",
+    "regions": [
+      "Cumbria"
+    ],
+    "description": "A long, coiled, peppery pork sausage sold by length rather than in links. 'Traditional Cumberland sausage' is a Protected Geographical Indication for sausages made in Cumbria.",
+    "how_to_eat": "Eat grilled as a whole coil with mash and onion gravy.",
+    "how_to_order": "Look for it at Cumbrian butchers and pubs.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cumberland_sausage",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cumberland_sausage",
+      "https://en.wikipedia.org/wiki/List_of_United_Kingdom_food_and_drink_products_with_protected_status",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-eccles-cake",
+    "name": "Eccles Cake",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United Kingdom",
+    "state": "Northern England",
+    "regions": [
+      "Eccles",
+      "Manchester"
+    ],
+    "description": "A small round flaky pastry filled with currants and sugar. It is named after the town of Eccles near Manchester.",
+    "how_to_eat": "Eat with tea; in Lancashire it is sometimes paired with a slice of Lancashire cheese.",
+    "how_to_order": "Buy from bakeries in the North West.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eccles_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Eccles_cake",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-parkin",
+    "name": "Parkin",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United Kingdom",
+    "state": "Northern England",
+    "regions": [
+      "Yorkshire"
+    ],
+    "description": "A sticky gingerbread cake made with oatmeal and black treacle. It is traditionally eaten in Yorkshire and Lancashire around Bonfire Night (5 November).",
+    "how_to_eat": null,
+    "how_to_order": "Look for it at bakeries in autumn.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Parkin_(cake)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Parkin_(cake)",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-stottie-cake",
+    "name": "Stottie Cake",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "United Kingdom",
+    "state": "Northern England",
+    "regions": [
+      "Newcastle"
+    ],
+    "description": "A large, flat, dense round loaf from the North East. It is usually split and filled, classically with ham and pease pudding.",
+    "how_to_eat": "Eat as a big sandwich.",
+    "how_to_order": "Ask for a 'ham and pease pudding stottie' at bakeries in Newcastle.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stottie_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Stottie_cake",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-scouse",
+    "name": "Scouse",
+    "local_name": null,
+    "pronunciation": "skowss",
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "Northern England",
+    "regions": [
+      "Liverpool"
+    ],
+    "description": "A thick stew of lamb or beef with potatoes, carrots and onion. The dish gave Liverpool people their nickname, 'Scousers'.",
+    "how_to_eat": "Eat with pickled red cabbage or beetroot and crusty bread.",
+    "how_to_order": "Order it at cafés and pubs in Liverpool.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scouse_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Scouse_(food)",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-melton-mowbray-pork-pie",
+    "name": "Melton Mowbray Pork Pie",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "United Kingdom",
+    "state": "The Midlands",
+    "regions": [
+      "Melton Mowbray"
+    ],
+    "description": "A raised pie of chopped uncured pork in hot-water-crust pastry, with bowed sides and jelly inside. It has Protected Geographical Indication status for pies made around Melton Mowbray in Leicestershire.",
+    "how_to_eat": "Eat cold, often with English mustard or pickle.",
+    "how_to_order": "Buy from butchers and bakers in Melton Mowbray.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Melton_Mowbray_pork_pie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Melton_Mowbray_pork_pie",
+      "https://www.gov.uk/protected-food-drink-names/melton-mowbray-pork-pie",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-bakewell-pudding",
+    "name": "Bakewell Pudding",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United Kingdom",
+    "state": "The Midlands",
+    "regions": [
+      "Bakewell"
+    ],
+    "description": "A Derbyshire dessert of flaky pastry with a layer of jam under a filling of egg and almond paste. It comes from the town of Bakewell and is different from the iced Bakewell tart.",
+    "how_to_eat": "Eat warm with cream or custard.",
+    "how_to_order": "Buy from the pudding shops in Bakewell.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bakewell_pudding",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bakewell_pudding",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-balti",
+    "name": "Balti",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "The Midlands",
+    "regions": [
+      "Birmingham"
+    ],
+    "description": "A curry cooked quickly over high heat and served in the thin steel bowl it is cooked in. It was popularised in Birmingham's 'Balti Triangle' in the 1970s.",
+    "how_to_eat": "Eat straight from the bowl using naan bread.",
+    "how_to_order": "Order a chicken or lamb balti at a balti house in Birmingham.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Balti_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Balti_(food)",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-faggots-and-peas",
+    "name": "Faggots and Peas",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "The Midlands",
+    "regions": [
+      "Black Country"
+    ],
+    "description": "Meatballs of minced pork offal and breadcrumbs, served with mushy or garden peas and gravy. It is especially popular in the Black Country.",
+    "how_to_eat": "Eat with mash and gravy.",
+    "how_to_order": "Look for it at traditional pubs and cafés in the West Midlands.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Faggot_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Faggot_(food)",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-staffordshire-oatcake",
+    "name": "Staffordshire Oatcake",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "United Kingdom",
+    "state": "The Midlands",
+    "regions": [
+      "Stoke-on-Trent"
+    ],
+    "description": "A soft, savoury pancake made from oatmeal, flour and yeast. It is a breakfast staple of Stoke-on-Trent.",
+    "how_to_eat": "Eat rolled around cheese, bacon or sausage.",
+    "how_to_order": "Buy from oatcake shops in the Potteries.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Staffordshire_oatcake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Staffordshire_oatcake",
+      "https://en.wikipedia.org/wiki/English_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-haggis",
+    "name": "Haggis",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "regions": [],
+    "description": "A savoury pudding of sheep's heart, liver and lungs minced with oatmeal, onion and spices. Often called Scotland's national dish, it is eaten at Burns Night suppers.",
+    "how_to_eat": "Eat with 'neeps and tatties' (mashed swede and potato).",
+    "how_to_order": "Order 'haggis, neeps and tatties' at Scottish pubs.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Haggis",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Haggis",
+      "https://en.wikipedia.org/wiki/Scottish_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-cullen-skink",
+    "name": "Cullen Skink",
+    "local_name": null,
+    "pronunciation": "CULL-en skink",
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "regions": [
+      "Cullen"
+    ],
+    "description": "A thick soup of smoked haddock, potato and onion. It comes from the town of Cullen in Moray.",
+    "how_to_eat": "Eat with crusty bread.",
+    "how_to_order": "Look for it on pub and restaurant menus as a starter.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cullen_skink",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cullen_skink",
+      "https://en.wikipedia.org/wiki/Scottish_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-arbroath-smokie",
+    "name": "Arbroath Smokie",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "regions": [
+      "Arbroath"
+    ],
+    "description": "Haddock salted and smoked whole over hardwood fires. It is a speciality of Arbroath in Angus and has Protected Geographical Indication status.",
+    "how_to_eat": "Eat warm, pulled off the bone.",
+    "how_to_order": "Buy from smokehouses in Arbroath.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arbroath_smokie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Arbroath_smokie",
+      "https://en.wikipedia.org/wiki/List_of_United_Kingdom_food_and_drink_products_with_protected_status",
+      "https://en.wikipedia.org/wiki/Scottish_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-scotch-pie",
+    "name": "Scotch Pie",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "regions": [],
+    "description": "A small double-crust pie usually filled with minced mutton. It is a classic snack at football matches.",
+    "how_to_eat": "Eat hot by hand.",
+    "how_to_order": "Buy from bakers or at football grounds.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scotch_pie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Scotch_pie",
+      "https://en.wikipedia.org/wiki/Scottish_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-stornoway-black-pudding",
+    "name": "Stornoway Black Pudding",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "regions": [
+      "Stornoway"
+    ],
+    "description": "Blood pudding made with oatmeal and suet on the Isle of Lewis. It has Protected Geographical Indication status.",
+    "how_to_eat": "Eat sliced and fried, often in a cooked breakfast.",
+    "how_to_order": "Look for it on breakfast menus.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stornoway_black_pudding",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Stornoway_black_pudding",
+      "https://en.wikipedia.org/wiki/List_of_United_Kingdom_food_and_drink_products_with_protected_status",
+      "https://en.wikipedia.org/wiki/Scottish_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-cranachan",
+    "name": "Cranachan",
+    "local_name": null,
+    "pronunciation": "KRAN-uh-khun",
+    "category": "sweet",
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "regions": [],
+    "description": "A dessert of whipped cream, toasted oats, whisky, honey and raspberries. It began as a harvest celebration dish.",
+    "how_to_eat": null,
+    "how_to_order": "Look for it on Scottish dessert menus in summer.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cranachan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cranachan",
+      "https://en.wikipedia.org/wiki/Scottish_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-shortbread",
+    "name": "Shortbread",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "regions": [],
+    "description": "A crumbly biscuit made from sugar, butter and wheat flour. It is Scotland's best-known biscuit.",
+    "how_to_eat": "Eat with tea.",
+    "how_to_order": "Buy from bakeries or gift shops.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shortbread",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shortbread",
+      "https://en.wikipedia.org/wiki/Scottish_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-scotch-whisky",
+    "name": "Scotch Whisky",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "regions": [],
+    "description": "Malt or grain whisky made in Scotland and aged in oak casks for at least three years. 'Scotch whisky' is a protected geographical indication.",
+    "how_to_eat": "Sip neat or with a few drops of water.",
+    "how_to_order": "Ask for a single malt at a bar or tour a distillery.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scotch_whisky",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Scotch_whisky",
+      "https://en.wikipedia.org/wiki/List_of_United_Kingdom_food_and_drink_products_with_protected_status",
+      "https://en.wikipedia.org/wiki/Scottish_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-cawl",
+    "name": "Cawl",
+    "local_name": "Cawl",
+    "pronunciation": "kowl",
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "Wales",
+    "regions": [],
+    "description": "A broth of meat, usually lamb or beef, with leeks, potatoes and other vegetables. It is regarded as the national dish of Wales.",
+    "how_to_eat": "Eat with bread and cheese.",
+    "how_to_order": "Look for it in Welsh pubs, especially in winter.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cawl",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cawl",
+      "https://en.wikipedia.org/wiki/Welsh_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-welsh-rarebit",
+    "name": "Welsh Rarebit",
+    "local_name": "Caws pobi",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "United Kingdom",
+    "state": "Wales",
+    "regions": [],
+    "description": "Seasoned melted cheese, usually cheddar, often with ale, mustard and Worcestershire sauce, poured over toast and grilled. It is a classic Welsh savoury.",
+    "how_to_eat": "Eat hot.",
+    "how_to_order": "Look for it on café lunch menus.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "mustard",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Welsh_rarebit",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Welsh_rarebit",
+      "https://en.wikipedia.org/wiki/Welsh_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-laverbread",
+    "name": "Laverbread",
+    "local_name": "Bara lawr",
+    "pronunciation": "LAY-ver-bred",
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "Wales",
+    "regions": [
+      "Swansea"
+    ],
+    "description": "A purée of laver (porphyra) seaweed, slowly cooked for hours until dark and soft. 'Welsh laverbread' has Protected Designation of Origin status.",
+    "how_to_eat": "Eat fried with bacon and cockles for breakfast.",
+    "how_to_order": "Buy from markets in South Wales.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laverbread",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Laverbread",
+      "https://en.wikipedia.org/wiki/List_of_United_Kingdom_food_and_drink_products_with_protected_status",
+      "https://en.wikipedia.org/wiki/Welsh_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-welsh-cakes",
+    "name": "Welsh Cakes",
+    "local_name": "Pice ar y maen",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United Kingdom",
+    "state": "Wales",
+    "regions": [],
+    "description": "Small, round, spiced cakes with dried fruit, traditionally cooked on a bakestone. They are a teatime staple across Wales.",
+    "how_to_eat": "Eat warm dusted with sugar.",
+    "how_to_order": "Buy from bakeries and markets.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Welsh_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Welsh_cake",
+      "https://en.wikipedia.org/wiki/Welsh_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-bara-brith",
+    "name": "Bara Brith",
+    "local_name": "Bara brith",
+    "pronunciation": "BAH-rah breeth",
+    "category": "sweet",
+    "country": "United Kingdom",
+    "state": "Wales",
+    "regions": [],
+    "description": "A fruit loaf, 'speckled bread', made with dried fruit soaked in tea. It is usually served sliced and buttered at afternoon tea.",
+    "how_to_eat": "Eat sliced and buttered.",
+    "how_to_order": "Buy from bakeries and tearooms.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bara_brith",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bara_brith",
+      "https://en.wikipedia.org/wiki/Welsh_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-glamorgan-sausage",
+    "name": "Glamorgan Sausage",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "Wales",
+    "regions": [
+      "Glamorgan"
+    ],
+    "description": "A meatless sausage of cheese (usually Caerphilly) and leek or spring onion coated in breadcrumbs. It is a traditional Welsh vegetarian dish.",
+    "how_to_eat": "Eat fried with chutney.",
+    "how_to_order": "Look for it on Welsh menus.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Glamorgan_sausage",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Glamorgan_sausage",
+      "https://en.wikipedia.org/wiki/Welsh_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-ulster-fry",
+    "name": "Ulster Fry",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "regions": [],
+    "description": "Northern Ireland's cooked breakfast with bacon, sausages, egg, tomato and mushrooms, fried with soda farls and potato bread. The griddle breads set it apart from other full breakfasts.",
+    "how_to_eat": "Eat as a big breakfast.",
+    "how_to_order": "Ask for an 'Ulster fry' at cafés.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Full_breakfast",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Full_breakfast",
+      "https://en.wikipedia.org/wiki/Northern_Irish_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-soda-farl",
+    "name": "Soda Farl",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "regions": [],
+    "description": "A griddle bread leavened with baking soda, cut into quarters (farls). It is eaten plain, with butter and jam, or fried.",
+    "how_to_eat": "Eat with butter and jam or fried.",
+    "how_to_order": "Buy from bakeries.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Farl",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Farl",
+      "https://en.wikipedia.org/wiki/Northern_Irish_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-potato-bread",
+    "name": "Potato Bread",
+    "local_name": "Fadge",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "regions": [],
+    "description": "A flat griddle bread of potato, flour and buttermilk. It is an essential part of the Ulster fry.",
+    "how_to_eat": "Eat fried.",
+    "how_to_order": "Buy from bakeries or supermarkets.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Potato_bread",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Potato_bread",
+      "https://en.wikipedia.org/wiki/Northern_Irish_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-champ",
+    "name": "Champ",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "regions": [],
+    "description": "Potatoes mashed with milk and chopped scallions. It is a traditional side dish in Northern Ireland.",
+    "how_to_eat": "Eat with butter in the centre.",
+    "how_to_order": "Look for it as a side in pubs.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Champ_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Champ_(food)",
+      "https://en.wikipedia.org/wiki/Northern_Irish_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-yellowman",
+    "name": "Yellowman",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "regions": [],
+    "description": "A crunchy, golden, honeycomb-like toffee. It is sold at sweetshops, fairs and markets.",
+    "how_to_eat": "Eat broken into chunks.",
+    "how_to_order": "Buy at fairs and sweet shops.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yellowman_(candy)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Yellowman_(candy)",
+      "https://en.wikipedia.org/wiki/Northern_Irish_cuisine"
+    ]
+  },
+  {
+    "id": "united_kingdom-irish-whiskey",
+    "name": "Irish Whiskey",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "regions": [
+      "Bushmills"
+    ],
+    "description": "Whiskey distilled on the island of Ireland, including at Bushmills in County Antrim. 'Irish whiskey' is a protected geographical indication.",
+    "how_to_eat": "Sip neat or with water.",
+    "how_to_order": "Ask for a Northern Irish whiskey at a pub.",
+    "typical_price": null,
+    "currency": "GBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Irish_whiskey",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Irish_whiskey",
+      "https://en.wikipedia.org/wiki/List_of_United_Kingdom_food_and_drink_products_with_protected_status",
+      "https://en.wikipedia.org/wiki/Northern_Irish_cuisine"
+    ]
+  }
+]

@@ -1,0 +1,1358 @@
+[
+  {
+    "id": "indonesia-rendang",
+    "name": "Rendang",
+    "local_name": null,
+    "pronunciation": "ren-DUNG",
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Sumatra",
+    "regions": [
+      "Padang"
+    ],
+    "description": "Beef slow-cooked for hours in coconut milk and a spice paste of chilli, ginger, galangal, turmeric and lemongrass until dry and dark. It is the best-known dish of the Minangkabau of West Sumatra.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Order it at any Padang restaurant (rumah makan Padang).",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rendang",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rendang",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-nasi-padang",
+    "name": "Nasi Padang",
+    "local_name": null,
+    "pronunciation": "NAH-see PAH-dung",
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Sumatra",
+    "regions": [
+      "Padang"
+    ],
+    "description": "Steamed rice served with many small pre-cooked Minangkabau dishes such as rendang, gulai curries, fried chicken and sambal. Padang restaurants are found all over Indonesia.",
+    "how_to_eat": "In 'hidang' style many dishes are put on the table and you pay only for what you eat.",
+    "how_to_order": "Go to a rumah makan Padang and point at the dishes you want.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nasi_padang",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nasi_padang",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-sate-padang",
+    "name": "Sate Padang",
+    "local_name": null,
+    "pronunciation": "SAH-teh PAH-dung",
+    "category": "street_food",
+    "country": "Indonesia",
+    "state": "Sumatra",
+    "regions": [
+      "Padang"
+    ],
+    "description": "Beef or offal skewers served with a thick yellow or red curry-spiced sauce thickened with rice flour, with ketupat rice cakes. It is the West Sumatran style of satay.",
+    "how_to_eat": null,
+    "how_to_order": "Buy from sate Padang carts, usually in the evening.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sate_padang",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sate_padang",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-dendeng-balado",
+    "name": "Dendeng Balado",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Sumatra",
+    "regions": [
+      "Padang"
+    ],
+    "description": "Thin slices of beef dried and fried until crisp, then coated in a chilli (balado) sauce. It is a Minangkabau favourite.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": "Ask for it at Padang restaurants.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dendeng",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dendeng",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-mie-aceh",
+    "name": "Mie Aceh",
+    "local_name": null,
+    "pronunciation": "mee AH-cheh",
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Sumatra",
+    "regions": [
+      "Banda Aceh"
+    ],
+    "description": "Thick yellow noodles cooked in a spicy curry-like sauce with beef, goat or seafood. It is the signature noodle dish of Aceh.",
+    "how_to_eat": null,
+    "how_to_order": "Order fried (goreng) or soupy (kuah) at mie Aceh stalls.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "gluten",
+      "egg",
+      "shellfish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mie_aceh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mie_aceh",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-pempek",
+    "name": "Pempek",
+    "local_name": null,
+    "pronunciation": "PEM-pek",
+    "category": "snack",
+    "country": "Indonesia",
+    "state": "Sumatra",
+    "regions": [
+      "Palembang"
+    ],
+    "description": "Fish and tapioca cakes, boiled then fried, served with a sweet-sour dark vinegar sauce (cuko). It is the signature food of Palembang.",
+    "how_to_eat": "Dip in the cuko sauce or pour it over.",
+    "how_to_order": "Ask for 'pempek kapal selam' (with egg inside) at pempek shops.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pempek",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pempek",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-bika-ambon",
+    "name": "Bika Ambon",
+    "local_name": null,
+    "pronunciation": "BEE-kah AHM-bon",
+    "category": "sweet",
+    "country": "Indonesia",
+    "state": "Sumatra",
+    "regions": [
+      "Medan"
+    ],
+    "description": "A chewy, honeycomb-textured cake made from tapioca flour, eggs, sugar and coconut milk, flavoured with pandan and lime leaves. Despite the name, it is a speciality of Medan.",
+    "how_to_eat": null,
+    "how_to_order": "Buy boxes from bika ambon shops in Medan.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bika_ambon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bika_ambon",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-teh-talua",
+    "name": "Teh Talua",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Indonesia",
+    "state": "Sumatra",
+    "regions": [],
+    "description": "Hot tea whisked with raw egg yolk, sugar and calamansi lime into a frothy drink. It is a traditional Minangkabau drink from West Sumatra.",
+    "how_to_eat": null,
+    "how_to_order": "Order at West Sumatran coffee shops.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Teh_talua",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Teh_talua",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-nasi-goreng",
+    "name": "Nasi Goreng",
+    "local_name": null,
+    "pronunciation": "NAH-see GOH-reng",
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Jakarta",
+    "regions": [],
+    "description": "Rice fried with sweet soy sauce (kecap manis), shallots, garlic, chilli and shrimp paste, often topped with a fried egg. It is often called Indonesia's national dish.",
+    "how_to_eat": "Eat with prawn crackers and pickles on the side.",
+    "how_to_order": "Order at street carts at night; say 'pedas' for spicy.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy",
+      "egg",
+      "shellfish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nasi_goreng",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nasi_goreng",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-soto-betawi",
+    "name": "Soto Betawi",
+    "local_name": null,
+    "pronunciation": "SOH-toh beh-TAH-wee",
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Jakarta",
+    "regions": [],
+    "description": "Beef and offal soup in a rich broth of coconut milk or milk, with tomato, potato and fried shallots. It is the signature soup of Jakarta's Betawi people.",
+    "how_to_eat": "Eat with rice and a squeeze of lime.",
+    "how_to_order": "Order at Betawi eateries and soto stalls.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Soto_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Soto_(food)",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-kerak-telor",
+    "name": "Kerak Telor",
+    "local_name": null,
+    "pronunciation": "keh-RAK teh-LOR",
+    "category": "street_food",
+    "country": "Indonesia",
+    "state": "Jakarta",
+    "regions": [],
+    "description": "A spicy omelette made with glutinous rice, egg, dried shrimp and fried shallots, cooked on a charcoal griddle. It is a traditional Betawi street food.",
+    "how_to_eat": null,
+    "how_to_order": "Buy it from street vendors, especially at the Jakarta Fair and Monas area.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kerak_telor",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kerak_telor",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-gado-gado",
+    "name": "Gado-gado",
+    "local_name": null,
+    "pronunciation": "GAH-doh GAH-doh",
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Jakarta",
+    "regions": [],
+    "description": "Blanched vegetables, boiled egg, tofu, tempeh and rice cake dressed in peanut sauce and topped with crackers. It is one of Indonesia's best-known dishes, strongly associated with Betawi cuisine.",
+    "how_to_eat": "Mix the peanut sauce through everything.",
+    "how_to_order": "Order at warungs and street stalls; it is made fresh to order.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "peanuts",
+      "egg",
+      "soy",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gado-gado",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gado-gado",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-ketoprak",
+    "name": "Ketoprak",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Indonesia",
+    "state": "Jakarta",
+    "regions": [],
+    "description": "Tofu, rice cake (lontong), rice vermicelli and bean sprouts covered in peanut sauce with sweet soy sauce and crackers. It is a Jakarta street food staple.",
+    "how_to_eat": null,
+    "how_to_order": "Buy from ketoprak carts.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "peanuts",
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ketoprak",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ketoprak",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-nasi-uduk",
+    "name": "Nasi Uduk",
+    "local_name": null,
+    "pronunciation": "NAH-see OO-dook",
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Jakarta",
+    "regions": [],
+    "description": "Rice cooked in coconut milk with lemongrass and bay leaves, served with fried chicken, tempeh, omelette and sambal. It is a Betawi breakfast favourite.",
+    "how_to_eat": null,
+    "how_to_order": "Buy it from morning or night warungs.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nasi_uduk",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nasi_uduk",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-batagor",
+    "name": "Batagor",
+    "local_name": null,
+    "pronunciation": "BAH-tah-gor",
+    "category": "street_food",
+    "country": "Indonesia",
+    "state": "West Java",
+    "regions": [
+      "Bandung"
+    ],
+    "description": "Fried fish dumplings and tofu served with peanut sauce, sweet soy sauce and lime. Its name comes from 'bakso tahu goreng' and it is a Bandung speciality.",
+    "how_to_eat": null,
+    "how_to_order": "Buy from batagor carts and shops in Bandung.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "soy",
+      "peanuts",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Batagor",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Batagor",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-nasi-timbel",
+    "name": "Nasi Timbel",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "West Java",
+    "regions": [],
+    "description": "Rice wrapped and steamed in banana leaf, served with fried chicken, salted fish, tofu, tempeh, fresh vegetables and sambal. It is a classic Sundanese meal.",
+    "how_to_eat": null,
+    "how_to_order": "Order at Sundanese restaurants.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nasi_timbel",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nasi_timbel",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-karedok",
+    "name": "Karedok",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "West Java",
+    "regions": [],
+    "description": "A salad of raw vegetables such as cucumber, bean sprouts, cabbage and long beans dressed in peanut sauce. It is the raw Sundanese counterpart of gado-gado.",
+    "how_to_eat": null,
+    "how_to_order": "Order at Sundanese restaurants and warungs.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "peanuts",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Karedok",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Karedok",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-surabi",
+    "name": "Surabi",
+    "local_name": null,
+    "pronunciation": "soo-RAH-bee",
+    "category": "snack",
+    "country": "Indonesia",
+    "state": "West Java",
+    "regions": [
+      "Bandung"
+    ],
+    "description": "A pancake made from rice flour and coconut milk, cooked in a clay pan, with savoury toppings like oncom or sweet ones like kinca palm sugar sauce. It is a traditional Sundanese snack.",
+    "how_to_eat": null,
+    "how_to_order": "Buy from surabi stalls in Bandung.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Serabi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Serabi",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-bajigur",
+    "name": "Bajigur",
+    "local_name": null,
+    "pronunciation": "BAH-jee-gur",
+    "category": "drink",
+    "country": "Indonesia",
+    "state": "West Java",
+    "regions": [],
+    "description": "A hot drink of coconut milk, palm sugar and ginger, sometimes with coffee. It is a Sundanese drink for cool evenings in the West Java highlands.",
+    "how_to_eat": null,
+    "how_to_order": "Buy from street vendors in the evening.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bajigur",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bajigur",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-seblak",
+    "name": "Seblak",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Indonesia",
+    "state": "West Java",
+    "regions": [
+      "Bandung"
+    ],
+    "description": "Wet crackers cooked in a spicy, savoury sauce with kencur, often with egg, vegetables and other toppings. It is a popular Bandung street food.",
+    "how_to_eat": null,
+    "how_to_order": "Choose your toppings and spice level at seblak stalls.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Seblak",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Seblak",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-gudeg",
+    "name": "Gudeg",
+    "local_name": null,
+    "pronunciation": "GOO-deg",
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Central Java & Yogyakarta",
+    "regions": [
+      "Yogyakarta"
+    ],
+    "description": "Young jackfruit stewed for hours with palm sugar, coconut milk and spices, served with rice, chicken, egg and spicy cow-skin stew. It is the signature dish of Yogyakarta.",
+    "how_to_eat": null,
+    "how_to_order": "Order at gudeg eateries; ask for 'gudeg kering' (dry) or 'basah' (wet).",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gudeg",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gudeg",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-nasi-liwet",
+    "name": "Nasi Liwet",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Central Java & Yogyakarta",
+    "regions": [
+      "Surakarta"
+    ],
+    "description": "Rice cooked in coconut milk and chicken broth, served with chicken, egg and chayote stew. It is the signature dish of Solo (Surakarta).",
+    "how_to_eat": null,
+    "how_to_order": "Buy from nasi liwet vendors in Solo, especially at night.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nasi_liwet",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nasi_liwet",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-lumpia-semarang",
+    "name": "Lumpia Semarang",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Indonesia",
+    "state": "Central Java & Yogyakarta",
+    "regions": [
+      "Semarang"
+    ],
+    "description": "Spring rolls filled with bamboo shoots, egg and chicken or prawns, served fried or fresh with a sweet sauce. It is the iconic snack of Semarang, reflecting Chinese-Javanese heritage.",
+    "how_to_eat": null,
+    "how_to_order": "Buy from lumpia shops in Semarang.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lumpia",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lumpia",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-tempeh-mendoan",
+    "name": "Tempeh Mendoan",
+    "local_name": null,
+    "pronunciation": "men-DOH-an",
+    "category": "snack",
+    "country": "Indonesia",
+    "state": "Central Java & Yogyakarta",
+    "regions": [
+      "Purwokerto"
+    ],
+    "description": "Thin slices of tempeh dipped in a spiced flour batter with spring onions and briefly fried so they stay soft. It comes from the Banyumas area of Central Java.",
+    "how_to_eat": "Eat hot with sweet soy sauce and green chillies.",
+    "how_to_order": "Buy at warungs and gorengan stalls.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mendoan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mendoan",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-bakpia-pathok",
+    "name": "Bakpia Pathok",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Indonesia",
+    "state": "Central Java & Yogyakarta",
+    "regions": [
+      "Yogyakarta"
+    ],
+    "description": "Small round pastries filled with sweet mung bean paste. It is Yogyakarta's best-known souvenir food.",
+    "how_to_eat": null,
+    "how_to_order": "Buy boxes in the Pathok area of Yogyakarta.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bakpia_pathok",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bakpia_pathok",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-wedang-ronde",
+    "name": "Wedang Ronde",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Indonesia",
+    "state": "Central Java & Yogyakarta",
+    "regions": [
+      "Yogyakarta"
+    ],
+    "description": "Glutinous rice balls, often filled with crushed peanuts and sugar, served in a lightly sweet ginger broth boiled with pandan. It is the Indonesian version of tangyuan, popular in cool weather.",
+    "how_to_eat": null,
+    "how_to_order": "Buy from evening street vendors.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tangyuan",
+      "https://en.wikipedia.org/wiki/Javanese_cuisine",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-rawon",
+    "name": "Rawon",
+    "local_name": null,
+    "pronunciation": "RAH-won",
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "East Java",
+    "regions": [
+      "Surabaya"
+    ],
+    "description": "A black beef soup coloured and flavoured by keluak nuts, with garlic, shallots, chilli and turmeric. It is a signature East Javanese dish.",
+    "how_to_eat": "Eat with rice, bean sprouts, salted egg and sambal.",
+    "how_to_order": "Order at rawon eateries in Surabaya.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rawon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rawon",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-rujak-cingur",
+    "name": "Rujak Cingur",
+    "local_name": null,
+    "pronunciation": "ROO-jak CHING-oor",
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "East Java",
+    "regions": [
+      "Surabaya"
+    ],
+    "description": "A salad of marinated cow's snout (cingur) with boiled vegetables, fruit, tofu and tempeh in a dark peanut and fermented shrimp paste (petis) sauce, served with shrimp crackers. It is a Surabaya speciality.",
+    "how_to_eat": null,
+    "how_to_order": "Order at rujak cingur stalls in Surabaya.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "peanuts",
+      "shellfish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Javanese_cuisine",
+      "https://en.wikipedia.org/wiki/Rojak",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-sate-madura",
+    "name": "Sate Madura",
+    "local_name": null,
+    "pronunciation": "SAH-teh mah-DOO-rah",
+    "category": "street_food",
+    "country": "Indonesia",
+    "state": "East Java",
+    "regions": [
+      "Madura"
+    ],
+    "description": "Chicken or goat satay grilled over charcoal and served with a peanut and sweet soy sauce. It comes from Madura island and is sold by Madurese vendors all over Indonesia.",
+    "how_to_eat": null,
+    "how_to_order": "Buy from sate carts, usually in the evening.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "peanuts",
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Satay",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Satay",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-bakso-malang",
+    "name": "Bakso Malang",
+    "local_name": null,
+    "pronunciation": "BAHK-soh mah-LANG",
+    "category": "street_food",
+    "country": "Indonesia",
+    "state": "East Java",
+    "regions": [
+      "Malang"
+    ],
+    "description": "Meatball soup with beef meatballs, fried and steamed dumplings, tofu and noodles. Malang's version is famous for its many fried and stuffed extras.",
+    "how_to_eat": null,
+    "how_to_order": "Pick your items at bakso carts and shops.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bakso",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bakso",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-nasi-pecel",
+    "name": "Nasi Pecel",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "East Java",
+    "regions": [
+      "Madiun"
+    ],
+    "description": "Rice with boiled vegetables covered in a spicy peanut sauce, served with peanut crackers. Madiun is famous for it.",
+    "how_to_eat": null,
+    "how_to_order": "Order at warungs, often for breakfast.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pecel",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pecel",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-lontong-balap",
+    "name": "Lontong Balap",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Indonesia",
+    "state": "East Java",
+    "regions": [
+      "Surabaya"
+    ],
+    "description": "Rice cakes with bean sprouts, fried tofu and lentho (bean fritters), with fried shallots and sweet soy sauce. It is a classic Surabaya street food.",
+    "how_to_eat": null,
+    "how_to_order": "Buy from lontong balap vendors in Surabaya.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lontong_balap",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lontong_balap",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-babi-guling",
+    "name": "Babi Guling",
+    "local_name": null,
+    "pronunciation": "BAH-bee GOO-ling",
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Bali & Nusa Tenggara",
+    "regions": [
+      "Bali"
+    ],
+    "description": "Whole suckling pig stuffed with a turmeric, chilli and lemongrass spice paste and roasted on a spit. It is Bali's most famous dish.",
+    "how_to_eat": "Eat with rice, crackling, lawar and sambal.",
+    "how_to_order": "Order a plate at babi guling warungs, usually at lunch.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Babi_panggang",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Babi_panggang",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-ayam-betutu",
+    "name": "Ayam Betutu",
+    "local_name": null,
+    "pronunciation": "AH-yam beh-TOO-too",
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Bali & Nusa Tenggara",
+    "regions": [
+      "Bali"
+    ],
+    "description": "Whole chicken or duck stuffed with spices, wrapped in banana leaves and slow-cooked or steamed for hours. It is a traditional Balinese ceremonial dish.",
+    "how_to_eat": "Eat with rice and plecing kangkung.",
+    "how_to_order": "Order at Balinese restaurants.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Betutu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Betutu",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-sate-lilit",
+    "name": "Sate Lilit",
+    "local_name": null,
+    "pronunciation": "SAH-teh LEE-lit",
+    "category": "street_food",
+    "country": "Indonesia",
+    "state": "Bali & Nusa Tenggara",
+    "regions": [
+      "Bali"
+    ],
+    "description": "Minced fish, chicken or pork mixed with grated coconut, lime leaves and spices, wrapped around lemongrass sticks and grilled. It is a Balinese satay.",
+    "how_to_eat": null,
+    "how_to_order": "Order at Balinese warungs.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sate_lilit",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sate_lilit",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-lawar",
+    "name": "Lawar",
+    "local_name": null,
+    "pronunciation": "LAH-war",
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Bali & Nusa Tenggara",
+    "regions": [
+      "Bali"
+    ],
+    "description": "A mix of chopped meat, vegetables, grated coconut and spices, sometimes with blood. It is a traditional Balinese dish served at ceremonies and with babi guling.",
+    "how_to_eat": null,
+    "how_to_order": "Get it as part of a babi guling plate.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lawar",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lawar",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-ayam-taliwang",
+    "name": "Ayam Taliwang",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Bali & Nusa Tenggara",
+    "regions": [
+      "Lombok"
+    ],
+    "description": "Chicken grilled or fried with a spicy paste of red chilli, garlic and shrimp paste. It comes from Lombok.",
+    "how_to_eat": "Eat with rice and plecing kangkung.",
+    "how_to_order": "Order at ayam taliwang restaurants in Mataram.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ayam_Taliwang",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ayam_Taliwang",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-plecing-kangkung",
+    "name": "Plecing Kangkung",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Bali & Nusa Tenggara",
+    "regions": [
+      "Lombok"
+    ],
+    "description": "Blanched water spinach topped with a spicy tomato, chilli and shrimp-paste sambal. It is a Lombok side dish also popular in Bali.",
+    "how_to_eat": null,
+    "how_to_order": "Order as a side with ayam taliwang.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Plecing_kangkung",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Plecing_kangkung",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-coto-makassar",
+    "name": "Coto Makassar",
+    "local_name": null,
+    "pronunciation": "CHO-toh mah-KAH-sar",
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Sulawesi",
+    "regions": [
+      "Makassar"
+    ],
+    "description": "A beef and offal soup thickened with ground peanuts and spices. It is the signature dish of Makassar in South Sulawesi.",
+    "how_to_eat": "Eat with ketupat rice cakes.",
+    "how_to_order": "Order at coto eateries in Makassar, usually for breakfast.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Coto_makassar",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Coto_makassar",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-sop-konro",
+    "name": "Sop Konro",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Sulawesi",
+    "regions": [
+      "Makassar"
+    ],
+    "description": "A beef rib soup with a dark broth coloured by keluak nuts and spices. It comes from Makassar.",
+    "how_to_eat": null,
+    "how_to_order": "Order at konro restaurants in Makassar; 'konro bakar' is the grilled version.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Konro",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Konro",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-pisang-epe",
+    "name": "Pisang Epe",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Indonesia",
+    "state": "Sulawesi",
+    "regions": [
+      "Makassar"
+    ],
+    "description": "Bananas pressed flat, grilled and covered with palm sugar sauce. It is a Makassar street snack sold along Losari Beach.",
+    "how_to_eat": null,
+    "how_to_order": "Buy from vendors along Losari Beach in the evening.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Makassar_cuisine",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-es-pisang-ijo",
+    "name": "Es Pisang Ijo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Indonesia",
+    "state": "Sulawesi",
+    "regions": [
+      "Makassar"
+    ],
+    "description": "Banana wrapped in green-coloured flour dough, served with coconut milk and syrup, sometimes iced. It is a Makassar dessert.",
+    "how_to_eat": null,
+    "how_to_order": "Order at Makassar dessert stalls.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Makassar_cuisine",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-tinutuan",
+    "name": "Tinutuan",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Sulawesi",
+    "regions": [
+      "Manado"
+    ],
+    "description": "A rice porridge cooked with pumpkin, corn, cassava and leafy greens, usually served with salted fish and chilli sambal. It is Manado's breakfast dish.",
+    "how_to_eat": null,
+    "how_to_order": "Order at Manado breakfast stalls.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tinutuan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tinutuan",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-papeda",
+    "name": "Papeda",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Maluku & Papua",
+    "regions": [],
+    "description": "A sticky sago congee that is a staple food of Maluku and Papua. It is usually eaten with yellow fish soup.",
+    "how_to_eat": "Twirl it with chopsticks or slurp it from the plate with the fish soup.",
+    "how_to_order": "Look for it at Maluku and Papuan restaurants.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Papeda_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Papeda_(food)",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-ikan-kuah-kuning",
+    "name": "Ikan Kuah Kuning",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Maluku & Papua",
+    "regions": [],
+    "description": "Fish (often tuna or mackerel) in a yellow turmeric broth with lime, chilli and lemongrass. It is the classic partner of papeda in eastern Indonesia.",
+    "how_to_eat": null,
+    "how_to_order": "Order together with papeda.",
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Papeda_(food)",
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  },
+  {
+    "id": "indonesia-bakar-batu",
+    "name": "Bakar Batu",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Maluku & Papua",
+    "regions": [],
+    "description": "Pork, sweet potatoes and vegetables cooked in a pit over hot stones. It is a communal Papuan cooking ritual for celebrations.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Indonesian_cuisine"
+    ]
+  }
+]

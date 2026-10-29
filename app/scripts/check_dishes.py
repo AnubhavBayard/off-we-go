@@ -1,10 +1,10 @@
-# Validates app/src/data/dishes_*.json. Run: python3 scripts/check_dishes.py
+# Validates app/src/data/dishes_*.json (India: dishes_<state>.json, other countries: dishes_world_<country>.json). Run: python3 scripts/check_dishes.py
 import glob, json, sys
 
 CATS = {"sweet", "street_food", "meal", "pitha", "temple_food", "snack", "drink"}
 ALLERGENS = {"dairy", "gluten", "nuts", "peanuts", "sesame", "shellfish", "fish", "egg", "soy", "mustard"}
-KEYS = {"id", "name", "local_name", "pronunciation", "category", "state", "regions", "description", "how_to_eat",
-        "how_to_order", "typical_price_inr", "diet", "jain", "vegan", "spice", "allergens", "gi_tag",
+KEYS = {"id", "name", "local_name", "pronunciation", "category", "country", "state", "regions", "description", "how_to_eat",
+        "how_to_order", "typical_price", "currency", "diet", "jain", "vegan", "spice", "allergens", "gi_tag",
         "wikipedia_url", "source_urls"}
 
 def check(dishes, fname):
@@ -19,7 +19,8 @@ def check(dishes, fname):
         if d["diet"] != "veg" and (d["jain"] or d["vegan"]): errs.append(f"{tag} non-veg marked jain/vegan")
         if d["vegan"] and "dairy" in d["allergens"]: errs.append(f"{tag} vegan with dairy")
         if not d["source_urls"]: errs.append(f"{tag} no sources")
-        if not isinstance(d["regions"], list) or not d["state"]: errs.append(f"{tag} bad state/regions")
+        if not isinstance(d["regions"], list) or not d["state"] or not d["country"]: errs.append(f"{tag} bad country/state/regions")
+        if not (isinstance(d["currency"], str) and len(d["currency"]) == 3 and d["currency"].isupper()): errs.append(f"{tag} bad currency {d['currency']}")
     return errs
 
 if __name__ == "__main__":

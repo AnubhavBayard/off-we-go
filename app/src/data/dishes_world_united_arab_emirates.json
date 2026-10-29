@@ -1,0 +1,383 @@
+[
+  {
+    "id": "united_arab_emirates-machboos",
+    "name": "Machboos",
+    "local_name": "مچبوس",
+    "pronunciation": "match-BOOS",
+    "category": "meal",
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi",
+    "regions": [],
+    "description": "Rice cooked in a spiced broth with chicken, lamb or fish (hammour or kingfish) and loomi (dried lime). It is the best-known Emirati dish, often compared to biryani.",
+    "how_to_eat": "Eat with the meat on top of the rice, ideally shared from one platter.",
+    "how_to_order": "Ask for 'machboos' with chicken, lamb or fish at Emirati restaurants.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kabsa",
+    "source_urls": [
+      "https://visitabudhabi.ae/en/plan-your-trip/article-hub/emirati-cuisine-the-dishes-to-try-and-where-to-try-them",
+      "https://en.wikipedia.org/wiki/Kabsa",
+      "https://en.wikipedia.org/wiki/Emirati_cuisine"
+    ]
+  },
+  {
+    "id": "united_arab_emirates-harees",
+    "name": "Harees",
+    "local_name": "هريس",
+    "pronunciation": "ha-REES",
+    "category": "meal",
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi",
+    "regions": [],
+    "description": "Wheat and meat slow-cooked for hours into a smooth porridge, topped with ghee. It is most common during Ramadan.",
+    "how_to_eat": "Eat with a spoon while hot.",
+    "how_to_order": "Ask for 'harees' at Emirati restaurants, especially during Ramadan.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Harees",
+    "source_urls": [
+      "https://visitabudhabi.ae/en/plan-your-trip/article-hub/emirati-cuisine-the-dishes-to-try-and-where-to-try-them",
+      "https://en.wikipedia.org/wiki/Harees"
+    ]
+  },
+  {
+    "id": "united_arab_emirates-thareed",
+    "name": "Thareed",
+    "local_name": "ثريد",
+    "pronunciation": "tha-REED",
+    "category": "meal",
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi",
+    "regions": [],
+    "description": "Lamb or chicken stewed with vegetables in spiced broth and poured over layers of thin rigag bread. It is shared from one big dish at weddings, Eid and iftar.",
+    "how_to_eat": "Eat from the shared dish, scooping the soaked bread with the stew.",
+    "how_to_order": "Ask for 'thareed' at Emirati restaurants, mainly during Ramadan.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tharid",
+    "source_urls": [
+      "https://visitabudhabi.ae/en/plan-your-trip/article-hub/emirati-cuisine-the-dishes-to-try-and-where-to-try-them",
+      "https://whatson.ae/2025/08/a-to-z-food-guide-iconic-foods-in-uae-you-have-to-try/",
+      "https://en.wikipedia.org/wiki/Tharid"
+    ]
+  },
+  {
+    "id": "united_arab_emirates-ghuzi",
+    "name": "Ghuzi",
+    "local_name": "قوزي",
+    "pronunciation": "GHOO-zee",
+    "category": "meal",
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi",
+    "regions": [],
+    "description": "A whole lamb slow-roasted and served on rice with nuts, raisins and vegetables. It is a feast dish found across the Gulf.",
+    "how_to_eat": "Share from the platter, pulling the lamb off the bone.",
+    "how_to_order": "Order 'ghuzi' at Emirati restaurants; it is usually for groups.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Quzi",
+    "source_urls": [
+      "https://whatson.ae/2025/08/a-to-z-food-guide-iconic-foods-in-uae-you-have-to-try/",
+      "https://en.wikipedia.org/wiki/Quzi"
+    ]
+  },
+  {
+    "id": "united_arab_emirates-luqaimat",
+    "name": "Luqaimat",
+    "local_name": null,
+    "pronunciation": "loo-gai-MAT",
+    "category": "sweet",
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi",
+    "regions": [],
+    "description": "Small dough balls fried crisp outside and soft inside, drizzled with date syrup and sprinkled with sesame. It is the most popular traditional Emirati dessert, especially in Ramadan.",
+    "how_to_eat": "Eat hot, with Arabic coffee.",
+    "how_to_order": "Buy a portion from Emirati restaurants or the stalls at Global Village.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lokma",
+    "source_urls": [
+      "https://visitabudhabi.ae/en/plan-your-trip/article-hub/emirati-cuisine-the-dishes-to-try-and-where-to-try-them",
+      "https://en.wikipedia.org/wiki/Emirati_cuisine",
+      "https://whatson.ae/2025/08/a-to-z-food-guide-iconic-foods-in-uae-you-have-to-try/"
+    ]
+  },
+  {
+    "id": "united_arab_emirates-balaleet",
+    "name": "Balaleet",
+    "local_name": "بلاليط",
+    "pronunciation": "ba-la-LEET",
+    "category": "meal",
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi",
+    "regions": [],
+    "description": "Vermicelli sweetened with sugar, cardamom, rose water and saffron, served under a thin omelette. It is a popular Emirati breakfast and the first meal of Eid al-Fitr.",
+    "how_to_eat": "Eat the sweet noodles and egg together.",
+    "how_to_order": "Ask for 'balaleet' at breakfast in Emirati cafés.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Balaleet",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Balaleet",
+      "https://whatson.ae/2025/08/a-to-z-food-guide-iconic-foods-in-uae-you-have-to-try/"
+    ]
+  },
+  {
+    "id": "united_arab_emirates-chabab",
+    "name": "Chabab",
+    "local_name": null,
+    "pronunciation": "cha-BAB",
+    "category": "meal",
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi",
+    "regions": [],
+    "description": "A yeasted Emirati pancake flavoured with cardamom and saffron. It is a breakfast bread served with honey, date syrup or cheese.",
+    "how_to_eat": "Eat warm with date syrup or cheese.",
+    "how_to_order": "Ask for 'chabab' at breakfast in Emirati cafés.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://whatson.ae/2025/08/a-to-z-food-guide-iconic-foods-in-uae-you-have-to-try/",
+      "https://en.wikipedia.org/wiki/Emirati_cuisine"
+    ]
+  },
+  {
+    "id": "united_arab_emirates-regag",
+    "name": "Regag",
+    "local_name": null,
+    "pronunciation": "re-GAAG",
+    "category": "snack",
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi",
+    "regions": [],
+    "description": "A paper-thin, crispy Emirati flatbread cooked on a hot plate and topped with egg, cheese and sometimes honey. It is a breakfast staple.",
+    "how_to_eat": "Eat folded, right off the griddle.",
+    "how_to_order": "Ask for 'regag' with egg and cheese at Emirati breakfast spots.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://whatson.ae/2025/08/a-to-z-food-guide-iconic-foods-in-uae-you-have-to-try/",
+      "https://en.wikipedia.org/wiki/Emirati_cuisine"
+    ]
+  },
+  {
+    "id": "united_arab_emirates-gahwa",
+    "name": "Gahwa",
+    "local_name": null,
+    "pronunciation": "GAH-wa",
+    "category": "drink",
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi",
+    "regions": [],
+    "description": "Light Arabic coffee brewed with cardamom and served in small handleless cups with dates. It is the UAE's gesture of welcome.",
+    "how_to_eat": "Drink in small sips with dates.",
+    "how_to_order": "It is offered free at homes, hotels and offices; cafés also serve it with dates.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arabic_coffee",
+    "source_urls": [
+      "https://visitabudhabi.ae/en/plan-your-trip/article-hub/emirati-cuisine-the-dishes-to-try-and-where-to-try-them",
+      "https://en.wikipedia.org/wiki/Emirati_cuisine",
+      "https://en.wikipedia.org/wiki/Arabic_coffee"
+    ]
+  },
+  {
+    "id": "united_arab_emirates-dubai-chocolate",
+    "name": "Dubai Chocolate",
+    "local_name": "شوكولاتة دبي",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United Arab Emirates",
+    "state": "Dubai",
+    "regions": [
+      "Dubai"
+    ],
+    "description": "A milk chocolate bar filled with pistachio-tahini cream and crunchy chopped kadayif. It was created in Dubai in 2021 by Fix Dessert Chocolatier and went viral worldwide in 2024.",
+    "how_to_eat": "Break it to hear the crunch of the kadayif filling.",
+    "how_to_order": "Buy from chocolatiers and cafés in Dubai.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts",
+      "sesame",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dubai_chocolate",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dubai_chocolate",
+      "https://en.wikipedia.org/wiki/Emirati_cuisine"
+    ]
+  },
+  {
+    "id": "united_arab_emirates-karak-chai",
+    "name": "Karak Chai",
+    "local_name": null,
+    "pronunciation": "KA-rak chai",
+    "category": "drink",
+    "country": "United Arab Emirates",
+    "state": "Dubai",
+    "regions": [
+      "Dubai"
+    ],
+    "description": "Strong black tea boiled with milk and sugar, a drink that came to the Gulf with South Asian migrants. It is the everyday drink of the UAE, sold cheaply at cafeterias.",
+    "how_to_eat": "Drink hot, often right in the car from a drive-up cafeteria.",
+    "how_to_order": "Ask for 'karak' at any cafeteria; it is typically 1-2.50 AED a cup.",
+    "typical_price": "1-2.50",
+    "currency": "AED",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Masala_chai",
+    "source_urls": [
+      "https://gulfnews.com/things-to-do/cafes-restaurants/explore-the-best-spots-in-dubai-to-enjoy-a-classic-cup-of-karak-chai-1.500135322",
+      "https://thejuggernaut.com/karak-tea-history-indian-labor-gulf-states-south-asian-migration"
+    ]
+  },
+  {
+    "id": "united_arab_emirates-shawarma",
+    "name": "Shawarma",
+    "local_name": "شاورما",
+    "pronunciation": "sha-WAR-ma",
+    "category": "street_food",
+    "country": "United Arab Emirates",
+    "state": "Dubai",
+    "regions": [
+      "Dubai"
+    ],
+    "description": "Spit-roasted chicken, lamb or beef shaved into pita with salad and garlic sauce or tahini. It is the UAE's favourite street food.",
+    "how_to_eat": "Eat as a wrap on the go.",
+    "how_to_order": "Ask for chicken or meat shawarma at any shawarma counter.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shawarma",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shawarma",
+      "https://whatson.ae/2025/08/a-to-z-food-guide-iconic-foods-in-uae-you-have-to-try/"
+    ]
+  },
+  {
+    "id": "united_arab_emirates-jasheed",
+    "name": "Jasheed",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United Arab Emirates",
+    "state": "Northern Emirates",
+    "regions": [
+      "Ras Al Khaimah"
+    ],
+    "description": "A coastal Emirati dish of minced fish or baby shark cooked with onions, garlic and spices, served with rice. It is mainly eaten in coastal Ras Al Khaimah.",
+    "how_to_eat": "Eat over rice.",
+    "how_to_order": "Ask for 'jasheed' at Emirati seafood restaurants.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://whatson.ae/2025/08/a-to-z-food-guide-iconic-foods-in-uae-you-have-to-try/",
+      "https://en.wikipedia.org/wiki/Emirati_cuisine"
+    ]
+  }
+]

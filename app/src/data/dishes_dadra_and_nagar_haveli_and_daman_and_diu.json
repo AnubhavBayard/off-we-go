@@ -5,6 +5,7 @@
     "local_name": null,
     "pronunciation": "u-BAA-di-yu",
     "category": "meal",
+    "country": "India",
     "state": "Dadra and Nagar Haveli and Daman and Diu",
     "regions": [
       "Silvassa",
@@ -13,7 +14,8 @@
     "description": "A winter dish of potatoes, green beans, purple yam and sweet potatoes cooked with herbs in an earthen pot set upside down in a fire. It is similar to Gujarati undhiyu, and the herbs kalar (Indian nettle) and kamboi give it an earthy smell.",
     "how_to_eat": "Eat it hot on a winter night with buttermilk spiced with turmeric.",
     "how_to_order": "Ask for 'ubadiyu' at roadside stalls around Silvassa in winter.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "veg",
     "jain": false,
     "vegan": true,
@@ -32,6 +34,7 @@
     "local_name": null,
     "pronunciation": "PONK",
     "category": "snack",
+    "country": "India",
     "state": "Dadra and Nagar Haveli and Daman and Diu",
     "regions": [
       "Silvassa"
@@ -39,7 +42,8 @@
     "description": "Tender green sorghum grains, roasted and beaten from the husk, eaten as a winter snack, often with sev. Incredible India lists paunk among Silvassa's local specialities.",
     "how_to_eat": "Eat it fresh in winter, mixed with sev.",
     "how_to_order": "Ask for 'ponk' at stalls in winter.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "veg",
     "jain": false,
     "vegan": true,
@@ -58,6 +62,7 @@
     "local_name": null,
     "pronunciation": "BOM-bil fry",
     "category": "meal",
+    "country": "India",
     "state": "Dadra and Nagar Haveli and Daman and Diu",
     "regions": [
       "Daman"
@@ -65,7 +70,8 @@
     "description": "Bombay duck fish marinated in spices and deep-fried until crisp, a signature fish dish of Daman.",
     "how_to_eat": "Eat it hot as a starter.",
     "how_to_order": "Ask for 'bombil fry' at beach-side eateries in Daman.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
@@ -85,6 +91,7 @@
     "local_name": null,
     "pronunciation": "cho-REE-so",
     "category": "meal",
+    "country": "India",
     "state": "Dadra and Nagar Haveli and Daman and Diu",
     "regions": [
       "Diu"
@@ -92,7 +99,8 @@
     "description": "Diu's chouriço sausage of pork, chillies and spices, a legacy of Portuguese rule. It is eaten on its own or cooked into curries.",
     "how_to_eat": "Eat it fried on its own or in a curry with bread.",
     "how_to_order": "Ask for 'chouriço' at restaurants in Diu.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
@@ -110,6 +118,7 @@
     "local_name": null,
     "pronunciation": null,
     "category": "meal",
+    "country": "India",
     "state": "Dadra and Nagar Haveli and Daman and Diu",
     "regions": [
       "Silvassa",
@@ -119,7 +128,8 @@
     "description": "Freshly caught crab, an all-time local favourite in Silvassa, and seasonal spicy crab gravies on the Daman and Diu coast.",
     "how_to_eat": "Crack the shells by hand and eat with rice.",
     "how_to_order": "Ask what crab is in season at a seafood restaurant.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
@@ -140,6 +150,7 @@
     "local_name": null,
     "pronunciation": null,
     "category": "meal",
+    "country": "India",
     "state": "Dadra and Nagar Haveli and Daman and Diu",
     "regions": [
       "Daman",
@@ -148,7 +159,8 @@
     "description": "A coastal fish curry, tangy and spiced, often with coconut, made with the local catch. Fish, coconut and rice are the base of the coastal cooking of Daman and Diu.",
     "how_to_eat": "Eat it with steamed rice.",
     "how_to_order": "Ask for the 'fish curry' with the day's catch, such as pomfret or surmai, at a beach-side restaurant.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
@@ -169,6 +181,7 @@
     "local_name": null,
     "pronunciation": "NAG-li ROT-la",
     "category": "meal",
+    "country": "India",
     "state": "Dadra and Nagar Haveli and Daman and Diu",
     "regions": [
       "Silvassa",
@@ -177,7 +190,8 @@
     "description": "Flatbread made from ragi, called nagli locally; rice and jowar flours are also staples of Silvassa's cooking. Millet rotla and kodri (barnyard millet) dishes are signature foods of the territory.",
     "how_to_eat": "Eat it with a vegetable dish or curry.",
     "how_to_order": "Ask for 'nagli roti' or 'rotla' at a village-style eatery around Silvassa.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "veg",
     "jain": false,
     "vegan": true,
@@ -196,6 +210,7 @@
     "local_name": null,
     "pronunciation": "DOODH-paak",
     "category": "sweet",
+    "country": "India",
     "state": "Dadra and Nagar Haveli and Daman and Diu",
     "regions": [
       "Silvassa"
@@ -203,7 +218,8 @@
     "description": "A rice pudding of thickened milk, sugar and nuts, named among Silvassa's local specialities.",
     "how_to_eat": "Eat it warm or chilled, with puri.",
     "how_to_order": "Ask for 'doodh pak' on a Gujarati thali.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "veg",
     "jain": true,
     "vegan": false,

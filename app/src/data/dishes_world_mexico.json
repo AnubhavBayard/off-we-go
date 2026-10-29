@@ -1,0 +1,1326 @@
+[
+  {
+    "id": "mexico-tacos-al-pastor",
+    "name": "Tacos al Pastor",
+    "local_name": null,
+    "pronunciation": "tah-kohs al pahs-TOR",
+    "category": "street_food",
+    "country": "Mexico",
+    "state": "Mexico City & Central Mexico",
+    "regions": [
+      "Mexico City"
+    ],
+    "description": "Thin slices of chili-and-achiote-marinated pork shaved from a vertical spit, served on small corn tortillas with pineapple, onion and cilantro. The technique came from Lebanese immigrants' shawarma and it is Mexico City's signature taco.",
+    "how_to_eat": "Eat by hand, topped with salsa and a squeeze of lime.",
+    "how_to_order": "Ask for 'tacos al pastor con todo' (with everything) at taquerías, mostly at night.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Al_pastor",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Al_pastor",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-tlacoyo",
+    "name": "Tlacoyo",
+    "local_name": null,
+    "pronunciation": "tlah-KOY-oh",
+    "category": "street_food",
+    "country": "Mexico",
+    "state": "Mexico City & Central Mexico",
+    "regions": [
+      "Mexico City"
+    ],
+    "description": "An oval cake of blue or white corn masa stuffed with beans, fava beans or cheese and cooked on a griddle. It is topped with nopales, salsa and fresh cheese and sold by street vendors.",
+    "how_to_eat": "Eat by hand or on a paper plate, hot from the comal.",
+    "how_to_order": "Ask street vendors for a tlacoyo 'de frijol' (beans) or 'de haba' (fava).",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tlacoyo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tlacoyo",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-chilaquiles",
+    "name": "Chilaquiles",
+    "local_name": null,
+    "pronunciation": "chee-lah-KEE-lehs",
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Mexico City & Central Mexico",
+    "regions": [],
+    "description": "Fried tortilla pieces simmered in red or green salsa and topped with cream, cheese and onion, often with fried egg or shredded chicken. It is one of Mexico's favourite breakfasts.",
+    "how_to_eat": "Eat with a fork soon after serving, before the chips go soft.",
+    "how_to_order": "Ask for 'chilaquiles rojos' or 'verdes', 'con huevo' or 'con pollo', at breakfast places and markets.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chilaquiles",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chilaquiles",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-guajolota",
+    "name": "Guajolota",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Mexico",
+    "state": "Mexico City & Central Mexico",
+    "regions": [
+      "Mexico City"
+    ],
+    "description": "A tamal stuffed inside a bolillo bread roll, a cheap, filling breakfast. It is a Mexico City street classic sold from tamal carts in the morning.",
+    "how_to_eat": "Eat by hand, with atole or champurrado.",
+    "how_to_order": "Ask tamal vendors for a 'torta de tamal' or 'guajolota' in the morning.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guajolota",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Guajolota",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-churros-con-chocolate",
+    "name": "Churros con Chocolate",
+    "local_name": null,
+    "pronunciation": "CHOO-rrohs",
+    "category": "sweet",
+    "country": "Mexico",
+    "state": "Mexico City & Central Mexico",
+    "regions": [
+      "Mexico City"
+    ],
+    "description": "Fried ridged sticks of dough rolled in cinnamon sugar, served with thick hot chocolate for dipping. They are a popular sweet across Mexico, especially in the capital.",
+    "how_to_eat": "Dip the churros into the hot chocolate.",
+    "how_to_order": "Order churros by the piece or bag with a cup of chocolate at churrerías.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Churro",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Churro",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-pulque",
+    "name": "Pulque",
+    "local_name": null,
+    "pronunciation": "POOL-keh",
+    "category": "drink",
+    "country": "Mexico",
+    "state": "Mexico City & Central Mexico",
+    "regions": [],
+    "description": "A milky, slightly sour alcoholic drink made by fermenting the sap of the maguey plant. Drunk since pre-Hispanic times, it is served in traditional pulquerías in and around Mexico City.",
+    "how_to_eat": "Drink plain or as a 'curado' blended with fruit or oats.",
+    "how_to_order": "Ask for a 'curado' (flavoured pulque) or 'natural' at a pulquería.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pulque",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pulque",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-esquites",
+    "name": "Esquites",
+    "local_name": null,
+    "pronunciation": "ehs-KEE-tehs",
+    "category": "street_food",
+    "country": "Mexico",
+    "state": "Mexico City & Central Mexico",
+    "regions": [],
+    "description": "Corn kernels boiled with epazote, served in a cup with mayonnaise, lime, chili powder and crumbly cheese. It is the cup version of elote, sold by street vendors.",
+    "how_to_eat": "Eat from the cup with a spoon.",
+    "how_to_order": "Ask street vendors for esquites 'con todo' (with all toppings).",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Esquites",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Esquites",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-mole-poblano",
+    "name": "Mole Poblano",
+    "local_name": "Mole poblano",
+    "pronunciation": "MOH-leh poh-BLAH-noh",
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Puebla",
+    "regions": [
+      "Puebla"
+    ],
+    "description": "A dark, rich sauce of dried chilies, chocolate, nuts, seeds, spices and bread, served over turkey or chicken. It is considered the national dish of Mexico and comes from Puebla's convents.",
+    "how_to_eat": "Eat with rice and tortillas, sprinkled with sesame seeds.",
+    "how_to_order": "Ask for 'mole poblano con pollo' or 'con guajolote' at fondas in Puebla.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "nuts",
+      "peanuts",
+      "sesame",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mole_(sauce)#Puebla",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mole_(sauce)#Puebla",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-chiles-en-nogada",
+    "name": "Chiles en Nogada",
+    "local_name": null,
+    "pronunciation": "CHEE-lehs en noh-GAH-dah",
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Puebla",
+    "regions": [
+      "Puebla"
+    ],
+    "description": "Poblano chilies stuffed with a picadillo of meat and fruit, covered in a walnut cream sauce and topped with pomegranate seeds and parsley. Its green, white and red recall the Mexican flag and it is eaten around Independence Day.",
+    "how_to_eat": "Eat at room temperature with a knife and fork.",
+    "how_to_order": "Look for it in Puebla from about July to September, when walnuts and pomegranates are in season.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "nuts",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chiles_en_nogada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chiles_en_nogada",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-chalupas-poblanas",
+    "name": "Chalupas Poblanas",
+    "local_name": null,
+    "pronunciation": "chah-LOO-pahs",
+    "category": "street_food",
+    "country": "Mexico",
+    "state": "Puebla",
+    "regions": [
+      "Puebla"
+    ],
+    "description": "Small, thick corn tortillas fried in lard and topped with red or green salsa, shredded pork and onion. They are a classic Puebla street snack.",
+    "how_to_eat": "Eat by hand, several at a time.",
+    "how_to_order": "Order a plate of chalupas, half red and half green salsa, at Puebla food stalls.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chalupa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chalupa",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-cemita",
+    "name": "Cemita",
+    "local_name": null,
+    "pronunciation": "seh-MEE-tah",
+    "category": "street_food",
+    "country": "Mexico",
+    "state": "Puebla",
+    "regions": [
+      "Puebla"
+    ],
+    "description": "A large sandwich on a sesame-seeded egg bun, filled with breaded meat, avocado, quesillo cheese, onion, chipotle and the herb pápalo. It is Puebla's signature sandwich.",
+    "how_to_eat": "Eat by hand; it is big enough for a meal.",
+    "how_to_order": "Ask for a 'cemita de milanesa' at cemiterías and markets in Puebla.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "sesame",
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cemita",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cemita",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-camote-poblano",
+    "name": "Camotes de Santa Clara",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Mexico",
+    "state": "Puebla",
+    "regions": [
+      "Puebla"
+    ],
+    "description": "Sticks of sweet potato paste cooked with sugar and flavourings, wrapped in waxed paper. Tradition says they were born in Puebla's Santa Clara convent, and they are the city's emblematic sweet.",
+    "how_to_eat": "Eat as a sweet snack.",
+    "how_to_order": "Buy them on Puebla's sweet street (Calle 6 Oriente) or at candy shops.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.mexicodesconocido.com.mx/camote-de-puebla.html"
+    ]
+  },
+  {
+    "id": "mexico-rompope",
+    "name": "Rompope",
+    "local_name": null,
+    "pronunciation": "rohm-POH-peh",
+    "category": "drink",
+    "country": "Mexico",
+    "state": "Puebla",
+    "regions": [
+      "Puebla"
+    ],
+    "description": "An eggnog-like drink of eggs, milk, sugar, vanilla and rum or other spirits. It was first made in Puebla's convents.",
+    "how_to_eat": "Drink chilled in a small glass.",
+    "how_to_order": "Buy bottles at convents' shops and candy stores in Puebla.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rompope",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rompope",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-tlayuda",
+    "name": "Tlayuda",
+    "local_name": null,
+    "pronunciation": "tlah-YOO-dah",
+    "category": "street_food",
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "regions": [
+      "Oaxaca"
+    ],
+    "description": "A large, crisp toasted corn tortilla spread with asiento (pork lard), refried beans, Oaxaca cheese and vegetables, topped with tasajo, cecina or chorizo. It is Oaxaca's most famous street food.",
+    "how_to_eat": "Eat open-faced or folded in half and grilled, by hand.",
+    "how_to_order": "Ask for a 'tlayuda con tasajo' at night stalls in Oaxaca City.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tlayuda",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tlayuda",
+      "https://en.wikipedia.org/wiki/Oaxacan_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-mole-negro",
+    "name": "Mole Negro",
+    "local_name": null,
+    "pronunciation": "MOH-leh NEH-groh",
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "regions": [
+      "Oaxaca"
+    ],
+    "description": "The darkest and most complex of Oaxaca's seven moles, made from chilhuacle chilies, chocolate, nuts, seeds, spices and charred ingredients. It is usually served over chicken or turkey.",
+    "how_to_eat": "Eat with rice and corn tortillas.",
+    "how_to_order": "Ask for 'mole negro con pollo' at fondas and markets in Oaxaca.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "nuts",
+      "sesame",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mole_(sauce)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mole_(sauce)",
+      "https://en.wikipedia.org/wiki/Oaxacan_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-chapulines",
+    "name": "Chapulines",
+    "local_name": null,
+    "pronunciation": "chah-poo-LEE-nehs",
+    "category": "snack",
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "regions": [
+      "Oaxaca"
+    ],
+    "description": "Grasshoppers toasted on a comal with garlic, lime, salt and chili. They have been eaten in Oaxaca since pre-Hispanic times.",
+    "how_to_eat": "Eat by the handful as a snack or in a taco with guacamole.",
+    "how_to_order": "Buy them by the bag from market vendors in Oaxaca.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chapulines",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chapulines",
+      "https://en.wikipedia.org/wiki/Oaxacan_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-tejate",
+    "name": "Tejate",
+    "local_name": null,
+    "pronunciation": "teh-HAH-teh",
+    "category": "drink",
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "regions": [
+      "Oaxaca"
+    ],
+    "description": "A cold, frothy pre-Hispanic drink of maize, cacao, mamey seeds and rosita de cacao flowers. It is sold from large clay bowls in Oaxacan markets.",
+    "how_to_eat": "Drink cold from a gourd bowl.",
+    "how_to_order": "Buy a bowl from tejate vendors in Oaxaca's markets.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tejate",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tejate",
+      "https://en.wikipedia.org/wiki/Oaxacan_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-mezcal",
+    "name": "Mezcal",
+    "local_name": null,
+    "pronunciation": "mehs-KAHL",
+    "category": "drink",
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "regions": [
+      "Oaxaca"
+    ],
+    "description": "A distilled spirit made from roasted agave hearts, giving a smoky flavour. Oaxaca produces most of it and mezcal has Mexican denominación de origen protection.",
+    "how_to_eat": "Sip slowly, traditionally with orange slices and sal de gusano.",
+    "how_to_order": "Ask for a 'mezcal joven' or a specific agave such as espadín at mezcalerías.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mezcal",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mezcal",
+      "https://en.wikipedia.org/wiki/Oaxacan_cuisine",
+      "https://www.meteored.mx/noticias/actualidad/estas-son-las-18-denominaciones-mezcal-chile-habanero-o-cafe-de-chiapas-de-origen-de-mexico.html"
+    ]
+  },
+  {
+    "id": "mexico-chocolate-oaxaqueno",
+    "name": "Oaxacan Hot Chocolate",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "regions": [
+      "Oaxaca"
+    ],
+    "description": "Ground cacao with sugar, cinnamon and almonds, usually mixed with water and frothed with a wooden molinillo. Oaxaca is famous for its chocolate, served with pan de yema egg bread.",
+    "how_to_eat": "Drink hot, dunking pan de yema bread.",
+    "how_to_order": "Ask for 'chocolate de agua' or 'de leche' at Oaxaca's chocolate mills and markets.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Oaxacan_cuisine",
+      "https://www.lonelyplanet.com/articles/what-to-eat-and-drink-in-oaxca"
+    ]
+  },
+  {
+    "id": "mexico-memela",
+    "name": "Memelas",
+    "local_name": null,
+    "pronunciation": "meh-MEH-lahs",
+    "category": "street_food",
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "regions": [
+      "Oaxaca"
+    ],
+    "description": "Thick, oval corn cakes toasted on a comal and spread with asiento, black beans, salsa and fresh cheese. They are a typical Oaxacan breakfast.",
+    "how_to_eat": "Eat by hand, hot from the comal.",
+    "how_to_order": "Order memelas at Oaxaca market stalls in the morning.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Memela",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Memela",
+      "https://en.wikipedia.org/wiki/Oaxacan_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-cochinita-pibil",
+    "name": "Cochinita Pibil",
+    "local_name": null,
+    "pronunciation": "koh-chee-NEE-tah pee-BEEL",
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Yucatán Peninsula",
+    "regions": [
+      "Mérida"
+    ],
+    "description": "Pork marinated in bitter orange and achiote, wrapped in banana leaves and slow-roasted, traditionally in an underground pit (pib). It is the Yucatán's signature dish.",
+    "how_to_eat": "Eat in tacos or tortas topped with pickled red onion and habanero salsa.",
+    "how_to_order": "Ask for 'tacos de cochinita' at markets in the morning; it often sells out by noon.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cochinita_pibil",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cochinita_pibil",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Yucat%C3%A1n"
+    ]
+  },
+  {
+    "id": "mexico-sopa-de-lima",
+    "name": "Sopa de Lima",
+    "local_name": null,
+    "pronunciation": "SOH-pah deh LEE-mah",
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Yucatán Peninsula",
+    "regions": [
+      "Mérida"
+    ],
+    "description": "A chicken broth flavoured with the local Yucatán lime, served with shredded chicken and crisp tortilla strips. It is a classic Yucatecan soup.",
+    "how_to_eat": "Eat hot from a bowl.",
+    "how_to_order": "Ask for 'sopa de lima' at Yucatecan restaurants.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sopa_de_lima",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sopa_de_lima",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Yucat%C3%A1n"
+    ]
+  },
+  {
+    "id": "mexico-papadzules",
+    "name": "Papadzules",
+    "local_name": null,
+    "pronunciation": "pah-pahd-ZOO-lehs",
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Yucatán Peninsula",
+    "regions": [],
+    "description": "Corn tortillas filled with chopped hard-boiled egg and covered in a pumpkin seed sauce and tomato sauce. It is one of the oldest Mayan dishes of the Yucatán.",
+    "how_to_eat": "Eat with a fork, with habanero salsa if you like heat.",
+    "how_to_order": "Ask for papadzules at Yucatecan restaurants.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Papadzules",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Papadzules",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Yucat%C3%A1n"
+    ]
+  },
+  {
+    "id": "mexico-panuchos",
+    "name": "Panuchos",
+    "local_name": null,
+    "pronunciation": "pah-NOO-chohs",
+    "category": "street_food",
+    "country": "Mexico",
+    "state": "Yucatán Peninsula",
+    "regions": [
+      "Mérida"
+    ],
+    "description": "Fried corn tortillas stuffed with refried black beans and topped with shredded turkey or chicken, lettuce, tomato, avocado and pickled onion. They are a staple of Yucatecan street food.",
+    "how_to_eat": "Eat by hand.",
+    "how_to_order": "Order panuchos at loncherías and night stalls in Mérida.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Panucho",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Panucho",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Yucat%C3%A1n"
+    ]
+  },
+  {
+    "id": "mexico-poc-chuc",
+    "name": "Poc Chuc",
+    "local_name": null,
+    "pronunciation": "pok CHOOK",
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Yucatán Peninsula",
+    "regions": [],
+    "description": "Thin slices of pork marinated in sour orange juice and grilled over charcoal. It is a popular Yucatecan dish served with pickled onion and beans.",
+    "how_to_eat": "Eat with tortillas, pickled onion and habanero salsa.",
+    "how_to_order": "Ask for 'poc chuc' at Yucatecan restaurants.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Poc_chuc",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Poc_chuc",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Yucat%C3%A1n"
+    ]
+  },
+  {
+    "id": "mexico-marquesita",
+    "name": "Marquesita",
+    "local_name": null,
+    "pronunciation": "mar-keh-SEE-tah",
+    "category": "sweet",
+    "country": "Mexico",
+    "state": "Yucatán Peninsula",
+    "regions": [
+      "Mérida"
+    ],
+    "description": "A crisp, rolled crêpe filled with grated Edam cheese and sweet fillings such as Nutella or cajeta. It is a beloved Mérida street sweet.",
+    "how_to_eat": "Eat warm by hand from a paper wrapper.",
+    "how_to_order": "Buy from marquesita carts in Mérida's squares in the evening.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marquesita",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marquesita",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Yucat%C3%A1n"
+    ]
+  },
+  {
+    "id": "mexico-birria",
+    "name": "Birria",
+    "local_name": null,
+    "pronunciation": "BEER-ree-ah",
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Jalisco & Western Mexico",
+    "regions": [
+      "Guadalajara"
+    ],
+    "description": "Goat or beef slow-cooked in an adobo of dried chilies and spices, served in its broth or in tacos. It is the signature dish of Jalisco.",
+    "how_to_eat": "Eat in tacos dipped in the broth (consomé), with onion, cilantro and lime.",
+    "how_to_order": "Ask for 'birria' or 'tacos de birria con consomé' at birrierías.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Birria",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Birria",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-torta-ahogada",
+    "name": "Torta Ahogada",
+    "local_name": null,
+    "pronunciation": "TOR-tah ah-oh-GAH-dah",
+    "category": "street_food",
+    "country": "Mexico",
+    "state": "Jalisco & Western Mexico",
+    "regions": [
+      "Guadalajara"
+    ],
+    "description": "A crusty birote roll filled with carnitas and 'drowned' in tomato sauce and a fiery chile de árbol sauce. It is Guadalajara's iconic street food.",
+    "how_to_eat": "Eat with your hands or a spoon; it is messy.",
+    "how_to_order": "Order 'media ahogada' (half drowned) or 'bien ahogada' (fully drowned) at torta stands in Guadalajara.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Torta_ahogada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Torta_ahogada",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-pozole",
+    "name": "Pozole",
+    "local_name": null,
+    "pronunciation": "poh-SOH-leh",
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Jalisco & Western Mexico",
+    "regions": [
+      "Guadalajara"
+    ],
+    "description": "A hearty soup of hominy corn with pork or chicken, served red, white or green. It dates to pre-Hispanic times and is a favourite for celebrations, especially Independence Day.",
+    "how_to_eat": "Add lettuce or cabbage, radish, onion, oregano, chili and lime, with tostadas on the side.",
+    "how_to_order": "Ask for 'pozole rojo' at pozolerías.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pozole",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pozole",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-tequila",
+    "name": "Tequila",
+    "local_name": null,
+    "pronunciation": "teh-KEE-lah",
+    "category": "drink",
+    "country": "Mexico",
+    "state": "Jalisco & Western Mexico",
+    "regions": [
+      "Tequila"
+    ],
+    "description": "A spirit distilled from the blue agave plant, mainly in Jalisco. Tequila was Mexico's first product with denominación de origen protection, granted in 1974.",
+    "how_to_eat": "Sip neat, often with sangrita on the side.",
+    "how_to_order": "Ask for a '100% agave' blanco, reposado or añejo.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tequila",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tequila",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine",
+      "https://www.meteored.mx/noticias/actualidad/estas-son-las-18-denominaciones-mezcal-chile-habanero-o-cafe-de-chiapas-de-origen-de-mexico.html"
+    ]
+  },
+  {
+    "id": "mexico-carne-en-su-jugo",
+    "name": "Carne en su Jugo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Jalisco & Western Mexico",
+    "regions": [
+      "Guadalajara"
+    ],
+    "description": "Thinly sliced beef cooked in its own juices with beans and bacon, in a tomatillo broth. It is a Guadalajara specialty.",
+    "how_to_eat": "Eat from a bowl topped with onion, cilantro, radish and lime.",
+    "how_to_order": "Ask for 'carne en su jugo' at restaurants in Guadalajara.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.maricruzavalos.com/carne-en-su-jugo/",
+      "https://thetakeout.com/carne-en-su-jugo-mexican-steak-bacon-bean-soup-1831565595"
+    ]
+  },
+  {
+    "id": "mexico-tejuino",
+    "name": "Tejuino",
+    "local_name": null,
+    "pronunciation": "teh-HWEE-noh",
+    "category": "drink",
+    "country": "Mexico",
+    "state": "Jalisco & Western Mexico",
+    "regions": [
+      "Guadalajara"
+    ],
+    "description": "A cold drink of fermented corn masa and piloncillo, served with lime, salt and shaved ice. It is a popular street drink in Jalisco.",
+    "how_to_eat": "Drink cold, often with a scoop of lime sorbet.",
+    "how_to_order": "Buy from tejuino carts in Guadalajara.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tejuino",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tejuino",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-carnitas",
+    "name": "Carnitas",
+    "local_name": null,
+    "pronunciation": "kar-NEE-tahs",
+    "category": "street_food",
+    "country": "Mexico",
+    "state": "Jalisco & Western Mexico",
+    "regions": [
+      "Michoacán"
+    ],
+    "description": "Pork simmered slowly in lard until tender and crisp at the edges. They originate in Michoacán.",
+    "how_to_eat": "Eat in tacos with salsa, onion and cilantro.",
+    "how_to_order": "Order by the kilo or in tacos, asking for 'maciza' (lean) or 'surtido' (mixed cuts).",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carnitas",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Carnitas",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-carne-asada",
+    "name": "Carne Asada",
+    "local_name": null,
+    "pronunciation": "KAR-neh ah-SAH-dah",
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Northern Mexico",
+    "regions": [
+      "Monterrey",
+      "Hermosillo"
+    ],
+    "description": "Beef, often arrachera (skirt steak), grilled over charcoal and eaten with tortillas. It is the heart of northern Mexican cooking and weekend gatherings.",
+    "how_to_eat": "Eat in flour or corn tortillas with salsa and guacamole.",
+    "how_to_order": "Ask for 'carne asada' or 'arrachera' at taquerías and grill restaurants.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carne_asada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Carne_asada",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-cabrito",
+    "name": "Cabrito",
+    "local_name": null,
+    "pronunciation": "kah-BREE-toh",
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Northern Mexico",
+    "regions": [
+      "Monterrey"
+    ],
+    "description": "Young goat roasted slowly over coals. It is the signature dish of Monterrey.",
+    "how_to_eat": "Eat with tortillas, salsa and charro beans.",
+    "how_to_order": "Ask for 'cabrito al pastor' at restaurants in Monterrey.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cabrito",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cabrito",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-machaca",
+    "name": "Machaca",
+    "local_name": null,
+    "pronunciation": "mah-CHAH-kah",
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Northern Mexico",
+    "regions": [
+      "Monterrey",
+      "Sonora"
+    ],
+    "description": "Dried, shredded beef, often scrambled with eggs, onion and chili. It is a ranch staple of northern Mexico.",
+    "how_to_eat": "Eat for breakfast in flour tortillas.",
+    "how_to_order": "Ask for 'machaca con huevo' at breakfast places in the north.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Machaca",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Machaca",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-burrito",
+    "name": "Burrito",
+    "local_name": null,
+    "pronunciation": "boo-RREE-toh",
+    "category": "street_food",
+    "country": "Mexico",
+    "state": "Northern Mexico",
+    "regions": [
+      "Ciudad Juárez"
+    ],
+    "description": "A flour tortilla wrapped around a filling such as beef, beans or chile, much slimmer than the U.S. version. Its origin is linked to Ciudad Juárez.",
+    "how_to_eat": "Eat by hand.",
+    "how_to_order": "Order burritos by filling at stands in Ciudad Juárez and across the north.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Burrito",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Burrito",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-caesar-salad",
+    "name": "Caesar Salad",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Northern Mexico",
+    "regions": [
+      "Tijuana"
+    ],
+    "description": "Romaine lettuce dressed with olive oil, egg, lime, garlic, Worcestershire sauce and parmesan, with croutons. It was invented in Tijuana in 1924.",
+    "how_to_eat": "Eat as a starter.",
+    "how_to_order": "Ask for the salad made tableside at traditional Tijuana restaurants.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy",
+      "gluten",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caesar_salad",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Caesar_salad",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-aguachile",
+    "name": "Aguachile",
+    "local_name": null,
+    "pronunciation": "ah-gwah-CHEE-leh",
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Northern Mexico",
+    "regions": [
+      "Sinaloa"
+    ],
+    "description": "Raw shrimp 'cooked' in lime juice and blended chilies, served with cucumber and red onion. It comes from Sinaloa.",
+    "how_to_eat": "Eat with tostadas or crackers, very fresh.",
+    "how_to_order": "Ask for 'aguachile verde' or 'rojo' at mariscos stands.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aguachile",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Aguachile",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-bacanora",
+    "name": "Bacanora",
+    "local_name": null,
+    "pronunciation": "bah-kah-NOH-rah",
+    "category": "drink",
+    "country": "Mexico",
+    "state": "Northern Mexico",
+    "regions": [
+      "Sonora"
+    ],
+    "description": "An agave spirit distilled from Agave pacifica (angustifolia) in the sierra of Sonora. It has denominación de origen protection.",
+    "how_to_eat": "Sip neat.",
+    "how_to_order": "Ask for bacanora at bars and shops in Sonora.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bacanora",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bacanora",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine",
+      "https://www.meteored.mx/noticias/actualidad/estas-son-las-18-denominaciones-mezcal-chile-habanero-o-cafe-de-chiapas-de-origen-de-mexico.html"
+    ]
+  },
+  {
+    "id": "mexico-huachinango-veracruzana",
+    "name": "Huachinango a la Veracruzana",
+    "local_name": null,
+    "pronunciation": "wah-chee-NAHN-goh",
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Veracruz & the Gulf",
+    "regions": [
+      "Veracruz"
+    ],
+    "description": "Red snapper baked or simmered in a sauce of tomatoes, onion, garlic, olives, capers and pickled jalapeños. It shows Veracruz's Spanish influence.",
+    "how_to_eat": "Eat with white rice.",
+    "how_to_order": "Ask for 'huachinango a la veracruzana' at seafood restaurants in Veracruz.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Huachinango_a_la_Veracruzana",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Huachinango_a_la_Veracruzana",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-vuelve-a-la-vida",
+    "name": "Vuelve a la Vida",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Veracruz & the Gulf",
+    "regions": [
+      "Veracruz"
+    ],
+    "description": "A seafood cocktail of shrimp, octopus, crab, oysters and snail in a tomato sauce with chipotle, onion, cilantro and avocado. Its name means 'return to life', for its reputation as a hangover cure on the Veracruz coast.",
+    "how_to_eat": "Eat with saltine crackers or tostadas.",
+    "how_to_order": "Order at seafood stands along the Veracruz coast.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://eldiariony.com/2019/12/01/top-10-de-comidas-y-bebidas-veracruzanas",
+      "https://www.directoalpaladar.com/recetas-de-pescados-y-mariscos/vuelve-a-vida-coctel-marisco-citricos-que-toman-mexicanos-para-paliar-resaca"
+    ]
+  },
+  {
+    "id": "mexico-garnachas",
+    "name": "Garnachas",
+    "local_name": null,
+    "pronunciation": "gar-NAH-chahs",
+    "category": "street_food",
+    "country": "Mexico",
+    "state": "Veracruz & the Gulf",
+    "regions": [
+      "Orizaba",
+      "Veracruz"
+    ],
+    "description": "Small, thick fried corn tortillas topped with salsa, shredded meat and onion. They are one of Veracruz's typical antojitos.",
+    "how_to_eat": "Eat by hand, several at a time.",
+    "how_to_order": "Order a plate at food stalls and markets in Veracruz.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Garnacha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Garnacha",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-arroz-a-la-tumbada",
+    "name": "Arroz a la Tumbada",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Veracruz & the Gulf",
+    "regions": [
+      "Veracruz"
+    ],
+    "description": "A soupy tomato rice cooked with shrimp, fish, crab and other seafood. It is a Veracruz port specialty.",
+    "how_to_eat": "Eat from a deep plate with a spoon.",
+    "how_to_order": "Ask for 'arroz a la tumbada' at seafood restaurants in Veracruz.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arroz_a_la_tumbada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Arroz_a_la_tumbada",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  },
+  {
+    "id": "mexico-zacahuil",
+    "name": "Zacahuil",
+    "local_name": null,
+    "pronunciation": "sah-kah-WEEL",
+    "category": "meal",
+    "country": "Mexico",
+    "state": "Veracruz & the Gulf",
+    "regions": [
+      "Huasteca"
+    ],
+    "description": "A giant tamal of coarse masa filled with pork and chili, wrapped in banana leaves and baked in a wood oven. It is from the Huasteca region.",
+    "how_to_eat": "Eat by the portion with a spoon.",
+    "how_to_order": "Buy at weekend markets in the Huasteca.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zacahuil",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Zacahuil",
+      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+    ]
+  }
+]

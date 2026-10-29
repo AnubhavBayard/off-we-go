@@ -58,6 +58,11 @@ async function toJpegBase64(file: File): Promise<string> {
   return canvas.toDataURL('image/jpeg', 0.8).split(',')[1]
 }
 
+// Only when the user already allowed location: never prompts.
+export async function positionIfAllowed() {
+  try { return (await Geolocation.checkPermissions()).location === 'granted' ? await currentPosition() : null } catch { return null }
+}
+
 export async function currentPosition(): Promise<{ lat: number; lng: number } | null> {
   try {
     const p = await Geolocation.getCurrentPosition({ enableHighAccuracy: true, timeout: 10000 })
@@ -69,7 +74,7 @@ export async function currentPosition(): Promise<{ lat: number; lng: number } | 
 
 // ponytail: OpenStreetMap Nominatim, fine for one lookup per check-in (policy: max 1 req/s).
 // Switch to a paid geocoder if traffic grows.
-async function reverseGeocode(lat: number, lng: number) {
+export async function reverseGeocode(lat: number, lng: number) {
   try {
     const r = await fetch(
       `https://nominatim.openstreetmap.org/reverse?format=jsonv2&zoom=10&accept-language=en&lat=${lat}&lon=${lng}`,

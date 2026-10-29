@@ -20,7 +20,7 @@
 
 * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; } /* no blue box on tap (Android) */
 body { margin: 0; background: transparent; } /* backdrop below; :root keeps the plain colour */
-/* App-wide backdrop, fixed behind everything: the inspo wallpaper, pre-blurred (public/wallpaper-blur.jpg),
+/* App-wide backdrop, fixed behind everything: the inspo wallpaper, pre-blurred (public/wallpaper-blur.jpg: 540x900, Gaussian 14),
    under a light veil so dark text stays readable */
 body::before {
   content: ''; position: fixed; inset: 0; z-index: -1; pointer-events: none;
@@ -44,6 +44,12 @@ main:has(.detail) { padding-bottom: 0; } /* dish page has no nav bar; its sheet 
 .muted { color: var(--muted); }
 .small { font-size: 0.8rem; }
 .count { font-size: 0.9rem; font-weight: 600; margin-left: 4px; }
+.list-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin: 1.6rem 0 0.7rem; }
+.list-head h2 { margin: 0; }
+.clear-btn {
+  display: inline-flex; align-items: center; gap: 4px; padding: 7px 12px; border-radius: 999px; cursor: pointer;
+  font: inherit; font-size: 0.85rem; font-weight: 600; background: var(--ink); color: var(--on-ink); border: none;
+}
 .row { display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin: 0.5rem 0; }
 
 /* Home header: avatar, greeting, round icon button */
@@ -303,3 +309,5 @@ a.btn { text-decoration: none; }
 @keyframes intro-out { to { opacity: 0; transform: scale(1.15); visibility: hidden; } } /* hidden: can't block taps even before JS loads */
 @media (prefers-reduced-motion: reduce) { .intro { display: none; } }
 @media (prefers-reduced-motion: reduce) { .food-ticker, .food-ticker svg { animation: none !important; } }
+.pickers { display: grid; gap: 10px; margin-bottom: 10px; }
+.pickers .input-icon { margin-bottom: 0; }

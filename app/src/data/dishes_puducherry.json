@@ -5,6 +5,7 @@
     "local_name": null,
     "pronunciation": "VAA-doo-vaan",
     "category": "meal",
+    "country": "India",
     "state": "Puducherry",
     "regions": [
       "Puducherry"
@@ -12,7 +13,8 @@
     "description": "A Creole curry, such as pork vadavoum, flavoured with vadouvan, a 'French curry' spice blend derived from the Tamil vadagam. Vadouvan is made from pounded onion and garlic with cumin, mustard and fenugreek, sun-dried, mixed with castor oil and rolled into balls.",
     "how_to_eat": "Eat it with rice.",
     "how_to_order": "Ask for 'pork vadouvan curry' at Creole restaurants; the vadouvan spice balls are sold in shops too.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
@@ -31,6 +33,7 @@
     "local_name": null,
     "pronunciation": "fish a-SAAD",
     "category": "meal",
+    "country": "India",
     "state": "Puducherry",
     "regions": [
       "Puducherry"
@@ -38,7 +41,8 @@
     "description": "A Pondicherry Creole fish curry rich with coconut milk, flavoured with anise and curry leaves and finished with lime. It is described as the quintessential local dish of the Franco-Tamil Creole kitchen, which is now fading from restaurants.",
     "how_to_eat": "Eat it with plain rice.",
     "how_to_order": "Ask for 'fish assad' at restaurants serving Creole or Franco-Tamil food in the French Quarter.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
@@ -59,6 +63,7 @@
     "local_name": null,
     "pronunciation": "vin-DAA-loo",
     "category": "meal",
+    "country": "India",
     "state": "Puducherry",
     "regions": [
       "Puducherry"
@@ -66,7 +71,8 @@
     "description": "A Creole meat curry, often made with pork (called 'vindali' locally), that differs from the Goan vindaloo. It is attributed to the area's Portuguese past.",
     "how_to_eat": "Eat it with rice or bread.",
     "how_to_order": "Ask for 'pork vindali' at Creole home kitchens and restaurants.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
@@ -85,6 +91,7 @@
     "local_name": null,
     "pronunciation": "meen pwee-ya-BAYZ",
     "category": "meal",
+    "country": "India",
     "state": "Puducherry",
     "regions": [
       "Puducherry"
@@ -92,7 +99,8 @@
     "description": "Pondicherry's version of the French bouillabaisse fish soup, adapted with turmeric, green chillies, bay leaf, cinnamon and coconut milk, with carrots, beans and potatoes. It shows how French dishes were reworked in Creole kitchens.",
     "how_to_eat": "Eat it as a soup-stew, with bread or rice.",
     "how_to_order": "Ask for 'meen puyabaise' or 'pouillon baisse' at Creole restaurants in the French Quarter.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
@@ -115,6 +123,7 @@
     "local_name": null,
     "pronunciation": "po-RI-cha KO-zhi",
     "category": "meal",
+    "country": "India",
     "state": "Puducherry",
     "regions": [
       "Puducherry"
@@ -122,7 +131,8 @@
     "description": "Free-range chicken deep-fried, then sautéed with Pondicherry spices and tossed with tomatoes, onion and garlic. Franco-Tamil restaurants serve it with French fries and salad.",
     "how_to_eat": "Eat it as a main with fries or rice.",
     "how_to_order": "Ask for 'poricha kozhi' at Franco-Tamil restaurants.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
@@ -140,6 +150,7 @@
     "local_name": null,
     "pronunciation": "fish KO-da",
     "category": "meal",
+    "country": "India",
     "state": "Puducherry",
     "regions": [
       "Puducherry"
@@ -147,7 +158,8 @@
     "description": "A Creole curry of fish and shrimp cooked with eggs and coconut cream. It is one of the old home-style dishes that Creole restaurants have revived.",
     "how_to_eat": "Eat it with rice.",
     "how_to_order": "Ask for 'fish koda curry' at restaurants specialising in Pondicherry Creole food.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
@@ -169,6 +181,7 @@
     "local_name": null,
     "pronunciation": "KREP",
     "category": "sweet",
+    "country": "India",
     "state": "Puducherry",
     "regions": [
       "Puducherry"
@@ -176,7 +189,8 @@
     "description": "Thin French pancakes, sweet or savoury, which are still widely made in Pondicherry. Cafés serve them with fillings like lemon, chocolate, honey, or sugar and butter.",
     "how_to_eat": "Eat them fresh and warm.",
     "how_to_order": "Ask for a sweet crêpe at cafés in the French Quarter.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "egg",
     "jain": false,
     "vegan": false,
@@ -199,6 +213,7 @@
     "local_name": null,
     "pronunciation": "ma-ka-RON",
     "category": "sweet",
+    "country": "India",
     "state": "Puducherry",
     "regions": [
       "Puducherry"
@@ -206,7 +221,8 @@
     "description": "French macarons sold by Pondicherry bakeries and patisseries with local flavours such as cardamom, mango and coconut. They reflect the town's French heritage.",
     "how_to_eat": "Eat them as a sweet with coffee.",
     "how_to_order": "Ask for macarons at patisseries in the French Quarter (White Town).",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "egg",
     "jain": false,
     "vegan": false,

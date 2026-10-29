@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "portugal-pastel-de-nata",
+    "name": "Pastel de Nata",
+    "local_name": "Pastel de nata",
+    "pronunciation": "pash-TEL de NAH-ta",
+    "category": "sweet",
+    "country": "Portugal",
+    "state": "Lisbon and Sintra",
+    "regions": [
+      "Belém"
+    ],
+    "description": "A crisp puff-pastry tart filled with egg custard, often dusted with cinnamon. Originally sold as Pastéis de Belém near the Jerónimos Monastery, it is Portugal's best-known pastry.",
+    "how_to_eat": "Eat warm, sprinkled with cinnamon and icing sugar, with a bica.",
+    "how_to_order": "Ask for 'um pastel de nata' at any pastelaria, or 'pastéis de Belém' in Belém.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pastel_de_nata",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pastel_de_nata",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-bacalhau-a-bras",
+    "name": "Bacalhau à Brás",
+    "local_name": "Bacalhau à Brás",
+    "pronunciation": "ba-ka-LYOW a BRASH",
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Lisbon and Sintra",
+    "regions": [],
+    "description": "Shredded salt cod with onions and matchstick fried potatoes, bound with scrambled eggs and topped with olives and parsley. It is one of the most popular of Portugal's many salt-cod dishes.",
+    "how_to_eat": "Eat hot, with black olives on top.",
+    "how_to_order": "Order 'bacalhau à Brás' in Lisbon tascas.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bacalhau_à_Brás",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bacalhau_à_Brás",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-ginjinha",
+    "name": "Ginjinha",
+    "local_name": "Ginjinha",
+    "pronunciation": "zhin-ZHEE-nya",
+    "category": "drink",
+    "country": "Portugal",
+    "state": "Lisbon and Sintra",
+    "regions": [
+      "Lisbon",
+      "Óbidos"
+    ],
+    "description": "A liqueur made by infusing sour Morello cherries (ginja) in aguardente with sugar. Lisbon has historic ginjinha bars such as Ginjinha Espinheira (since 1840).",
+    "how_to_eat": "Drink a small shot, 'com elas' (with the cherries) or 'sem elas' (without).",
+    "how_to_order": "Order 'uma ginja' at a ginjinha bar near Rossio.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ginjinha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ginjinha",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-bifana",
+    "name": "Bifana",
+    "local_name": "Bifana",
+    "pronunciation": "bee-FAH-na",
+    "category": "street_food",
+    "country": "Portugal",
+    "state": "Lisbon and Sintra",
+    "regions": [],
+    "description": "A bread roll filled with thin pork slices marinated in garlic and white wine. It is eaten all over Portugal and may have first been made in Vendas Novas.",
+    "how_to_eat": "Eat by hand, with mustard and a cold beer.",
+    "how_to_order": "Order 'uma bifana' at a snack bar or café counter.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bifana",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bifana",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-travesseiro-de-sintra",
+    "name": "Travesseiro de Sintra",
+    "local_name": "Travesseiro de Sintra",
+    "pronunciation": "tra-ve-SAY-roo",
+    "category": "sweet",
+    "country": "Portugal",
+    "state": "Lisbon and Sintra",
+    "regions": [
+      "Sintra"
+    ],
+    "description": "A rectangular puff-pastry 'pillow' filled with almond and egg cream and dusted with sugar. It was created in the 1940s at the Piriquita bakery in Sintra.",
+    "how_to_eat": "Eat fresh and warm.",
+    "how_to_order": "Buy at Sintra's historic pastry shops.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "nuts",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://visitsintra.travel/en/eat-drink/regional-flavours/travesseiros",
+      "https://www.lisbontourism.org/?p=1456"
+    ]
+  },
+  {
+    "id": "portugal-queijada-de-sintra",
+    "name": "Queijada de Sintra",
+    "local_name": "Queijada de Sintra",
+    "pronunciation": "kay-ZHAH-da",
+    "category": "sweet",
+    "country": "Portugal",
+    "state": "Lisbon and Sintra",
+    "regions": [
+      "Sintra"
+    ],
+    "description": "A small tart filled with fresh cow's cheese, sugar, egg yolks, flour and cinnamon. It is older than the travesseiro and is Sintra's traditional sweet.",
+    "how_to_eat": "Eat as a snack with coffee.",
+    "how_to_order": "Buy at Sintra pastry shops such as Piriquita.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://visitsintra.travel/en/eat-drink/regional-flavours/travesseiros",
+      "https://www.lisbontourism.org/?p=1456"
+    ]
+  },
+  {
+    "id": "portugal-francesinha",
+    "name": "Francesinha",
+    "local_name": "Francesinha",
+    "pronunciation": "fran-se-ZEE-nya",
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Porto and the North",
+    "regions": [
+      "Porto"
+    ],
+    "description": "A layered sandwich of toasted bread, steak, ham and sausages, covered in melted cheese and a hot tomato-and-beer sauce. It originated in Porto.",
+    "how_to_eat": "Eat with a knife and fork, with fries to dip in the sauce.",
+    "how_to_order": "Order 'uma francesinha' at Porto cafés, optionally 'com ovo' (with egg).",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Francesinha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Francesinha",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-tripas-a-moda-do-porto",
+    "name": "Tripas à Moda do Porto",
+    "local_name": "Tripas à moda do Porto",
+    "pronunciation": "TREE-pash a MO-da doo POR-too",
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Porto and the North",
+    "regions": [
+      "Porto"
+    ],
+    "description": "A stew of beef tripe with white beans, carrots, sausage and other meats, served with rice. It is Porto's traditional dish and gives locals their nickname 'tripeiros'.",
+    "how_to_eat": "Eat with white rice.",
+    "how_to_order": "Order 'tripas à moda do Porto' in traditional Porto restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tripas_à_moda_do_Porto",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tripas_à_moda_do_Porto",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-caldo-verde",
+    "name": "Caldo Verde",
+    "local_name": "Caldo verde",
+    "pronunciation": "KAL-doo VER-de",
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Porto and the North",
+    "regions": [
+      "Minho"
+    ],
+    "description": "A soup of finely shredded Portuguese cabbage (couve-galega) in a potato and olive oil broth, usually with a slice of chouriço. It comes from the Minho and is eaten all over Portugal.",
+    "how_to_eat": "Eat hot with broa corn bread.",
+    "how_to_order": "Order 'caldo verde' as a starter, also sold at festivals.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caldo_verde",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Caldo_verde",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-port-wine",
+    "name": "Port Wine",
+    "local_name": "Vinho do Porto",
+    "pronunciation": "VEE-nyoo doo POR-too",
+    "category": "drink",
+    "country": "Portugal",
+    "state": "Porto and the North",
+    "regions": [
+      "Douro",
+      "Vila Nova de Gaia"
+    ],
+    "description": "A sweet fortified wine made in the Douro Valley and aged in Vila Nova de Gaia. 'Porto' is a protected designation of origin.",
+    "how_to_eat": "Drink as a dessert wine or aperitif.",
+    "how_to_order": "Taste it in the port lodges of Vila Nova de Gaia.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Port_wine",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Port_wine",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-vinho-verde",
+    "name": "Vinho Verde",
+    "local_name": "Vinho verde",
+    "pronunciation": "VEE-nyoo VER-de",
+    "category": "drink",
+    "country": "Portugal",
+    "state": "Porto and the North",
+    "regions": [
+      "Minho"
+    ],
+    "description": "A young, often slightly sparkling wine from the protected Vinho Verde region of the Minho. Alvarinho is its best-known white grape.",
+    "how_to_eat": "Drink chilled with seafood.",
+    "how_to_order": "Order a bottle of 'vinho verde' in any northern restaurant.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vinho_Verde",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Vinho_Verde",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-alheira",
+    "name": "Alheira",
+    "local_name": "Alheira",
+    "pronunciation": "a-LYAY-ra",
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Porto and the North",
+    "regions": [
+      "Mirandela",
+      "Vinhais"
+    ],
+    "description": "A smoked sausage of bread and meats such as poultry or game, flavoured with garlic. It is from Trás-os-Montes; the Vinhais and Barroso-Montalegre varieties are EU PGI.",
+    "how_to_eat": "Eat fried with chips and a fried egg.",
+    "how_to_order": "Order 'alheira com batata frita e ovo' in northern tascas.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alheira",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Alheira",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-polvo-a-lagareiro",
+    "name": "Polvo à Lagareiro",
+    "local_name": "Polvo à lagareiro",
+    "pronunciation": "POL-voo a la-ga-RAY-roo",
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Porto and the North",
+    "regions": [],
+    "description": "Roasted octopus drenched in olive oil and garlic with punched potatoes (batatas a murro) and turnip greens. It is common in Trás-os-Montes and often eaten on Christmas Eve.",
+    "how_to_eat": "Eat with the potatoes soaked in the garlic oil.",
+    "how_to_order": "Order 'polvo à lagareiro' in seafood or traditional restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Polvo_à_lagareiro",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Polvo_à_lagareiro",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-leitao-da-bairrada",
+    "name": "Leitão da Bairrada",
+    "local_name": "Leitão à Bairrada",
+    "pronunciation": "lay-TOWNG",
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Central Portugal",
+    "regions": [
+      "Mealhada"
+    ],
+    "description": "Roast suckling pig with crisp skin, roasted in wood-fired ovens. It is the signature dish of the Bairrada area near Mealhada.",
+    "how_to_eat": "Eat with orange slices, chips, salad and local sparkling wine.",
+    "how_to_order": "Order at roadside 'leitão' restaurants around Mealhada.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-chanfana",
+    "name": "Chanfana",
+    "local_name": "Chanfana",
+    "pronunciation": "shan-FAH-na",
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Central Portugal",
+    "regions": [
+      "Miranda do Corvo",
+      "Vila Nova de Poiares"
+    ],
+    "description": "Old goat meat marinated in plenty of red wine and slow-roasted in a black clay pot, traditionally in a wood oven. Miranda do Corvo and Vila Nova de Poiares both claim it.",
+    "how_to_eat": "Eat with boiled potatoes.",
+    "how_to_order": "Order 'chanfana' in Coimbra-area restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chanfana",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chanfana",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-ovos-moles-de-aveiro",
+    "name": "Ovos Moles de Aveiro",
+    "local_name": "Ovos moles de Aveiro",
+    "pronunciation": "O-voosh MO-lesh",
+    "category": "sweet",
+    "country": "Portugal",
+    "state": "Central Portugal",
+    "regions": [
+      "Aveiro"
+    ],
+    "description": "A sweet cream of egg yolks and sugar inside thin wafer shells shaped like fish and seashells. It has been an EU protected geographical indication since 2008-2009.",
+    "how_to_eat": "Eat whole, wafer and all.",
+    "how_to_order": "Buy at Aveiro confectioners, often in painted wooden barrels.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ovos_moles",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ovos_moles",
+      "https://www.boe.es/doue/2009/094/L00015-00016.pdf"
+    ]
+  },
+  {
+    "id": "portugal-pastel-de-tentugal",
+    "name": "Pastel de Tentúgal",
+    "local_name": "Pastel de Tentúgal",
+    "pronunciation": "pash-TEL de ten-TOO-gal",
+    "category": "sweet",
+    "country": "Portugal",
+    "state": "Central Portugal",
+    "regions": [
+      "Tentúgal"
+    ],
+    "description": "An ultra-thin, crisp pastry of only water and flour, filled with ovos moles egg cream. Created by Carmelite nuns in Tentúgal in the 16th century, it is an EU PGI.",
+    "how_to_eat": "Eat fresh, dusted with sugar.",
+    "how_to_order": "Buy in Tentúgal or Coimbra pastry shops.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pastel_de_Tentúgal",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pastel_de_Tentúgal",
+      "https://www.ccdrc.pt/en/?p=84195"
+    ]
+  },
+  {
+    "id": "portugal-pao-de-lo-de-ovar",
+    "name": "Pão de Ló de Ovar",
+    "local_name": "Pão de Ló de Ovar",
+    "pronunciation": "pown de LO",
+    "category": "sweet",
+    "country": "Portugal",
+    "state": "Central Portugal",
+    "regions": [
+      "Ovar"
+    ],
+    "description": "A moist sponge cake of eggs, sugar and flour, made without yeast or baking powder. The Ovar version, with a soft runny centre, has been an EU PGI since 2016.",
+    "how_to_eat": "Eat by the slice, especially at Easter.",
+    "how_to_order": "Buy from bakeries in Ovar.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pão_de_Ló",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pão_de_Ló",
+      "https://24noticias.sapo.pt/atualidade/artigos/bruxelas-classifica-pao-de-lo-de-ovar-como-produto-protegido"
+    ]
+  },
+  {
+    "id": "portugal-serra-da-estrela-cheese",
+    "name": "Serra da Estrela Cheese",
+    "local_name": "Queijo Serra da Estrela",
+    "pronunciation": "KAY-zhoo SER-ra da esh-TRAY-la",
+    "category": "snack",
+    "country": "Portugal",
+    "state": "Central Portugal",
+    "regions": [],
+    "description": "A soft-to-runny sheep's milk cheese from the Serra da Estrela mountains, curdled with thistle. 'Queijo Serra da Estrela' is an EU PDO.",
+    "how_to_eat": "Cut off the top rind and scoop the soft cheese with bread.",
+    "how_to_order": "Buy at markets and cheese shops in the Serra da Estrela.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Serra_da_Estrela_cheese",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Serra_da_Estrela_cheese",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-licor-beirao",
+    "name": "Licor Beirão",
+    "local_name": "Licor Beirão",
+    "pronunciation": "lee-KOR bay-ROWNG",
+    "category": "drink",
+    "country": "Portugal",
+    "state": "Central Portugal",
+    "regions": [
+      "Lousã"
+    ],
+    "description": "A herbal liqueur from Lousã in the Beira region, made since the 19th century. It is the most consumed spirit in Portugal.",
+    "how_to_eat": "Drink neat or with ice as a digestif.",
+    "how_to_order": "Ask for 'um Beirão' at any bar.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Licor_Beirão",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Licor_Beirão",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-carne-de-porco-a-alentejana",
+    "name": "Carne de Porco à Alentejana",
+    "local_name": "Carne de porco à alentejana",
+    "pronunciation": "KAR-ne de POR-koo a a-len-te-ZHA-na",
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Alentejo",
+    "regions": [],
+    "description": "Cubes of pork marinated in white wine, paprika and garlic, fried and combined with clams, potatoes and coriander. It is one of Portugal's best-known pork dishes.",
+    "how_to_eat": "Eat with the fried potato cubes and pickles.",
+    "how_to_order": "Order it in Alentejo and Lisbon tascas.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carne_de_porco_à_alentejana",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Carne_de_porco_à_alentejana",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-acorda-alentejana",
+    "name": "Açorda Alentejana",
+    "local_name": "Açorda alentejana",
+    "pronunciation": "a-SOR-da",
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Alentejo",
+    "regions": [],
+    "description": "A bread soup of stale bread with garlic, coriander, olive oil and poached eggs in hot water. It is the Alentejo's classic peasant dish.",
+    "how_to_eat": "Eat hot, breaking the poached egg into the bread.",
+    "how_to_order": "Order 'açorda alentejana' in Alentejo restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Açorda",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Açorda",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-migas",
+    "name": "Migas",
+    "local_name": "Migas",
+    "pronunciation": "MEE-gash",
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Alentejo",
+    "regions": [],
+    "description": "Fried crumbs of stale bread with garlic and olive oil, a shepherds' dish. In the Alentejo it usually accompanies fried pork.",
+    "how_to_eat": "Eat as a side with pork.",
+    "how_to_order": "Order 'migas com carne de porco' in Alentejo taverns.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Migas",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Migas",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-sericaia",
+    "name": "Sericaia",
+    "local_name": "Sericaia",
+    "pronunciation": "se-ree-KAI-a",
+    "category": "sweet",
+    "country": "Portugal",
+    "state": "Alentejo",
+    "regions": [
+      "Elvas"
+    ],
+    "description": "A soufflé-like egg pudding baked in a clay dish and sprinkled with cinnamon, from Elvas. It is served with stewed Elvas greengage plums.",
+    "how_to_eat": "Eat with a syrupy plum on top.",
+    "how_to_order": "Order 'sericaia com ameixa de Elvas' in Alentejo restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sericaia",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sericaia",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-cataplana",
+    "name": "Cataplana",
+    "local_name": "Cataplana",
+    "pronunciation": "ka-ta-PLA-na",
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Algarve",
+    "regions": [],
+    "description": "A seafood stew of clams, fish or shellfish cooked in a hinged copper pan of the same name. It is the typical dish of the Algarve.",
+    "how_to_eat": "Share from the pan at the table with bread.",
+    "how_to_order": "Order 'cataplana de marisco' for two in Algarve restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cataplana",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cataplana",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-grilled-sardines",
+    "name": "Grilled Sardines",
+    "local_name": "Sardinhas assadas",
+    "pronunciation": "sar-DEE-nyash a-SA-dash",
+    "category": "street_food",
+    "country": "Portugal",
+    "state": "Algarve",
+    "regions": [
+      "Portimão",
+      "Lisbon"
+    ],
+    "description": "Whole fresh sardines grilled over charcoal with coarse salt. They are Portugal's summer food, cooked at Lisbon's Santo António festivals and in Portimão.",
+    "how_to_eat": "Eat on a slice of bread or with boiled potatoes and salad.",
+    "how_to_order": "Order 'sardinhas assadas' in summer at harbour grills.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sardines_as_food",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sardines_as_food",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-medronho",
+    "name": "Medronho",
+    "local_name": "Aguardente de medronho",
+    "pronunciation": "me-DRO-nyoo",
+    "category": "drink",
+    "country": "Portugal",
+    "state": "Algarve",
+    "regions": [],
+    "description": "A strong fruit brandy distilled from the berries of the strawberry tree that grows wild in the Algarve hills. It is the region's traditional spirit.",
+    "how_to_eat": "Drink a small shot after a meal.",
+    "how_to_order": "Ask for 'um medronho' in Algarve bars and restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Medronho",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Medronho",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-dom-rodrigo",
+    "name": "Dom Rodrigo",
+    "local_name": "Dom Rodrigo",
+    "pronunciation": "dom ro-DREE-goo",
+    "category": "sweet",
+    "country": "Portugal",
+    "state": "Algarve",
+    "regions": [
+      "Lagos"
+    ],
+    "description": "A conventual sweet of egg-yolk threads (fios de ovos) and almonds in sugar syrup, wrapped in colourful foil. It comes from Lagos.",
+    "how_to_eat": "Unwrap the foil and eat with a spoon.",
+    "how_to_order": "Buy at Algarve pastry shops.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dom_Rodrigo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dom_Rodrigo",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-cozido-das-furnas",
+    "name": "Cozido das Furnas",
+    "local_name": "Cozido das Furnas",
+    "pronunciation": "koo-ZEE-doo dash FOOR-nash",
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Azores",
+    "regions": [
+      "Furnas"
+    ],
+    "description": "A meat and vegetable stew cooked for hours in pots buried in the volcanic ground of Furnas. It is the most famous dish of São Miguel.",
+    "how_to_eat": "Eat at lunchtime in Furnas, after the pots come out of the ground.",
+    "how_to_order": "Book 'cozido das Furnas' ahead at Furnas restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://oladaniela.com/eat-azores-islands/",
+      "https://www.directoalpaladar.com/turismo-gastronomico/gastroguia-azores-que-comer-islas-portuguesas-sao-miguel-terceira-que-restaurantes-no-puedes-perderte"
+    ]
+  },
+  {
+    "id": "portugal-alcatra",
+    "name": "Alcatra",
+    "local_name": "Alcatra",
+    "pronunciation": "al-KA-tra",
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Azores",
+    "regions": [
+      "Terceira"
+    ],
+    "description": "Beef marinated in red wine and spices, then slow-cooked in a clay pot. It is the signature dish of Terceira island.",
+    "how_to_eat": "Eat with bread or sweet massa sovada to soak up the sauce.",
+    "how_to_order": "Order 'alcatra' in Terceira restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine",
+      "https://www.directoalpaladar.com/turismo-gastronomico/gastroguia-azores-que-comer-islas-portuguesas-sao-miguel-terceira-que-restaurantes-no-puedes-perderte"
+    ]
+  },
+  {
+    "id": "portugal-bolo-levedo",
+    "name": "Bolo Lêvedo",
+    "local_name": "Bolo lêvedo",
+    "pronunciation": "BO-loo LAY-ve-doo",
+    "category": "snack",
+    "country": "Portugal",
+    "state": "Azores",
+    "regions": [
+      "Furnas"
+    ],
+    "description": "A slightly sweet, round flat bread from Furnas on São Miguel. It is eaten at any meal and used for sandwiches and burgers.",
+    "how_to_eat": "Eat toasted with butter or jam.",
+    "how_to_order": "Buy at bakeries and cafés in the Azores.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://oladaniela.com/eat-azores-islands/",
+      "https://www.directoalpaladar.com/turismo-gastronomico/gastroguia-azores-que-comer-islas-portuguesas-sao-miguel-terceira-que-restaurantes-no-puedes-perderte"
+    ]
+  },
+  {
+    "id": "portugal-lapas",
+    "name": "Lapas",
+    "local_name": "Lapas",
+    "pronunciation": "LA-pash",
+    "category": "snack",
+    "country": "Portugal",
+    "state": "Azores",
+    "regions": [],
+    "description": "Limpets cooked on a griddle in butter, garlic and lemon, sometimes served raw. They are eaten all over the islands.",
+    "how_to_eat": "Eat straight from the hot pan, dipping bread in the butter.",
+    "how_to_order": "Order 'lapas grelhadas' at seaside restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://oladaniela.com/eat-azores-islands/"
+    ]
+  },
+  {
+    "id": "portugal-sao-jorge-cheese",
+    "name": "São Jorge Cheese",
+    "local_name": "Queijo São Jorge",
+    "pronunciation": "KAY-zhoo sowng ZHOR-zhe",
+    "category": "snack",
+    "country": "Portugal",
+    "state": "Azores",
+    "regions": [
+      "São Jorge"
+    ],
+    "description": "A semi-hard, spicy cow's milk cheese from São Jorge island. It is a protected designation of origin (DOP).",
+    "how_to_eat": "Eat in slices with bread.",
+    "how_to_order": "Buy at Azorean markets and cheese shops.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/São_Jorge_cheese",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/São_Jorge_cheese",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-espetada",
+    "name": "Espetada",
+    "local_name": "Espetada",
+    "pronunciation": "esh-pe-TA-da",
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Madeira",
+    "regions": [],
+    "description": "Chunks of beef rubbed with garlic, salt and bay leaf, grilled on skewers. It is Madeira's festival meat dish.",
+    "how_to_eat": "Eat off the skewer hanging at the table, with bolo do caco.",
+    "how_to_order": "Order 'espetada' in Madeira restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Espetada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Espetada",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-bolo-do-caco",
+    "name": "Bolo do Caco",
+    "local_name": "Bolo do caco",
+    "pronunciation": "BO-loo doo KA-koo",
+    "category": "street_food",
+    "country": "Portugal",
+    "state": "Madeira",
+    "regions": [],
+    "description": "A round flatbread from Madeira and Porto Santo, traditionally cooked on a flat basalt slab (caco). It is usually served with garlic butter.",
+    "how_to_eat": "Eat warm with garlic butter or as a sandwich.",
+    "how_to_order": "Buy at cafés, markets and street stalls on Madeira.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bolo_do_caco",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bolo_do_caco",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-poncha",
+    "name": "Poncha",
+    "local_name": "Poncha",
+    "pronunciation": "PON-sha",
+    "category": "drink",
+    "country": "Portugal",
+    "state": "Madeira",
+    "regions": [],
+    "description": "Madeira's traditional drink of sugar-cane aguardente, honey, sugar and orange or lemon juice. It is the island's best-known drink.",
+    "how_to_eat": "Drink fresh, usually in small glasses.",
+    "how_to_order": "Order 'uma poncha' in Madeira bars.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Poncha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Poncha",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-madeira-wine",
+    "name": "Madeira Wine",
+    "local_name": "Vinho da Madeira",
+    "pronunciation": "VEE-nyoo da ma-DAY-ra",
+    "category": "drink",
+    "country": "Portugal",
+    "state": "Madeira",
+    "regions": [
+      "Funchal"
+    ],
+    "description": "A fortified wine aged with heat, made on Madeira. 'Madeira' is an EU protected designation of origin.",
+    "how_to_eat": "Drink as an aperitif or with dessert.",
+    "how_to_order": "Taste it in Funchal wine lodges.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Madeira_wine",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Madeira_wine",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-bolo-de-mel",
+    "name": "Bolo de Mel",
+    "local_name": "Bolo de mel",
+    "pronunciation": "BO-loo de mel",
+    "category": "sweet",
+    "country": "Portugal",
+    "state": "Madeira",
+    "regions": [],
+    "description": "A dark, dense spiced cake made with sugar-cane honey, considered Madeira's oldest dessert. It is traditionally made for Christmas.",
+    "how_to_eat": "Break into pieces by hand rather than cutting.",
+    "how_to_order": "Buy at Madeira bakeries and markets.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bolo_de_mel",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bolo_de_mel",
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-espada-com-banana",
+    "name": "Espada com Banana",
+    "local_name": "Espada com banana",
+    "pronunciation": "ESH-pa-da kong ba-NA-na",
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Madeira",
+    "regions": [],
+    "description": "Fillets of black scabbardfish, caught in deep water off Madeira, fried and served with fried banana. It is the island's signature fish dish.",
+    "how_to_eat": "Eat the fish together with the sweet fried banana.",
+    "how_to_order": "Order 'espada com banana' in Funchal restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine",
+      "https://en.wikipedia.org/wiki/Black_scabbardfish"
+    ]
+  }
+]

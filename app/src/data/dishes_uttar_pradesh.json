@@ -5,6 +5,7 @@
     "local_name": null,
     "pronunciation": "TOON-day ka-BAAB",
     "category": "meal",
+    "country": "India",
     "state": "Uttar Pradesh",
     "regions": [
       "Lucknow"
@@ -12,7 +13,8 @@
     "description": "Very soft patties of finely minced meat, said to use around 160 spices, along with yogurt, ghee, saffron and rose water. A signature of Lucknow's Awadhi cuisine, it was popularised under Nawab Wajid Ali Shah. The classic version uses buffalo meat; mutton and chicken versions are also common.",
     "how_to_eat": "Tear a piece of rumali roti or paratha and pinch up the kebab with it, since it is too soft to pick up alone.",
     "how_to_order": "Ask for a plate of galouti or Tunday kebab with rumali roti at kebab shops in Aminabad or Chowk.",
-    "typical_price_inr": "50",
+    "typical_price": "50",
+    "currency": "INR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
@@ -35,6 +37,7 @@
     "local_name": null,
     "pronunciation": "UH-vuh-dhee bir-YAA-nee",
     "category": "meal",
+    "country": "India",
     "state": "Uttar Pradesh",
     "regions": [
       "Lucknow"
@@ -42,7 +45,8 @@
     "description": "Basmati rice layered with marinated meat, saffron and whole spices, then slow-cooked sealed in the dum pukht style. It is milder and more aromatic than spicier southern biryanis, often scented with rose water. It is one of the best-known dishes of Lucknow's Awadhi cuisine.",
     "how_to_eat": "Eat it with raita or salan, mixing the saffron-tinged and plain rice together.",
     "how_to_order": "Ask for mutton or chicken Awadhi biryani by the plate at biryani shops in Aminabad or Chowk; veg handi dum versions also exist.",
-    "typical_price_inr": "100-150",
+    "typical_price": "100-150",
+    "currency": "INR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
@@ -65,6 +69,7 @@
     "local_name": "निहारी",
     "pronunciation": "ni-HAA-ree KUL-cha",
     "category": "meal",
+    "country": "India",
     "state": "Uttar Pradesh",
     "regions": [
       "Lucknow"
@@ -72,7 +77,8 @@
     "description": "Nihari is a stew of slow-cooked meat shanks and bone marrow flavoured with long pepper; Lucknow is one of the two cities credited with its origin. In Lucknow it is eaten with a local kulcha that differs from the Punjabi kind, traditionally as a winter breakfast.",
     "how_to_eat": "Dip pieces of kulcha into the thick gravy; it is traditionally eaten early in the morning.",
     "how_to_order": "Ask for a plate of nihari kulcha at the old eateries of Chowk, which open early.",
-    "typical_price_inr": "60",
+    "typical_price": "60",
+    "currency": "INR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
@@ -94,6 +100,7 @@
     "local_name": null,
     "pronunciation": "ka-CHO-ree SUB-zee",
     "category": "street_food",
+    "country": "India",
     "state": "Uttar Pradesh",
     "regions": [
       "Varanasi",
@@ -104,7 +111,8 @@
     "description": "Deep-fried wheat-flour kachoris stuffed with spiced lentils or peas, served with potato curry and chutney. It is one of Uttar Pradesh's most loved breakfasts, especially in Varanasi, where the potato curry is made without onion or garlic, and in Mathura, Allahabad and Lucknow, where flaky khasta kachori is popular.",
     "how_to_eat": "Break the kachori and dip it into the potato curry; it is often followed by a jalebi.",
     "how_to_order": "Ask for kachori sabzi early in the morning at Varanasi's Kachori Gali or any breakfast stall; khasta kachori is sold by the piece.",
-    "typical_price_inr": "14",
+    "typical_price": "14",
+    "currency": "INR",
     "diet": "veg",
     "jain": false,
     "vegan": false,
@@ -127,6 +135,7 @@
     "local_name": null,
     "pronunciation": "SHAA-mee ka-BAAB",
     "category": "meal",
+    "country": "India",
     "state": "Uttar Pradesh",
     "regions": [
       "Lucknow"
@@ -134,7 +143,8 @@
     "description": "Shallow-fried patties of minced meat ground with chickpeas and spices, bound with egg. It developed in the Lucknow region during Mughal rule; the Awadhi version can include tangy green mango. It is served to guests and at Eid alongside sheer khurma.",
     "how_to_eat": "Eat it hot with sliced raw onion, a squeeze of lemon and mint or coriander chutney.",
     "how_to_order": "Ask for shami kebab by the piece or plate at kebab shops; a veg shami is also sold in Lucknow.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
@@ -156,6 +166,7 @@
     "local_name": null,
     "pronunciation": "ba-NAA-ra-see PAAN",
     "category": "snack",
+    "country": "India",
     "state": "Uttar Pradesh",
     "regions": [
       "Varanasi"
@@ -163,7 +174,8 @@
     "description": "Betel leaf folded around areca nut, slaked lime and sweet or savoury fillings, secured with a clove. Varieties include sada, meetha and zarda. Taken after meals as a digestive, it received a GI tag in 2023.",
     "how_to_eat": "Put the whole folded paan in your mouth and chew slowly; do not swallow it all at once.",
     "how_to_order": "Ask for 'meetha paan' (sweet, no tobacco) at any paan shop; say 'bina zarda' to avoid tobacco.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "veg",
     "jain": false,
     "vegan": false,
@@ -183,6 +195,7 @@
     "local_name": null,
     "pronunciation": "THUN-dai",
     "category": "drink",
+    "country": "India",
     "state": "Uttar Pradesh",
     "regions": [
       "Varanasi"
@@ -190,7 +203,8 @@
     "description": "A cold milk drink blended with almonds, fennel, melon seeds, rose petals, pepper, poppy seeds, cardamom and saffron. Associated with Holi and summer, it is described as a popular Uttar Pradesh drink, and Banaras Thandai has a GI tag.",
     "how_to_eat": "Drink it chilled; versions with bhang (cannabis) exist, so check what you are being served.",
     "how_to_order": "Ask for plain or badam thandai at sweet and thandai shops in Varanasi.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "veg",
     "jain": true,
     "vegan": false,
@@ -213,6 +227,7 @@
     "local_name": null,
     "pronunciation": "PAY-tha",
     "category": "sweet",
+    "country": "India",
     "state": "Uttar Pradesh",
     "regions": [
       "Agra"
@@ -220,7 +235,8 @@
     "description": "A translucent, chewy candy made from ash gourd cooked in sugar syrup, sold plain or flavoured with saffron or mango. Agra's Noori Gate area has hundreds of small units making it. Its link to Shah Jahan is popular legend but disputed.",
     "how_to_eat": "Eat it as is; dry petha keeps for days and is a common souvenir.",
     "how_to_order": "Ask for plain, kesar or angoori petha by weight at Agra sweet shops.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "veg",
     "jain": true,
     "vegan": true,
@@ -240,6 +256,7 @@
     "local_name": null,
     "pronunciation": "PAY-da",
     "category": "temple_food",
+    "country": "India",
     "state": "Uttar Pradesh",
     "regions": [
       "Mathura",
@@ -248,7 +265,8 @@
     "description": "Semi-soft brown balls of khoya, sugar and cardamom; peda is said to have originated in Mathura. It is offered as prasad in the Krishna temples of Mathura and Vrindavan.",
     "how_to_eat": "Eat it whole or broken into pieces; it is crumbly and milky.",
     "how_to_order": "Ask for Mathura peda by weight at sweet shops near the temples.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "veg",
     "jain": true,
     "vegan": false,
@@ -270,6 +288,7 @@
     "local_name": "मक्खन मलाई",
     "pronunciation": "MUKH-khan ma-LAI",
     "category": "sweet",
+    "country": "India",
     "state": "Uttar Pradesh",
     "regions": [
       "Kanpur",
@@ -279,7 +298,8 @@
     "description": "A winter-only froth made from milk and cream left out overnight to catch the dew, then churned for hours and flavoured with saffron, sugar and cardamom. It is said to have originated in Kanpur and is a morning street treat in Varanasi (as malaiyo) and Lucknow (as nimish). Despite the name, it contains neither butter nor cream in solid form.",
     "how_to_eat": "Eat it right away from the earthen cup with a small spoon, before it melts.",
     "how_to_order": "Look for morning carts in Varanasi's Chowk or Lucknow's old markets from November to February; it sells out by mid-morning.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "veg",
     "jain": true,
     "vegan": false,

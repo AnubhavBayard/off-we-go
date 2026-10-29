@@ -5,6 +5,7 @@
     "local_name": null,
     "pronunciation": "hy-dra-BAA-dee bir-YAA-nee",
     "category": "meal",
+    "country": "India",
     "state": "Telangana",
     "regions": [
       "Hyderabad"
@@ -12,7 +13,8 @@
     "description": "Basmati rice layered with meat (usually goat, sometimes chicken) marinated in curd and spices, with fried onions, ghee and saffron, cooked dum in a dough-sealed pot. In the kachchi style raw marinated meat and rice cook together. It is the dish most synonymous with Hyderabad.",
     "how_to_eat": "Eat it with mirchi ka salan and dahi chutney on the side.",
     "how_to_order": "Ask for 'mutton dum biryani' or 'chicken dum biryani' at any biryani house in Hyderabad.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
@@ -36,6 +38,7 @@
     "local_name": null,
     "pronunciation": "ha-LEEM",
     "category": "meal",
+    "country": "India",
     "state": "Telangana",
     "regions": [
       "Hyderabad"
@@ -43,7 +46,8 @@
     "description": "A slow-cooked stew of pounded wheat, lentils and meat (usually goat) with ghee and spices, garnished with fried onions, lime and coriander. Descended from the Arab harees, it is eaten mainly at Iftar during Ramadan and received a GI tag in 2010.",
     "how_to_eat": "Eat it hot, stirring in the fried onions, lime and ghee on top.",
     "how_to_order": "Ask for 'mutton haleem' at Hyderabad's haleem stalls during Ramadan.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
@@ -68,6 +72,7 @@
     "local_name": null,
     "pronunciation": "MIR-chee ka SAA-lun",
     "category": "meal",
+    "country": "India",
     "state": "Telangana",
     "regions": [
       "Hyderabad"
@@ -75,7 +80,8 @@
     "description": "Fried green chillies in a masala of sesame, groundnut, coconut, onion and tamarind. Despite the chillies it is fairly mild, and it is the standard accompaniment to Hyderabadi biryani.",
     "how_to_eat": "Eat it spooned over biryani.",
     "how_to_order": "It usually comes free with biryani; ask for extra salan if you want more.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "veg",
     "jain": false,
     "vegan": true,
@@ -97,6 +103,7 @@
     "local_name": null,
     "pronunciation": "ba-GHAA-ra BAIN-gun",
     "category": "meal",
+    "country": "India",
     "state": "Telangana",
     "regions": [
       "Hyderabad"
@@ -104,7 +111,8 @@
     "description": "Baby brinjals stuffed with a masala of groundnut, sesame, coconut and poppy seed, then simmered in a tangy tamarind gravy. It is a common side dish with Hyderabadi biryani.",
     "how_to_eat": "Eat it with biryani, bagara rice or roti.",
     "how_to_order": "Ask for 'baghare baingan' at a Hyderabadi restaurant.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "veg",
     "jain": false,
     "vegan": true,
@@ -126,6 +134,7 @@
     "local_name": null,
     "pronunciation": "PUT-thar ka GOSHT",
     "category": "meal",
+    "country": "India",
     "state": "Telangana",
     "regions": [
       "Hyderabad"
@@ -133,7 +142,8 @@
     "description": "Marinated mutton cooked on a heated stone slab, which gives the kebab its name.",
     "how_to_eat": "Eat it hot with roti or onion rings.",
     "how_to_order": "Ask for 'pathar ka gosht' at an old-city Hyderabadi restaurant.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
@@ -151,6 +161,7 @@
     "local_name": "సర్వపిండి",
     "pronunciation": "SAR-va PIN-dee",
     "category": "snack",
+    "country": "India",
     "state": "Telangana",
     "regions": [
       "Siddipet",
@@ -159,7 +170,8 @@
     "description": "A savoury, circular pancake of rice flour with chana dal, peanuts, sesame, curry leaves, ginger, garlic and green chillies, cooked in a deep round pan. It is a common breakfast; in Warangal it is also called tappala chekka or ginnappa.",
     "how_to_eat": "Eat it warm, breaking off pieces, with tea.",
     "how_to_order": "Ask for 'sarva pindi' at a Telangana home-style breakfast place.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "veg",
     "jain": false,
     "vegan": true,
@@ -183,6 +195,7 @@
     "local_name": null,
     "pronunciation": "ee-RAA-nee CHAI",
     "category": "drink",
+    "country": "India",
     "state": "Telangana",
     "regions": [
       "Hyderabad"
@@ -190,7 +203,8 @@
     "description": "Tea served at Hyderabad's Irani cafes, usually drunk with Osmania biscuits.",
     "how_to_eat": "Drink it with an Osmania biscuit dunked in.",
     "how_to_order": "Ask for 'Irani chai' at any Irani cafe, especially around Charminar.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "veg",
     "jain": true,
     "vegan": false,
@@ -211,6 +225,7 @@
     "local_name": null,
     "pronunciation": "os-MAA-nee-a",
     "category": "snack",
+    "country": "India",
     "state": "Telangana",
     "regions": [
       "Hyderabad"
@@ -218,7 +233,8 @@
     "description": "A sweet-salty biscuit of flour, milk, sugar, salt and cardamom, said to trace back to the kitchens of the last Nizam, Mir Osman Ali Khan. It is the classic pairing with Irani chai.",
     "how_to_eat": "Dunk it in Irani chai.",
     "how_to_order": "Ask for Osmania biscuits at an Irani cafe or bakery, sold loose or in packs.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "veg",
     "jain": false,
     "vegan": false,
@@ -240,6 +256,7 @@
     "local_name": null,
     "pronunciation": "DUB-bul ka MEE-tha",
     "category": "sweet",
+    "country": "India",
     "state": "Telangana",
     "regions": [
       "Hyderabad"
@@ -247,7 +264,8 @@
     "description": "A bread pudding of fried bread soaked in milk flavoured with saffron and cardamom, topped with dry fruits. It derives from the Mughlai shahi tukda and is a wedding favourite.",
     "how_to_eat": "Eat it warm or chilled, after biryani.",
     "how_to_order": "Ask for 'double ka meetha' as dessert at a Hyderabadi restaurant.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "veg",
     "jain": true,
     "vegan": false,
@@ -270,6 +288,7 @@
     "local_name": null,
     "pronunciation": "khoo-BAA-nee ka MEE-tha",
     "category": "sweet",
+    "country": "India",
     "state": "Telangana",
     "regions": [
       "Hyderabad"
@@ -277,7 +296,8 @@
     "description": "Dried apricots slow-cooked into a compote with sugar, topped with almonds and cream or malai. It is a popular Hyderabadi wedding dessert.",
     "how_to_eat": "Eat it with a spoon of fresh cream or ice cream.",
     "how_to_order": "Ask for 'qubani ka meetha' at a Hyderabadi restaurant or wedding caterer.",
-    "typical_price_inr": null,
+    "typical_price": null,
+    "currency": "INR",
     "diet": "veg",
     "jain": true,
     "vegan": false,

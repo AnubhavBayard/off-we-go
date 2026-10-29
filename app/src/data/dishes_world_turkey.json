@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "turkey-iskender-kebap",
+    "name": "İskender Kebap",
+    "local_name": "İskender kebap",
+    "pronunciation": "is-ken-DER ke-BAP",
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Istanbul & Marmara",
+    "regions": [
+      "Bursa"
+    ],
+    "description": "Thinly sliced grilled lamb (or chicken) laid over pieces of pide bread, topped with hot tomato sauce, melted sheep's-milk butter and yogurt. It originated in Bursa in 1867 and is one of the most popular dishes in Turkey.",
+    "how_to_eat": "Eat it hot while the butter is poured over at the table, scooping meat, bread and yogurt together.",
+    "how_to_order": "Ask for 'İskender' at kebab houses; Bursa is the place to try the original.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/İskender_kebap",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/İskender_kebap",
+      "https://en.wikipedia.org/wiki/Turkish_cuisine"
+    ]
+  },
+  {
+    "id": "turkey-inegol-kofte",
+    "name": "İnegöl Köfte",
+    "local_name": "İnegöl köftesi",
+    "pronunciation": "EE-neh-gul kuf-TEH",
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Istanbul & Marmara",
+    "regions": [
+      "İnegöl",
+      "Bursa"
+    ],
+    "description": "Grilled meatballs specific to the town of İnegöl in Bursa province. They are one of the best-known regional köfte styles in Turkey.",
+    "how_to_eat": "Eat with grilled peppers, onions and bread.",
+    "how_to_order": "Ask for 'İnegöl köfte' at köfte restaurants, especially in İnegöl and Bursa.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/İnegöl_meatballs",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/İnegöl_meatballs",
+      "https://en.wikipedia.org/wiki/Turkish_cuisine"
+    ]
+  },
+  {
+    "id": "turkey-balik-ekmek",
+    "name": "Balık Ekmek",
+    "local_name": "Balık ekmek",
+    "pronunciation": "ba-LUK ek-MEK",
+    "category": "street_food",
+    "country": "Turkey",
+    "state": "Istanbul & Marmara",
+    "regions": [
+      "Istanbul"
+    ],
+    "description": "A sandwich of fried or grilled fish fillet, typically mackerel, with onion, tomato and greens in Turkish bread. It is famously sold straight from boats at Eminönü square in Istanbul.",
+    "how_to_eat": "Eat it standing by the water, squeezing lemon over the fish.",
+    "how_to_order": "Ask for 'balık ekmek' at the boats and stalls at Eminönü by the Galata Bridge.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Balık_ekmek",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Balık_ekmek",
+      "https://en.wikipedia.org/wiki/Turkish_cuisine"
+    ]
+  },
+  {
+    "id": "turkey-simit",
+    "name": "Simit",
+    "local_name": "Simit",
+    "pronunciation": "see-MIT",
+    "category": "street_food",
+    "country": "Turkey",
+    "state": "Istanbul & Marmara",
+    "regions": [
+      "Istanbul"
+    ],
+    "description": "A ring of bread crusted with sesame seeds, sold everywhere in Turkey. In İzmir it is called gevrek, and Ankara's simit are smaller and crisper.",
+    "how_to_eat": "Eat on the go or for breakfast with tea, cheese or tomatoes.",
+    "how_to_order": "Buy one from street carts or bakeries; just ask for 'bir simit'.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Simit",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Simit",
+      "https://en.wikipedia.org/wiki/Turkish_cuisine"
+    ]
+  },
+  {
+    "id": "turkey-midye-dolma",
+    "name": "Midye Dolma",
+    "local_name": "Midye dolma",
+    "pronunciation": "mid-YEH dol-MAH",
+    "category": "street_food",
+    "country": "Turkey",
+    "state": "Istanbul & Marmara",
+    "regions": [
+      "Istanbul"
+    ],
+    "description": "Mussels stuffed with herbed and spiced rice, served in the shell. It is a common street snack in Turkey's coastal cities.",
+    "how_to_eat": "Use the loose half-shell as a spoon and squeeze lemon over each one.",
+    "how_to_order": "Buy from street vendors by the piece; say how many you want and they open them for you.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stuffed_mussels",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Stuffed_mussels"
+    ]
+  },
+  {
+    "id": "turkey-turkish-delight",
+    "name": "Turkish Delight",
+    "local_name": "Lokum",
+    "pronunciation": "lo-KOOM",
+    "category": "sweet",
+    "country": "Turkey",
+    "state": "Istanbul & Marmara",
+    "regions": [
+      "Istanbul"
+    ],
+    "description": "Small cubes of a starch and sugar gel, flavoured with rosewater, mastic or lemon, or packed with pistachios, hazelnuts or dates. They are dusted with icing sugar so they do not stick.",
+    "how_to_eat": "Eat a piece or two with Turkish coffee.",
+    "how_to_order": "Buy it by weight from confectioners and ask for a mixed box.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Turkish_delight",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Turkish_delight"
+    ]
+  },
+  {
+    "id": "turkey-turkish-coffee",
+    "name": "Turkish Coffee",
+    "local_name": "Türk kahvesi",
+    "pronunciation": "turk kah-veh-SEE",
+    "category": "drink",
+    "country": "Turkey",
+    "state": "Istanbul & Marmara",
+    "regions": [],
+    "description": "Very finely ground coffee boiled in a small pot called a cezve and served unfiltered, with the grounds settling in the cup. It is a central part of Turkish hospitality.",
+    "how_to_eat": "Sip slowly and stop before the grounds at the bottom.",
+    "how_to_order": "Order it 'sade' (no sugar), 'orta' (medium) or 'şekerli' (sweet); sugar goes in while brewing.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Turkish_coffee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Turkish_coffee"
+    ]
+  },
+  {
+    "id": "turkey-boyoz",
+    "name": "Boyoz",
+    "local_name": "İzmir boyozu",
+    "pronunciation": "boy-OZ",
+    "category": "snack",
+    "country": "Turkey",
+    "state": "Aegean",
+    "regions": [
+      "İzmir"
+    ],
+    "description": "A flaky pastry of Sephardic Jewish origin made from flour, sunflower oil and a little tahini. It is İzmir's characteristic local speciality and registered in Turkey as 'İzmir Boyozu'.",
+    "how_to_eat": "Eat warm for breakfast with a boiled egg and tea.",
+    "how_to_order": "Ask for 'boyoz' at bakeries and street stalls in İzmir in the morning.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boyoz",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Boyoz"
+    ]
+  },
+  {
+    "id": "turkey-kumru",
+    "name": "Kumru",
+    "local_name": "Kumru",
+    "pronunciation": "koom-ROO",
+    "category": "street_food",
+    "country": "Turkey",
+    "state": "Aegean",
+    "regions": [
+      "İzmir"
+    ],
+    "description": "A soft bun sandwich filled with cheese, tomato and sucuk (spicy sausage), sometimes made with chickpea sourdough. It appeared in İzmir in the mid-20th century.",
+    "how_to_eat": "Eat hot off the press, with pickles or hot pepper if offered.",
+    "how_to_order": "Ask for 'kumru' at sandwich shops in İzmir.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kumru_(sandwich)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kumru_(sandwich)"
+    ]
+  },
+  {
+    "id": "turkey-cop-sis",
+    "name": "Çöp Şiş",
+    "local_name": "Çöp şiş",
+    "pronunciation": "CHOP shish",
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Aegean",
+    "regions": [
+      "Selçuk",
+      "Germencik"
+    ],
+    "description": "Small pieces of lamb and fat marinated with garlic, tomato, black pepper, oregano and olive oil, grilled on thin wooden skewers. It is a speciality of Selçuk and Germencik near Ephesus.",
+    "how_to_eat": "Slide the meat off with flatbread and eat with onions and grilled tomatoes.",
+    "how_to_order": "Ask for 'çöp şiş' by the portion at grill houses around Selçuk.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Çöp_şiş",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Çöp_şiş",
+      "https://en.wikipedia.org/wiki/Turkish_cuisine"
+    ]
+  },
+  {
+    "id": "turkey-mesir-macunu",
+    "name": "Mesir Macunu",
+    "local_name": "Manisa Mesir Macunu",
+    "pronunciation": "meh-SEER ma-joo-NOO",
+    "category": "sweet",
+    "country": "Turkey",
+    "state": "Aegean",
+    "regions": [
+      "Manisa"
+    ],
+    "description": "A sticky paste of sugar or honey blended with dozens of spices, associated with the city of Manisa, which holds a yearly festival for it. It is protected in the EU as the PGI 'Manisa Mesir Macunu'.",
+    "how_to_eat": "Eat a small piece on its own, like a candy.",
+    "how_to_order": "Buy wrapped pieces from sweet shops in Manisa.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mesir_macunu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mesir_macunu",
+      "https://agrinfo.eu/book-of-reports/register-of-pdos-and-pgis-updates-septembernovember-2024/"
+    ]
+  },
+  {
+    "id": "turkey-lokma",
+    "name": "Lokma",
+    "local_name": "Lokma",
+    "pronunciation": "LOK-ma",
+    "category": "sweet",
+    "country": "Turkey",
+    "state": "Aegean",
+    "regions": [],
+    "description": "Balls of leavened dough deep-fried and soaked in syrup or honey, sometimes dusted with cinnamon. The dessert goes back to the medieval Arab 'luqmat al-qadi'.",
+    "how_to_eat": "Eat hot, straight from the fryer.",
+    "how_to_order": "Buy a portion from lokma shops and stalls.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lokma",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lokma"
+    ]
+  },
+  {
+    "id": "turkey-adana-kebap",
+    "name": "Adana Kebap",
+    "local_name": "Adana kebabı",
+    "pronunciation": "a-da-NA ke-BAP",
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Mediterranean",
+    "regions": [
+      "Adana"
+    ],
+    "description": "A long strip of hand-minced lamb and tail fat on a wide iron skewer, grilled over charcoal. It is named after the city of Adana and is spicier than Urfa kebap.",
+    "how_to_eat": "Wrap the meat in lavash with onions, sumac and parsley.",
+    "how_to_order": "Ask for 'Adana' at kebab houses; ask for 'acılı' if you want it hot.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Adana_kebabı",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Adana_kebabı",
+      "https://en.wikipedia.org/wiki/Turkish_cuisine"
+    ]
+  },
+  {
+    "id": "turkey-tantuni",
+    "name": "Tantuni",
+    "local_name": "Mersin tantunisi",
+    "pronunciation": "tan-too-NEE",
+    "category": "street_food",
+    "country": "Turkey",
+    "state": "Mediterranean",
+    "regions": [
+      "Mersin"
+    ],
+    "description": "Julienned beef or lamb boiled and then stir-fried with cottonseed oil on a sac plate, served in thin bread. It comes from Mersin and was registered in Turkey as 'Mersin Tantunisi' in 2017.",
+    "how_to_eat": "Eat as a wrap with tomato, onion and parsley, with şalgam on the side.",
+    "how_to_order": "Ask for 'tantuni dürüm' at tantuni shops in Mersin.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tantuni",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tantuni"
+    ]
+  },
+  {
+    "id": "turkey-salgam",
+    "name": "Şalgam",
+    "local_name": "Şalgam suyu",
+    "pronunciation": "shal-GAM",
+    "category": "drink",
+    "country": "Turkey",
+    "state": "Mediterranean",
+    "regions": [
+      "Adana",
+      "Mersin",
+      "Hatay"
+    ],
+    "description": "A sour, lactic-fermented drink made with purple carrot, from Adana, Hatay, Mersin and the Çukurova region. It is the classic drink with kebab in the south.",
+    "how_to_eat": "Drink cold alongside kebab.",
+    "how_to_order": "Ask for 'şalgam', plain or 'acılı' (spicy).",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Şalgam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Şalgam"
+    ]
+  },
+  {
+    "id": "turkey-antakya-kunefe",
+    "name": "Antakya Künefe",
+    "local_name": "Antakya Künefesi",
+    "pronunciation": "ku-neh-FEH",
+    "category": "sweet",
+    "country": "Turkey",
+    "state": "Mediterranean",
+    "regions": [
+      "Antakya",
+      "Hatay"
+    ],
+    "description": "Thread-like kadayıf dough layered with fresh Antakya cheese and butter, baked and soaked in syrup. 'Antakya Künefesi' was registered as an EU PGI in 2023 and may only be made in Hatay province under that name.",
+    "how_to_eat": "Eat hot, while the cheese is still stretchy.",
+    "how_to_order": "Order 'künefe' at dessert shops in Antakya; it is made fresh per portion.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Knafeh",
+    "source_urls": [
+      "https://www.hurriyetdailynews.com/antakyas-kunefe-receives-protected-status-181591",
+      "https://en.wikipedia.org/wiki/Knafeh"
+    ]
+  },
+  {
+    "id": "turkey-cezerye",
+    "name": "Cezerye",
+    "local_name": "Cezerye",
+    "pronunciation": "jeh-ZER-yeh",
+    "category": "sweet",
+    "country": "Turkey",
+    "state": "Mediterranean",
+    "regions": [
+      "Mersin"
+    ],
+    "description": "A semi-gelatinous sweet of caramelised carrots, shredded coconut and roasted walnuts, hazelnuts or pistachios, cut into small bars. It comes from Mersin province.",
+    "how_to_eat": null,
+    "how_to_order": "Buy by the box or weight at sweet shops in Mersin.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cezerye",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cezerye"
+    ]
+  },
+  {
+    "id": "turkey-haytali",
+    "name": "Haytalı",
+    "local_name": "Haytalı",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Turkey",
+    "state": "Mediterranean",
+    "regions": [
+      "Adana"
+    ],
+    "description": "A cold dessert of starch pudding with ice cream or crushed ice in sweetened rose water. It is a Mediterranean-region summer sweet.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'haytalı' at dessert shops in Adana and Mersin in summer.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Turkish_cuisine"
+    ]
+  },
+  {
+    "id": "turkey-antep-baklava",
+    "name": "Antep Baklava",
+    "local_name": "Antep Baklavası",
+    "pronunciation": "bak-la-VA",
+    "category": "sweet",
+    "country": "Turkey",
+    "state": "Southeastern Anatolia",
+    "regions": [
+      "Gaziantep"
+    ],
+    "description": "Layers of thin filo with Antep pistachios, butter and syrup; the pistachio gives the base its dark green colour. It was Turkey's first product registered as an EU PGI (2013).",
+    "how_to_eat": "Eat a slice or two with tea.",
+    "how_to_order": "Buy by the kilo or portion at baklava houses in Gaziantep; genuine boxes carry the official logo.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Baklava",
+    "source_urls": [
+      "https://www.eeas.europa.eu/delegations/t%C3%BCrkiye/taste-heritage-gazianteps-iconic-tastes-secure-eu-protection_en",
+      "https://eur-lex.europa.eu/eli/reg_impl/2013/1399/oj/eng/pdf",
+      "https://en.wikipedia.org/wiki/Baklava"
+    ]
+  },
+  {
+    "id": "turkey-katmer",
+    "name": "Katmer",
+    "local_name": "Katmer",
+    "pronunciation": "kat-MER",
+    "category": "sweet",
+    "country": "Turkey",
+    "state": "Southeastern Anatolia",
+    "regions": [
+      "Gaziantep"
+    ],
+    "description": "A paper-thin pastry folded around kaymak (clotted cream) and raw ground pistachio and baked. In Gaziantep it is a breakfast dish, sold from counters that open at dawn.",
+    "how_to_eat": "Eat hot for breakfast, with tea.",
+    "how_to_order": "Go early: katmer shops in Gaziantep open around 5-6 am and close before lunch.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Qatlama",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Turkish_cuisine",
+      "https://foodandtravel.com/travel/gourmet-traveller/fields-of-gold-a-gourmet-guide-to-gaziantep-turkey"
+    ]
+  },
+  {
+    "id": "turkey-lahmacun",
+    "name": "Lahmacun",
+    "local_name": "Lahmacun",
+    "pronunciation": "lah-ma-JOON",
+    "category": "street_food",
+    "country": "Turkey",
+    "state": "Southeastern Anatolia",
+    "regions": [
+      "Gaziantep",
+      "Şanlıurfa"
+    ],
+    "description": "A thin flatbread topped with minced meat, onion, garlic, tomato, peppers, parsley and chili, baked in a hot oven. Gaziantep's version is thinner and spicier than Urfa's.",
+    "how_to_eat": "Squeeze lemon, add parsley and onion, roll it up and eat by hand.",
+    "how_to_order": "Order by the piece at lahmacun and pide ovens.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lahmacun",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lahmacun",
+      "https://tablejourney.com/turkey/gaziantep/signature-dishes/"
+    ]
+  },
+  {
+    "id": "turkey-urfa-kebap",
+    "name": "Urfa Kebap",
+    "local_name": "Urfa kebabı",
+    "pronunciation": "OOR-fa ke-BAP",
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Southeastern Anatolia",
+    "regions": [
+      "Şanlıurfa"
+    ],
+    "description": "A minced lamb skewer kebab from Şanlıurfa, thicker and less spicy than Adana kebap. It is seasoned with the region's isot (Urfa pepper).",
+    "how_to_eat": "Wrap in lavash with grilled peppers and onions.",
+    "how_to_order": "Ask for 'Urfa' at kebab houses.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Turkish_cuisine"
+    ]
+  },
+  {
+    "id": "turkey-cig-kofte",
+    "name": "Çiğ Köfte",
+    "local_name": "Çiğ köfte",
+    "pronunciation": "CHEE kuf-teh",
+    "category": "snack",
+    "country": "Turkey",
+    "state": "Southeastern Anatolia",
+    "regions": [
+      "Şanlıurfa"
+    ],
+    "description": "A spiced paste of fine bulgur with isot pepper, kneaded by hand, a speciality of Urfa. Traditionally made with raw meat, but public sale of the raw-meat version was banned in 2008, so what is sold today is the meatless bulgur version.",
+    "how_to_eat": "Wrap in lettuce or lavash with lemon.",
+    "how_to_order": "Buy at çiğ köfte shops and from street vendors, as a dürüm (wrap) or by the portion.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Çiğ_köfte",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Çiğ_köfte",
+      "https://en.wikipedia.org/wiki/Turkish_cuisine"
+    ]
+  },
+  {
+    "id": "turkey-ali-nazik",
+    "name": "Ali Nazik",
+    "local_name": "Ali nazik",
+    "pronunciation": "a-LEE na-ZIK",
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Southeastern Anatolia",
+    "regions": [
+      "Gaziantep"
+    ],
+    "description": "Smoky charred aubergine beaten into garlic yogurt, topped with lamb cooked in butter. It is a Gaziantep classic.",
+    "how_to_eat": "Scoop up the meat and aubergine yogurt together with bread.",
+    "how_to_order": "Ask for 'Ali nazik' at kebab restaurants in Gaziantep.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Turkish_cuisine",
+      "https://foodandtravel.com/travel/gourmet-traveller/fields-of-gold-a-gourmet-guide-to-gaziantep-turkey"
+    ]
+  },
+  {
+    "id": "turkey-beyran",
+    "name": "Beyran",
+    "local_name": "Beyran",
+    "pronunciation": "bey-RAN",
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Southeastern Anatolia",
+    "regions": [
+      "Gaziantep"
+    ],
+    "description": "A spicy soup of lamb neck and cheek with rice, garlic, butter, pepper paste and Aleppo pepper flakes. It originated in Gaziantep, where it is eaten for breakfast.",
+    "how_to_eat": "Eat hot in the morning with lemon and bread.",
+    "how_to_order": "Go to a beyran shop in Gaziantep in the morning.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beyran_soup",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Beyran_soup"
+    ]
+  },
+  {
+    "id": "turkey-menengic-kahvesi",
+    "name": "Menengiç Coffee",
+    "local_name": "Gaziantep Menengiç Kahvesi",
+    "pronunciation": "meh-nen-GICH kah-veh-SEE",
+    "category": "drink",
+    "country": "Turkey",
+    "state": "Southeastern Anatolia",
+    "regions": [
+      "Gaziantep"
+    ],
+    "description": "A caffeine-free hot drink made from roasted, ground terebinth fruits, related to the pistachio. 'Gaziantep Menengiç Kahvesi' was registered as an EU PDO in 2024.",
+    "how_to_eat": "Sip it like Turkish coffee.",
+    "how_to_order": "Ask for 'menengiç kahvesi' in cafés in Gaziantep.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kurdish_coffee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kurdish_coffee",
+      "https://www.eeas.europa.eu/delegations/t%C3%BCrkiye/taste-heritage-gazianteps-iconic-tastes-secure-eu-protection_en"
+    ]
+  },
+  {
+    "id": "turkey-kayseri-manti",
+    "name": "Kayseri Mantı",
+    "local_name": "Kayseri mantısı",
+    "pronunciation": "man-TUH",
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Central Anatolia",
+    "regions": [
+      "Kayseri"
+    ],
+    "description": "Tiny dumplings of spiced minced lamb or beef in thin dough, boiled and served with garlic yogurt and pepper butter. Kayseri is the city most known for mantı.",
+    "how_to_eat": "Eat with a spoon, mixing in the yogurt and sauce.",
+    "how_to_order": "Ask for 'mantı' at home-style restaurants in Kayseri.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Manti_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Manti_(food)",
+      "https://en.wikipedia.org/wiki/Turkish_cuisine"
+    ]
+  },
+  {
+    "id": "turkey-kayseri-pastirmasi",
+    "name": "Kayseri Pastırma",
+    "local_name": "Kayseri Pastırması",
+    "pronunciation": "pas-tur-MA",
+    "category": "snack",
+    "country": "Turkey",
+    "state": "Central Anatolia",
+    "regions": [
+      "Kayseri"
+    ],
+    "description": "Heavily seasoned air-dried cured beef, coated in a spiced paste. Kayseri's pastırma was registered as an EU PGI in 2026.",
+    "how_to_eat": "Eat thinly sliced with bread, or cooked with eggs for breakfast.",
+    "how_to_order": "Buy by weight, sliced thin, from pastırma shops in Kayseri.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pastirma",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pastirma",
+      "https://hurriyetdailynews.com/kayseri-pastirma-secures-eu-protected-status-220406"
+    ]
+  },
+  {
+    "id": "turkey-etli-ekmek",
+    "name": "Etli Ekmek",
+    "local_name": "Etli ekmek",
+    "pronunciation": "et-LEE ek-MEK",
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Central Anatolia",
+    "regions": [
+      "Konya"
+    ],
+    "description": "A long, thin flatbread topped with minced lamb or beef, onions, tomatoes and peppers, baked in a stone oven. It originated in Konya.",
+    "how_to_eat": "Eat by hand, cut into strips, with ayran.",
+    "how_to_order": "Ask for 'etli ekmek' at bakeries and specialised restaurants in Konya.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Etli_ekmek",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Etli_ekmek"
+    ]
+  },
+  {
+    "id": "turkey-testi-kebabi",
+    "name": "Testi Kebabı",
+    "local_name": "Testi kebabı",
+    "pronunciation": "tes-TEE ke-ba-BUH",
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Central Anatolia",
+    "regions": [
+      "Cappadocia",
+      "Avanos"
+    ],
+    "description": "Lamb or beef with vegetables and spices, sealed in a clay pot and slow-cooked. It is linked to the pottery town of Avanos in Cappadocia, and the pot is cracked open at the table.",
+    "how_to_eat": "Let the waiter break the pot, then eat the stew with rice or bread.",
+    "how_to_order": "Ask for 'testi kebabı' at restaurants in Cappadocia; one pot is often shared.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Turkish_cuisine",
+      "https://central.goturkiye.com/taste",
+      "https://eatinasia.blog/countries/turkey/traditional_turkish_testi_kebab"
+    ]
+  },
+  {
+    "id": "turkey-gozleme",
+    "name": "Gözleme",
+    "local_name": "Gözleme",
+    "pronunciation": "guz-leh-MEH",
+    "category": "street_food",
+    "country": "Turkey",
+    "state": "Central Anatolia",
+    "regions": [],
+    "description": "Thin unleavened dough rolled out, filled with cheese, spinach, potato or minced meat, sealed and cooked on a griddle. It is common in rural areas across Turkey.",
+    "how_to_eat": "Eat hot, folded, with ayran.",
+    "how_to_order": "Ask for 'gözleme' with your filling ('peynirli' cheese, 'ıspanaklı' spinach, 'kıymalı' meat).",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gözleme",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gözleme",
+      "https://en.wikipedia.org/wiki/Turkish_cuisine"
+    ]
+  },
+  {
+    "id": "turkey-keskek",
+    "name": "Keşkek",
+    "local_name": "Keşkek",
+    "pronunciation": "kesh-KEK",
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Central Anatolia",
+    "regions": [],
+    "description": "A ceremonial stew of meat or chicken pounded with wheat, served at weddings and festivals. The keşkek tradition is on UNESCO's intangible cultural heritage list.",
+    "how_to_eat": null,
+    "how_to_order": "Look for it at festivals, weddings and traditional restaurants.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Keşkek",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Keşkek",
+      "https://en.wikipedia.org/wiki/Turkish_cuisine"
+    ]
+  },
+  {
+    "id": "turkey-ayran",
+    "name": "Ayran",
+    "local_name": "Ayran",
+    "pronunciation": "eye-RAHN",
+    "category": "drink",
+    "country": "Turkey",
+    "state": "Central Anatolia",
+    "regions": [],
+    "description": "A cold, savoury drink of yogurt, water and salt. It is the national drink of Turkey and the standard partner to kebab.",
+    "how_to_eat": "Drink cold with kebab, pide or gözleme.",
+    "how_to_order": "Ask for 'ayran'; 'açık ayran' is the fresh, frothy version.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ayran",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ayran"
+    ]
+  },
+  {
+    "id": "turkey-hamsi-tava",
+    "name": "Hamsi Tava",
+    "local_name": "Hamsi tava",
+    "pronunciation": "HAM-see ta-VA",
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Black Sea",
+    "regions": [],
+    "description": "Black Sea anchovies coated in cornmeal and pan-fried. Hamsi is the defining fish of the Black Sea region.",
+    "how_to_eat": "Eat whole, with onion, rocket and cornbread.",
+    "how_to_order": "Ask for 'hamsi tava' at fish restaurants on the Black Sea coast.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Turkish_cuisine"
+    ]
+  },
+  {
+    "id": "turkey-hamsili-pilav",
+    "name": "Hamsili Pilav",
+    "local_name": "Hamsili pilav",
+    "pronunciation": "HAM-see-lee pi-LAV",
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Black Sea",
+    "regions": [],
+    "description": "Spiced rice covered with anchovies and baked in the oven. It is a speciality of the Black Sea region.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'hamsili pilav' at Black Sea restaurants.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Turkish_cuisine"
+    ]
+  },
+  {
+    "id": "turkey-kuymak",
+    "name": "Kuymak",
+    "local_name": "Kuymak",
+    "pronunciation": "kooy-MAK",
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Black Sea",
+    "regions": [
+      "Trabzon",
+      "Rize"
+    ],
+    "description": "A rich dish of cornmeal cooked with butter and melted cheese until stretchy. It is from the Pontus region and popular around the Black Sea.",
+    "how_to_eat": "Eat with bread, dipped from the shared pan.",
+    "how_to_order": "Ask for 'kuymak' at breakfast places in the Black Sea region.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kuymak",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kuymak",
+      "https://en.wikipedia.org/wiki/Turkish_cuisine"
+    ]
+  },
+  {
+    "id": "turkey-laz-boregi",
+    "name": "Laz Böreği",
+    "local_name": "Laz böreği",
+    "pronunciation": "LAZ bu-reh-EE",
+    "category": "sweet",
+    "country": "Turkey",
+    "state": "Black Sea",
+    "regions": [],
+    "description": "Layers of filo filled with milk custard and covered in syrup. It is the sweet börek of the eastern Black Sea.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'Laz böreği' at pastry shops in Trabzon and Rize.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Galaktoboureko",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Galaktoboureko",
+      "https://en.wikipedia.org/wiki/Turkish_cuisine"
+    ]
+  },
+  {
+    "id": "turkey-turkish-tea",
+    "name": "Turkish Tea",
+    "local_name": "Çay",
+    "pronunciation": "CHAI",
+    "category": "drink",
+    "country": "Turkey",
+    "state": "Black Sea",
+    "regions": [
+      "Rize"
+    ],
+    "description": "Black tea brewed strong in a double teapot and served in small tulip glasses. Most of it is grown on the Black Sea coast around Rize, and Turkey drinks more tea per person than any other country.",
+    "how_to_eat": "Drink hot, with sugar cubes on the side.",
+    "how_to_order": "Ask for 'çay'; 'açık' for light, 'demli' for strong.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tea_in_Turkey",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tea_in_Turkey"
+    ]
+  },
+  {
+    "id": "turkey-cag-kebabi",
+    "name": "Cağ Kebabı",
+    "local_name": "Erzurum Oltu Cağ Kebabı",
+    "pronunciation": "JAH ke-ba-BUH",
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Eastern Anatolia",
+    "regions": [
+      "Erzurum"
+    ],
+    "description": "Marinated lamb stacked on a horizontal rotating spit, sliced off onto skewers. It is the trademark of Erzurum and was registered in Turkey as 'Erzurum Oltu Cağ Kebabı' in 2010.",
+    "how_to_eat": "Pull the meat off the skewer with lavash and onions.",
+    "how_to_order": "Order by the skewer at cağ kebabı houses in Erzurum.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cağ_kebabı",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cağ_kebabı"
+    ]
+  },
+  {
+    "id": "turkey-van-kahvaltisi",
+    "name": "Van Breakfast",
+    "local_name": "Van kahvaltısı",
+    "pronunciation": "VAN kah-val-tuh-SUH",
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Eastern Anatolia",
+    "regions": [
+      "Van"
+    ],
+    "description": "A huge spread with Van honey, kaymak cream, butter, herbed and braided cheeses, olives, eggs with sausage, murtuğa and kavut. Van is famous across Turkey for its breakfast.",
+    "how_to_eat": "Share many small plates with bread and endless tea.",
+    "how_to_order": "Go to a breakfast house ('kahvaltı salonu') in Van and order the full breakfast.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://goturkiye.com/van/taste"
+    ]
+  },
+  {
+    "id": "turkey-otlu-peynir",
+    "name": "Otlu Peynir",
+    "local_name": "Otlu peynir",
+    "pronunciation": "ot-LOO pey-NEER",
+    "category": "snack",
+    "country": "Turkey",
+    "state": "Eastern Anatolia",
+    "regions": [
+      "Van",
+      "Bitlis"
+    ],
+    "description": "A salty, crumbly white cheese, usually sheep's milk, mixed with wild herbs such as sirmo (wild garlic). Van and Bitlis are known for it.",
+    "how_to_eat": "Eat at breakfast with bread and tea.",
+    "how_to_order": "Buy by weight at cheese shops in Van, or ask for it at breakfast.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://goturkiye.com/van/taste",
+      "https://en.wikipedia.org/wiki/Turkish_cuisine"
+    ]
+  },
+  {
+    "id": "turkey-murtuga",
+    "name": "Murtuğa",
+    "local_name": "Murtuğa",
+    "pronunciation": "moor-too-AH",
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Eastern Anatolia",
+    "regions": [
+      "Van"
+    ],
+    "description": "A simple, rich breakfast dish unique to Van, made from flour fried in butter and cooked with eggs.",
+    "how_to_eat": "Eat hot with bread as part of a Van breakfast.",
+    "how_to_order": "Ask for 'murtuğa' at breakfast houses in Van.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://goturkiye.com/van/taste",
+      "https://istanbul.com/tr/blog/food-drink/best-turkish-breakfast-istanbul"
+    ]
+  }
+]

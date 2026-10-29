@@ -1,0 +1,772 @@
+[
+  {
+    "id": "netherlands-bitterballen",
+    "name": "Bitterballen",
+    "local_name": "Bitterballen",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Netherlands",
+    "state": "Amsterdam & North Holland",
+    "regions": [],
+    "description": "Small round deep-fried balls of thick meat ragout coated in breadcrumbs. They are the classic Dutch bar snack with a beer.",
+    "how_to_eat": "Eat dipped in mustard, letting them cool a little first.",
+    "how_to_order": "Order a portion of bitterballen with drinks at a café or pub.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bitterballen",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bitterballen",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-kroket",
+    "name": "Kroket",
+    "local_name": "Kroket",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Netherlands",
+    "state": "Amsterdam & North Holland",
+    "regions": [],
+    "description": "A cylinder of beef or veal ragout coated in breadcrumbs and deep-fried. It is a Dutch fast-food staple sold from snack bars and wall vending machines.",
+    "how_to_eat": "Eat on a soft bread roll with mustard ('broodje kroket').",
+    "how_to_order": "Ask for a 'broodje kroket' at a snack bar.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Croquette",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Croquette",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-ossenworst",
+    "name": "Ossenworst",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Netherlands",
+    "state": "Amsterdam & North Holland",
+    "regions": [
+      "Amsterdam"
+    ],
+    "description": "A raw spiced beef sausage from Amsterdam, originally made with ox meat. It is seasoned with spices from the former Dutch East Indies.",
+    "how_to_eat": "Eat sliced with mustard and pickled onions.",
+    "how_to_order": "Order a 'broodje ossenworst' at Amsterdam cafés or butchers.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ossenworst",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ossenworst",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-stamppot",
+    "name": "Stamppot",
+    "local_name": "Stamppot",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Netherlands",
+    "state": "Amsterdam & North Holland",
+    "regions": [],
+    "description": "Mashed potatoes mixed with vegetables, such as kale (boerenkool) or sauerkraut. It is the classic Dutch winter comfort food.",
+    "how_to_eat": "Eat with smoked sausage and gravy.",
+    "how_to_order": "Ask for 'stamppot boerenkool met rookworst' in winter.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stamppot",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Stamppot",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-erwtensoep",
+    "name": "Erwtensoep",
+    "local_name": "Erwtensoep",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Netherlands",
+    "state": "Amsterdam & North Holland",
+    "regions": [],
+    "description": "A very thick soup of split peas with pork, celeriac and leeks, finished with slices of smoked sausage (rookworst). Also called snert, it is the classic Dutch winter dish, traditionally said to be thick enough to stand a spoon in.",
+    "how_to_eat": "Eat with rye bread.",
+    "how_to_order": "Look for it on winter café menus.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pea_soup",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pea_soup",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-dutch-apple-pie",
+    "name": "Dutch Apple Pie",
+    "local_name": "Appeltaart",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Netherlands",
+    "state": "Amsterdam & North Holland",
+    "regions": [],
+    "description": "A deep apple pie spiced with cinnamon, often with raisins, under a lattice of crumbly pastry. It is a fixture of Dutch cafés and coffee time.",
+    "how_to_eat": "Eat with whipped cream.",
+    "how_to_order": "Ask for 'appeltaart met slagroom' at cafés.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Apple_pie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Apple_pie",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-oliebollen",
+    "name": "Oliebollen",
+    "local_name": "Oliebol",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Netherlands",
+    "state": "Amsterdam & North Holland",
+    "regions": [],
+    "description": "Deep-fried balls of yeast dough, often with raisins or currants. They are the traditional Dutch treat for New Year's Eve, sold from street stalls in winter.",
+    "how_to_eat": "Eat dusted with powdered sugar.",
+    "how_to_order": "Buy from street stalls in winter.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Oliebol",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Oliebol",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-jenever",
+    "name": "Jenever",
+    "local_name": "Jenever",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Netherlands",
+    "state": "Amsterdam & North Holland",
+    "regions": [],
+    "description": "A juniper-flavoured spirit and ancestor of gin. Jenever is a protected geographical indication of the Netherlands and Belgium.",
+    "how_to_eat": "Sip from a tulip glass filled to the brim.",
+    "how_to_order": "Ask for 'jonge' or 'oude' jenever at a proeflokaal.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jenever",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jenever",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-hollandse-nieuwe",
+    "name": "Hollandse Nieuwe",
+    "local_name": "Hollandse Nieuwe",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Netherlands",
+    "state": "South Holland & Zeeland",
+    "regions": [
+      "Scheveningen"
+    ],
+    "description": "Young herring, gutted but with the pancreas left in and lightly salted so its enzymes ripen the fish, eaten raw. 'Hollandse maatjesharing / Hollandse Nieuwe' is an EU Traditional Speciality Guaranteed, and the new season is celebrated each summer in Scheveningen.",
+    "how_to_eat": "Hold by the tail and eat, or eat in pieces with onions and pickles.",
+    "how_to_order": "Ask for a 'haring' at a herring stand.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Soused_herring",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Soused_herring",
+      "https://www.gov.uk/protected-food-drink-names/hollandse-maatjesharing-slash-hollandse-nieuwe-slash-hollandischer-matjes",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-kibbeling",
+    "name": "Kibbeling",
+    "local_name": "Kibbeling",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Netherlands",
+    "state": "South Holland & Zeeland",
+    "regions": [],
+    "description": "Small chunks of battered, deep-fried white fish. Once a local coastal snack, it has become a national Dutch fast food.",
+    "how_to_eat": "Eat with garlic or remoulade sauce.",
+    "how_to_order": "Buy from fish stalls at markets.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kibbeling",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kibbeling",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-stroopwafel",
+    "name": "Stroopwafel",
+    "local_name": "Stroopwafel",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Netherlands",
+    "state": "South Holland & Zeeland",
+    "regions": [
+      "Gouda"
+    ],
+    "description": "A thin waffle sliced in two and filled with a caramel-like syrup. It originates in the city of Gouda and is now eaten across the country.",
+    "how_to_eat": "Place on a hot drink to warm it.",
+    "how_to_order": "Buy fresh from market stalls.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stroopwafel",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Stroopwafel",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-hutspot",
+    "name": "Hutspot",
+    "local_name": "Hutspot",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Netherlands",
+    "state": "South Holland & Zeeland",
+    "regions": [
+      "Leiden"
+    ],
+    "description": "Boiled and mashed potatoes, carrots and onions, traditionally cooked with klapstuk beef. Legend ties it to the end of the Siege of Leiden in 1574, and it is still eaten in Leiden every 3 October.",
+    "how_to_eat": "Eat with klapstuk beef or bacon.",
+    "how_to_order": "Look for it in Leiden on 3 October.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hutspot",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hutspot",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-poffertjes",
+    "name": "Poffertjes",
+    "local_name": "Poffertjes",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Netherlands",
+    "state": "South Holland & Zeeland",
+    "regions": [],
+    "description": "Small, fluffy pancakes made from a yeasted batter with buckwheat flour, cooked in a special pan with shallow round dimples. They are a favourite treat at Dutch markets and fairs.",
+    "how_to_eat": "Eat with butter and powdered sugar.",
+    "how_to_order": "Buy from stalls at markets and fairs.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Poffertjes",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Poffertjes",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-zeeland-mussels",
+    "name": "Zeeland Mussels",
+    "local_name": "Zeeuwse mosselen",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Netherlands",
+    "state": "South Holland & Zeeland",
+    "regions": [
+      "Yerseke"
+    ],
+    "description": "Mussels sold as Zeeuwse mosselen, since all Dutch mussels for consumption are cleaned in Zeeland's Oosterschelde. A pan of steamed mussels is the signature seafood meal of the province.",
+    "how_to_eat": "Eat with fries.",
+    "how_to_order": "Order a pot of mussels in Zeeland.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-zeeuwse-bolus",
+    "name": "Zeeuwse Bolus",
+    "local_name": "Zeeuwse bolus",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Netherlands",
+    "state": "South Holland & Zeeland",
+    "regions": [
+      "Zeeland"
+    ],
+    "description": "A sweet, sticky spiralled bun with brown sugar and cinnamon. It is a classic example of the rich, sugary doughs of Zeeland.",
+    "how_to_eat": "Eat with butter and coffee.",
+    "how_to_order": "Buy from Zeeland bakeries.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zeeuwse_bolus",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Zeeuwse_bolus",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-gelderse-rookworst",
+    "name": "Gelderse Rookworst",
+    "local_name": "Gelderse rookworst",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Netherlands",
+    "state": "Northern & Eastern Netherlands",
+    "regions": [
+      "Gelderland"
+    ],
+    "description": "A smoked pork sausage, the most famous sausage of the region. It is the usual partner for stamppot and erwtensoep.",
+    "how_to_eat": "Eat sliced.",
+    "how_to_order": "Look for it at butchers.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rookworst",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rookworst",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-balkenbrij",
+    "name": "Balkenbrij",
+    "local_name": "Balkenbrij",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Netherlands",
+    "state": "Northern & Eastern Netherlands",
+    "regions": [],
+    "description": "Meat scraps and offal broth thickened with buckwheat flour and spices, set into a loaf. It is a traditional farm food of the north and east.",
+    "how_to_eat": "Eat sliced and fried.",
+    "how_to_order": "Look for it at butchers in winter.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Balkenbrij",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Balkenbrij",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-frisian-sugar-bread",
+    "name": "Frisian Sugar Bread",
+    "local_name": "Fries suikerbrood",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Netherlands",
+    "state": "Northern & Eastern Netherlands",
+    "regions": [
+      "Friesland"
+    ],
+    "description": "A white bread baked with chunks of sugar and cinnamon. It is one of the heavy, sweet breads typical of Friesland.",
+    "how_to_eat": "Eat sliced and buttered.",
+    "how_to_order": "Buy from Frisian bakeries.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Suikerbrood",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Suikerbrood",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-groninger-koek",
+    "name": "Groninger Koek",
+    "local_name": "Groninger koek",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Netherlands",
+    "state": "Northern & Eastern Netherlands",
+    "regions": [
+      "Groningen"
+    ],
+    "description": "A spiced rye cake (kruidkoek) flavoured with spices such as cinnamon and cloves. It is the best-known example of the spiced cakes of the north-east.",
+    "how_to_eat": "Eat sliced with butter.",
+    "how_to_order": "Buy from bakeries in Groningen.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-eierbal",
+    "name": "Eierbal",
+    "local_name": "Eierbal",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Netherlands",
+    "state": "Northern & Eastern Netherlands",
+    "regions": [
+      "Groningen",
+      "Drenthe"
+    ],
+    "description": "A boiled egg wrapped in ragout, breaded and deep-fried. It is a snack-bar speciality of Groningen and Drenthe.",
+    "how_to_eat": "Eat with mustard.",
+    "how_to_order": "Ask for it at snack bars in Groningen.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-beerenburg",
+    "name": "Beerenburg",
+    "local_name": "Beerenburg",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Netherlands",
+    "state": "Northern & Eastern Netherlands",
+    "regions": [
+      "Friesland"
+    ],
+    "description": "A herbal bitters made by adding herbs to jenever, at about 30% alcohol. Created by an Amsterdam spice merchant in the 18th century, it is now most popular in Friesland, Groningen and Drenthe.",
+    "how_to_eat": "Drink as a digestif.",
+    "how_to_order": "Ask for a Frisian brand such as Sonnema in a bar.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beerenburg",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Beerenburg",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-brabant-sausage-roll",
+    "name": "Brabant Sausage Roll",
+    "local_name": "Brabants worstenbroodje",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Netherlands",
+    "state": "Brabant & Limburg",
+    "regions": [
+      "North Brabant"
+    ],
+    "description": "A soft bread roll baked around spiced minced pork. It is a beloved snack in North Brabant and is on the Dutch national inventory of intangible cultural heritage.",
+    "how_to_eat": "Eat warm.",
+    "how_to_order": "Buy from Brabant bakeries.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-bossche-bol",
+    "name": "Bossche Bol",
+    "local_name": "Bossche bol",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Netherlands",
+    "state": "Brabant & Limburg",
+    "regions": [
+      "'s-Hertogenbosch"
+    ],
+    "description": "A large choux pastry ball, about 12 cm across, filled with whipped cream and coated in dark chocolate. It comes from 's-Hertogenbosch (Den Bosch), where the modern version was created in 1920.",
+    "how_to_eat": "Eat by hand with coffee.",
+    "how_to_order": "Buy from bakeries in Den Bosch.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bossche_bol",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bossche_bol",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-limburgse-vlaai",
+    "name": "Limburgse Vlaai",
+    "local_name": "Limburgse vlaai",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Netherlands",
+    "state": "Brabant & Limburg",
+    "regions": [
+      "Limburg"
+    ],
+    "description": "A round tart with a yeast-dough base and a generous fruit or custard filling, often under a lattice. 'Limburgse vlaai' became an EU Protected Geographical Indication in 2024 for vlaai baked in Dutch and Belgian Limburg.",
+    "how_to_eat": "Eat a slice with coffee.",
+    "how_to_order": "Buy from bakeries in Limburg.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vlaai",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Vlaai",
+      "https://english.rtvmaastricht.nl/news/article/limburgse-vlaai-awarded-protected-geographical-indication-in-the-european-union",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-zoervleis",
+    "name": "Zoervleis",
+    "local_name": "Zoervleis",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Netherlands",
+    "state": "Brabant & Limburg",
+    "regions": [
+      "Limburg"
+    ],
+    "description": "Meat, traditionally horse but now usually beef, marinated in vinegar and stewed with apple syrup and ontbijtkoek. Despite its name ('sour meat'), it is sweet; it is a Limburg classic.",
+    "how_to_eat": "Eat with fries.",
+    "how_to_order": "Order it at snack bars in Limburg.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zoervleis",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Zoervleis",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  },
+  {
+    "id": "netherlands-trappist-beer",
+    "name": "Trappist Beer",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Netherlands",
+    "state": "Brabant & Limburg",
+    "regions": [
+      "Tilburg"
+    ],
+    "description": "Beer brewed in Trappist monasteries under monks' supervision. Five of the 11 ITA-recognised Trappist breweries are in the southern Dutch cultural area, including La Trappe near Tilburg.",
+    "how_to_eat": "Drink from its own glass.",
+    "how_to_order": "Ask for La Trappe at bars.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Trappist_beer",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Trappist_beer",
+      "https://en.wikipedia.org/wiki/Dutch_cuisine"
+    ]
+  }
+]

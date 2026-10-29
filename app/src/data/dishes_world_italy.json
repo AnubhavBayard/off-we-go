@@ -1,0 +1,1533 @@
+[
+  {
+    "id": "italy-spaghetti-alla-carbonara",
+    "name": "Spaghetti alla Carbonara",
+    "local_name": "Spaghetti alla carbonara",
+    "pronunciation": "kar-bo-NAH-ra",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Rome & Lazio",
+    "regions": [
+      "Rome"
+    ],
+    "description": "Roman pasta dressed with raw egg yolks, guanciale (cured pork cheek), pecorino romano and black pepper; the heat of the pasta sets the egg into a creamy sauce. It is one of the four classic Roman pastas and traditionally contains no cream.",
+    "how_to_eat": "Eat straight away while the sauce is still glossy.",
+    "how_to_order": "Ask for 'carbonara' at any Roman trattoria.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carbonara",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Carbonara",
+      "https://en.wikipedia.org/wiki/Roman_cuisine"
+    ]
+  },
+  {
+    "id": "italy-cacio-e-pepe",
+    "name": "Cacio e Pepe",
+    "local_name": "Cacio e pepe",
+    "pronunciation": "KA-cho eh PEH-peh",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Rome & Lazio",
+    "regions": [
+      "Rome"
+    ],
+    "description": "Tonnarelli or spaghetti tossed with grated pecorino romano, black pepper and starchy pasta water into a creamy sauce. A simple Roman shepherds' dish that is a staple of the city's trattorias.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'tonnarelli cacio e pepe' at Roman trattorias.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cacio_e_pepe",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cacio_e_pepe",
+      "https://en.wikipedia.org/wiki/Roman_cuisine"
+    ]
+  },
+  {
+    "id": "italy-bucatini-allamatriciana",
+    "name": "Pasta all'Amatriciana",
+    "local_name": "Amatriciana tradizionale",
+    "pronunciation": "a-ma-tri-CHA-na",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Rome & Lazio",
+    "regions": [
+      "Amatrice",
+      "Rome"
+    ],
+    "description": "Pasta (usually bucatini or spaghetti) in a sauce of guanciale, tomato and pecorino, named after the town of Amatrice in Lazio. 'Amatriciana tradizionale' is registered as an EU Traditional Speciality Guaranteed.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'bucatini all'amatriciana' at Roman trattorias.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amatriciana",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Amatriciana",
+      "https://en.wikipedia.org/wiki/List_of_Italian_food_and_drink_products_with_protected_status",
+      "https://en.wikipedia.org/wiki/Roman_cuisine"
+    ]
+  },
+  {
+    "id": "italy-suppli",
+    "name": "Supplì",
+    "local_name": "Supplì",
+    "pronunciation": "soop-PLEE",
+    "category": "street_food",
+    "country": "Italy",
+    "state": "Rome & Lazio",
+    "regions": [
+      "Rome"
+    ],
+    "description": "Fried rice croquettes made with risotto-style rice and tomato ragù, with a piece of mozzarella in the centre, coated in breadcrumbs. A classic Roman snack sold in pizzerias and friggitorie.",
+    "how_to_eat": "Pull it apart to see the mozzarella stretch like a telephone cord ('supplì al telefono').",
+    "how_to_order": "Order one or two at a pizza al taglio shop or as a starter in a pizzeria.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Supplì",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Supplì",
+      "https://en.wikipedia.org/wiki/Roman_cuisine"
+    ]
+  },
+  {
+    "id": "italy-carciofi-alla-giudia",
+    "name": "Carciofi alla Giudia",
+    "local_name": "Carciofi alla giudia",
+    "pronunciation": "kar-CHO-fee al-la JOO-dya",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Rome & Lazio",
+    "regions": [
+      "Rome"
+    ],
+    "description": "Whole artichokes deep-fried twice in olive oil until the leaves open and crisp like a flower. A signature of Rome's Jewish quarter, eaten mainly in artichoke season (winter to spring).",
+    "how_to_eat": "Eat the crisp outer leaves with your fingers and the tender heart with a fork.",
+    "how_to_order": "Look for it in restaurants of the Jewish Ghetto in Rome.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carciofi_alla_giudia",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Carciofi_alla_giudia",
+      "https://en.wikipedia.org/wiki/Roman_cuisine"
+    ]
+  },
+  {
+    "id": "italy-maritozzo",
+    "name": "Maritozzo",
+    "local_name": "Maritozzo",
+    "pronunciation": "ma-ri-TOT-so",
+    "category": "sweet",
+    "country": "Italy",
+    "state": "Rome & Lazio",
+    "regions": [
+      "Rome"
+    ],
+    "description": "A soft sweet bun split open and filled generously with whipped cream. A traditional Roman breakfast pastry.",
+    "how_to_eat": "Eat in the morning with a cappuccino.",
+    "how_to_order": "Ask for a 'maritozzo con la panna' at a Roman bar or pasticceria.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maritozzo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Maritozzo",
+      "https://en.wikipedia.org/wiki/Roman_cuisine"
+    ]
+  },
+  {
+    "id": "italy-pizza-napoletana",
+    "name": "Neapolitan Pizza",
+    "local_name": "Pizza napoletana",
+    "pronunciation": "PEET-sa na-po-le-TA-na",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Campania",
+    "regions": [
+      "Naples"
+    ],
+    "description": "Soft, thin-centred pizza with a puffy charred rim, baked for about a minute in a very hot wood-fired oven; the classic versions are marinara and margherita (tomato, mozzarella, basil). It is registered as an EU Traditional Speciality Guaranteed and the art of the Neapolitan pizzaiuolo is on UNESCO's list.",
+    "how_to_eat": "Eat with knife and fork, or fold it 'a portafoglio' (wallet-style).",
+    "how_to_order": "Order a 'margherita' or 'marinara' at a Naples pizzeria.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Neapolitan_pizza",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Neapolitan_pizza",
+      "https://en.wikipedia.org/wiki/List_of_Italian_food_and_drink_products_with_protected_status",
+      "https://en.wikipedia.org/wiki/Neapolitan_cuisine"
+    ]
+  },
+  {
+    "id": "italy-spaghetti-alle-vongole",
+    "name": "Spaghetti alle Vongole",
+    "local_name": "Spaghetti alle vongole",
+    "pronunciation": "von-GO-leh",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Campania",
+    "regions": [
+      "Naples"
+    ],
+    "description": "Spaghetti with clams cooked in olive oil, garlic, white wine and parsley. A Neapolitan seaside classic, made 'in bianco' (without tomato) or 'rosso'.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'spaghetti alle vongole' at seafood restaurants along the coast.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spaghetti_alle_vongole",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Spaghetti_alle_vongole",
+      "https://en.wikipedia.org/wiki/Neapolitan_cuisine"
+    ]
+  },
+  {
+    "id": "italy-sfogliatella",
+    "name": "Sfogliatella",
+    "local_name": "Sfogliatella",
+    "pronunciation": "sfo-lya-TEL-la",
+    "category": "sweet",
+    "country": "Italy",
+    "state": "Campania",
+    "regions": [
+      "Naples"
+    ],
+    "description": "Shell-shaped pastry made of many thin layers of lard-enriched dough, filled with semolina, ricotta and candied citrus. The 'riccia' is the crisp layered type, the 'frolla' a softer shortcrust version.",
+    "how_to_eat": "Eat warm, fresh from the oven.",
+    "how_to_order": "Ask for a 'sfogliatella riccia' at a Neapolitan pasticceria.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sfogliatella",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sfogliatella",
+      "https://en.wikipedia.org/wiki/Neapolitan_cuisine"
+    ]
+  },
+  {
+    "id": "italy-baba-au-rhum",
+    "name": "Babà",
+    "local_name": "Babà",
+    "pronunciation": "ba-BA",
+    "category": "sweet",
+    "country": "Italy",
+    "state": "Campania",
+    "regions": [
+      "Naples"
+    ],
+    "description": "A small yeast cake soaked in rum syrup, often served with cream. Brought from France, it became one of the best-known pastries of Naples.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for a 'babà' at any Neapolitan pastry shop.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rum_baba",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rum_baba",
+      "https://en.wikipedia.org/wiki/Neapolitan_cuisine"
+    ]
+  },
+  {
+    "id": "italy-insalata-caprese",
+    "name": "Insalata Caprese",
+    "local_name": "Insalata caprese",
+    "pronunciation": "ka-PREH-zeh",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Campania",
+    "regions": [
+      "Capri"
+    ],
+    "description": "A salad of sliced fresh mozzarella, tomatoes and basil, dressed with olive oil, named after the island of Capri. Its colours echo the Italian flag.",
+    "how_to_eat": null,
+    "how_to_order": "Order as an antipasto or light lunch.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caprese_salad",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Caprese_salad",
+      "https://en.wikipedia.org/wiki/Neapolitan_cuisine"
+    ]
+  },
+  {
+    "id": "italy-limoncello",
+    "name": "Limoncello",
+    "local_name": "Limoncello",
+    "pronunciation": "lee-mon-CHEL-lo",
+    "category": "drink",
+    "country": "Italy",
+    "state": "Campania",
+    "regions": [
+      "Sorrento",
+      "Amalfi Coast",
+      "Capri"
+    ],
+    "description": "Sweet lemon liqueur made by steeping lemon zest in alcohol, then adding sugar syrup. It is closely associated with the Sorrento peninsula, the Amalfi Coast and Capri; local lemon liqueurs of Sorrento and the Amalfi Coast have their own protected names, but limoncello in general does not.",
+    "how_to_eat": "Sip it ice-cold from a small glass after dinner.",
+    "how_to_order": "Ask for a 'limoncello' as a digestivo after a meal.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Limoncello",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Limoncello",
+      "https://en.wikipedia.org/wiki/List_of_Italian_food_and_drink_products_with_protected_status"
+    ]
+  },
+  {
+    "id": "italy-pizza-fritta",
+    "name": "Pizza Fritta",
+    "local_name": "Pizza fritta",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Italy",
+    "state": "Campania",
+    "regions": [
+      "Naples"
+    ],
+    "description": "Neapolitan fried pizza: a disc of pizza dough stuffed (typically with ricotta, cicoli pork cracklings, provola and tomato), folded and deep-fried. A cheap traditional street food of Naples.",
+    "how_to_eat": "Eat hot from paper, standing in the street.",
+    "how_to_order": "Buy it from a 'friggitoria' or pizza fritta stall in central Naples.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Deep-fried_pizza",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Deep-fried_pizza",
+      "https://en.wikipedia.org/wiki/Neapolitan_cuisine"
+    ]
+  },
+  {
+    "id": "italy-arancini",
+    "name": "Arancini",
+    "local_name": "Arancini / Arancine",
+    "pronunciation": "a-ran-CHEE-nee",
+    "category": "street_food",
+    "country": "Italy",
+    "state": "Sicily",
+    "regions": [
+      "Palermo",
+      "Catania"
+    ],
+    "description": "Deep-fried breaded rice balls (round in Palermo, conical in Catania) stuffed most commonly with meat ragù, peas and cheese, or with ham and mozzarella. A Sicilian street food dating to the Arab period.",
+    "how_to_eat": "Eat hot as a snack, by hand.",
+    "how_to_order": "Ask for an 'arancina al ragù' at a rosticceria or bar.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arancini",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Arancini",
+      "https://en.wikipedia.org/wiki/Sicilian_cuisine"
+    ]
+  },
+  {
+    "id": "italy-cannoli",
+    "name": "Cannoli",
+    "local_name": "Cannoli",
+    "pronunciation": "ka-NO-lee",
+    "category": "sweet",
+    "country": "Italy",
+    "state": "Sicily",
+    "regions": [
+      "Palermo"
+    ],
+    "description": "Tubes of crisp fried pastry filled with sweetened sheep's-milk ricotta, often with chocolate chips or candied fruit. The shells are traditionally fried in lard; it is Sicily's best-known pastry.",
+    "how_to_eat": "Eat right after filling so the shell stays crisp.",
+    "how_to_order": "Ask for a cannolo filled to order at a pasticceria.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cannoli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cannoli",
+      "https://en.wikipedia.org/wiki/Sicilian_cuisine"
+    ]
+  },
+  {
+    "id": "italy-caponata",
+    "name": "Caponata",
+    "local_name": "Caponata",
+    "pronunciation": "ka-po-NA-ta",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Sicily",
+    "regions": [],
+    "description": "A sweet-and-sour stew of fried aubergine, celery, onion, tomato, olives and capers, dressed with vinegar and sugar. Served at room temperature as a side dish or antipasto.",
+    "how_to_eat": "Eat at room temperature with bread.",
+    "how_to_order": "Order as a 'contorno' or antipasto.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caponata",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Caponata",
+      "https://en.wikipedia.org/wiki/Sicilian_cuisine"
+    ]
+  },
+  {
+    "id": "italy-pasta-alla-norma",
+    "name": "Pasta alla Norma",
+    "local_name": "Pasta alla Norma",
+    "pronunciation": "NOR-ma",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Sicily",
+    "regions": [
+      "Catania"
+    ],
+    "description": "Pasta with tomato sauce, fried aubergine, basil and grated ricotta salata, from Catania. It is said to be named after Bellini's opera 'Norma'.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'pasta alla Norma', especially in Catania.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pasta_alla_Norma",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pasta_alla_Norma",
+      "https://en.wikipedia.org/wiki/Sicilian_cuisine"
+    ]
+  },
+  {
+    "id": "italy-granita",
+    "name": "Granita",
+    "local_name": "Granita",
+    "pronunciation": "gra-NEE-ta",
+    "category": "sweet",
+    "country": "Italy",
+    "state": "Sicily",
+    "regions": [
+      "Catania",
+      "Messina"
+    ],
+    "description": "A semi-frozen dessert of sugar, water and flavourings such as lemon, almond, coffee or pistachio, with a smoother texture than shaved ice. In eastern Sicily it is eaten for breakfast with a brioche.",
+    "how_to_eat": "Eat with a soft brioche col tuppo dipped into it.",
+    "how_to_order": "Order 'granita con brioche' at a Sicilian bar.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Granita",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Granita",
+      "https://en.wikipedia.org/wiki/Sicilian_cuisine"
+    ]
+  },
+  {
+    "id": "italy-cassata",
+    "name": "Cassata Siciliana",
+    "local_name": "Cassata siciliana",
+    "pronunciation": "kas-SA-ta",
+    "category": "sweet",
+    "country": "Italy",
+    "state": "Sicily",
+    "regions": [
+      "Palermo"
+    ],
+    "description": "Round cake of sponge soaked in liqueur, layered with sweetened ricotta, covered in marzipan and icing and decorated with candied fruit. Traditionally an Easter sweet in Palermo.",
+    "how_to_eat": null,
+    "how_to_order": "Buy a slice at a Sicilian pasticceria.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cassata",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cassata",
+      "https://en.wikipedia.org/wiki/Sicilian_cuisine"
+    ]
+  },
+  {
+    "id": "italy-tortellini-in-brodo",
+    "name": "Tortellini in Brodo",
+    "local_name": "Tortellini in brodo",
+    "pronunciation": "tor-tel-LEE-nee in BRO-do",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "regions": [
+      "Bologna",
+      "Modena"
+    ],
+    "description": "Small ring-shaped egg-pasta parcels filled with pork loin, prosciutto, mortadella and Parmigiano, served in capon or meat broth. A classic Christmas dish of Bologna and Modena.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'tortellini in brodo' at a Bolognese trattoria.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tortellini",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tortellini",
+      "https://en.wikipedia.org/wiki/Emilian_cuisine"
+    ]
+  },
+  {
+    "id": "italy-tagliatelle-al-ragu",
+    "name": "Tagliatelle al Ragù",
+    "local_name": "Tagliatelle al ragù alla bolognese",
+    "pronunciation": "ta-lya-TEL-leh al ra-GOO",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "regions": [
+      "Bologna"
+    ],
+    "description": "Fresh egg tagliatelle with Bologna's slow-cooked meat ragù of beef, pork, soffritto, wine and a little tomato. In Bologna ragù is served with tagliatelle, not spaghetti.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'tagliatelle al ragù' in Bologna.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bolognese_sauce",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bolognese_sauce",
+      "https://en.wikipedia.org/wiki/Emilian_cuisine"
+    ]
+  },
+  {
+    "id": "italy-lasagne-alla-bolognese",
+    "name": "Lasagne alla Bolognese",
+    "local_name": "Lasagne verdi alla bolognese",
+    "pronunciation": "la-ZA-nyeh",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "regions": [
+      "Bologna"
+    ],
+    "description": "Baked layers of green spinach egg pasta, ragù, béchamel and Parmigiano Reggiano. The Bolognese version of Italy's best-known baked pasta.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'lasagne verdi' at trattorias in Bologna.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lasagna",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lasagna",
+      "https://en.wikipedia.org/wiki/Emilian_cuisine"
+    ]
+  },
+  {
+    "id": "italy-piadina-romagnola",
+    "name": "Piadina Romagnola",
+    "local_name": "Piadina romagnola / Piada romagnola",
+    "pronunciation": "pya-DEE-na",
+    "category": "street_food",
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "regions": [
+      "Rimini",
+      "Ravenna",
+      "Forlì",
+      "Cesena"
+    ],
+    "description": "Thin unleavened flatbread of flour, lard or olive oil, salt and water, cooked on a griddle and folded around fillings such as prosciutto, squacquerone cheese and rocket. It holds EU Protected Geographical Indication status for Romagna.",
+    "how_to_eat": "Eat it folded and warm, straight from the kiosk.",
+    "how_to_order": "Order at a roadside 'piadineria' kiosk in Romagna.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Piadina_romagnola",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Piadina_romagnola"
+    ]
+  },
+  {
+    "id": "italy-gnocco-fritto",
+    "name": "Gnocco Fritto",
+    "local_name": "Gnocco fritto",
+    "pronunciation": "NYOK-ko FREET-to",
+    "category": "snack",
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "regions": [
+      "Modena",
+      "Reggio Emilia",
+      "Parma"
+    ],
+    "description": "Puffy diamonds of dough fried (traditionally in lard) until hollow, served with cured meats such as prosciutto, salami and mortadella. Known as crescentina in Bologna and torta fritta in Parma.",
+    "how_to_eat": "Eat hot, wrapped around a slice of cured meat.",
+    "how_to_order": "Order a plate with 'salumi misti' at Emilian trattorias.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gnocco_fritto",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gnocco_fritto"
+    ]
+  },
+  {
+    "id": "italy-zuppa-inglese",
+    "name": "Zuppa Inglese",
+    "local_name": "Zuppa inglese",
+    "pronunciation": "TSOOP-pa in-GLEH-zeh",
+    "category": "sweet",
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "regions": [],
+    "description": "Layered dessert of sponge or savoiardi biscuits soaked in Alchermes liqueur, alternating with custard and chocolate custard. A traditional spoon dessert of Emilia-Romagna.",
+    "how_to_eat": null,
+    "how_to_order": "Look for it on the dessert list of Emilian trattorias.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zuppa_inglese",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Zuppa_inglese"
+    ]
+  },
+  {
+    "id": "italy-bistecca-alla-fiorentina",
+    "name": "Bistecca alla Fiorentina",
+    "local_name": "Bistecca alla fiorentina",
+    "pronunciation": "bi-STEK-ka al-la fyo-ren-TEE-na",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Tuscany",
+    "regions": [
+      "Florence"
+    ],
+    "description": "A very thick T-bone steak, traditionally from Chianina cattle, grilled over wood or charcoal and served rare, seasoned only with salt, pepper and olive oil. Florence's signature meat dish, sold by weight.",
+    "how_to_eat": "Share one steak between two or more people; it is served rare.",
+    "how_to_order": "Order by weight (usually about 1 kg upwards) at a Florentine trattoria.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bistecca_alla_fiorentina",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bistecca_alla_fiorentina",
+      "https://en.wikipedia.org/wiki/Tuscan_cuisine"
+    ]
+  },
+  {
+    "id": "italy-ribollita",
+    "name": "Ribollita",
+    "local_name": "Ribollita",
+    "pronunciation": "ree-bol-LEE-ta",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Tuscany",
+    "regions": [
+      "Florence"
+    ],
+    "description": "A thick Tuscan peasant soup of stale bread, cannellini beans, cavolo nero and vegetables; the name means 'reboiled'. A winter staple of Tuscan cooking.",
+    "how_to_eat": "Eat with a drizzle of fresh olive oil on top.",
+    "how_to_order": "Ask for 'ribollita' at Tuscan trattorias in the cold months.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ribollita",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ribollita",
+      "https://en.wikipedia.org/wiki/Tuscan_cuisine"
+    ]
+  },
+  {
+    "id": "italy-pappa-al-pomodoro",
+    "name": "Pappa al Pomodoro",
+    "local_name": "Pappa al pomodoro",
+    "pronunciation": "PAP-pa al po-mo-DO-ro",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Tuscany",
+    "regions": [
+      "Florence"
+    ],
+    "description": "A thick soup of stale Tuscan bread cooked with tomatoes, garlic, basil and olive oil. Served hot or at room temperature, mainly in summer.",
+    "how_to_eat": null,
+    "how_to_order": "Order as a 'primo' at Tuscan trattorias.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pappa_al_pomodoro",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pappa_al_pomodoro",
+      "https://en.wikipedia.org/wiki/Tuscan_cuisine"
+    ]
+  },
+  {
+    "id": "italy-lampredotto",
+    "name": "Lampredotto",
+    "local_name": "Lampredotto",
+    "pronunciation": "lam-pre-DOT-to",
+    "category": "street_food",
+    "country": "Italy",
+    "state": "Tuscany",
+    "regions": [
+      "Florence"
+    ],
+    "description": "The fourth stomach of the cow, slow-cooked in broth and served in a bread roll with green sauce and chilli oil. Florence's classic street food, sold from carts called trippai.",
+    "how_to_eat": "Ask for the top half of the roll dipped in the broth ('bagnato').",
+    "how_to_order": "Buy a 'panino col lampredotto' from a tripe cart in Florence.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lampredotto",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lampredotto",
+      "https://en.wikipedia.org/wiki/Tuscan_cuisine"
+    ]
+  },
+  {
+    "id": "italy-cantucci",
+    "name": "Cantucci Toscani",
+    "local_name": "Cantucci toscani / Cantuccini toscani",
+    "pronunciation": "kan-TOO-chee",
+    "category": "sweet",
+    "country": "Italy",
+    "state": "Tuscany",
+    "regions": [
+      "Prato"
+    ],
+    "description": "Twice-baked dry almond biscuits made with flour, sugar, eggs and almonds. 'Cantucci Toscani' is registered as an EU Protected Geographical Indication.",
+    "how_to_eat": "Dip them in a glass of Vin Santo dessert wine.",
+    "how_to_order": "Ask for 'cantucci e vin santo' at the end of a Tuscan meal.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Biscotti",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Biscotti",
+      "https://www.visittuscany.com/en/flavors/pgi-cantuccini-toscani/",
+      "https://eur-lex.europa.eu/eli/reg_impl/2016/81/oj/eng"
+    ]
+  },
+  {
+    "id": "italy-panforte",
+    "name": "Panforte di Siena",
+    "local_name": "Panforte di Siena",
+    "pronunciation": "pan-FOR-teh",
+    "category": "sweet",
+    "country": "Italy",
+    "state": "Tuscany",
+    "regions": [
+      "Siena"
+    ],
+    "description": "Dense flat cake of honey, sugar, almonds, candied fruit and spices, dating back to medieval Siena. 'Panforte di Siena' is an EU Protected Geographical Indication.",
+    "how_to_eat": "Eat in thin wedges, often at Christmas.",
+    "how_to_order": "Buy it at bakeries and shops in Siena.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Panforte",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Panforte",
+      "https://en.wikipedia.org/wiki/List_of_Italian_food_and_drink_products_with_protected_status"
+    ]
+  },
+  {
+    "id": "italy-ricciarelli",
+    "name": "Ricciarelli",
+    "local_name": "Ricciarelli di Siena",
+    "pronunciation": "reech-cha-REL-lee",
+    "category": "sweet",
+    "country": "Italy",
+    "state": "Tuscany",
+    "regions": [
+      "Siena"
+    ],
+    "description": "Soft, chewy almond biscuits made from almond paste, sugar and egg whites, dusted with icing sugar. 'Ricciarelli di Siena' is an EU Protected Geographical Indication.",
+    "how_to_eat": null,
+    "how_to_order": "Buy them at Sienese bakeries, especially around Christmas.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts",
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ricciarelli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ricciarelli",
+      "https://en.wikipedia.org/wiki/List_of_Italian_food_and_drink_products_with_protected_status"
+    ]
+  },
+  {
+    "id": "italy-risotto-alla-milanese",
+    "name": "Risotto alla Milanese",
+    "local_name": "Risotto alla milanese",
+    "pronunciation": "ri-ZOT-to al-la mi-la-NEH-zeh",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Northern Italy",
+    "regions": [
+      "Milan"
+    ],
+    "description": "Saffron-yellow risotto made with beef broth, butter, bone marrow and Grana cheese. Milan's signature dish, often served with ossobuco.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'risotto alla milanese', or 'risotto con ossobuco', in Milan.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Risotto",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Risotto",
+      "https://en.wikipedia.org/wiki/Lombard_cuisine"
+    ]
+  },
+  {
+    "id": "italy-cotoletta-alla-milanese",
+    "name": "Cotoletta alla Milanese",
+    "local_name": "Cotoletta alla milanese",
+    "pronunciation": "ko-to-LET-ta",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Northern Italy",
+    "regions": [
+      "Milan"
+    ],
+    "description": "Bone-in veal rib chop dipped in egg and breadcrumbs and fried in butter. A historic Milanese dish, often compared to the Wiener schnitzel.",
+    "how_to_eat": "Squeeze lemon over it and eat with a fork and knife.",
+    "how_to_order": "Order at traditional Milanese restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Veal_Milanese",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Veal_Milanese",
+      "https://en.wikipedia.org/wiki/Lombard_cuisine"
+    ]
+  },
+  {
+    "id": "italy-trofie-al-pesto",
+    "name": "Trofie al Pesto",
+    "local_name": "Trofie al pesto",
+    "pronunciation": "TRO-fyeh al PEH-sto",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Northern Italy",
+    "regions": [
+      "Genoa"
+    ],
+    "description": "Short twisted Ligurian pasta with pesto genovese, a sauce of basil, pine nuts, garlic, Parmigiano, pecorino and olive oil, often with potatoes and green beans. Pesto is the signature sauce of Genoa.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'trofie al pesto' in Genoa and the Cinque Terre.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Trofie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Trofie",
+      "https://en.wikipedia.org/wiki/Pesto",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Liguria"
+    ]
+  },
+  {
+    "id": "italy-focaccia-genovese",
+    "name": "Focaccia Genovese",
+    "local_name": "Fugassa / Focaccia genovese",
+    "pronunciation": "fo-KACH-cha",
+    "category": "street_food",
+    "country": "Italy",
+    "state": "Northern Italy",
+    "regions": [
+      "Genoa"
+    ],
+    "description": "Flat oven-baked bread from Genoa, dimpled and soaked with olive oil, water and coarse salt so it is crisp underneath and soft on top. Genoese eat it any time of day, even for breakfast.",
+    "how_to_eat": "Locals dip it in their morning cappuccino.",
+    "how_to_order": "Buy a slice by weight at any Genoese bakery (panificio).",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Focaccia",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Focaccia",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Liguria"
+    ]
+  },
+  {
+    "id": "italy-tiramisu",
+    "name": "Tiramisù",
+    "local_name": "Tiramisù",
+    "pronunciation": "ti-ra-mi-SOO",
+    "category": "sweet",
+    "country": "Italy",
+    "state": "Northern Italy",
+    "regions": [
+      "Treviso"
+    ],
+    "description": "Spoon dessert of savoiardi biscuits dipped in coffee, layered with a cream of mascarpone, egg and sugar and dusted with cocoa. It is widely credited to Treviso in the Veneto.",
+    "how_to_eat": null,
+    "how_to_order": "Order as a dessert in any restaurant.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tiramisu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tiramisu",
+      "https://en.wikipedia.org/wiki/Venetian_cuisine"
+    ]
+  },
+  {
+    "id": "italy-spritz",
+    "name": "Spritz",
+    "local_name": "Spritz veneziano",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Italy",
+    "state": "Northern Italy",
+    "regions": [
+      "Venice",
+      "Padua"
+    ],
+    "description": "Aperitif of prosecco, a bitter liqueur such as Aperol or Campari, and soda water, served with ice and an orange slice or olive. It originated in the Veneto under Austrian rule and is the classic Venetian early-evening drink.",
+    "how_to_eat": "Drink at aperitivo time with cicchetti (small bar snacks).",
+    "how_to_order": "Ask for 'uno spritz' and say Aperol or Campari.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spritz_(cocktail)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Spritz_(cocktail)",
+      "https://en.wikipedia.org/wiki/Venetian_cuisine"
+    ]
+  },
+  {
+    "id": "italy-vitello-tonnato",
+    "name": "Vitello Tonnato",
+    "local_name": "Vitel tonnè / Vitello tonnato",
+    "pronunciation": "vi-TEL-lo ton-NA-to",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Northern Italy",
+    "regions": [
+      "Piedmont"
+    ],
+    "description": "Cold sliced poached veal covered with a creamy sauce of tuna, anchovies, capers and mayonnaise. A Piedmontese antipasto, popular in summer.",
+    "how_to_eat": null,
+    "how_to_order": "Order as an antipasto in Piedmontese restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vitello_tonnato",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Vitello_tonnato",
+      "https://en.wikipedia.org/wiki/Piedmontese_cuisine"
+    ]
+  },
+  {
+    "id": "italy-orecchiette-con-cime-di-rapa",
+    "name": "Orecchiette con Cime di Rapa",
+    "local_name": "Orecchiette con le cime di rapa",
+    "pronunciation": "o-rek-KYET-teh",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Puglia",
+    "regions": [
+      "Bari"
+    ],
+    "description": "Small ear-shaped durum wheat pasta cooked with turnip tops, garlic, chilli, olive oil and usually anchovies. It is the signature pasta of Puglia, where women still make orecchiette by hand in Bari's old town.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'orecchiette con cime di rapa' in Bari.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Orecchiette",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Orecchiette",
+      "https://en.wikipedia.org/wiki/Apulian_cuisine"
+    ]
+  },
+  {
+    "id": "italy-focaccia-barese",
+    "name": "Focaccia Barese",
+    "local_name": "Focaccia barese",
+    "pronunciation": "fo-KACH-cha ba-REH-zeh",
+    "category": "street_food",
+    "country": "Italy",
+    "state": "Puglia",
+    "regions": [
+      "Bari"
+    ],
+    "description": "Thick, soft focaccia from Bari made with durum wheat and often potato in the dough, topped with cherry tomatoes, olives and oregano. Sold by the slice in bakeries.",
+    "how_to_eat": null,
+    "how_to_order": "Buy a slice at a bakery in Bari.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Focaccia",
+      "https://en.wikipedia.org/wiki/Apulian_cuisine"
+    ]
+  },
+  {
+    "id": "italy-panzerotti",
+    "name": "Panzerotti",
+    "local_name": "Panzerotti",
+    "pronunciation": "pan-tse-ROT-tee",
+    "category": "street_food",
+    "country": "Italy",
+    "state": "Puglia",
+    "regions": [
+      "Bari"
+    ],
+    "description": "Half-moon turnovers of dough filled with tomato and mozzarella, then deep-fried. A popular Apulian street food.",
+    "how_to_eat": "Eat hot but carefully, the filling is very hot.",
+    "how_to_order": "Buy at friggitorie and bakeries in Bari.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Panzerotti",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Panzerotti",
+      "https://en.wikipedia.org/wiki/Apulian_cuisine"
+    ]
+  },
+  {
+    "id": "italy-pasticciotto",
+    "name": "Pasticciotto",
+    "local_name": "Pasticciotto leccese",
+    "pronunciation": "pas-teech-CHOT-to",
+    "category": "sweet",
+    "country": "Italy",
+    "state": "Puglia",
+    "regions": [
+      "Lecce"
+    ],
+    "description": "Oval shortcrust pastry (traditionally made with lard) filled with custard and baked. The typical breakfast pastry of Lecce and the Salento.",
+    "how_to_eat": "Eat warm for breakfast with a coffee.",
+    "how_to_order": "Ask for a 'pasticciotto' at a bar in Lecce.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pasticciotto",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pasticciotto",
+      "https://en.wikipedia.org/wiki/Apulian_cuisine"
+    ]
+  },
+  {
+    "id": "italy-taralli",
+    "name": "Taralli",
+    "local_name": "Taralli",
+    "pronunciation": "ta-RAL-lee",
+    "category": "snack",
+    "country": "Italy",
+    "state": "Puglia",
+    "regions": [],
+    "description": "Crunchy ring-shaped crackers of flour, olive oil, white wine and salt, often flavoured with fennel seeds or chilli. They are boiled before baking.",
+    "how_to_eat": "Eat as a snack with a glass of wine.",
+    "how_to_order": "Buy packets at bakeries and grocery shops.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Taralli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Taralli",
+      "https://en.wikipedia.org/wiki/Apulian_cuisine"
+    ]
+  },
+  {
+    "id": "italy-culurgiones",
+    "name": "Culurgiones",
+    "local_name": "Culurgionis d'Ogliastra",
+    "pronunciation": "koo-loor-JO-nes",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Sardinia",
+    "regions": [
+      "Ogliastra"
+    ],
+    "description": "Hand-pleated pasta dumplings with an ear-of-wheat closure, filled with potato, pecorino, mint and garlic, usually served with tomato sauce. 'Culurgionis d'Ogliastra' is an EU Protected Geographical Indication.",
+    "how_to_eat": null,
+    "how_to_order": "Look for 'culurgiones' on menus in eastern Sardinia.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Culurgiones",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Culurgiones",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Sardinia"
+    ]
+  },
+  {
+    "id": "italy-porceddu",
+    "name": "Porceddu",
+    "local_name": "Porceddu",
+    "pronunciation": "por-CHED-doo",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Sardinia",
+    "regions": [],
+    "description": "Suckling pig roasted slowly on a spit beside an open fire, often scented with myrtle, until the skin is crisp. The great festive dish of Sardinia.",
+    "how_to_eat": null,
+    "how_to_order": "Order at agriturismi and traditional restaurants; it is often pre-ordered.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Suckling_pig",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Sardinia"
+    ]
+  },
+  {
+    "id": "italy-pane-carasau",
+    "name": "Pane Carasau",
+    "local_name": "Pane carasau",
+    "pronunciation": "PA-neh ka-ra-ZOW",
+    "category": "snack",
+    "country": "Italy",
+    "state": "Sardinia",
+    "regions": [],
+    "description": "Very thin, crisp Sardinian flatbread baked twice, once called 'music paper' because of its thinness. Shepherds carried it because it keeps for months.",
+    "how_to_eat": "Eat as is, or as 'pane guttiau' drizzled with olive oil and salt.",
+    "how_to_order": "Served free on the table in Sardinian restaurants; sold in packs in shops.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pane_carasau",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pane_carasau",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Sardinia"
+    ]
+  },
+  {
+    "id": "italy-seadas",
+    "name": "Seada",
+    "local_name": "Seadas / Sebadas",
+    "pronunciation": "seh-A-das",
+    "category": "sweet",
+    "country": "Italy",
+    "state": "Sardinia",
+    "regions": [],
+    "description": "Large fried pastry discs filled with fresh sour pecorino cheese and lemon zest, served drizzled with honey. The classic Sardinian dessert.",
+    "how_to_eat": "Eat hot with plenty of honey.",
+    "how_to_order": "Order as dessert in Sardinian restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Seada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Seada",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Sardinia"
+    ]
+  },
+  {
+    "id": "italy-malloreddus",
+    "name": "Malloreddus alla Campidanese",
+    "local_name": "Malloreddus",
+    "pronunciation": "mal-lo-RED-doos",
+    "category": "meal",
+    "country": "Italy",
+    "state": "Sardinia",
+    "regions": [],
+    "description": "Small ridged durum wheat gnocchetti flavoured with saffron, served 'alla campidanese' with a sausage and tomato sauce and pecorino. One of Sardinia's best-known pastas.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'malloreddus alla campidanese'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Malloreddus",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Malloreddus",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Sardinia"
+    ]
+  },
+  {
+    "id": "italy-mirto",
+    "name": "Mirto",
+    "local_name": "Mirto di Sardegna",
+    "pronunciation": "MEER-to",
+    "category": "drink",
+    "country": "Italy",
+    "state": "Sardinia",
+    "regions": [],
+    "description": "Sweet digestif liqueur made by macerating myrtle berries in alcohol; the red version comes from the berries, the white from the leaves. 'Mirto di Sardegna' is a protected EU geographical indication for spirit drinks.",
+    "how_to_eat": "Sip chilled after a meal.",
+    "how_to_order": "Ask for a 'mirto' as a digestivo.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mirto_(liqueur)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mirto_(liqueur)",
+      "https://en.wikipedia.org/wiki/List_of_Italian_food_and_drink_products_with_protected_status"
+    ]
+  }
+]

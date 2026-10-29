@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "greece-souvlaki",
+    "name": "Souvlaki",
+    "local_name": "Σουβλάκι",
+    "pronunciation": "soo-VLAH-kee",
+    "category": "street_food",
+    "country": "Greece",
+    "state": "Athens",
+    "regions": [],
+    "description": "Small pieces of grilled meat, usually pork, on a skewer. Wrapped in pita with tomato, onion and tzatziki, it is Greece's favourite fast food.",
+    "how_to_eat": "Eat the pita wrap by hand, or the skewers off the plate with chips.",
+    "how_to_order": "Ask for 'souvlaki pita' at a souvlatzidiko (souvlaki shop).",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Souvlaki",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Souvlaki",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-gyros",
+    "name": "Gyros",
+    "local_name": "Γύρος",
+    "pronunciation": "YEE-ros",
+    "category": "street_food",
+    "country": "Greece",
+    "state": "Athens",
+    "regions": [],
+    "description": "Meat (usually pork or chicken) cooked on a vertical rotisserie and shaved off in thin slices, served in pita with tomato, onion, chips and tzatziki. One of the most popular street foods in Greece.",
+    "how_to_eat": "Eat wrapped in pita, by hand.",
+    "how_to_order": "Order 'gyro pita' with 'pita me ola' for all the toppings.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gyros",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gyros",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-moussaka",
+    "name": "Moussaka",
+    "local_name": "Μουσακάς",
+    "pronunciation": "moo-sa-KAHS",
+    "category": "meal",
+    "country": "Greece",
+    "state": "Athens",
+    "regions": [],
+    "description": "Baked layers of aubergine (sometimes potato), spiced minced meat in tomato sauce and a thick béchamel topping. The Greek version was popularised in the 1920s by chef Nikolaos Tselementes.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'moussaka' at tavernas, usually as a ready-cooked 'mageirefta' dish.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Moussaka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Moussaka",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-pastitsio",
+    "name": "Pastitsio",
+    "local_name": "Παστίτσιο",
+    "pronunciation": "pa-STEE-tsyo",
+    "category": "meal",
+    "country": "Greece",
+    "state": "Athens",
+    "regions": [],
+    "description": "Baked dish of tubular pasta, a spiced minced meat and tomato sauce, and a béchamel topping. A Sunday and taverna favourite throughout Greece.",
+    "how_to_eat": null,
+    "how_to_order": "Order by the portion at tavernas.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pastitsio",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pastitsio",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-horiatiki",
+    "name": "Greek Salad (Horiatiki)",
+    "local_name": "Χωριάτικη σαλάτα",
+    "pronunciation": "ho-ree-AH-tee-kee",
+    "category": "meal",
+    "country": "Greece",
+    "state": "Athens",
+    "regions": [],
+    "description": "'Village salad' of tomatoes, cucumber, onion, green pepper and olives topped with a slab of feta, dressed with olive oil and oregano. Served with almost every Greek meal.",
+    "how_to_eat": "Mop up the oil and tomato juice with bread.",
+    "how_to_order": "Ask for a 'horiatiki' at any taverna.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greek_salad",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Greek_salad",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-tzatziki",
+    "name": "Tzatziki",
+    "local_name": "Τζατζίκι",
+    "pronunciation": "dza-DZEE-kee",
+    "category": "snack",
+    "country": "Greece",
+    "state": "Athens",
+    "regions": [],
+    "description": "Dip of strained yogurt, grated cucumber, garlic and olive oil. Served as a meze and as the sauce for souvlaki and gyros.",
+    "how_to_eat": "Eat with bread or as a sauce on grilled meat.",
+    "how_to_order": "Order as a meze at tavernas.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tzatziki",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tzatziki",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-loukoumades",
+    "name": "Lokma",
+    "local_name": "Λουκουμάδες",
+    "pronunciation": "loo-koo-MAH-thes",
+    "category": "sweet",
+    "country": "Greece",
+    "state": "Athens",
+    "regions": [],
+    "description": "Small deep-fried dough balls soaked in honey syrup and sprinkled with cinnamon and often chopped walnuts or sesame. A very old Greek sweet.",
+    "how_to_eat": "Eat hot, straight from the fryer.",
+    "how_to_order": "Buy a portion at a loukoumades shop.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lokma",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lokma",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-frappe",
+    "name": "Frappé",
+    "local_name": "Φραπέ",
+    "pronunciation": "fra-PEH",
+    "category": "drink",
+    "country": "Greece",
+    "state": "Athens",
+    "regions": [],
+    "description": "Foamy iced coffee made by shaking instant coffee with water and sugar, then adding ice and optionally milk. Invented in Thessaloniki in 1957, it became Greece's signature summer coffee.",
+    "how_to_eat": "Sip slowly through a straw; Greeks make one last for hours.",
+    "how_to_order": "Say how sweet: 'sketo' (no sugar), 'metrio' (medium) or 'glyko' (sweet), and 'me gala' for milk.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Frappé_coffee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Frappé_coffee",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-spanakopita",
+    "name": "Savory_spinach_pie",
+    "local_name": "Σπανακόπιτα",
+    "pronunciation": "spa-na-KO-pee-ta",
+    "category": "snack",
+    "country": "Greece",
+    "state": "Mainland Greece",
+    "regions": [
+      "Epirus"
+    ],
+    "description": "Savoury pie of phyllo pastry filled with spinach, feta, onion, herbs and egg. Pies (pites) are a speciality of mainland Greece, especially Epirus.",
+    "how_to_eat": "Eat warm or at room temperature, by the slice.",
+    "how_to_order": "Buy a slice at a bakery (fournos) or order at tavernas.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Savory_spinach_pie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Savory_spinach_pie",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-fasolada",
+    "name": "Fasolada",
+    "local_name": "Φασολάδα",
+    "pronunciation": "fa-so-LAH-tha",
+    "category": "meal",
+    "country": "Greece",
+    "state": "Mainland Greece",
+    "regions": [],
+    "description": "Soup of white beans cooked with tomato, carrot, celery, onion and olive oil. Often called the national food of Greece, eaten especially during fasting periods.",
+    "how_to_eat": "Eat with bread, olives and feta on the side.",
+    "how_to_order": "Look for it as a daily dish in tavernas, especially in winter.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fasolada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fasolada",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-gigantes-plaki",
+    "name": "Gigantes Plaki",
+    "local_name": "Γίγαντες πλακί",
+    "pronunciation": "YEE-gan-tes pla-KEE",
+    "category": "meal",
+    "country": "Greece",
+    "state": "Mainland Greece",
+    "regions": [],
+    "description": "Large white 'giant' beans baked in a tomato sauce with onion, herbs and olive oil. A common meze and taverna dish.",
+    "how_to_eat": null,
+    "how_to_order": "Order as a meze or main at tavernas.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gigantes_plaki",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gigantes_plaki",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-stifado",
+    "name": "Stifado",
+    "local_name": "Στιφάδο",
+    "pronunciation": "stee-FAH-tho",
+    "category": "meal",
+    "country": "Greece",
+    "state": "Mainland Greece",
+    "regions": [],
+    "description": "Stew of beef or rabbit with lots of small whole onions, tomato, red wine and spices such as cinnamon and bay. A classic winter dish.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'moschari stifado' (beef) or 'kouneli stifado' (rabbit).",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-kleftiko",
+    "name": "Kleftiko",
+    "local_name": "Κλέφτικο",
+    "pronunciation": "KLEF-tee-ko",
+    "category": "meal",
+    "country": "Greece",
+    "state": "Mainland Greece",
+    "regions": [],
+    "description": "Lamb slow-cooked with garlic, lemon and herbs, traditionally sealed in a pit or wrapped in paper, until it falls off the bone. Named after the klephts, mountain rebels who hid their cooking.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'arni kleftiko' at tavernas.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kleftiko",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kleftiko",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-galaktoboureko",
+    "name": "Galaktoboureko",
+    "local_name": "Γαλακτομπούρεκο",
+    "pronunciation": "ga-lak-to-BOO-re-ko",
+    "category": "sweet",
+    "country": "Greece",
+    "state": "Mainland Greece",
+    "regions": [],
+    "description": "Semolina custard baked between layers of buttered phyllo, then soaked in syrup. One of the most popular Greek syrup pastries.",
+    "how_to_eat": null,
+    "how_to_order": "Buy a piece at a zacharoplasteio (pastry shop).",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Galaktoboureko",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Galaktoboureko",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-gianniotikos-baklavas",
+    "name": "Baklava of Ioannina",
+    "local_name": "Γιαννιώτικος μπακλαβάς",
+    "pronunciation": "ba-kla-VAHS",
+    "category": "sweet",
+    "country": "Greece",
+    "state": "Mainland Greece",
+    "regions": [
+      "Ioannina"
+    ],
+    "description": "Layers of thin phyllo with chopped walnuts and almonds, baked with butter and soaked in syrup. Baklava is eaten across Greece; Ioannina in Epirus is especially known for its version.",
+    "how_to_eat": null,
+    "how_to_order": "Buy by the piece at pastry shops.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Baklava",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Baklava",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-diples",
+    "name": "Diples",
+    "local_name": "Δίπλες",
+    "pronunciation": "THEE-ples",
+    "category": "sweet",
+    "country": "Greece",
+    "state": "Mainland Greece",
+    "regions": [
+      "Peloponnese"
+    ],
+    "description": "Thin sheets of egg dough folded and deep-fried into rolls or bows, then drizzled with honey and sprinkled with walnuts and cinnamon. Associated especially with the Peloponnese, and made for weddings and holidays.",
+    "how_to_eat": null,
+    "how_to_order": "Look for them in pastry shops in the Peloponnese.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Diples",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Diples",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-bougatsa",
+    "name": "Bougatsa",
+    "local_name": "Μπουγάτσα",
+    "pronunciation": "boo-GAH-tsa",
+    "category": "sweet",
+    "country": "Greece",
+    "state": "Thessaloniki & Macedonia",
+    "regions": [
+      "Thessaloniki",
+      "Serres"
+    ],
+    "description": "Phyllo pastry filled with semolina custard (or cheese or minced meat), served dusted with icing sugar and cinnamon. A breakfast institution in Thessaloniki.",
+    "how_to_eat": "Eat warm for breakfast with coffee.",
+    "how_to_order": "Order 'bougatsa me krema' (custard) at a bougatsa shop in Thessaloniki.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bougatsa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bougatsa",
+      "https://en.wikipedia.org/wiki/Greek_Macedonian_cuisine"
+    ]
+  },
+  {
+    "id": "greece-koulouri-thessalonikis",
+    "name": "Koulouri Thessalonikis",
+    "local_name": "Κουλούρι Θεσσαλονίκης",
+    "pronunciation": "koo-LOO-ree",
+    "category": "street_food",
+    "country": "Greece",
+    "state": "Thessaloniki & Macedonia",
+    "regions": [
+      "Thessaloniki"
+    ],
+    "description": "Ring-shaped bread covered in sesame seeds, sold everywhere from street carts. The Thessaloniki version is a common quick breakfast.",
+    "how_to_eat": "Eat on the go as breakfast.",
+    "how_to_order": "Buy one from a street vendor or bakery.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Simit",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Simit",
+      "https://en.wikipedia.org/wiki/Greek_Macedonian_cuisine"
+    ]
+  },
+  {
+    "id": "greece-trigona-panoramatos",
+    "name": "Trigona Panoramatos",
+    "local_name": "Τρίγωνα Πανοράματος",
+    "pronunciation": "TREE-go-na",
+    "category": "sweet",
+    "country": "Greece",
+    "state": "Thessaloniki & Macedonia",
+    "regions": [
+      "Thessaloniki"
+    ],
+    "description": "Triangular cones of crisp phyllo, soaked in syrup and filled with custard cream. They come from Panorama, a suburb of Thessaloniki.",
+    "how_to_eat": null,
+    "how_to_order": "Buy at pastry shops in Thessaloniki.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Greek_Macedonian_cuisine"
+    ]
+  },
+  {
+    "id": "greece-soutzoukakia",
+    "name": "Soutzoukakia Smyrneika",
+    "local_name": "Σουτζουκάκια σμυρνέικα",
+    "pronunciation": "soo-dzoo-KA-kya",
+    "category": "meal",
+    "country": "Greece",
+    "state": "Thessaloniki & Macedonia",
+    "regions": [
+      "Thessaloniki"
+    ],
+    "description": "Elongated meatballs spiced with cumin and garlic, cooked in tomato sauce. Brought by Greek refugees from Smyrna in the 1920s.",
+    "how_to_eat": "Eat with rice or chips.",
+    "how_to_order": "Order at tavernas and mageiria (cook-shops).",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Smyrna_meatballs",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Smyrna_meatballs",
+      "https://en.wikipedia.org/wiki/Greek_Macedonian_cuisine"
+    ]
+  },
+  {
+    "id": "greece-tsipouro",
+    "name": "Tsipouro",
+    "local_name": "Τσίπουρο",
+    "pronunciation": "TSEE-poo-ro",
+    "category": "drink",
+    "country": "Greece",
+    "state": "Thessaloniki & Macedonia",
+    "regions": [
+      "Volos",
+      "Tyrnavos"
+    ],
+    "description": "Strong pomace brandy distilled from grape residue, plain or flavoured with anise. Its name has been EU-protected since 2006; it is made especially in Thessaly, Epirus and Macedonia.",
+    "how_to_eat": "Drink in small glasses with a plate of meze; many add water or ice.",
+    "how_to_order": "Order a 'karafaki' (small carafe) at a tsipouradiko, which brings free meze with each round.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tsipouro",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tsipouro",
+      "https://en.wikipedia.org/wiki/Greek_Macedonian_cuisine"
+    ]
+  },
+  {
+    "id": "greece-dakos",
+    "name": "Dakos",
+    "local_name": "Ντάκος",
+    "pronunciation": "DA-kos",
+    "category": "snack",
+    "country": "Greece",
+    "state": "Crete",
+    "regions": [],
+    "description": "Barley rusk topped with grated tomato, crumbled mizithra or feta, olive oil, oregano and olives. A Cretan meze.",
+    "how_to_eat": "Let the rusk soften in the tomato juice before eating.",
+    "how_to_order": "Order as a meze at Cretan tavernas.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dakos",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dakos",
+      "https://en.wikipedia.org/wiki/Cretan_cuisine"
+    ]
+  },
+  {
+    "id": "greece-kalitsounia",
+    "name": "Kalitsounia",
+    "local_name": "Καλιτσούνια",
+    "pronunciation": "ka-lee-TSOO-nya",
+    "category": "snack",
+    "country": "Greece",
+    "state": "Crete",
+    "regions": [],
+    "description": "Small Cretan pies filled with soft cheese such as mizithra, sometimes with herbs, fried or baked. Made especially at Easter.",
+    "how_to_eat": null,
+    "how_to_order": "Buy at bakeries in Crete or order at tavernas.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kalitsounia",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kalitsounia",
+      "https://en.wikipedia.org/wiki/Cretan_cuisine"
+    ]
+  },
+  {
+    "id": "greece-staka-me-avga",
+    "name": "Staka me Avga",
+    "local_name": "Στάκα με αυγά",
+    "pronunciation": "STA-ka meh av-GHA",
+    "category": "meal",
+    "country": "Greece",
+    "state": "Crete",
+    "regions": [],
+    "description": "Eggs fried in staka, a rich Cretan butter-fat made from the cream of sheep's or goat's milk. A traditional mountain dish.",
+    "how_to_eat": "Scoop it up with bread.",
+    "how_to_order": "Ask for 'staka me avga' at village tavernas.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Staka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Staka",
+      "https://en.wikipedia.org/wiki/Cretan_cuisine"
+    ]
+  },
+  {
+    "id": "greece-antikristo",
+    "name": "Antikristo",
+    "local_name": "Αντικριστό",
+    "pronunciation": "an-dee-kree-STO",
+    "category": "meal",
+    "country": "Greece",
+    "state": "Crete",
+    "regions": [],
+    "description": "Lamb or goat pieces skewered on long spits set around an open fire, cooked slowly with only salt. A traditional Cretan shepherds' method.",
+    "how_to_eat": null,
+    "how_to_order": "Order at Cretan tavernas, often in the mountain villages.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cretan_cuisine"
+    ]
+  },
+  {
+    "id": "greece-sfakiani-pita",
+    "name": "Sfakiani Pita",
+    "local_name": "Σφακιανή πίτα",
+    "pronunciation": "sfa-kya-NEE PEE-ta",
+    "category": "sweet",
+    "country": "Greece",
+    "state": "Crete",
+    "regions": [
+      "Sfakia"
+    ],
+    "description": "Thin pan-fried pie filled with mizithra cheese, served with honey drizzled on top. From the Sfakia region of Crete.",
+    "how_to_eat": "Eat hot with honey.",
+    "how_to_order": "Order at tavernas in Sfakia and around Chania.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cretan_cuisine"
+    ]
+  },
+  {
+    "id": "greece-gamopilafo",
+    "name": "Gamopilafo",
+    "local_name": "Γαμοπίλαφο",
+    "pronunciation": "ga-mo-PEE-la-fo",
+    "category": "meal",
+    "country": "Greece",
+    "state": "Crete",
+    "regions": [],
+    "description": "'Wedding pilaf': rice cooked in rich broth from boiled lamb, goat or rooster, finished with butter and lemon. Traditionally served at Cretan weddings.",
+    "how_to_eat": null,
+    "how_to_order": "Look for it at Cretan tavernas, especially in the mountain villages.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cretan_cuisine"
+    ]
+  },
+  {
+    "id": "greece-tsikoudia",
+    "name": "Tsikoudia (Raki)",
+    "local_name": "Τσικουδιά",
+    "pronunciation": "tsee-koo-THYA",
+    "category": "drink",
+    "country": "Greece",
+    "state": "Crete",
+    "regions": [],
+    "description": "Clear pomace brandy distilled from grape residue, without anise. Cretans call it raki and offer it as a sign of hospitality.",
+    "how_to_eat": "Sip in small glasses, often offered free after a meal.",
+    "how_to_order": "Ask for 'raki'; tavernas often bring it free with dessert.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tsikoudia",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tsikoudia",
+      "https://en.wikipedia.org/wiki/Cretan_cuisine"
+    ]
+  },
+  {
+    "id": "greece-pastitsada",
+    "name": "Pastitsada",
+    "local_name": "Παστιτσάδα",
+    "pronunciation": "pa-stee-TSAH-tha",
+    "category": "meal",
+    "country": "Greece",
+    "state": "Ionian Islands",
+    "regions": [
+      "Corfu"
+    ],
+    "description": "Rooster or beef braised in a spiced tomato sauce, served over thick pasta. A Corfiot dish showing Venetian influence.",
+    "how_to_eat": null,
+    "how_to_order": "Order at tavernas in Corfu.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pastitsada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pastitsada",
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Ionian_Islands"
+    ]
+  },
+  {
+    "id": "greece-sofrito",
+    "name": "Sofrito",
+    "local_name": "Σοφρίτο",
+    "pronunciation": "so-FREE-to",
+    "category": "meal",
+    "country": "Greece",
+    "state": "Ionian Islands",
+    "regions": [
+      "Corfu"
+    ],
+    "description": "Thin slices of veal cooked slowly in a white wine sauce with lots of garlic, vinegar and parsley. One of Corfu's best-known dishes.",
+    "how_to_eat": "Eat with mashed potatoes or rice.",
+    "how_to_order": "Order at Corfiot tavernas.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Ionian_Islands"
+    ]
+  },
+  {
+    "id": "greece-bourdeto",
+    "name": "Bourdeto",
+    "local_name": "Μπουρδέτο",
+    "pronunciation": "boor-THE-to",
+    "category": "meal",
+    "country": "Greece",
+    "state": "Ionian Islands",
+    "regions": [
+      "Corfu"
+    ],
+    "description": "Spicy fish stew, traditionally made with scorpionfish, cooked with lots of red pepper and onion. A Corfiot speciality.",
+    "how_to_eat": null,
+    "how_to_order": "Order at fish tavernas in Corfu.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bourdeto",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bourdeto",
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Ionian_Islands"
+    ]
+  },
+  {
+    "id": "greece-kumquat-liqueur",
+    "name": "Kumquat Liqueur",
+    "local_name": "Λικέρ κουμκουάτ",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Greece",
+    "state": "Ionian Islands",
+    "regions": [
+      "Corfu"
+    ],
+    "description": "Sweet liqueur made from kumquats, which have been grown on Corfu since the British period. A signature souvenir of the island.",
+    "how_to_eat": "Sip chilled after a meal.",
+    "how_to_order": "Buy bottles in shops across Corfu.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kumquat",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kumquat",
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Ionian_Islands"
+    ]
+  },
+  {
+    "id": "greece-sykomaida",
+    "name": "Sykomaida",
+    "local_name": "Συκομαΐδα",
+    "pronunciation": "see-ko-MA-ee-tha",
+    "category": "sweet",
+    "country": "Greece",
+    "state": "Ionian Islands",
+    "regions": [
+      "Corfu"
+    ],
+    "description": "Dense cake of dried figs pressed with ouzo or grape must, pepper and spices, wrapped in fig leaves. A traditional Corfiot sweet.",
+    "how_to_eat": "Eat in thin slices, e.g. with cheese or a drink.",
+    "how_to_order": "Buy at Corfiot food shops.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuisine_of_the_Ionian_Islands",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-fava-santorinis",
+    "name": "Santorini Fava",
+    "local_name": "Φάβα Σαντορίνης",
+    "pronunciation": "FA-va",
+    "category": "meal",
+    "country": "Greece",
+    "state": "Aegean Islands",
+    "regions": [
+      "Santorini"
+    ],
+    "description": "Creamy purée of yellow split peas (Lathyrus) grown on Santorini, served with olive oil, raw onion and capers. 'Fava Santorinis' has EU Protected Designation of Origin status.",
+    "how_to_eat": "Eat warm or at room temperature with bread.",
+    "how_to_order": "Order as a meze at tavernas on Santorini.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fava_(Greek_dish)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fava_(Greek_dish)",
+      "https://en.wikipedia.org/wiki/Greek_cuisine",
+      "https://www.travel.gr/en/food-and-drink-en/savoring-santorini-indulging-in-the-flavors-of-the-cyclades/"
+    ]
+  },
+  {
+    "id": "greece-tomatokeftedes",
+    "name": "Tomatokeftedes",
+    "local_name": "Ντοματοκεφτέδες",
+    "pronunciation": "do-ma-to-kef-TE-thes",
+    "category": "snack",
+    "country": "Greece",
+    "state": "Aegean Islands",
+    "regions": [
+      "Santorini"
+    ],
+    "description": "Fritters of chopped Santorini cherry tomatoes, onion, mint and flour, fried in oil. A popular meze on Santorini.",
+    "how_to_eat": null,
+    "how_to_order": "Order as a meze at tavernas in the Cyclades.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tomatokeftedes",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tomatokeftedes",
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-revithada",
+    "name": "Revithada",
+    "local_name": "Ρεβιθάδα",
+    "pronunciation": "re-vee-THA-tha",
+    "category": "meal",
+    "country": "Greece",
+    "state": "Aegean Islands",
+    "regions": [
+      "Sifnos"
+    ],
+    "description": "Chickpeas with onion and olive oil slow-baked overnight in a clay pot in a wood-fired oven. The traditional Sunday dish of Sifnos.",
+    "how_to_eat": null,
+    "how_to_order": "Look for it at tavernas on Sifnos, often on Sundays.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Greek_cuisine"
+    ]
+  },
+  {
+    "id": "greece-melekouni",
+    "name": "Melekouni",
+    "local_name": "Μελεκούνι",
+    "pronunciation": "me-le-KOO-nee",
+    "category": "sweet",
+    "country": "Greece",
+    "state": "Aegean Islands",
+    "regions": [
+      "Rhodes"
+    ],
+    "description": "Bar of sesame seeds and almonds bound with honey, flavoured with orange and spices, traditionally given at weddings and baptisms. 'Melekouni' from Rhodes is an EU Protected Geographical Indication.",
+    "how_to_eat": null,
+    "how_to_order": "Buy wrapped bars in shops and bakeries on Rhodes.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "sesame",
+      "nuts"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://greekreporter.com/2025/12/10/melekouni-greek-power-bar/",
+      "https://eur-lex.europa.eu/eli/reg_impl/2017/2363/oj"
+    ]
+  },
+  {
+    "id": "greece-ouzo",
+    "name": "Ouzo",
+    "local_name": "Ούζο",
+    "pronunciation": "OO-zo",
+    "category": "drink",
+    "country": "Greece",
+    "state": "Aegean Islands",
+    "regions": [
+      "Lesbos",
+      "Plomari"
+    ],
+    "description": "Clear anise-flavoured spirit that turns milky white when mixed with water. Ouzo is an EU protected geographical indication for Greece and Cyprus; Plomari on Lesbos is its most famous production centre.",
+    "how_to_eat": "Add water or ice and drink slowly with meze.",
+    "how_to_order": "Order a small bottle ('karafaki') at an ouzeri, which serves meze with it.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ouzo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ouzo",
+      "https://news.gtp.gr/2017/06/30/secrets-lesvos-intoxicating-spirit-ouzo/"
+    ]
+  }
+]

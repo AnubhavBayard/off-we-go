@@ -1,0 +1,1286 @@
+[
+  {
+    "id": "malaysia-char-kway-teow",
+    "name": "Char Kway Teow",
+    "local_name": "炒粿條",
+    "pronunciation": "char kway TEOW",
+    "category": "street_food",
+    "country": "Malaysia",
+    "state": "Penang",
+    "regions": [
+      "George Town"
+    ],
+    "description": "Flat rice noodles stir-fried over very high heat with soy sauce, chilli, prawns, cockles, bean sprouts, egg and Chinese chives. The Penang hawker version is one of Malaysia's best-known street foods.",
+    "how_to_eat": "Eat hot from the wok, ideally with its smoky 'wok hei' still fresh.",
+    "how_to_order": "Order a plate at a hawker stall; say if you want it without cockles or extra spicy.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "egg",
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Char_kway_teow",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Char_kway_teow",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-penang-asam-laksa",
+    "name": "Penang Asam Laksa",
+    "local_name": null,
+    "pronunciation": "AH-sum LUK-sah",
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Penang",
+    "regions": [
+      "George Town",
+      "Air Itam"
+    ],
+    "description": "Thick rice noodles in a sour fish broth made with mackerel and tamarind (asam), topped with cucumber, onion, mint, pineapple and a spoon of sweet shrimp paste (hae ko). It is Penang's signature laksa.",
+    "how_to_eat": "Stir the shrimp paste into the broth before eating.",
+    "how_to_order": "Ask for 'asam laksa' at Penang hawker centres and coffee shops.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laksa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Laksa",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-penang-hokkien-mee",
+    "name": "Penang Hokkien Mee",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Malaysia",
+    "state": "Penang",
+    "regions": [
+      "George Town"
+    ],
+    "description": "Egg and rice noodles in a rich prawn-and-pork broth, topped with prawns, sliced pork, egg, kangkung and fried shallots with sambal. In Penang 'Hokkien mee' means this prawn soup, unlike the dark fried version of Kuala Lumpur.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'Hokkien mee' or 'prawn mee' at Penang hawker stalls, usually a breakfast dish.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hokkien_mee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hokkien_mee",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-nasi-kandar",
+    "name": "Nasi Kandar",
+    "local_name": null,
+    "pronunciation": "NAH-see KUN-dar",
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Penang",
+    "regions": [
+      "George Town"
+    ],
+    "description": "Steamed rice served with a choice of curries, fried chicken, fish, squid and vegetables, with several curry gravies poured over ('banjir'). It was created by Tamil Muslim vendors in Penang who carried rice and curry on a shoulder pole (kandar).",
+    "how_to_eat": "Ask for mixed gravies over the rice and eat with your right hand or a spoon.",
+    "how_to_order": "Point at the dishes you want at a nasi kandar shop; ask for 'kuah campur' for mixed curry gravy.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "shellfish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nasi_kandar",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nasi_kandar",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-penang-rojak",
+    "name": "Penang Rojak",
+    "local_name": null,
+    "pronunciation": "ROH-jak",
+    "category": "snack",
+    "country": "Malaysia",
+    "state": "Penang",
+    "regions": [
+      "George Town"
+    ],
+    "description": "A fruit and vegetable salad (pineapple, cucumber, jicama, mango) tossed in a thick dark dressing of shrimp paste, sugar, chilli and lime, topped with crushed peanuts. The Penang version is considered especially good.",
+    "how_to_eat": null,
+    "how_to_order": "Buy it from rojak stalls at hawker centres and beaches.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish",
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rojak",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rojak",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-cendol",
+    "name": "Cendol",
+    "local_name": null,
+    "pronunciation": "CHEN-dol",
+    "category": "sweet",
+    "country": "Malaysia",
+    "state": "Penang",
+    "regions": [
+      "George Town"
+    ],
+    "description": "Shaved ice with green pandan rice-flour jelly, coconut milk and palm sugar syrup (gula Melaka), often with red beans. Penang Road's cendol stalls are famous.",
+    "how_to_eat": "Stir everything together and eat quickly before the ice melts.",
+    "how_to_order": "Buy a bowl from cendol stalls; red beans are a common add-on.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cendol",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cendol",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-chicken-rice-balls",
+    "name": "Chicken Rice Balls",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Malacca",
+    "regions": [
+      "Malacca City"
+    ],
+    "description": "Hainanese chicken rice where the fragrant chicken-stock rice is shaped into small balls, served with poached chicken and chilli sauce. It is Malacca's signature version of chicken rice.",
+    "how_to_eat": "Eat the rice balls with the chicken and dip in chilli sauce.",
+    "how_to_order": "Order at chicken rice ball shops around Jonker Street.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hainanese_chicken_rice",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hainanese_chicken_rice",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-ayam-pongteh",
+    "name": "Ayam Pongteh",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Malacca",
+    "regions": [
+      "Malacca City"
+    ],
+    "description": "A Peranakan (Nyonya) stew of chicken and potatoes braised with fermented soybean paste (taucu), palm sugar and shallots. It is a classic of Malacca's Nyonya cuisine.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Look for it at Nyonya restaurants.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Peranakan_cuisine",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-nyonya-laksa",
+    "name": "Nyonya Laksa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Malacca",
+    "regions": [
+      "Malacca City"
+    ],
+    "description": "Noodles in a rich coconut-milk curry broth (laksa lemak) with prawns, cockles, tofu puffs and hard-boiled egg, with sambal belacan. It is a classic of Malacca's Nyonya (Peranakan) cuisine.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'laksa Nyonya' at Peranakan cafes.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "fish",
+      "egg",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laksa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Laksa",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-devils-curry",
+    "name": "Devil's Curry",
+    "local_name": "Curry Debal",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Malacca",
+    "regions": [
+      "Malacca City"
+    ],
+    "description": "A spicy, sour Kristang (Malacca Portuguese-Eurasian) curry of chicken with chillies, vinegar and mustard seeds, traditionally made with Christmas leftovers. It is a signature dish of the Kristang community.",
+    "how_to_eat": "Eat with rice or bread.",
+    "how_to_order": "Ask for 'curry debal' at Portuguese Settlement eateries.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Devil%27s_curry",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Devil%27s_curry",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-satay-celup",
+    "name": "Satay Celup",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Malaysia",
+    "state": "Malacca",
+    "regions": [
+      "Malacca City"
+    ],
+    "description": "Skewers of seafood, meat, tofu and vegetables dipped and cooked in a pot of boiling spicy peanut sauce at the table. It is a Malacca speciality.",
+    "how_to_eat": "Dip skewers into the shared pot of peanut sauce; you pay by the number of sticks.",
+    "how_to_order": "Go to a satay celup restaurant and pick skewers from the fridge.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "peanuts",
+      "shellfish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Satay_celup",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Satay_celup",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-onde-onde",
+    "name": "Onde-onde",
+    "local_name": null,
+    "pronunciation": "ON-deh ON-deh",
+    "category": "sweet",
+    "country": "Malaysia",
+    "state": "Malacca",
+    "regions": [],
+    "description": "Small glutinous rice balls coloured with pandan, filled with liquid palm sugar and rolled in grated coconut. They are a classic Malay and Nyonya kuih.",
+    "how_to_eat": "Pop a whole ball in your mouth so the palm sugar bursts inside.",
+    "how_to_order": "Buy from kuih stalls and Nyonya bakeries.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Klepon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Klepon",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-nasi-lemak",
+    "name": "Nasi Lemak",
+    "local_name": null,
+    "pronunciation": "NAH-see LEH-mak",
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Kuala Lumpur & Selangor",
+    "regions": [
+      "Kuala Lumpur"
+    ],
+    "description": "Rice cooked in coconut milk and pandan, served with spicy sambal, fried anchovies, peanuts, cucumber and boiled egg, often with fried chicken or rendang. It is widely considered Malaysia's national dish.",
+    "how_to_eat": "Mix a little sambal into each mouthful.",
+    "how_to_order": "Buy a banana-leaf-wrapped 'nasi lemak bungkus' in the morning or a plated version at mamak shops.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "peanuts",
+      "egg",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nasi_lemak",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nasi_lemak",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-roti-canai",
+    "name": "Roti Canai",
+    "local_name": null,
+    "pronunciation": "ROH-tee CHA-nai",
+    "category": "street_food",
+    "country": "Malaysia",
+    "state": "Kuala Lumpur & Selangor",
+    "regions": [],
+    "description": "A flaky, layered flatbread made from flour dough stretched thin, folded and griddled with ghee or oil. It is served with dhal or curry at Indian Muslim (mamak) shops across Malaysia.",
+    "how_to_eat": "Tear pieces and dip them in the dhal or curry.",
+    "how_to_order": "Order 'roti canai' at a mamak shop; 'roti telur' adds egg.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roti_canai",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Roti_canai",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-bak-kut-teh",
+    "name": "Bak Kut Teh",
+    "local_name": "肉骨茶",
+    "pronunciation": "bak koot TEH",
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Kuala Lumpur & Selangor",
+    "regions": [
+      "Klang"
+    ],
+    "description": "Pork ribs simmered in a herbal broth with garlic, star anise, cinnamon and other Chinese herbs. Klang in Selangor claims to be its birthplace.",
+    "how_to_eat": "Eat with rice and fried dough sticks dipped in the soup, with Chinese tea.",
+    "how_to_order": "Order at bak kut teh shops in Klang, usually for breakfast.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bak_kut_teh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bak_kut_teh",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-satay-kajang",
+    "name": "Satay Kajang",
+    "local_name": null,
+    "pronunciation": "SAH-tay KAH-jang",
+    "category": "street_food",
+    "country": "Malaysia",
+    "state": "Kuala Lumpur & Selangor",
+    "regions": [
+      "Kajang"
+    ],
+    "description": "Grilled skewers of marinated chicken or beef served with peanut sauce, ketupat rice cakes, cucumber and onion. Kajang in Selangor is famous for its satay.",
+    "how_to_eat": "Dip the skewers and rice cakes in the peanut sauce.",
+    "how_to_order": "Order skewers by the stick at satay restaurants in Kajang.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Satay",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Satay",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-hokkien-mee-kl",
+    "name": "Hokkien Mee (KL)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Malaysia",
+    "state": "Kuala Lumpur & Selangor",
+    "regions": [
+      "Kuala Lumpur"
+    ],
+    "description": "Thick yellow noodles fried in dark soy sauce with pork, prawns, squid, cabbage and crispy pork lard. This dark version is a Kuala Lumpur late-night favourite.",
+    "how_to_eat": null,
+    "how_to_order": "Order at Chinese hawker stalls, often open late at night.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "soy",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hokkien_mee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hokkien_mee",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-ampang-yong-tau-foo",
+    "name": "Ampang Yong Tau Foo",
+    "local_name": "釀豆腐",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Kuala Lumpur & Selangor",
+    "regions": [
+      "Ampang"
+    ],
+    "description": "Tofu and vegetables such as chilli, bitter gourd and aubergine stuffed with fish paste, served in broth or dry with sauces. Ampang, on the edge of Kuala Lumpur, is famous for it.",
+    "how_to_eat": null,
+    "how_to_order": "Pick your pieces and choose soup or dry style.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yong_tau_foo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Yong_tau_foo",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-teh-tarik",
+    "name": "Teh Tarik",
+    "local_name": null,
+    "pronunciation": "teh TAH-rick",
+    "category": "drink",
+    "country": "Malaysia",
+    "state": "Kuala Lumpur & Selangor",
+    "regions": [],
+    "description": "Black tea with condensed milk, 'pulled' by pouring it between two vessels from a height to give a frothy top. It is Malaysia's national drink.",
+    "how_to_eat": null,
+    "how_to_order": "Order 'teh tarik' at any mamak shop; 'kurang manis' means less sweet.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Teh_tarik",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Teh_tarik",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-ipoh-white-coffee",
+    "name": "Ipoh White Coffee",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Malaysia",
+    "state": "Perak",
+    "regions": [
+      "Ipoh"
+    ],
+    "description": "Coffee beans roasted with palm-oil margarine, brewed and served with condensed milk. It originated in Ipoh's old town coffee shops.",
+    "how_to_eat": null,
+    "how_to_order": "Order 'white coffee' hot or iced at Ipoh old town kopitiams.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ipoh_white_coffee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ipoh_white_coffee",
+      "https://en.wikipedia.org/wiki/Ipoh_cuisine",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-bean-sprouts-chicken",
+    "name": "Bean Sprouts Chicken",
+    "local_name": "芽菜雞",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Perak",
+    "regions": [
+      "Ipoh"
+    ],
+    "description": "Poached chicken served with plump, short Ipoh bean sprouts blanched and dressed with soy sauce and sesame oil. Ipoh's bean sprouts are credited to the town's mineral-rich water.",
+    "how_to_eat": "Eat with rice or flat rice noodle soup.",
+    "how_to_order": "Order chicken and a plate of bean sprouts at Ipoh's chicken shops.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bean_sprouts_chicken",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bean_sprouts_chicken",
+      "https://en.wikipedia.org/wiki/Ipoh_cuisine",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-ipoh-kai-si-hor-fun",
+    "name": "Ipoh Kai Si Hor Fun",
+    "local_name": "雞絲河粉",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Perak",
+    "regions": [
+      "Ipoh"
+    ],
+    "description": "Smooth flat rice noodles in a clear chicken and prawn broth, topped with shredded chicken and prawns. It is one of Ipoh's best-known noodle dishes.",
+    "how_to_eat": null,
+    "how_to_order": "Order at Ipoh coffee shops, usually for breakfast or lunch.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ipoh_cuisine",
+      "https://en.wikipedia.org/wiki/Shahe_fen",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-ipoh-salted-chicken",
+    "name": "Ipoh Salted Chicken",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Perak",
+    "regions": [
+      "Ipoh"
+    ],
+    "description": "A whole chicken wrapped in grease paper with salt and Chinese herbs and baked for several hours, which keeps the meat tender. It is a traditional Hakka dish that Ipoh is known for.",
+    "how_to_eat": "Tear the meat apart by hand.",
+    "how_to_order": "Buy a whole wrapped chicken from salted chicken shops in Ipoh.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ipoh_cuisine",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-tau-fu-fa",
+    "name": "Tau Fu Fa",
+    "local_name": "豆腐花",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Malaysia",
+    "state": "Perak",
+    "regions": [
+      "Ipoh"
+    ],
+    "description": "A silky soft soybean pudding served with sugar or ginger syrup. Ipoh's version is especially popular.",
+    "how_to_eat": null,
+    "how_to_order": "Buy a bowl at tau fu fa shops in Ipoh.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Douhua",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Douhua",
+      "https://en.wikipedia.org/wiki/Ipoh_cuisine",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-nasi-kerabu",
+    "name": "Nasi Kerabu",
+    "local_name": null,
+    "pronunciation": "NAH-see keh-RAH-boo",
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "East Coast (Kelantan, Terengganu, Pahang)",
+    "regions": [
+      "Kota Bharu"
+    ],
+    "description": "Blue rice coloured with butterfly-pea flowers, served with raw herbs, toasted coconut, salted egg, fish crackers and fried fish or chicken, with budu fish sauce. It is a Kelantan signature dish.",
+    "how_to_eat": "Mix the herbs, coconut and sauce into the rice.",
+    "how_to_order": "Look for it at Kelantanese stalls and markets.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nasi_kerabu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nasi_kerabu",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-nasi-dagang",
+    "name": "Nasi Dagang",
+    "local_name": null,
+    "pronunciation": "NAH-see DAH-gang",
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "East Coast (Kelantan, Terengganu, Pahang)",
+    "regions": [
+      "Kuala Terengganu"
+    ],
+    "description": "Rice steamed with coconut milk and fenugreek, served with a tuna (tongkol) curry and pickles. It is a typical breakfast in Terengganu and Kelantan.",
+    "how_to_eat": null,
+    "how_to_order": "Buy it in the morning from Terengganu breakfast stalls.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nasi_dagang",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nasi_dagang",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-keropok-lekor",
+    "name": "Keropok Lekor",
+    "local_name": null,
+    "pronunciation": "keh-ROH-pok LEH-kor",
+    "category": "snack",
+    "country": "Malaysia",
+    "state": "East Coast (Kelantan, Terengganu, Pahang)",
+    "regions": [
+      "Kuala Terengganu"
+    ],
+    "description": "Chewy sausage-shaped fish crackers made from fish and sago flour, boiled then sliced and fried. It is Terengganu's famous snack.",
+    "how_to_eat": "Dip in chilli sauce.",
+    "how_to_order": "Buy freshly fried keropok lekor from roadside stalls.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lekor",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lekor",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-laksam",
+    "name": "Laksam",
+    "local_name": null,
+    "pronunciation": "LUK-sum",
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "East Coast (Kelantan, Terengganu, Pahang)",
+    "regions": [
+      "Kota Bharu"
+    ],
+    "description": "Thick rolled rice noodle sheets served in a white, creamy fish and coconut milk gravy with raw vegetables and herbs (ulam) and shrimp paste. It is an east coast speciality of Kelantan and Terengganu.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'laksam' at Kelantanese breakfast stalls.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laksam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Laksam",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-ayam-percik",
+    "name": "Ayam Percik",
+    "local_name": null,
+    "pronunciation": "AH-yam per-CHEEK",
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "East Coast (Kelantan, Terengganu, Pahang)",
+    "regions": [
+      "Kota Bharu"
+    ],
+    "description": "Chicken grilled over a wood fire and basted with a sweet, spiced coconut milk gravy. It is a Kelantanese favourite served at feasts.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": "Look for it at Kelantan night markets, especially during Ramadan.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kelantan",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-akok",
+    "name": "Akok",
+    "local_name": null,
+    "pronunciation": "AH-kok",
+    "category": "sweet",
+    "country": "Malaysia",
+    "state": "East Coast (Kelantan, Terengganu, Pahang)",
+    "regions": [
+      "Kota Bharu"
+    ],
+    "description": "A caramel-flavoured cake made from eggs, coconut milk, flour and brown sugar, cooked in a brass mould over charcoal. It is a traditional Kelantanese kuih.",
+    "how_to_eat": null,
+    "how_to_order": "Buy from kuih stalls in Kelantan markets.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Akok",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Akok",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-laksa-johor",
+    "name": "Laksa Johor",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Johor",
+    "regions": [
+      "Johor Bahru"
+    ],
+    "description": "Spaghetti served in a thick gravy of grilled wolf herring (ikan parang), concentrated coconut milk, onion and spices, topped with raw vegetables and herbs. Its use of spaghetti sets it apart from other laksa.",
+    "how_to_eat": null,
+    "how_to_order": "Look for it at Johor Malay eateries, especially on festive days.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "gluten",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Laksa",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-mee-rebus",
+    "name": "Mee Rebus",
+    "local_name": null,
+    "pronunciation": "mee REH-boos",
+    "category": "street_food",
+    "country": "Malaysia",
+    "state": "Johor",
+    "regions": [
+      "Johor Bahru"
+    ],
+    "description": "Yellow egg noodles in a thick, sweet-savoury gravy of sweet potato, beef or shrimp stock and spices, topped with boiled egg, tofu and lime. Johor is famous for it.",
+    "how_to_eat": "Squeeze the lime over before eating.",
+    "how_to_order": "Order at Malay hawker stalls.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "gluten",
+      "soy",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mee_rebus",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mee_rebus",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-otak-otak",
+    "name": "Otak-otak",
+    "local_name": null,
+    "pronunciation": "OH-tak OH-tak",
+    "category": "snack",
+    "country": "Malaysia",
+    "state": "Johor",
+    "regions": [
+      "Muar"
+    ],
+    "description": "Spiced fish paste wrapped in coconut or banana leaves and grilled over charcoal. Muar in Johor is famous for it.",
+    "how_to_eat": "Unwrap the leaf and eat the fish cake inside.",
+    "how_to_order": "Buy by the piece at otak-otak stalls in Muar.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Otak-otak",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Otak-otak",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-sarawak-laksa",
+    "name": "Sarawak Laksa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "regions": [
+      "Kuching"
+    ],
+    "description": "Rice vermicelli in a broth of sambal belacan, sour tamarind, coconut milk and spices, topped with prawns, chicken strips and omelette. It is Kuching's famous breakfast.",
+    "how_to_eat": "Squeeze the calamansi lime into the broth.",
+    "how_to_order": "Ask for 'laksa Sarawak' at Kuching coffee shops in the morning.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Laksa",
+      "https://en.wikipedia.org/wiki/Sarawakian_cuisine",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-kolo-mee",
+    "name": "Kolo Mee",
+    "local_name": null,
+    "pronunciation": "KOH-loh mee",
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "regions": [
+      "Kuching"
+    ],
+    "description": "Springy egg noodles tossed in shallot oil or lard and topped with char siu pork and minced pork. It is Sarawak's everyday breakfast noodle.",
+    "how_to_eat": null,
+    "how_to_order": "Order at Kuching coffee shops; 'red' kolo mee adds char siu sauce.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kolo_mee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kolo_mee",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-manok-pansoh",
+    "name": "Manok Pansoh",
+    "local_name": null,
+    "pronunciation": "MAH-nok PUN-soh",
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "regions": [],
+    "description": "Chicken cooked inside bamboo with lemongrass, ginger and tapioca leaves over an open fire. It is a traditional Iban dish.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": "Look for it at Dayak restaurants and longhouse visits.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ayam_pansuh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ayam_pansuh",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-umai",
+    "name": "Umai",
+    "local_name": null,
+    "pronunciation": "OO-my",
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "regions": [],
+    "description": "Raw fish sliced thin and marinated in lime juice with onion, chilli and salt. It is a traditional Melanau dish from the Sarawak coast.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Umai",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Umai",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-kek-lapis-sarawak",
+    "name": "Kek Lapis Sarawak",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "regions": [
+      "Kuching"
+    ],
+    "description": "A colourful, intricately patterned layered cake baked layer by layer from butter, eggs and flavourings. It is a Sarawak speciality, served at festivals.",
+    "how_to_eat": null,
+    "how_to_order": "Buy slices or whole cakes from kek lapis shops in Kuching.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sarawak_layer_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sarawak_layer_cake",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-hinava",
+    "name": "Hinava",
+    "local_name": null,
+    "pronunciation": "hee-NAH-vah",
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Sabah",
+    "regions": [],
+    "description": "Raw fish (often mackerel) cured in lime juice with chilli, ginger, shallots and grated bambangan seed. It is a signature Kadazan-Dusun dish.",
+    "how_to_eat": null,
+    "how_to_order": "Look for it at Kadazan-Dusun restaurants.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hinava",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hinava",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-tuaran-mee",
+    "name": "Tuaran Mee",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Sabah",
+    "regions": [
+      "Tuaran"
+    ],
+    "description": "Fresh egg noodles fried with vegetables, egg and char siu or chicken. It comes from the town of Tuaran near Kota Kinabalu.",
+    "how_to_eat": null,
+    "how_to_order": "Order at coffee shops around Kota Kinabalu and Tuaran.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tuaran_mee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tuaran_mee",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-ngiu-chap",
+    "name": "Ngiu Chap",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Sabah",
+    "regions": [
+      "Kota Kinabalu"
+    ],
+    "description": "A Hakka-style beef noodle soup with beef slices, tripe, tendon and beef balls. It is a Kota Kinabalu speciality.",
+    "how_to_eat": null,
+    "how_to_order": "Order at beef noodle shops in Kota Kinabalu; choose soup or dry noodles.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ngiu_chap",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ngiu_chap",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-lihing",
+    "name": "Lihing",
+    "local_name": null,
+    "pronunciation": "LEE-hing",
+    "category": "drink",
+    "country": "Malaysia",
+    "state": "Sabah",
+    "regions": [
+      "Penampang"
+    ],
+    "description": "A fermented glutinous rice wine of the Kadazan-Dusun people, most associated with Penampang. It is served at the Kaamatan harvest festival.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lihing",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lihing",
+      "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  }
+]

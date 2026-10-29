@@ -1,0 +1,1419 @@
+[
+  {
+    "id": "china-peking-duck",
+    "name": "Peking Duck",
+    "local_name": "北京烤鸭",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Beijing & the North",
+    "regions": [
+      "Beijing"
+    ],
+    "description": "Roast duck from Beijing prepared since the imperial era, prized for its thin, crispy skin, which the cook slices in front of diners. It is the best-known dish of Beijing cuisine.",
+    "how_to_eat": "Roll slices of skin and meat in thin pancakes with spring onion, cucumber and sweet bean sauce.",
+    "how_to_order": "Order a whole or half duck at a roast-duck restaurant; it is carved at the table.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peking_duck",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Peking_duck",
+      "https://en.wikipedia.org/wiki/Beijing_cuisine"
+    ]
+  },
+  {
+    "id": "china-zhajiangmian",
+    "name": "Zhajiangmian",
+    "local_name": "炸酱面",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Beijing & the North",
+    "regions": [
+      "Beijing"
+    ],
+    "description": "Thick wheat noodles topped with zhajiang, a fried sauce of fermented soybean paste and minced pork. Shredded fresh vegetables such as cucumber are added on top.",
+    "how_to_eat": "Mix the sauce and vegetables through the noodles before eating.",
+    "how_to_order": "Ask for 'zhajiangmian' at Beijing noodle shops.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zhajiangmian",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Zhajiangmian",
+      "https://en.wikipedia.org/wiki/Beijing_cuisine"
+    ]
+  },
+  {
+    "id": "china-jiaozi",
+    "name": "Jiaozi",
+    "local_name": "饺子",
+    "pronunciation": "JYOW-dzuh",
+    "category": "meal",
+    "country": "China",
+    "state": "Beijing & the North",
+    "regions": [],
+    "description": "Chinese dumplings of ground meat or vegetable filling sealed in thin dough, then boiled, steamed or pan-fried. They are a major Chinese New Year dish across northern China and eaten all year in the north.",
+    "how_to_eat": "Dip in black vinegar and soy sauce.",
+    "how_to_order": "Order by weight or by the plate at dumpling houses, choosing the filling.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jiaozi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jiaozi",
+      "https://en.wikipedia.org/wiki/Beijing_cuisine"
+    ]
+  },
+  {
+    "id": "china-jianbing",
+    "name": "Jianbing",
+    "local_name": "煎饼",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "China",
+    "state": "Beijing & the North",
+    "regions": [
+      "Tianjin"
+    ],
+    "description": "A crepe-like breakfast of wheat and grain batter spread on a hotplate and cooked with egg, sauces, scallions and coriander, often wrapped around a crisp cracker or youtiao. It is one of China's most popular street breakfasts.",
+    "how_to_eat": "Eat folded and hot from the street cart.",
+    "how_to_order": "Buy from morning street carts; say if you want chilli sauce.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "gluten",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jianbing",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jianbing",
+      "https://en.wikipedia.org/wiki/Beijing_cuisine"
+    ]
+  },
+  {
+    "id": "china-instant-boiled-mutton",
+    "name": "Instant-boiled Mutton (Shuan Yangrou)",
+    "local_name": "涮羊肉",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Beijing & the North",
+    "regions": [
+      "Beijing"
+    ],
+    "description": "A Beijing hot pot in which thin slices of mutton are dipped briefly in boiling water or broth at the table. Traditionally a winter dish, it is now eaten year-round.",
+    "how_to_eat": "Swish each slice in the pot for a few seconds, then dip in sesame sauce.",
+    "how_to_order": "Order mutton slices by the plate at a Beijing-style hot pot restaurant.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "sesame",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Instant-boiled_mutton",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Instant-boiled_mutton",
+      "https://en.wikipedia.org/wiki/Beijing_cuisine"
+    ]
+  },
+  {
+    "id": "china-tanghulu",
+    "name": "Tanghulu",
+    "local_name": "糖葫芦",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "China",
+    "state": "Beijing & the North",
+    "regions": [
+      "Beijing"
+    ],
+    "description": "Chinese hawthorn fruits on a bamboo skewer coated in hardened sugar syrup. Made since the Song dynasty, it is a classic winter snack of northern China.",
+    "how_to_eat": "Bite the crunchy sugar shell and fruit straight off the skewer.",
+    "how_to_order": "Buy a skewer from street vendors, mostly in winter.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tanghulu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tanghulu",
+      "https://en.wikipedia.org/wiki/Beijing_cuisine"
+    ]
+  },
+  {
+    "id": "china-douzhi",
+    "name": "Douzhi",
+    "local_name": "豆汁",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "China",
+    "state": "Beijing & the North",
+    "regions": [
+      "Beijing"
+    ],
+    "description": "A grey, slightly sour fermented mung bean drink made as a by-product of cellophane noodle production. It has a recorded history of over 300 years and is a famously divisive Beijing taste.",
+    "how_to_eat": "Sip hot, traditionally with pickles and fried dough rings.",
+    "how_to_order": "Ask for 'douzhi' at old Beijing snack shops.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Douzhi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Douzhi",
+      "https://en.wikipedia.org/wiki/Beijing_cuisine"
+    ]
+  },
+  {
+    "id": "china-ludagun",
+    "name": "Lüdagun",
+    "local_name": "驴打滚",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "China",
+    "state": "Beijing & the North",
+    "regions": [
+      "Beijing"
+    ],
+    "description": "A rolled glutinous rice pastry filled with red bean paste and coated in yellow soybean flour. Of Manchu origin, it became a famous Beijing snack; its name means 'rolling donkey'.",
+    "how_to_eat": "Eat in slices at room temperature.",
+    "how_to_order": "Buy at traditional Beijing snack shops.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lüdagun",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lüdagun",
+      "https://en.wikipedia.org/wiki/Beijing_cuisine"
+    ]
+  },
+  {
+    "id": "china-mapo-tofu",
+    "name": "Mapo Tofu",
+    "local_name": "麻婆豆腐",
+    "pronunciation": "MAH-poh TOH-foo",
+    "category": "meal",
+    "country": "China",
+    "state": "Sichuan & Chongqing",
+    "regions": [
+      "Chengdu"
+    ],
+    "description": "Tofu in a spicy, oily red sauce of douban chilli bean paste and fermented black beans, with minced meat, traditionally beef. It likely originated at a Chengdu restaurant in the 1860s-1870s.",
+    "how_to_eat": "Spoon over steamed rice.",
+    "how_to_order": "Ask for 'mapo doufu' at any Sichuan restaurant.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mapo_tofu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mapo_tofu",
+      "https://en.wikipedia.org/wiki/Sichuan_cuisine"
+    ]
+  },
+  {
+    "id": "china-kung-pao-chicken",
+    "name": "Kung Pao Chicken",
+    "local_name": "宫保鸡丁",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Sichuan & Chongqing",
+    "regions": [],
+    "description": "Stir-fried cubes of chicken with peanuts, vegetables, dried chillies and Sichuan peppercorns. It comes from Sichuan cuisine and has spread across China in many milder variations.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Ask for 'gongbao jiding' at Sichuan restaurants.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "peanuts",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kung_Pao_chicken",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kung_Pao_chicken",
+      "https://en.wikipedia.org/wiki/Sichuan_cuisine"
+    ]
+  },
+  {
+    "id": "china-dandan-noodles",
+    "name": "Dandan Noodles",
+    "local_name": "担担面",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "China",
+    "state": "Sichuan & Chongqing",
+    "regions": [
+      "Chengdu"
+    ],
+    "description": "Wheat noodles in a spicy sauce of chilli oil, Sichuan pepper, preserved vegetables and minced pork, topped with scallions and peanuts. In Chengdu it is served dry rather than as a soup.",
+    "how_to_eat": "Toss the noodles thoroughly to coat them in the sauce at the bottom of the bowl.",
+    "how_to_order": "Order a small bowl at Chengdu noodle shops.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "gluten",
+      "peanuts",
+      "sesame",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dandan_noodles",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dandan_noodles",
+      "https://en.wikipedia.org/wiki/Sichuan_cuisine"
+    ]
+  },
+  {
+    "id": "china-twice-cooked-pork",
+    "name": "Twice-cooked Pork",
+    "local_name": "回锅肉",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Sichuan & Chongqing",
+    "regions": [],
+    "description": "Pork belly that is simmered, sliced and then stir-fried again with garlic sprouts or leeks and chilli bean paste. The name means 'meat returned to the wok'.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Ask for 'huiguorou' at Sichuan restaurants.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Twice-cooked_pork",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Twice-cooked_pork",
+      "https://en.wikipedia.org/wiki/Sichuan_cuisine"
+    ]
+  },
+  {
+    "id": "china-fuqi-feipian",
+    "name": "Fuqi Feipian",
+    "local_name": "夫妻肺片",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "China",
+    "state": "Sichuan & Chongqing",
+    "regions": [
+      "Chengdu"
+    ],
+    "description": "A cold Sichuan dish of thinly sliced beef and beef offal such as heart, tongue and tripe, dressed in chilli oil and Sichuan pepper. It should taste both spicy and mouth-numbing; real lung is rarely used despite the name.",
+    "how_to_eat": "Eat cold as a starter with other dishes.",
+    "how_to_order": "Order as a cold appetiser at Sichuan restaurants.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "peanuts",
+      "sesame",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fuqi_feipian",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fuqi_feipian",
+      "https://en.wikipedia.org/wiki/Sichuan_cuisine"
+    ]
+  },
+  {
+    "id": "china-chongqing-hot-pot",
+    "name": "Chongqing Hot Pot",
+    "local_name": "重庆火锅",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Sichuan & Chongqing",
+    "regions": [
+      "Chongqing"
+    ],
+    "description": "A spicy, numbing (mala) hot pot in which diners cook meats, offal, vegetables and tofu in a simmering broth loaded with chillies and Sichuan pepper. It is the signature meal of Chongqing.",
+    "how_to_eat": "Cook items in the broth yourself, then dip in sesame oil with garlic.",
+    "how_to_order": "Choose spicy, mild or a split (yuanyang) pot at a hot pot restaurant, then tick ingredients on the menu.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "sesame",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chongqing_hot_pot",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chongqing_hot_pot",
+      "https://en.wikipedia.org/wiki/Hot_pot",
+      "https://en.wikipedia.org/wiki/Sichuan_cuisine"
+    ]
+  },
+  {
+    "id": "china-har-gow",
+    "name": "Har Gow",
+    "local_name": "虾饺",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "China",
+    "state": "Guangdong",
+    "regions": [
+      "Guangzhou"
+    ],
+    "description": "Cantonese dim sum dumplings of shrimp steamed in a wrapper that turns translucent when cooked, hence the name crystal shrimp dumplings. They are a benchmark of a dim sum kitchen's skill.",
+    "how_to_eat": "Eat whole or in two bites, with tea.",
+    "how_to_order": "Order a basket at a dim sum (yum cha) restaurant in the morning.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Har_gow",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Har_gow",
+      "https://en.wikipedia.org/wiki/Dim_sum",
+      "https://en.wikipedia.org/wiki/Cantonese_cuisine"
+    ]
+  },
+  {
+    "id": "china-siu-mai",
+    "name": "Siu Mai",
+    "local_name": "烧卖",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "China",
+    "state": "Guangdong",
+    "regions": [
+      "Guangzhou"
+    ],
+    "description": "Open-topped steamed dumplings of ground pork, often with shrimp, served as Cantonese dim sum. They are one of the most common dim sum dishes.",
+    "how_to_eat": "Eat with soy sauce or chilli oil.",
+    "how_to_order": "Order a basket at a dim sum restaurant.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "gluten",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shumai",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shumai",
+      "https://en.wikipedia.org/wiki/Dim_sum",
+      "https://en.wikipedia.org/wiki/Cantonese_cuisine"
+    ]
+  },
+  {
+    "id": "china-char-siu",
+    "name": "Char Siu",
+    "local_name": "叉烧",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Guangdong",
+    "regions": [
+      "Guangzhou"
+    ],
+    "description": "Cantonese barbecued pork, usually boneless shoulder marinated in hoisin, soy sauce, Chinese wine and five-spice and glazed with maltose or honey while roasting. It is a staple of Cantonese roast-meat shops.",
+    "how_to_eat": "Eat sliced over rice or noodles.",
+    "how_to_order": "Order by weight or as a rice plate at a siu mei (roast meat) shop.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Char_siu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Char_siu",
+      "https://en.wikipedia.org/wiki/Cantonese_cuisine"
+    ]
+  },
+  {
+    "id": "china-cheung-fun",
+    "name": "Cheung Fun (Rice Noodle Roll)",
+    "local_name": "肠粉",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "China",
+    "state": "Guangdong",
+    "regions": [
+      "Guangzhou"
+    ],
+    "description": "Thin steamed sheets of rice noodle rolled around shrimp, beef or other fillings and doused with seasoned soy sauce. It originated in Guangdong and is served as dim sum or a breakfast snack.",
+    "how_to_eat": "Eat with chopsticks while hot, with the soy sauce.",
+    "how_to_order": "Order at dim sum restaurants or breakfast stalls, choosing shrimp or beef.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rice_noodle_roll",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rice_noodle_roll",
+      "https://en.wikipedia.org/wiki/Cantonese_cuisine"
+    ]
+  },
+  {
+    "id": "china-wonton-noodles",
+    "name": "Wonton Noodles",
+    "local_name": "云吞面",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Guangdong",
+    "regions": [
+      "Guangzhou"
+    ],
+    "description": "Thin egg noodles in hot broth with shrimp wonton dumplings and leafy greens such as gai lan. It is a classic Cantonese noodle dish.",
+    "how_to_eat": "Eat the wontons and noodles, then sip the broth.",
+    "how_to_order": "Ask for 'wonton mein' at Cantonese noodle shops.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "gluten",
+      "shellfish",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wonton_noodles",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wonton_noodles",
+      "https://en.wikipedia.org/wiki/Cantonese_cuisine"
+    ]
+  },
+  {
+    "id": "china-egg-tart",
+    "name": "Egg Tart",
+    "local_name": "蛋挞",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "China",
+    "state": "Guangdong",
+    "regions": [
+      "Guangzhou"
+    ],
+    "description": "A pastry crust filled with egg custard, derived from the English custard tart and Portuguese pastel de nata. It is sold at dim sum restaurants, Chinese bakeries and Hong Kong-style cafes.",
+    "how_to_eat": "Eat warm, fresh from the oven.",
+    "how_to_order": "Buy from Cantonese bakeries or order at dim sum.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Egg_tart",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Egg_tart",
+      "https://en.wikipedia.org/wiki/Cantonese_cuisine"
+    ]
+  },
+  {
+    "id": "china-roast-goose",
+    "name": "Cantonese Roast Goose",
+    "local_name": "烧鹅",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Guangdong",
+    "regions": [],
+    "description": "Goose roasted until the skin is crisp and glossy, a centrepiece of Cantonese roast meat (siu mei) cooking.",
+    "how_to_eat": "Eat with plum sauce, over rice or on its own.",
+    "how_to_order": "Order by the quarter or half at a siu mei shop.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roast_goose",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Roast_goose",
+      "https://en.wikipedia.org/wiki/Cantonese_cuisine"
+    ]
+  },
+  {
+    "id": "china-xiaolongbao",
+    "name": "Xiaolongbao",
+    "local_name": "小笼包",
+    "pronunciation": "shyow-long-BOW",
+    "category": "snack",
+    "country": "China",
+    "state": "Shanghai & Jiangnan",
+    "regions": [
+      "Shanghai"
+    ],
+    "description": "Small soup dumplings filled with pork and jellied stock, steamed in a little bamboo basket (xiaolong). They are generally believed to come from Shanghai.",
+    "how_to_eat": "Bite a small hole, sip the soup, then eat with vinegar and ginger.",
+    "how_to_order": "Order a basket (usually 6-10) at a dumpling house.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Xiaolongbao",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Xiaolongbao",
+      "https://en.wikipedia.org/wiki/Shanghai_cuisine"
+    ]
+  },
+  {
+    "id": "china-shengjian-mantou",
+    "name": "Shengjian Mantou",
+    "local_name": "生煎馒头",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "China",
+    "state": "Shanghai & Jiangnan",
+    "regions": [
+      "Shanghai",
+      "Suzhou"
+    ],
+    "description": "Small pan-fried buns filled with pork and gelatin that melts into soup, with a crisp base. In Shanghai they have thin skins and are a breakfast favourite.",
+    "how_to_eat": "Bite carefully as the soup inside is very hot.",
+    "how_to_order": "Order by the portion (usually four) at shengjian shops.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shengjian_mantou",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shengjian_mantou",
+      "https://en.wikipedia.org/wiki/Shanghai_cuisine"
+    ]
+  },
+  {
+    "id": "china-hairy-crab",
+    "name": "Shanghai Hairy Crab",
+    "local_name": "大闸蟹",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Shanghai & Jiangnan",
+    "regions": [
+      "Shanghai"
+    ],
+    "description": "The Chinese mitten crab, a freshwater crab with furry claws, steamed and prized for its rich roe. It is a famous seasonal delicacy of Shanghai and the lower Yangtze.",
+    "how_to_eat": "Crack the shell and dip the meat in ginger vinegar.",
+    "how_to_order": "Look for it in autumn at Shanghai restaurants and markets.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chinese_mitten_crab",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chinese_mitten_crab",
+      "https://en.wikipedia.org/wiki/Shanghai_cuisine"
+    ]
+  },
+  {
+    "id": "china-lions-head",
+    "name": "Lion's Head Meatballs",
+    "local_name": "狮子头",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Shanghai & Jiangnan",
+    "regions": [
+      "Yangzhou"
+    ],
+    "description": "Large pork meatballs stewed with napa cabbage (white style) or in soy sauce (red style). It comes from the Huaiyang cuisine of eastern China.",
+    "how_to_eat": "Break the meatball with a spoon and eat with the broth and cabbage.",
+    "how_to_order": "Order at Huaiyang or Shanghainese restaurants.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lion's_Head_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lion's_Head_(food)",
+      "https://en.wikipedia.org/wiki/Shanghai_cuisine"
+    ]
+  },
+  {
+    "id": "china-yangzhou-fried-rice",
+    "name": "Yangzhou Fried Rice",
+    "local_name": "扬州炒饭",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Shanghai & Jiangnan",
+    "regions": [
+      "Yangzhou"
+    ],
+    "description": "Egg fried rice with mixed vegetables and two proteins, typically pork and shrimp, with scallions. It is one of China's best-known wok-fried rice dishes.",
+    "how_to_eat": "Eat as a main dish or alongside others.",
+    "how_to_order": "Ask for 'Yangzhou chaofan' at Chinese restaurants.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "shellfish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yangzhou_fried_rice",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Yangzhou_fried_rice",
+      "https://en.wikipedia.org/wiki/Shanghai_cuisine"
+    ]
+  },
+  {
+    "id": "china-dongpo-pork",
+    "name": "Dongpo Pork",
+    "local_name": "东坡肉",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Shanghai & Jiangnan",
+    "regions": [
+      "Hangzhou"
+    ],
+    "description": "Thick squares of pork belly pan-fried and then red-braised in wine and soy sauce until tender. The Hangzhou dish is named after the Song-dynasty poet Su Dongpo.",
+    "how_to_eat": "Eat in small bites with steamed rice.",
+    "how_to_order": "Order at Hangzhou restaurants, usually by the piece.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dongpo_pork",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dongpo_pork",
+      "https://en.wikipedia.org/wiki/Zhejiang_cuisine"
+    ]
+  },
+  {
+    "id": "china-west-lake-fish",
+    "name": "West Lake Fish in Vinegar Gravy",
+    "local_name": "西湖醋鱼",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Shanghai & Jiangnan",
+    "regions": [
+      "Hangzhou"
+    ],
+    "description": "Grass carp poached and covered in a glossy sweet-and-sour vinegar sauce. A Hangzhou specialty dating to the Southern Song dynasty.",
+    "how_to_eat": "Share the whole fish, eating the flesh with the sauce.",
+    "how_to_order": "Order at Hangzhou restaurants around West Lake.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/West_Lake_Fish_in_Vinegar_Gravy",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/West_Lake_Fish_in_Vinegar_Gravy",
+      "https://en.wikipedia.org/wiki/Zhejiang_cuisine"
+    ]
+  },
+  {
+    "id": "china-longjing-tea",
+    "name": "Longjing Tea",
+    "local_name": "龙井茶",
+    "pronunciation": "long-JING chah",
+    "category": "drink",
+    "country": "China",
+    "state": "Shanghai & Jiangnan",
+    "regions": [
+      "Hangzhou"
+    ],
+    "description": "A pan-roasted green tea with flat, hand-shaped leaves from around Longjing Village near West Lake, Hangzhou. It is one of China's Famous Teas, and Longjing cha is a Protected Designation of Origin in the EU and UK.",
+    "how_to_eat": "Brew in a glass with hot (not boiling) water and watch the leaves unfurl.",
+    "how_to_order": "Order at teahouses in Hangzhou; spring 'pre-Qingming' tea is the most prized.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Longjing_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Longjing_tea",
+      "https://en.wikipedia.org/wiki/Zhejiang_cuisine"
+    ]
+  },
+  {
+    "id": "china-mao-red-braised-pork",
+    "name": "Mao's Red Braised Pork",
+    "local_name": "毛氏红烧肉",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Hunan & Hubei",
+    "regions": [
+      "Changsha"
+    ],
+    "description": "Pork belly red-braised until soft and glossy; the Hunan version is said to be one of Mao Zedong's favourite dishes. The Hunan provincial government has even codified the recipe.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Ask for 'Mao shi hongshaorou' at Hunan restaurants.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Red_braised_pork_belly",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Red_braised_pork_belly",
+      "https://en.wikipedia.org/wiki/Hunan_cuisine"
+    ]
+  },
+  {
+    "id": "china-changsha-stinky-tofu",
+    "name": "Changsha Stinky Tofu",
+    "local_name": "长沙臭豆腐",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "China",
+    "state": "Hunan & Hubei",
+    "regions": [
+      "Changsha"
+    ],
+    "description": "Black, fermented tofu deep-fried and served with chilli sauce, a traditional snack of Changsha. It is one of the 'Three Treasures of Hunan'; the brine is traditionally made with vegetables and meat.",
+    "how_to_eat": "Eat hot from the stall with the chilli dressing.",
+    "how_to_order": "Buy from night-market stalls in Changsha.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Changsha_stinky_tofu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Changsha_stinky_tofu",
+      "https://en.wikipedia.org/wiki/Stinky_tofu",
+      "https://en.wikipedia.org/wiki/Hunan_cuisine"
+    ]
+  },
+  {
+    "id": "china-duo-jiao-yu-tou",
+    "name": "Steamed Fish Head with Chopped Chillies",
+    "local_name": "剁椒鱼头",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Hunan & Hubei",
+    "regions": [],
+    "description": "A large fish head, traditionally bighead carp, steamed under a thick layer of fermented chopped red chillies (duojiao) with garlic and ginger. It is the most famous duojiao dish and a representative of Hunan cuisine.",
+    "how_to_eat": "Eat the fish and use the sauce with rice or noodles.",
+    "how_to_order": "Order at Hunan restaurants; ask for noodles to mix into the leftover sauce.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://blog.themalamarket.com/hunan-duojiao-pickled-chilies-with-garlic-and-ginger-duojiao/",
+      "https://govt.chinadaily.com.cn/a/201803/13/WS5ce760ae498e079e6802199b.html",
+      "https://en.wikipedia.org/wiki/Hunan_cuisine"
+    ]
+  },
+  {
+    "id": "china-hot-dry-noodles",
+    "name": "Hot Dry Noodles (Reganmian)",
+    "local_name": "热干面",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "China",
+    "state": "Hunan & Hubei",
+    "regions": [
+      "Wuhan"
+    ],
+    "description": "Noodles served without broth, tossed in sesame paste and seasonings. It is the most famous breakfast food of Wuhan, sold by street carts and restaurants.",
+    "how_to_eat": "Mix well so the sesame paste coats every strand.",
+    "how_to_order": "Buy for breakfast at Wuhan noodle stalls.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "sesame",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hot_dry_noodles",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hot_dry_noodles",
+      "https://en.wikipedia.org/wiki/Hubei_cuisine",
+      "https://en.wikipedia.org/wiki/Hunan_cuisine"
+    ]
+  },
+  {
+    "id": "china-roujiamo",
+    "name": "Roujiamo",
+    "local_name": "肉夹馍",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "China",
+    "state": "Shaanxi & the Northwest",
+    "regions": [
+      "Xi'an"
+    ],
+    "description": "A Shaanxi street food of chopped braised meat stuffed into a flatbread, sometimes called the Chinese hamburger.",
+    "how_to_eat": "Eat hand-held while warm.",
+    "how_to_order": "Buy from street stalls in Xi'an, including the Muslim Quarter (beef or lamb there).",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roujiamo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Roujiamo",
+      "https://en.wikipedia.org/wiki/Shaanxi_cuisine"
+    ]
+  },
+  {
+    "id": "china-biangbiang-noodles",
+    "name": "Biangbiang Noodles",
+    "local_name": "𰻝𰻝面",
+    "pronunciation": "BYANG-byang",
+    "category": "meal",
+    "country": "China",
+    "state": "Shaanxi & the Northwest",
+    "regions": [
+      "Xi'an"
+    ],
+    "description": "Very thick, long, belt-like hand-pulled wheat noodles from Shaanxi, often dressed with chilli and hot oil. They are one of the 'Eight Curiosities of Shaanxi' and famous for their hugely complex written character.",
+    "how_to_eat": "Toss the noodles in the oil and chilli before eating.",
+    "how_to_order": "Order at Xi'an noodle shops.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Biangbiang_noodles",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Biangbiang_noodles",
+      "https://en.wikipedia.org/wiki/Shaanxi_cuisine"
+    ]
+  },
+  {
+    "id": "china-yangrou-paomo",
+    "name": "Yangrou Paomo",
+    "local_name": "羊肉泡馍",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Shaanxi & the Northwest",
+    "regions": [
+      "Xi'an"
+    ],
+    "description": "A hot lamb soup with pieces of baked wheat flatbread (mo) cooked in it. It is a popular specialty of Xi'an and Shaanxi.",
+    "how_to_eat": "Traditionally you break the bread into small pieces yourself before it goes into the soup.",
+    "how_to_order": "Order at Xi'an paomo restaurants, where you are handed bread to tear.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paomo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Paomo",
+      "https://en.wikipedia.org/wiki/Shaanxi_cuisine"
+    ]
+  },
+  {
+    "id": "china-liangpi",
+    "name": "Liangpi",
+    "local_name": "凉皮",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "China",
+    "state": "Shaanxi & the Northwest",
+    "regions": [
+      "Xi'an"
+    ],
+    "description": "Cold, chewy noodles of wheat or rice flour, dressed with chilli oil and vinegar. A specialty originating in Xi'an that has spread throughout China.",
+    "how_to_eat": "Eat cold, mixed with the sauce.",
+    "how_to_order": "Buy from noodle stalls and street vendors in Xi'an.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Liangpi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Liangpi",
+      "https://en.wikipedia.org/wiki/Shaanxi_cuisine"
+    ]
+  },
+  {
+    "id": "china-lanzhou-beef-noodles",
+    "name": "Lanzhou Beef Noodles",
+    "local_name": "兰州牛肉面",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Shaanxi & the Northwest",
+    "regions": [
+      "Lanzhou"
+    ],
+    "description": "Hand-pulled noodles in clear beef broth, closely associated with Hui Muslim cuisine. By 2015 there were about 50,000 shops serving it across China.",
+    "how_to_eat": "Eat with the chilli oil and radish slices in the broth.",
+    "how_to_order": "Choose your noodle thickness when ordering at a Lanzhou lamian shop.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lanzhou_beef_noodles",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lanzhou_beef_noodles",
+      "https://en.wikipedia.org/wiki/Shaanxi_cuisine"
+    ]
+  },
+  {
+    "id": "china-chuanr",
+    "name": "Chuanr (Lamb Skewers)",
+    "local_name": "羊肉串",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "China",
+    "state": "Xinjiang",
+    "regions": [],
+    "description": "Small pieces of meat, classically lamb, roasted on skewers and seasoned with cumin and chilli. It originated in Xinjiang's Uyghur cuisine and is now a street food across China.",
+    "how_to_eat": "Eat straight from the skewer.",
+    "how_to_order": "Order by the skewer at street grills and night markets.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chuan_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chuan_(food)",
+      "https://en.wikipedia.org/wiki/Uyghur_cuisine"
+    ]
+  },
+  {
+    "id": "china-dapanji",
+    "name": "Dapanji (Big Plate Chicken)",
+    "local_name": "大盘鸡",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Xinjiang",
+    "regions": [
+      "Shawan"
+    ],
+    "description": "A spicy stew of chicken and potatoes with peppers, invented in Shawan, Xinjiang in the 1980s. It is served halal and is popular across the region.",
+    "how_to_eat": "Share it, then mix the leftover sauce with the wide noodles served at the end.",
+    "how_to_order": "Order a large plate to share at Xinjiang restaurants.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dapanji",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dapanji",
+      "https://en.wikipedia.org/wiki/Uyghur_cuisine"
+    ]
+  },
+  {
+    "id": "china-laghman",
+    "name": "Laghman",
+    "local_name": "拉条子",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Xinjiang",
+    "regions": [],
+    "description": "Hand-pulled noodles topped with a stir-fry of meat and vegetables, a signature of Uyghur cuisine.",
+    "how_to_eat": "Mix the topping through the noodles.",
+    "how_to_order": "Order at Uyghur restaurants.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laghman_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Laghman_(food)",
+      "https://en.wikipedia.org/wiki/Uyghur_cuisine"
+    ]
+  },
+  {
+    "id": "china-polo",
+    "name": "Polo (Uyghur Pilaf)",
+    "local_name": "抓饭",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Xinjiang",
+    "regions": [],
+    "description": "Rice cooked with fried mutton or chicken, onions and sliced carrots, sometimes with raisins and dried apricots. It is a signature Uyghur dish, traditionally eaten by hand.",
+    "how_to_eat": "Eat by hand or with a spoon, often with salad.",
+    "how_to_order": "Ask for 'polo' or 'zhuafan' at Uyghur restaurants.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Uyghur_cuisine"
+    ]
+  },
+  {
+    "id": "china-samsa",
+    "name": "Samsa (Kao Baozi)",
+    "local_name": "烤包子",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "China",
+    "state": "Xinjiang",
+    "regions": [],
+    "description": "Hand-held lamb pies roasted in a tunur (clay oven). They are a common Uyghur filled bread.",
+    "how_to_eat": "Eat hot from the oven.",
+    "how_to_order": "Buy from bakers with a tunur at Uyghur markets.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Uyghur_cuisine"
+    ]
+  },
+  {
+    "id": "china-crossing-the-bridge-noodles",
+    "name": "Crossing-the-bridge Noodles",
+    "local_name": "过桥米线",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Yunnan & Guizhou",
+    "regions": [
+      "Kunming",
+      "Mengzi"
+    ],
+    "description": "A rice noodle soup in which raw ingredients and noodles are added to a very hot broth at the table. It is one of the best-known dishes of Yunnan cuisine.",
+    "how_to_eat": "Add the meats first, then the vegetables and noodles, to cook in the hot broth.",
+    "how_to_order": "Order at Yunnan noodle restaurants; set sizes come with more toppings.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Crossing-the-bridge_noodles",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Crossing-the-bridge_noodles",
+      "https://en.wikipedia.org/wiki/Yunnan_cuisine"
+    ]
+  },
+  {
+    "id": "china-erkuai",
+    "name": "Erkuai",
+    "local_name": "饵块",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "China",
+    "state": "Yunnan & Guizhou",
+    "regions": [
+      "Kunming"
+    ],
+    "description": "A rice cake particular to Yunnan, sold grilled, fried or sliced into dishes.",
+    "how_to_eat": "Eat grilled and folded around fillings, or stir-fried.",
+    "how_to_order": "Buy grilled erkuai from street vendors in Yunnan.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Erkuai",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Erkuai",
+      "https://en.wikipedia.org/wiki/Yunnan_cuisine"
+    ]
+  },
+  {
+    "id": "china-puer-tea",
+    "name": "Pu'er Tea",
+    "local_name": "普洱茶",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "China",
+    "state": "Yunnan & Guizhou",
+    "regions": [
+      "Pu'er"
+    ],
+    "description": "A fermented tea made from Yunnan large-leaf tea plants, often pressed into cakes and aged. Pu'er Cha is a Chinese geographical indication and is protected in the EU under the EU-China GI agreement.",
+    "how_to_eat": "Rinse the leaves once, then steep repeatedly in small cups.",
+    "how_to_order": "Order at teahouses or buy cakes at tea markets in Yunnan.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pu'er_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pu'er_tea",
+      "https://news.cgtn.com/news/2020-09-15/China-EU-deal-to-protect-200-food-names-including-Pu-er-tea-and-Feta-TNLGhvR4kM/index.html",
+      "https://en.wikipedia.org/wiki/Yunnan_cuisine"
+    ]
+  },
+  {
+    "id": "china-maotai",
+    "name": "Maotai",
+    "local_name": "茅台",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "China",
+    "state": "Yunnan & Guizhou",
+    "regions": [
+      "Maotai"
+    ],
+    "description": "A style of baijiu (Chinese grain liquor) from the town of Maotai in Guizhou, made from sorghum and a wheat-based starter. It has a nutty, savoury aroma and is China's most prestigious spirit.",
+    "how_to_eat": "Sip in small glasses, usually as toasts during a banquet.",
+    "how_to_order": "Order by the bottle in restaurants; it is expensive.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maotai",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Maotai",
+      "https://en.wikipedia.org/wiki/Baijiu"
+    ]
+  }
+]

@@ -216,4 +216,39 @@
 - Home avatar: logo replaced by `FoodTicker` (ui.tsx): lime circle cycling 12 food icons (curry, chai, drumstick, kulfi, wheat, fish, sweets, pot, prawn, citrus, popcorn, cookie) every 2.2 s; new icon springs up/spins in, old one exits up. Transform/opacity only; static with reduced motion. Logo still on welcome screen, intro and app icon. Installed.
 - Food circle is now a button: tap = 3D flip (perspective rotateY 360deg with lift, 0.8 s, springy) and jump to next food. Two identical keyframes (spin3d-a/b) alternate so repeat taps restart it. Gotcha: lightningcss minifier turns a name-less `animation` shorthand into `animation:none` (drops duration) -> use longhands. Off with reduced motion. Installed.
 - 2026-10-29: committed and pushed all work above to GitHub (main).
-- Home list remembers state picker, category, veg/Jain, search and scroll position when coming back from a dish or another tab (module-level `saved` in Discover.tsx, session only; fresh launch starts clean). Returning to a scrolled list renders all cards at once so the position can be restored. Tested app back + system back in headless Chrome: restored, no errors. APK built, NOT installed (phone disconnected). Committed + pushed.
+- Home list remembers state picker, category, veg/Jain, search and scroll position when coming back from a dish or another tab (module-level `saved` in Discover.tsx, session only; fresh launch starts clean). Returning to a scrolled list renders all cards at once so the position can be restored. Tested app back + system back in headless Chrome: restored, no errors. Committed + pushed; installed on phone after reconnect (USB debugging had to be re-enabled).
+- "Clear filters" pill (black, X icon) right of the "Results" heading; shown only while search/category/veg/Jain is active; clears those, keeps the picked state. Tested (Kerala + Veg: Results 5 -> All dishes 10, Kerala kept). Installed; not committed.
+- Background blur reduced ~30%: wallpaper-blur.jpg regenerated at 540x900 (was 384x640), same Gaussian 14 (23 KB). Installed; not committed.
+
+## 2026-10-29: scope decision — worldwide
+- User: app is for tourists/travellers everywhere, not only India.
+- Already global: memories + World Memory Map, "Find near me" (Google Maps search), photo credits.
+- India-specific today: dish data (36 states only), "All of India" picker, headline "...in India", intro tagline "Eat your way across India", ₹ prices, Jain filter, state-only model.
+- Proposed: add `country` to dishes, picker Country -> Region, default to the user's current country via GPS, local currency, Jain filter only where relevant, research per country with the existing agent pipeline (spec now forbids personal info in requests). Waiting on user: which countries first.
+- User picked: top 20 tourist countries first (France, Spain, USA, Italy, Turkey, Mexico, UK, Germany, Greece, Thailand, Japan, China, UAE, Malaysia, Vietnam, Indonesia, Portugal, Netherlands, South Korea, Singapore).
+- Code done: dish fields `country`, `typical_price` + `currency` (was typical_price_inr; India data migrated). Home: Country picker -> Region picker, headline "best bites in {region/country/the world}", defaults to the user's current country once per session if location already allowed (no prompt), Jain chip India-only, prices with local currency symbol (`priceLabel`). Intro tagline "Eat your way around the world"; welcome shows dish + country count. Validator checks country/currency.
+- In progress: 10 research agents writing `app/src/data/dishes_world_<country>.json` (spec: 4-8 food regions per country, 5-8 best dishes each, local currency, GI = protected-origin status of the dish, no personal info in requests).
+- After: validate, fetch photos (scripts/fetch_dish_images.py covers all files), rebuild, install, commit.
+- Done: 20 countries researched -> `app/src/data/dishes_world_<country>.json`. 1,098 dishes / 21 countries total (India 329; Italy 50 ... UAE 13), all pass validator. 885 have Wikipedia photos. Bundle 398 kB gzip.
+- Cleanup: set nonveg (lard/meat common): Reganmian, Biangbiang, Erkuai (China), Chwee Kueh (Singapore). Category chips now only show categories present in the chosen place.
+- Tested headless: All countries -> Japan (49, 8 regions, Jain hidden) -> Kansai (8). No errors. Installed on phone.
+- DATA QUALITY: parallel agents got rate-limited by Wikipedia; US/Mexico, France/Spain, China/Singapore, Malaysia/Indonesia agents wrote parts of descriptions/diet/allergens from own knowledge (links verified). Needs a slow sequential verification pass before launch (one agent at a time, check each dish vs its Wikipedia article). Other review items: UAE only 13 dishes; thin regions (Johor, Maluku & Papua, Alentejo, Algarve); some unverified local-script names (Malaysian Chinese names, some Japanese/Korean); cautious nonveg calls (stamppot, Yorkshire pudding, lard pastries in Italy).
+- Committed + pushed.
+
+## 2026-10-29: WRAP-UP (session end)
+**Working now**
+- Android app "Off We Go" (Capacitor + React + Vite), installed on user's Realme RMX3360: worldwide dish guide, 1,098 dishes in 21 countries (India 329 across 36 states + top 20 tourist countries by region), 885 with Wikipedia photos + credits. Country -> region pickers, auto-pick current country, local currency, filters remembered, Clear filters, dish page with scroll effects + "Find near me" (Google Maps), photo memories + World Memory Map, Supabase backup.
+- Look: inspo-based light UI, blurred wallpaper bg, logo app icon, HTML launch intro, first-launch welcome, food-icon ticker (tap = 3D spin), view-transition tabs.
+- Code: https://github.com/AnubhavBayard/off-we-go (main).
+
+**Next session, in order**
+1. Data verification pass for the 20 new countries: ONE agent at a time (parallel runs got Wikipedia 429s), check each dish's description/diet/allergens/GI vs its Wikipedia article; fix mismatches. Priority: USA, Mexico, France, Spain, China, Singapore, Malaysia, Indonesia.
+2. Review list: UAE only 13 dishes; thin regions (Johor, Maluku & Papua, Alentejo, Algarve); unverified local-script names; India pronunciations are agent guesses; odd photos (Tirupati Laddu = postage stamp, Gongura = raw leaves).
+3. More countries (user wants whole world): same spec `world_spec.md` (saved at app/data-archive/world_spec.md), batches of a few countries, sequential.
+4. Before public release: replace third-party wallpaper (wallpaperswide watermark) and logo (downloaded image); privacy policy; restaurant coordinates CSV (`data-fixes/`) still waiting on user.
+5. Revoke Supabase personal access token `claude-setup` if not done.
+
+**Tools/scripts**: `app/scripts/check_dishes.py` (validate), `fetch_dish_images.py` (photos), `make_icons.py` (icons). Research spec saved at `app/data-archive/world_spec.md`.
+
+**Rebuild + install**
+`cd app && nvm use 22 && npm run build && npx cap sync android && cd android && ANDROID_HOME=~/Android/Sdk ./gradlew assembleDebug && ~/Android/Sdk/platform-tools/adb install -r app/build/outputs/apk/debug/app-debug.apk`

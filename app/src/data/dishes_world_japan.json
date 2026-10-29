@@ -1,0 +1,1503 @@
+[
+  {
+    "id": "japan-jingisukan",
+    "name": "Jingisukan",
+    "local_name": "ジンギスカン",
+    "pronunciation": "jin-gi-SU-kan",
+    "category": "meal",
+    "country": "Japan",
+    "state": "Hokkaido",
+    "regions": [],
+    "description": "Grilled mutton or lamb cooked on a domed metal skillet, often with bean sprouts, onions, mushrooms and peppers, and served with a soy- or sake-based sauce. Named after Genghis Khan, it is Hokkaido's best-known barbecue.",
+    "how_to_eat": "Grill the meat and vegetables yourself on the dome at the table, then dip in the sauce.",
+    "how_to_order": "Ask for 'jingisukan' at specialty barbecue restaurants in Sapporo and across Hokkaido.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jingisukan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jingisukan",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-ishikari-nabe",
+    "name": "Ishikari-nabe",
+    "local_name": "石狩鍋",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Hokkaido",
+    "regions": [
+      "Ishikari"
+    ],
+    "description": "A hot pot of salmon pieces stewed with vegetables in a miso-based broth. It is a classic Hokkaido winter dish built on the island's salmon catch.",
+    "how_to_eat": "Share from the pot at the table, ladling fish, vegetables and broth into small bowls.",
+    "how_to_order": "Ask for 'Ishikari-nabe' at Hokkaido seafood and hot-pot restaurants.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-sapporo-miso-ramen",
+    "name": "Sapporo Miso Ramen",
+    "local_name": "味噌ラーメン",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Hokkaido",
+    "regions": [
+      "Sapporo"
+    ],
+    "description": "Ramen developed in Sapporo with a thick, nutty, slightly sweet broth made with plenty of miso blended with chicken or fish stock, sometimes with pork bone or lard. Sapporo is especially famous for its ramen, and other Hokkaido cities such as Hakodate have their own styles.",
+    "how_to_eat": "Slurp the noodles hot and drink the broth from the bowl.",
+    "how_to_order": "Ask for 'miso ramen' at ramen shops in Sapporo.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ramen",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ramen",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-ika-somen",
+    "name": "Ika Somen",
+    "local_name": "いかそうめん",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Hokkaido",
+    "regions": [
+      "Hakodate"
+    ],
+    "description": "Raw squid sliced into very thin, noodle-like strips and eaten with a dipping sauce like somen noodles. It is a specialty of the port city of Hakodate.",
+    "how_to_eat": "Dip the squid strands in the sauce and eat them like cold noodles.",
+    "how_to_order": "Ask for 'ika sōmen' at seafood restaurants and the morning market in Hakodate.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-butadon",
+    "name": "Butadon",
+    "local_name": "豚丼",
+    "pronunciation": "BU-ta-don",
+    "category": "meal",
+    "country": "Japan",
+    "state": "Hokkaido",
+    "regions": [
+      "Obihiro"
+    ],
+    "description": "A bowl of rice topped with pork simmered or grilled in a mildly sweet sauce, often sprinkled with green peas. The dish originated in the city of Obihiro, where it is known as Obihiro butadon.",
+    "how_to_eat": "Eat straight from the bowl, often with takuan pickles on the side.",
+    "how_to_order": "Ask for 'butadon' at restaurants in Obihiro and the Tokachi area.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Butadon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Butadon"
+    ]
+  },
+  {
+    "id": "japan-kiritanpo",
+    "name": "Kiritanpo",
+    "local_name": "きりたんぽ",
+    "pronunciation": "ki-ri-TAN-po",
+    "category": "meal",
+    "country": "Japan",
+    "state": "Tohoku",
+    "regions": [
+      "Akita"
+    ],
+    "description": "Freshly cooked rice pounded and formed into cylinders around cedar skewers, then toasted over a hearth. It is eaten with sweet miso or cooked in a hot pot with chicken and vegetables, and is the signature dish of Akita Prefecture.",
+    "how_to_eat": "Eat grilled with miso, or as kiritanpo-nabe hot pot in winter.",
+    "how_to_order": "Ask for 'kiritanpo' or 'kiritanpo-nabe' at local restaurants in Akita.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kiritanpo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kiritanpo",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-gyutan",
+    "name": "Gyutan",
+    "local_name": "牛タン",
+    "pronunciation": "gyoo-TAN",
+    "category": "meal",
+    "country": "Japan",
+    "state": "Tohoku",
+    "regions": [
+      "Sendai"
+    ],
+    "description": "Grilled beef tongue, a custom that began in Sendai in 1948. In Sendai it is usually served with barley rice, oxtail soup and pickles.",
+    "how_to_eat": "Eat the grilled slices with barley rice and the tail soup.",
+    "how_to_order": "Ask for a 'gyūtan teishoku' (set meal) at beef-tongue restaurants in Sendai.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gyūtan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gyūtan",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-wanko-soba",
+    "name": "Wanko Soba",
+    "local_name": "わんこそば",
+    "pronunciation": "WAN-ko SO-ba",
+    "category": "meal",
+    "country": "Japan",
+    "state": "Tohoku",
+    "regions": [
+      "Morioka",
+      "Hanamaki"
+    ],
+    "description": "Buckwheat noodles served in tiny bowls that a server refills the moment you finish, again and again. It comes from Iwate Prefecture and is one of the 'three great noodles' of Morioka.",
+    "how_to_eat": "Keep eating until you are full, then cover your bowl with its lid to stop the refills.",
+    "how_to_order": "Ask for 'wanko soba' at specialty restaurants in Morioka.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "soy",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wanko_soba",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wanko_soba",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-morioka-reimen",
+    "name": "Morioka Reimen",
+    "local_name": "盛岡冷麺",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Tohoku",
+    "regions": [
+      "Morioka"
+    ],
+    "description": "Cold, chewy noodles in a rich chilled broth topped with kimchi, based on the Korean dish naengmyeon introduced by Korean immigrants. It is one of the three great noodles of Morioka.",
+    "how_to_eat": "Eat cold, adding the kimchi to taste.",
+    "how_to_order": "Ask for 'Morioka reimen' at yakiniku and reimen restaurants in Morioka.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Morioka_reimen",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Morioka_reimen",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-imoni",
+    "name": "Imoni",
+    "local_name": "芋煮",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Tohoku",
+    "regions": [
+      "Yamagata"
+    ],
+    "description": "A soup of taro and meat eaten in late summer and autumn, with Yamagata Prefecture the most famous for it. Groups cooking imoni over fires by rivers in autumn are a seasonal tradition.",
+    "how_to_eat": "Eat hot like a soup, ideally outdoors at an autumn imoni party.",
+    "how_to_order": "Ask for 'imoni' at local restaurants in Yamagata, mainly in autumn.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Imoni",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Imoni",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-hiyashi-chuka",
+    "name": "Hiyashi Chuka",
+    "local_name": "冷やし中華",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Tohoku",
+    "regions": [
+      "Sendai"
+    ],
+    "description": "Chilled Chinese-style wheat noodles with colourful cold toppings and a tare sauce, usually eaten in summer. The dish was invented in 1937 by the Chinese restaurant Ryutei in Sendai.",
+    "how_to_eat": "Mix the toppings and sauce into the cold noodles.",
+    "how_to_order": "Ask for 'hiyashi chūka' at ramen and Chinese restaurants in summer.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "soy",
+      "egg",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hiyashi_chūka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hiyashi_chūka"
+    ]
+  },
+  {
+    "id": "japan-edomae-sushi",
+    "name": "Edomae Sushi",
+    "local_name": "江戸前寿司",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Kanto",
+    "regions": [
+      "Tokyo"
+    ],
+    "description": "Vinegared rice topped with raw seafood, the style known worldwide as sushi. It originated as Edo-mae (Edo Bay) sushi in 1820s Edo, today's Tokyo.",
+    "how_to_eat": "Eat each piece in one bite, dipping the fish side lightly in soy sauce.",
+    "how_to_order": "Ask for 'omakase' (chef's choice) or order pieces at a sushi counter in Tokyo.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "shellfish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sushi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sushi",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-monjayaki",
+    "name": "Monjayaki",
+    "local_name": "もんじゃ焼き",
+    "pronunciation": "MON-ja-ya-ki",
+    "category": "street_food",
+    "country": "Japan",
+    "state": "Kanto",
+    "regions": [
+      "Tokyo"
+    ],
+    "description": "A runny pan-fried batter with chopped ingredients, similar to okonomiyaki but much looser. It comes from the working-class districts of Tokyo and is said to have originated in Tsukishima.",
+    "how_to_eat": "Spread it on the hot plate and eat it straight off the grill with a small spatula.",
+    "how_to_order": "Ask for 'monja' at the many monjayaki restaurants in Tsukishima, Tokyo.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Monjayaki",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Monjayaki",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-tempura",
+    "name": "Tempura",
+    "local_name": "天ぷら",
+    "pronunciation": "TEM-pu-ra",
+    "category": "meal",
+    "country": "Japan",
+    "state": "Kanto",
+    "regions": [
+      "Tokyo"
+    ],
+    "description": "Seafood and vegetables coated in a thin batter and deep-fried, a technique brought by Portuguese traders in the 16th century. Today's mainstream tempura is Tokyo-style (Edo-style), born at food stalls by Edo's riverside fish market.",
+    "how_to_eat": "Dip each piece quickly in the tentsuyu sauce with grated daikon.",
+    "how_to_order": "Ask for a tempura set at a tempura specialty restaurant.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "shellfish",
+      "fish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tempura",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tempura"
+    ]
+  },
+  {
+    "id": "japan-soba",
+    "name": "Soba",
+    "local_name": "蕎麦",
+    "pronunciation": "SO-ba",
+    "category": "meal",
+    "country": "Japan",
+    "state": "Kanto",
+    "regions": [
+      "Tokyo"
+    ],
+    "description": "Noodles of buckwheat flour, often mixed with some wheat, served chilled with a dipping sauce or hot in broth. With sushi and tempura, soba was one of the street-stall 'Edo delicacies' of old Tokyo.",
+    "how_to_eat": "Dip cold soba briefly in the sauce and slurp; drink the leftover sauce mixed with soba cooking water.",
+    "how_to_order": "Ask for 'zaru soba' (cold) or 'kake soba' (hot) at soba shops or standing soba stalls.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "soy",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Soba",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Soba",
+      "https://en.wikipedia.org/wiki/Tempura"
+    ]
+  },
+  {
+    "id": "japan-chankonabe",
+    "name": "Chankonabe",
+    "local_name": "ちゃんこ鍋",
+    "pronunciation": "CHAN-ko-na-be",
+    "category": "meal",
+    "country": "Japan",
+    "state": "Kanto",
+    "regions": [
+      "Ryōgoku",
+      "Tokyo"
+    ],
+    "description": "A large hot pot of meat, fish and vegetables eaten in big quantities by sumo wrestlers. Restaurants run by retired wrestlers serve it, the first opening in 1937 in Tokyo's sumo district of Ryōgoku.",
+    "how_to_eat": "Share from the pot at the table and finish with noodles or rice in the broth.",
+    "how_to_order": "Ask for 'chanko' at chanko restaurants in Ryōgoku.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chankonabe",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chankonabe"
+    ]
+  },
+  {
+    "id": "japan-natto",
+    "name": "Natto",
+    "local_name": "納豆",
+    "pronunciation": "NAT-toh",
+    "category": "snack",
+    "country": "Japan",
+    "state": "Kanto",
+    "regions": [],
+    "description": "Whole soybeans fermented with Bacillus subtilis, with a strong smell and sticky, stringy texture. It is a breakfast food served with mustard and soy sauce, most popular in eastern Japan including Kantō.",
+    "how_to_eat": "Stir it well until stringy, add the sauce, and eat over rice.",
+    "how_to_order": "Ask for 'nattō' with a Japanese breakfast set, or buy small packs in any supermarket.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Natto",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Natto"
+    ]
+  },
+  {
+    "id": "japan-hitsumabushi",
+    "name": "Hitsumabushi",
+    "local_name": "ひつまぶし",
+    "pronunciation": "hi-tsu-MA-bu-shi",
+    "category": "meal",
+    "country": "Japan",
+    "state": "Chubu",
+    "regions": [
+      "Nagoya"
+    ],
+    "description": "Sliced grilled eel (kabayaki style) on rice, served in a wooden tub. It is considered one of the representative dishes of Nagoya cuisine.",
+    "how_to_eat": "Eat the first portion plain, the second with condiments, and the third with dashi or tea poured over.",
+    "how_to_order": "Ask for 'hitsumabushi' at eel restaurants in Nagoya.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hitsumabushi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hitsumabushi",
+      "https://en.wikipedia.org/wiki/Nagoya_cuisine"
+    ]
+  },
+  {
+    "id": "japan-misokatsu",
+    "name": "Misokatsu",
+    "local_name": "味噌カツ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Chubu",
+    "regions": [
+      "Nagoya"
+    ],
+    "description": "Tonkatsu (breaded pork cutlet) covered in a miso-based sauce. It is a Nagoya specialty made with the region's dark miso.",
+    "how_to_eat": "Eat with rice and shredded cabbage.",
+    "how_to_order": "Ask for 'miso katsu' at tonkatsu restaurants in Nagoya.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine",
+      "https://en.wikipedia.org/wiki/Nagoya_cuisine"
+    ]
+  },
+  {
+    "id": "japan-kishimen",
+    "name": "Kishimen",
+    "local_name": "きし麺",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Chubu",
+    "regions": [
+      "Nagoya"
+    ],
+    "description": "Flat, wavy-edged udon noodles with a slippery texture, served in a light soy-based soup with leek or other toppings. It is a regional specialty of Nagoya, eaten warm or cold.",
+    "how_to_eat": "Slurp the noodles with the broth.",
+    "how_to_order": "Ask for 'kishimen' at noodle shops in Nagoya, including station platform stands.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "soy",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine",
+      "https://en.wikipedia.org/wiki/Udon",
+      "https://en.wikipedia.org/wiki/Nagoya_cuisine"
+    ]
+  },
+  {
+    "id": "japan-miso-nikomi-udon",
+    "name": "Miso Nikomi Udon",
+    "local_name": "味噌煮込みうどん",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Chubu",
+    "regions": [
+      "Nagoya"
+    ],
+    "description": "Very firm udon simmered in red hatchō miso soup, usually with chicken, a raw egg, fish cake and vegetables. It is a local dish of Nagoya.",
+    "how_to_eat": "Stir the egg into the bubbling pot and eat the noodles hot, using the lid as a plate.",
+    "how_to_order": "Ask for 'miso nikomi' at udon restaurants in Nagoya.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "soy",
+      "egg",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Udon",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine",
+      "https://en.wikipedia.org/wiki/Nagoya_cuisine"
+    ]
+  },
+  {
+    "id": "japan-tebasaki",
+    "name": "Tebasaki",
+    "local_name": "手羽先",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Japan",
+    "state": "Chubu",
+    "regions": [
+      "Nagoya"
+    ],
+    "description": "Chicken wings marinated in a sweet sauce with sesame seeds and other seasonings. They are part of Nagoya's chicken-based cuisine and a common izakaya snack.",
+    "how_to_eat": "Eat with your hands, pulling the meat off the bone.",
+    "how_to_order": "Ask for 'tebasaki' at izakaya in Nagoya.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy",
+      "sesame",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nagoya_cuisine"
+    ]
+  },
+  {
+    "id": "japan-hoto",
+    "name": "Hoto",
+    "local_name": "ほうとう",
+    "pronunciation": "HOH-toh",
+    "category": "meal",
+    "country": "Japan",
+    "state": "Chubu",
+    "regions": [
+      "Yamanashi"
+    ],
+    "description": "Flat noodles stewed in miso soup with vegetables such as pumpkin, mushrooms and sometimes meat, usually served in a cast-iron pot. It is a regional dish of Yamanashi; locals do not consider it udon because the dough is made like dumplings.",
+    "how_to_eat": "Eat hot from the iron pot.",
+    "how_to_order": "Ask for 'hōtō' at local restaurants around Mount Fuji and Kōfu.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hōtō",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hōtō",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-takoyaki",
+    "name": "Takoyaki",
+    "local_name": "たこ焼き",
+    "pronunciation": "TA-ko-ya-ki",
+    "category": "street_food",
+    "country": "Japan",
+    "state": "Kansai",
+    "regions": [
+      "Osaka"
+    ],
+    "description": "Balls of wheat batter filled with octopus, tempura scraps, pickled ginger and green onion, cooked in a moulded pan. They are brushed with sauce and mayonnaise and topped with aonori and bonito flakes; Osaka is their home.",
+    "how_to_eat": "Eat with a toothpick, carefully, as the inside is very hot.",
+    "how_to_order": "Ask for a tray of 'takoyaki' at street stalls in Osaka, such as around Dōtonbori.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "fish",
+      "shellfish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Takoyaki",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Takoyaki",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-osaka-okonomiyaki",
+    "name": "Osaka Okonomiyaki",
+    "local_name": "お好み焼き",
+    "pronunciation": "o-ko-no-mi-YA-ki",
+    "category": "meal",
+    "country": "Japan",
+    "state": "Kansai",
+    "regions": [
+      "Osaka"
+    ],
+    "description": "A savoury griddle pancake of wheat batter mixed with cabbage, meat or seafood, topped with okonomiyaki sauce, mayonnaise, aonori and bonito flakes. In the Osaka style the ingredients are mixed into the batter before grilling.",
+    "how_to_eat": "Cut it on the hot plate with a small spatula and eat straight from the griddle.",
+    "how_to_order": "Ask for 'okonomiyaki' at teppan restaurants in Osaka, often cooked at your table.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "fish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Okonomiyaki",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Okonomiyaki",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-kushikatsu",
+    "name": "Kushikatsu",
+    "local_name": "串カツ",
+    "pronunciation": "KU-shi-ka-tsu",
+    "category": "street_food",
+    "country": "Japan",
+    "state": "Kansai",
+    "regions": [
+      "Osaka",
+      "Shinsekai"
+    ],
+    "description": "Skewers of meat and vegetables, breaded and deep-fried. The dish is said to have started at food bars in Osaka's Shinsekai district around 1929 as cheap fast food for workers.",
+    "how_to_eat": "Dip each skewer once in the shared sauce pot; double dipping is not allowed.",
+    "how_to_order": "Ask for an assortment of 'kushikatsu' at kushikatsu bars in Shinsekai.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kushikatsu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kushikatsu"
+    ]
+  },
+  {
+    "id": "japan-kitsune-udon",
+    "name": "Kitsune Udon",
+    "local_name": "きつねうどん",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Kansai",
+    "regions": [
+      "Osaka"
+    ],
+    "description": "Hot udon in dashi broth topped with sweet, deep-fried tofu pouches (aburaage). It originated in Osaka.",
+    "how_to_eat": "Slurp the noodles and soak the tofu in the broth.",
+    "how_to_order": "Ask for 'kitsune udon' at udon shops in Osaka.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "soy",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Udon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Udon",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-yudofu",
+    "name": "Yudofu",
+    "local_name": "湯豆腐",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Kansai",
+    "regions": [
+      "Kyoto"
+    ],
+    "description": "Tofu simmered in hot water with kombu and eaten with dipping sauces. It is a classic of Kyoto cuisine, especially around temple districts.",
+    "how_to_eat": "Lift the warm tofu out of the pot and dip it in the sauce.",
+    "how_to_order": "Ask for a 'yudōfu' set at tofu restaurants in Kyoto.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-yatsuhashi",
+    "name": "Yatsuhashi",
+    "local_name": "八ツ橋",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Japan",
+    "state": "Kansai",
+    "regions": [
+      "Kyoto"
+    ],
+    "description": "A confection made from rice flour, sugar and cinnamon; baked, it is a hard cracker shaped like a koto harp. It is one of the best-known souvenir sweets of Kyoto.",
+    "how_to_eat": "Eat with green tea.",
+    "how_to_order": "Buy boxes of 'yatsuhashi' at souvenir shops in Kyoto.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yatsuhashi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Yatsuhashi"
+    ]
+  },
+  {
+    "id": "japan-matcha",
+    "name": "Matcha",
+    "local_name": "抹茶",
+    "pronunciation": "MAT-cha",
+    "category": "drink",
+    "country": "Japan",
+    "state": "Kansai",
+    "regions": [
+      "Uji",
+      "Kyoto"
+    ],
+    "description": "Finely ground powder of shade-grown green tea, whisked into hot water. Uji near Kyoto, where tea plantations were set up in the Kamakura period, became Japan's foremost tea-producing region.",
+    "how_to_eat": "Drink it in a few sips with a sweet beforehand, as in the tea ceremony.",
+    "how_to_order": "Ask for 'matcha' at tea houses in Uji or Kyoto.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Matcha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Matcha"
+    ]
+  },
+  {
+    "id": "japan-sake",
+    "name": "Sake",
+    "local_name": "日本酒",
+    "pronunciation": "SAH-keh",
+    "category": "drink",
+    "country": "Japan",
+    "state": "Kansai",
+    "regions": [
+      "Nada",
+      "Fushimi"
+    ],
+    "description": "An alcoholic drink brewed from polished rice. The Nada-Gogō area of Hyōgo is the largest producer, and Fushimi in Kyoto is another historic brewing centre.",
+    "how_to_eat": "Drink chilled, at room temperature or warmed, depending on the style.",
+    "how_to_order": "Ask for 'nihonshu' at izakaya, or visit breweries in Nada or Fushimi.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sake"
+    ]
+  },
+  {
+    "id": "japan-hiroshima-okonomiyaki",
+    "name": "Hiroshima Okonomiyaki",
+    "local_name": "お好み焼き",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Chugoku and Shikoku",
+    "regions": [
+      "Hiroshima"
+    ],
+    "description": "Okonomiyaki built in layers of thin batter, cabbage, toppings, yakisoba noodles and fried egg. Hiroshima has over 2,000 okonomiyaki restaurants; the dish became a cheap staple there after 1945.",
+    "how_to_eat": "Eat directly from the hot plate with a small spatula.",
+    "how_to_order": "Ask for 'okonomiyaki' at teppan counters in Hiroshima.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "fish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Okonomiyaki",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Okonomiyaki",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-momiji-manju",
+    "name": "Momiji Manju",
+    "local_name": "もみじ饅頭",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Japan",
+    "state": "Chugoku and Shikoku",
+    "regions": [
+      "Miyajima",
+      "Hiroshima"
+    ],
+    "description": "A baked cake shaped like a maple leaf, usually filled with red bean paste. It is the local specialty of Miyajima island in Hiroshima.",
+    "how_to_eat": "Eat warm, fresh from the shop.",
+    "how_to_order": "Buy 'momiji manjū' on the shopping street of Miyajima.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Momiji_manjū",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Momiji_manjū"
+    ]
+  },
+  {
+    "id": "japan-fugu",
+    "name": "Fugu",
+    "local_name": "河豚",
+    "pronunciation": "FOO-goo",
+    "category": "meal",
+    "country": "Japan",
+    "state": "Chugoku and Shikoku",
+    "regions": [
+      "Shimonoseki"
+    ],
+    "description": "Pufferfish, which contains a lethal poison and must be prepared by licensed chefs, served as thin sashimi or in hot pot. It is famous in Shimonoseki, Yamaguchi Prefecture.",
+    "how_to_eat": "Eat the translucent sashimi with ponzu and green onion.",
+    "how_to_order": "Ask for a fugu course at licensed fugu restaurants in Shimonoseki.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fugu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fugu",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-sanuki-udon",
+    "name": "Sanuki Udon",
+    "local_name": "讃岐うどん",
+    "pronunciation": "sa-NU-ki U-don",
+    "category": "meal",
+    "country": "Japan",
+    "state": "Chugoku and Shikoku",
+    "regions": [
+      "Kagawa"
+    ],
+    "description": "Square-cut, chewy udon from Kagawa Prefecture (old Sanuki Province), traditionally with broth made from niboshi dried sardines. Kagawa's udon is famous nationwide.",
+    "how_to_eat": "Eat hot or cold, adding green onion and tempura toppings.",
+    "how_to_order": "Order at self-service udon shops in Kagawa, picking toppings at the counter.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "fish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sanuki_udon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sanuki_udon",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-katsuo-no-tataki",
+    "name": "Katsuo no Tataki",
+    "local_name": "鰹のたたき",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Chugoku and Shikoku",
+    "regions": [
+      "Kōchi"
+    ],
+    "description": "Skipjack tuna seared on the outside and served sliced, seasoned with vinegar and spring onion. It is the signature dish of Kōchi Prefecture.",
+    "how_to_eat": "Eat the slices with garlic, onion and ponzu-style sauce.",
+    "how_to_order": "Ask for 'katsuo no tataki' at restaurants and markets in Kōchi.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-hakata-ramen",
+    "name": "Hakata Ramen",
+    "local_name": "博多ラーメン",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Japan",
+    "state": "Kyushu",
+    "regions": [
+      "Fukuoka",
+      "Hakata"
+    ],
+    "description": "Thin noodles in milky tonkotsu (pork bone) soup with toppings like pickled ginger, sesame and pickled greens. Yatai food stalls in Hakata and Tenjin are well known for it.",
+    "how_to_eat": "Eat fast while the thin noodles are firm, and order extra noodles ('kaedama') for the leftover soup.",
+    "how_to_order": "Ask for 'ramen' at yatai stalls or ramen shops in Fukuoka.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "soy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tonkotsu_ramen",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tonkotsu_ramen",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-mentaiko",
+    "name": "Mentaiko",
+    "local_name": "明太子",
+    "pronunciation": "men-TAI-ko",
+    "category": "snack",
+    "country": "Japan",
+    "state": "Kyushu",
+    "regions": [
+      "Fukuoka"
+    ],
+    "description": "Spicy salted pollock roe, a specialty of Fukuoka. It is eaten with rice and used in many dishes.",
+    "how_to_eat": "Eat a small piece over hot rice or in an onigiri.",
+    "how_to_order": "Buy 'mentaiko' at shops in Fukuoka or order it with a rice set.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pollock_roe",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pollock_roe",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-motsunabe",
+    "name": "Motsunabe",
+    "local_name": "もつ鍋",
+    "pronunciation": "MO-tsu-na-be",
+    "category": "meal",
+    "country": "Japan",
+    "state": "Kyushu",
+    "regions": [
+      "Fukuoka"
+    ],
+    "description": "A hot pot of beef or pork offal with cabbage and garlic chives in a soy-garlic-chilli or miso broth. Champon noodles are often added to finish.",
+    "how_to_eat": "Share the pot and add noodles at the end.",
+    "how_to_order": "Ask for 'motsunabe' at specialty restaurants in Fukuoka.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Motsunabe",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Motsunabe",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-mizutaki",
+    "name": "Mizutaki",
+    "local_name": "水炊き",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Kyushu",
+    "regions": [
+      "Fukuoka"
+    ],
+    "description": "A hot pot of chicken and vegetables cooked in broth and served with a ponzu dipping sauce. It is a Fukuoka specialty.",
+    "how_to_eat": "Drink a cup of the broth first, then dip the chicken and vegetables in ponzu.",
+    "how_to_order": "Ask for 'mizutaki' at hot-pot restaurants in Fukuoka.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-champon",
+    "name": "Champon",
+    "local_name": "ちゃんぽん",
+    "pronunciation": "CHAM-pon",
+    "category": "meal",
+    "country": "Japan",
+    "state": "Kyushu",
+    "regions": [
+      "Nagasaki"
+    ],
+    "description": "Pork, seafood and vegetables fried in lard, then cooked with special noodles in a chicken and pork bone soup, all in one pan. It is the regional noodle dish of Nagasaki.",
+    "how_to_eat": "Eat hot, slurping noodles and broth.",
+    "how_to_order": "Ask for 'champon' at Chinese restaurants in Nagasaki.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "shellfish",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Champon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Champon",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-castella",
+    "name": "Castella",
+    "local_name": "カステラ",
+    "pronunciation": "kas-TEH-ra",
+    "category": "sweet",
+    "country": "Japan",
+    "state": "Kyushu",
+    "regions": [
+      "Nagasaki"
+    ],
+    "description": "A moist sponge cake based on cakes brought by Portuguese merchants in the 16th century. It was popularised in Nagasaki, where it is a specialty.",
+    "how_to_eat": "Eat in slices with green tea.",
+    "how_to_order": "Buy boxed 'kasutera' at long-established confectioners in Nagasaki.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Castella",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Castella",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-chicken-nanban",
+    "name": "Chicken Nanban",
+    "local_name": "チキン南蛮",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Kyushu",
+    "regions": [
+      "Miyazaki"
+    ],
+    "description": "Fried battered chicken dipped in a vinegary sauce and served with tartar sauce. It is a specialty of Miyazaki Prefecture.",
+    "how_to_eat": "Eat with rice and shredded cabbage.",
+    "how_to_order": "Ask for 'chikin nanban' as a set meal in Miyazaki.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-okinawa-soba",
+    "name": "Okinawa Soba",
+    "local_name": "沖縄そば",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Okinawa",
+    "regions": [],
+    "description": "Thick wheat noodles (no buckwheat) in a broth, often topped with stewed pork ribs as 'soki soba'. It is Okinawa's everyday noodle dish.",
+    "how_to_eat": "Eat hot, adding chilli-infused awamori (kōrēgusu) to taste.",
+    "how_to_order": "Ask for 'Okinawa soba' or 'soki soba' at soba shops across Okinawa.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "fish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Okinawa_soba",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Okinawa_soba",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-goya-chanpuru",
+    "name": "Goya Chanpuru",
+    "local_name": "ゴーヤーチャンプルー",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Okinawa",
+    "regions": [],
+    "description": "A stir-fry of bitter melon with tofu, egg and Spam or pork. Chanpurū is considered the representative dish of Okinawan cuisine.",
+    "how_to_eat": "Eat with rice.",
+    "how_to_order": "Ask for 'gōyā chanpurū' at Okinawan restaurants and izakaya.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chanpurū",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chanpurū",
+      "https://en.wikipedia.org/wiki/Japanese_regional_cuisine"
+    ]
+  },
+  {
+    "id": "japan-rafute",
+    "name": "Rafute",
+    "local_name": "ラフテー",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Okinawa",
+    "regions": [],
+    "description": "Skin-on pork belly stewed in soy sauce and brown sugar, originally part of Okinawan royal cuisine. It is traditionally thought to help longevity.",
+    "how_to_eat": "Eat the soft pork with rice or as a topping on Okinawa soba.",
+    "how_to_order": "Ask for 'rafutē' at Okinawan restaurants.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rafute",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rafute"
+    ]
+  },
+  {
+    "id": "japan-taco-rice",
+    "name": "Taco Rice",
+    "local_name": "タコライス",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Japan",
+    "state": "Okinawa",
+    "regions": [
+      "Kin"
+    ],
+    "description": "Taco-flavoured ground beef on rice with shredded cheese, lettuce, tomato and salsa. It was created in 1984 near a US base in Okinawa.",
+    "how_to_eat": "Mix everything together and eat with a spoon.",
+    "how_to_order": "Ask for 'taco rice' at casual cafés across Okinawa.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Taco_rice",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Taco_rice"
+    ]
+  },
+  {
+    "id": "japan-sata-andagi",
+    "name": "Sata Andagi",
+    "local_name": "サーターアンダーギー",
+    "pronunciation": "SAH-tah an-DAH-gee",
+    "category": "sweet",
+    "country": "Japan",
+    "state": "Okinawa",
+    "regions": [],
+    "description": "Sweet deep-fried dough balls, similar to doughnuts, made with flour, sugar and eggs. They spread to Okinawa from southern China.",
+    "how_to_eat": "Eat warm as a snack.",
+    "how_to_order": "Buy bags of 'sātā andāgī' at markets and snack stalls in Okinawa.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sata_andagi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sata_andagi"
+    ]
+  },
+  {
+    "id": "japan-awamori",
+    "name": "Awamori",
+    "local_name": "泡盛",
+    "pronunciation": "a-wa-MO-ri",
+    "category": "drink",
+    "country": "Japan",
+    "state": "Okinawa",
+    "regions": [],
+    "description": "A distilled rice spirit unique to Okinawa, mostly made from imported indica rice. It is distilled rather than brewed, like shōchū.",
+    "how_to_eat": "Drink on the rocks or with water.",
+    "how_to_order": "Ask for 'awamori' at any Okinawan izakaya.",
+    "typical_price": null,
+    "currency": "JPY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Awamori",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Awamori"
+    ]
+  }
+]

@@ -1,7 +1,7 @@
 import { useEffect, useLayoutEffect, useRef } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { Award, ChevronLeft, Flame, Leaf, MapPin, Navigation, Sprout } from 'lucide-react'
-import { CATEGORY_LABEL, dishById, imageFor, restaurantsForDish, type Dish } from '../data'
+import { CATEGORY_LABEL, dishById, imageFor, priceLabel, restaurantsForDish, type Dish } from '../data'
 import { CATEGORY_ICON, DishPhoto } from '../ui'
 
 const SPICE = ['Not spicy', 'Mild', 'Medium', 'Hot']
@@ -9,7 +9,7 @@ const SPICE = ['Not spicy', 'Mild', 'Medium', 'Hot']
 function TitleText({ dish: d, className, 'aria-hidden': hidden }: { dish: Dish; className: string; 'aria-hidden'?: boolean }) {
   return (
     <div className={className} aria-hidden={hidden}>
-      <span><MapPin size={14} /> {d.state}</span>
+      <span><MapPin size={14} /> {d.state}, {d.country}</span>
       <h1>{d.name}</h1>
       {d.local_name && <span className="local-name">{d.local_name}</span>}
     </div>
@@ -101,7 +101,7 @@ export default function DishPage() {
       <div className="cta-bar">
         <div>
           <small className="muted">Typical price</small>
-          <b>{d.typical_price_inr ? `₹${d.typical_price_inr}` : 'Varies'}</b>
+          <b>{priceLabel(d) ?? 'Varies'}</b>
         </div>
         <a className="btn primary" href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${d.name} near me`)}`} target="_blank" rel="noreferrer">
           <Navigation size={18} /> Find near me
