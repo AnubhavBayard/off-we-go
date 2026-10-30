@@ -1,7 +1,8 @@
-import { StrictMode, useLayoutEffect, useRef, useState } from 'react'
+import { StrictMode, useEffect, useLayoutEffect, useRef, useState } from 'react'
 import { createRoot } from 'react-dom/client'
 import { HashRouter, NavLink, Route, Routes, useLocation, useNavigate } from 'react-router-dom'
 import { Images, Map as MapIcon, Plus, UtensilsCrossed } from 'lucide-react'
+import { App as NativeApp } from '@capacitor/app'
 import '@fontsource-variable/plus-jakarta-sans'
 import 'maplibre-gl/dist/maplibre-gl.css'
 import './index.css'
@@ -52,6 +53,24 @@ function Tabs() {
   )
 }
 
+// Android back button: any other tab goes to the home tab, home closes the app. Pages opened from
+// a tab (dish, account) go back the usual way.
+function BackButton() {
+  const { pathname } = useLocation()
+  const navigate = useNavigate()
+  const path = useRef(pathname)
+  path.current = pathname
+  useEffect(() => {
+    const handle = NativeApp.addListener('backButton', () => {
+      if (path.current === '/') void NativeApp.exitApp()
+      else if (TABS.some((t) => t.to === path.current)) navigate('/', { replace: true })
+      else history.back()
+    })
+    return () => { void handle.then((h) => h.remove()) }
+  }, [navigate])
+  return null
+}
+
 // Landing screen only on the very first launch. localStorage can throw (private mode); then it shows again next launch.
 const WELCOMED = 'welcomed'
 const seenWelcome = () => { try { return localStorage.getItem(WELCOMED) === '1' } catch { return false } }
@@ -74,6 +93,7 @@ function App() {
         </Routes>
       </main>
       <Tabs />
+      <BackButton />
     </HashRouter>
   )
 }
