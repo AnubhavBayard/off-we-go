@@ -392,9 +392,10 @@
 
 **Next session, in order**
 1. More countries: next candidates Australia, Brazil, Peru, Argentina, Philippines, Sri Lanka, Nepal, Ireland, Switzerland... Method: register in world_spec.md + COUNTRY_CODE (src/data.ts), one research agent at a time, every fact sourced, spot-check diet/allergens/links, validate, fetch photos, check new photos for wrong subjects (towns, species, flags).
-2. Optional polish: Android back should close open bottom sheets first; Add page "Where"/"What did you eat" fields are still native selects (could reuse PickerSheet).
+2. Optional polish: Android back should close open bottom sheets first.
 3. Before public release: owned/licensed logo (current one looks downloaded); privacy policy; restaurant coordinates CSV (`data-fixes/`) waiting on user; revoke Supabase token `claude-setup`.
 
 **Rebuild + install**
 `cd app && nvm use 22 && npm run build && npx cap sync android && cd android && ANDROID_HOME=~/Android/Sdk ./gradlew assembleDebug && ~/Android/Sdk/platform-tools/adb install -r app/build/outputs/apk/debug/app-debug.apk`
 Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via google-chrome --remote-debugging-port, pick the tab with type 'page', app uses HashRouter (#/memories).
+- Add page pickers (user, after wrap-up): "Where" and "What did you eat" native selects replaced by the same pill buttons + bottom sheets as Home. PickerSheet moved from Discover.tsx to ui.tsx (shared; option `meta` shows count, city or country). Place sheet: "Somewhere else (use my location)" + nearby restaurants with city; dish sheet: "No dish" + all dishes with category icon and country/state, searchable. Tested headless (search "sushi" -> Edomae Sushi); installed on phone; pushed.

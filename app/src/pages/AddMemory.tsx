@@ -1,9 +1,9 @@
 import { useEffect, useState } from 'react'
 import { useNavigate, useSearchParams } from 'react-router-dom'
-import { Camera, Check, Heart, ImagePlus, MapPin, NotebookPen, User, Users, UsersRound, UtensilsCrossed } from 'lucide-react'
+import { Camera, Check, ChevronDown, Heart, ImagePlus, LocateFixed, MapPin, NotebookPen, User, Users, UsersRound, UtensilsCrossed } from 'lucide-react'
 import { dishById, dishes, dishesForRestaurant, distanceKm, restaurantById, restaurants } from '../data'
 import { addMemory, currentPosition } from '../memories'
-import { FoodTicker } from '../ui'
+import { CATEGORY_ICON, FoodTicker, PickerSheet } from '../ui'
 
 // Memories have no "company" field; the choice is saved at the start of the note ("With family · ...").
 const COMPANY = [
@@ -24,6 +24,7 @@ export default function AddMemory() {
   const [company, setCompany] = useState<string | null>(null)
   const [note, setNote] = useState('')
   const [saving, setSaving] = useState(false)
+  const [picking, setPicking] = useState<'place' | 'dish' | null>(null)
 
   useEffect(() => void currentPosition().then(setPos), [])
   useEffect(() => {
@@ -92,27 +93,21 @@ export default function AddMemory() {
 
       <section className="form-section">
         <h3><MapPin size={16} /> Where</h3>
-        <label className="input-icon">
-          <MapPin size={18} aria-hidden />
-          <select value={restaurantId} onChange={(e) => setRestaurantId(e.target.value)} aria-label="Where">
-            <option value="">Somewhere else (use my location)</option>
-            {nearby.map((r) => (
-              <option key={r.id} value={r.id}>{r.name}, {r.city}</option>
-            ))}
-          </select>
-        </label>
+        <button type="button" className="picker wide" onClick={() => setPicking('place')}>
+          <span className="picker-icon">{restaurant ? <MapPin size={18} /> : <LocateFixed size={18} />}</span>
+          <span className="picker-text"><small>Place</small>{restaurant ? `${restaurant.name}, ${restaurant.city}` : 'Somewhere else (use my location)'}</span>
+          <ChevronDown size={18} aria-hidden />
+        </button>
         {!restaurant && !pos && <p className="muted small">Location unavailable. The memory will be saved without a place.</p>}
       </section>
 
       <section className="form-section">
         <h3><UtensilsCrossed size={16} /> What did you eat <span className="muted">(optional)</span></h3>
-        <label className="input-icon">
-          <UtensilsCrossed size={18} aria-hidden />
-          <select value={dishId} onChange={(e) => setDishId(e.target.value)} aria-label="Dish">
-            <option value="">Pick a dish</option>
-            {dishOptions.map((d) => <option key={d.id} value={d.id}>{d.name}</option>)}
-          </select>
-        </label>
+        <button type="button" className="picker wide" onClick={() => setPicking('dish')}>
+          <span className="picker-icon"><UtensilsCrossed size={18} /></span>
+          <span className="picker-text"><small>Dish</small>{dishById.get(dishId)?.name ?? 'Pick a dish'}</span>
+          <ChevronDown size={18} aria-hidden />
+        </button>
       </section>
 
       <section className="form-section">
@@ -131,6 +126,30 @@ export default function AddMemory() {
         <h3><NotebookPen size={16} /> Note <span className="muted">(optional)</span></h3>
         <textarea rows={3} value={note} onChange={(e) => setNote(e.target.value)} placeholder="How it tasted, what made it special…" />
       </section>
+
+      {picking === 'place' && (
+        <PickerSheet
+          title="Where did you eat?" searchable value={restaurantId} onClose={() => setPicking(null)}
+          options={[
+            { value: '', label: 'Somewhere else (use my location)', icon: <LocateFixed size={20} /> },
+            ...nearby.map((r) => ({ value: r.id, label: r.name, icon: <MapPin size={20} />, meta: r.city })),
+          ]}
+          onPick={setRestaurantId}
+        />
+      )}
+      {picking === 'dish' && (
+        <PickerSheet
+          title="What did you eat?" searchable value={dishId} onClose={() => setPicking(null)}
+          options={[
+            { value: '', label: 'No dish', icon: <UtensilsCrossed size={20} /> },
+            ...dishOptions.map((d) => {
+              const Icon = CATEGORY_ICON[d.category]
+              return { value: d.id, label: d.name, icon: <Icon size={20} />, meta: d.country === 'India' ? d.state : d.country }
+            }),
+          ]}
+          onPick={setDishId}
+        />
+      )}
 
       <button className="btn primary big" disabled={!file || saving} onClick={save}>
         <Check size={20} /> {saving ? 'Saving…' : 'Save memory'}
