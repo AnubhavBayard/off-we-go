@@ -359,3 +359,4 @@
 - Photo script now only uses Wikimedia Commons files (2 hr-wiki local uploads had no licence data). 1,058 of 1,096 linked dishes have photos (+117 new).
 - BATCH 1 DONE: 25 countries, 1,268 dishes. Built, but NOT installed: phone not connected (adb: no devices). APK ready at app/android/app/build/outputs/apk/debug/app-debug.apk. Committed (not pushed).
 - Next batch candidates: Poland, Hungary, Czechia, Egypt, Australia, Brazil, Peru, Argentina, Philippines, Sri Lanka, Nepal... same method (one research agent at a time, every fact sourced, spot-check, register country in world_spec.md + COUNTRY_CODE).
+- 2026-10-31: added root README.md (project description, features, tech, layout, build, data workflow). Removed Vite template app/README.md. Committed (not pushed).
