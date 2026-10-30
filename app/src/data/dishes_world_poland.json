@@ -1,0 +1,1099 @@
+[
+  {
+    "id": "poland-obwarzanek-krakowski",
+    "name": "Obwarzanek krakowski",
+    "local_name": "Obwarzanek krakowski",
+    "pronunciation": "ob-va-ZHA-nek kra-KOF-skee",
+    "category": "street_food",
+    "country": "Poland",
+    "state": "Kraków & Lesser Poland",
+    "regions": [
+      "Kraków"
+    ],
+    "description": "A braided, ring-shaped bread that is boiled, then sprinkled with salt, sesame or poppy seeds and baked, giving a crunchy golden crust and a sweetish, chewy crumb. Records of obwarzanki baked in Kraków go back to 1394, and the Kraków version has EU protected geographical indication status.",
+    "how_to_eat": null,
+    "how_to_order": "Buy one from the street carts around Kraków, where it is traditionally sold.",
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Obwarzanek_krakowski",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Obwarzanek_krakowski",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-zapiekanka",
+    "name": "Zapiekanka",
+    "local_name": "Zapiekanka",
+    "pronunciation": "za-pye-KAN-ka",
+    "category": "street_food",
+    "country": "Poland",
+    "state": "Kraków & Lesser Poland",
+    "regions": [
+      "Kraków"
+    ],
+    "description": "A toasted open-face sandwich of half a baguette topped with sautéed white mushrooms and melted cheese, sometimes with ham or other toppings. A Polish street food since the 1970s; the stands on Plac Nowy in Kraków's Kazimierz district have a cult following.",
+    "how_to_eat": "Eat it hot, with ketchup over the cheese.",
+    "how_to_order": "Look for the zapiekanka stands on Plac Nowy in Kazimierz.",
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zapiekanka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Zapiekanka",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-kielbasa-lisiecka",
+    "name": "Kiełbasa lisiecka",
+    "local_name": "Kiełbasa lisiecka",
+    "pronunciation": "kew-BA-sa lee-SYETS-ka",
+    "category": "snack",
+    "country": "Poland",
+    "state": "Kraków & Lesser Poland",
+    "regions": [
+      "Liszki",
+      "Czernichów"
+    ],
+    "description": "A smoked pork sausage, mostly ham, seasoned with garlic and white pepper and formed into a ring, made in the Liszki and Czernichów communes near Kraków. It developed from traditional coarse Kraków sausage in the 1930s and is an EU protected geographical indication.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://pl.wikipedia.org/wiki/Kiełbasa_lisiecka",
+    "source_urls": [
+      "https://pl.wikipedia.org/wiki/Kiełbasa_lisiecka",
+      "https://en.wikipedia.org/wiki/Kielbasa"
+    ]
+  },
+  {
+    "id": "poland-kremowka-papieska",
+    "name": "Kremówka (papal cream cake)",
+    "local_name": "Kremówka",
+    "pronunciation": "kre-MOOF-ka",
+    "category": "sweet",
+    "country": "Poland",
+    "state": "Kraków & Lesser Poland",
+    "regions": [
+      "Wadowice"
+    ],
+    "description": "A Polish cream pie of two layers of puff pastry filled with cream (often crème pâtissière made with whole eggs) and dusted with powdered sugar. It became famous as the 'papal' cake after Pope John Paul II recalled eating cream cakes in his home town of Wadowice after his school-leaving exams.",
+    "how_to_eat": null,
+    "how_to_order": "It is called kremówka in some parts of Poland and napoleonka in others.",
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Napoleonka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Napoleonka"
+    ]
+  },
+  {
+    "id": "poland-pierogi-ruskie",
+    "name": "Pierogi ruskie",
+    "local_name": "Pierogi ruskie",
+    "pronunciation": "pye-RO-gee ROOS-kye",
+    "category": "meal",
+    "country": "Poland",
+    "state": "Kraków & Lesser Poland",
+    "regions": [
+      "Kraków"
+    ],
+    "description": "Half-moon dumplings of unleavened dough boiled until they float, here filled with potato, quark cheese and fried onion. Pierogi date back at least to Poland's first cookbook, published in Kraków in 1682, and other fillings include meat, sauerkraut with mushrooms, and fruit; Kraków has hosted a Pierogi Festival.",
+    "how_to_eat": "Eat them topped with sour cream, fried onions or both.",
+    "how_to_order": "Ask for 'ruskie' for the potato-and-cheese filling.",
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pierogi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pierogi",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-kotlet-schabowy",
+    "name": "Kotlet schabowy",
+    "local_name": "Kotlet schabowy",
+    "pronunciation": "KOT-let skha-BO-vi",
+    "category": "meal",
+    "country": "Poland",
+    "state": "Kraków & Lesser Poland",
+    "regions": [],
+    "description": "A thinly pounded pork loin cutlet dipped in flour, egg and breadcrumbs and fried in lard or oil, similar to Wiener schnitzel. Cutlet recipes like it appear in an 1860 Polish cookbook; in Kraków it counts among the Austrian-influenced dishes, and it is now popular across Poland.",
+    "how_to_eat": "Served with boiled or mashed potatoes, fried mushrooms, seared cabbage or salads.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kotlet_schabowy",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kotlet_schabowy",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-sernik-krakowski",
+    "name": "Sernik krakowski",
+    "local_name": "Sernik krakowski",
+    "pronunciation": "SER-neek kra-KOF-skee",
+    "category": "sweet",
+    "country": "Poland",
+    "state": "Kraków & Lesser Poland",
+    "regions": [
+      "Kraków"
+    ],
+    "description": "Kraków-style sernik, a baked Polish cheesecake made from twaróg (quark) with eggs and butter and topped with a lattice crust. Sernik dates back to the 17th century and is one of the most popular desserts in Poland.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cheesecake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cheesecake",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-oscypek",
+    "name": "Oscypek",
+    "local_name": "Oscypek",
+    "pronunciation": "os-TSI-pek",
+    "category": "street_food",
+    "country": "Poland",
+    "state": "Tatras & Podhale",
+    "regions": [
+      "Zakopane"
+    ],
+    "description": "A smoked cheese of salted sheep's milk made only in the Tatra Mountains: the curd is scalded, pressed into decorative spindle-shaped wooden moulds, brined and smoked for up to 14 days. It has been an EU protected designation of origin since 2008 and can only be made from late April to early October.",
+    "how_to_eat": "It is often pan-fried and served with cranberry jam, a popular street food in the mountains.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Oscypek",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Oscypek",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-bryndza-podhalanska",
+    "name": "Bryndza podhalańska",
+    "local_name": "Bryndza podhalańska",
+    "pronunciation": "BRIN-dza po-ha-LAN-ska",
+    "category": "snack",
+    "country": "Poland",
+    "state": "Tatras & Podhale",
+    "regions": [],
+    "description": "A soft, creamy sheep's-milk cheese from the Podhale region in the mountains of Lesser Poland. It has EU protected designation of origin status.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bryndza_Podhalańska",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bryndza_Podhalańska",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-bundz",
+    "name": "Bundz",
+    "local_name": "Bundz",
+    "pronunciation": "BOONDZ",
+    "category": "snack",
+    "country": "Poland",
+    "state": "Tatras & Podhale",
+    "regions": [],
+    "description": "A mild, fresh sheep's-milk cheese made mainly in Podhale and the nearby Beskids; its first stage is the same as oscypek, with the milk curdled by rennet and the curd scalded and drained in cloth. Bundz from the spring grazing, before St John's Night, is prized as 'bundz majowy'.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://pl.wikipedia.org/wiki/Bundz",
+    "source_urls": [
+      "https://pl.wikipedia.org/wiki/Bundz",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-kwasnica",
+    "name": "Kwaśnica",
+    "local_name": "Kwaśnica",
+    "pronunciation": "kvash-NEE-tsa",
+    "category": "meal",
+    "country": "Poland",
+    "state": "Tatras & Podhale",
+    "regions": [],
+    "description": "A very sour highlander soup of sauerkraut and meat (often ribs), without other vegetables like carrot, which would make it kapuśniak. It belongs to Polish góral (highlander) cuisine.",
+    "how_to_eat": "It is eaten with potatoes boiled separately, or with bread.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://pl.wikipedia.org/wiki/Kwaśnica",
+    "source_urls": [
+      "https://pl.wikipedia.org/wiki/Kwaśnica",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-zetyca",
+    "name": "Żętyca",
+    "local_name": "Żętyca",
+    "pronunciation": "zhen-TI-tsa",
+    "category": "drink",
+    "country": "Poland",
+    "state": "Tatras & Podhale",
+    "regions": [],
+    "description": "Whey left over from making oscypek and bundz from sheep's milk, white or slightly creamy, popular among the Carpathian highlanders. It is drunk well chilled, either fresh and sweet or soured after a few days, and is on Poland's list of traditional products.",
+    "how_to_eat": "Drink it cold; it can have a laxative effect on people not used to it.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://pl.wikipedia.org/wiki/Żętyca",
+    "source_urls": [
+      "https://pl.wikipedia.org/wiki/Żętyca",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-placek-po-zbojnicku",
+    "name": "Placek po zbójnicku",
+    "local_name": "Placek po zbójnicku",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Poland",
+    "state": "Tatras & Podhale",
+    "regions": [],
+    "description": "Potato pancakes (grated potato, onion, egg and wheat flour) topped with goulash, a popular dish in the Podhale mountains.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-bigos",
+    "name": "Bigos",
+    "local_name": "Bigos",
+    "pronunciation": "BEE-gos",
+    "category": "meal",
+    "country": "Poland",
+    "state": "Warsaw & Masovia",
+    "regions": [],
+    "description": "Hunter's stew: assorted chopped meats and kiełbasa slowly stewed with sauerkraut, fresh cabbage, dried forest mushrooms and spices such as juniper, allspice and bay. It is considered best after repeated reheating and is associated with Christmas and Easter.",
+    "how_to_eat": "Traditionally paired with chilled vodka or beer; it is also served in bread bowls.",
+    "how_to_order": "Found on the menus of milk bars, pubs and bistros throughout Poland.",
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bigos",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bigos",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-zurek",
+    "name": "Żurek",
+    "local_name": "Żurek",
+    "pronunciation": "ZHOO-rek",
+    "category": "meal",
+    "country": "Poland",
+    "state": "Warsaw & Masovia",
+    "regions": [],
+    "description": "A sour soup made with fermented rye flour (a sourdough starter) and meat such as boiled white sausage, bacon or ribs, flavoured with marjoram and garlic. It is traditionally eaten at Easter but is popular year-round, sometimes served in an edible bread bowl.",
+    "how_to_eat": "It is often eaten with halved hard-boiled eggs and bread.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sour_cereal_soup",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sour_cereal_soup",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-flaki-po-warszawsku",
+    "name": "Flaki po warszawsku",
+    "local_name": "Flaki po warszawsku",
+    "pronunciation": "FLA-kee po var-SHAF-skoo",
+    "category": "meal",
+    "country": "Poland",
+    "state": "Warsaw & Masovia",
+    "regions": [
+      "Warsaw"
+    ],
+    "description": "A traditional tripe soup of thin strips of beef tripe in beef broth, seasoned with marjoram, nutmeg, sweet paprika and bay. The Warsaw-style variant adds meatballs; flaki has been eaten in Poland since at least the 14th century.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Flaki",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Flaki",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-paczki",
+    "name": "Pączki",
+    "local_name": "Pączki",
+    "pronunciation": "POHNCH-kee",
+    "category": "sweet",
+    "country": "Poland",
+    "state": "Warsaw & Masovia",
+    "regions": [],
+    "description": "Deep-fried doughnuts of a rich dough with eggs, fat, sugar, yeast and sometimes milk, filled with jam such as plum powidła or wild rose petal jam and topped with powdered sugar, icing or orange zest. A little spirit is added to the dough so it absorbs less oil.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pączki",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pączki"
+    ]
+  },
+  {
+    "id": "poland-wuzetka",
+    "name": "Wuzetka",
+    "local_name": "Wuzetka",
+    "pronunciation": "voo-ZET-ka",
+    "category": "sweet",
+    "country": "Poland",
+    "state": "Warsaw & Masovia",
+    "regions": [
+      "Warsaw"
+    ],
+    "description": "A Warsaw cake of two chocolate sponge layers soaked in punch, spread with jam, filled with whipped cream set with gelatin and coated in chocolate. It probably takes its name from the W-Z Route, near which the café that first sold it stood in the late 1940s.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wuzetka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wuzetka",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-kabanosy",
+    "name": "Kabanosy",
+    "local_name": "Kabanosy staropolskie",
+    "pronunciation": "ka-ba-NO-si",
+    "category": "snack",
+    "country": "Poland",
+    "state": "Warsaw & Masovia",
+    "regions": [],
+    "description": "Long, thin, dry smoked pork sausages, folded in two, that were once carried by soldiers and travellers because they keep so well. 'Kabanosy staropolskie' has been registered in the EU as a Traditional Speciality Guaranteed since 2011.",
+    "how_to_eat": "Usually eaten cold, cut into chunks as a snack or appetiser, often with cheese.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kabanos",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kabanos",
+      "https://en.wikipedia.org/wiki/Kielbasa"
+    ]
+  },
+  {
+    "id": "poland-pyzy-z-miesem",
+    "name": "Pyzy z mięsem",
+    "local_name": "Pyzy z mięsem",
+    "pronunciation": "PI-zi z MYEN-sem",
+    "category": "meal",
+    "country": "Poland",
+    "state": "Warsaw & Masovia",
+    "regions": [
+      "Warsaw"
+    ],
+    "description": "Large round potato dumplings made from grated raw (or raw and boiled) potatoes, sometimes with flour and egg, here stuffed with minced meat and boiled. The Polish cuisine article names pyzy z mięsem among Warsaw's typical traditional dishes.",
+    "how_to_eat": "Pyzy are often served drizzled with melted pork fat or with fried cabbage.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://pl.wikipedia.org/wiki/Pyzy_(potrawa)",
+    "source_urls": [
+      "https://pl.wikipedia.org/wiki/Pyzy_(potrawa)",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-goldwasser",
+    "name": "Goldwasser",
+    "local_name": "Wódka Gdańska",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Poland",
+    "state": "Gdańsk & Pomerania",
+    "regions": [
+      "Gdańsk"
+    ],
+    "description": "A 40% herbal liqueur flavoured with spices such as cardamom, cloves, cinnamon and juniper, with tiny flakes of 23-karat gold floating in it. It was made in Gdańsk (Danzig) from 1598 to 2009.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Goldwasser",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Goldwasser",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-pasztecik-szczecinski",
+    "name": "Pasztecik szczeciński",
+    "local_name": "Pasztecik szczeciński",
+    "pronunciation": "pash-TE-cheek shche-CHIN-skee",
+    "category": "street_food",
+    "country": "Poland",
+    "state": "Gdańsk & Pomerania",
+    "regions": [
+      "Szczecin"
+    ],
+    "description": "A deep-fried yeast-dough pastry, crisp outside and soft inside, usually filled with pork and beef, or with cabbage and mushrooms or cheese. Created in Szczecin in the late 1960s, it is regarded as one of the city's symbols.",
+    "how_to_eat": "It is usually served with a cup of clear, spicy red borscht.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://pl.wikipedia.org/wiki/Pasztecik_szczeciński",
+    "source_urls": [
+      "https://pl.wikipedia.org/wiki/Pasztecik_szczeciński",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-torun-gingerbread",
+    "name": "Toruń gingerbread",
+    "local_name": "Pierniki toruńskie",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Poland",
+    "state": "Gdańsk & Pomerania",
+    "regions": [
+      "Toruń"
+    ],
+    "description": "Traditional gingerbread baked in Toruń since the Middle Ages, first mentioned in 1380, made with local wheat flour and honey and imported spices. Toruń and Nuremberg agreed in 1556 to let each bake the other's specialities.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Toruń_gingerbread",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Toruń_gingerbread",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-sledz-po-kaszubsku",
+    "name": "Kashubian herring",
+    "local_name": "Śledź po kaszubsku",
+    "pronunciation": "shlech po ka-SHOOB-skoo",
+    "category": "meal",
+    "country": "Poland",
+    "state": "Gdańsk & Pomerania",
+    "regions": [
+      "Kashubia"
+    ],
+    "description": "Herring in a tomato marinade with onion. Thanks to the nearby Baltic, fish dishes like this and fried cod or flounder are typical of Kashubia and Pomerania.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-paprykarz-szczecinski",
+    "name": "Paprykarz szczeciński",
+    "local_name": "Paprykarz szczeciński",
+    "pronunciation": "pa-pri-KASH shche-CHIN-skee",
+    "category": "snack",
+    "country": "Poland",
+    "state": "Gdańsk & Pomerania",
+    "regions": [
+      "Szczecin"
+    ],
+    "description": "A canned spread of minced fish with rice, onion and tomato concentrate in vegetable oil with spices. It was developed in Szczecin in the mid-1960s, inspired by a Senegalese fish-and-rice dish, and first canned in 1967.",
+    "how_to_eat": "Spread it on bread.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://pl.wikipedia.org/wiki/Paprykarz_szczeciński",
+    "source_urls": [
+      "https://pl.wikipedia.org/wiki/Paprykarz_szczeciński",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-kluski-slaskie",
+    "name": "Silesian dumplings",
+    "local_name": "Kluski śląskie",
+    "pronunciation": "KLOOS-kee SHLON-skye",
+    "category": "meal",
+    "country": "Poland",
+    "state": "Wrocław & Silesia",
+    "regions": [],
+    "description": "Small round dumplings of mashed boiled potatoes and potato flour, sometimes with an egg, pressed with a thumb to make a dip for gravy. With beef roulade and red cabbage they form the traditional Sunday dinner in many Silesian families.",
+    "how_to_eat": "Eat them with gravy, roulade and red cabbage.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Silesian_dumplings",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Silesian_dumplings",
+      "https://en.wikipedia.org/wiki/Silesian_cuisine"
+    ]
+  },
+  {
+    "id": "poland-rolada-slaska",
+    "name": "Silesian roulade",
+    "local_name": "Rolada",
+    "pronunciation": "ro-LA-da",
+    "category": "meal",
+    "country": "Poland",
+    "state": "Wrocław & Silesia",
+    "regions": [],
+    "description": "A beef roll stuffed with pickled vegetables, ham and plenty of seasoning, always served with red cabbage cooked with fried bacon, onion and allspice. With Silesian dumplings it is the classic Sunday dinner, often called Silesia's most iconic dish.",
+    "how_to_eat": "Eat with kluski śląskie and red cabbage, with plenty of gravy.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Silesian_cuisine",
+      "https://en.wikipedia.org/wiki/Polish_cuisine",
+      "https://pl.wikipedia.org/wiki/Kuchnia_śląska"
+    ]
+  },
+  {
+    "id": "poland-krupnioki-slaskie",
+    "name": "Krupnioki śląskie",
+    "local_name": "Krupnioki śląskie",
+    "pronunciation": "kroop-NYO-kee SHLON-skye",
+    "category": "meal",
+    "country": "Poland",
+    "state": "Wrocław & Silesia",
+    "regions": [],
+    "description": "Silesian blood sausage of groats, pork offal, liver, onion and pepper in a natural casing, with less groats than similar sausages. Linked to pig-slaughter days and mining-family meals, it has been an EU protected geographical indication since 2016.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://pl.wikipedia.org/wiki/Krupnioki_śląskie",
+    "source_urls": [
+      "https://pl.wikipedia.org/wiki/Krupnioki_śląskie",
+      "https://en.wikipedia.org/wiki/Silesian_cuisine"
+    ]
+  },
+  {
+    "id": "poland-kolocz-slaski",
+    "name": "Kołocz śląski",
+    "local_name": "Kołocz śląski",
+    "pronunciation": "KO-woch SHLON-skee",
+    "category": "sweet",
+    "country": "Poland",
+    "state": "Wrocław & Silesia",
+    "regions": [],
+    "description": "A rectangular Silesian yeast cake with a distinctive crumb topping, plain or filled with cheese, poppy seed or apple, and a buttery aroma. It descends from the old Polish kołacz, was traditionally served at weddings, and is an EU protected geographical indication.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://pl.wikipedia.org/wiki/Kołocz_śląski",
+    "source_urls": [
+      "https://pl.wikipedia.org/wiki/Kołocz_śląski",
+      "https://en.wikipedia.org/wiki/Silesian_cuisine"
+    ]
+  },
+  {
+    "id": "poland-makowki",
+    "name": "Makówki",
+    "local_name": "Makówki",
+    "pronunciation": "ma-KOOF-kee",
+    "category": "sweet",
+    "country": "Poland",
+    "state": "Wrocław & Silesia",
+    "regions": [],
+    "description": "A cold dessert of thin slices of white bread layered with finely ground poppy seeds boiled in milk with butter, plus dried fruit, almonds and nuts, flavoured with honey, vanilla and rum. In Silesia it is served almost exclusively on Christmas Eve.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Makówki",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Makówki",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-knysza",
+    "name": "Knysza",
+    "local_name": "Knysza",
+    "pronunciation": "KNI-sha",
+    "category": "street_food",
+    "country": "Poland",
+    "state": "Wrocław & Silesia",
+    "regions": [
+      "Wrocław"
+    ],
+    "description": "A fast food of a hollowed half yeast bun stuffed, in the classic vegetarian version, with fresh cabbage, tomato, cucumber and corn, topped with garlic, mayonnaise or spicy sauce and crispy fried onion; meat versions add a cutlet, chicken or a sausage. It appeared in Wrocław in the 1990s and is popular there.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'knysza z warzywami' for the vegetarian classic.",
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://pl.wikipedia.org/wiki/Knysza",
+    "source_urls": [
+      "https://pl.wikipedia.org/wiki/Knysza",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-rogal-swietomarcinski",
+    "name": "St. Martin's croissant",
+    "local_name": "Rogal świętomarciński",
+    "pronunciation": "RO-gal shfyen-to-mar-CHIN-skee",
+    "category": "sweet",
+    "country": "Poland",
+    "state": "Poznań & Greater Poland",
+    "regions": [
+      "Poznań"
+    ],
+    "description": "A croissant filled with white poppy seeds, sugar, egg, raisins, nuts and candied fruit, glazed with icing and sprinkled with nuts, baked in Poznań for St. Martin's Day (11 November). The name has been protected in the EU register since 2008, and Poznań bakers sell about 250 tonnes on the saint's day.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "nuts",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/St._Martin's_croissant",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/St._Martin's_croissant",
+      "https://pl.wikipedia.org/wiki/Rogal_świętomarciński"
+    ]
+  },
+  {
+    "id": "poland-pyry-z-gzikiem",
+    "name": "Pyry z gzikiem",
+    "local_name": "Pyry z gzikiem",
+    "pronunciation": "PI-ri z GZHEE-kyem",
+    "category": "meal",
+    "country": "Poland",
+    "state": "Poznań & Greater Poland",
+    "regions": [
+      "Poznań"
+    ],
+    "description": "Potatoes, usually boiled in their skins, with gzik: quark cheese mixed with sour cream, chives and radish or onion. A meatless Greater Poland dish dating from the 19th century, when it was a peasant staple, and still served in Wielkopolska restaurants.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://pl.wikipedia.org/wiki/Pyry_z_gzikiem",
+    "source_urls": [
+      "https://pl.wikipedia.org/wiki/Pyry_z_gzikiem",
+      "https://pl.wikipedia.org/wiki/Gzik",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-czernina",
+    "name": "Czernina",
+    "local_name": "Czernina",
+    "pronunciation": "cher-NEE-na",
+    "category": "meal",
+    "country": "Poland",
+    "state": "Poznań & Greater Poland",
+    "regions": [
+      "Poznań"
+    ],
+    "description": "Duck blood soup: clear poultry broth with duck blood, given a sweet-sour taste with vinegar, sugar and fruit such as dried pears or plums. It is a regional dish in Poznań, Kashubia and Masuria, and was once served to rejected suitors.",
+    "how_to_eat": "Usually served with noodles, potatoes or dumplings.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Czernina",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Czernina",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  },
+  {
+    "id": "poland-kaczka-po-poznansku",
+    "name": "Poznań-style duck",
+    "local_name": "Kaczka po poznańsku",
+    "pronunciation": "KACH-ka po poz-NAN-skoo",
+    "category": "meal",
+    "country": "Poland",
+    "state": "Poznań & Greater Poland",
+    "regions": [
+      "Poznań"
+    ],
+    "description": "Roast duck served with red cabbage and steamed dumplings (pyzy); the Greater Poland version is roasted with apples. Poultry dishes like this, czernina and St. Martin's Day goose are typical of Greater Poland.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Polish_cuisine",
+      "https://pl.wikipedia.org/wiki/Kuchnia_wielkopolska",
+      "https://pl.wikipedia.org/wiki/Pyzy_(potrawa)"
+    ]
+  },
+  {
+    "id": "poland-andruty-kaliskie",
+    "name": "Andruty kaliskie",
+    "local_name": "Andruty kaliskie",
+    "pronunciation": "an-DROO-ti ka-LEES-kye",
+    "category": "sweet",
+    "country": "Poland",
+    "state": "Poznań & Greater Poland",
+    "regions": [
+      "Kalisz"
+    ],
+    "description": "Thin, lightly sweet wafers made from flour, sugar and oil, baked in Kalisz and the surrounding region since the early 19th century. They are an EU protected geographical indication since 2009.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kalisz_andruts",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kalisz_andruts",
+      "https://pl.wikipedia.org/wiki/Andruty_kaliskie"
+    ]
+  },
+  {
+    "id": "poland-grodziskie",
+    "name": "Grodziskie",
+    "local_name": "Grodziskie",
+    "pronunciation": "gro-JEES-kye",
+    "category": "drink",
+    "country": "Poland",
+    "state": "Poznań & Greater Poland",
+    "regions": [
+      "Grodzisk Wielkopolski"
+    ],
+    "description": "A historical beer style from Grodzisk Wielkopolski, brewed from oak-smoked wheat malt: clear, golden, highly carbonated, low in alcohol and strongly smoky. Nicknamed 'Polish Champagne', it is clarified with isinglass; commercial brewing stopped in 1993 and was revived from 2010.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PLN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Grodziskie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Grodziskie",
+      "https://en.wikipedia.org/wiki/Polish_cuisine"
+    ]
+  }
+]

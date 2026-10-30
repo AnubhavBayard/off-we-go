@@ -1,6 +1,6 @@
-import { useEffect, useLayoutEffect, useState } from 'react'
+import { useEffect, useLayoutEffect, useState, type ReactNode } from 'react'
 import { Link } from 'react-router-dom'
-import { Award, Globe, Leaf, MapPin, Search, Sprout, UserRound, X } from 'lucide-react'
+import { Award, Check, ChevronDown, Globe, Leaf, MapPin, Search, Sprout, UserRound, X } from 'lucide-react'
 import { CATEGORY_LABEL, COUNTRIES, COUNTRY_CODE, dishes, imageFor, priceLabel, regionsOf, type Category } from '../data'
 import { positionIfAllowed, reverseGeocode } from '../memories'
 import { CATEGORY_ICON, DishPhoto, FoodTicker } from '../ui'
@@ -15,6 +15,7 @@ export default function Discover() {
   const [state, setState] = useState(saved.state)
   const [vegOnly, setVegOnly] = useState(saved.vegOnly)
   const [jainOnly, setJainOnly] = useState(saved.jainOnly)
+  const [picking, setPicking] = useState<'country' | 'region' | null>(null)
   useEffect(() => { Object.assign(saved, { q, category, country, state, vegOnly, jainOnly }) }, [q, category, country, state, vegOnly, jainOnly])
 
   // Once per session: start in the country the traveller is in, if we cover it and location is already allowed.
@@ -71,23 +72,39 @@ export default function Discover() {
         <input className="search" placeholder="Search dishes" value={q} onChange={(e) => setQ(e.target.value)} />
       </label>
       <div className="pickers">
-        <label className="input-icon">
-          <Globe size={18} aria-hidden />
-          <select value={country} onChange={(e) => { setCountry(e.target.value); setState(''); if (e.target.value && e.target.value !== 'India') setJainOnly(false) }} aria-label="Country">
-            <option value="">All countries</option>
-            {COUNTRIES.map((c) => <option key={c} value={c}>{c}</option>)}
-          </select>
-        </label>
+        <button type="button" className="picker" onClick={() => setPicking('country')}>
+          <span className="picker-icon">{country ? flag(country) : <Globe size={18} />}</span>
+          <span className="picker-text"><small>Country</small>{country || 'All countries'}</span>
+          <ChevronDown size={18} aria-hidden />
+        </button>
         {country && (
-          <label className="input-icon">
-            <MapPin size={18} aria-hidden />
-            <select value={state} onChange={(e) => setState(e.target.value)} aria-label="Region">
-              <option value="">All of {country}</option>
-              {regionsOf(country).map((s) => <option key={s} value={s}>{s}</option>)}
-            </select>
-          </label>
+          <button type="button" className="picker" onClick={() => setPicking('region')}>
+            <span className="picker-icon"><MapPin size={18} /></span>
+            <span className="picker-text"><small>Region</small>{state || `All of ${country}`}</span>
+            <ChevronDown size={18} aria-hidden />
+          </button>
         )}
       </div>
+      {picking === 'country' && (
+        <PickerSheet
+          title="Pick a country" searchable value={country} onClose={() => setPicking(null)}
+          options={[
+            { value: '', label: 'All countries', icon: <Globe size={20} />, count: dishes.length },
+            ...COUNTRIES.map((c) => ({ value: c, label: c, icon: flag(c), count: dishes.filter((d) => d.country === c).length })),
+          ]}
+          onPick={(c) => { setCountry(c); setState(''); if (c && c !== 'India') setJainOnly(false) }}
+        />
+      )}
+      {picking === 'region' && (
+        <PickerSheet
+          title={`Where in ${country}?`} searchable={regionsOf(country).length > 12} value={state} onClose={() => setPicking(null)}
+          options={[
+            { value: '', label: `All of ${country}`, icon: flag(country), count: dishes.filter((d) => d.country === country).length },
+            ...regionsOf(country).map((s) => ({ value: s, label: s, icon: <MapPin size={20} />, count: dishes.filter((d) => d.country === country && d.state === s).length })),
+          ]}
+          onPick={setState}
+        />
+      )}
 
       <div className="chips">
         {categories.map((c) => {
@@ -159,6 +176,50 @@ export default function Discover() {
         ))}
       </ul>
       {dishes.length > 0 && list.length === 0 && <p className="muted">No dishes match these filters.</p>}
+    </div>
+  )
+}
+
+// Flag emoji from the ISO code: each letter maps to a regional-indicator symbol.
+const flag = (country: string) =>
+  String.fromCodePoint(...[...(COUNTRY_CODE[country] ?? '')].map((ch) => 0x1f1a5 + ch.charCodeAt(0)))
+
+type Option = { value: string; label: string; icon: ReactNode; count: number }
+
+// Bottom sheet list for the country and region pickers.
+function PickerSheet({ title, options, value, searchable, onPick, onClose }: {
+  title: string; options: Option[]; value: string; searchable?: boolean; onPick: (v: string) => void; onClose: () => void
+}) {
+  const [q, setQ] = useState('')
+  const shown = options.filter((o) => o.label.toLowerCase().includes(q.trim().toLowerCase()))
+  return (
+    <div className="overlay picker-overlay" onClick={onClose}>
+      <div className="sheet picker-sheet" role="dialog" aria-label={title} onClick={(e) => e.stopPropagation()}>
+        <div className="sheet-grip" />
+        <div className="picker-head">
+          <h2>{title}</h2>
+          <button type="button" className="icon-btn" aria-label="Close" onClick={onClose}><X size={20} /></button>
+        </div>
+        {searchable && (
+          <label className="input-icon">
+            <Search size={18} aria-hidden />
+            <input className="search" placeholder="Search" value={q} onChange={(e) => setQ(e.target.value)} />
+          </label>
+        )}
+        <ul className="picker-list">
+          {shown.map((o) => (
+            <li key={o.value}>
+              <button type="button" className={o.value === value ? 'on' : ''} onClick={() => { onPick(o.value); onClose() }}>
+                <span className="picker-icon">{o.icon}</span>
+                <span className="picker-label">{o.label}</span>
+                <span className="muted small">{o.count}</span>
+                {o.value === value && <Check size={18} />}
+              </button>
+            </li>
+          ))}
+          {shown.length === 0 && <li className="muted">Nothing matches.</li>}
+        </ul>
+      </div>
     </div>
   )
 }

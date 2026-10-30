@@ -360,3 +360,10 @@
 - BATCH 1 DONE: 25 countries, 1,268 dishes. Installed on phone 2026-10-31 (after reconnect). Pushed.
 - Next batch candidates: Poland, Hungary, Czechia, Egypt, Australia, Brazil, Peru, Argentina, Philippines, Sri Lanka, Nepal... same method (one research agent at a time, every fact sourced, spot-check, register country in world_spec.md + COUNTRY_CODE).
 - 2026-10-31: added root README.md (project description, features, tech, layout, build, data workflow). Removed Vite template app/README.md. Committed (not pushed).
+
+## 2026-10-31: batch 2 + picker restyle
+- Batch 2: Poland, Hungary, Czechia, Egypt (registered in world_spec.md + COUNTRY_CODE; PLN, HUF, CZK, EGP). Poland research agent running.
+- User: country/region pickers look like system default; restyle to match app.
+- Poland done: 37 dishes, 6 regions (5-7). GI true 9 (obwarzanek, oscypek, bryndza, kiełbasa lisiecka, kabanosy TSG, rogal świętomarciński, andruty kaliskie, kołocz, krupnioki). Wuzetka + Grodziskie nonveg (gelatin, isinglass). Validator OK.
+- Hungary: research agent running.
+- Pickers restyled (Discover.tsx + index.css): native <select>s replaced by two pill buttons side by side (lime circle with flag emoji / pin, small uppercase label, value, chevron). Tap opens a bottom sheet (grip, title, close, search for countries; rows with flag/pin, name, dish count; current pick lime-soft with check). Slide-up/fade animation, off with reduced motion. Flags from ISO code in COUNTRY_CODE. Tested headless (Chrome CDP script scratchpad picker.mjs): country sheet, pick Japan, region sheet, pick Hokkaido; no errors. Installed on phone (photos not refetched yet for Poland).
