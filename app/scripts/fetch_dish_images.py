@@ -47,7 +47,8 @@ for host in sorted({h for h, _ in keys}):
         for m in q.get("normalized", []) + q.get("redirects", []):
             alias[host, m["from"]] = (host, m["to"])
         for p in q["pages"]:
-            if p.get("pageimage"): title_file[host, p["title"]] = (host, p["pageimage"])
+            # .svg lead images are flags/icons, never dish photos
+            if p.get("pageimage") and not p["pageimage"].lower().endswith(".svg"): title_file[host, p["title"]] = (host, p["pageimage"])
         time.sleep(1)
 
 # 2. file -> 640px thumbnail, author, licence

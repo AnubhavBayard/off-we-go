@@ -11,7 +11,7 @@
       "Hanoi",
       "Nam Định"
     ],
-    "description": "Rice noodle soup in a clear beef broth simmered with spices, topped with sliced beef or chicken (phở gà). Born in northern Vietnam, it is the country's national dish.",
+    "description": "Rice noodle soup in a clear beef broth simmered with spices, topped with sliced beef or chicken (phở gà). It emerged in Nam Định province in northern Vietnam in the early 20th century and is now eaten nationwide.",
     "how_to_eat": "Add lime, chilli and herbs to taste, and eat with chopsticks and a spoon.",
     "how_to_order": "Ask for 'phở bò' (beef) or 'phở gà' (chicken), usually as breakfast.",
     "typical_price": null,
@@ -73,7 +73,7 @@
     "regions": [
       "Hanoi"
     ],
-    "description": "Catfish marinated in turmeric, galangal and fermented rice, grilled and then finished in a hot pan with dill and spring onions. It has been served on Hanoi's Grilled Fish Lane (Chả Cá street) since the 1800s.",
+    "description": "Catfish marinated in turmeric, galangal and fermented rice, grilled over charcoal and then finished in a hot pan with dill and spring onions. The Đoàn family opened their Hanoi eatery in 1871, and its street was later renamed Grilled Fish Lane (Phố Chả Cá).",
     "how_to_eat": "Eat with rice vermicelli, herbs, peanuts and mắm tôm shrimp sauce.",
     "how_to_order": "Ask for 'chả cá' at restaurants on Chả Cá street in Hanoi's Old Quarter.",
     "typical_price": null,
@@ -106,7 +106,7 @@
     "regions": [
       "Hanoi"
     ],
-    "description": "Thin steamed rice sheets rolled around minced pork and wood ear mushroom, topped with fried shallots. It is a typical Hanoi breakfast.",
+    "description": "Thin steamed rice sheets rolled around minced pork and wood ear mushroom, topped with fried shallots. It comes from northern Vietnam and is eaten for breakfast across the country.",
     "how_to_eat": "Dip in nước chấm fish sauce with slices of chả lụa pork sausage.",
     "how_to_order": "Ask for 'bánh cuốn' at breakfast stalls where the sheets are steamed to order.",
     "typical_price": null,
@@ -123,7 +123,8 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Bánh_cuốn",
       "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
-      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine",
+      "https://vi.wikipedia.org/wiki/Bánh_cuốn"
     ]
   },
   {
@@ -135,7 +136,7 @@
     "country": "Vietnam",
     "state": "Hanoi & the North",
     "regions": [],
-    "description": "Rice vermicelli in a tomato and crab broth with a crab paste topping. It comes from the Red River Delta and is also popular in the south.",
+    "description": "Rice vermicelli in a sour tomato and crab broth with a crab paste topping, often with fried tofu. It comes from the Red River Delta and is known throughout Vietnam.",
     "how_to_eat": "Add shrimp paste, lime and herbs to taste.",
     "how_to_order": "Ask for 'bún riêu cua' (crab) at street stalls.",
     "typical_price": null,
@@ -146,14 +147,17 @@
     "spice": 1,
     "allergens": [
       "shellfish",
-      "fish"
+      "fish",
+      "soy",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bún_riêu",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Bún_riêu",
       "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
-      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine",
+      "https://vi.wikipedia.org/wiki/Bún_riêu_cua"
     ]
   },
   {
@@ -167,7 +171,7 @@
     "regions": [
       "Hanoi"
     ],
-    "description": "Robusta coffee topped with a cream of egg yolk whipped with sugar and condensed milk. It was created in Hanoi in the 1940s, when milk was scarce, and popularised by Giảng café.",
+    "description": "Robusta coffee topped with a cream of egg yolk whipped with sugar and condensed milk. It was created in Hanoi in the late 1940s, when milk was scarce, by the founder of Café Giảng.",
     "how_to_eat": "Stir the foam in gradually or eat it with a spoon first.",
     "how_to_order": "Ask for 'cà phê trứng' hot or iced at Old Quarter cafés.",
     "typical_price": null,
@@ -241,7 +245,8 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "soy"
+      "soy",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cao_lầu",
@@ -263,7 +268,7 @@
       "Đà Nẵng",
       "Hội An"
     ],
-    "description": "Wide turmeric rice noodles with a small amount of rich broth, topped with pork, chicken or shrimp, herbs, peanuts and rice crackers. It is the specialty of Quảng Nam and Đà Nẵng.",
+    "description": "Wide rice noodles with a small amount of rich, turmeric-tinted broth, topped with pork, chicken or shrimp, herbs, peanuts and sesame rice crackers. It is the specialty of Quảng Nam and Đà Nẵng.",
     "how_to_eat": "Break the rice cracker over the bowl and mix everything.",
     "how_to_order": "Ask for 'mì Quảng' with 'tôm thịt' (shrimp and pork) or 'gà' (chicken).",
     "typical_price": null,
@@ -329,7 +334,7 @@
     "regions": [
       "Huế"
     ],
-    "description": "Rice mixed with baby river clams, peanuts, pork crackling, herbs and shrimp paste, served with clam broth. It is a cheap, everyday Huế dish.",
+    "description": "Rice mixed with baby river clams, peanuts, pork crackling, herbs and shrimp paste, served with clam broth. It is a specialty of Huế.",
     "how_to_eat": "Mix everything together and sip the clam broth alongside.",
     "how_to_order": "Ask for 'cơm hến' at Huế street stalls and markets.",
     "typical_price": null,
@@ -348,7 +353,8 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Cơm_hến",
       "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
-      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine",
+      "https://vi.wikipedia.org/wiki/Cơm_hến"
     ]
   },
   {
@@ -362,7 +368,7 @@
     "regions": [
       "Huế"
     ],
-    "description": "A crispy half-moon pancake from central Vietnam made with rice batter and egg yolk, filled with shrimp, pork and bean sprouts. It is the central cousin of bánh xèo.",
+    "description": "A crispy half-moon pancake made with rice batter and egg yolk, filled with shrimp, pork and bean sprouts. It is Huế's own version of bánh xèo.",
     "how_to_eat": "Wrap pieces in herbs and dip in the accompanying sauce.",
     "how_to_order": "Ask for 'bánh khoái' at Huế street stalls.",
     "typical_price": null,
@@ -381,7 +387,8 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
       "https://en.wikipedia.org/wiki/Bánh_xèo",
-      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine",
+      "https://vi.wikipedia.org/wiki/Bánh_xèo"
     ]
   },
   {
@@ -396,7 +403,7 @@
       "Ho Chi Minh City",
       "Hội An"
     ],
-    "description": "A crusty baguette filled with pâté, cold cuts or grilled meat, pickled carrot and daikon, cucumber, coriander and chilli. A legacy of French bread, it is Vietnam's best-known street food.",
+    "description": "A crusty baguette filled with pâté, cold cuts or grilled meat, pickled carrot and daikon, cucumber, coriander and chilli. The baguette came with French colonial rule, and the filled Saigon-style sandwich became a popular street food in the 1950s.",
     "how_to_eat": "Eat on the go, straight from the paper wrapper.",
     "how_to_order": "Ask for 'bánh mì thịt' (mixed meats) at street carts.",
     "typical_price": null,
@@ -490,7 +497,7 @@
     "country": "Vietnam",
     "state": "Saigon & the South",
     "regions": [],
-    "description": "Fresh summer rolls of rice paper wrapped around rice vermicelli, shrimp, pork and herbs. They are a light southern snack.",
+    "description": "Fresh rolls of rice paper wrapped around rice vermicelli, shrimp, pork and herbs, served uncooked rather than fried. They are called gỏi cuốn in the south and nem cuốn in the north.",
     "how_to_eat": "Dip in hoisin-peanut sauce.",
     "how_to_order": "Ask for 'gỏi cuốn' at street stalls and restaurants.",
     "typical_price": null,
@@ -523,7 +530,7 @@
     "regions": [
       "Ho Chi Minh City"
     ],
-    "description": "Dark roast coffee dripped through a small metal phin filter onto sweetened condensed milk and poured over ice. It is the classic drink of Vietnamese street cafés.",
+    "description": "Dark roast coffee dripped through a small metal phin filter onto sweetened condensed milk and poured over ice. It began as a colonial-era take on café au lait, using condensed milk because fresh milk was scarce.",
     "how_to_eat": "Stir the condensed milk up from the bottom before drinking.",
     "how_to_order": "Ask for 'cà phê sữa đá'; 'cà phê đen đá' is without milk.",
     "typical_price": null,
@@ -552,7 +559,7 @@
     "country": "Vietnam",
     "state": "Saigon & the South",
     "regions": [],
-    "description": "A family of sweet dessert soups and puddings made with beans, jellies, tapioca, fruit and coconut milk, served hot or over ice. Chè is sold at dessert stalls across the country.",
+    "description": "A family of sweet dessert soups and puddings made with beans, jellies, tapioca, fruit and coconut milk, served hot or over ice. Chè is made at home and also sold ready-made in cups.",
     "how_to_eat": "Stir the layers together and eat with a spoon.",
     "how_to_order": "Point at the toppings you want at a chè stall.",
     "typical_price": null,
@@ -582,7 +589,7 @@
       "Mỹ Tho",
       "Cần Thơ"
     ],
-    "description": "A noodle soup of Teochew and Cambodian origin with a pork-bone broth; hủ tiếu Mỹ Tho is topped with seafood, while hủ tiếu Nam Vang is Phnom Penh style. It is a southern breakfast staple.",
+    "description": "A noodle soup of Teochew origin with a pork-bone broth; hủ tiếu Mỹ Tho is topped with seafood, while hủ tiếu Nam Vang is Phnom Penh style. It is a southern breakfast dish.",
     "how_to_eat": "Season with lime, chilli and herbs; it can also be ordered dry with broth on the side.",
     "how_to_order": "Ask for 'hủ tiếu Mỹ Tho' or 'hủ tiếu Nam Vang', 'nước' (soup) or 'khô' (dry).",
     "typical_price": null,
@@ -594,14 +601,16 @@
     "allergens": [
       "shellfish",
       "fish",
-      "soy"
+      "soy",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hủ_tiếu",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Hủ_tiếu",
       "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
-      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine",
+      "https://vi.wikipedia.org/wiki/Hủ_tiếu"
     ]
   },
   {
@@ -642,7 +651,7 @@
     "country": "Vietnam",
     "state": "Mekong Delta",
     "regions": [],
-    "description": "A hot and sour soup with tamarind, pineapple, tomato, okra and bean sprouts, usually with fish. It is a Mekong Delta favourite.",
+    "description": "A hot and sour soup with tamarind, pineapple, tomato, okra and bean sprouts, usually with fish. It originates from the Mekong Delta.",
     "how_to_eat": "Eat with rice, often alongside cá kho tộ.",
     "how_to_order": "Ask for 'canh chua cá lóc' (with snakehead fish).",
     "typical_price": null,
@@ -670,11 +679,8 @@
     "category": "meal",
     "country": "Vietnam",
     "state": "Mekong Delta",
-    "regions": [
-      "Sóc Trăng",
-      "Trà Vinh"
-    ],
-    "description": "Rice vermicelli in a pungent broth made from fermented fish, topped with seafood and pork. It is a specialty of the Khmer-influenced provinces of Sóc Trăng and Trà Vinh.",
+    "regions": [],
+    "description": "Rice vermicelli in a pungent broth made from fermented fish, topped with seafood and pork. Of Cambodian origin, it is a specialty of the Mekong Delta.",
     "how_to_eat": "Add the raw vegetables and herbs served alongside.",
     "how_to_order": "Ask for 'bún mắm' at Mekong Delta noodle shops.",
     "typical_price": null,
@@ -692,7 +698,8 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Bún_mắm",
       "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
-      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine",
+      "https://vi.wikipedia.org/wiki/Bún_mắm"
     ]
   },
   {
@@ -706,7 +713,7 @@
     "regions": [
       "Sóc Trăng"
     ],
-    "description": "A flaky Teochew-style pastry filled with mung bean paste and durian, sometimes with salted egg yolk. It is the signature sweet of Sóc Trăng province.",
+    "description": "A flaky Teochew-style pastry made with lard and filled with mung bean paste and durian, sometimes with salted egg yolk. It is a specialty of Sóc Trăng.",
     "how_to_eat": "Eat with hot tea.",
     "how_to_order": "Buy boxes of 'bánh pía' from bakeries in Sóc Trăng.",
     "typical_price": null,
@@ -724,7 +731,8 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Bánh_pía",
       "https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes",
-      "https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+      "https://en.wikipedia.org/wiki/Vietnamese_cuisine",
+      "https://vi.wikipedia.org/wiki/Bánh_pía"
     ]
   }
 ]

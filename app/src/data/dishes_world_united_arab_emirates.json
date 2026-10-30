@@ -8,7 +8,7 @@
     "country": "United Arab Emirates",
     "state": "Abu Dhabi",
     "regions": [],
-    "description": "Rice cooked in a spiced broth with chicken, lamb or fish (hammour or kingfish) and loomi (dried lime). It is the best-known Emirati dish, often compared to biryani.",
+    "description": "Rice cooked in a spiced broth with chicken, lamb or fish (hammour or kingfish) and loomi (dried lime). Known across the Gulf as kabsa or machboos, it is served at Emirati family gatherings and is often compared to biryani.",
     "how_to_eat": "Eat with the meat on top of the rice, ideally shared from one platter.",
     "how_to_order": "Ask for 'machboos' with chicken, lamb or fish at Emirati restaurants.",
     "typical_price": null,
@@ -115,13 +115,13 @@
   {
     "id": "united_arab_emirates-luqaimat",
     "name": "Luqaimat",
-    "local_name": null,
+    "local_name": "لقيمات",
     "pronunciation": "loo-gai-MAT",
     "category": "sweet",
     "country": "United Arab Emirates",
     "state": "Abu Dhabi",
     "regions": [],
-    "description": "Small dough balls fried crisp outside and soft inside, drizzled with date syrup and sprinkled with sesame. It is the most popular traditional Emirati dessert, especially in Ramadan.",
+    "description": "Small dough balls fried crisp outside and soft inside, drizzled with date syrup or honey and sometimes rolled in sesame. They are eaten hot and are especially popular in Ramadan.",
     "how_to_eat": "Eat hot, with Arabic coffee.",
     "how_to_order": "Buy a portion from Emirati restaurants or the stalls at Global Village.",
     "typical_price": null,
@@ -139,7 +139,8 @@
     "source_urls": [
       "https://visitabudhabi.ae/en/plan-your-trip/article-hub/emirati-cuisine-the-dishes-to-try-and-where-to-try-them",
       "https://en.wikipedia.org/wiki/Emirati_cuisine",
-      "https://whatson.ae/2025/08/a-to-z-food-guide-iconic-foods-in-uae-you-have-to-try/"
+      "https://whatson.ae/2025/08/a-to-z-food-guide-iconic-foods-in-uae-you-have-to-try/",
+      "https://ar.wikipedia.org/wiki/لقيمات"
     ]
   },
   {
@@ -232,7 +233,7 @@
   {
     "id": "united_arab_emirates-gahwa",
     "name": "Gahwa",
-    "local_name": null,
+    "local_name": "قهوة",
     "pronunciation": "GAH-wa",
     "category": "drink",
     "country": "United Arab Emirates",
@@ -267,7 +268,7 @@
     "regions": [
       "Dubai"
     ],
-    "description": "A milk chocolate bar filled with pistachio-tahini cream and crunchy chopped kadayif. It was created in Dubai in 2021 by Fix Dessert Chocolatier and went viral worldwide in 2024.",
+    "description": "A milk chocolate bar filled with pistachio-tahini cream and crunchy chopped kadayif, inspired by knafeh. It was devised in 2021 and first sold in 2022 by Dubai's Fix Dessert Chocolatier, and went viral worldwide in 2024.",
     "how_to_eat": "Break it to hear the crunch of the kadayif filling.",
     "how_to_order": "Buy from chocolatiers and cafés in Dubai.",
     "typical_price": null,
@@ -292,7 +293,7 @@
   {
     "id": "united_arab_emirates-karak-chai",
     "name": "Karak Chai",
-    "local_name": null,
+    "local_name": "شاي كرك",
     "pronunciation": "KA-rak chai",
     "category": "drink",
     "country": "United Arab Emirates",
@@ -300,9 +301,9 @@
     "regions": [
       "Dubai"
     ],
-    "description": "Strong black tea boiled with milk and sugar, a drink that came to the Gulf with South Asian migrants. It is the everyday drink of the UAE, sold cheaply at cafeterias.",
+    "description": "Strong black tea boiled with milk and sugar, a drink popularised in the Gulf by South Asian migrants. It is a UAE staple, sold cheaply at cafeterias and drive-up counters.",
     "how_to_eat": "Drink hot, often right in the car from a drive-up cafeteria.",
-    "how_to_order": "Ask for 'karak' at any cafeteria; it is typically 1-2.50 AED a cup.",
+    "how_to_order": "Ask for 'karak' at any cafeteria; neighbourhood cafeterias charge from about 1-2.50 AED a cup.",
     "typical_price": "1-2.50",
     "currency": "AED",
     "diet": "veg",
@@ -316,7 +317,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Masala_chai",
     "source_urls": [
       "https://gulfnews.com/things-to-do/cafes-restaurants/explore-the-best-spots-in-dubai-to-enjoy-a-classic-cup-of-karak-chai-1.500135322",
-      "https://thejuggernaut.com/karak-tea-history-indian-labor-gulf-states-south-asian-migration"
+      "https://thejuggernaut.com/karak-tea-history-indian-labor-gulf-states-south-asian-migration",
+      "https://en.wikipedia.org/wiki/Masala_chai"
     ]
   },
   {
@@ -330,7 +332,7 @@
     "regions": [
       "Dubai"
     ],
-    "description": "Spit-roasted chicken, lamb or beef shaved into pita with salad and garlic sauce or tahini. It is the UAE's favourite street food.",
+    "description": "Spit-roasted chicken, lamb or beef shaved into pita with salad and garlic sauce or tahini. Originally from the Levant, it is one of the most popular street foods in Dubai and across the UAE.",
     "how_to_eat": "Eat as a wrap on the go.",
     "how_to_order": "Ask for chicken or meat shawarma at any shawarma counter.",
     "typical_price": null,
@@ -361,7 +363,7 @@
     "regions": [
       "Ras Al Khaimah"
     ],
-    "description": "A coastal Emirati dish of minced fish or baby shark cooked with onions, garlic and spices, served with rice. It is mainly eaten in coastal Ras Al Khaimah.",
+    "description": "A coastal Emirati curry of small pieces of shark (or other local fish) cooked with onions, garlic and spices, served with rice. It is mainly eaten in coastal cities such as Ras Al Khaimah.",
     "how_to_eat": "Eat over rice.",
     "how_to_order": "Ask for 'jasheed' at Emirati seafood restaurants.",
     "typical_price": null,

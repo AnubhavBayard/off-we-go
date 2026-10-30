@@ -8,7 +8,7 @@
     "country": "Netherlands",
     "state": "Amsterdam & North Holland",
     "regions": [],
-    "description": "Small round deep-fried balls of thick meat ragout coated in breadcrumbs. They are the classic Dutch bar snack with a beer.",
+    "description": "Small round deep-fried balls of very thick meat ragout coated in breadcrumbs. Named after the bitters they were traditionally served with, they are a standard snack with drinks (borrel) in Dutch pubs.",
     "how_to_eat": "Eat dipped in mustard, letting them cool a little first.",
     "how_to_order": "Order a portion of bitterballen with drinks at a café or pub.",
     "typical_price": null,
@@ -38,7 +38,7 @@
     "country": "Netherlands",
     "state": "Amsterdam & North Holland",
     "regions": [],
-    "description": "A cylinder of beef or veal ragout coated in breadcrumbs and deep-fried. It is a Dutch fast-food staple sold from snack bars and wall vending machines.",
+    "description": "A cylinder of beef or veal ragout coated in breadcrumbs and deep-fried. It is a Dutch fast-food staple sold in snack bars and by street vendors, often on a bread roll.",
     "how_to_eat": "Eat on a soft bread roll with mustard ('broodje kroket').",
     "how_to_order": "Ask for a 'broodje kroket' at a snack bar.",
     "typical_price": null,
@@ -96,7 +96,7 @@
     "country": "Netherlands",
     "state": "Amsterdam & North Holland",
     "regions": [],
-    "description": "Mashed potatoes mixed with vegetables, such as kale (boerenkool) or sauerkraut. It is the classic Dutch winter comfort food.",
+    "description": "Potatoes mashed with one or more vegetables, such as kale (boerenkool) or sauerkraut, often with bacon pieces mixed in. It is traditionally a winter dish, usually served with smoked sausage (rookworst).",
     "how_to_eat": "Eat with smoked sausage and gravy.",
     "how_to_order": "Ask for 'stamppot boerenkool met rookworst' in winter.",
     "typical_price": null,
@@ -112,6 +112,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stamppot",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Stamppot",
+      "https://nl.wikipedia.org/wiki/Stamppot",
       "https://en.wikipedia.org/wiki/Dutch_cuisine"
     ]
   },
@@ -124,7 +125,7 @@
     "country": "Netherlands",
     "state": "Amsterdam & North Holland",
     "regions": [],
-    "description": "A very thick soup of split peas with pork, celeriac and leeks, finished with slices of smoked sausage (rookworst). Also called snert, it is the classic Dutch winter dish, traditionally said to be thick enough to stand a spoon in.",
+    "description": "A very thick soup of split peas with pork, celeriac and leeks, finished with slices of smoked sausage (rookworst). Also called snert, it is traditionally eaten in winter and is said to be thick enough to stand a spoon in.",
     "how_to_eat": "Eat with rye bread.",
     "how_to_order": "Look for it on winter café menus.",
     "typical_price": null,
@@ -150,7 +151,7 @@
     "country": "Netherlands",
     "state": "Amsterdam & North Holland",
     "regions": [],
-    "description": "A deep apple pie spiced with cinnamon, often with raisins, under a lattice of crumbly pastry. It is a fixture of Dutch cafés and coffee time.",
+    "description": "An apple pie in shortcrust pastry flavoured with cinnamon and lemon juice, sometimes with raisins, under either a lattice or a crumb top. Dutch apple pie recipes go back to the Middle Ages.",
     "how_to_eat": "Eat with whipped cream.",
     "how_to_order": "Ask for 'appeltaart met slagroom' at cafés.",
     "typical_price": null,
@@ -210,7 +211,7 @@
     "country": "Netherlands",
     "state": "Amsterdam & North Holland",
     "regions": [],
-    "description": "A juniper-flavoured spirit and ancestor of gin. Jenever is a protected geographical indication of the Netherlands and Belgium.",
+    "description": "A juniper-flavoured spirit and ancestor of gin. Jenever is an EU protected geographical indication and may only be made in the Netherlands, Belgium and small parts of France and Germany.",
     "how_to_eat": "Sip from a tulip glass filled to the brim.",
     "how_to_order": "Ask for 'jonge' or 'oude' jenever at a proeflokaal.",
     "typical_price": null,
@@ -238,7 +239,7 @@
     "regions": [
       "Scheveningen"
     ],
-    "description": "Young herring, gutted but with the pancreas left in and lightly salted so its enzymes ripen the fish, eaten raw. 'Hollandse maatjesharing / Hollandse Nieuwe' is an EU Traditional Speciality Guaranteed, and the new season is celebrated each summer in Scheveningen.",
+    "description": "Herring caught in early summer before it develops roe, gutted but with the pancreas left in and lightly brined so its enzymes ripen the fish, eaten raw. 'Hollandse maatjesharing / Hollandse Nieuwe' is an EU Traditional Speciality Guaranteed, and the new season is celebrated each June on Vlaggetjesdag in Scheveningen.",
     "how_to_eat": "Hold by the tail and eat, or eat in pieces with onions and pickles.",
     "how_to_order": "Ask for a 'haring' at a herring stand.",
     "typical_price": null,
@@ -254,7 +255,9 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Soused_herring",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Soused_herring",
+      "https://nl.wikipedia.org/wiki/Hollandse_Nieuwe",
       "https://www.gov.uk/protected-food-drink-names/hollandse-maatjesharing-slash-hollandse-nieuwe-slash-hollandischer-matjes",
+      "https://nl.wikipedia.org/wiki/Vlaggetjesdag",
       "https://en.wikipedia.org/wiki/Dutch_cuisine"
     ]
   },
@@ -358,7 +361,7 @@
     "country": "Netherlands",
     "state": "South Holland & Zeeland",
     "regions": [],
-    "description": "Small, fluffy pancakes made from a yeasted batter with buckwheat flour, cooked in a special pan with shallow round dimples. They are a favourite treat at Dutch markets and fairs.",
+    "description": "Small, fluffy pancakes made from a yeasted batter of wheat and buckwheat flour, cooked in a special pan with shallow round dimples. They are sold from stands at Dutch fairs, festivals and Christmas markets.",
     "how_to_eat": "Eat with butter and powdered sugar.",
     "how_to_order": "Buy from stalls at markets and fairs.",
     "typical_price": null,
@@ -376,6 +379,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Poffertjes",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Poffertjes",
+      "https://nl.wikipedia.org/wiki/Poffertjes",
       "https://en.wikipedia.org/wiki/Dutch_cuisine"
     ]
   },
@@ -390,7 +394,7 @@
     "regions": [
       "Yerseke"
     ],
-    "description": "Mussels sold as Zeeuwse mosselen, since all Dutch mussels for consumption are cleaned in Zeeland's Oosterschelde. A pan of steamed mussels is the signature seafood meal of the province.",
+    "description": "Mussels sold as Zeeuwse mosselen, since all Dutch mussels for consumption are cleaned in Zeeland's Oosterschelde. They are commonly steamed in white wine and served in the shell with fries.",
     "how_to_eat": "Eat with fries.",
     "how_to_order": "Order a pot of mussels in Zeeland.",
     "typical_price": null,
@@ -506,7 +510,7 @@
     "regions": [
       "Friesland"
     ],
-    "description": "A white bread baked with chunks of sugar and cinnamon. It is one of the heavy, sweet breads typical of Friesland.",
+    "description": "A white bread baked with lumps of sugar and flavoured with cinnamon, sometimes ginger. It is especially associated with Friesland, where it was traditionally given as a present after a baby's birth.",
     "how_to_eat": "Eat sliced and buttered.",
     "how_to_order": "Buy from Frisian bakeries.",
     "typical_price": null,
@@ -523,6 +527,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Suikerbrood",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Suikerbrood",
+      "https://nl.wikipedia.org/wiki/Fries_suikerbrood",
       "https://en.wikipedia.org/wiki/Dutch_cuisine"
     ]
   },
@@ -537,8 +542,8 @@
     "regions": [
       "Groningen"
     ],
-    "description": "A spiced rye cake (kruidkoek) flavoured with spices such as cinnamon and cloves. It is the best-known example of the spiced cakes of the north-east.",
-    "how_to_eat": "Eat sliced with butter.",
+    "description": "A spiced sliced cake (kruidkoek) from Groningen made mainly from rye and syrup, often filled with candied citrus peel (sukade). It resembles ontbijtkoek and is mainly eaten with coffee.",
+    "how_to_eat": "Eat a slice with coffee.",
     "how_to_order": "Buy from bakeries in Groningen.",
     "typical_price": null,
     "currency": "EUR",
@@ -550,8 +555,9 @@
       "gluten"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://nl.wikipedia.org/wiki/Groninger_koek",
     "source_urls": [
+      "https://nl.wikipedia.org/wiki/Groninger_koek",
       "https://en.wikipedia.org/wiki/Dutch_cuisine"
     ]
   },
@@ -582,8 +588,9 @@
       "dairy"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://nl.wikipedia.org/wiki/Eierbal_(snack)",
     "source_urls": [
+      "https://nl.wikipedia.org/wiki/Eierbal_(snack)",
       "https://en.wikipedia.org/wiki/Dutch_cuisine"
     ]
   },
@@ -626,7 +633,7 @@
     "regions": [
       "North Brabant"
     ],
-    "description": "A soft bread roll baked around spiced minced pork. It is a beloved snack in North Brabant and is on the Dutch national inventory of intangible cultural heritage.",
+    "description": "A soft white bread roll baked around a sausage of spiced minced meat. It is a beloved snack in North Brabant and is on the Dutch national inventory of intangible cultural heritage.",
     "how_to_eat": "Eat warm.",
     "how_to_order": "Buy from Brabant bakeries.",
     "typical_price": null,
@@ -639,8 +646,9 @@
       "gluten"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://nl.wikipedia.org/wiki/Brabants_worstenbroodje",
     "source_urls": [
+      "https://nl.wikipedia.org/wiki/Brabants_worstenbroodje",
       "https://en.wikipedia.org/wiki/Dutch_cuisine"
     ]
   },
@@ -687,7 +695,7 @@
     "regions": [
       "Limburg"
     ],
-    "description": "A round tart with a yeast-dough base and a generous fruit or custard filling, often under a lattice. 'Limburgse vlaai' became an EU Protected Geographical Indication in 2024 for vlaai baked in Dutch and Belgian Limburg.",
+    "description": "A round tart with a yeast-dough base and a fruit, crumble or rice-custard filling. 'Limburgse vlaai' became an EU Protected Geographical Indication in 2024 for vlaai baked in Dutch and Belgian Limburg.",
     "how_to_eat": "Eat a slice with coffee.",
     "how_to_order": "Buy from bakeries in Limburg.",
     "typical_price": null,
@@ -766,6 +774,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Trappist_beer",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Trappist_beer",
+      "https://en.wikipedia.org/wiki/De_Koningshoeven_Brewery",
       "https://en.wikipedia.org/wiki/Dutch_cuisine"
     ]
   }

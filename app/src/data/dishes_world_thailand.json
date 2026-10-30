@@ -7,10 +7,8 @@
     "category": "street_food",
     "country": "Thailand",
     "state": "Bangkok & Central",
-    "regions": [
-      "Bangkok"
-    ],
-    "description": "Stir-fried rice noodles with egg, tamarind, fish sauce, sugar, bean sprouts and usually shrimp, topped with crushed peanuts and lime. It is Thailand's best-known noodle dish abroad and a staple of Bangkok street stalls.",
+    "regions": [],
+    "description": "Stir-fried rice noodles with egg, tofu, tamarind, fish sauce, dried shrimp, garlic and shallots, served with lime wedges, bean sprouts and often crushed peanuts; fresh shrimp, other seafood or meat may be added. Created in the mid-20th century, it has become one of Thailand's national dishes and a common street food.",
     "how_to_eat": "Squeeze over the lime and add chilli flakes, sugar or fish sauce from the table caddy to taste.",
     "how_to_order": "Ask for 'phat thai kung' (with shrimp) at street woks and night markets.",
     "typical_price": null,
@@ -23,7 +21,8 @@
       "peanuts",
       "egg",
       "shellfish",
-      "fish"
+      "fish",
+      "soy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pad_thai",
@@ -42,7 +41,7 @@
     "country": "Thailand",
     "state": "Bangkok & Central",
     "regions": [],
-    "description": "A hot and sour soup of lemongrass, galangal, kaffir lime leaves, chillies and lime juice, usually made with prawns. It is one of the signature dishes of Central Thai cooking.",
+    "description": "A hot and sour prawn soup flavoured with lemongrass, galangal, kaffir lime leaves, chillies, fish sauce and lime juice. A Central Thai dish eaten all over the country, it comes clear (nam sai) or creamy (nam khon) and was inscribed by UNESCO as intangible cultural heritage in 2024.",
     "how_to_eat": "Eat with steamed jasmine rice; the herbs are for flavour and are usually left aside.",
     "how_to_order": "Ask for 'tom yam kung', either 'nam sai' (clear) or 'nam khon' (creamy).",
     "typical_price": null,
@@ -59,6 +58,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tom_yum",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Tom_yum",
+      "https://th.wikipedia.org/wiki/ต้มยำกุ้ง",
       "https://en.wikipedia.org/wiki/List_of_Thai_dishes",
       "https://en.wikipedia.org/wiki/Thai_cuisine"
     ]
@@ -72,7 +72,7 @@
     "country": "Thailand",
     "state": "Bangkok & Central",
     "regions": [],
-    "description": "Kaeng khiao wan is a coconut-milk curry made with green chilli paste and Thai basil, usually with chicken, beef or fish balls. It is a classic Central Thai curry.",
+    "description": "Kaeng khiao wan is a coconut-milk curry made with green chilli paste (which includes shrimp paste), fish sauce, palm sugar, Thai eggplants and basil, traditionally with fish, fish balls or meat. It originated in central Thailand in the early 20th century.",
     "how_to_eat": "Spoon over steamed jasmine rice or eat with khanom chin rice noodles.",
     "how_to_order": "Ask for 'kaeng khiao wan kai' (chicken) at curry-and-rice shops.",
     "typical_price": null,
@@ -102,7 +102,7 @@
     "country": "Thailand",
     "state": "Bangkok & Central",
     "regions": [],
-    "description": "Minced or sliced meat or seafood stir-fried with holy basil, garlic and bird's eye chilli, seasoned with fish sauce and soy sauce. It is one of Thailand's most common one-plate meals.",
+    "description": "Meat such as pork, chicken or beef, or seafood, stir-fried with holy basil, garlic and bird's eye chilli and seasoned with soy sauce, fish sauce and sugar. It is one of the most popular dishes in Thailand, eaten with rice and optionally topped with a fried egg.",
     "how_to_eat": "Eat over rice, ideally with a crispy fried egg on top.",
     "how_to_order": "Ask for 'khao phat kaphrao mu' (pork) and add 'khai dao' for a fried egg.",
     "typical_price": null,
@@ -114,6 +114,7 @@
     "allergens": [
       "fish",
       "soy",
+      "gluten",
       "egg"
     ],
     "gi_tag": false,
@@ -133,7 +134,7 @@
     "country": "Thailand",
     "state": "Bangkok & Central",
     "regions": [],
-    "description": "Thai version of Hainanese chicken rice: poached chicken served on rice cooked in chicken fat and garlic, with a cup of broth and a ginger, chilli and fermented soybean sauce.",
+    "description": "Thailand's version of Hainanese chicken rice (the name means 'chicken oily rice'): poached chicken on rice cooked with chicken fat, served with cucumber, a bowl of clear chicken broth and a sauce of fermented soybean paste, thick soy sauce, chilli, ginger, garlic and vinegar.",
     "how_to_eat": "Pour the sauce over the chicken and sip the broth between bites.",
     "how_to_order": "Look for stalls with whole poached chickens hanging in the window.",
     "typical_price": null,
@@ -143,7 +144,8 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "soy"
+      "soy",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hainanese_chicken_rice",
@@ -165,7 +167,7 @@
       "Bangkok",
       "Ayutthaya"
     ],
-    "description": "Kuai tiao ruea are rice noodles with pork or beef in a dark, rich broth spiced with cinnamon and star anise, often thickened with blood. Once sold from boats on the canals, they come in small bowls.",
+    "description": "Kuaitiao ruea are noodles with pork and beef in a strong, dark broth of dark soy sauce, pickled bean curd, cinnamon and spices, thickened with pig or cow blood. Once sold from boats on Bangkok's canals, they still come in small bowls.",
     "how_to_eat": "Order several small bowls and season with chilli, vinegar and sugar.",
     "how_to_order": "Ask for 'kuai tiao ruea' with 'mu' (pork) or 'nuea' (beef).",
     "typical_price": null,
@@ -176,7 +178,8 @@
     "spice": 2,
     "allergens": [
       "fish",
-      "soy"
+      "soy",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Boat_noodles",
@@ -195,7 +198,7 @@
     "country": "Thailand",
     "state": "Bangkok & Central",
     "regions": [],
-    "description": "Khao niao mamuang is sticky rice soaked in sweetened, salted coconut milk and served with ripe yellow mango, sometimes topped with roasted mung beans or sesame. It is a popular street dessert, best in the April-May mango season.",
+    "description": "Khao niao mamuang is sticky rice cooked with sweetened, salted coconut milk and served with ripe mango, sometimes topped with roasted mung beans or toasted sesame seeds. A common Thai street dessert, it is mostly eaten in the peak mango season of April and May.",
     "how_to_eat": "Eat the mango and rice together, with extra coconut cream poured over.",
     "how_to_order": "Ask for 'khao niao mamuang' at dessert stalls and markets.",
     "typical_price": null,
@@ -204,7 +207,9 @@
     "jain": false,
     "vegan": true,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "sesame"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mango_sticky_rice",
     "source_urls": [
@@ -222,7 +227,7 @@
     "country": "Thailand",
     "state": "Bangkok & Central",
     "regions": [],
-    "description": "Cha yen is strong black tea brewed with spices, sweetened with sugar and condensed milk and served over ice, topped with evaporated or whole milk. It is sold everywhere in bright orange cups.",
+    "description": "Cha yen is strongly brewed black tea sweetened with sugar and condensed milk, served over ice and topped with evaporated or whole milk. Street and market stalls sell it over crushed ice in plastic bags or tall plastic cups.",
     "how_to_eat": null,
     "how_to_order": "Ask for 'cha yen' at drink stalls; 'cha dam yen' is the version without milk.",
     "typical_price": null,
@@ -253,7 +258,7 @@
     "regions": [
       "Chiang Mai"
     ],
-    "description": "A curried coconut noodle soup with boiled egg noodles, topped with crispy fried noodles, usually with chicken or beef. It is the signature dish of Chiang Mai, shared with Laos and Myanmar.",
+    "description": "A curry-like coconut-milk noodle soup with boiled and crispy fried egg noodles, usually with chicken or beef. Often called Chiang Mai's most iconic dish, it came to northern Thailand with Chin Haw Muslim traders from Yunnan.",
     "how_to_eat": "Add the pickled mustard greens, shallots and lime served on the side.",
     "how_to_order": "Ask for 'khao soi kai' (chicken) at noodle shops in Chiang Mai.",
     "typical_price": null,
@@ -284,7 +289,7 @@
     "country": "Thailand",
     "state": "Northern Thailand",
     "regions": [],
-    "description": "Fermented rice noodles in a tomato and pork broth with pork blood tofu, flavoured with dried red cotton tree flowers. It is a classic Northern Thai noodle dish.",
+    "description": "Fermented rice noodles (khanom chin) in a spicy, tangy pork or beef broth with tomatoes, blood cake and dried red cotton tree flowers, flavoured with thua nao fermented soybeans. Originally a Shan dish, it is a Lanna favourite served at banquets and special occasions.",
     "how_to_eat": "Eat with the fresh herbs, beansprouts and cabbage served alongside.",
     "how_to_order": "Ask for 'khanom chin nam ngiao' at northern noodle stalls.",
     "typical_price": null,
@@ -315,7 +320,7 @@
     "regions": [
       "Chiang Mai"
     ],
-    "description": "A grilled sausage of fatty minced pork mixed with lemongrass, galangal, kaffir lime leaves, chillies and garlic. It is a hallmark of Northern Thai and Lao cooking.",
+    "description": "A grilled sausage of coarsely chopped fatty pork seasoned with lemongrass, galangal, kaffir lime leaves, shallots, chillies, garlic, sticky rice and fish sauce. Originating in Laos, it is a staple of northern Thailand, where it is also called Chiang Mai sausage.",
     "how_to_eat": "Eat in slices with sticky rice and fresh vegetables.",
     "how_to_order": "Buy by the coil or slice at northern markets.",
     "typical_price": null,
@@ -344,7 +349,7 @@
     "country": "Thailand",
     "state": "Northern Thailand",
     "regions": [],
-    "description": "A chunky dip of roasted young green chillies, shallots and garlic pounded together. It is a staple Northern Thai relish.",
+    "description": "A paste of pounded roasted large green chillies, shallots and garlic with coriander leaves, lime juice and fish sauce. Of Lao origin, it is a classic Northern Thai dip.",
     "how_to_eat": "Scoop with sticky rice, boiled vegetables or pork crackling (khaep mu).",
     "how_to_order": "Buy in bags at northern markets, often sold with pork crackling.",
     "typical_price": null,
@@ -373,8 +378,8 @@
     "country": "Thailand",
     "state": "Northern Thailand",
     "regions": [],
-    "description": "A Burmese-influenced stewed pork curry with peanuts, tamarind and dried chillies, made without coconut milk. It is a festive Northern Thai curry.",
-    "how_to_eat": "Eat with sticky rice or steamed rice.",
+    "description": "A rich, Burmese-origin pork belly curry made with a paste including shrimp paste, a dried-spice masala, black soy sauce, fish sauce, ginger, pickled garlic and peanuts. It is a festive dish and a specialty of northern Thailand.",
+    "how_to_eat": "Eat with steamed long-grain rice rather than sticky rice.",
     "how_to_order": "Ask for 'kaeng hang le' at northern curry shops.",
     "typical_price": null,
     "currency": "THB",
@@ -383,11 +388,18 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "peanuts"
+      "peanuts",
+      "shellfish",
+      "fish",
+      "soy",
+      "gluten",
+      "sesame",
+      "mustard"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kaeng_hang_le",
     "source_urls": [
+      "https://en.wikipedia.org/wiki/Kaeng_hang_le",
       "https://en.wikipedia.org/wiki/List_of_Thai_dishes",
       "https://en.wikipedia.org/wiki/Thai_cuisine"
     ]
@@ -401,7 +413,7 @@
     "country": "Thailand",
     "state": "Northern Thailand",
     "regions": [],
-    "description": "A Northern Thai curry of young jackfruit cooked with pork and tomatoes.",
+    "description": "A Northern Thai curry of young jackfruit, usually with pork, tomatoes and cha-om leaves, in a paste of dried chillies, shrimp paste, shallots, garlic, galangal and lemongrass. Its name is considered lucky, so it is cooked for the northern New Year and at weddings.",
     "how_to_eat": "Eat with sticky rice.",
     "how_to_order": "Look for it at northern rice-and-curry stalls.",
     "typical_price": null,
@@ -411,11 +423,13 @@
     "vegan": false,
     "spice": 2,
     "allergens": [
-      "fish"
+      "fish",
+      "shellfish"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://th.wikipedia.org/wiki/แกงขนุน",
     "source_urls": [
+      "https://th.wikipedia.org/wiki/แกงขนุน",
       "https://en.wikipedia.org/wiki/List_of_Thai_dishes",
       "https://en.wikipedia.org/wiki/Thai_cuisine"
     ]
@@ -429,7 +443,7 @@
     "country": "Thailand",
     "state": "Isan (Northeast)",
     "regions": [],
-    "description": "Green papaya salad pounded in a mortar with chillies, lime, fish sauce, palm sugar, tomatoes and dried shrimp; the Central version adds peanuts, while Isan versions use fermented fish. It is the most famous dish of the Northeast.",
+    "description": "Green papaya salad pounded in a mortar with chillies, lime, fish sauce and palm sugar; the Central Thai version adds peanuts and dried shrimp, while Isan versions use pickled crab or pla ra fermented fish. Believed to be of Lao origin, it spread through Thailand from Isan.",
     "how_to_eat": "Eat with sticky rice and grilled chicken.",
     "how_to_order": "Ask for 'som tam Thai' (milder, with peanuts) or 'som tam pu pla ra' (Isan style) and say how many chillies.",
     "typical_price": null,
@@ -460,7 +474,7 @@
     "country": "Thailand",
     "state": "Isan (Northeast)",
     "regions": [],
-    "description": "A spicy, sour salad of minced meat with lime, fish sauce, chillies, herbs and toasted ground rice. It is a signature dish of Isan and Laos.",
+    "description": "A spicy, sour salad of minced meat with lime, fish sauce, chillies, mint and toasted ground rice. Of Lao origin, it is eaten across Isan and northern Thailand.",
     "how_to_eat": "Eat with sticky rice and raw vegetables.",
     "how_to_order": "Ask for 'lap mu' (pork) or 'lap kai' (chicken) at Isan restaurants.",
     "typical_price": null,
@@ -489,7 +503,7 @@
     "country": "Thailand",
     "state": "Isan (Northeast)",
     "regions": [],
-    "description": "Marinated grilled chicken shared by Lao and Thai cooking. It is a pillar of Isan street food.",
+    "description": "Grilled chicken, often halved and flattened, marinated in fish sauce, garlic, turmeric, coriander root and white pepper. Shared by Lao and Thai cooking, it is a staple of street markets.",
     "how_to_eat": "Dip in jaew chilli sauce and eat with som tam and sticky rice.",
     "how_to_order": "Buy by the half or whole bird from charcoal grills.",
     "typical_price": null,
@@ -500,7 +514,8 @@
     "spice": 1,
     "allergens": [
       "fish",
-      "soy"
+      "soy",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kai_yang",
@@ -575,7 +590,7 @@
     "country": "Thailand",
     "state": "Isan (Northeast)",
     "regions": [],
-    "description": "Glutinous rice steamed in bamboo baskets, the daily staple of northern and northeastern Thailand. It is served with almost every Isan meal.",
+    "description": "Glutinous rice, soaked and steamed, is the staple of Isan and northern Thailand. It is served in small woven baskets and eaten with almost every Isan meal.",
     "how_to_eat": "Roll a small ball with your fingers and use it to scoop up food.",
     "how_to_order": "Ask for 'khao niao'; it comes in small woven baskets.",
     "typical_price": null,
@@ -601,8 +616,10 @@
     "category": "meal",
     "country": "Thailand",
     "state": "Southern Thailand",
-    "regions": [],
-    "description": "A thick, very spicy turmeric curry made with tai pla, a pungent sauce of fermented fish innards, plus shrimp paste and vegetables. It is one of the most typical Southern Thai dishes.",
+    "regions": [
+      "Phatthalung"
+    ],
+    "description": "A very spicy curry flavoured with tai pla, a salty sauce of fermented fish entrails, plus shrimp paste, turmeric, chillies and vegetables such as bamboo shoots and eggplant, usually with fish. It is a famous dish of Phatthalung Province, also found across the South.",
     "how_to_eat": "Eat with rice and plenty of fresh vegetables.",
     "how_to_order": "Ask for 'kaeng tai pla' at southern curry-and-rice shops.",
     "typical_price": null,
@@ -662,7 +679,7 @@
     "country": "Thailand",
     "state": "Southern Thailand",
     "regions": [],
-    "description": "A very spicy dry-fried curry of minced meat with curry paste and shredded kaffir lime leaves. It is a Southern Thai classic.",
+    "description": "A very spicy dry-fried curry of chopped meat (usually beef, chicken or pork) in a southern curry paste of dried chillies, black pepper, garlic, galangal, lemongrass, turmeric and shrimp paste, served with shredded kaffir lime leaves. It comes from Southern Thailand.",
     "how_to_eat": "Eat with rice and raw vegetables to cool the heat.",
     "how_to_order": "Ask for 'khua kling mu' (pork) or 'khua kling nuea' (beef).",
     "typical_price": null,
@@ -675,9 +692,11 @@
       "shellfish"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khua_kling",
     "source_urls": [
+      "https://en.wikipedia.org/wiki/Khua_kling",
       "https://en.wikipedia.org/wiki/List_of_Thai_dishes",
+      "https://th.wikipedia.org/wiki/คั่วกลิ้ง",
       "https://en.wikipedia.org/wiki/Thai_cuisine"
     ]
   },
@@ -690,7 +709,7 @@
     "country": "Thailand",
     "state": "Southern Thailand",
     "regions": [],
-    "description": "A Southern Thai rice salad of rice with toppings such as toasted coconut, herbs, dried shrimp and a fermented fish sauce called budu, served unmixed.",
+    "description": "A Southern Thai rice salad of rice with toppings such as toasted coconut, pomelo, bean sprouts, lime leaves and dried shrimp, dressed with budu, a fermented fish sauce.",
     "how_to_eat": "Pour over the sauce and mix everything together before eating.",
     "how_to_order": "Ask for 'khao yam' at southern breakfast stalls and markets.",
     "typical_price": null,
@@ -704,8 +723,9 @@
       "shellfish"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://th.wikipedia.org/wiki/ข้าวยำ",
     "source_urls": [
+      "https://th.wikipedia.org/wiki/ข้าวยำ",
       "https://en.wikipedia.org/wiki/List_of_Thai_dishes",
       "https://en.wikipedia.org/wiki/Thai_cuisine"
     ]
@@ -719,7 +739,7 @@
     "country": "Thailand",
     "state": "Southern Thailand",
     "regions": [],
-    "description": "A rich, mild coconut curry with roasted dry spices, potatoes and peanuts, usually with beef or chicken. It comes from Thailand's Muslim cooking tradition.",
+    "description": "A rich coconut-milk curry with potatoes, onions and peanuts, most often with chicken, whose paste combines dried spices such as cardamom, cinnamon and cloves with shrimp paste and lemongrass. Its name comes from the Persian word for 'Muslim', reflecting the dish's Muslim roots.",
     "how_to_eat": "Eat with rice or roti.",
     "how_to_order": "Ask for 'kaeng matsaman' with 'kai' (chicken) or 'nuea' (beef).",
     "typical_price": null,
@@ -730,7 +750,8 @@
     "spice": 1,
     "allergens": [
       "peanuts",
-      "fish"
+      "fish",
+      "shellfish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Massaman_curry",

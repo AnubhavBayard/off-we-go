@@ -10,7 +10,7 @@
     "regions": [
       "Belém"
     ],
-    "description": "A crisp puff-pastry tart filled with egg custard, often dusted with cinnamon. Originally sold as Pastéis de Belém near the Jerónimos Monastery, it is Portugal's best-known pastry.",
+    "description": "A crisp puff-pastry tart filled with egg custard, often dusted with cinnamon. It was inspired by the pastéis de Belém first made by monks at the Jerónimos Monastery in Lisbon, and was voted one of Portugal's Seven Wonders of Gastronomy in 2011.",
     "how_to_eat": "Eat warm, sprinkled with cinnamon and icing sugar, with a bica.",
     "how_to_order": "Ask for 'um pastel de nata' at any pastelaria, or 'pastéis de Belém' in Belém.",
     "typical_price": null,
@@ -40,7 +40,7 @@
     "country": "Portugal",
     "state": "Lisbon and Sintra",
     "regions": [],
-    "description": "Shredded salt cod with onions and matchstick fried potatoes, bound with scrambled eggs and topped with olives and parsley. It is one of the most popular of Portugal's many salt-cod dishes.",
+    "description": "Shredded salt cod with onions and matchstick fried potatoes, bound with eggs and topped with black olives and parsley. It is said to have originated in Lisbon's Bairro Alto in the second half of the 19th century.",
     "how_to_eat": "Eat hot, with black olives on top.",
     "how_to_order": "Order 'bacalhau à Brás' in Lisbon tascas.",
     "typical_price": null,
@@ -98,7 +98,7 @@
     "country": "Portugal",
     "state": "Lisbon and Sintra",
     "regions": [],
-    "description": "A bread roll filled with thin pork slices marinated in garlic and white wine. It is eaten all over Portugal and may have first been made in Vendas Novas.",
+    "description": "A bread roll filled with thin slices of pork simmered with garlic and wine. It is eaten all over Portugal and may have first been made in Vendas Novas.",
     "how_to_eat": "Eat by hand, with mustard and a cold beer.",
     "how_to_order": "Order 'uma bifana' at a snack bar or café counter.",
     "typical_price": null,
@@ -145,10 +145,10 @@
       "dairy"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Travesseiro_de_Sintra",
     "source_urls": [
-      "https://visitsintra.travel/en/eat-drink/regional-flavours/travesseiros",
-      "https://www.lisbontourism.org/?p=1456"
+      "https://www.lisbontourism.org/?p=1456",
+      "https://pt.wikipedia.org/wiki/Travesseiro_de_Sintra"
     ]
   },
   {
@@ -162,7 +162,7 @@
     "regions": [
       "Sintra"
     ],
-    "description": "A small tart filled with fresh cow's cheese, sugar, egg yolks, flour and cinnamon. It is older than the travesseiro and is Sintra's traditional sweet.",
+    "description": "A small tart filled with fresh cheese, sugar, eggs, flour and cinnamon in a crisp crust. Known since the 13th century, it is probably Sintra's oldest sweet and much older than the travesseiro.",
     "how_to_eat": "Eat as a snack with coffee.",
     "how_to_order": "Buy at Sintra pastry shops such as Piriquita.",
     "typical_price": null,
@@ -177,10 +177,10 @@
       "dairy"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Queijada_de_Sintra",
     "source_urls": [
-      "https://visitsintra.travel/en/eat-drink/regional-flavours/travesseiros",
-      "https://www.lisbontourism.org/?p=1456"
+      "https://www.lisbontourism.org/?p=1456",
+      "https://pt.wikipedia.org/wiki/Queijada_de_Sintra"
     ]
   },
   {
@@ -225,7 +225,7 @@
     "regions": [
       "Porto"
     ],
-    "description": "A stew of beef tripe with white beans, carrots, sausage and other meats, served with rice. It is Porto's traditional dish and gives locals their nickname 'tripeiros'.",
+    "description": "A stew of beef tripe with white beans and carrots, served with rice. It is Porto's traditional dish and gives locals their nickname 'tripeiros' (tripe eaters).",
     "how_to_eat": "Eat with white rice.",
     "how_to_order": "Order 'tripas à moda do Porto' in traditional Porto restaurants.",
     "typical_price": null,
@@ -310,7 +310,7 @@
     "regions": [
       "Minho"
     ],
-    "description": "A young, often slightly sparkling wine from the protected Vinho Verde region of the Minho. Alvarinho is its best-known white grape.",
+    "description": "A young wine, released a few months after harvest and often slightly sparkling, from the protected Vinho Verde region of the Minho. Alvarinho and Loureiro are its most successful white grapes.",
     "how_to_eat": "Drink chilled with seafood.",
     "how_to_order": "Order a bottle of 'vinho verde' in any northern restaurant.",
     "typical_price": null,
@@ -397,7 +397,7 @@
     "regions": [
       "Mealhada"
     ],
-    "description": "Roast suckling pig with crisp skin, roasted in wood-fired ovens. It is the signature dish of the Bairrada area near Mealhada.",
+    "description": "Roast suckling pig, the typical dish of the Bairrada region and one of the 7 Wonders of Portuguese Gastronomy. The first restaurant selling it opened in 1949 near Mealhada, and many more now line the old EN1 road there.",
     "how_to_eat": "Eat with orange slices, chips, salad and local sparkling wine.",
     "how_to_order": "Order at roadside 'leitão' restaurants around Mealhada.",
     "typical_price": null,
@@ -408,9 +408,10 @@
     "spice": 1,
     "allergens": [],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Leitão_assado_à_Bairrada",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine",
+      "https://pt.wikipedia.org/wiki/Leitão_assado_à_Bairrada"
     ]
   },
   {
@@ -453,7 +454,7 @@
     "regions": [
       "Aveiro"
     ],
-    "description": "A sweet cream of egg yolks and sugar inside thin wafer shells shaped like fish and seashells. It has been an EU protected geographical indication since 2008-2009.",
+    "description": "A sweet cream of egg yolks and sugar inside thin wafer shells shaped like fish, shells and other nautical forms. Created by nuns in Aveiro's convents, it is an EU protected geographical indication (PGI).",
     "how_to_eat": "Eat whole, wafer and all.",
     "how_to_order": "Buy at Aveiro confectioners, often in painted wooden barrels.",
     "typical_price": null,
@@ -470,7 +471,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ovos_moles",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Ovos_moles",
-      "https://www.boe.es/doue/2009/094/L00015-00016.pdf"
+      "https://www.boe.es/doue/2009/094/L00015-00016.pdf",
+      "https://en.wikipedia.org/wiki/List_of_Portuguese_food_and_drink_products_with_protected_status"
     ]
   },
   {
@@ -484,7 +486,7 @@
     "regions": [
       "Tentúgal"
     ],
-    "description": "An ultra-thin, crisp pastry of only water and flour, filled with ovos moles egg cream. Created by Carmelite nuns in Tentúgal in the 16th century, it is an EU PGI.",
+    "description": "A paper-thin, crisp pastry of flour and water, brushed with butter and filled with ovos moles egg cream. Created by Carmelite nuns in Tentúgal, it is an EU PGI.",
     "how_to_eat": "Eat fresh, dusted with sugar.",
     "how_to_order": "Buy in Tentúgal or Coimbra pastry shops.",
     "typical_price": null,
@@ -495,13 +497,15 @@
     "spice": 0,
     "allergens": [
       "gluten",
-      "egg"
+      "egg",
+      "dairy"
     ],
     "gi_tag": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pastel_de_Tentúgal",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Pastel_de_Tentúgal",
-      "https://www.ccdrc.pt/en/?p=84195"
+      "https://pt.wikipedia.org/wiki/Pastel_de_Tentúgal",
+      "https://en.wikipedia.org/wiki/List_of_Portuguese_food_and_drink_products_with_protected_status"
     ]
   },
   {
@@ -515,7 +519,7 @@
     "regions": [
       "Ovar"
     ],
-    "description": "A moist sponge cake of eggs, sugar and flour, made without yeast or baking powder. The Ovar version, with a soft runny centre, has been an EU PGI since 2016.",
+    "description": "A moist sponge cake of eggs, sugar and flour, made without yeast or baking powder. The Ovar version, with a very moist interior, has been an EU PGI since 2016.",
     "how_to_eat": "Eat by the slice, especially at Easter.",
     "how_to_order": "Buy from bakeries in Ovar.",
     "typical_price": null,
@@ -544,7 +548,7 @@
     "country": "Portugal",
     "state": "Central Portugal",
     "regions": [],
-    "description": "A soft-to-runny sheep's milk cheese from the Serra da Estrela mountains, curdled with thistle. 'Queijo Serra da Estrela' is an EU PDO.",
+    "description": "A soft-to-runny sheep's milk cheese from the Serra da Estrela mountains, curdled with thistle rather than rennet. 'Queijo Serra da Estrela' is an EU PDO.",
     "how_to_eat": "Cut off the top rind and scoop the soft cheese with bread.",
     "how_to_order": "Buy at markets and cheese shops in the Serra da Estrela.",
     "typical_price": null,
@@ -600,7 +604,7 @@
     "country": "Portugal",
     "state": "Alentejo",
     "regions": [],
-    "description": "Cubes of pork marinated in white wine, paprika and garlic, fried and combined with clams, potatoes and coriander. It is one of Portugal's best-known pork dishes.",
+    "description": "Cubes of pork marinated in white wine, paprika and garlic, fried and combined with clams, potatoes and coriander. It is one of the most traditional and popular pork dishes in Portugal.",
     "how_to_eat": "Eat with the fried potato cubes and pickles.",
     "how_to_order": "Order it in Alentejo and Lisbon tascas.",
     "typical_price": null,
@@ -628,7 +632,7 @@
     "country": "Portugal",
     "state": "Alentejo",
     "regions": [],
-    "description": "A bread soup of stale bread with garlic, coriander, olive oil and poached eggs in hot water. It is the Alentejo's classic peasant dish.",
+    "description": "A bread soup of stale Alentejo bread with garlic, coriander, olive oil and eggs poached in hot water. It is a classic of Alentejo cuisine that began as a way to use leftover bread.",
     "how_to_eat": "Eat hot, breaking the poached egg into the bread.",
     "how_to_order": "Order 'açorda alentejana' in Alentejo restaurants.",
     "typical_price": null,
@@ -657,7 +661,7 @@
     "country": "Portugal",
     "state": "Alentejo",
     "regions": [],
-    "description": "Fried crumbs of stale bread with garlic and olive oil, a shepherds' dish. In the Alentejo it usually accompanies fried pork.",
+    "description": "Fried stale bread with garlic and olive oil, originally a shepherds' dish. In the Alentejo it is made with dense Alentejo bread and combined with pork, often chouriço and lard.",
     "how_to_eat": "Eat as a side with pork.",
     "how_to_order": "Order 'migas com carne de porco' in Alentejo taverns.",
     "typical_price": null,
@@ -673,7 +677,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Migas",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Migas",
-      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine",
+      "https://pt.wikipedia.org/wiki/Migas_à_alentejana"
     ]
   },
   {
@@ -717,7 +722,7 @@
     "country": "Portugal",
     "state": "Algarve",
     "regions": [],
-    "description": "A seafood stew of clams, fish or shellfish cooked in a hinged copper pan of the same name. It is the typical dish of the Algarve.",
+    "description": "A seafood stew of clams, fish or shellfish, sometimes with pork, cooked in a hinged copper pan of the same name. It is a typical dish of the Algarve.",
     "how_to_eat": "Share from the pan at the table with bread.",
     "how_to_order": "Order 'cataplana de marisco' for two in Algarve restaurants.",
     "typical_price": null,
@@ -746,10 +751,10 @@
     "country": "Portugal",
     "state": "Algarve",
     "regions": [
-      "Portimão",
-      "Lisbon"
+      "Lisbon",
+      "Olhão"
     ],
-    "description": "Whole fresh sardines grilled over charcoal with coarse salt. They are Portugal's summer food, cooked at Lisbon's Santo António festivals and in Portimão.",
+    "description": "Whole fresh sardines grilled over charcoal. They are a summertime tradition all over Portugal and the snack of choice at Lisbon's Saint Anthony festival on 13 June.",
     "how_to_eat": "Eat on a slice of bread or with boiled potatoes and salad.",
     "how_to_order": "Order 'sardinhas assadas' in summer at harbour grills.",
     "typical_price": null,
@@ -777,7 +782,7 @@
     "country": "Portugal",
     "state": "Algarve",
     "regions": [],
-    "description": "A strong fruit brandy distilled from the berries of the strawberry tree that grows wild in the Algarve hills. It is the region's traditional spirit.",
+    "description": "A strong fruit brandy, often around 48% alcohol, distilled from the berries of the strawberry tree that grows wild in the inner Algarve. In the Algarve it is a traditional spirit, drunk in small shots.",
     "how_to_eat": "Drink a small shot after a meal.",
     "how_to_order": "Ask for 'um medronho' in Algarve bars and restaurants.",
     "typical_price": null,
@@ -805,7 +810,7 @@
     "regions": [
       "Lagos"
     ],
-    "description": "A conventual sweet of egg-yolk threads (fios de ovos) and almonds in sugar syrup, wrapped in colourful foil. It comes from Lagos.",
+    "description": "A conventual sweet of egg threads, egg yolks and almonds in sugar, wrapped in colourful foil. It comes from Lagos and is named after an Algarve governor, D. Rodrigo de Menezes.",
     "how_to_eat": "Unwrap the foil and eat with a spoon.",
     "how_to_order": "Buy at Algarve pastry shops.",
     "typical_price": null,
@@ -836,7 +841,7 @@
     "regions": [
       "Furnas"
     ],
-    "description": "A meat and vegetable stew cooked for hours in pots buried in the volcanic ground of Furnas. It is the most famous dish of São Miguel.",
+    "description": "A meat and vegetable stew cooked for hours in pots buried in the volcanic ground of Furnas. It is one of the most distinctive versions of cozido and a typical dish of São Miguel.",
     "how_to_eat": "Eat at lunchtime in Furnas, after the pots come out of the ground.",
     "how_to_order": "Book 'cozido das Furnas' ahead at Furnas restaurants.",
     "typical_price": null,
@@ -850,7 +855,8 @@
     "wikipedia_url": null,
     "source_urls": [
       "https://oladaniela.com/eat-azores-islands/",
-      "https://www.directoalpaladar.com/turismo-gastronomico/gastroguia-azores-que-comer-islas-portuguesas-sao-miguel-terceira-que-restaurantes-no-puedes-perderte"
+      "https://www.directoalpaladar.com/turismo-gastronomico/gastroguia-azores-que-comer-islas-portuguesas-sao-miguel-terceira-que-restaurantes-no-puedes-perderte",
+      "https://pt.wikipedia.org/wiki/Cozido"
     ]
   },
   {
@@ -864,7 +870,7 @@
     "regions": [
       "Terceira"
     ],
-    "description": "Beef marinated in red wine and spices, then slow-cooked in a clay pot. It is the signature dish of Terceira island.",
+    "description": "Beef marinated in red wine, garlic and spices such as cloves and allspice, then slow-cooked in a clay pot. It is a tradition of Terceira island.",
     "how_to_eat": "Eat with bread or sweet massa sovada to soak up the sauce.",
     "how_to_order": "Order 'alcatra' in Terceira restaurants.",
     "typical_price": null,
@@ -907,10 +913,11 @@
       "dairy"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Bolo_lêvedo",
     "source_urls": [
       "https://oladaniela.com/eat-azores-islands/",
-      "https://www.directoalpaladar.com/turismo-gastronomico/gastroguia-azores-que-comer-islas-portuguesas-sao-miguel-terceira-que-restaurantes-no-puedes-perderte"
+      "https://www.directoalpaladar.com/turismo-gastronomico/gastroguia-azores-que-comer-islas-portuguesas-sao-miguel-terceira-que-restaurantes-no-puedes-perderte",
+      "https://pt.wikipedia.org/wiki/Bolo_lêvedo"
     ]
   },
   {
@@ -922,7 +929,7 @@
     "country": "Portugal",
     "state": "Azores",
     "regions": [],
-    "description": "Limpets cooked on a griddle in butter, garlic and lemon, sometimes served raw. They are eaten all over the islands.",
+    "description": "Limpets grilled in their shells or in a pan, seasoned in the Azores with butter, garlic and pepper paste or lemon; they are sometimes served raw. They are a typical starter in the Azores and Madeira.",
     "how_to_eat": "Eat straight from the hot pan, dipping bread in the butter.",
     "how_to_order": "Order 'lapas grelhadas' at seaside restaurants.",
     "typical_price": null,
@@ -936,9 +943,10 @@
       "dairy"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Lapas_grelhadas",
     "source_urls": [
-      "https://oladaniela.com/eat-azores-islands/"
+      "https://oladaniela.com/eat-azores-islands/",
+      "https://pt.wikipedia.org/wiki/Lapas_grelhadas"
     ]
   },
   {
@@ -968,7 +976,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/São_Jorge_cheese",
     "source_urls": [
       "https://en.wikipedia.org/wiki/São_Jorge_cheese",
-      "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+      "https://en.wikipedia.org/wiki/Portuguese_cuisine",
+      "https://en.wikipedia.org/wiki/List_of_Portuguese_food_and_drink_products_with_protected_status"
     ]
   },
   {
@@ -980,7 +989,7 @@
     "country": "Portugal",
     "state": "Madeira",
     "regions": [],
-    "description": "Chunks of beef rubbed with garlic, salt and bay leaf, grilled on skewers. It is Madeira's festival meat dish.",
+    "description": "Chunks of beef seasoned with garlic, salt and bay leaf, grilled on bay-laurel skewers. It is a typical Madeira dish with origins in Câmara de Lobos.",
     "how_to_eat": "Eat off the skewer hanging at the table, with bolo do caco.",
     "how_to_order": "Order 'espetada' in Madeira restaurants.",
     "typical_price": null,
@@ -1035,7 +1044,7 @@
     "country": "Portugal",
     "state": "Madeira",
     "regions": [],
-    "description": "Madeira's traditional drink of sugar-cane aguardente, honey, sugar and orange or lemon juice. It is the island's best-known drink.",
+    "description": "Madeira's traditional drink of sugar-cane aguardente, honey, sugar and orange or lemon juice. It is mixed with a wooden muddler called a mexelote.",
     "how_to_eat": "Drink fresh, usually in small glasses.",
     "how_to_order": "Order 'uma poncha' in Madeira bars.",
     "typical_price": null,
@@ -1089,7 +1098,7 @@
     "country": "Portugal",
     "state": "Madeira",
     "regions": [],
-    "description": "A dark, dense spiced cake made with sugar-cane honey, considered Madeira's oldest dessert. It is traditionally made for Christmas.",
+    "description": "A dark, dense spiced cake traditionally made with molasses, often with walnuts and almonds, considered Madeira's oldest dessert. It is traditionally made in early December for Christmas.",
     "how_to_eat": "Break into pieces by hand rather than cutting.",
     "how_to_order": "Buy at Madeira bakeries and markets.",
     "typical_price": null,
@@ -1118,7 +1127,7 @@
     "country": "Portugal",
     "state": "Madeira",
     "regions": [],
-    "description": "Fillets of black scabbardfish, caught in deep water off Madeira, fried and served with fried banana. It is the island's signature fish dish.",
+    "description": "Fillets of black scabbardfish, prized in Madeira, fried in batter or breadcrumbs and served with fried banana. It is a traditional dish of the Madeira archipelago.",
     "how_to_eat": "Eat the fish together with the sweet fried banana.",
     "how_to_order": "Order 'espada com banana' in Funchal restaurants.",
     "typical_price": null,
@@ -1133,10 +1142,11 @@
       "egg"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Espada_com_banana",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Portuguese_cuisine",
-      "https://en.wikipedia.org/wiki/Black_scabbardfish"
+      "https://en.wikipedia.org/wiki/Black_scabbardfish",
+      "https://pt.wikipedia.org/wiki/Espada_com_banana"
     ]
   }
 ]

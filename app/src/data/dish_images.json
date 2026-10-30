@@ -1985,6 +1985,12 @@
   "credit": "Gerbis",
   "license": "CC BY-SA 3.0"
  },
+ "germany-thuringian-dumplings": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Rindergulasch_Rotkohl_Kloesse_011.JPG/960px-Rindergulasch_Rotkohl_Kloesse_011.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Rindergulasch_Rotkohl_Kloesse_011.JPG",
+  "credit": "Sebastian Wallroth",
+  "license": "CC BY 3.0"
+ },
  "germany-dresden-stollen": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Stollen-Dresdner_Christstollen.jpg/960px-Stollen-Dresdner_Christstollen.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Stollen-Dresdner_Christstollen.jpg",
@@ -2129,11 +2135,23 @@
   "credit": "Benoît Prieur",
   "license": "CC0"
  },
+ "greece-staka-me-avga": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/%CE%A3%CF%84%CE%AC%CE%BA%CE%B1_5574.jpg/960px-%CE%A3%CF%84%CE%AC%CE%BA%CE%B1_5574.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%CE%A3%CF%84%CE%AC%CE%BA%CE%B1_5574.jpg",
+  "credit": "C messier",
+  "license": "CC BY-SA 4.0"
+ },
  "greece-tsikoudia": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/%CE%A4%CF%83%CE%B9%CE%BA%CE%BF%CF%85%CE%B4%CE%B9%CE%AC_1780.jpg/960px-%CE%A4%CF%83%CE%B9%CE%BA%CE%BF%CF%85%CE%B4%CE%B9%CE%AC_1780.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:%CE%A4%CF%83%CE%B9%CE%BA%CE%BF%CF%85%CE%B4%CE%B9%CE%AC_1780.jpg",
   "credit": "C messier",
   "license": "CC BY-SA 4.0"
+ },
+ "greece-sofrito": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/%CE%A3%CE%BF%CF%86%CF%81%CE%AF%CF%84%CE%BF.jpg/960px-%CE%A3%CE%BF%CF%86%CF%81%CE%AF%CF%84%CE%BF.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%CE%A3%CE%BF%CF%86%CF%81%CE%AF%CF%84%CE%BF.jpg",
+  "credit": "ΣΠ.Δ",
+  "license": "CC0"
  },
  "greece-bourdeto": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/20240510_172147_Corfu_RestaurantMeGusto_Bourdeto_anagoria.jpg/960px-20240510_172147_Corfu_RestaurantMeGusto_Bourdeto_anagoria.jpg",
@@ -2141,11 +2159,11 @@
   "credit": "Anagoria",
   "license": "CC BY-SA 4.0"
  },
- "greece-kumquat-liqueur": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Kumquat_from_Spain.jpg/960px-Kumquat_from_Spain.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Kumquat_from_Spain.jpg",
-  "credit": "Ivar Leidus",
-  "license": "CC BY-SA 4.0"
+ "greece-sykomaida": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/%CE%A3%CF%85%CE%BA%CE%BF%CE%BC%CE%B1%CF%8A%CE%B4%CE%B1.jpg/960px-%CE%A3%CF%85%CE%BA%CE%BF%CE%BC%CE%B1%CF%8A%CE%B4%CE%B1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%CE%A3%CF%85%CE%BA%CE%BF%CE%BC%CE%B1%CF%8A%CE%B4%CE%B1.jpg",
+  "credit": "ΣΠ.Δ",
+  "license": "CC0"
  },
  "greece-fava-santorinis": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Greek_fava.jpg/960px-Greek_fava.jpg",
@@ -2157,6 +2175,12 @@
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Tomato_fritters_of_Santorini_%28Tomatokeftedes%29.jpg/960px-Tomato_fritters_of_Santorini_%28Tomatokeftedes%29.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Tomato_fritters_of_Santorini_(Tomatokeftedes).jpg",
   "credit": "Sam Holt",
+  "license": "CC BY-SA 4.0"
+ },
+ "greece-melekouni": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%CE%9C%CE%B5%CE%BB%CE%B5%CE%BA%CE%BF%CF%8D%CE%BD%CE%B9.jpg/960px-%CE%9C%CE%B5%CE%BB%CE%B5%CE%BA%CE%BF%CF%8D%CE%BD%CE%B9.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%CE%9C%CE%B5%CE%BB%CE%B5%CE%BA%CE%BF%CF%8D%CE%BD%CE%B9.jpg",
+  "credit": "AnthiA",
   "license": "CC BY-SA 4.0"
  },
  "indonesia-rendang": {
@@ -2633,6 +2657,12 @@
   "credit": "Foodista",
   "license": "CC BY 2.0"
  },
+ "italy-focaccia-barese": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/FocacciaBarese.jpg/960px-FocacciaBarese.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:FocacciaBarese.jpg",
+  "credit": "Elfmir",
+  "license": "CC BY-SA 4.0"
+ },
  "italy-panzerotti": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Panzerotti_chez_PanzerotTiamo_%28Lyon%29_-_2.jpg/960px-Panzerotti_chez_PanzerotTiamo_%28Lyon%29_-_2.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Panzerotti_chez_PanzerotTiamo_(Lyon)_-_2.jpg",
@@ -2656,6 +2686,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:Culurgione.jpg",
   "credit": "andria",
   "license": "CC BY-SA 2.0"
+ },
+ "italy-porceddu": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Porcetto_sardo_3.jpg/960px-Porcetto_sardo_3.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Porcetto_sardo_3.jpg",
+  "credit": "Japs 88",
+  "license": "CC BY-SA 4.0"
  },
  "italy-pane-carasau": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Pane_carasau.jpg/960px-Pane_carasau.jpg",
@@ -2687,11 +2723,23 @@
   "credit": "Jesper Rautell Balle",
   "license": "CC BY 3.0"
  },
+ "japan-ishikari-nabe": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Ishikari_nabe_by_Adonis_Chen_in_Hokkaido.jpg/960px-Ishikari_nabe_by_Adonis_Chen_in_Hokkaido.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ishikari_nabe_by_Adonis_Chen_in_Hokkaido.jpg",
+  "credit": "Adonis Chen から Hokkaido",
+  "license": "CC BY 2.0"
+ },
  "japan-sapporo-miso-ramen": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Shoyu_Ramen%EF%BC%88Tokyo_Ramen%EF%BC%89_-_01.jpg/960px-Shoyu_Ramen%EF%BC%88Tokyo_Ramen%EF%BC%89_-_01.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Shoyu_Ramen%EF%BC%88Tokyo_Ramen%EF%BC%89_-_01.jpg",
   "credit": "Quercus acuta",
   "license": "CC BY-SA 4.0"
+ },
+ "japan-ika-somen": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Ika_somen_by_jetalone_in_Minato%2C_Tokyo.jpg/960px-Ika_somen_by_jetalone_in_Minato%2C_Tokyo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ika_somen_by_jetalone_in_Minato,_Tokyo.jpg",
+  "credit": "jetalone from Restaurant Kasa in Minato, Chuo, Tokyo",
+  "license": "CC BY 2.0"
  },
  "japan-butadon": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Sauced_pork_bowl_of_Sukiya.jpg/960px-Sauced_pork_bowl_of_Sukiya.jpg",
@@ -2777,6 +2825,24 @@
   "credit": "Kanesue",
   "license": "CC BY 2.0"
  },
+ "japan-misokatsu": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Misokatsu_Teishoku_20200328-02.jpg/960px-Misokatsu_Teishoku_20200328-02.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Misokatsu_Teishoku_20200328-02.jpg",
+  "credit": "円周率３パーセント",
+  "license": "CC BY-SA 4.0"
+ },
+ "japan-kishimen": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Kishimen_in_Nagoya_station%EF%BC%88%E5%90%8D%E5%8F%A4%E5%B1%8B%E9%A7%85%E3%81%AE%E3%81%8D%E3%81%97%E3%82%81%E3%82%93%EF%BC%89.JPG/960px-Kishimen_in_Nagoya_station%EF%BC%88%E5%90%8D%E5%8F%A4%E5%B1%8B%E9%A7%85%E3%81%AE%E3%81%8D%E3%81%97%E3%82%81%E3%82%93%EF%BC%89.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Kishimen_in_Nagoya_station%EF%BC%88%E5%90%8D%E5%8F%A4%E5%B1%8B%E9%A7%85%E3%81%AE%E3%81%8D%E3%81%97%E3%82%81%E3%82%93%EF%BC%89.JPG",
+  "credit": "Kos88",
+  "license": "CC BY-SA 4.0"
+ },
+ "japan-miso-nikomi-udon": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Misonikomi_Udon_with_Chickin_%26_Egg_%2815869622505%29.jpg/960px-Misonikomi_Udon_with_Chickin_%26_Egg_%2815869622505%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Misonikomi_Udon_with_Chickin_%26_Egg_(15869622505).jpg",
+  "credit": "bryan... from Taipei, Taiwan",
+  "license": "CC BY-SA 2.0"
+ },
  "japan-hoto": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Houtou.jpg/960px-Houtou.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Houtou.jpg",
@@ -2802,10 +2868,16 @@
   "license": "CC BY-SA 3.0"
  },
  "japan-kitsune-udon": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%E9%B6%8F%E5%A4%A9%E3%81%AE%E3%81%86%E3%81%A9%E3%82%93.jpg/960px-%E9%B6%8F%E5%A4%A9%E3%81%AE%E3%81%86%E3%81%A9%E3%82%93.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:%E9%B6%8F%E5%A4%A9%E3%81%AE%E3%81%86%E3%81%A9%E3%82%93.jpg",
-  "credit": "加茂川の民",
-  "license": "CC0"
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Udon_%28Kitsune_udon%29_2.jpg/960px-Udon_%28Kitsune_udon%29_2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Udon_(Kitsune_udon)_2.jpg",
+  "credit": "MemColorLab",
+  "license": "CC BY-SA 4.0"
+ },
+ "japan-yudofu": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Yud%C5%8Dfu_001.jpg/960px-Yud%C5%8Dfu_001.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Yud%C5%8Dfu_001.jpg",
+  "credit": "Flickr user cobacco(hiro kobashi)",
+  "license": "CC BY 2.0"
  },
  "japan-yatsuhashi": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Yatsuhashi_20160422.JPG/960px-Yatsuhashi_20160422.JPG",
@@ -2849,6 +2921,12 @@
   "credit": "sekido",
   "license": "CC BY 2.0"
  },
+ "japan-katsuo-no-tataki": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/KatsuoTataki.jpg/960px-KatsuoTataki.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:KatsuoTataki.jpg",
+  "credit": "ayustety から Tokyo, JAPAN",
+  "license": "CC BY-SA 2.0"
+ },
  "japan-hakata-ramen": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Tonkotsu_ramen.JPG/960px-Tonkotsu_ramen.JPG",
   "page": "https://commons.wikimedia.org/wiki/File:Tonkotsu_ramen.JPG",
@@ -2867,6 +2945,12 @@
   "credit": "w:ja:利用者:Hykw-a4",
   "license": "CC BY-SA 3.0"
  },
+ "japan-mizutaki": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Restaurante-shabu-shabu-Yokohama19.jpg/960px-Restaurante-shabu-shabu-Yokohama19.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Restaurante-shabu-shabu-Yokohama19.jpg",
+  "credit": "ディエゴ・デルソ",
+  "license": "CC BY-SA 4.0"
+ },
  "japan-champon": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Shikairo_Nagasaki_Japan05s.jpg/960px-Shikairo_Nagasaki_Japan05s.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Shikairo_Nagasaki_Japan05s.jpg",
@@ -2878,6 +2962,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:Castella,made_in_nagasaki-city,japan.JPG",
   "credit": "katorisi",
   "license": "CC BY-SA 3.0"
+ },
+ "japan-chicken-nanban": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Chicken_nanban_jetalone_in_Tsukishima%2C_Tokyo.jpg/960px-Chicken_nanban_jetalone_in_Tsukishima%2C_Tokyo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Chicken_nanban_jetalone_in_Tsukishima,_Tokyo.jpg",
+  "credit": "{{{photographer}}} から Okinawan and Kyusyu restaurant Diamond Head in Tsukishima, Chuo, Tokyo",
+  "license": "CC BY 2.0"
  },
  "japan-okinawa-soba": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/%E3%82%BD%E3%83%BC%E3%82%AD%E3%81%9D%E3%81%B0%EF%BC%88%E6%B2%96%E7%B8%84%E3%81%9D%E3%81%B0%E5%B0%82%E9%96%80%E3%82%84%E3%82%93%E3%81%B0%E3%82%8B%E3%83%BB%E6%9C%89%E6%A5%BD%E7%94%BA%E4%BA%A4%E9%80%9A%E4%BC%9A%E9%A4%A8%EF%BC%8920240608-P1043176.jpg/960px-%E3%82%BD%E3%83%BC%E3%82%AD%E3%81%9D%E3%81%B0%EF%BC%88%E6%B2%96%E7%B8%84%E3%81%9D%E3%81%B0%E5%B0%82%E9%96%80%E3%82%84%E3%82%93%E3%81%B0%E3%82%8B%E3%83%BB%E6%9C%89%E6%A5%BD%E7%94%BA%E4%BA%A4%E9%80%9A%E4%BC%9A%E9%A4%A8%EF%BC%8920240608-P1043176.jpg",
@@ -3455,10 +3545,28 @@
   "credit": "Hortensja Bukietowa",
   "license": "CC BY-SA 4.0"
  },
+ "netherlands-groninger-koek": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Groninger_Sucadekoek_%282018%29_02.jpg/960px-Groninger_Sucadekoek_%282018%29_02.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Groninger_Sucadekoek_(2018)_02.jpg",
+  "credit": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons.(Want to use this image?)",
+  "license": "CC BY-SA 4.0"
+ },
+ "netherlands-eierbal": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Eierbal.jpg/960px-Eierbal.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Eierbal.jpg",
+  "credit": "Erik009",
+  "license": "CC BY-SA 3.0"
+ },
  "netherlands-beerenburg": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Aangebroken_fles_Weduwe_Joustra_Beerenburg_35%25.jpg/960px-Aangebroken_fles_Weduwe_Joustra_Beerenburg_35%25.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Aangebroken_fles_Weduwe_Joustra_Beerenburg_35%25.jpg",
   "credit": "Iooryz",
+  "license": "CC BY-SA 4.0"
+ },
+ "netherlands-brabant-sausage-roll": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Worstenbroodje.jpg/960px-Worstenbroodje.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Worstenbroodje.jpg",
+  "credit": "Ruud van Dam",
   "license": "CC BY-SA 4.0"
  },
  "netherlands-bossche-bol": {
@@ -3509,6 +3617,12 @@
   "credit": "Siliconred",
   "license": "CC BY-SA 4.0"
  },
+ "portugal-travesseiro-de-sintra": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Piriquita_%2814401986732%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Piriquita_(14401986732).jpg",
+  "credit": "yuka HAYASHI from Osaka, JAPAN",
+  "license": "CC BY 2.0"
+ },
  "portugal-francesinha": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Francesinha_Sandwich_%28cropped%29.jpg/960px-Francesinha_Sandwich_%28cropped%29.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Francesinha_Sandwich_(cropped).jpg",
@@ -3550,6 +3664,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:Polvo_%C3%A0_lagareiro_(Alcochete).jpg",
   "credit": "The Ogre",
   "license": "CC BY-SA 4.0"
+ },
+ "portugal-leitao-da-bairrada": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Leit%C3%A3o_%C3%A0_Bairrada.JPG/960px-Leit%C3%A3o_%C3%A0_Bairrada.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Leit%C3%A3o_%C3%A0_Bairrada.JPG",
+  "credit": "Adriao",
+  "license": "CC BY 3.0"
  },
  "portugal-chanfana": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Monumento_em_Homengem_%C3%A0_Chanfana_-_Semide_-_Portugal_%283707573757%29.jpg/960px-Monumento_em_Homengem_%C3%A0_Chanfana_-_Semide_-_Portugal_%283707573757%29.jpg",
@@ -3629,6 +3749,12 @@
   "credit": "Cardoazul",
   "license": "CC BY-SA 4.0"
  },
+ "portugal-lapas": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Lapas_grelhadas.JPG/960px-Lapas_grelhadas.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Lapas_grelhadas.JPG",
+  "credit": "Adriao",
+  "license": "CC BY-SA 2.5"
+ },
  "portugal-sao-jorge-cheese": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Queijo_S%C3%A3o_Jorge_inteiro.jpg/960px-Queijo_S%C3%A3o_Jorge_inteiro.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Queijo_S%C3%A3o_Jorge_inteiro.jpg",
@@ -3664,6 +3790,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:Bolo_de_Mel.JPG",
   "credit": "TeWeBs",
   "license": "CC BY-SA 4.0"
+ },
+ "portugal-espada-com-banana": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Espada_with_Banana_Madeira.jpg/960px-Espada_with_Banana_Madeira.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Espada_with_Banana_Madeira.jpg",
+  "credit": "AngMoKio",
+  "license": "CC BY-SA 3.0"
  },
  "singapore-hainanese-chicken-rice": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Hainanese_Chicken_Rice.jpg/960px-Hainanese_Chicken_Rice.jpg",
@@ -3911,23 +4043,23 @@
   "credit": "우정사업본부",
   "license": "CC BY 2.0 kr"
  },
- "south_korea-chodang-sundubu": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Sundubu-jjigae.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Sundubu-jjigae.jpg",
-  "credit": "행복한 초록개구리",
-  "license": "CC BY 4.0"
- },
  "south_korea-ojingeo-sundae": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Sundae.jpg/960px-Sundae.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Sundae.jpg",
-  "credit": "Popo le Chien",
-  "license": "CC0"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Korean_cuisine-Ojingeo_sundae-01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Korean_cuisine-Ojingeo_sundae-01.jpg",
+  "credit": "by superlocal at Flickr",
+  "license": "CC BY 2.0"
  },
  "south_korea-jeonju-bibimbap": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Dolsot-bibimbap.jpg/960px-Dolsot-bibimbap.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Dolsot-bibimbap.jpg",
   "credit": "Sous Chef",
   "license": "CC BY 2.0"
+ },
+ "south_korea-kongnamul-gukbap": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Kongnamul_gukbap_20230408_003.jpg/960px-Kongnamul_gukbap_20230408_003.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kongnamul_gukbap_20230408_003.jpg",
+  "credit": "Mobius6",
+  "license": "CC BY-SA 4.0"
  },
  "south_korea-hongeo-hoe": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Korean_cuisine-Samhap-01.jpg/960px-Korean_cuisine-Samhap-01.jpg",
@@ -3964,6 +4096,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:Korean.food-Andong.Hansik-Heotjesabab.jpg",
   "credit": "ebifry",
   "license": "CC BY 2.0"
+ },
+ "south_korea-andong-salted-mackerel": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Andong_Gangodunga_at_Andong_Service_Area_%28Busan%29.jpg/960px-Andong_Gangodunga_at_Andong_Service_Area_%28Busan%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Andong_Gangodunga_at_Andong_Service_Area_(Busan).jpg",
+  "credit": "아라",
+  "license": "CC BY-SA 4.0"
  },
  "south_korea-andong-soju": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/%EC%95%88%EB%8F%99%EC%86%8C%EC%A3%BC_%EC%A0%84%EC%A0%9C%ED%92%88%28andongsoju_all_product%29.jpg",
@@ -4030,6 +4168,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:Jeju_gogi_noodle.jpg",
   "credit": "Narnars0",
   "license": "CC BY-SA 3.0"
+ },
+ "south_korea-jeonbok-juk": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Korean_abalone_porridge-Jeonbokjuk-01A.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Korean_abalone_porridge-Jeonbokjuk-01A.jpg",
+  "credit": "by linlilian at Flickr",
+  "license": "CC BY 2.0"
  },
  "south_korea-omegi-tteok": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/%EC%98%A4%EB%A9%94%EA%B8%B0%EB%96%A1_%EC%A0%95%EB%A9%B4.jpg/960px-%EC%98%A4%EB%A9%94%EA%B8%B0%EB%96%A1_%EC%A0%95%EB%A9%B4.jpg",
@@ -4173,12 +4317,6 @@
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Rabo_de_toro-Estofado_%2801%29.JPG/960px-Rabo_de_toro-Estofado_%2801%29.JPG",
   "page": "https://commons.wikimedia.org/wiki/File:Rabo_de_toro-Estofado_(01).JPG",
   "credit": "Tamorlan",
-  "license": "CC BY-SA 3.0"
- },
- "spain-sherry": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/DO_Jerez_location.svg/960px-DO_Jerez_location.svg.png",
-  "page": "https://commons.wikimedia.org/wiki/File:DO_Jerez_location.svg",
-  "credit": "Té y kriptonita",
   "license": "CC BY-SA 3.0"
  },
  "spain-ajoblanco": {
@@ -4361,6 +4499,18 @@
   "credit": "Takeaway",
   "license": "CC BY-SA 3.0"
  },
+ "thailand-kaeng-hang-le": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/%E0%B9%81%E0%B8%81%E0%B8%87%E0%B8%AE%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A5_%E0%B8%97%E0%B8%B5%E0%B9%88_%E0%B8%AB%E0%B8%A5%E0%B8%B9%E0%B9%89%E0%B8%A5%E0%B8%B3.jpg/960px-%E0%B9%81%E0%B8%81%E0%B8%87%E0%B8%AE%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A5_%E0%B8%97%E0%B8%B5%E0%B9%88_%E0%B8%AB%E0%B8%A5%E0%B8%B9%E0%B9%89%E0%B8%A5%E0%B8%B3.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%E0%B9%81%E0%B8%81%E0%B8%87%E0%B8%AE%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A5_%E0%B8%97%E0%B8%B5%E0%B9%88_%E0%B8%AB%E0%B8%A5%E0%B8%B9%E0%B9%89%E0%B8%A5%E0%B8%B3.jpg",
+  "credit": "Chainwit.",
+  "license": "CC BY-SA 4.0"
+ },
+ "thailand-kaeng-khanun": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Kaeng_kanun.jpg/960px-Kaeng_kanun.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kaeng_kanun.jpg",
+  "credit": "Takeaway",
+  "license": "CC BY-SA 3.0"
+ },
  "thailand-som-tam": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/2013_Tam_Lao.jpg/960px-2013_Tam_Lao.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:2013_Tam_Lao.jpg",
@@ -4408,6 +4558,18 @@
   "page": "https://commons.wikimedia.org/wiki/File:Kaeng_som-marum63.JPG",
   "credit": "Xufanc",
   "license": "CC BY-SA 3.0"
+ },
+ "thailand-khua-kling": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Khua_kling.JPG/960px-Khua_kling.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Khua_kling.JPG",
+  "credit": "Takeaway",
+  "license": "CC BY-SA 3.0"
+ },
+ "thailand-khao-yam": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/YosriNasiKerabu1.jpg/960px-YosriNasiKerabu1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:YosriNasiKerabu1.jpg",
+  "credit": "Yosri at ms.wikipedia",
+  "license": "GFDL"
  },
  "thailand-massaman-curry": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Kaeng_matsaman_kai.JPG/960px-Kaeng_matsaman_kai.JPG",
@@ -4535,11 +4697,23 @@
   "credit": "No machine-readable author provided. Rainer Zenz assumed (based on copyright claims).",
   "license": "CC BY-SA 3.0"
  },
+ "turkey-urfa-kebap": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Urfa_kebap.jpg/960px-Urfa_kebap.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Urfa_kebap.jpg",
+  "credit": "E4024",
+  "license": "CC BY-SA 4.0"
+ },
  "turkey-cig-kofte": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Turkish_%C3%A7i%C4%9F_k%C3%B6fte.jpg/960px-Turkish_%C3%A7i%C4%9F_k%C3%B6fte.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Turkish_%C3%A7i%C4%9F_k%C3%B6fte.jpg",
   "credit": "E4024",
   "license": "CC BY-SA 4.0"
+ },
+ "turkey-ali-nazik": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Alinazik.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Alinazik.jpg",
+  "credit": "Karaahmet",
+  "license": "Public domain"
  },
  "turkey-beyran": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Beyran_again.jpg/960px-Beyran_again.jpg",
@@ -4571,6 +4745,12 @@
   "credit": "Intension",
   "license": "CC BY-SA 3.0"
  },
+ "turkey-testi-kebabi": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/TestiKebabGoreme.jpg/960px-TestiKebabGoreme.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:TestiKebabGoreme.jpg",
+  "credit": "Niels Elgaard Larsen",
+  "license": "CC BY-SA 3.0"
+ },
  "turkey-gozleme": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/G%C3%B6zleme.JPG/960px-G%C3%B6zleme.JPG",
   "page": "https://commons.wikimedia.org/wiki/File:G%C3%B6zleme.JPG",
@@ -4588,6 +4768,18 @@
   "page": "https://commons.wikimedia.org/wiki/File:Fresh_ayran.jpg",
   "credit": "Mavigogun",
   "license": "CC BY-SA 3.0"
+ },
+ "turkey-hamsi-tava": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Hamsi_%C5%9Fi%C5%9F.jpg/960px-Hamsi_%C5%9Fi%C5%9F.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hamsi_%C5%9Fi%C5%9F.jpg",
+  "credit": "E4024",
+  "license": "CC BY-SA 4.0"
+ },
+ "turkey-hamsili-pilav": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Hamsili_pilav_-_Flickr_-_gulinvardar.jpg/960px-Hamsili_pilav_-_Flickr_-_gulinvardar.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hamsili_pilav_-_Flickr_-_gulinvardar.jpg",
+  "credit": "gülin vardar",
+  "license": "CC BY 2.0"
  },
  "turkey-kuymak": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Kuymak%2C_2020.jpg/960px-Kuymak%2C_2020.jpg",
@@ -4612,6 +4804,18 @@
   "page": "https://commons.wikimedia.org/wiki/File:Ca%C4%9Fkebab%C4%B15.jpg",
   "credit": "Eaeeae",
   "license": "CC BY 3.0"
+ },
+ "turkey-otlu-peynir": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Van_%C3%96zalp_otlu_peyniri.jpg/960px-Van_%C3%96zalp_otlu_peyniri.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Van_%C3%96zalp_otlu_peyniri.jpg",
+  "credit": "Samizambak",
+  "license": "CC BY-SA 4.0"
+ },
+ "turkey-murtuga": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Vankahvalti.jpg/960px-Vankahvalti.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Vankahvalti.jpg",
+  "credit": "Tanyel",
+  "license": "CC BY-SA 3.0"
  },
  "united_arab_emirates-machboos": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Machboos_%28cropped%29.JPG/960px-Machboos_%28cropped%29.JPG",

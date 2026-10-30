@@ -7,10 +7,8 @@
     "category": "meal",
     "country": "Germany",
     "state": "Bavaria",
-    "regions": [
-      "Munich"
-    ],
-    "description": "A white sausage of minced veal and pork back fat flavoured with parsley, lemon, mace, onion and cardamom. It is the classic Munich morning sausage.",
+    "regions": [],
+    "description": "A white sausage of minced veal and pork back fat flavoured with parsley, lemon, mace, onions, ginger and cardamom. It is traditionally eaten in Bavaria as a snack between breakfast and lunch.",
     "how_to_eat": "Peel off the skin and eat with sweet mustard and a pretzel.",
     "how_to_order": "Order 'Weißwurst' in a Bavarian beer hall or butcher's, traditionally before noon.",
     "typical_price": null,
@@ -80,7 +78,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pretzel",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Pretzel",
-      "https://eur-lex.europa.eu/eli/reg_impl/2014/161/oj"
+      "https://de.wikipedia.org/wiki/Brezel"
     ]
   },
   {
@@ -102,7 +100,8 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "dairy"
+      "dairy",
+      "gluten"
     ],
     "gi_tag": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Obatzda",
@@ -120,7 +119,7 @@
     "country": "Germany",
     "state": "Bavaria",
     "regions": [],
-    "description": "A baked loaf of finely ground pork, beef and bacon, despite its name usually containing neither liver nor cheese. It is a staple of Bavarian butcher counters.",
+    "description": "A baked loaf of finely ground beef, pork and bacon, despite its name traditionally containing no liver. It is a staple of southern German butcher shops and snack stalls.",
     "how_to_eat": "Eat a warm slice in a bread roll with mustard.",
     "how_to_order": "Ask for a 'Leberkässemmel' at a butcher's shop.",
     "typical_price": null,
@@ -151,7 +150,7 @@
     "regions": [
       "Nuremberg"
     ],
-    "description": "Small, thin pork sausages grilled over beechwood, recorded in Nuremberg since around 1300. The name is an EU PGI and they may only be made in Nuremberg.",
+    "description": "Small, thin pork sausages flavoured with marjoram, a recipe that historical sources date back to 1300. The name is an EU PGI and they may only be made in Nuremberg.",
     "how_to_eat": "Eat three in a roll ('Drei im Weggla') or six to twelve on a plate with sauerkraut.",
     "how_to_order": "Order 'Drei im Weggla' at a Nuremberg sausage stall.",
     "typical_price": null,
@@ -166,8 +165,7 @@
     "gi_tag": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nürnberger_Rostbratwurst",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Nürnberger_Rostbratwurst",
-      "https://www.deutsche-handwerks-zeitung.de/eu-herkunftsbezeichnung-diese-lebensmittel-sind-geschuetzt-73430/"
+      "https://en.wikipedia.org/wiki/Nürnberger_Rostbratwurst"
     ]
   },
   {
@@ -213,8 +211,8 @@
     "regions": [
       "Franconia"
     ],
-    "description": "Roasted pork shoulder with crisp crackling, the signature Sunday dish of Franconia. It is served with potato dumplings and gravy.",
-    "how_to_eat": "Eat with Klöße and dark beer gravy.",
+    "description": "Roasted pork shoulder with crisp crackling, a traditional dish of Franconia. It is served with potato dumplings and gravy.",
+    "how_to_eat": "Eat with Klöße and gravy.",
     "how_to_order": "Order 'Schäufele mit Klößen' in Franconian inns.",
     "typical_price": null,
     "currency": "EUR",
@@ -240,7 +238,7 @@
     "state": "Baden-Württemberg",
     "regions": [],
     "description": "Large square pasta pockets filled with minced meat, smoked meat, spinach, bread crumbs and onion. Swabian Maultaschen are an EU PGI.",
-    "how_to_eat": "Eat in broth or pan-fried with onions and egg.",
+    "how_to_eat": "Eat in broth or sautéed with butter and onions.",
     "how_to_order": "Ask for 'Maultaschen in der Brühe' in Swabian restaurants.",
     "typical_price": null,
     "currency": "EUR",
@@ -329,7 +327,7 @@
     "regions": [
       "Black Forest"
     ],
-    "description": "A layer cake of cocoa sponge with cherries, Kirsch (cherry brandy) and whipped cream, decorated with chocolate shavings. It is named after the Black Forest region.",
+    "description": "A layer cake of cocoa sponge with cherries, Kirsch (cherry brandy) and whipped cream, decorated with dark chocolate. Its origin is disputed; the first written recipe dates from 1927.",
     "how_to_eat": "Eat a slice with coffee in the afternoon.",
     "how_to_order": "Order 'Schwarzwälder Kirschtorte' at a Konditorei (cake shop).",
     "typical_price": null,
@@ -360,7 +358,7 @@
     "state": "Baden-Württemberg",
     "regions": [],
     "description": "A savoury onion cake of steamed onions, diced bacon, cream and caraway on a yeast or leavened base. It is a seasonal favourite in autumn.",
-    "how_to_eat": "Eat warm with new wine (Federweißer).",
+    "how_to_eat": "Eat warm with new wine (neuer Wein).",
     "how_to_order": "Look for 'Zwiebelkuchen' in bakeries and wine taverns in autumn.",
     "typical_price": null,
     "currency": "EUR",
@@ -478,7 +476,7 @@
     "how_to_order": "Ask for a 'Pfannkuchen' at Berlin bakeries.",
     "typical_price": null,
     "currency": "EUR",
-    "diet": "egg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -503,7 +501,7 @@
     "country": "Germany",
     "state": "Berlin",
     "regions": [],
-    "description": "Meatballs in a creamy white sauce with capers. The dish is a classic of Berlin and eastern German home cooking.",
+    "description": "Meatballs in a creamy white sauce with capers; the traditional recipe uses anchovy. Named after Königsberg, it comes from East Prussian cuisine and is one of Berlin's iconic meals.",
     "how_to_eat": "Eat with boiled potatoes and beetroot.",
     "how_to_order": "Order 'Königsberger Klopse' in traditional German restaurants.",
     "typical_price": null,
@@ -515,7 +513,8 @@
     "allergens": [
       "dairy",
       "gluten",
-      "egg"
+      "egg",
+      "fish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Königsberger_Klopse",
@@ -599,7 +598,7 @@
     "regions": [
       "Hamburg"
     ],
-    "description": "A flattened pastry roll baked with butter and cinnamon, similar to a cinnamon roll. It is Hamburg's signature bakery item.",
+    "description": "A small pastry baked with butter and cinnamon, similar to a cinnamon roll. It is common in northern Germany, especially Hamburg, where it originated.",
     "how_to_eat": "Eat with morning coffee.",
     "how_to_order": "Buy at any Hamburg bakery.",
     "typical_price": null,
@@ -667,7 +666,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "mustard"
+      "mustard",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pinkel",
@@ -864,7 +864,7 @@
     "regions": [
       "Aachen"
     ],
-    "description": "A hard, spiced Lebkuchen from Aachen, now usually sweetened with sugar-beet syrup. The name is a protected geographical indication.",
+    "description": "A spiced Lebkuchen from Aachen, originally sweetened with honey but now usually with sugar-beet syrup. The name is a protected geographical indication.",
     "how_to_eat": "Eat with coffee, especially at Christmas.",
     "how_to_order": "Buy at Aachen bakeries and confectioners.",
     "typical_price": null,
@@ -895,7 +895,7 @@
     "regions": [
       "Palatinate"
     ],
-    "description": "A pig's stomach stuffed with pork, potatoes and carrots, then simmered and sliced. It is the signature dish of the Palatinate.",
+    "description": "A pig's stomach stuffed with pork and potatoes, spiced with onions, marjoram and nutmeg, then simmered and sliced. It is a dish popular in the Palatinate.",
     "how_to_eat": "Eat sliced, pan-fried, with sauerkraut and mashed potatoes.",
     "how_to_order": "Order 'Pfälzer Saumagen' in Palatinate wine taverns.",
     "typical_price": null,
@@ -923,7 +923,7 @@
     "regions": [
       "Frankfurt"
     ],
-    "description": "A cold sauce of seven fresh herbs (borage, chervil, cress, parsley, burnet, sorrel, chives) with sour cream or yoghurt. The herb mix has been an EU PGI since 2016.",
+    "description": "A cold sauce of seven fresh herbs (borage, chervil, cress, parsley, burnet, sorrel, chives) with sour cream, oil and vinegar. The herb mix has been an EU PGI since 2016.",
     "how_to_eat": "Eat with boiled potatoes and halved hard-boiled eggs.",
     "how_to_order": "Order 'Grüne Soße' in Frankfurt apple-wine taverns in spring and summer.",
     "typical_price": null,
@@ -934,7 +934,8 @@
     "spice": 0,
     "allergens": [
       "dairy",
-      "egg"
+      "egg",
+      "mustard"
     ],
     "gi_tag": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Green_sauce",
@@ -1047,7 +1048,7 @@
     "regions": [
       "Frankfurt"
     ],
-    "description": "Thin smoked pork sausages heated in hot water, the original 'frankfurters'. They are smoked at low temperature and briefly heated in hot water before eating.",
+    "description": "Thin parboiled sausages in a sheep-intestine casing, the original 'frankfurters', flavoured by low-temperature smoking. Since 1929 the name may only be used for sausages made in the Frankfurt area.",
     "how_to_eat": "Eat with mustard and bread or potato salad.",
     "how_to_order": "Order a pair at Frankfurt butchers or market stalls.",
     "typical_price": null,
@@ -1075,7 +1076,7 @@
     "country": "Germany",
     "state": "Saxony and Thuringia",
     "regions": [],
-    "description": "A long, spiced pork sausage grilled over charcoal, at least 15 cm long. The name is an EU PGI and it must be produced in Thuringia.",
+    "description": "A thin, 15-20 cm spiced sausage seasoned with caraway, marjoram and garlic, traditionally grilled over charcoal. The name is an EU protected geographical indication.",
     "how_to_eat": "Eat in a bread roll with mustard.",
     "how_to_order": "Buy from grill stands at Thuringian markets.",
     "typical_price": null,
@@ -1092,8 +1093,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bratwurst",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Bratwurst",
-      "https://en.wikipedia.org/wiki/German_cuisine",
-      "https://www.deutsche-handwerks-zeitung.de/eu-herkunftsbezeichnung-diese-lebensmittel-sind-geschuetzt-73430/"
+      "https://en.wikipedia.org/wiki/German_cuisine"
     ]
   },
   {
@@ -1116,7 +1116,7 @@
     "spice": 0,
     "allergens": [],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Thüringer_Klöße",
     "source_urls": [
       "https://en.wikipedia.org/wiki/German_cuisine",
       "https://de.wikipedia.org/wiki/Thüringer_Klöße"
@@ -1151,6 +1151,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stollen",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Stollen",
+      "https://de.wikipedia.org/wiki/Stollen_(Gebäck)",
       "https://www.deutsche-handwerks-zeitung.de/eu-herkunftsbezeichnung-diese-lebensmittel-sind-geschuetzt-73430/"
     ]
   },
@@ -1197,16 +1198,21 @@
     "regions": [
       "Leipzig"
     ],
-    "description": "A mix of young vegetables such as peas, carrots, green beans, asparagus heads, morels and celery, often with cauliflower and kohlrabi. It is named after Leipzig.",
+    "description": "A mix of young vegetables such as peas, carrots, green beans, asparagus heads, morels and celery, often with cauliflower and kohlrabi. The classic version adds a sauce of crayfish butter, crayfish tails and semolina dumplings. It is named after Leipzig.",
     "how_to_eat": "Eat as a main or side.",
     "how_to_order": "Look for it on menus in Leipzig in spring.",
     "typical_price": null,
     "currency": "EUR",
-    "diet": "veg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "shellfish",
+      "dairy",
+      "egg",
+      "gluten"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Leipziger_Allerlei",
     "source_urls": [
