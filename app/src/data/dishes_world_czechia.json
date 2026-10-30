@@ -1,0 +1,906 @@
+[
+  {
+    "id": "czechia-svickova",
+    "name": "Svíčková",
+    "local_name": "Svíčková na smetaně",
+    "pronunciation": "SVEECH-ko-vah",
+    "category": "meal",
+    "country": "Czechia",
+    "state": "Prague",
+    "regions": [],
+    "description": "Beef topside cooked with carrots, parsley root, celeriac and onion, spiced with black pepper, allspice, bay leaf and thyme; the vegetables and juices are blended with sour double cream into a thick sauce. It is one of the most common Czech and Slovak meals.",
+    "how_to_eat": "Eat it with sliced bread dumplings, a dollop of whipped cream, cranberry sauce and a slice of lemon.",
+    "how_to_order": "Ask for svíčková na smetaně; restaurants serve it with houskové knedlíky (bread dumplings).",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Svíčková",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Svíčková",
+      "https://en.wikipedia.org/wiki/Czech_cuisine",
+      "https://cs.wikipedia.org/wiki/Houskový_knedlík"
+    ]
+  },
+  {
+    "id": "czechia-vepro-knedlo-zelo",
+    "name": "Vepřo knedlo zelo",
+    "local_name": "Vepřo knedlo zelo",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Czechia",
+    "state": "Prague",
+    "regions": [],
+    "description": "Roast pork, sliced potato or bread dumplings and steamed white (less often red) sauerkraut, placed separately on the plate with the pork covered in its own juice. Wikipedia calls it one of the national dishes of the Czech Republic and often the most typical Czech dish; it is believed to have German origins.",
+    "how_to_eat": null,
+    "how_to_order": "On menus it appears as pečené vepřové s knedlíky a se zelím.",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vepřo_knedlo_zelo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Vepřo_knedlo_zelo",
+      "https://en.wikipedia.org/wiki/Czech_cuisine",
+      "https://cs.wikipedia.org/wiki/Houskový_knedlík"
+    ]
+  },
+  {
+    "id": "czechia-gulas",
+    "name": "Czech goulash",
+    "local_name": "Guláš",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Czechia",
+    "state": "Prague",
+    "regions": [],
+    "description": "A stew usually made from beef (pork and game versions exist) with onions and spices. Unlike Hungarian gulyás, which is a soup, Czech guláš is a thick stew served with boiled or steamed bread dumplings.",
+    "how_to_eat": "In pubs it is garnished with slices of fresh onion and eaten with beer.",
+    "how_to_order": "Ask for hovězí guláš s knedlíkem (beef goulash with dumplings).",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Goulash",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Goulash",
+      "https://en.wikipedia.org/wiki/Czech_cuisine",
+      "https://cs.wikipedia.org/wiki/Houskový_knedlík"
+    ]
+  },
+  {
+    "id": "czechia-prague-ham",
+    "name": "Prague ham",
+    "local_name": "Pražská šunka",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Czechia",
+    "state": "Prague",
+    "regions": [
+      "Prague"
+    ],
+    "description": "A brine-cured, stewed and mildly beechwood-smoked boneless ham first marketed in the 1860s by Prague butcher Antonín Chmel; cooked on the bone it is called šunka od kosti. It is registered as an EU Traditional Speciality Guaranteed.",
+    "how_to_eat": "It is served with boiled potatoes and often a Czech beer.",
+    "how_to_order": "Look for street vendors and restaurants carving šunka od kosti (ham on the bone).",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Prague_ham",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Prague_ham",
+      "https://en.wikipedia.org/wiki/Czech_cuisine"
+    ]
+  },
+  {
+    "id": "czechia-smazeny-syr",
+    "name": "Fried cheese",
+    "local_name": "Smažený sýr",
+    "pronunciation": "SMAH-zheh-nee SEER",
+    "category": "street_food",
+    "country": "Czechia",
+    "state": "Prague",
+    "regions": [],
+    "description": "A slice of cheese, most often Edam, about 1.5 cm thick, breaded in flour, egg and breadcrumbs and fried. It is a common street food and an inexpensive staple of Czech school canteens; made with Hermelín or Olomoucké tvarůžky it becomes smažený hermelín or smažené tvarůžky.",
+    "how_to_eat": "Eat it hot with tartar sauce and fries or boiled potatoes, or in a bun from fast-food stands.",
+    "how_to_order": "Ask for smažák, the colloquial name.",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Smažený_sýr",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Smažený_sýr",
+      "https://en.wikipedia.org/wiki/Czech_cuisine",
+      "https://cs.wikipedia.org/wiki/Smažený_sýr"
+    ]
+  },
+  {
+    "id": "czechia-chlebicek",
+    "name": "Chlebíček",
+    "local_name": "Obložený chlebíček",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Czechia",
+    "state": "Prague",
+    "regions": [
+      "Prague"
+    ],
+    "description": "An open sandwich of sliced veka or baguette spread with butter and topped with ham, salami, hard-boiled egg, cheese, salads or spreads, garnished with cucumber, tomato, pepper or radish. It dates to 1916, when Paukert's deli opened on Národní in Prague; the original salami-and-egg version was called Paukert.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at delis, food stalls during festivals and in bars.",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chlebíček",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chlebíček",
+      "https://en.wikipedia.org/wiki/Czech_cuisine"
+    ]
+  },
+  {
+    "id": "czechia-trdelnik",
+    "name": "Trdelník",
+    "local_name": "Trdelník",
+    "pronunciation": "TR-del-neek",
+    "category": "street_food",
+    "country": "Czechia",
+    "state": "Prague",
+    "regions": [],
+    "description": "Yeast dough wound around a wooden or metal roller (trdlo), baked over charcoal while being brushed with milk, then topped with sugar and walnuts. It originated in the northern part of the historical Kingdom of Hungary and was known as a Slovak, later Moravian, dish; its spread in Prague began only in the early 2000s, and locals have criticised stalls that present it as an old Bohemian tradition.",
+    "how_to_eat": null,
+    "how_to_order": "Prague cafés and stalls also sell it filled with ice cream and toppings such as strawberries and chocolate.",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Trdelník",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Trdelník",
+      "https://cs.wikipedia.org/wiki/Trdelník",
+      "https://en.wikipedia.org/wiki/Czech_cuisine"
+    ]
+  },
+  {
+    "id": "czechia-kofola",
+    "name": "Kofola",
+    "local_name": "Kofola",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Czechia",
+    "state": "Prague",
+    "regions": [
+      "Prague"
+    ],
+    "description": "A Czech cola-style soft drink made from kofo syrup of 14 herbal and fruit ingredients, sugar and caramel, less sweet than Coca-Cola. It was developed in 1959 at a Prague research institute to use surplus caffeine from coffee roasting and became popular in communist Czechoslovakia.",
+    "how_to_eat": null,
+    "how_to_order": "In restaurants it is often poured on draught from kegs.",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kofola",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kofola",
+      "https://en.wikipedia.org/wiki/Czech_cuisine"
+    ]
+  },
+  {
+    "id": "czechia-pilsner-urquell",
+    "name": "Pilsner Urquell",
+    "local_name": "Plzeňský prazdroj",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Czechia",
+    "state": "Bohemia",
+    "regions": [
+      "Plzeň"
+    ],
+    "description": "A pale lager brewed only in Plzeň, hopped with Saaz hops and made with soft water. First served in 1842 after the town's burghers hired Bavarian brewer Josef Groll, it was the world's first pale lager and gave its name to the pilsner style.",
+    "how_to_eat": null,
+    "how_to_order": "Tours run at the Plzeň brewery; an unpasteurised tank version is increasingly available.",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pilsner_Urquell",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pilsner_Urquell",
+      "https://en.wikipedia.org/wiki/Beer_in_the_Czech_Republic"
+    ]
+  },
+  {
+    "id": "czechia-becherovka",
+    "name": "Becherovka",
+    "local_name": "Becherovka",
+    "pronunciation": "BEH-kheh-rof-ka",
+    "category": "drink",
+    "country": "Czechia",
+    "state": "Bohemia",
+    "regions": [
+      "Karlovy Vary"
+    ],
+    "description": "A herbal bitters made in Karlovy Vary by the Jan Becher company from a secret recipe of more than twenty herbs and spices, 38% ABV, with a gingery or cinnamon taste. Josef Vitus Becher began selling it in the early 19th century as a stomach remedy.",
+    "how_to_eat": "Drink it chilled as a digestif, or mixed with tonic water as a Beton.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Becherovka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Becherovka",
+      "https://en.wikipedia.org/wiki/Czech_cuisine"
+    ]
+  },
+  {
+    "id": "czechia-karlovy-vary-wafers",
+    "name": "Karlovy Vary spa wafers",
+    "local_name": "Karlovarské oplatky",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Czechia",
+    "state": "Bohemia",
+    "regions": [
+      "Karlovy Vary"
+    ],
+    "description": "Two thin, crisp round wafers about 19 cm across, stuck together with a filling; the dough and filling are flavoured with sugar and hazelnuts, almonds, chocolate, cocoa, vanilla or cinnamon and mixed with Karlovy Vary thermal water. Made since at least 1788, they have been an EU protected geographical indication since 2011.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://cs.wikipedia.org/wiki/Karlovarské_oplatky",
+    "source_urls": [
+      "https://cs.wikipedia.org/wiki/Karlovarské_oplatky"
+    ]
+  },
+  {
+    "id": "czechia-chodsky-kolac",
+    "name": "Chod koláč",
+    "local_name": "Chodský koláč",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Czechia",
+    "state": "Bohemia",
+    "regions": [
+      "Chodsko"
+    ],
+    "description": "A large round yeast-dough cake from the Chod region of west Bohemia, covered with plum jam (povidla), poppy seed and tvaroh (quark) fillings laid in ornaments, sometimes with raisins or almonds and rum in the fillings. Once baked only for festive occasions, it remains one of the main symbols of the region.",
+    "how_to_eat": null,
+    "how_to_order": "Bakeries sell them, including outside Chodsko.",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://cs.wikipedia.org/wiki/Chodský_koláč",
+    "source_urls": [
+      "https://cs.wikipedia.org/wiki/Chodský_koláč",
+      "https://en.wikipedia.org/wiki/Kolach_(cake)"
+    ]
+  },
+  {
+    "id": "czechia-pardubice-gingerbread",
+    "name": "Pardubice gingerbread",
+    "local_name": "Pardubický perník",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Czechia",
+    "state": "Bohemia",
+    "regions": [
+      "Pardubice"
+    ],
+    "description": "Honey gingerbread shaped into hearts, cottages and other figures. Pardubice has made it for centuries: its gingerbread guild dates from the 16th century, the first factory opened in 1913, and Pardubice gingerbread has been an EU protected geographical indication since 2008.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://cs.wikipedia.org/wiki/Perník",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pardubice",
+      "https://en.wikipedia.org/wiki/Czech_cuisine",
+      "https://cs.wikipedia.org/wiki/Perník"
+    ]
+  },
+  {
+    "id": "czechia-horicke-trubicky",
+    "name": "Hořice tubes",
+    "local_name": "Hořické trubičky",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Czechia",
+    "state": "Bohemia",
+    "regions": [
+      "Hořice"
+    ],
+    "description": "Hand-rolled tubes of two thin crisp wafers brushed with melted butter and honey and sprinkled with a spiced mix, sold plain, cream-filled or dipped in chocolate. They were the seventh Czech product to get EU protected geographical indication and may only be made in and around Hořice.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://cs.wikipedia.org/wiki/Hořické_trubičky",
+    "source_urls": [
+      "https://cs.wikipedia.org/wiki/Hořické_trubičky"
+    ]
+  },
+  {
+    "id": "czechia-lomnicke-suchary",
+    "name": "Lomnice rusks",
+    "local_name": "Lomnické suchary",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Czechia",
+    "state": "Bohemia",
+    "regions": [
+      "Lomnice nad Popelkou"
+    ],
+    "description": "Spiced rusks from Lomnice nad Popelkou, sometimes with hazelnuts, almonds or peanuts: the dough is baked in long loaves, sliced, coated in powdered sugar and dried in the oven. Made since before 1800, they are a popular souvenir and an EU protected geographical indication since 2007.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts",
+      "peanuts"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://cs.wikipedia.org/wiki/Lomnické_suchary",
+    "source_urls": [
+      "https://cs.wikipedia.org/wiki/Lomnické_suchary"
+    ]
+  },
+  {
+    "id": "czechia-utopenci",
+    "name": "Utopenci",
+    "local_name": "Utopenec",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Czechia",
+    "state": "Bohemia",
+    "regions": [],
+    "description": "Špekáček sausages pickled with onion in a sweet-sour brine of vinegar, sugar, salt, pepper, allspice and bay leaf, sometimes with chili peppers, and left for one to two weeks. The name means 'drowned men'; it is a classic pub snack with beer.",
+    "how_to_eat": "Eat with bread alongside a beer.",
+    "how_to_order": "Ask for utopenec in a pub.",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://cs.wikipedia.org/wiki/Utopenec",
+    "source_urls": [
+      "https://cs.wikipedia.org/wiki/Utopenec",
+      "https://en.wikipedia.org/wiki/Czech_cuisine"
+    ]
+  },
+  {
+    "id": "czechia-kulajda",
+    "name": "Kulajda",
+    "local_name": "Kulajda",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Czechia",
+    "state": "South Bohemia",
+    "regions": [],
+    "description": "A thick, white South Bohemian soup of mushrooms, potatoes, cream and dill, finished with an egg (often a quail's egg). Mushrooms give the main flavour.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kulajda",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kulajda",
+      "https://en.wikipedia.org/wiki/Czech_cuisine",
+      "https://cs.wikipedia.org/wiki/Jihočeská_kuchyně"
+    ]
+  },
+  {
+    "id": "czechia-trebon-carp",
+    "name": "Třeboň carp",
+    "local_name": "Třeboňský kapr",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Czechia",
+    "state": "South Bohemia",
+    "regions": [
+      "Třeboň"
+    ],
+    "description": "Carp raised in the ponds of the Třeboň basin, exported to German and Austrian markets since the late 19th century and an EU protected geographical indication since 2007. Carp is the traditional Czech Christmas fish, eaten breaded and fried and in fish soup; South Bohemian dishes include kapr na modro and Třeboň fish soup.",
+    "how_to_eat": null,
+    "how_to_order": "Genuine Třeboň carp is sold with a certificate of origin.",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://cs.wikipedia.org/wiki/Třeboňský_kapr",
+    "source_urls": [
+      "https://cs.wikipedia.org/wiki/Třeboňský_kapr",
+      "https://cs.wikipedia.org/wiki/Jihočeská_kuchyně",
+      "https://en.wikipedia.org/wiki/Czech_cuisine"
+    ]
+  },
+  {
+    "id": "czechia-budvar",
+    "name": "Budweiser Budvar",
+    "local_name": "Budějovický Budvar",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Czechia",
+    "state": "South Bohemia",
+    "regions": [
+      "České Budějovice"
+    ],
+    "description": "Pale lager from České Budějovice brewed with artesian water, Moravian barley and Saaz hops from Žatec, matured for at least 90 days. Budějovický Budvar has EU protected geographical indication status (2004); in the US and Canada it is sold as Czechvar.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Budweiser_Budvar_Brewery",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Budweiser_Budvar_Brewery",
+      "https://en.wikipedia.org/wiki/Beer_in_the_Czech_Republic"
+    ]
+  },
+  {
+    "id": "czechia-bramborak",
+    "name": "Potato pancake (cmunda)",
+    "local_name": "Bramborák",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Czechia",
+    "state": "South Bohemia",
+    "regions": [
+      "Kaplice"
+    ],
+    "description": "Pancakes of grated potato with egg, breadcrumbs or flour, seasoned with garlic, marjoram, salt and pepper and fried; in South Bohemia and Plzeň they are called cmunda. Cmunda po kaplicku, a large one topped with smoked meat and sauerkraut, was created in an inn in Kaplice.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for cmunda in South Bohemia, bramborák elsewhere.",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Potato_pancake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Potato_pancake",
+      "https://en.wikipedia.org/wiki/Czech_cuisine",
+      "https://cs.wikipedia.org/wiki/Jihočeská_kuchyně"
+    ]
+  },
+  {
+    "id": "czechia-ovocne-knedliky",
+    "name": "Fruit dumplings",
+    "local_name": "Ovocné knedlíky",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Czechia",
+    "state": "South Bohemia",
+    "regions": [],
+    "description": "Dumplings of yeast, semolina, quark or potato dough filled with plums or apricots (also strawberries, blueberries or apples), boiled, then topped with sugar, melted butter, quark, poppy seeds or grated gingerbread. They are listed among typical South Bohemian dishes.",
+    "how_to_eat": null,
+    "how_to_order": "Look for švestkové (plum) or meruňkové (apricot) knedlíky.",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://cs.wikipedia.org/wiki/Ovocné_knedlíky",
+    "source_urls": [
+      "https://cs.wikipedia.org/wiki/Ovocné_knedlíky",
+      "https://cs.wikipedia.org/wiki/Jihočeská_kuchyně",
+      "https://en.wikipedia.org/wiki/Czech_cuisine"
+    ]
+  },
+  {
+    "id": "czechia-parek-v-rohliku",
+    "name": "Párek v rohlíku",
+    "local_name": "Párek v rohlíku",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Czechia",
+    "state": "South Bohemia",
+    "regions": [
+      "České Budějovice"
+    ],
+    "description": "The Czech hot dog: a hot sausage pushed into a rohlík roll that is hollowed out on a spike rather than sliced, with mustard or ketchup. It was reportedly introduced in 1972 by České Budějovice butcher Václav Masopust after a trip to Madrid, under the name pikador, which South Bohemians still use.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at fast-food stands; in South Bohemia ask for a pikador.",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://cs.wikipedia.org/wiki/Párek_v_rohlíku",
+    "source_urls": [
+      "https://cs.wikipedia.org/wiki/Párek_v_rohlíku",
+      "https://en.wikipedia.org/wiki/Czech_cuisine"
+    ]
+  },
+  {
+    "id": "czechia-olomoucke-tvaruzky",
+    "name": "Olomouc cheese",
+    "local_name": "Olomoucké tvarůžky",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Czechia",
+    "state": "Moravia",
+    "regions": [
+      "Olomouc",
+      "Loštice"
+    ],
+    "description": "A ripened soft cheese made in Loštice from low-fat quark, with a strong smell, pungent taste and yellowish colour; it has only about 0.5% fat. First mentioned in 1452, it is a long-standing beer snack and an EU protected geographical indication since 2010.",
+    "how_to_eat": "Eat it with beer, or fried, marinated or mixed into potato pancakes.",
+    "how_to_order": "There is a museum and shop at the producer's plant in Loštice.",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Olomoucké_tvarůžky",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Olomoucké_tvarůžky",
+      "https://en.wikipedia.org/wiki/Czech_cuisine"
+    ]
+  },
+  {
+    "id": "czechia-moravsky-vrabec",
+    "name": "Moravian sparrow",
+    "local_name": "Moravský vrabec",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Czechia",
+    "state": "Moravia",
+    "regions": [],
+    "description": "Pieces of marbled pork braised and then roasted with garlic, caraway, salt and plenty of onion, sometimes with wine or beer. The 'sparrows' are served with sauerkraut, dumplings and spinach; the dish is often said to come from Slovácko.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://cs.wikipedia.org/wiki/Moravský_vrabec",
+    "source_urls": [
+      "https://cs.wikipedia.org/wiki/Moravský_vrabec",
+      "https://cs.wikipedia.org/wiki/Moravská_kuchyně",
+      "https://cs.wikipedia.org/wiki/Houskový_knedlík"
+    ]
+  },
+  {
+    "id": "czechia-valassky-frgal",
+    "name": "Wallachian frgál",
+    "local_name": "Valašský frgál",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Czechia",
+    "state": "Moravia",
+    "regions": [],
+    "description": "A large yeast-dough cake about 30 cm across, sprinkled with sweet crumble, with a single filling such as poppy seed, quark, plum jam or pear. Baked for weddings and folk festivals, it is first recorded in 1826 and has been an EU protected geographical indication since 2013.",
+    "how_to_eat": null,
+    "how_to_order": "Look for it at folk festivals at the Wallachian Open Air Museum.",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://cs.wikipedia.org/wiki/Frgál",
+    "source_urls": [
+      "https://cs.wikipedia.org/wiki/Frgál",
+      "https://en.wikipedia.org/wiki/Kolach_(cake)"
+    ]
+  },
+  {
+    "id": "czechia-kyselica",
+    "name": "Kyselica",
+    "local_name": "Kyselica",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Czechia",
+    "state": "Moravia",
+    "regions": [],
+    "description": "A Wallachian sauerkraut soup with sour cream, bacon, potatoes, eggs and sausage.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Czech_cuisine",
+      "https://cs.wikipedia.org/wiki/Moravská_kuchyně"
+    ]
+  },
+  {
+    "id": "czechia-stramberske-usi",
+    "name": "Štramberk ears",
+    "local_name": "Štramberské uši",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Czechia",
+    "state": "Moravia",
+    "regions": [
+      "Štramberk"
+    ],
+    "description": "Cone-shaped gingerbread pastries baked in and around the Moravian town of Štramberk, linked by legend to the Tatar invasion of 1241 and first recorded in 1835. Since 2007 they have had EU geographical protection, the first Czech food product to get it through the standard procedure.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Štramberk_ears",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Štramberk_ears",
+      "https://cs.wikipedia.org/wiki/Štramberské_uši",
+      "https://cs.wikipedia.org/wiki/Moravská_kuchyně"
+    ]
+  },
+  {
+    "id": "czechia-moravian-wine",
+    "name": "Moravian wine",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Czechia",
+    "state": "Moravia",
+    "regions": [
+      "Mikulov",
+      "Valtice",
+      "Znojmo"
+    ],
+    "description": "About 96% of Czech vineyards are in southern Moravia, around Mikulov, Valtice, Znojmo and the Pálava Hills. Common white varieties are Pinot gris, Riesling and Chardonnay, reds include Pinot noir, Blaufränkisch (Frankovka) and Zweigelt, plus local varieties such as Pálava.",
+    "how_to_eat": null,
+    "how_to_order": "Visit the harvest festivals (vinobraní) in September in Znojmo, Mikulov or Brno, or the National Wine Centre at Valtice Castle.",
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Czech_wine",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Czech_wine",
+      "https://cs.wikipedia.org/wiki/Moravská_kuchyně"
+    ]
+  },
+  {
+    "id": "czechia-burcak",
+    "name": "Burčák",
+    "local_name": "Burčák",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Czechia",
+    "state": "Moravia",
+    "regions": [],
+    "description": "Young, partly fermented grape must, typically around 9% alcohol and still fermenting, known in Germany as Federweisser and in the Czech Republic as burčák. It is listed among the specialities of Moravian Slovácko.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Federweisser",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Federweisser",
+      "https://cs.wikipedia.org/wiki/Moravská_kuchyně"
+    ]
+  },
+  {
+    "id": "czechia-slivovice",
+    "name": "Slivovitz",
+    "local_name": "Slivovice",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Czechia",
+    "state": "Moravia",
+    "regions": [],
+    "description": "Plum brandy distilled from fermented plums; in Czechia it is mostly a Moravian drink (Slovácko, Haná, Wallachia). Home-distilled slivovice is usually around 52% alcohol, commercial versions 40%; an 1835 decree letting Moravians distil spirit from their own fruit tax-free helped make it more popular there than in Bohemia.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CZK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://cs.wikipedia.org/wiki/Slivovice",
+    "source_urls": [
+      "https://cs.wikipedia.org/wiki/Slivovice",
+      "https://en.wikipedia.org/wiki/Slivovitz",
+      "https://cs.wikipedia.org/wiki/Moravská_kuchyně"
+    ]
+  }
+]

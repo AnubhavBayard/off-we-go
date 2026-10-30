@@ -3,6 +3,7 @@ import { useNavigate, useSearchParams } from 'react-router-dom'
 import { Camera, Check, Heart, ImagePlus, MapPin, NotebookPen, User, Users, UsersRound, UtensilsCrossed } from 'lucide-react'
 import { dishById, dishes, dishesForRestaurant, distanceKm, restaurantById, restaurants } from '../data'
 import { addMemory, currentPosition } from '../memories'
+import { FoodTicker } from '../ui'
 
 // Memories have no "company" field; the choice is saved at the start of the note ("With family · ...").
 const COMPANY = [
@@ -68,7 +69,7 @@ export default function AddMemory() {
   return (
     <div className="page form-page">
       <div className="top-bar">
-        <div className="avatar"><Camera size={20} /></div>
+        <FoodTicker />
         <div className="greeting">
           <b>New memory</b>
           <span>Saved on your phone first</span>

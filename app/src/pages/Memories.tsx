@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
+import { ChevronRight, CloudCheck, CloudOff } from 'lucide-react'
 import Map, { Layer, Marker, Source, type MapLayerMouseEvent, type MapRef } from 'react-map-gl/maplibre'
 import type { FeatureCollection, Geometry } from 'geojson'
 import { dishById, restaurantById } from '../data'
@@ -103,9 +104,14 @@ export default function Memories() {
   return (
     <div className="page">
       <h1>My food <span className="hl">memories</span></h1>
-      <p className="small">
-        <Link to="/account">{session ? `Backed up as ${session.user.email}` : 'Not backed up. Sign in to keep your photos safe'}</Link>
-      </p>
+      <Link to="/account" className={`backup-card${session ? ' ok' : ''}`}>
+        <span className="backup-icon">{session ? <CloudCheck size={20} /> : <CloudOff size={20} />}</span>
+        <span className="backup-text">
+          <b>{session ? 'Backed up' : 'Not backed up yet'}</b>
+          <span className="muted small">{session ? session.user.email : 'Sign in to keep your photos safe'}</span>
+        </span>
+        <ChevronRight size={20} aria-hidden />
+      </Link>
       <div className="stats">
         <div><b>{visited.length}</b> countries</div>
         <div><b>{new Set(list.flatMap((m) => (m.city ? `${m.countryCode}|${m.city}` : []))).size}</b> cities</div>

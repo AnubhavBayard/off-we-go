@@ -1,7 +1,7 @@
 /* Look (see /inspo): light grey-white, black text and dark surfaces, lime accent, big rounded photo cards,
    floating white icon nav. Light theme only, like the inspiration. */
 :root {
-  --bg: #f6fbe8; /* very light lime, solid */
+  --bg: #fafdf1; /* very light lime, solid */
   --card: #fff;
   --text: #111418;
   --muted: #4b525c;
@@ -211,9 +211,19 @@ a.btn { text-decoration: none; }
 .field { display: grid; gap: 6px; margin: 14px 0; font-weight: 600; font-size: 0.9rem; }
 
 /* Memories: stats as a black card with lime numbers */
-.stats { display: flex; gap: 4px; background: var(--ink); color: var(--on-ink); border-radius: 26px; padding: 16px 8px; }
+.stats { display: flex; gap: 4px; background: var(--deep); color: var(--on-ink); border-radius: 26px; padding: 16px 8px; }
 .stats div { flex: 1; text-align: center; font-size: 0.85rem; opacity: 0.9; }
 .stats b { display: block; font-size: 1.7rem; color: var(--lime); }
+/* Memories: backup status card linking to the account page */
+.backup-card {
+  display: flex; align-items: center; gap: 12px; margin: 0 0 12px; padding: 10px 14px 10px 10px;
+  background: var(--card); border: 1px solid var(--border); border-radius: 999px; box-shadow: var(--shadow); font-weight: 400;
+}
+.backup-card > svg { color: var(--muted); }
+.backup-icon { width: 40px; height: 40px; border-radius: 50%; flex: none; display: grid; place-items: center; background: var(--lime); color: var(--ink); }
+.backup-card.ok .backup-icon { background: var(--deep); color: var(--lime); }
+.backup-text { flex: 1; min-width: 0; display: grid; line-height: 1.25; }
+.backup-text .small { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .world { position: relative; height: 300px; margin-top: 12px; border-radius: 26px; overflow: hidden; box-shadow: var(--shadow); }
 .city-pin { width: 16px; height: 16px; border-radius: 50%; background: var(--ink); border: 2px solid var(--lime); cursor: pointer; }
 .city-pin.on { background: var(--lime); border-color: var(--deep); transform: scale(1.3); }
