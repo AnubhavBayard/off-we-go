@@ -370,3 +370,4 @@
 - Hungary done: 27 dishes, 4 regions (Budapest 8, Great Plain 7, Balaton & Transdanubia 6, Northern Hungary & Tokaj 6; I shortened two long region names for the picker). GI true: Szegedi téliszalámi PDO, Gyulai + Csabai kolbász PGI, Kecskeméti + Szatmári pálinka PDO, Tokaji aszú PDO. Lángos nonveg (lard-fried classic). Validator OK.
 - Czechia: research agent running.
 - Look change (user): blurred wallpaper replaced by solid light lime background (--bg #e9f5c8); public/wallpaper-blur.jpg deleted (also clears the wallpaper licence item). Selected states now deep green (--deep #1e5631) instead of black: category/veg chips, Add-memory option pills, picker sheet selected icon, selected map city pin. "Clear filters" stays black (action, not a selection). Tested headless; installed on phone.
+- Background lightened (user): --bg #e9f5c8 -> #f6fbe8. Installed.

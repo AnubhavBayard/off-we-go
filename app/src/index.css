@@ -1,7 +1,7 @@
 /* Look (see /inspo): light grey-white, black text and dark surfaces, lime accent, big rounded photo cards,
    floating white icon nav. Light theme only, like the inspiration. */
 :root {
-  --bg: #e9f5c8; /* light lime, solid */
+  --bg: #f6fbe8; /* very light lime, solid */
   --card: #fff;
   --text: #111418;
   --muted: #4b525c;
