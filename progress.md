@@ -273,7 +273,7 @@
 - Indonesia: verification agent running (last of priority 8).
 - Indonesia done: 46 checked, 32 fixed. Bad links: ketoprak (theatre genre) -> Ketoprak (dish), lawar (town in India) -> Lawar (food), lumpia semarang -> own article. Seblak egg -> nonveg (+shellfish); candlenut -> nuts on gudeg/rawon/ayam betutu/plecing; many descriptions rewritten. Maluku & Papua only 3 dishes (sourced fill candidates: sago pancake, ulat sagu, sayur ganemo, deer dendeng, wild boar). All GI false. Validator OK.
 - fetch_dish_images.py now uses each link's wiki language (en/fr/es/id) instead of en only. Re-ran: 891 of 907 linked dishes have photos; 12 new correct photos (socca, praline tart, cachopo, rabo de toro, Asturian cider, garnachas, akok, ketoprak, lawar, lumpia semarang, polo, samsa); no existing photo changed.
-- Built + installed on phone. Committed (not pushed).
+- Built, NOT installed (phone disconnected: adb no devices). Committed (not pushed).
 - Open user decisions: drop/swap USA sourdough (cioppino?); Mexico weak picks (vuelve a la vida, garnachas, caesar salad); GI for product-level PGIs (calçots, lechazo); fill Johor (3 dishes) and Maluku & Papua (3); Singapore kueh lapis entry vs baked kind, Singapore sling vegan?
 - Next: verify remaining 12 countries (Italy, Turkey, UK, Germany, Greece, Thailand, Japan, Vietnam, Portugal, Netherlands, South Korea, UAE) the same way, one at a time.
 - Pushed 01eef8f to GitHub. Started remaining 12 countries: Italy verification agent running.
@@ -379,4 +379,4 @@
 - Egypt done: 25 dishes, 4 regions (Cairo 8, Alexandria & the Coast 6, Nile Delta 5, Upper Egypt 6; Sinai dropped, no sourced dishes). No GIs. Validator OK.
 - BATCH 2 DONE: 29 countries, 1,387 dishes. Photos refetched: +101 (Poland, Hungary, Czechia, Egypt). Kalisz andruts link set to null (its article's lead image is a photo of Kalisz town).
 - Launch intro (user): logo is orange, app is green, so the intro now changes theme: starts cream/orange (matches native splash), red ripple, name rises; at 1.25 s a bright lime wave grows out of the logo, the pale app background follows at 1.6 s, logo gains a lime ring, tagline turns deep green; zoom-out moved 1.9 s -> 2.5 s. Fixed my earlier duplicate @keyframes fade-in (picker overlay renamed overlay-in) that had changed the intro tagline animation. Frames checked headless.
-- Built + installed on phone. Committed (not pushed).
+- Built, NOT installed (phone disconnected: adb no devices). Committed (not pushed).
