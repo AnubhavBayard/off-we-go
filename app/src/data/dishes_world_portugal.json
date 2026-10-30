@@ -714,6 +714,63 @@
     ]
   },
   {
+    "id": "portugal-sopa-de-cacao",
+    "name": "Sopa de Cação",
+    "local_name": "Sopa de cação",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Alentejo",
+    "regions": [],
+    "description": "A soup of dogfish (cação) loins seasoned with bay leaves, paprika and vinegar in a garlic and coriander broth. It is a typical dish of the Alentejo, traditionally served over or with Alentejo bread.",
+    "how_to_eat": "Eat hot, with the broth soaked into slices of Alentejo bread.",
+    "how_to_order": "Order 'sopa de cação' in Alentejo restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Sopa_de_cação",
+    "source_urls": [
+      "https://pt.wikipedia.org/wiki/Sopa_de_cação"
+    ]
+  },
+  {
+    "id": "portugal-queijo-serpa",
+    "name": "Serpa Cheese",
+    "local_name": "Queijo Serpa",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Portugal",
+    "state": "Alentejo",
+    "regions": [
+      "Serpa"
+    ],
+    "description": "A cured, semi-soft, buttery cheese of raw sheep's milk curdled with a thistle infusion, from the Serpa area of the Alentejo. It is an EU Protected Designation of Origin (DOP) covering almost all of Beja district.",
+    "how_to_eat": "Eat with bread as a starter.",
+    "how_to_order": "Buy 'queijo Serpa' at markets and cheese shops in the Beja district.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Queijo_Serpa",
+    "source_urls": [
+      "https://pt.wikipedia.org/wiki/Queijo_Serpa"
+    ]
+  },
+  {
     "id": "portugal-cataplana",
     "name": "Cataplana",
     "local_name": "Cataplana",
@@ -828,6 +885,63 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Dom_Rodrigo",
       "https://en.wikipedia.org/wiki/Portuguese_cuisine"
+    ]
+  },
+  {
+    "id": "portugal-xerem",
+    "name": "Xerém",
+    "local_name": "Xerém",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Portugal",
+    "state": "Algarve",
+    "regions": [
+      "Olhão"
+    ],
+    "description": "A porridge of maize flour, considered a typical dish of the Algarve and especially of Olhão. There it is often made with clams, bacon, cured ham and chouriço, and 'xarém com conquilhas' was a finalist in the 7 Wonders of Portuguese Gastronomy.",
+    "how_to_eat": "Eat hot with the clams or pork mixed through.",
+    "how_to_order": "Order 'xerém com amêijoas' or 'xarém com conquilhas' in Olhão and Algarve restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Xerém_(culinária)",
+    "source_urls": [
+      "https://pt.wikipedia.org/wiki/Xerém_(culinária)"
+    ]
+  },
+  {
+    "id": "portugal-doce-fino",
+    "name": "Doce Fino",
+    "local_name": "Doce fino",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Portugal",
+    "state": "Algarve",
+    "regions": [],
+    "description": "A regional Algarve sweet of marzipan made from almonds, sugar and egg white, sometimes filled with egg threads. Done properly, it is hand-shaped and painted to look like small animals, fruits and vegetables.",
+    "how_to_eat": "Eat as a small sweet with coffee.",
+    "how_to_order": "Buy at Algarve pastry shops.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Doce_fino",
+    "source_urls": [
+      "https://pt.wikipedia.org/wiki/Doce_fino"
     ]
   },
   {

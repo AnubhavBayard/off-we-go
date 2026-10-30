@@ -1427,6 +1427,12 @@
   "credit": "ZhengZhou",
   "license": "CC BY-SA 4.0"
  },
+ "china-doupi": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Freshly_made_Doupi.jpeg/960px-Freshly_made_Doupi.jpeg",
+  "page": "https://commons.wikimedia.org/wiki/File:Freshly_made_Doupi.jpeg",
+  "credit": "ZhengZhou",
+  "license": "CC BY-SA 4.0"
+ },
  "china-roujiamo": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Roujiamo.jpg/960px-Roujiamo.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Roujiamo.jpg",
@@ -1509,6 +1515,18 @@
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Kweichow_Moutai_2023_Part_1.jpg/960px-Kweichow_Moutai_2023_Part_1.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Kweichow_Moutai_2023_Part_1.jpg",
   "credit": "毕明明",
+  "license": "CC BY-SA 4.0"
+ },
+ "china-qiguoji": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Qi_Guoji.jpg/960px-Qi_Guoji.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Qi_Guoji.jpg",
+  "credit": "Shizhao",
+  "license": "CC BY-SA 3.0"
+ },
+ "china-rubing": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rubing_Goats_Cheese_of_Yunnan_China.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Rubing_Goats_Cheese_of_Yunnan_China.jpg",
+  "credit": "Pratyeka",
   "license": "CC BY-SA 4.0"
  },
  "france-croissant": {
@@ -2423,6 +2441,12 @@
   "credit": "Gunawan Kartapranata",
   "license": "CC BY-SA 3.0"
  },
+ "indonesia-sate-ulat-sagu": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Sate_ulat_sagu.webp/960px-Sate_ulat_sagu.webp",
+  "page": "https://commons.wikimedia.org/wiki/File:Sate_ulat_sagu.webp",
+  "credit": "Kemenparekraf",
+  "license": "Public domain"
+ },
  "italy-spaghetti-alla-carbonara": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/960px-Espaguetis_carbonara.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Espaguetis_carbonara.jpg",
@@ -3161,6 +3185,18 @@
   "credit": "Midori",
   "license": "CC BY 3.0"
  },
+ "malaysia-asam-pedas": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/ASAM_PEDAS_IKAN_PARI.jpg/960px-ASAM_PEDAS_IKAN_PARI.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg",
+  "credit": "Elly Suhailee",
+  "license": "CC BY-SA 4.0"
+ },
+ "malaysia-mee-bandung-muar": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mee_Bandung_Muar.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mee_Bandung_Muar.jpg",
+  "credit": "Sham Hardy",
+  "license": "CC BY-SA 2.0"
+ },
  "malaysia-kolo-mee": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Sarawak_Kolo_Mee_Noodle_Dish.jpg/960px-Sarawak_Kolo_Mee_Noodle_Dish.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Sarawak_Kolo_Mee_Noodle_Dish.jpg",
@@ -3201,6 +3237,18 @@
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Minuman_tradisional_%28lihing_tambunan%29.jpg/960px-Minuman_tradisional_%28lihing_tambunan%29.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Minuman_tradisional_(lihing_tambunan).jpg",
   "credit": "Angela satim 0403",
+  "license": "CC BY 4.0"
+ },
+ "malaysia-pinasakan": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Pameran_makanan_tradisi.jpg/960px-Pameran_makanan_tradisi.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pameran_makanan_tradisi.jpg",
+  "credit": "Blusjai",
+  "license": "CC BY-SA 4.0"
+ },
+ "malaysia-sinalau-bakas": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sinalau_2024.jpg/960px-Sinalau_2024.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sinalau_2024.jpg",
+  "credit": "Rruunnaa",
   "license": "CC BY 4.0"
  },
  "mexico-tacos-al-pastor": {
@@ -3425,11 +3473,17 @@
   "credit": "Thelmadatter",
   "license": "CC BY-SA 3.0"
  },
- "mexico-garnachas": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Garnachas.jpg/960px-Garnachas.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Garnachas.jpg",
-  "credit": "Encyclopedia2001",
-  "license": "CC0"
+ "mexico-picadas": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Orden_de_Picadas.jpg/960px-Orden_de_Picadas.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Orden_de_Picadas.jpg",
+  "credit": "Koffermejia",
+  "license": "CC BY-SA 4.0"
+ },
+ "mexico-torito": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Torito_de_cacahuate.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Torito_de_cacahuate.jpg",
+  "credit": "NachtBel",
+  "license": "CC BY-SA 4.0"
  },
  "mexico-arroz-a-la-tumbada": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/ShrimpTlacotalpan_02.JPG/960px-ShrimpTlacotalpan_02.JPG",
@@ -3731,6 +3785,12 @@
   "credit": "Chedlund808",
   "license": "CC BY-SA 4.0"
  },
+ "portugal-sopa-de-cacao": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sopa_de_ca%C3%A7%C3%A3o.jpg/960px-Sopa_de_ca%C3%A7%C3%A3o.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sopa_de_ca%C3%A7%C3%A3o.jpg",
+  "credit": "Adriao",
+  "license": "CC BY 3.0"
+ },
  "portugal-cataplana": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Cataplana1.jpg/960px-Cataplana1.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Cataplana1.jpg",
@@ -3746,6 +3806,18 @@
  "portugal-dom-rodrigo": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Dom_Rodrigo.jpg/960px-Dom_Rodrigo.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Dom_Rodrigo.jpg",
+  "credit": "Cardoazul",
+  "license": "CC BY-SA 4.0"
+ },
+ "portugal-xerem": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Xar%C3%A9m_algarvio.jpg/960px-Xar%C3%A9m_algarvio.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Xar%C3%A9m_algarvio.jpg",
+  "credit": "Adriao",
+  "license": "CC BY 3.0"
+ },
+ "portugal-doce-fino": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Post_doce_fino_wiki.jpg/960px-Post_doce_fino_wiki.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Post_doce_fino_wiki.jpg",
   "credit": "Cardoazul",
   "license": "CC BY-SA 4.0"
  },
@@ -4817,6 +4889,18 @@
   "credit": "Tanyel",
   "license": "CC BY-SA 3.0"
  },
+ "turkey-van-keledosu": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Keledo%C5%9F_02.jpg/960px-Keledo%C5%9F_02.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Keledo%C5%9F_02.jpg",
+  "credit": "Amir Hosein Nasooti",
+  "license": "CC BY 4.0"
+ },
+ "turkey-erzurum-kadayif-dolmasi": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Kaday%C4%B1f_Dolmas%C4%B1.jpg/960px-Kaday%C4%B1f_Dolmas%C4%B1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kaday%C4%B1f_Dolmas%C4%B1.jpg",
+  "credit": "Eğitmen Mahmut",
+  "license": "CC BY-SA 3.0"
+ },
  "united_arab_emirates-machboos": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Machboos_%28cropped%29.JPG/960px-Machboos_%28cropped%29.JPG",
   "page": "https://commons.wikimedia.org/wiki/File:Machboos_(cropped).JPG",
@@ -4876,6 +4960,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:Shawarma_2.jpg",
   "credit": "Vis M",
   "license": "CC BY-SA 4.0"
+ },
+ "united_arab_emirates-khanfaroosh": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Khanfaroosh_at_Souq_Waqif.jpg/960px-Khanfaroosh_at_Souq_Waqif.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Khanfaroosh_at_Souq_Waqif.jpg",
+  "credit": "GiveMeMollusks",
+  "license": "CC0"
  },
  "united_kingdom-pie-and-mash": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Goddards_pie_mash_and_liquor.jpg/960px-Goddards_pie_mash_and_liquor.jpg",
@@ -5339,12 +5429,6 @@
   "credit": "Kelly Sue DeConnick",
   "license": "CC BY-SA 2.0"
  },
- "united_states-sourdough": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Sourdough_bread_loaf.jpg/960px-Sourdough_bread_loaf.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Sourdough_bread_loaf.jpg",
-  "credit": "Nhall0901",
-  "license": "CC0"
- },
  "united_states-french-dip": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Roast_Beef_Dip_lunch.JPG/960px-Roast_Beef_Dip_lunch.JPG",
   "page": "https://commons.wikimedia.org/wiki/File:Roast_Beef_Dip_lunch.JPG",
@@ -5416,6 +5500,18 @@
   "page": "https://commons.wikimedia.org/wiki/File:Hilo_Ice_Shave.JPG",
   "credit": "AlaskaDave",
   "license": "CC BY-SA 3.0"
+ },
+ "united_states-kalua-pig": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Roasted_puaa.jpg/960px-Roasted_puaa.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Roasted_puaa.jpg",
+  "credit": "Adam",
+  "license": "CC BY-SA 2.0"
+ },
+ "united_states-haupia": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Haupia.jpg/960px-Haupia.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Haupia.jpg",
+  "credit": "Arnold Gatilao from Fremont, CA, USA",
+  "license": "CC BY 2.0"
  },
  "vietnam-pho": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Bowl_of_Meatball_pho.jpg/960px-Bowl_of_Meatball_pho.jpg",

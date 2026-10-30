@@ -1105,36 +1105,6 @@
     ]
   },
   {
-    "id": "united_states-sourdough",
-    "name": "San Francisco Sourdough",
-    "local_name": null,
-    "pronunciation": null,
-    "category": "snack",
-    "country": "United States",
-    "state": "California",
-    "regions": [
-      "San Francisco"
-    ],
-    "description": "A tangy, crusty bread leavened with a wild yeast and bacteria starter. San Francisco has been known for it since the Gold Rush.",
-    "how_to_eat": "Eat on its own or as a bread bowl filled with clam chowder.",
-    "how_to_order": "Buy a loaf or a bread bowl at bakeries around Fisherman's Wharf.",
-    "typical_price": null,
-    "currency": "USD",
-    "diet": "veg",
-    "jain": false,
-    "vegan": true,
-    "spice": 0,
-    "allergens": [
-      "gluten"
-    ],
-    "gi_tag": false,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Sourdough",
-    "source_urls": [
-      "https://en.wikipedia.org/wiki/Sourdough",
-      "https://en.wikipedia.org/wiki/California_cuisine"
-    ]
-  },
-  {
     "id": "united_states-french-dip",
     "name": "French Dip",
     "local_name": null,
@@ -1493,6 +1463,56 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Hawaiian_shave_ice",
       "https://en.wikipedia.org/wiki/Cuisine_of_Hawaii"
+    ]
+  },
+  {
+    "id": "united_states-kalua-pig",
+    "name": "Kalua Pig",
+    "local_name": "Kālua pig",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "United States",
+    "state": "Hawaii",
+    "regions": [],
+    "description": "Pork, traditionally a whole salted pig, slow-cooked for hours in an imu, an underground oven of hot stones lined and covered with banana and ti leaves, then shredded. The ti leaves and hardwood smoke give it its flavour, and it is the centrepiece of lūʻau feasts.",
+    "how_to_eat": "Eat with rice, poi or cabbage, or as part of a plate lunch.",
+    "how_to_order": "Look for kālua pig at lūʻau feasts and Hawaiian food spots.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kālua",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kālua"
+    ]
+  },
+  {
+    "id": "united_states-haupia",
+    "name": "Haupia",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United States",
+    "state": "Hawaii",
+    "regions": [],
+    "description": "A traditional Hawaiian coconut pudding made from coconut cream or milk, water, sugar and starch, heated until thick and set firm. Originally thickened with Polynesian arrowroot, it is served alongside Hawaiian dishes at lūʻau and also used in pies and malasada fillings.",
+    "how_to_eat": "Eat chilled, cut into squares.",
+    "how_to_order": "Ask for haupia squares at lūʻau and Hawaiian plate-lunch spots, or haupia pie at bakeries.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Haupia",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Haupia"
     ]
   }
 ]

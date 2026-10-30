@@ -1252,5 +1252,67 @@
       "https://istanbul.com/tr/blog/food-drink/best-turkish-breakfast-istanbul",
       "https://tr.wikipedia.org/wiki/Murtuğa"
     ]
+  },
+  {
+    "id": "turkey-van-keledosu",
+    "name": "Van Keledoşu",
+    "local_name": "Van keledoşu",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Turkey",
+    "state": "Eastern Anatolia",
+    "regions": [
+      "Van"
+    ],
+    "description": "A hearty dish of roasted meat (kavurma), chickpeas, cracked wheat and green lentils cooked with chard-like akpancar, then thickened with kurut (dried yogurt) and topped with butter. A staple of Van cuisine since the 1800s, it is also made in Hakkari, Ağrı and Bitlis, and 'Van keledoşu' is a registered Turkish geographical indication.",
+    "how_to_eat": "Eat hot with bread, with melted butter poured over the top.",
+    "how_to_order": "Ask for 'keledoş' at restaurants serving local food in Van.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://tr.wikipedia.org/wiki/Keledoş",
+    "source_urls": [
+      "https://goturkiye.com/van/taste",
+      "https://tr.wikipedia.org/wiki/Keledoş"
+    ]
+  },
+  {
+    "id": "turkey-erzurum-kadayif-dolmasi",
+    "name": "Erzurum Kadayıf Dolması",
+    "local_name": "Erzurum kadayıf dolması",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Turkey",
+    "state": "Eastern Anatolia",
+    "regions": [
+      "Erzurum"
+    ],
+    "description": "A dessert from Erzurum of shredded kadayıf pastry stuffed with walnuts or hazelnuts, bound with egg, fried in oil and soaked in a sugar and lemon syrup. It has spread from Erzurum across Turkey and was registered as a Turkish geographical indication in 2012.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'kadayıf dolması' at dessert shops in Erzurum.",
+    "typical_price": null,
+    "currency": "TRY",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts",
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://tr.wikipedia.org/wiki/Erzurum_kadayıf_dolması",
+    "source_urls": [
+      "https://tr.wikipedia.org/wiki/Erzurum_kadayıf_dolması"
+    ]
   }
 ]

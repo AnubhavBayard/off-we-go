@@ -1375,5 +1375,91 @@
       "https://en.wikipedia.org/wiki/Indonesian_cuisine",
       "https://id.wikipedia.org/wiki/Bakar_Batu"
     ]
+  },
+  {
+    "id": "indonesia-kohu-kohu",
+    "name": "Kohu-Kohu",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Maluku & Papua",
+    "regions": [
+      "Ambon"
+    ],
+    "description": "A Maluku salad of chopped fresh vegetables such as long beans, bean sprouts, cucumber and basil leaves, mixed with grated coconut spiced with chilli, shallot, kencur and shrimp paste. Shredded smoked or steamed fish such as tuna or mackerel tuna is added, giving it a spicy, sour and savoury taste. It is especially associated with Ambon and North Maluku.",
+    "how_to_eat": "Eat it fresh with warm rice, boiled cassava or papeda.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://id.wikipedia.org/wiki/Kohu-kohu",
+    "source_urls": [
+      "https://id.wikipedia.org/wiki/Kohu-kohu",
+      "https://id.wikipedia.org/wiki/Hidangan_Maluku"
+    ]
+  },
+  {
+    "id": "indonesia-ikan-asar",
+    "name": "Ikan Asar",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Indonesia",
+    "state": "Maluku & Papua",
+    "regions": [],
+    "description": "Fish such as skipjack tuna, tuna or mackerel tuna skewered on bamboo and smoked, giving a smoky, savoury flavour. Properly stored, it keeps for up to a week. It is a characteristic cooking technique of Papua and Maluku.",
+    "how_to_eat": "Eat it with warm rice and sour-spicy colo-colo sambal.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://id.wikipedia.org/wiki/Hidangan_Papua",
+      "https://id.wikipedia.org/wiki/Kohu-kohu"
+    ]
+  },
+  {
+    "id": "indonesia-sate-ulat-sagu",
+    "name": "Sate Ulat Sagu",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Indonesia",
+    "state": "Maluku & Papua",
+    "regions": [],
+    "description": "Sago grubs, the larvae of the red palm weevil taken from rotting sago trunks, grilled on skewers like satay. The grubs are high in protein and are also eaten raw or fried. In Papua they play a part in celebration rituals of the Asmat and Kamoro peoples.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "IDR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://id.wikipedia.org/wiki/Sate_ulat_sagu",
+    "source_urls": [
+      "https://id.wikipedia.org/wiki/Sate_ulat_sagu",
+      "https://id.wikipedia.org/wiki/Kumbang_sagu",
+      "https://id.wikipedia.org/wiki/Hidangan_Papua"
+    ]
   }
 ]

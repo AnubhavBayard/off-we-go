@@ -1020,6 +1020,65 @@
     ]
   },
   {
+    "id": "china-doupi",
+    "name": "Doupi",
+    "local_name": "豆皮",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "China",
+    "state": "Hunan & Hubei",
+    "regions": [
+      "Wuhan"
+    ],
+    "description": "A Wuhan breakfast dish with a thin outer layer made from green bean powder, eggs, milk and flour, wrapped around sticky rice and a filling of meat, eggs and shrimp. The modern version was created in 1931 by a local chef who went on to open the Laotongcheng restaurant, and it is often sold as street food.",
+    "how_to_eat": "Eat hot, cut into squares, as a breakfast snack.",
+    "how_to_order": "Ask for 'sanxian doupi' at Wuhan breakfast stalls.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Doupi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Doupi"
+    ]
+  },
+  {
+    "id": "china-dongan-chicken",
+    "name": "Dong'an Chicken",
+    "local_name": "东安鸡",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Hunan & Hubei",
+    "regions": [
+      "Dong'an"
+    ],
+    "description": "A cold parboiled chicken dish flavoured with chilli peppers, ground Sichuan peppercorns, white rice vinegar, scallions and ginger, named after Dong'an County. A traditional Hunan dish, it was served by Mao Zedong at a banquet for Richard Nixon in 1972.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Order at Hunan restaurants.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dong%27an_chicken",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dong%27an_chicken"
+    ]
+  },
+  {
     "id": "china-roujiamo",
     "name": "Roujiamo",
     "local_name": "肉夹馍",
@@ -1434,6 +1493,61 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Maotai",
       "https://en.wikipedia.org/wiki/Baijiu"
+    ]
+  },
+  {
+    "id": "china-qiguoji",
+    "name": "Yunnan Steam-pot Chicken",
+    "local_name": "汽锅鸡",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "China",
+    "state": "Yunnan & Guizhou",
+    "regions": [
+      "Jianshui",
+      "Kunming"
+    ],
+    "description": "Chicken cooked for hours in a qiguo, a clay steam pot from Jianshui with a central spout, so the steam condenses into a rich, clear broth without added water. It originated in Jianshui in southern Yunnan over 200 years ago and is often cooked with herbs such as goji berries and sanqi.",
+    "how_to_eat": "Drink the broth first, then eat the chicken.",
+    "how_to_order": "Order a pot at Yunnan restaurants in Kunming.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://zh.wikipedia.org/wiki/%E6%B1%BD%E9%94%85%E9%B8%A1",
+    "source_urls": [
+      "https://zh.wikipedia.org/wiki/%E6%B1%BD%E9%94%85%E9%B8%A1"
+    ]
+  },
+  {
+    "id": "china-rubing",
+    "name": "Rubing (Goat Cheese)",
+    "local_name": "乳饼",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "China",
+    "state": "Yunnan & Guizhou",
+    "regions": [],
+    "description": "A firm, non-melting fresh goat milk cheese made in Yunnan by the Bai and Sani peoples. It is often pan-fried with salt and chilli or Sichuan pepper, or steamed with local ham.",
+    "how_to_eat": "Eat pan-fried slices dipped in chilli and salt.",
+    "how_to_order": "Order fried rubing at Yunnan restaurants.",
+    "typical_price": null,
+    "currency": "CNY",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rubing",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rubing"
     ]
   }
 ]

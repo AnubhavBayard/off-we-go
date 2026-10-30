@@ -353,6 +353,62 @@
     ]
   },
   {
+    "id": "united_arab_emirates-khameer",
+    "name": "Khameer",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "United Arab Emirates",
+    "state": "Dubai",
+    "regions": [],
+    "description": "A traditional Emirati breakfast bread, cooked like ragag and chebab on a curved hot plate first used by the Bedouins. It is served with cheese, date syrup or eggs.",
+    "how_to_eat": "Eat warm at breakfast with cheese, date syrup or eggs.",
+    "how_to_order": "Ask for 'khameer' bread at Emirati breakfast spots.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Emirati_cuisine"
+    ]
+  },
+  {
+    "id": "united_arab_emirates-khanfaroosh",
+    "name": "Khanfaroosh",
+    "local_name": "خنفروش",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United Arab Emirates",
+    "state": "Dubai",
+    "regions": [],
+    "description": "A popular Gulf sweet made from rice flour, wheat flour, sugar, eggs and water mixed into a batter and deep-fried. Saffron, cardamom, rose water or milk are often added for flavour.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'khanfaroosh' where Emirati sweets are sold.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://ar.wikipedia.org/wiki/خنفروش",
+    "source_urls": [
+      "https://ar.wikipedia.org/wiki/خنفروش",
+      "https://ar.wikipedia.org/wiki/مطبخ_إماراتي"
+    ]
+  },
+  {
     "id": "united_arab_emirates-jasheed",
     "name": "Jasheed",
     "local_name": null,
@@ -380,6 +436,120 @@
     "source_urls": [
       "https://whatson.ae/2025/08/a-to-z-food-guide-iconic-foods-in-uae-you-have-to-try/",
       "https://en.wikipedia.org/wiki/Emirati_cuisine"
+    ]
+  },
+  {
+    "id": "united_arab_emirates-khabeesa",
+    "name": "Khabeesa",
+    "local_name": "الخبيصة",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United Arab Emirates",
+    "state": "Northern Emirates",
+    "regions": [],
+    "description": "An Emirati dessert of toasted flour (or bread crumbs) cooked with water, sugar, saffron and cardamom until thick. It is finished covered over coals for about half an hour.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'khabeesa' where traditional Emirati desserts are served.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Emirati_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_إماراتي"
+    ]
+  },
+  {
+    "id": "united_arab_emirates-bethitha",
+    "name": "Bethitha",
+    "local_name": "البثيث",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United Arab Emirates",
+    "state": "Northern Emirates",
+    "regions": [],
+    "description": "One of the best-known Emirati sweets: flour or semolina toasted until reddish, then mixed with butter, crushed dates and cardamom. It is simple to prepare and served as is.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'bethitha' where traditional Emirati desserts are served.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Emirati_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_إماراتي"
+    ]
+  },
+  {
+    "id": "united_arab_emirates-khubz-mohalla",
+    "name": "Khubz mohalla",
+    "local_name": "الخبز المحلى",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "United Arab Emirates",
+    "state": "Northern Emirates",
+    "regions": [],
+    "description": "A round Emirati bread like ragag, cooked on both sides on a ghee-greased hot plate until brown. It can be topped with egg and is served on a big plate with honey.",
+    "how_to_eat": "Eat with honey.",
+    "how_to_order": "Ask for 'khubz mohalla' at Emirati breakfast spots.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ar.wikipedia.org/wiki/مطبخ_إماراتي"
+    ]
+  },
+  {
+    "id": "united_arab_emirates-qurs-mafrook",
+    "name": "Al-qurs al-mafrook",
+    "local_name": "القرص المفروك",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "United Arab Emirates",
+    "state": "Northern Emirates",
+    "regions": [],
+    "description": "A traditional Emirati dish, popular in winter, of dough made from flour, salt, ghee and dates, baked in a large round among embers. It is then broken up and rubbed with ghee, and topped with honey or sugar.",
+    "how_to_eat": "Eat warm, drizzled with honey.",
+    "how_to_order": "Ask for 'qurs mafrook' where traditional Emirati food is served.",
+    "typical_price": null,
+    "currency": "AED",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ar.wikipedia.org/wiki/مطبخ_إماراتي"
     ]
   }
 ]

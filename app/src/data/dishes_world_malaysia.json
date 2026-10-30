@@ -992,6 +992,66 @@
     ]
   },
   {
+    "id": "malaysia-asam-pedas",
+    "name": "Asam Pedas",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Johor",
+    "regions": [],
+    "description": "A sour and spicy fish stew, its sourness coming from tamarind or dried asam keping, simmered with chillies and spices. In southern Johor the gravy is thicker and often seasoned with black pepper, while Muar, Batu Pahat and Kluang favour a thinner version without pepper.",
+    "how_to_eat": "Eat it with steamed rice.",
+    "how_to_order": "Ask for 'asam pedas ikan' (fish) or 'asam pedas ayam' (chicken) at Malay eateries.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Asam_pedas",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Asam_pedas",
+      "https://en.wikipedia.org/wiki/Johor"
+    ]
+  },
+  {
+    "id": "malaysia-mee-bandung-muar",
+    "name": "Mee Bandung Muar",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Johor",
+    "regions": [
+      "Muar"
+    ],
+    "description": "Yellow noodles and egg in a thick gravy of dried shrimp, onion, spices, shrimp paste and chillies, later topped with prawns, meat, fish cakes and vegetables. The dish originated in Muar, Johor, and 'bandung' means 'mixture' in Malay.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'mee bandung' at Malay stalls in Muar.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "egg",
+      "gluten",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mee_bandung",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mee_bandung",
+      "https://en.wikipedia.org/wiki/Johor"
+    ]
+  },
+  {
     "id": "malaysia-sarawak-laksa",
     "name": "Sarawak Laksa",
     "local_name": null,
@@ -1257,6 +1317,69 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Lihing",
       "https://en.wikipedia.org/wiki/Malaysian_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-pinasakan",
+    "name": "Pinasakan",
+    "local_name": "Pinaasakan sada",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Malaysia",
+    "state": "Sabah",
+    "regions": [
+      "Ranau",
+      "Kota Marudu",
+      "Kota Belud"
+    ],
+    "description": "A Kadazan-Dusun dish of fish, usually mackerel scad, simmered with salt, turmeric and sour takob akob fruit or bambangan until the liquid reduces to a concentrated gravy. It began as a way for interior Dusun communities to keep fish through a day's work in the fields, and is cooked without oil.",
+    "how_to_eat": "Eat it with white rice, linopot or ambuyat.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pinaasakan_sada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pinaasakan_sada",
+      "https://en.wikipedia.org/wiki/Sabahan_cuisine"
+    ]
+  },
+  {
+    "id": "malaysia-sinalau-bakas",
+    "name": "Sinalau Bakas",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Malaysia",
+    "state": "Sabah",
+    "regions": [
+      "Tamparuli",
+      "Kundasang",
+      "Ranau",
+      "Tambunan",
+      "Keningau"
+    ],
+    "description": "Wild boar meat marinated with salt, garlic, ginger, lemongrass and turmeric, then smoked for several hours over a slow wood fire. Sinalau is the traditional smoked meat of the Kadazan, Dusun, Murut and Rungus peoples of Sabah.",
+    "how_to_eat": "It is commonly eaten with beer.",
+    "how_to_order": "Buy it at roadside stalls on the Tamparuli to Kundasang road or at markets in interior districts such as Ranau, Tambunan and Keningau.",
+    "typical_price": null,
+    "currency": "MYR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sinalau",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sinalau"
     ]
   }
 ]

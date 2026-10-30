@@ -1192,61 +1192,64 @@
     ]
   },
   {
-    "id": "mexico-vuelve-a-la-vida",
-    "name": "Vuelve a la Vida",
-    "local_name": null,
-    "pronunciation": null,
-    "category": "meal",
-    "country": "Mexico",
-    "state": "Veracruz & the Gulf",
-    "regions": [
-      "Veracruz"
-    ],
-    "description": "A seafood cocktail of shrimp, octopus, crab, oysters and snail in a tomato sauce with chipotle, onion, cilantro and avocado. Originally Venezuelan, it was adopted on the Veracruz coast, where it is known as a hangover cure.",
-    "how_to_eat": "Eat with saltine crackers or tostadas.",
-    "how_to_order": "Order at seafood stands along the Veracruz coast.",
-    "typical_price": null,
-    "currency": "MXN",
-    "diet": "nonveg",
-    "jain": false,
-    "vegan": false,
-    "spice": 1,
-    "allergens": [
-      "shellfish"
-    ],
-    "gi_tag": false,
-    "wikipedia_url": null,
-    "source_urls": [
-      "https://eldiariony.com/2019/12/01/top-10-de-comidas-y-bebidas-veracruzanas",
-      "https://www.directoalpaladar.com/recetas-de-pescados-y-mariscos/vuelve-a-vida-coctel-marisco-citricos-que-toman-mexicanos-para-paliar-resaca"
-    ]
-  },
-  {
-    "id": "mexico-garnachas",
-    "name": "Garnachas",
-    "local_name": null,
-    "pronunciation": "gar-NAH-chahs",
+    "id": "mexico-picadas",
+    "name": "Picadas",
+    "local_name": "Picada",
+    "pronunciation": "pee-KAH-dahs",
     "category": "street_food",
     "country": "Mexico",
     "state": "Veracruz & the Gulf",
     "regions": [
       "Veracruz"
     ],
-    "description": "Small fried corn tortillas topped with salsa, shredded meat and onion. Also eaten in Guatemala and Belize, they are especially popular in Veracruz.",
-    "how_to_eat": "Eat by hand, several at a time.",
-    "how_to_order": "Order a plate at food stalls and markets in Veracruz.",
+    "description": "Thick corn tortillas, 8-12 cm across, cooked on a comal and pinched around the edge while hot so the salsa stays in, then topped with salsa, onion and fresh or aged cheese. A cheap, very popular breakfast antojito in the port of Veracruz; unlike a sope, it is griddled rather than fried, though it is sometimes brushed with lard.",
+    "how_to_eat": "Eat hot by hand, usually for breakfast.",
+    "how_to_order": "Ask for 'picadas' at breakfast stalls and cafés in the port of Veracruz.",
     "typical_price": null,
     "currency": "MXN",
-    "diet": "nonveg",
+    "diet": "veg",
     "jain": false,
     "vegan": false,
     "spice": 2,
-    "allergens": [],
+    "allergens": [
+      "dairy"
+    ],
     "gi_tag": false,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Garnacha_(food)",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Picada_(cocina_mexicana)",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Garnacha_(food)",
-      "https://en.wikipedia.org/wiki/Mexican_cuisine"
+      "https://es.wikipedia.org/wiki/Picada_(cocina_mexicana)"
+    ]
+  },
+  {
+    "id": "mexico-torito",
+    "name": "Torito",
+    "local_name": "Torito",
+    "pronunciation": "toh-REE-toh",
+    "category": "drink",
+    "country": "Mexico",
+    "state": "Veracruz & the Gulf",
+    "regions": [
+      "Boca del Río",
+      "Xico",
+      "Coatepec"
+    ],
+    "description": "A sweet, creamy cocktail of sugar-cane aguardiente mixed with milk and peanut, typical of Veracruz. It began in the early 19th century among sugar-cane workers of the Papaloapan basin, who mixed their aguardiente with seasonal fruit; peanut is the most popular flavour, with fruit versions such as soursop and lime also common.",
+    "how_to_eat": "Sip slowly; it is strongly alcoholic.",
+    "how_to_order": "Ask for a 'torito de cacahuate' at bars in Boca del Río or liquor shops in Xico and Coatepec.",
+    "typical_price": null,
+    "currency": "MXN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Torito_(bebida)",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Torito_(bebida)"
     ]
   },
   {

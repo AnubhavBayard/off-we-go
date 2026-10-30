@@ -901,7 +901,7 @@
     "currency": "SGD",
     "diet": "veg",
     "jain": false,
-    "vegan": true,
+    "vegan": false,
     "spice": 0,
     "allergens": [],
     "gi_tag": false,

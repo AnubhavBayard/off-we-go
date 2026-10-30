@@ -302,3 +302,28 @@
 - UAE done: 13 checked, 7 fixed (unsourced superlatives on machboos/luqaimat/shawarma/karak; Dubai chocolate Fix 2021/2022; jasheed = shark; Arabic names added for luqaimat, gahwa, karak). No GIs. Regions: Abu Dhabi 9, Dubai 3, Northern Emirates 1. Sourced add candidates: khabeesa, bethitha, khanfaroosh, khameer, khubz mohalla, margoog, qurs mafrook, Khalas dates (+ weaker: maqluba, mandi).
 - ALL 20 COUNTRIES VERIFIED. Photos refetched: 925 of 944 linked dishes (+37 new photos for newly linked dishes). Script now skips .svg lead images (Queijada de Sintra was getting the Portuguese flag). Built + installed on phone. Committed.
 - Open user decisions: USA sourdough; Mexico weak picks; product-level GIs (calçots, lechazo); thin regions to fill (Johor, Maluku & Papua, UAE Dubai/Northern, Alentejo, Algarve, Greek Peloponnese/Thessaly/Epirus, NI, Brabant & Limburg, Gangwon); Singapore kueh lapis + sling vegan.
+
+## 2026-10-30: thin regions + swaps
+- Pushed ea0b46c. User OK'd defaults: USA sourdough -> cioppino; Mexico swap vuelve a la vida + garnachas (keep caesar salad, Tijuana); keep calçots/lechazo GI; keep steamed kueh lapis; Singapore sling vegan -> false (done).
+- Add brief: scratchpad add_brief.md. Order: USA, Mexico, UAE, Malaysia, Indonesia, Portugal, Greece, UK, Netherlands, South Korea, Turkey, Vietnam. One agent at a time.
+- USA: agent running.
+- USA: cioppino already in file (my miss); sourdough simply dropped (California 6 -> 5). Brief now tells agents to check for duplicates.
+- Mexico: vuelve a la vida -> picadas (veg; "sometimes lard" noted in description), garnachas -> torito (cane spirit + milk + peanut). Both es wiki. Option later: Café de Veracruz (DO 2000).
+- UAE fill: agent running.
+- UAE: +6 (Dubai: khameer, khanfaroosh; Northern Emirates: khabeesa, bethitha, khubz mohalla, qurs mafrook). Regions now 9/5/5. Region placement is ours (sources name no emirate). Margoog skipped (Saudi/Najd). Validator OK.
+- Malaysia Johor: agent running.
+- Malaysia: Johor +2 (asam pedas, mee bandung Muar) -> 5. Muar satay/Kluang buns skipped (no article). Validator OK.
+- Indonesia Maluku & Papua: agent running.
+- Indonesia: Maluku & Papua +3 (kohu-kohu (+shellfish, shrimp paste), ikan asar, sate ulat sagu) -> 6. Validator OK.
+- Portugal Alentejo/Algarve: agent running.
+- Portugal: Alentejo +2 (sopa de cação, Queijo Serpa PDO), Algarve +2 (xerém, doce fino) -> 6 each. Validator OK.
+- Recount: regions with <5 dishes now only China (Hunan & Hubei 4, Yunnan & Guizhou 4), Malaysia Sabah 4, Turkey Eastern Anatolia 4, USA Hawaii 4. Greece/UK/NL/Korea/Vietnam regions all >=5, so skipped. Queue: Turkey (running), Hawaii, Sabah, China.
+- Turkey: Eastern Anatolia +2 (Van keledoşu GI, Erzurum kadayıf dolması GI 2012) -> 6. Validator OK.
+- USA Hawaii: agent running.
+- USA: Hawaii +2 (kalua pig, haupia (vegan)) -> 6. Validator OK.
+- Malaysia Sabah: agent running.
+- Malaysia: Sabah +2 (pinaasakan sada, sinalau bakas) -> 6. Validator OK.
+- China Hunan & Hubei + Yunnan & Guizhou: agent running (last fill).
+- China: Hunan & Hubei +2 (doupi, Dong'an chicken), Yunnan & Guizhou +2 (qiguoji, rubing) -> 6 each. Validator OK.
+- Fill pass done: no region anywhere has fewer than 5 dishes. Total 1,122 dishes. Photos refetched: 941 of 963 linked dishes (+18 new). Built + installed on phone. Committed (not pushed).
+- Still open: product-level GIs (calçots, lechazo) kept true; kueh lapis kept steamed; optional Café de Veracruz (DO). Next big items: more countries (world_spec.md), release prep (wallpaper, logo, privacy policy, restaurant CSV, revoke Supabase token).
