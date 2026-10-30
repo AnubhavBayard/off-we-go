@@ -327,3 +327,19 @@
 - China: Hunan & Hubei +2 (doupi, Dong'an chicken), Yunnan & Guizhou +2 (qiguoji, rubing) -> 6 each. Validator OK.
 - Fill pass done: no region anywhere has fewer than 5 dishes. Total 1,122 dishes. Photos refetched: 941 of 963 linked dishes (+18 new). Built + installed on phone. Committed (not pushed).
 - Still open: product-level GIs (calçots, lechazo) kept true; kueh lapis kept steamed; optional Café de Veracruz (DO). Next big items: more countries (world_spec.md), release prep (wallpaper, logo, privacy policy, restaurant CSV, revoke Supabase token).
+
+## 2026-10-30: WRAP-UP (session end)
+**Done this session**
+- All 20 world countries verified dish-by-dish against Wikipedia (one agent at a time, no rate-limit loss): descriptions de-superlatived and sourced, diet/vegan/allergens corrected, GI tags confirmed or cleared, wrong links fixed (towns, theatre genre, football article, disambiguation pages), unsourced local names/cities removed.
+- Thin regions filled: every region now has >= 5 dishes. Weak picks swapped (sourdough dropped; vuelve a la vida -> picadas, garnachas -> torito).
+- fetch_dish_images.py: follows each link's wiki language; skips .svg lead images. 941 of 963 linked dishes have photos.
+- Totals: 1,122 dishes, 21 countries. Installed on phone. Commits 01eef8f, ea0b46c (pushed), 2434466 + this wrap-up (NOT pushed yet).
+
+**Next session, in order**
+1. `git push` (last commits local only).
+2. More countries (user wants whole world): spec `app/data-archive/world_spec.md`; research a few countries per batch, sequentially, then run the same verification pass (brief template was in scratchpad; recreate from this log: check each dish vs its Wikipedia article, fix diet/allergens/GI/links, validator OK).
+3. Optional data items: Café de Veracruz (DO 2000) for Mexico; calçots/lechazo GI = product-level (kept true); India pronunciations are agent guesses; Tirupati Laddu/Gongura odd photos.
+4. Before public release: replace wallpaper (wallpaperswide watermark) and logo (downloaded image); privacy policy; restaurant coordinates CSV (`data-fixes/`) waiting on user; revoke Supabase token `claude-setup`.
+
+**Rebuild + install**
+`cd app && nvm use 22 && npm run build && npx cap sync android && cd android && ANDROID_HOME=~/Android/Sdk ./gradlew assembleDebug && ~/Android/Sdk/platform-tools/adb install -r app/build/outputs/apk/debug/app-debug.apk`
