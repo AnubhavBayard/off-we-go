@@ -1,0 +1,733 @@
+[
+  {
+    "id": "egypt-koshary",
+    "name": "Koshary",
+    "local_name": "كشرى",
+    "pronunciation": "KOSH-a-ree",
+    "category": "street_food",
+    "country": "Egypt",
+    "state": "Cairo",
+    "regions": [],
+    "description": "Pasta, Egyptian rice, vermicelli and brown lentils topped with chickpeas, a garlicky tomato sauce, garlic vinegar and crispy fried onions. Wikipedia calls it Egypt's national dish; it began on food carts and was recognised by UNESCO as intangible cultural heritage in 2025.",
+    "how_to_eat": "Add garlic vinegar and hot sauce to taste.",
+    "how_to_order": "Sold at roadside stalls and at restaurants that specialise in koshary alone.",
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Koshary",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Koshary",
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine",
+      "https://ar.wikipedia.org/wiki/كشري"
+    ]
+  },
+  {
+    "id": "egypt-ful-medames",
+    "name": "Ful medames",
+    "local_name": "فول مدمّس",
+    "pronunciation": "fool meh-DAM-mes",
+    "category": "meal",
+    "country": "Egypt",
+    "state": "Cairo",
+    "regions": [],
+    "description": "A stew of slow-cooked fava beans served with olive oil and cumin, often with parsley, garlic, onion, lemon juice and chili. In medieval Cairo the beans were simmered overnight in huge pots heated by the fires of public baths to feed the city at breakfast; it is considered a national dish of Egypt.",
+    "how_to_eat": "Scoop it up with eish baladi flatbread; toppings such as tahini, eggs, butter or basturma are common extras.",
+    "how_to_order": "Ful and ta'ameya shops all over Egypt sell it in bowls and as sandwiches, mostly for breakfast.",
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ful_medames",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ful_medames",
+      "https://en.wikipedia.org/wiki/Eish_baladi",
+      "https://ar.wikipedia.org/wiki/مطبخ_مصري"
+    ]
+  },
+  {
+    "id": "egypt-molokhia",
+    "name": "Molokhia",
+    "local_name": "ملوخية",
+    "pronunciation": "mo-lo-KHEY-ya",
+    "category": "meal",
+    "country": "Egypt",
+    "state": "Cairo",
+    "regions": [],
+    "description": "Finely chopped jute leaves cooked into a thick green soup with garlic and coriander, usually with chicken or rabbit; lamb is preferred in Cairo when available. Alexandria cooks often add shrimp and Port Said uses fish. Many Egyptians count it as a national dish alongside ful medames and koshary.",
+    "how_to_eat": "Eat it over white rice or with eish baladi, with pickled vegetables (torshi) on the side.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mulukhiyah",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mulukhiyah",
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine",
+      "https://ar.wikipedia.org/wiki/ملوخية"
+    ]
+  },
+  {
+    "id": "egypt-fatta",
+    "name": "Fatta",
+    "local_name": "فتة",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Egypt",
+    "state": "Cairo",
+    "regions": [],
+    "description": "A feast dish of crispy flatbread in a bowl with rice, a garlic-and-vinegar meat soup and a garlic tomato sauce. Egyptians make it for Eid al-Fitr and Eid al-Adha, to celebrate a first pregnancy, and Coptic Christians prepare it for Christmas.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fatteh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fatteh",
+      "https://ar.wikipedia.org/wiki/مطبخ_مصري"
+    ]
+  },
+  {
+    "id": "egypt-om-ali",
+    "name": "Om Ali",
+    "local_name": "أم علي",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Egypt",
+    "state": "Cairo",
+    "regions": [],
+    "description": "Baked pudding of torn bread or puff pastry mixed with pistachios, coconut flakes, raisins and sugar, soaked in milk (sometimes cream), dusted with cinnamon and baked until golden. Named 'Ali's mother' after a medieval legend, it is described as a national dessert of Egypt and is commonly eaten at Ramadan iftar.",
+    "how_to_eat": "Eat it hot or cold.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Om_Ali",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Om_Ali",
+      "https://ar.wikipedia.org/wiki/مطبخ_مصري"
+    ]
+  },
+  {
+    "id": "egypt-kunafa",
+    "name": "Kunafa",
+    "local_name": "كنافة",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Egypt",
+    "state": "Cairo",
+    "regions": [],
+    "description": "Spun pastry dough (kadayif) layered with a filling such as cheese and soaked in sugar syrup. It is popular in Egypt, where it is one of the desserts served almost exclusively during Ramadan alongside qatayef.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Knafeh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Knafeh",
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine"
+    ]
+  },
+  {
+    "id": "egypt-karkadeh",
+    "name": "Karkadeh",
+    "local_name": "كركديه",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Egypt",
+    "state": "Cairo",
+    "regions": [],
+    "description": "A tart, deep red infusion of dried hibiscus sepals, served very sweet and cold or hot. Vendors and open-air cafés sell it on downtown Cairo streets, and weddings in Egypt are traditionally toasted with it.",
+    "how_to_eat": null,
+    "how_to_order": "Look for street vendors and cafés in central Cairo; ask for it cold (or hot).",
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hibiscus_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine",
+      "https://en.wikipedia.org/wiki/Hibiscus_tea"
+    ]
+  },
+  {
+    "id": "egypt-sahlab",
+    "name": "Sahlab",
+    "local_name": "سحلب",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Egypt",
+    "state": "Cairo",
+    "regions": [],
+    "description": "A thick, creamy hot milk drink thickened with salep (orchid tuber) flour or, more often today, corn starch or rice flour, flavoured with vanilla and topped with cinnamon. It is a winter drink sold as street food and served in Egyptian teahouses.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Salep",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Salep",
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_مصري"
+    ]
+  },
+  {
+    "id": "egypt-taameya",
+    "name": "Ta'ameya (Egyptian falafel)",
+    "local_name": "طعمية",
+    "pronunciation": "ta-MAY-ya",
+    "category": "street_food",
+    "country": "Egypt",
+    "state": "Alexandria & the Coast",
+    "regions": [
+      "Alexandria"
+    ],
+    "description": "Egypt's falafel: deep-fried patties of ground fava beans (not chickpeas) mixed with herbs and spices. It most likely originated in Egypt, and the port of Alexandria is credited with spreading the dish and the name falafel across the Middle East; it is a breakfast staple for millions of Egyptians.",
+    "how_to_eat": "Eat it with fresh tomatoes, tahina sauce and arugula, often wrapped in eish baladi.",
+    "how_to_order": "Ful and ta'ameya shops sell it as sandwiches or by the piece, mainly at breakfast.",
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Falafel",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Falafel",
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine",
+      "https://ar.wikipedia.org/wiki/فلافل",
+      "https://ar.wikipedia.org/wiki/مطبخ_مصري"
+    ]
+  },
+  {
+    "id": "egypt-kebda-iskandarani",
+    "name": "Kebda iskandarani (Alexandrian liver)",
+    "local_name": "كبدة إسكندراني",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Egypt",
+    "state": "Alexandria & the Coast",
+    "regions": [
+      "Alexandria"
+    ],
+    "description": "Small pieces of beef or buffalo liver fried with green or red peppers, garlic, cumin, chili and other spices, finished with vinegar and lemon juice. The method is attributed to Alexandria, and liver sandwiches are a popular fast food sold from shops and carts in Egyptian cities.",
+    "how_to_eat": "Usually eaten hot in a baguette-like eish fino roll, or with rice and tahini salad.",
+    "how_to_order": "Order a liver sandwich from a kebda shop or street cart.",
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://ar.wikipedia.org/wiki/كبدة_إسكندراني",
+    "source_urls": [
+      "https://ar.wikipedia.org/wiki/كبدة_إسكندراني",
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine"
+    ]
+  },
+  {
+    "id": "egypt-samak-singari",
+    "name": "Samak singari",
+    "local_name": "سمك سنجاري",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Egypt",
+    "state": "Alexandria & the Coast",
+    "regions": [
+      "Alexandria",
+      "Port Said",
+      "Suez"
+    ],
+    "description": "A whole fish, usually mullet, sea bass or sea bream, split open along the back, marinated with lemon, cumin, coriander and chili, covered with tomatoes, onion, peppers, celery and garlic and baked. It is spread especially in coastal cities such as Alexandria, Port Said and Suez.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://ar.wikipedia.org/wiki/سمك_سنجاري",
+    "source_urls": [
+      "https://ar.wikipedia.org/wiki/سمك_سنجاري",
+      "https://ar.wikipedia.org/wiki/مطبخ_مصري"
+    ]
+  },
+  {
+    "id": "egypt-sayadeya",
+    "name": "Sayadeya",
+    "local_name": "صيادية",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Egypt",
+    "state": "Alexandria & the Coast",
+    "regions": [
+      "Alexandria",
+      "Port Said"
+    ],
+    "description": "Egyptian short-grain rice cooked with caramelised onions and aromatic spices, served with fish; the name comes from the Arabic for fisherman. In Alexandria and Port Said it comes with a fish soup (chorba), and it is a staple side to seafood along Egypt's coasts.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sayadieh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sayadieh",
+      "https://ar.wikipedia.org/wiki/صيادية"
+    ]
+  },
+  {
+    "id": "egypt-alexandrian-koshary",
+    "name": "Alexandrian koshary",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Egypt",
+    "state": "Alexandria & the Coast",
+    "regions": [
+      "Alexandria"
+    ],
+    "description": "Alexandria's own koshary, quite different from the usual version: yellow lentils and rice cooked with curry and cumin for a uniform colour, served with Egyptian eggs (boiled, then fried in butter), lightly pickled tomatoes instead of tomato sauce, and French fries on the side.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Koshary",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Koshary"
+    ]
+  },
+  {
+    "id": "egypt-freska",
+    "name": "Freska",
+    "local_name": "فريسكه",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Egypt",
+    "state": "Alexandria & the Coast",
+    "regions": [],
+    "description": "An Egyptian wafer snack of two thin round wafers filled with a thin layer of honey syrup. It is sold only on beaches in the summertime.",
+    "how_to_eat": null,
+    "how_to_order": "Buy it from vendors walking the beaches in summer.",
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wafer"
+    ]
+  },
+  {
+    "id": "egypt-feteer-meshaltet",
+    "name": "Feteer meshaltet",
+    "local_name": "فطير مشلتت",
+    "pronunciation": "fi-TEER me-SHAL-tet",
+    "category": "snack",
+    "country": "Egypt",
+    "state": "Nile Delta",
+    "regions": [],
+    "description": "A flaky pastry of many thin layers of dough and ghee, traced back to an ancient Egyptian temple offering. Traditionally made by rural women, it moved from Upper Egypt to the Delta and is a symbol of hospitality, offered to guests and at holidays and weddings.",
+    "how_to_eat": "Dip sweet versions in honey or molasses, or eat it savoury with mish cheese, olives and torshi.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Feteer_meshaltet",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Feteer_meshaltet",
+      "https://ar.wikipedia.org/wiki/فطير_مشلتت",
+      "https://ar.wikipedia.org/wiki/مطبخ_مصري"
+    ]
+  },
+  {
+    "id": "egypt-hawawshi",
+    "name": "Hawawshi",
+    "local_name": "حواوشى",
+    "pronunciation": "ha-WAW-shee",
+    "category": "street_food",
+    "country": "Egypt",
+    "state": "Nile Delta",
+    "regions": [
+      "Sharqia"
+    ],
+    "description": "Egyptian bread stuffed with minced meat spiced with onions, pepper, parsley and sometimes chilies, then baked in the oven; the Alexandrian version bakes the filling between two rounds of dough. One story says a Cairo butcher invented it in 1971, and it has become especially popular in Sharqia Governorate in the Nile Delta.",
+    "how_to_eat": "Eat it hot with spicy mixed pickles.",
+    "how_to_order": "Usually bought as a take-away from restaurants; price depends on size and amount of meat.",
+    "typical_price": "30-100",
+    "currency": "EGP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hawawshi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hawawshi",
+      "https://ar.wikipedia.org/wiki/حواوشي"
+    ]
+  },
+  {
+    "id": "egypt-domiati-cheese",
+    "name": "Domiati cheese",
+    "local_name": "جبنة دمياطي",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Egypt",
+    "state": "Nile Delta",
+    "regions": [
+      "Damietta"
+    ],
+    "description": "A soft, white, salty cheese, usually of buffalo or cow milk, named after the port city of Damietta. Salt is added to the milk before the rennet, unlike feta; it is eaten fresh or aged in brine, and it is the most common cheese in Egypt.",
+    "how_to_eat": "Common at Egyptian breakfasts with bread, olives and fresh herbs.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Domiati",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Domiati",
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine",
+      "https://en.wikipedia.org/wiki/Eish_baladi"
+    ]
+  },
+  {
+    "id": "egypt-areesh-cheese",
+    "name": "Areesh cheese",
+    "local_name": "جبنة قريش",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Egypt",
+    "state": "Nile Delta",
+    "regions": [],
+    "description": "A soft, white, crumbly cheese like cottage cheese, made by gently heating laban rayeb (fermented skimmed buffalo or cow milk) and draining the curds. Listed in Arabic Wikipedia as a fallahi (rural) dairy product, it is also the base for mish.",
+    "how_to_eat": "Eat it fresh with a drizzle of honey or with chopped tomatoes, herbs and spices.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Areesh_cheese",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Areesh_cheese",
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_مصري"
+    ]
+  },
+  {
+    "id": "egypt-mish",
+    "name": "Mish",
+    "local_name": "مش",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Egypt",
+    "state": "Nile Delta",
+    "regions": [],
+    "description": "A sharp, salty, pungent cheese made by fermenting areesh cheese for months or years in an earthenware jar with salt, buttermilk, whey and red and green peppers. It is generally made at home, with some sold in local markets.",
+    "how_to_eat": "Eat it with feteer meshaltet.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mish",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mish",
+      "https://en.wikipedia.org/wiki/Feteer_meshaltet"
+    ]
+  },
+  {
+    "id": "egypt-eish-shamsi",
+    "name": "Eish shamsi (sun bread)",
+    "local_name": "عيش شمسي",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Egypt",
+    "state": "Upper Egypt",
+    "regions": [],
+    "description": "A thick wheat sourdough bread whose name, 'sun bread', comes from letting the dough rise in the sun. In Upper Egypt it replaces eish baladi as the local staple; it is traditionally baked at home in domed clay ovens and scored into round or triangular shapes.",
+    "how_to_eat": null,
+    "how_to_order": "In Cairo some bakeries make it for Upper Egyptian customers.",
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eish_shamsi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Eish_shamsi",
+      "https://ar.wikipedia.org/wiki/عيش_شمسي",
+      "https://ar.wikipedia.org/wiki/مطبخ_مصري"
+    ]
+  },
+  {
+    "id": "egypt-battaw",
+    "name": "Battaw",
+    "local_name": "بتاو",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Egypt",
+    "state": "Upper Egypt",
+    "regions": [
+      "Asyut",
+      "Akhmim",
+      "Qena"
+    ],
+    "description": "A fermented flatbread of the Egyptian countryside, mainly corn flour with ground fenugreek; in Asyut it is made from barley or corn, in Akhmim from corn and fenugreek and in Qena from barley only. It holds a central place on Upper Egyptian tables and its making is recorded on ancient temple walls in Luxor and Aswan.",
+    "how_to_eat": "Farmers eat it with soft white cheese as a snack between meals.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://ar.wikipedia.org/wiki/بتاو",
+    "source_urls": [
+      "https://ar.wikipedia.org/wiki/بتاو",
+      "https://ar.wikipedia.org/wiki/مطبخ_مصري"
+    ]
+  },
+  {
+    "id": "egypt-kabed",
+    "name": "Kabed (Nubian bread)",
+    "local_name": "كابد",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Egypt",
+    "state": "Upper Egypt",
+    "regions": [
+      "Aswan"
+    ],
+    "description": "A traditional Nubian bread from the villages around Aswan, made by mixing corn flour with water and baking it until crisp at the edges but soft inside.",
+    "how_to_eat": "Nubians eat it with milk, honey, vegetables or meat.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine"
+    ]
+  },
+  {
+    "id": "egypt-molouha",
+    "name": "Molouha",
+    "local_name": "ملوحة",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Egypt",
+    "state": "Upper Egypt",
+    "regions": [],
+    "description": "A salted river fish, part of Egypt's old tradition of eating salted fish, and especially well known in the south of Egypt.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ar.wikipedia.org/wiki/مطبخ_مصري"
+    ]
+  },
+  {
+    "id": "egypt-shai-saidi",
+    "name": "Sa'idi tea",
+    "local_name": "شاي صعيدي",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Egypt",
+    "state": "Upper Egypt",
+    "regions": [],
+    "description": "Upper Egypt's tea: black tea boiled for up to five minutes over a strong flame, about two teaspoons per cup, giving an extremely strong, dark brew. It is sweetened with copious cane sugar to offset the bitterness.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_مصري"
+    ]
+  },
+  {
+    "id": "egypt-asab",
+    "name": "Sugarcane juice ('asab)",
+    "local_name": "عصير قصب",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Egypt",
+    "state": "Upper Egypt",
+    "regions": [
+      "Minya"
+    ],
+    "description": "Fresh-pressed sugarcane juice, one of the most popular drinks in Egypt, sold cheaply in juice shops in every governorate. The most highly prized asab comes from Minya in Upper Egypt; it is drunk most in summer and after iftar in Ramadan.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'asir asab at any juice shop; it is served fresh without additions.",
+    "typical_price": null,
+    "currency": "EGP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sugarcane_juice",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sugarcane_juice",
+      "https://ar.wikipedia.org/wiki/عصير_قصب",
+      "https://en.wikipedia.org/wiki/Egyptian_cuisine",
+      "https://en.wikipedia.org/wiki/Minya_Governorate"
+    ]
+  }
+]
