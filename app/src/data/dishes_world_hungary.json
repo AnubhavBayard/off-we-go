@@ -1,0 +1,786 @@
+[
+  {
+    "id": "hungary-langos",
+    "name": "Lángos",
+    "local_name": "Lángos",
+    "pronunciation": "LAAN-gosh",
+    "category": "street_food",
+    "country": "Hungary",
+    "state": "Budapest",
+    "regions": [],
+    "description": "A Hungarian deep-fried flatbread of yeast dough made with flour, water or milk and salt, sometimes with potato added (krumplis lángos). It began as a snack made from the last bits of bread dough on baking day; the classic market lángos was fried in plenty of lard and is now sold at markets, fairs, bus stations and fast-food stalls.",
+    "how_to_eat": "Eat it hot, rubbed with garlic or garlic water, or topped with sour cream and cheese.",
+    "how_to_order": "Look for lángos stalls at markets and fairs; ask for it with sour cream and cheese (sajtos-tejfölös) or plain with garlic.",
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lángos",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lángos",
+      "https://hu.wikipedia.org/wiki/Lángos"
+    ]
+  },
+  {
+    "id": "hungary-kurtoskalacs",
+    "name": "Kürtőskalács (chimney cake)",
+    "local_name": "Kürtőskalács",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Hungary",
+    "state": "Budapest",
+    "regions": [],
+    "description": "A spit cake of sweet yeast dough wound around a cone-shaped spit, rolled in sugar and roasted over charcoal while basted with melted butter, so the sugar caramelises into a crisp shiny crust. It comes from the Székelys of Transylvania, became popular across Hungary, and was declared a Hungarikum in 2015.",
+    "how_to_eat": "Tear it off in strips while it is still warm.",
+    "how_to_order": "Order it plain with sugar or with a topping such as ground walnut or cinnamon.",
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kürtőskalács",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kürtőskalács",
+      "https://hu.wikipedia.org/wiki/Kürtőskalács"
+    ]
+  },
+  {
+    "id": "hungary-dobos-torte",
+    "name": "Dobos torte",
+    "local_name": "Dobostorta",
+    "pronunciation": "DO-bosh",
+    "category": "sweet",
+    "country": "Hungary",
+    "state": "Budapest",
+    "regions": [
+      "Budapest"
+    ],
+    "description": "A sponge cake layered with chocolate buttercream and topped with a hard caramel layer, its sides coated with ground nuts. It was created by Budapest confectioner József C. Dobos and introduced at the National General Exhibition of Budapest in 1885; the caramel top was meant to keep it from drying out.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dobos_torte",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dobos_torte",
+      "https://en.wikipedia.org/wiki/Hungarian_cuisine"
+    ]
+  },
+  {
+    "id": "hungary-gundel-palacsinta",
+    "name": "Gundel pancake",
+    "local_name": "Gundel palacsinta",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Hungary",
+    "state": "Budapest",
+    "regions": [],
+    "description": "A crêpe filled with ground walnuts, raisins and rum, served flambéed in a dark chocolate sauce made with egg yolks, cream and cocoa. It was created by Károly Gundel, and the Gundel restaurant keeps the original recipe secret.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gundel_pancake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gundel_pancake",
+      "https://en.wikipedia.org/wiki/Hungarian_cuisine"
+    ]
+  },
+  {
+    "id": "hungary-somloi-galuska",
+    "name": "Somlói galuska",
+    "local_name": "Somlói galuska",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Hungary",
+    "state": "Budapest",
+    "regions": [],
+    "description": "A dessert of sponge cake (traditionally plain, cocoa and walnut sponges) with chocolate sauce and whipped cream. It was introduced at the Gundel restaurant in the late 1950s and won a prize at the 1958 Brussels World Fair; in 2010 it won an online vote as Hungary's favourite cake.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://hu.wikipedia.org/wiki/Somlói_galuska",
+    "source_urls": [
+      "https://hu.wikipedia.org/wiki/Somlói_galuska"
+    ]
+  },
+  {
+    "id": "hungary-zserbo",
+    "name": "Zserbó (Gerbeaud slice)",
+    "local_name": "Zserbó",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Hungary",
+    "state": "Budapest",
+    "regions": [
+      "Budapest"
+    ],
+    "description": "A layered slice of short dough made with flour, butter, sugar, egg and yeast, filled with apricot jam and ground walnuts and topped with chocolate. It is named after the Swiss-born confectioner Emil Gerbeaud, who ran the famous Budapest Kugler confectionery, and is a favourite at Easter and Christmas.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://hu.wikipedia.org/wiki/Zserbó",
+    "source_urls": [
+      "https://hu.wikipedia.org/wiki/Zserbó"
+    ]
+  },
+  {
+    "id": "hungary-rigojancsi",
+    "name": "Rigójancsi",
+    "local_name": "Rigójancsi",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Hungary",
+    "state": "Budapest",
+    "regions": [],
+    "description": "A cube-shaped cake of two chocolate sponge layers made with egg whites, chocolate, butter, sugar and flour, filled with a thick chocolate cream and a thin layer of apricot jam and covered with dark chocolate glaze. It is named after Rigó Jancsi (1858-1927), a Hungarian Romani violinist, and gained popularity across Austria-Hungary.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rigójancsi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rigójancsi"
+    ]
+  },
+  {
+    "id": "hungary-unicum",
+    "name": "Unicum",
+    "local_name": "Unicum",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Hungary",
+    "state": "Budapest",
+    "regions": [],
+    "description": "A Hungarian herbal liqueur (bitters) produced by Zwack from a secret formula of more than forty herbs and aged in oak casks. It is thick, dark and very bitter, drunk as a digestif or apéritif, and is regarded as one of Hungary's national drinks.",
+    "how_to_eat": "Sip it as a digestif after a meal or as an apéritif.",
+    "how_to_order": "The production facility offers tours with tastings of Unicum and Unicum Plum.",
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Unicum",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Unicum",
+      "https://en.wikipedia.org/wiki/Hungarian_cuisine"
+    ]
+  },
+  {
+    "id": "hungary-balatoni-fogas",
+    "name": "Balatoni fogas (Balaton pike-perch)",
+    "local_name": "Balatoni fogas",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Hungary",
+    "state": "Lake Balaton & Transdanubia",
+    "regions": [
+      "Lake Balaton"
+    ],
+    "description": "Fogas is the Hungarian name for large pike-perch (zander) over about 1.5 kg; the smaller fish are called süllő. Balatoni fogas, prized for its boneless flesh, is a noted Hungarian fish dish: the silvery fish is baked whole, garnished with lemon slices and served with oven potatoes.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://hu.wikipedia.org/wiki/Fogassüllő"
+    ]
+  },
+  {
+    "id": "hungary-jokai-bableves",
+    "name": "Jókai bean soup",
+    "local_name": "Jókai-bableves",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Hungary",
+    "state": "Lake Balaton & Transdanubia",
+    "regions": [
+      "Balatonfüred"
+    ],
+    "description": "A rich bean soup with vegetables, smoked pork hock, sausage and small noodles (csipetke), finished with sour cream and eaten as a meal in itself. It is named after the writer Mór Jókai, who by legend ordered his favourite bean soup at a restaurant in Balatonfüred; the modern recipe appeared in Károly Gundel's 1937 cookbook.",
+    "how_to_eat": "Eat it with sour cream on top and white bread; it is often served spicy or with hot chili on the side.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jókai_bean_soup",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jókai_bean_soup",
+      "https://hu.wikipedia.org/wiki/Jókai-bableves"
+    ]
+  },
+  {
+    "id": "hungary-badacsony-wine",
+    "name": "Badacsony white wine",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Hungary",
+    "state": "Lake Balaton & Transdanubia",
+    "regions": [
+      "Badacsony"
+    ],
+    "description": "Badacsony, on the north shore of Lake Balaton, is the centre of the Badacsony wine region. Its volcanic soils give full-bodied white wines with considerable acidity, and it is one of the few sources of the Kéknyelű grape.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hungarian_wine",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hungarian_wine",
+      "https://en.wikipedia.org/wiki/Badacsony"
+    ]
+  },
+  {
+    "id": "hungary-villany-red-wine",
+    "name": "Villány red wine",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Hungary",
+    "state": "Lake Balaton & Transdanubia",
+    "regions": [
+      "Villány"
+    ],
+    "description": "Villány, a town in Baranya County, is the centre of Hungary's southernmost wine region and one of its most prominent red wine regions. It is known for robust, full-bodied Bordeaux-style red blends from Cabernet Sauvignon, Cabernet Franc, Merlot and Portugieser.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hungarian_wine",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Villány",
+      "https://en.wikipedia.org/wiki/Hungarian_wine"
+    ]
+  },
+  {
+    "id": "hungary-froccs",
+    "name": "Fröccs (wine spritzer)",
+    "local_name": "Fröccs",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Hungary",
+    "state": "Lake Balaton & Transdanubia",
+    "regions": [],
+    "description": "A spritzer of wine mixed with carbonated soda water, very popular in Hungary. Dozens of named versions differ by the ratio of wine to soda, from kisfröccs (1 dl wine, 1 dl soda) and nagyfröccs (2 dl wine, 1 dl soda) to hosszúlépés (1 dl wine, 2 dl soda).",
+    "how_to_eat": null,
+    "how_to_order": "Order by name: kisfröccs, nagyfröccs or hosszúlépés depending on how strong you want it.",
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spritzer",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Spritzer"
+    ]
+  },
+  {
+    "id": "hungary-tepertos-pogacsa",
+    "name": "Tepertős pogácsa (crackling scone)",
+    "local_name": "Tepertős pogácsa",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Hungary",
+    "state": "Lake Balaton & Transdanubia",
+    "regions": [],
+    "description": "Pogácsa is a small savoury scone-like bake that Hungary counts as a Hungarikum; the pork-crackling version (tepertős pogácsa) was born in Hungary. Other popular flavours include cheese, potato, sour cream, poppy seed and paprika, and pogácsa is commonly served at celebrations.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pogača",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pogača",
+      "https://en.wikipedia.org/wiki/Hungarian_cuisine"
+    ]
+  },
+  {
+    "id": "hungary-szegedi-halaszle",
+    "name": "Halászlé (Szeged fisherman's soup)",
+    "local_name": "Szegedi halászlé",
+    "pronunciation": "HO-laas-lay",
+    "category": "meal",
+    "country": "Hungary",
+    "state": "Great Plain",
+    "regions": [
+      "Szeged",
+      "Baja"
+    ],
+    "description": "A hot, bright-red fish soup made with plenty of hot paprika, onion and carp or mixed river fish, native to the Danube and Tisza regions and traditionally cooked in a kettle over an open fire. The Szeged version mixes carp, catfish, sturgeon and pike or perch and is strained, while the Baja version is mostly carp served with thick noodles; it is also a Hungarian Christmas dish.",
+    "how_to_eat": "Eat it straight from the kettle with bread.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fisherman's_soup",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fisherman's_soup",
+      "https://hu.wikipedia.org/wiki/Halászlé",
+      "https://en.wikipedia.org/wiki/Hungarian_cuisine"
+    ]
+  },
+  {
+    "id": "hungary-szegedi-teliszalami",
+    "name": "Szeged winter salami",
+    "local_name": "Szegedi téliszalámi",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Hungary",
+    "state": "Great Plain",
+    "regions": [
+      "Szeged"
+    ],
+    "description": "A cold-smoked, air-dried salami of finely chopped pork and pork fat seasoned with white pepper, allspice and sweet paprika, smoked over beech wood until a grey-white noble mould forms on the casing. It was once made only in winter, when Szeged's air was cold enough to cure it, and Szegedi téliszalámi has been an EU protected designation of origin since 2007.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Winter_salami",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Winter_salami",
+      "https://hu.wikipedia.org/wiki/Téliszalámi"
+    ]
+  },
+  {
+    "id": "hungary-gyulai-kolbasz",
+    "name": "Gyulai kolbász (Gyula sausage)",
+    "local_name": "Gyulai kolbász",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Hungary",
+    "state": "Great Plain",
+    "regions": [
+      "Gyula",
+      "Békéscsaba"
+    ],
+    "description": "A spicy, beech-smoked and air-dried pork sausage seasoned with salt, sweet and hot paprika, garlic, pepper and ground caraway, made only within Gyula and Békéscsaba. It is a Hungarikum and was registered as an EU protected geographical indication in 2010; unlike Csabai sausage it contains pepper.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://hu.wikipedia.org/wiki/Gyulai_kolbász",
+    "source_urls": [
+      "https://hu.wikipedia.org/wiki/Gyulai_kolbász"
+    ]
+  },
+  {
+    "id": "hungary-csabai-kolbasz",
+    "name": "Csabai kolbász (Csaba sausage)",
+    "local_name": "Csabai kolbász",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Hungary",
+    "state": "Great Plain",
+    "regions": [
+      "Békéscsaba",
+      "Gyula"
+    ],
+    "description": "A spicy paprika pork sausage made strictly without black pepper, traditionally a home-made product of Békéscsaba and its surroundings. It is a Hungarikum and has been an EU protected geographical indication since 2010; Békéscsaba holds a sausage festival every year.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://hu.wikipedia.org/wiki/Csabai_kolbász",
+    "source_urls": [
+      "https://hu.wikipedia.org/wiki/Csabai_kolbász"
+    ]
+  },
+  {
+    "id": "hungary-kecskemeti-barackpalinka",
+    "name": "Kecskeméti barackpálinka (Kecskemét apricot brandy)",
+    "local_name": "Kecskeméti barackpálinka",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Hungary",
+    "state": "Great Plain",
+    "regions": [
+      "Kecskemét"
+    ],
+    "description": "An apricot pálinka from Kecskemét. Pálinka is a traditional Hungarian fruit spirit protected as an EU geographical indication, and Kecskemét apricot pálinka is one of eight local pálinkas with their own protected designation of origin.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pálinka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pálinka"
+    ]
+  },
+  {
+    "id": "hungary-gulyas",
+    "name": "Goulash (gulyás)",
+    "local_name": "Gulyás",
+    "pronunciation": "GOO-yaash",
+    "category": "meal",
+    "country": "Hungary",
+    "state": "Great Plain",
+    "regions": [],
+    "description": "A soup of beef, onions, paprika, caraway seeds, potatoes, carrots and small pinched noodles (csipetke), browned in oil or lard and simmered. It grew from the food of cattle herders on the Hungarian plains, is one of the national dishes of Hungary, and 'magyar gulyásleves' has been a Hungarikum since 2017.",
+    "how_to_eat": null,
+    "how_to_order": "Bográcsgulyás is the version cooked in a kettle over an open fire.",
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Goulash",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Goulash",
+      "https://hu.wikipedia.org/wiki/Gulyás_(étel)"
+    ]
+  },
+  {
+    "id": "hungary-paprikas-csirke",
+    "name": "Chicken paprikash",
+    "local_name": "Paprikás csirke",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Hungary",
+    "state": "Great Plain",
+    "regions": [],
+    "description": "Chicken simmered in a paprika sauce begun with a roux and finished with sour cream, using sweet or hot paprika. Hungarian sources tie paprika dishes most strongly to the Great Plain, and the first known recipe appeared in István Czifray's Hungarian National Cookbook of 1830.",
+    "how_to_eat": "It is almost always eaten with nokedli, small dumpling-like egg noodles.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chicken_paprikash",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chicken_paprikash",
+      "https://en.wikipedia.org/wiki/Hungarian_cuisine"
+    ]
+  },
+  {
+    "id": "hungary-tokaji-aszu",
+    "name": "Tokaji aszú",
+    "local_name": "Tokaji aszú",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Hungary",
+    "state": "Northern Hungary & Tokaj",
+    "regions": [
+      "Tokaj"
+    ],
+    "description": "A sweet dessert wine from the Tokaj wine region made with grapes affected by noble rot, picked berry by berry and aged in cellars cut into volcanic tuff. Its sweetness was traditionally counted in puttony (3-6 puttonyos), and the Tokaj name has EU Protected Designation of Origin status.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tokaji",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tokaji",
+      "https://hu.wikipedia.org/wiki/Tokaji_aszú",
+      "https://en.wikipedia.org/wiki/Hungarian_wine"
+    ]
+  },
+  {
+    "id": "hungary-egri-bikaver",
+    "name": "Egri Bikavér (Bull's Blood of Eger)",
+    "local_name": "Egri Bikavér",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Hungary",
+    "state": "Northern Hungary & Tokaj",
+    "regions": [
+      "Eger"
+    ],
+    "description": "A blended dry red wine from Eger anchored by the Kékfrankos grape, with rich, spicy and fruity flavours. Its name is tied by legend to the 1552 siege of Eger, and its 1997 regulation made it Hungary's first quality wine produced in a specified region.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Egri_Bikavér",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Egri_Bikavér",
+      "https://en.wikipedia.org/wiki/Hungarian_wine"
+    ]
+  },
+  {
+    "id": "hungary-debreceni",
+    "name": "Debrecener sausage",
+    "local_name": "Debreceni virsli",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Hungary",
+    "state": "Northern Hungary & Tokaj",
+    "regions": [
+      "Debrecen"
+    ],
+    "description": "A finely textured, reddish-orange pork sausage named after the city of Debrecen, heavily spiced with paprika, garlic, pepper and marjoram and usually containing small pieces of pork fat. It is unsmoked or lightly smoked, sold in pairs, and has spread across the former Austro-Hungarian lands.",
+    "how_to_eat": "Traditionally it is slashed crosswise and baked, grilled or fried.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Debrecener",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Debrecener",
+      "https://en.wikipedia.org/wiki/Hungarian_cuisine"
+    ]
+  },
+  {
+    "id": "hungary-hortobagyi-palacsinta",
+    "name": "Hortobágyi palacsinta",
+    "local_name": "Hortobágyi palacsinta",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Hungary",
+    "state": "Northern Hungary & Tokaj",
+    "regions": [],
+    "description": "Savoury crêpes filled with a meat stew (usually veal or beef) seasoned with hot paprika and garlic, covered in the stew's sauce and topped with sour cream and parsley. Despite its name it is unrelated to the Hortobágy region; it was invented for the 1958 Brussels World Fair.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hortobágyi_palacsinta",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hortobágyi_palacsinta"
+    ]
+  },
+  {
+    "id": "hungary-paloc-leves",
+    "name": "Palóc soup",
+    "local_name": "Palócleves",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Hungary",
+    "state": "Northern Hungary & Tokaj",
+    "regions": [],
+    "description": "A soup similar to goulash soup but lighter and slightly sour, made with mutton, pork or beef, potatoes and green beans, seasoned with paprika, caraway and bay leaf and thickened with sour cream and flour. By legend it was created by János Gundel and named after the writer Kálmán Mikszáth, 'the greatest of the Palóc', not after the Palóc people themselves.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Palóc_soup",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Palóc_soup",
+      "https://hu.wikipedia.org/wiki/Palócleves"
+    ]
+  },
+  {
+    "id": "hungary-szatmari-szilvapalinka",
+    "name": "Szatmári szilvapálinka (Szatmár plum brandy)",
+    "local_name": "Szatmári szilvapálinka",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Hungary",
+    "state": "Northern Hungary & Tokaj",
+    "regions": [
+      "Szatmár"
+    ],
+    "description": "A plum pálinka from the Szatmár area. Pálinka is a traditional Hungarian fruit spirit protected as an EU geographical indication, and Szatmár plum pálinka is one of eight local pálinkas with their own protected designation of origin.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "HUF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pálinka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pálinka"
+    ]
+  }
+]
