@@ -10,12 +10,12 @@
     "regions": [
       "Paris"
     ],
-    "description": "A crescent-shaped laminated pastry made from yeast dough folded with layers of butter, giving a flaky crust and soft inside. It is the classic French breakfast pastry sold in every boulangerie.",
+    "description": "A crescent-shaped viennoiserie made from laminated yeast dough folded with layers of butter, giving a flaky crust and soft inside. The modern croissant was developed by French bakers in the early 20th century from the Austrian kipferl, introduced by a Viennese bakery in Paris.",
     "how_to_eat": "Eat it fresh in the morning, plain or dunked in coffee.",
     "how_to_order": "Ask for 'un croissant au beurre' (all-butter) at a boulangerie.",
     "typical_price": null,
     "currency": "EUR",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -42,7 +42,7 @@
     "regions": [
       "Paris"
     ],
-    "description": "A baguette split and filled simply with butter and cooked ham. It is the best-selling sandwich in France and a staple Paris lunch on the go.",
+    "description": "A baguette sliced open, spread with butter and filled with slices of ham, also known as a 'parisien'. More than three million are sold in France each day, more than any other sandwich except the hamburger.",
     "how_to_eat": "Eat it on the go as a quick lunch.",
     "how_to_order": "Ask for 'un jambon-beurre' at a boulangerie or café counter.",
     "typical_price": null,
@@ -73,7 +73,7 @@
     "regions": [
       "Paris"
     ],
-    "description": "A hot ham and cheese sandwich, usually with Emmental or Gruyère and often topped with béchamel, baked or fried. It first appeared on Paris café menus in the early 1900s; with a fried egg on top it becomes a croque madame.",
+    "description": "A hot ham and cheese sandwich, traditionally made with Gruyère (sometimes Comté or Emmental), baked or fried; some brasseries add béchamel. It is mentioned as early as 1891, and with a poached or fried egg on top it becomes a croque madame.",
     "how_to_eat": "Eat it hot with a knife and fork, often with a green salad.",
     "how_to_order": "Ask for 'un croque-monsieur' (or 'croque-madame' with egg) at a café or brasserie.",
     "typical_price": null,
@@ -130,7 +130,7 @@
     "regions": [
       "Paris"
     ],
-    "description": "A sandwich cookie of two almond-meringue shells joined by a filling such as ganache, buttercream or jam. The Paris-style macaron was popularised by pâtisseries like Ladurée and comes in many colours and flavours.",
+    "description": "A sandwich confection of two almond-meringue shells (egg white, sugar and almond meal) joined by a filling such as ganache, buttercream or jam. The sandwich-style 'Paris macaron' is credited to Claude Gerbet or to Pierre Desfontaines of Ladurée, and comes in many colours and flavours.",
     "how_to_eat": "Eat at room temperature, a few at a time.",
     "how_to_order": "Buy by the piece or in a box at a Paris pâtisserie.",
     "typical_price": null,
@@ -162,7 +162,7 @@
     "regions": [
       "Paris"
     ],
-    "description": "A soup of slowly caramelised onions in meat stock, topped with toasted bread and melted cheese and browned under a grill. It was long associated with the old Les Halles market in Paris.",
+    "description": "A soup of sautéed onions cooked in meat stock or water, topped with bread and cheese and browned under a grill. The modern gratinéed version dates from the mid-19th century around Les Halles, the old Paris food market.",
     "how_to_eat": "Eat it hot, breaking through the cheese crust with your spoon.",
     "how_to_order": "Ask for 'soupe à l'oignon gratinée' at a Paris brasserie.",
     "typical_price": null,
@@ -265,9 +265,10 @@
     "spice": 0,
     "allergens": [],
     "gi_tag": false,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Socca",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Farinata",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Socca",
+      "https://en.wikipedia.org/wiki/Farinata",
+      "https://fr.wikipedia.org/wiki/Socca",
       "https://en.wikipedia.org/wiki/Cuisine_of_Provence"
     ]
   },
@@ -344,7 +345,7 @@
     "regions": [
       "Marseille"
     ],
-    "description": "An anise-flavoured spirit from Marseille, flavoured with star anise and liquorice root. It turns cloudy when water is added and is the classic Provençal apéritif.",
+    "description": "An anise-flavoured spirit and apéritif, flavoured mainly with star anise and liquorice root, first commercialised by Paul Ricard in 1932. It turns cloudy when water is added and is especially associated with Marseille.",
     "how_to_eat": "Drink diluted with about five parts cold water, with ice.",
     "how_to_order": "Ask for 'un pastis' at any bar in Provence.",
     "typical_price": null,
@@ -372,23 +373,25 @@
     "regions": [
       "Aix-en-Provence"
     ],
-    "description": "A diamond-shaped sweet from Aix-en-Provence made of ground almonds and candied melon on a wafer base, topped with royal icing. It has been made in Aix since at least the 15th century.",
+    "description": "An almond-shaped Provençal sweet of candied melon and orange peel ground with almonds, set on a thin wafer (pain azyme) and topped with royal icing. It has been a speciality of Aix-en-Provence since the 15th century and is one of the thirteen desserts of Provence.",
     "how_to_eat": null,
     "how_to_order": "Buy boxes from confectioners in Aix-en-Provence.",
     "typical_price": null,
     "currency": "EUR",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "nuts"
+      "nuts",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Calisson",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Calisson",
-      "https://en.wikipedia.org/wiki/Cuisine_of_Provence"
+      "https://en.wikipedia.org/wiki/Cuisine_of_Provence",
+      "https://fr.wikipedia.org/wiki/Calisson"
     ]
   },
   {
@@ -402,7 +405,7 @@
     "regions": [
       "Lyon"
     ],
-    "description": "A soft, oval dumpling of creamed fish (traditionally pike) or meat bound with egg and flour or breadcrumbs. Pike quenelles baked in Nantua (crayfish) sauce are a signature of Lyon.",
+    "description": "A soft, oval dumpling of creamed fish (traditionally pike) or meat with a light egg binding, sometimes with breadcrumbs, usually poached. Lyon and Nantua are famous for pike quenelles, often served with Nantua (crayfish) sauce and browned under a grill.",
     "how_to_eat": "Eat hot with a fork, straight from the baking dish.",
     "how_to_order": "Ask for 'quenelle de brochet sauce Nantua' at a Lyon bouchon.",
     "typical_price": null,
@@ -466,7 +469,7 @@
     "regions": [
       "Savoie"
     ],
-    "description": "Melted cheese, typically a mix of Alpine cheeses such as Comté, Beaufort and Emmental, cooked with white wine and garlic in a communal pot. Diners dip cubes of bread into it.",
+    "description": "Melted cheese made from three local Savoie cheeses such as Beaufort, Abondance, Emmental de Savoie or Gruyère de Savoie, cooked with white wine and garlic in a communal pot. It is the French variant of Swiss cheese fondue; diners dip cubes of bread into it.",
     "how_to_eat": "Dip bread cubes on long forks into the shared pot, stirring as you go.",
     "how_to_order": "Order 'fondue savoyarde' for two or more at Alpine restaurants.",
     "typical_price": null,
@@ -483,7 +486,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fondue",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Fondue",
-      "https://en.wikipedia.org/wiki/French_cuisine"
+      "https://en.wikipedia.org/wiki/French_cuisine",
+      "https://fr.wikipedia.org/wiki/Fondue_savoyarde"
     ]
   },
   {
@@ -497,7 +501,7 @@
     "regions": [
       "Savoie"
     ],
-    "description": "Raclette cheese heated and scraped as it melts onto boiled potatoes, served with pickles and cured meats. It is a classic Alpine winter dish shared by the table.",
+    "description": "Raclette cheese heated and scraped as it melts onto boiled potatoes, served with cornichons and pickled onions. The dish originated in Valais, Switzerland, but melted cheese was also traditionally eaten in Savoie and Haute-Savoie.",
     "how_to_eat": "Scrape the melted cheese over potatoes and eat with gherkins and charcuterie.",
     "how_to_order": "Order raclette for the table at Alpine restaurants in winter.",
     "typical_price": null,
@@ -524,10 +528,8 @@
     "category": "meal",
     "country": "France",
     "state": "Lyon and the Alps",
-    "regions": [
-      "Grenoble"
-    ],
-    "description": "Thinly sliced potatoes baked slowly in milk and cream with garlic, from the Dauphiné region around Grenoble. It is a classic side dish across France.",
+    "regions": [],
+    "description": "Thinly sliced raw potatoes baked slowly in cream in a buttered, garlic-rubbed dish, from the Dauphiné region of south-eastern France. Traditionally it contains no cheese.",
     "how_to_eat": "Eat as a side to roast or grilled meat.",
     "how_to_order": "Look for it as a side dish on menus in the Alps and Lyon.",
     "typical_price": null,
@@ -557,7 +559,7 @@
     "regions": [
       "Lyon"
     ],
-    "description": "A Lyon tart filled with pink sugar-coated almonds (pralines roses) melted with cream into a bright pink filling. It is sold in nearly every Lyon pâtisserie.",
+    "description": "A Lyon tart of crushed pink sugar-coated almonds (pralines roses) melted with cream in a butter shortcrust, giving a bright pink filling. It was created in the mid-1970s, via chef Alain Chapel, to give Lyon's bouchons a dessert.",
     "how_to_eat": null,
     "how_to_order": "Buy a slice of 'tarte aux pralines' at a Lyon pâtisserie.",
     "typical_price": null,
@@ -569,13 +571,12 @@
     "allergens": [
       "nuts",
       "gluten",
-      "dairy",
-      "egg"
+      "dairy"
     ],
     "gi_tag": false,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Praline",
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Tarte_aux_pralines",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Praline",
+      "https://fr.wikipedia.org/wiki/Tarte_aux_pralines",
       "https://en.wikipedia.org/wiki/Lyonnaise_cuisine"
     ]
   },
@@ -588,7 +589,7 @@
     "country": "France",
     "state": "Burgundy",
     "regions": [],
-    "description": "Beef braised slowly in red Burgundy wine with garlic, onions, mushrooms and bacon lardons. It is one of the best-known dishes of French home cooking.",
+    "description": "Beef braised slowly in red wine (often red Burgundy) and beef stock with carrots, onions, garlic and herbs, garnished with pearl onions and mushrooms. First documented in 1867, it became a standard of Paris bistros and only came to be seen as a Burgundian speciality in the 20th century.",
     "how_to_eat": "Eat with boiled potatoes, pasta or bread to soak up the sauce.",
     "how_to_order": "Order 'bœuf bourguignon' at bistros, especially in Burgundy.",
     "typical_price": null,
@@ -669,12 +670,12 @@
     "country": "France",
     "state": "Burgundy",
     "regions": [],
-    "description": "A small baked choux-pastry puff mixed with cheese, usually Gruyère or Comté. It comes from Burgundy, where it is served with wine tastings.",
+    "description": "A baked choux-pastry puff mixed with cheese, usually Gruyère or Comté. It is said to come from Burgundy, around Auxerre and Tonnerre in the Yonne, where it is served cold at wine tastings in cellars.",
     "how_to_eat": "Eat warm as an appetiser with a glass of wine.",
     "how_to_order": "Ask for gougères at bakeries and wine bars in Burgundy.",
     "typical_price": null,
     "currency": "EUR",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -687,7 +688,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gougère",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Gougère",
-      "https://en.wikipedia.org/wiki/Burgundy"
+      "https://en.wikipedia.org/wiki/Burgundy",
+      "https://fr.wikipedia.org/wiki/Gougère"
     ]
   },
   {
@@ -699,18 +701,19 @@
     "country": "France",
     "state": "Burgundy",
     "regions": [],
-    "description": "Eggs poached in a red wine sauce with shallots and bacon lardons, served on toast. It is a traditional Burgundian starter.",
+    "description": "Poached eggs in meurette sauce, made with Burgundy red wine, bacon, onions and shallots browned in butter, served with toasted garlic bread. It is a traditional dish of Burgundian cuisine.",
     "how_to_eat": "Eat with the toast to soak up the sauce.",
     "how_to_order": "Order as a starter at Burgundian restaurants.",
     "typical_price": null,
     "currency": "EUR",
-    "diet": "egg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
       "egg",
-      "gluten"
+      "gluten",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Oeufs_en_meurette",
@@ -756,12 +759,12 @@
     "country": "France",
     "state": "Brittany and Normandy",
     "regions": [],
-    "description": "A thin savoury pancake made from buckwheat flour, a speciality of Brittany. The classic 'complète' is filled with ham, cheese and an egg.",
+    "description": "A thin savoury pancake made from buckwheat flour, a speciality of Brittany. The classic 'complète' is filled with grated Emmental, ham and an egg.",
     "how_to_eat": "Eat folded with a knife and fork, with a bowl of cider.",
     "how_to_order": "Ask for 'une galette complète' at a crêperie.",
     "typical_price": null,
     "currency": "EUR",
-    "diet": "egg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -773,7 +776,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Galette",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Galette",
-      "https://en.wikipedia.org/wiki/Crêpe"
+      "https://en.wikipedia.org/wiki/Crêpe",
+      "https://fr.wikipedia.org/wiki/Galette_de_sarrasin"
     ]
   },
   {
@@ -785,7 +789,7 @@
     "country": "France",
     "state": "Brittany and Normandy",
     "regions": [],
-    "description": "A very thin pancake made from wheat flour, eggs and milk, originating in Brittany. Sweet crêpes are filled with sugar, butter, jam, chocolate or salted-butter caramel.",
+    "description": "A very thin pancake made from wheat flour, eggs and milk. Sweet crêpes are filled with sugar, jam, chocolate spread or fruit, and crêperies are found throughout France, especially in Brittany.",
     "how_to_eat": "Eat hot, folded, as a dessert or snack.",
     "how_to_order": "Ask for 'une crêpe beurre-sucre' or 'caramel au beurre salé' at a crêperie or street stand.",
     "typical_price": null,
@@ -802,7 +806,8 @@
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Crêpe",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Crêpe"
+      "https://en.wikipedia.org/wiki/Crêpe",
+      "https://fr.wikipedia.org/wiki/Crêpe"
     ]
   },
   {
@@ -844,7 +849,7 @@
     "country": "France",
     "state": "Brittany and Normandy",
     "regions": [],
-    "description": "Mussels steamed with white wine, shallots, parsley and butter, often served with fries as moules-frites. They are a classic of the Atlantic and Channel coasts, including Normandy.",
+    "description": "Mussels cooked with white wine, shallots, parsley and butter, the best-known way of preparing mussels. They are usually served with fries as moules-frites, a dish from Belgium and northern France.",
     "how_to_eat": "Use an empty shell as tongs to pick out the mussels, then drink the broth.",
     "how_to_order": "Order 'moules marinières' (or 'moules-frites') at seaside restaurants.",
     "typical_price": null,
@@ -861,7 +866,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Moules-frites",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Moules-frites",
-      "https://en.wikipedia.org/wiki/Mussel"
+      "https://fr.wikipedia.org/wiki/Moules_marinières"
     ]
   },
   {
@@ -875,7 +880,7 @@
     "regions": [
       "Normandy"
     ],
-    "description": "An apple (and pear) brandy from Normandy, distilled from cider and aged in oak casks. It is a protected appellation of origin.",
+    "description": "An apple (or pear) brandy from Normandy, distilled from cider and aged at least two years in oak casks. It is protected by an appellation d'origine contrôlée (AOC).",
     "how_to_eat": "Sip neat after a meal, or as a 'trou normand' between courses.",
     "how_to_order": "Ask for 'un calvados' at bars and restaurants in Normandy.",
     "typical_price": null,
@@ -888,8 +893,7 @@
     "gi_tag": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Calvados_(brandy)",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Calvados_(brandy)",
-      "https://extranet.inao.gouv.fr/fichier/PNOCDCIGPCalvados.pdf"
+      "https://en.wikipedia.org/wiki/Calvados_(brandy)"
     ]
   },
   {
@@ -901,7 +905,7 @@
     "country": "France",
     "state": "Brittany and Normandy",
     "regions": [],
-    "description": "An upside-down tart in which apples are caramelised in butter and sugar before the pastry is baked on top and the tart flipped. It was created at the Hôtel Tatin in Lamotte-Beuvron.",
+    "description": "An upside-down tart in which apples are caramelised in butter and sugar before the pastry goes on top and the tart is flipped. It is named after the Tatin sisters, who served it as the signature dish of their hotel in Lamotte-Beuvron in the 1880s.",
     "how_to_eat": "Eat warm, often with crème fraîche or ice cream.",
     "how_to_order": "Order as a dessert at bistros.",
     "typical_price": null,
@@ -1017,12 +1021,12 @@
     "country": "France",
     "state": "Alsace",
     "regions": [],
-    "description": "A tall, ring-shaped yeast cake with raisins and almonds, baked in a fluted mould and dusted with sugar. It is a traditional Alsatian Sunday breakfast cake.",
+    "description": "A tall, ring-shaped brioche-style yeast cake with rum- or kirsch-soaked raisins and almonds, baked in a fluted mould. Long a celebration cake in Alsace, today it is mostly eaten at breakfast.",
     "how_to_eat": "Eat in slices for breakfast or with coffee.",
     "how_to_order": "Buy at Alsatian bakeries, often in small or large sizes.",
     "typical_price": null,
     "currency": "EUR",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -1036,7 +1040,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gugelhupf",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Gugelhupf",
-      "https://en.wikipedia.org/wiki/Alsatian_cuisine"
+      "https://en.wikipedia.org/wiki/Alsatian_cuisine",
+      "https://fr.wikipedia.org/wiki/Kougelhopf"
     ]
   },
   {
@@ -1050,23 +1055,25 @@
     "regions": [
       "Strasbourg"
     ],
-    "description": "A knot-shaped bread dipped in a lye solution before baking, giving it a shiny brown crust, and sprinkled with coarse salt. It is a common snack in Alsatian bakeries and winstubs.",
+    "description": "A knot-shaped bread made with flour, water, butter and yeast, dipped in an alkaline solution before baking to give it a shiny brown crust, and sprinkled with coarse salt. It is a traditional symbol of Alsatian food and a common snack in bakeries and winstubs.",
     "how_to_eat": "Eat as a snack, often with beer.",
     "how_to_order": "Buy at Alsatian bakeries and Christmas markets.",
     "typical_price": null,
     "currency": "EUR",
     "diet": "veg",
     "jain": false,
-    "vegan": true,
+    "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pretzel",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Pretzel",
-      "https://en.wikipedia.org/wiki/Alsatian_cuisine"
+      "https://en.wikipedia.org/wiki/Alsatian_cuisine",
+      "https://fr.wikipedia.org/wiki/Bretzel"
     ]
   },
   {
@@ -1082,7 +1089,7 @@
       "Toulouse",
       "Carcassonne"
     ],
-    "description": "A slow-cooked casserole of white beans with pork sausage, pork and duck or goose confit, from Languedoc. Castelnaudary, Carcassonne and Toulouse each claim their own version.",
+    "description": "A slow-cooked casserole of white haricot beans with sausage, pork and often duck or goose confit, originating in Castelnaudary in Languedoc. Castelnaudary, Carcassonne and Toulouse each have their own version.",
     "how_to_eat": "Eat hot from the earthenware dish, breaking the crust.",
     "how_to_order": "Order at restaurants in Toulouse or Castelnaudary; portions are large.",
     "typical_price": null,
@@ -1136,7 +1143,7 @@
     "regions": [
       "Périgord"
     ],
-    "description": "The fattened liver of a duck or goose, served as a terrine or pan-seared. The South-West, especially Gascony and Périgord, produces most of France's foie gras.",
+    "description": "The fattened liver of a duck or goose, served as a terrine or pan-seared. France is by far the largest producer, and most of its foie gras industry is in the South-West (Périgord, Aquitaine) and Alsace.",
     "how_to_eat": "Eat in thin slices on toasted bread, often with a sweet wine.",
     "how_to_order": "Order as a starter; 'mi-cuit' is lightly cooked, 'poêlé' is pan-seared.",
     "typical_price": null,
@@ -1196,7 +1203,7 @@
     "regions": [
       "Basque Country"
     ],
-    "description": "A Basque dish of onions, green peppers and tomatoes sautéed in olive oil and seasoned with Espelette pepper. It is often served with eggs or ham.",
+    "description": "A Basque and Gascon dish of onions, green peppers and tomatoes sautéed and seasoned with Espelette pepper. It is often served with eggs or ham.",
     "how_to_eat": "Eat as a side or with eggs or Bayonne ham.",
     "how_to_order": "Order in the French Basque Country around Bayonne and Biarritz.",
     "typical_price": null,
@@ -1224,7 +1231,7 @@
     "regions": [
       "Basque Country"
     ],
-    "description": "A round Basque cake of almond shortcrust pastry filled with pastry cream or black cherry jam. It is the traditional cake of the French Basque Country.",
+    "description": "A round Basque cake of butter-rich shortcrust pastry (pâte sablée) filled with black cherry jam or almond or vanilla pastry cream. It is a traditional dessert of the French Basque Country, tied to the town of Cambo-les-Bains.",
     "how_to_eat": null,
     "how_to_order": "Buy at bakeries in the Basque Country; choose 'crème' or 'cerise'.",
     "typical_price": null,

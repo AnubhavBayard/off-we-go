@@ -10,7 +10,7 @@
     "regions": [
       "Beijing"
     ],
-    "description": "Roast duck from Beijing prepared since the imperial era, prized for its thin, crispy skin, which the cook slices in front of diners. It is the best-known dish of Beijing cuisine.",
+    "description": "Roast duck from Beijing prepared since the imperial era, prized for its thin, crispy skin, which the cook slices in front of diners. It is considered among the best representatives of Chinese cuisine and is often served to visiting dignitaries.",
     "how_to_eat": "Roll slices of skin and meat in thin pancakes with spring onion, cucumber and sweet bean sauce.",
     "how_to_order": "Order a whole or half duck at a roast-duck restaurant; it is carved at the table.",
     "typical_price": null,
@@ -41,7 +41,7 @@
     "regions": [
       "Beijing"
     ],
-    "description": "Thick wheat noodles topped with zhajiang, a fried sauce of fermented soybean paste and minced pork. Shredded fresh vegetables such as cucumber are added on top.",
+    "description": "Thick wheat noodles topped with zhajiang, a fried sauce of fermented soybean paste; the Beijing version uses diced pork. It is served with crunchy vegetables such as cucumber, radish and bean sprouts.",
     "how_to_eat": "Mix the sauce and vegetables through the noodles before eating.",
     "how_to_order": "Ask for 'zhajiangmian' at Beijing noodle shops.",
     "typical_price": null,
@@ -164,7 +164,7 @@
     "regions": [
       "Beijing"
     ],
-    "description": "Chinese hawthorn fruits on a bamboo skewer coated in hardened sugar syrup. Made since the Song dynasty, it is a classic winter snack of northern China.",
+    "description": "Chinese hawthorn fruits on a bamboo skewer coated in hardened sugar syrup. Made since the Song dynasty, it remains popular throughout northern China and was famously sold in Beijing.",
     "how_to_eat": "Bite the crunchy sugar shell and fruit straight off the skewer.",
     "how_to_order": "Buy a skewer from street vendors, mostly in winter.",
     "typical_price": null,
@@ -479,7 +479,8 @@
     "allergens": [
       "shellfish",
       "gluten",
-      "soy"
+      "soy",
+      "sesame"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shumai",
@@ -542,7 +543,8 @@
     "spice": 0,
     "allergens": [
       "shellfish",
-      "soy"
+      "soy",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rice_noodle_roll",
@@ -600,7 +602,7 @@
     "how_to_order": "Buy from Cantonese bakeries or order at dim sum.",
     "typical_price": null,
     "currency": "CNY",
-    "diet": "egg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -625,7 +627,7 @@
     "country": "China",
     "state": "Guangdong",
     "regions": [],
-    "description": "Goose roasted until the skin is crisp and glossy, a centrepiece of Cantonese roast meat (siu mei) cooking.",
+    "description": "Goose roasted with seasoning, often in a charcoal furnace at high temperature, until the skin is crisp; it is a classic of Cantonese siu mei (roast meat) and is served with plum sauce. A 2016 Guangzhou government survey named it the city's most popular dish.",
     "how_to_eat": "Eat with plum sauce, over rice or on its own.",
     "how_to_order": "Order by the quarter or half at a siu mei shop.",
     "typical_price": null,
@@ -843,7 +845,7 @@
     "regions": [
       "Hangzhou"
     ],
-    "description": "Grass carp poached and covered in a glossy sweet-and-sour vinegar sauce. A Hangzhou specialty dating to the Southern Song dynasty.",
+    "description": "Grass carp cooked briefly and covered in a shiny sweet-and-sour sauce of sugar and vinegar. A Hangzhou specialty dating to the Southern Song dynasty.",
     "how_to_eat": "Share the whole fish, eating the flesh with the sauce.",
     "how_to_order": "Order at Hangzhou restaurants around West Lake.",
     "typical_price": null,
@@ -912,7 +914,8 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "soy"
+      "soy",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Red_braised_pork_belly",
@@ -932,12 +935,12 @@
     "regions": [
       "Changsha"
     ],
-    "description": "Black, fermented tofu deep-fried and served with chilli sauce, a traditional snack of Changsha. It is one of the 'Three Treasures of Hunan'; the brine is traditionally made with vegetables and meat.",
+    "description": "Tofu fermented in a brine of winter bamboo shoots, koji and shiitake mushrooms, then fried until it has a black crackling skin and topped with chopped mustard greens, chilli and shallot. Famed for its spicy flavour, it is one of the 'Three Treasures of Hunan'.",
     "how_to_eat": "Eat hot from the stall with the chilli dressing.",
     "how_to_order": "Buy from night-market stalls in Changsha.",
     "typical_price": null,
     "currency": "CNY",
-    "diet": "nonveg",
+    "diet": "veg",
     "jain": false,
     "vegan": false,
     "spice": 2,
@@ -961,7 +964,7 @@
     "country": "China",
     "state": "Hunan & Hubei",
     "regions": [],
-    "description": "A large fish head, traditionally bighead carp, steamed under a thick layer of fermented chopped red chillies (duojiao) with garlic and ginger. It is the most famous duojiao dish and a representative of Hunan cuisine.",
+    "description": "A large carp head steamed under a thick layer of fermented chopped red chillies (duojiao) with garlic and ginger. It is the most famous duojiao dish and a representative of Hunan cuisine.",
     "how_to_eat": "Eat the fish and use the sauce with rice or noodles.",
     "how_to_order": "Order at Hunan restaurants; ask for noodles to mix into the leftover sauce.",
     "typical_price": null,
@@ -971,7 +974,8 @@
     "vegan": false,
     "spice": 3,
     "allergens": [
-      "fish"
+      "fish",
+      "soy"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
@@ -997,14 +1001,15 @@
     "how_to_order": "Buy for breakfast at Wuhan noodle stalls.",
     "typical_price": null,
     "currency": "CNY",
-    "diet": "nonveg",
+    "diet": "veg",
     "jain": false,
     "vegan": false,
     "spice": 1,
     "allergens": [
       "gluten",
       "sesame",
-      "soy"
+      "soy",
+      "peanuts"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hot_dry_noodles",
@@ -1125,7 +1130,9 @@
     "vegan": true,
     "spice": 2,
     "allergens": [
-      "gluten"
+      "gluten",
+      "sesame",
+      "soy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Liangpi",
@@ -1145,7 +1152,7 @@
     "regions": [
       "Lanzhou"
     ],
-    "description": "Hand-pulled noodles in clear beef broth, closely associated with Hui Muslim cuisine. By 2015 there were about 50,000 shops serving it across China.",
+    "description": "Hand-pulled noodles in clear beef broth, closely associated with Hui Muslim cuisine. In 2010 it received China's equivalent of protected designation of origin, and by 2015 about 50,000 shops served it across China.",
     "how_to_eat": "Eat with the chilli oil and radish slices in the broth.",
     "how_to_order": "Choose your noodle thickness when ordering at a Lanzhou lamian shop.",
     "typical_price": null,
@@ -1157,7 +1164,7 @@
     "allergens": [
       "gluten"
     ],
-    "gi_tag": false,
+    "gi_tag": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lanzhou_beef_noodles",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Lanzhou_beef_noodles",
@@ -1182,7 +1189,9 @@
     "jain": false,
     "vegan": false,
     "spice": 2,
-    "allergens": [],
+    "allergens": [
+      "sesame"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chuan_(food)",
     "source_urls": [
@@ -1211,7 +1220,8 @@
     "vegan": false,
     "spice": 2,
     "allergens": [
-      "gluten"
+      "gluten",
+      "soy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dapanji",
@@ -1268,9 +1278,10 @@
     "spice": 0,
     "allergens": [],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pilaf",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Uyghur_cuisine"
+      "https://en.wikipedia.org/wiki/Uyghur_cuisine",
+      "https://en.wikipedia.org/wiki/Pilaf"
     ]
   },
   {
@@ -1295,9 +1306,10 @@
       "gluten"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Samsa_(food)",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Uyghur_cuisine"
+      "https://en.wikipedia.org/wiki/Uyghur_cuisine",
+      "https://en.wikipedia.org/wiki/Samsa_(food)"
     ]
   },
   {
@@ -1321,7 +1333,11 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "egg",
+      "fish",
+      "soy"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Crossing-the-bridge_noodles",
     "source_urls": [
@@ -1338,18 +1354,22 @@
     "country": "China",
     "state": "Yunnan & Guizhou",
     "regions": [
-      "Kunming"
+      "Dali"
     ],
-    "description": "A rice cake particular to Yunnan, sold grilled, fried or sliced into dishes.",
+    "description": "A rice cake particular to Yunnan, often stir-fried with vegetables and mala seasoning. As the street snack kao erkuai it is grilled and rolled around a youtiao with sweet or savoury condiments, and is especially popular in Dali.",
     "how_to_eat": "Eat grilled and folded around fillings, or stir-fried.",
     "how_to_order": "Buy grilled erkuai from street vendors in Yunnan.",
     "typical_price": null,
     "currency": "CNY",
-    "diet": "nonveg",
+    "diet": "veg",
     "jain": false,
     "vegan": false,
     "spice": 1,
-    "allergens": [],
+    "allergens": [
+      "gluten",
+      "peanuts",
+      "soy"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Erkuai",
     "source_urls": [
@@ -1397,7 +1417,7 @@
     "regions": [
       "Maotai"
     ],
-    "description": "A style of baijiu (Chinese grain liquor) from the town of Maotai in Guizhou, made from sorghum and a wheat-based starter. It has a nutty, savoury aroma and is China's most prestigious spirit.",
+    "description": "A style of baijiu (Chinese grain liquor) from the town of Maotai in Guizhou, made from sorghum, a wheat-based starter and Chishui River water. It has a nutty, savoury aroma and is standard fare at Chinese diplomatic dinners.",
     "how_to_eat": "Sip in small glasses, usually as toasts during a banquet.",
     "how_to_order": "Order by the bottle in restaurants; it is expensive.",
     "typical_price": null,

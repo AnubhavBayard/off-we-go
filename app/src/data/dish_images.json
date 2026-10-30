@@ -1475,6 +1475,18 @@
   "credit": "Армен Авакян",
   "license": "CC BY-SA 3.0"
  },
+ "china-polo": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Afghan_Palo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Afghan_Palo.jpg",
+  "credit": "Jost Wagner",
+  "license": "CC BY-SA 1.0"
+ },
+ "china-samsa": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Ouzb%C3%A9kistan-Samsas.jpg/960px-Ouzb%C3%A9kistan-Samsas.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ouzb%C3%A9kistan-Samsas.jpg",
+  "credit": "Ji-Elle",
+  "license": "CC BY-SA 4.0"
+ },
  "china-crossing-the-bridge-noodles": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Crossing_the_Bridge_Rice_Noodles_full_ingredients_in_Mengzi_%2820200126132053%29.jpg/960px-Crossing_the_Bridge_Rice_Noodles_full_ingredients_in_Mengzi_%2820200126132053%29.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Crossing_the_Bridge_Rice_Noodles_full_ingredients_in_Mengzi_(20200126132053).jpg",
@@ -1548,10 +1560,10 @@
   "license": "CC0"
  },
  "france-socca": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Socca_EuroCup_2024_-_Moldova_-_Italy.jpg/960px-Socca_EuroCup_2024_-_Moldova_-_Italy.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Socca_EuroCup_2024_-_Moldova_-_Italy.jpg",
-  "credit": "Melange",
-  "license": "CC BY-SA 4.0"
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Farinata_di_ceci_01.jpg/960px-Farinata_di_ceci_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Farinata_di_ceci_01.jpg",
+  "credit": "Alessio Sbarbaro User_talk:Yoggysot",
+  "license": "CC BY-SA 3.0"
  },
  "france-pissaladiere": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Pissaladi%C3%A8re.jpg/960px-Pissaladi%C3%A8re.jpg",
@@ -1606,6 +1618,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:Gratin_dauphinois.jpg",
   "credit": "Ludovic Péron",
   "license": "CC BY-SA 3.0"
+ },
+ "france-praline-tart": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Lyon-Tartelette_aux_pralines_03.jpg/960px-Lyon-Tartelette_aux_pralines_03.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lyon-Tartelette_aux_pralines_03.jpg",
+  "credit": "Ji-Elle",
+  "license": "CC BY-SA 4.0"
  },
  "france-beef-bourguignon": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Beef_bourguignon_NYT.jpg/960px-Beef_bourguignon_NYT.jpg",
@@ -2214,10 +2232,10 @@
   "license": "CC BY-SA 4.0"
  },
  "indonesia-ketoprak": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Kethoprak_Tobong_Kelana_Bhakti_Budaya_1.jpg/960px-Kethoprak_Tobong_Kelana_Bhakti_Budaya_1.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Kethoprak_Tobong_Kelana_Bhakti_Budaya_1.jpg",
-  "credit": "dian_vasthu00",
-  "license": "CC BY-SA 2.0"
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ketoprak_Boplo.JPG/960px-Ketoprak_Boplo.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Ketoprak_Boplo.JPG",
+  "credit": "Midori",
+  "license": "CC BY 3.0"
  },
  "indonesia-nasi-uduk": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Nasi_uduk_netherlands.jpg/960px-Nasi_uduk_netherlands.jpg",
@@ -2274,10 +2292,10 @@
   "license": "CC BY-SA 3.0"
  },
  "indonesia-lumpia-semarang": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Loenpia_Semarang.JPG/960px-Loenpia_Semarang.JPG",
-  "page": "https://commons.wikimedia.org/wiki/File:Loenpia_Semarang.JPG",
-  "credit": "Midori",
-  "license": "CC BY-SA 3.0"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Loenpia_Gang_Lombok_Semarang.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Loenpia_Gang_Lombok_Semarang.jpg",
+  "credit": "Suseno",
+  "license": "CC0"
  },
  "indonesia-tempeh-mendoan": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Mendoan.jpg/960px-Mendoan.jpg",
@@ -2338,6 +2356,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:Sate_lilit.jpg",
   "credit": "lifestyle.okezone.com",
   "license": "CC BY-SA 4.0"
+ },
+ "indonesia-lawar": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Lawar_babi_guling.jpg/960px-Lawar_babi_guling.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lawar_babi_guling.jpg",
+  "credit": "ybs from Jakarta, Indonesia",
+  "license": "CC BY 2.0"
  },
  "indonesia-ayam-taliwang": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Ayam_bakar_khas_Taliwang_2.JPG/960px-Ayam_bakar_khas_Taliwang_2.JPG",
@@ -3029,11 +3053,11 @@
   "credit": "Jpatokal",
   "license": "CC BY-SA 4.0"
  },
- "malaysia-laksam": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Nawab_Faizunnesa_House_at_Laksham%2C_Comilla%2C_19_April_2017_09.jpg/960px-Nawab_Faizunnesa_House_at_Laksham%2C_Comilla%2C_19_April_2017_09.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Nawab_Faizunnesa_House_at_Laksham,_Comilla,_19_April_2017_09.jpg",
-  "credit": "Afifa Afrin",
-  "license": "CC BY-SA 4.0"
+ "malaysia-akok": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Akok_20230504_133135.jpg/960px-Akok_20230504_133135.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Akok_20230504_133135.jpg",
+  "credit": "Wiki Farazi",
+  "license": "CC0"
  },
  "malaysia-mee-rebus": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Mee_Rebus_by_Banej%2C_Singapore_October_2017.jpg/960px-Mee_Rebus_by_Banej%2C_Singapore_October_2017.jpg",
@@ -3310,6 +3334,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:HuachinangoVeracruzana.JPG",
   "credit": "Thelmadatter",
   "license": "CC BY-SA 3.0"
+ },
+ "mexico-garnachas": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Garnachas.jpg/960px-Garnachas.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Garnachas.jpg",
+  "credit": "Encyclopedia2001",
+  "license": "CC0"
  },
  "mexico-arroz-a-la-tumbada": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/ShrimpTlacotalpan_02.JPG/960px-ShrimpTlacotalpan_02.JPG",
@@ -4140,10 +4170,10 @@
   "license": "CC0"
  },
  "spain-rabo-de-toro": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Raw_oxtail-01.jpg/960px-Raw_oxtail-01.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Raw_oxtail-01.jpg",
-  "credit": "FotoosVanRobin",
-  "license": "CC BY-SA 2.0"
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Rabo_de_toro-Estofado_%2801%29.JPG/960px-Rabo_de_toro-Estofado_%2801%29.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Rabo_de_toro-Estofado_(01).JPG",
+  "credit": "Tamorlan",
+  "license": "CC BY-SA 3.0"
  },
  "spain-sherry": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/DO_Jerez_location.svg/960px-DO_Jerez_location.svg.png",
@@ -4211,11 +4241,17 @@
   "credit": "Juan J. Martínez from Valencia, España",
   "license": "CC BY-SA 2.0"
  },
+ "spain-cachopo": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Dedicado_a_los_amantes_del_cachopo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dedicado_a_los_amantes_del_cachopo.jpg",
+  "credit": "César",
+  "license": "CC BY-SA 2.0"
+ },
  "spain-asturian-cider": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Midwest_hard_cider.jpg/960px-Midwest_hard_cider.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Midwest_hard_cider.jpg",
-  "credit": "ChuckDabs",
-  "license": "CC BY 3.0"
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Botellas_Sidra_de_Asturias_DOP.jpg/960px-Botellas_Sidra_de_Asturias_DOP.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Botellas_Sidra_de_Asturias_DOP.jpg",
+  "credit": "CONSEJO REGULADOR DOP SIDRA DE ASTURIAS",
+  "license": "CC BY-SA 4.0"
  },
  "spain-queimada": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Queimada.jpg",

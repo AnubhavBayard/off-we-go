@@ -71,7 +71,7 @@
     "regions": [
       "Madrid"
     ],
-    "description": "Fried dough sticks served with a cup of thick hot chocolate for dipping. In Madrid they are a classic breakfast or late-night treat, along with thicker 'porras'.",
+    "description": "Fried dough sticks served with a cup of thick hot chocolate for dipping. In Madrid they are a classic breakfast or afternoon snack, along with thicker 'porras'.",
     "how_to_eat": "Dip the churros into the hot chocolate.",
     "how_to_order": "Order 'chocolate con churros' at a chocolatería.",
     "typical_price": null,
@@ -107,7 +107,7 @@
     "how_to_order": "Order 'huevos rotos con jamón' at Madrid bars.",
     "typical_price": null,
     "currency": "EUR",
-    "diet": "egg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -146,7 +146,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Callos",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Callos",
-      "https://en.wikipedia.org/wiki/Spanish_cuisine"
+      "https://en.wikipedia.org/wiki/Spanish_cuisine",
+      "https://es.wikipedia.org/wiki/Callos_a_la_madrileña"
     ]
   },
   {
@@ -158,7 +159,7 @@
     "country": "Spain",
     "state": "Madrid",
     "regions": [],
-    "description": "A thick omelette of eggs and potatoes fried in olive oil, often with onion. It is one of Spain's most common dishes, served in nearly every bar.",
+    "description": "A thick omelette of eggs and potatoes fried in olive oil, often with onion. It is one of the most popular dishes in Spanish cuisine, often served at room temperature as a tapa.",
     "how_to_eat": "Eat a wedge as a tapa or in a bread roll.",
     "how_to_order": "Ask for 'un pincho de tortilla' at any bar.",
     "typical_price": null,
@@ -185,10 +186,8 @@
     "category": "snack",
     "country": "Spain",
     "state": "Catalonia",
-    "regions": [
-      "Barcelona"
-    ],
-    "description": "Bread rubbed with ripe tomato, drizzled with olive oil and salted. It is the basic accompaniment to meals in Catalonia.",
+    "regions": [],
+    "description": "Bread rubbed with ripe tomato, drizzled with olive oil and salted. It is a staple of Catalan cuisine, eaten as a snack or with any meal.",
     "how_to_eat": "Eat on its own or with ham, cheese or anchovies.",
     "how_to_order": "It comes with most meals; ask for 'pa amb tomàquet' at Catalan restaurants.",
     "typical_price": null,
@@ -216,7 +215,7 @@
     "country": "Spain",
     "state": "Catalonia",
     "regions": [],
-    "description": "A custard of milk, egg yolks and sugar flavoured with lemon or orange peel and cinnamon, with a burnt sugar top. It is the classic Catalan dessert.",
+    "description": "A custard of milk, egg yolks and sugar flavoured with lemon zest and cinnamon, with a burnt sugar top. It is the classic Catalan dessert.",
     "how_to_eat": "Crack the caramel top with your spoon.",
     "how_to_order": "Order as a dessert at Catalan restaurants.",
     "typical_price": null,
@@ -245,7 +244,7 @@
     "country": "Spain",
     "state": "Catalonia",
     "regions": [],
-    "description": "Aubergines, red peppers and onions roasted whole over embers, then peeled, sliced and dressed with olive oil. It is a traditional Catalan dish served as a side or on bread.",
+    "description": "Aubergines and peppers, sometimes with onions, roasted whole over embers, then peeled, sliced and dressed with olive oil. It is a traditional Catalan dish served as a side or on bread.",
     "how_to_eat": "Eat on toast or as a side with grilled meat.",
     "how_to_order": "Order as a starter or side at Catalan restaurants.",
     "typical_price": null,
@@ -265,7 +264,7 @@
   {
     "id": "spain-calcots",
     "name": "Calçots",
-    "local_name": "Calçotada",
+    "local_name": "Calçots",
     "pronunciation": "kal-SOTS",
     "category": "meal",
     "country": "Spain",
@@ -273,7 +272,7 @@
     "regions": [
       "Valls"
     ],
-    "description": "Long green onions grilled over a fire until charred, then dipped in romesco-style salvitxada sauce. They are eaten at calçotadas, winter feasts that originated in Valls.",
+    "description": "Long green onions grilled over a fire until charred, then dipped in an almond sauce similar to romesco and salvitxada. They are eaten at calçotadas, feasts held from November to April that originated in Valls, whose calçot is an EU protected geographical indication.",
     "how_to_eat": "Peel off the charred layer, dip in sauce and eat holding the stem above your mouth.",
     "how_to_order": "Book a 'calçotada' at countryside restaurants from January to April.",
     "typical_price": null,
@@ -285,7 +284,7 @@
     "allergens": [
       "nuts"
     ],
-    "gi_tag": false,
+    "gi_tag": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Calçot",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Calçot",
@@ -301,7 +300,7 @@
     "country": "Spain",
     "state": "Catalonia",
     "regions": [],
-    "description": "Grilled Catalan pork sausage (botifarra) served with white beans sautéed in oil. It is a traditional Catalan meal.",
+    "description": "Grilled Catalan pork sausage (botifarra) served with white beans. It is a traditional Catalan meal.",
     "how_to_eat": "Eat with pa amb tomàquet and allioli.",
     "how_to_order": "Order at traditional Catalan restaurants.",
     "typical_price": null,
@@ -412,7 +411,7 @@
     "country": "Spain",
     "state": "Valencia",
     "regions": [
-      "Valencia"
+      "Alboraya"
     ],
     "description": "Long, soft glazed pastries from Alboraya in Valencia. They are made to be dipped in horchata.",
     "how_to_eat": "Dip into a glass of horchata.",
@@ -432,7 +431,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fartons",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Fartons",
-      "https://en.wikipedia.org/wiki/Valencian_cuisine"
+      "https://en.wikipedia.org/wiki/Valencian_cuisine",
+      "https://es.wikipedia.org/wiki/Fartón"
     ]
   },
   {
@@ -444,9 +444,9 @@
     "country": "Spain",
     "state": "Valencia",
     "regions": [
-      "Valencia"
+      "Gandia"
     ],
-    "description": "A seafood dish similar to paella but made with short thin noodles instead of rice, cooked in fish stock. It comes from Gandia on the Valencian coast.",
+    "description": "A seafood dish similar to paella but made with pasta noodles instead of rice, sautéed in stock with fish and shellfish. It comes from Gandia on the Valencian coast.",
     "how_to_eat": "Eat with allioli (garlic sauce).",
     "how_to_order": "Order at seafood restaurants on the Valencian coast.",
     "typical_price": null,
@@ -595,7 +595,7 @@
       "Cádiz",
       "Málaga"
     ],
-    "description": "Small fish and seafood, such as anchovies, squid and red mullet, lightly floured and deep-fried in olive oil. It is typical of the Andalusian coast, especially Cádiz and Málaga.",
+    "description": "Fish, usually white fish, coated in flour, deep-fried in olive oil and sprinkled with salt, often served with lemon. It is typical of the Andalusian coast, including Cádiz and Málaga, and common inland in Seville and Córdoba.",
     "how_to_eat": "Eat hot with your fingers and a squeeze of lemon.",
     "how_to_order": "Order a mixed plate at a 'freiduría' or beach bar ('chiringuito').",
     "typical_price": null,
@@ -613,7 +613,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pescado_frito",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Pescado_frito",
-      "https://en.wikipedia.org/wiki/Andalusian_cuisine"
+      "https://en.wikipedia.org/wiki/Andalusian_cuisine",
+      "https://es.wikipedia.org/wiki/Pescado_frito"
     ]
   },
   {
@@ -628,7 +629,7 @@
       "Huelva",
       "Jabugo"
     ],
-    "description": "Dry-cured ham from black Iberian pigs, aged for years; the top grade comes from acorn-fed pigs (bellota). Jabugo in Huelva is one of its most famous producing areas.",
+    "description": "Dry-cured ham from black Iberian pigs, cured for 12 to 48 months; the top grade comes from acorn-fed pigs (bellota). Jabugo in Huelva is one of its most famous producing areas.",
     "how_to_eat": "Eat thin hand-carved slices at room temperature with bread.",
     "how_to_order": "Ask for 'una ración de jamón ibérico de bellota' at a tapas bar.",
     "typical_price": null,
@@ -656,7 +657,7 @@
     "regions": [
       "Córdoba"
     ],
-    "description": "Oxtail stewed slowly in red wine with vegetables until the meat falls off the bone. It is a traditional dish of Córdoba.",
+    "description": "A stew of bull or cow oxtail, typical of Córdoba and cooked across Andalusia. Its origin is placed in 16th-century Córdoba, when it was made with the tails of fighting bulls after a bullfight.",
     "how_to_eat": "Eat with bread or fried potatoes to soak up the sauce.",
     "how_to_order": "Order at traditional restaurants in Córdoba and Seville.",
     "typical_price": null,
@@ -667,9 +668,9 @@
     "spice": 0,
     "allergens": [],
     "gi_tag": false,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Oxtail",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Rabo_de_toro",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Oxtail",
+      "https://es.wikipedia.org/wiki/Rabo_de_toro",
       "https://en.wikipedia.org/wiki/Andalusian_cuisine"
     ]
   },
@@ -761,20 +762,19 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pincho",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Pincho",
-      "https://en.wikipedia.org/wiki/Basque_cuisine"
+      "https://en.wikipedia.org/wiki/Basque_cuisine",
+      "https://es.wikipedia.org/wiki/Gilda_(pincho)"
     ]
   },
   {
     "id": "spain-bacalao-al-pil-pil",
     "name": "Bacalao al pil-pil",
-    "local_name": "Bakailaoa pil-pilean",
+    "local_name": "Bacalao al pilpil",
     "pronunciation": "ba-ka-LAO al peel-PEEL",
     "category": "meal",
     "country": "Spain",
     "state": "Basque Country",
-    "regions": [
-      "Bilbao"
-    ],
+    "regions": [],
     "description": "Salt cod cooked gently in olive oil with garlic and chilli, swirled until the fish's gelatin emulsifies the oil into a sauce. It is a classic Basque dish.",
     "how_to_eat": "Eat with bread to mop up the sauce.",
     "how_to_order": "Order at traditional Basque restaurants, especially in Bilbao.",
@@ -791,7 +791,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bacalao_al_pil_pil",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Bacalao_al_pil_pil",
-      "https://en.wikipedia.org/wiki/Basque_cuisine"
+      "https://en.wikipedia.org/wiki/Basque_cuisine",
+      "https://es.wikipedia.org/wiki/Bacalao_al_pil_pil"
     ]
   },
   {
@@ -833,7 +834,7 @@
     "regions": [
       "San Sebastián"
     ],
-    "description": "A crustless cheesecake baked at a high temperature so the top burns dark while the centre stays creamy. It was created at La Viña bar in San Sebastián in 1990.",
+    "description": "A crustless cheesecake baked at a high temperature so the top burns dark while the centre stays creamy. It was created at La Viña bar in San Sebastián in 1988.",
     "how_to_eat": "Eat a slice at room temperature.",
     "how_to_order": "Order a slice at La Viña or other bars in San Sebastián's old town.",
     "typical_price": null,
@@ -865,7 +866,7 @@
     "regions": [
       "Getaria"
     ],
-    "description": "A slightly sparkling, dry white wine from the Basque Country, made mainly from the Hondarrabi Zuri grape. Getariako Txakolina is a protected designation of origin.",
+    "description": "A slightly sparkling, very dry white wine with high acidity and low alcohol from the Basque Country. Getariako Txakolina is a protected designation of origin.",
     "how_to_eat": "Drink chilled with pintxos; it is poured from a height to aerate it.",
     "how_to_order": "Ask for 'un txakoli' at pintxos bars.",
     "typical_price": null,
@@ -891,9 +892,10 @@
     "country": "Spain",
     "state": "Galicia and Asturias",
     "regions": [
-      "Galicia"
+      "Lugo",
+      "Ourense"
     ],
-    "description": "Boiled octopus cut into slices with scissors and dressed with olive oil, coarse salt and paprika, served on a wooden plate. It is Galicia's signature fair-day dish.",
+    "description": "Boiled octopus cut into slices with scissors and dressed with olive oil, coarse salt and paprika. It is Galicia's signature fair-day dish.",
     "how_to_eat": "Eat with toothpicks, with bread and boiled potatoes.",
     "how_to_order": "Order 'pulpo á feira' at a 'pulpería' in Galicia.",
     "typical_price": null,
@@ -923,7 +925,7 @@
     "regions": [
       "Galicia"
     ],
-    "description": "A large flat pie of bread dough filled with fish (often tuna), meat or seafood cooked with onions and peppers. It is sold by the slice all over Galicia.",
+    "description": "A large flat pie of bread dough filled with fish (often tuna), meat or seafood cooked with onions and peppers. It is served at festivals across Galicia and sold in bakeries and street stalls.",
     "how_to_eat": "Eat a slice cold or warm as a snack.",
     "how_to_order": "Buy by the slice at Galician bakeries and bars.",
     "typical_price": null,
@@ -940,7 +942,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Empanada",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Empanada",
-      "https://en.wikipedia.org/wiki/Galician_cuisine"
+      "https://en.wikipedia.org/wiki/Galician_cuisine",
+      "https://es.wikipedia.org/wiki/Empanada_gallega"
     ]
   },
   {
@@ -1014,7 +1017,7 @@
     "regions": [
       "Asturias"
     ],
-    "description": "Two large veal fillets filled with ham and cheese, breaded and fried. It is a hugely popular Asturian dish, usually big enough to share.",
+    "description": "Two large veal fillets sandwiching serrano ham and cheese, breaded and fried. It is a characteristic Asturian dish, usually served with potatoes and peppers.",
     "how_to_eat": "Eat with fried potatoes and peppers, shared between two.",
     "how_to_order": "Order at sidrerías in Asturias.",
     "typical_price": null,
@@ -1029,16 +1032,16 @@
       "dairy"
     ],
     "gi_tag": false,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Cachopo",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Cachopo",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Cachopo",
+      "https://es.wikipedia.org/wiki/Cachopo",
       "https://en.wikipedia.org/wiki/Asturian_cuisine"
     ]
   },
   {
     "id": "spain-asturian-cider",
     "name": "Asturian cider",
-    "local_name": "Sidra d'Asturies",
+    "local_name": "Sidra de Asturias",
     "pronunciation": "SEE-dra",
     "category": "drink",
     "country": "Spain",
@@ -1046,7 +1049,7 @@
     "regions": [
       "Asturias"
     ],
-    "description": "A natural, still and sour cider made from Asturian apples. 'Sidra de Asturias' is a protected designation of origin, and the cider is poured from above the head ('escanciar') to aerate it.",
+    "description": "A natural cider made from Asturian apples. 'Sidra de Asturias' is a protected designation of origin, and the cider is poured from above the head ('escanciar') to aerate it.",
     "how_to_eat": "Drink each short pour ('culín') in one go, while it is still lively.",
     "how_to_order": "Order a bottle at a sidrería; the waiter pours it for you.",
     "typical_price": null,
@@ -1057,8 +1060,9 @@
     "spice": 0,
     "allergens": [],
     "gi_tag": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Cider",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Sidra_de_Asturias",
     "source_urls": [
+      "https://es.wikipedia.org/wiki/Sidra_de_Asturias",
       "https://en.wikipedia.org/wiki/Cider",
       "https://en.wikipedia.org/wiki/Asturian_cuisine",
       "https://www.asturias.es/documents/4911212/4919930/DOP-Sidra-Normal25.pdf/dc24402b-e4a8-ff38-fc8c-24838b3296dd"
@@ -1075,7 +1079,7 @@
     "regions": [
       "Galicia"
     ],
-    "description": "A hot Galician punch of orujo (grape spirit) with sugar, lemon peel and coffee beans, set alight in a clay bowl. It is traditionally made while reciting a spell to ward off evil spirits.",
+    "description": "A hot Galician punch of orujo (grape spirit) with sugar, lemon or orange peel and coffee beans, set alight in a clay bowl. It is traditionally made while reciting a spell to ward off evil spirits.",
     "how_to_eat": "Drink warm from small clay cups after the flames die down.",
     "how_to_order": "Ask for it at Galician restaurants, usually after dinner for a group.",
     "typical_price": null,
@@ -1103,7 +1107,7 @@
     "regions": [
       "Segovia"
     ],
-    "description": "Suckling pig roasted whole in a wood-fired oven until the skin is crisp. It is the signature dish of Segovia, where it is traditionally cut with the edge of a plate to show how tender it is.",
+    "description": "Suckling pig roasted whole in a wood-fired oven until the skin is crisp. Segovia's version is the most famous, and the Segovia innkeeper Cándido made cutting it with the edge of a plate a well-known ritual.",
     "how_to_eat": "Eat with salad or roast potatoes.",
     "how_to_order": "Order at traditional asadores in Segovia, ideally booked ahead.",
     "typical_price": null,
@@ -1117,7 +1121,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cochinillo_asado",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Cochinillo_asado",
-      "https://en.wikipedia.org/wiki/Manchego_cuisine"
+      "https://es.wikipedia.org/wiki/Cochinillo_asado"
     ]
   },
   {
@@ -1129,10 +1133,9 @@
     "country": "Spain",
     "state": "Castile",
     "regions": [
-      "Valladolid",
       "Aranda de Duero"
     ],
-    "description": "Milk-fed baby lamb roasted in a wood-fired clay oven with just water and salt. It is a signature dish of Castile and León, especially around Valladolid and Aranda de Duero.",
+    "description": "Milk-fed baby lamb, no more than about 35 days old, roasted in a wood-fired oven. It is a signature dish of Castile and León, where 'Lechazo de Castilla y León' is an EU protected geographical indication, and Aranda de Duero is known as its heart.",
     "how_to_eat": "Eat with a simple lettuce and onion salad and bread.",
     "how_to_order": "Order a quarter lamb ('cuarto de lechazo') at a Castilian asador, usually for two.",
     "typical_price": null,
@@ -1142,11 +1145,11 @@
     "vegan": false,
     "spice": 0,
     "allergens": [],
-    "gi_tag": false,
+    "gi_tag": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lechazo",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Lechazo",
-      "https://en.wikipedia.org/wiki/Manchego_cuisine"
+      "https://es.wikipedia.org/wiki/Lechazo"
     ]
   },
   {
@@ -1186,7 +1189,7 @@
     "country": "Spain",
     "state": "Castile",
     "regions": [],
-    "description": "Day-old bread crumbs fried in olive oil with garlic, chorizo, pork belly and peppers. It began as a shepherds' dish in central Spain.",
+    "description": "Day-old bread crumbs fried in olive oil with garlic, often with chorizo and bacon as in Aragon and La Mancha. It began as a shepherds' breakfast and is popular across Spain.",
     "how_to_eat": "Eat hot, sometimes with grapes or a fried egg.",
     "how_to_order": "Order at traditional restaurants in Castile and La Mancha.",
     "typical_price": null,
@@ -1231,7 +1234,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Garlic_soup",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Garlic_soup",
-      "https://en.wikipedia.org/wiki/Spanish_cuisine"
+      "https://en.wikipedia.org/wiki/Spanish_cuisine",
+      "https://es.wikipedia.org/wiki/Sopa_de_ajo"
     ]
   }
 ]

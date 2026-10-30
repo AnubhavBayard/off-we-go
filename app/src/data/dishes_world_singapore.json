@@ -19,6 +19,7 @@
     "spice": 1,
     "allergens": [
       "soy",
+      "gluten",
       "sesame"
     ],
     "gi_tag": false,
@@ -128,7 +129,7 @@
     "country": "Singapore",
     "state": "Singapore",
     "regions": [],
-    "description": "Flat rice noodles stir-fried over very high heat with soy sauce, egg, Chinese sausage, cockles and bean sprouts. A Hokkien and Teochew-style hawker classic.",
+    "description": "Flat rice noodles stir-fried over very high heat with garlic, light and dark soy sauce, chilli paste, prawns, cockles, Chinese sausage and bean sprouts, traditionally in pork fat. The name is Hokkien, but the dish is mostly associated with the Teochew.",
     "how_to_eat": "Eat hot, with sambal chilli on the side.",
     "how_to_order": "Order at a hawker stall; say if you want it without cockles.",
     "typical_price": null,
@@ -139,6 +140,7 @@
     "spice": 1,
     "allergens": [
       "shellfish",
+      "fish",
       "egg",
       "soy",
       "gluten"
@@ -169,7 +171,8 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "soy"
+      "soy",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bak_kut_teh",
@@ -181,13 +184,13 @@
   {
     "id": "singapore-hokkien-mee",
     "name": "Hokkien Prawn Mee",
-    "local_name": "福建面",
+    "local_name": "炒福建面",
     "pronunciation": null,
     "category": "street_food",
     "country": "Singapore",
     "state": "Singapore",
     "regions": [],
-    "description": "Egg noodles and rice vermicelli fried in a rich prawn stock with prawns, squid and egg. It belongs to the family of Hokkien mee dishes with origins in Fujian cuisine.",
+    "description": "Egg noodles and rice noodles stir-fried with egg, pork slices, prawns and squid in a rich broth of prawns and pork bones. It belongs to the family of Hokkien mee dishes with origins in Fujian cuisine.",
     "how_to_eat": "Squeeze the lime and mix in the sambal.",
     "how_to_order": "Order at hawker stalls; portions are priced by size.",
     "typical_price": null,
@@ -227,7 +230,8 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "peanuts"
+      "peanuts",
+      "soy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Satay",
@@ -285,6 +289,7 @@
     "spice": 2,
     "allergens": [
       "fish",
+      "shellfish",
       "peanuts",
       "egg"
     ],
@@ -367,13 +372,15 @@
     "how_to_order": "Ask for 'white' or 'black' carrot cake at hawker stalls.",
     "typical_price": null,
     "currency": "SGD",
-    "diet": "egg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 1,
     "allergens": [
       "egg",
-      "soy"
+      "fish",
+      "soy",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Turnip_cake",
@@ -391,7 +398,7 @@
     "country": "Singapore",
     "state": "Singapore",
     "regions": [],
-    "description": "A salad of sliced fruit and vegetables with a sweet, spicy dressing. In Singapore the dressing commonly uses prawn paste and crushed peanuts.",
+    "description": "A salad of sliced fruit and vegetables with a spicy palm sugar dressing. The sweet and tangy dressing is often made with shrimp paste.",
     "how_to_eat": "Eat with toothpicks from the shared plate.",
     "how_to_order": "Order a small or large plate at rojak stalls.",
     "typical_price": null,
@@ -414,7 +421,7 @@
   {
     "id": "singapore-popiah",
     "name": "Popiah",
-    "local_name": null,
+    "local_name": "薄饼",
     "pronunciation": "POH-pee-ah",
     "category": "snack",
     "country": "Singapore",
@@ -433,7 +440,8 @@
       "gluten",
       "shellfish",
       "egg",
-      "peanuts"
+      "peanuts",
+      "soy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Popiah",
@@ -474,13 +482,13 @@
   {
     "id": "singapore-bak-chor-mee",
     "name": "Bak Chor Mee",
-    "local_name": null,
+    "local_name": "肉脞面",
     "pronunciation": null,
     "category": "street_food",
     "country": "Singapore",
     "state": "Singapore",
     "regions": [],
-    "description": "Flat yellow mee pok noodles tossed in vinegar, chilli and lard with minced pork, liver and meatballs. Mee pok is of Chaoshan origin; Hill Street Tai Hwa Pork Noodle, a bak chor mee stall, won a Michelin star in 2016.",
+    "description": "Noodles such as flat yellow mee pok tossed in vinegar and chilli with minced pork, pork slices, liver, stewed mushrooms, meatballs and bits of fried lard. Singapore's bak chor mee was listed as the top world street food by the World Street Food Congress.",
     "how_to_eat": "Mix the noodles well with the sauce at the bottom.",
     "how_to_order": "Order 'dry' or 'soup' at hawker stalls.",
     "typical_price": null,
@@ -491,7 +499,9 @@
     "spice": 1,
     "allergens": [
       "gluten",
-      "fish"
+      "egg",
+      "fish",
+      "soy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mee_pok",
@@ -509,7 +519,7 @@
     "country": "Singapore",
     "state": "Singapore",
     "regions": [],
-    "description": "Small steamed rice-flour cakes topped with preserved radish (chai poh). A Teochew dish that became established in Singapore.",
+    "description": "Small steamed rice-flour cakes topped with preserved radish (chai poh), often fried with pork lard and garlic, and served with chilli sauce. A Teochew dish that became established in Singapore.",
     "how_to_eat": "Eat with a spoon, with chilli on top.",
     "how_to_order": "Order a plate of several at hawker centre breakfast stalls.",
     "typical_price": null,
@@ -523,7 +533,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chwee_kueh",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Chwee_kueh",
-      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine",
+      "https://guide.michelin.com/sg/en/article/dining-out/the-breakfast-club-6-places-for-your-chwee-kueh-fix"
     ]
   },
   {
@@ -535,7 +546,7 @@
     "country": "Singapore",
     "state": "Singapore",
     "regions": [],
-    "description": "Thin rice vermicelli in a hot, sweet and sour gravy. Popular in Singapore among Malay and Peranakan communities.",
+    "description": "Thin rice vermicelli in a hot, sweet and sour gravy made from rempah spice paste, tamarind and salted soybean (taucheo), garnished with hard-boiled egg. Popular in Singapore among Malay and Peranakan communities.",
     "how_to_eat": "Squeeze the lime over the gravy before eating.",
     "how_to_order": "Order at Malay stalls in hawker centres.",
     "typical_price": null,
@@ -553,7 +564,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mee_siam",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Mee_siam",
-      "https://en.wikipedia.org/wiki/Singaporean_cuisine"
+      "https://en.wikipedia.org/wiki/Singaporean_cuisine",
+      "https://www.greedygirlgourmet.com/singapore-wet-mee-siam-recipe/"
     ]
   },
   {
@@ -565,7 +577,7 @@
     "country": "Singapore",
     "state": "Singapore",
     "regions": [],
-    "description": "Yellow noodles in a thick, sweet and spicy gravy. Its name means 'boiled noodles'; it is a popular Malay dish in Singapore.",
+    "description": "Egg noodles in a spicy, slightly sweet curry-like gravy made from sweet potatoes, curry powder, salted soybeans, dried shrimp and peanuts. Its name means 'boiled noodles'.",
     "how_to_eat": "Eat with lime and green chilli.",
     "how_to_order": "Order at Malay hawker stalls.",
     "typical_price": null,
@@ -577,7 +589,9 @@
     "allergens": [
       "gluten",
       "egg",
-      "shellfish"
+      "shellfish",
+      "soy",
+      "peanuts"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mee_rebus",
@@ -619,7 +633,7 @@
   {
     "id": "singapore-fish-soup-bee-hoon",
     "name": "Fish Soup Bee Hoon",
-    "local_name": null,
+    "local_name": "鱼片米粉",
     "pronunciation": null,
     "category": "meal",
     "country": "Singapore",
@@ -635,7 +649,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "fish"
+      "fish",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fish_soup_bee_hoon",
@@ -664,7 +679,8 @@
     "spice": 2,
     "allergens": [
       "fish",
-      "shellfish"
+      "shellfish",
+      "nuts"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sambal_stingray",
