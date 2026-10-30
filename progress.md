@@ -382,3 +382,19 @@
 - Installed on phone 2026-10-31 after reconnect. Pushed.
 - New logo (user): `inspo/Asian Food.jpeg` (green bowl, chopsticks, dumplings on white) replaces the orange noodle-bowl logo. make_icons.py now crops it (250,158,486,394) on white: launcher icons (adaptive bg #FFFFFF), public/logo.jpg (art at 70% so round frames don't clip), favicon. Native splash + theme-color now #FAFDF1 (app bg; color renamed splash_bg). Intro no longer needs the orange->green wave: pale lime bg throughout, lime ripple, lime ring on logo, deep green tagline; zoom-out back to 1.9 s. Frames checked headless; installed.
 - Licence: new logo also looks like a downloaded image (736px, Pinterest-size). Still replace with an owned/licensed logo before public release.
+
+## 2026-10-31: WRAP-UP (session end)
+**Working now**
+- 1,387 dishes in 29 countries (India 329 + 28 world countries), every region >= 5 dishes; 1,158 photos (Wikimedia Commons only). All world data either verified against fetched sources or researched source-only.
+- UI: solid very light lime background (#fafdf1), deep green (#1e5631) for selected states, shadows on all boxes; country/region pickers are pill buttons opening bottom sheets (flags, counts, search); food ticker on Home and Add; backup card + deep green stats on Memories; Android back = other tab -> Home, Home -> exit.
+- Logo: green bowl (`inspo/Asian Food.jpeg`) for icon/splash/intro; intro all green.
+- README on GitHub describes the project. Everything pushed; latest build installed on phone.
+
+**Next session, in order**
+1. More countries: next candidates Australia, Brazil, Peru, Argentina, Philippines, Sri Lanka, Nepal, Ireland, Switzerland... Method: register in world_spec.md + COUNTRY_CODE (src/data.ts), one research agent at a time, every fact sourced, spot-check diet/allergens/links, validate, fetch photos, check new photos for wrong subjects (towns, species, flags).
+2. Optional polish: Android back should close open bottom sheets first; Add page "Where"/"What did you eat" fields are still native selects (could reuse PickerSheet).
+3. Before public release: owned/licensed logo (current one looks downloaded); privacy policy; restaurant coordinates CSV (`data-fixes/`) waiting on user; revoke Supabase token `claude-setup`.
+
+**Rebuild + install**
+`cd app && nvm use 22 && npm run build && npx cap sync android && cd android && ANDROID_HOME=~/Android/Sdk ./gradlew assembleDebug && ~/Android/Sdk/platform-tools/adb install -r app/build/outputs/apk/debug/app-debug.apk`
+Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via google-chrome --remote-debugging-port, pick the tab with type 'page', app uses HashRouter (#/memories).

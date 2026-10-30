@@ -4,7 +4,7 @@ An Android app for travellers who want to eat their way around the world. Pick a
 
 ## What's in it
 
-- **1,268 dishes in 25 countries.** India (329 dishes across all 36 states and union territories), plus France, Spain, USA, Italy, Turkey, Mexico, UK, Germany, Greece, Thailand, Japan, China, UAE, Malaysia, Vietnam, Indonesia, Portugal, Netherlands, South Korea, Singapore, Austria, Canada, Croatia and Morocco.
+- **1,387 dishes in 29 countries.** India (329 dishes across all 36 states and union territories), plus France, Spain, USA, Italy, Turkey, Mexico, UK, Germany, Greece, Thailand, Japan, China, UAE, Malaysia, Vietnam, Indonesia, Portugal, Netherlands, South Korea, Singapore, Austria, Canada, Croatia, Morocco, Poland, Hungary, Czechia and Egypt.
 - **Curated, not exhaustive.** Each region gets 5 to 8 signature dishes: a main meal, street food, a sweet and a drink.
 - **Every dish card has:** a short description, local name and pronunciation where known, how to eat it, how to order it, typical price in local currency, spice level, veg/egg/non-veg and vegan flags, allergens, and protected-origin status (EU PDO/PGI and national equivalents).
 - **Sourced data.** Dish facts come from Wikipedia and official sources, and each dish lists its sources in the app. Photos come from Wikimedia Commons, with author and licence credited.
@@ -52,4 +52,4 @@ adb install -r app/build/outputs/apk/debug/app-debug.apk
 
 ## Status
 
-Personal project, in active development. The wallpaper and logo are placeholders and need to be replaced before a public release.
+Personal project, in active development. The logo is a placeholder and needs to be replaced with an owned one before a public release.
