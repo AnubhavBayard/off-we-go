@@ -343,3 +343,19 @@
 
 **Rebuild + install**
 `cd app && nvm use 22 && npm run build && npx cap sync android && cd android && ANDROID_HOME=~/Android/Sdk ./gradlew assembleDebug && ~/Android/Sdk/platform-tools/adb install -r app/build/outputs/apk/debug/app-debug.apk`
+
+## 2026-10-30: more countries, batch 1
+- Pushed 838d190.
+- Batch 1 (my pick, next big tourist countries): Austria, Canada, Croatia, Morocco. Added to world_spec.md country/currency list (CAD, MAD) and COUNTRY_CODE in src/data.ts.
+- Method change: research agents must source every fact (no memory fill), so no separate verification pass needed; I spot-check each.
+- Austria: research agent running.
+- Austria done: 42 dishes, 7 regions (5-7 each), all from fetched en/de wiki. GI true 6: Kürbiskernöl PGI, Wachauer Marille PDO, Tiroler Speck PGI, Gailtaler Speck, Vorarlberger Bergkäse PDO, Schilcher (national wine-law protection). Spot-check diet/allergens/links OK. Validator OK.
+- Canada: research agent running.
+- Canada done: 40 dishes, 6 regions (Québec 8, Ontario 5, Atlantic 8, Prairies 7, BC 6, North & Indigenous 6). GI true: Québec ice cider (IGP 2014), Canadian whisky (GI agreements), icewine (VQA appellation; judgement call). Some links to species/plant articles (spot prawn, soapberry). Spot-check OK. Validator OK.
+- Croatia: research agent running.
+- Croatia done: 32 dishes, 5 regions (Dalmatia 8, Istria & Kvarner 7, Zagreb & North 7, Lika & Karlovac 5, Slavonia & Baranja 5). GI true 16 (hr wiki list of EU-protected names + per-article confirmation): 3 pršuts, Paški sir, soparnik, Ston oysters, Lika lamb/potato/škripavac, Ogulin sauerkraut, kvargl, štrukli, meso 'z tiblice, kulen etc. Fritule + Rapska torta set to egg (sources silent; cautious, same "extra allergen is safer" rule as before). Validator OK.
+- Morocco: research agent running (last of batch 1).
+- Morocco done: 32 dishes, 5 regions (Marrakesh 6, Fes & Meknes 7, Casablanca & Rabat 8, Tangier & North 6, Souss/Atlas/Sahara 5). GI true: Majhoul dates of Tafilalet IGP, Chefchaouen goat cheese IGP. Safety allergens added without source (smen dairy, egg in jowhara/harira, snails as shellfish). Bocadillo link removed (pointed to Spanish article, photo was a Madrid chorizo sandwich). Validator OK.
+- Photo script now only uses Wikimedia Commons files (2 hr-wiki local uploads had no licence data). 1,058 of 1,096 linked dishes have photos (+117 new).
+- BATCH 1 DONE: 25 countries, 1,268 dishes. Built, but NOT installed: phone not connected (adb: no devices). APK ready at app/android/app/build/outputs/apk/debug/app-debug.apk. Committed (not pushed).
+- Next batch candidates: Poland, Hungary, Czechia, Egypt, Australia, Brazil, Peru, Argentina, Philippines, Sri Lanka, Nepal... same method (one research agent at a time, every fact sourced, spot-check, register country in world_spec.md + COUNTRY_CODE).

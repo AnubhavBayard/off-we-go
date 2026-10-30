@@ -1,0 +1,1211 @@
+[
+  {
+    "id": "austria-wiener-schnitzel",
+    "name": "Wiener Schnitzel",
+    "local_name": "Wiener Schnitzel",
+    "pronunciation": "VEE-ner SHNIT-sel",
+    "category": "meal",
+    "country": "Austria",
+    "state": "Vienna",
+    "regions": [],
+    "description": "A thin, breaded, pan-fried veal cutlet: the veal is pounded flat, rolled in flour, egg and breadcrumbs and fried in lard or clarified butter. It is a speciality of Viennese cuisine and one of the national dishes of Austria; Austrian food rules require a 'Wiener Schnitzel' to be veal.",
+    "how_to_eat": "Eat with a lemon wedge and potato salad, parsley potatoes or green salad.",
+    "how_to_order": "Ask for 'Wiener Schnitzel' for veal; 'vom Schwein' means a pork version.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wiener_schnitzel",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wiener_schnitzel",
+      "https://de.wikipedia.org/wiki/Wiener_Schnitzel"
+    ]
+  },
+  {
+    "id": "austria-tafelspitz",
+    "name": "Tafelspitz",
+    "local_name": "Tafelspitz",
+    "pronunciation": "TAH-fel-shpits",
+    "category": "meal",
+    "country": "Austria",
+    "state": "Vienna",
+    "regions": [],
+    "description": "Beef (or veal) simmered in broth with root vegetables and spices, named after the Austrian cut it is made from. A classic of Viennese cuisine, it was a favourite of Emperor Franz Joseph I.",
+    "how_to_eat": "Eat with roasted potato slices, apple-horseradish sauce or sour cream with chives.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tafelspitz",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tafelspitz",
+      "https://en.wikipedia.org/wiki/Viennese_cuisine"
+    ]
+  },
+  {
+    "id": "austria-wiener-saftgulasch",
+    "name": "Wiener Saftgulasch",
+    "local_name": "Wiener Saftgulasch",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Austria",
+    "state": "Vienna",
+    "regions": [],
+    "description": "Viennese goulash, a rich pörkölt-like beef stew made with lean beef and a large quantity of onions but no tomatoes or other vegetables, slow-cooked into a thick dark sauce. The Fiakergulasch variant adds a fried egg, fried sausage, pickles and bread dumplings.",
+    "how_to_eat": "Eat with dark bread, rolls or Semmelknödel.",
+    "how_to_order": "Look for 'Saftgulasch' or 'Fiakergulasch' on menus of traditional restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Goulash",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Goulash",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-kasekrainer",
+    "name": "Käsekrainer",
+    "local_name": "Käsekrainer",
+    "pronunciation": "KAY-zeh-kry-ner",
+    "category": "street_food",
+    "country": "Austria",
+    "state": "Vienna",
+    "regions": [],
+    "description": "A lightly smoked pork sausage containing 10-20% small cubes of cheese, such as Emmentaler. It was created in Upper Austria in the late 1960s and is sold at sausage stands (Würstelstand) all over Austria, especially in Vienna.",
+    "how_to_eat": "Eat with mustard and freshly grated horseradish, or as a hot dog in a hollowed bread roll.",
+    "how_to_order": "Order at a Würstelstand; Viennese slang calls it an 'Eitrige'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Käsekrainer",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Käsekrainer"
+    ]
+  },
+  {
+    "id": "austria-sachertorte",
+    "name": "Sachertorte",
+    "local_name": "Sachertorte",
+    "pronunciation": "ZAH-kher-tor-teh",
+    "category": "sweet",
+    "country": "Austria",
+    "state": "Vienna",
+    "regions": [],
+    "description": "A chocolate sponge cake with apricot jam and a chocolate glaze, invented by Viennese confectioner Franz Sacher in the mid-19th century. The Austrian food codex defines it as made from butter, flour, eggs, sugar and at least 15% chocolate; Hotel Sacher and the Demel pastry shop make rival versions.",
+    "how_to_eat": "Eat a slice with whipped cream, usually with coffee.",
+    "how_to_order": "Ask for a slice at a Viennese café or Konditorei.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sachertorte",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sachertorte",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-apple-strudel",
+    "name": "Apple strudel",
+    "local_name": "Apfelstrudel",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Austria",
+    "state": "Vienna",
+    "regions": [],
+    "description": "Thin, stretched unleavened pastry rolled around a filling of grated apples, sugar, cinnamon, raisins and breadcrumbs, then baked. The oldest known strudel recipe (1697) is held in Vienna, and apple strudel is considered a national dish of Austria alongside Wiener Schnitzel and Tafelspitz.",
+    "how_to_eat": "Eat warm in slices, dusted with powdered sugar.",
+    "how_to_order": "Order 'Apfelstrudel' at a café or Konditorei.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Apple_strudel",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Apple_strudel",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-wiener-melange",
+    "name": "Wiener Melange",
+    "local_name": "Melange",
+    "pronunciation": "meh-LAHNZH",
+    "category": "drink",
+    "country": "Austria",
+    "state": "Vienna",
+    "regions": [],
+    "description": "A Viennese coffee drink similar to a cappuccino but made with milder coffee: half Mokka, half heated milk, often topped with milk foam. It is a staple of the Viennese coffee house, a tradition listed as intangible cultural heritage in Austria.",
+    "how_to_eat": "Drink it with the glass of water that traditionally comes with coffee.",
+    "how_to_order": "Ask for 'eine Melange' in a Viennese coffee house.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wiener_Melange",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wiener_Melange",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine",
+      "https://en.wikipedia.org/wiki/Viennese_cuisine"
+    ]
+  },
+  {
+    "id": "austria-marillenknodel",
+    "name": "Marillenknödel",
+    "local_name": "Marillenknödel",
+    "pronunciation": "ma-RIL-en-knur-del",
+    "category": "sweet",
+    "country": "Austria",
+    "state": "Lower Austria & Burgenland",
+    "regions": [
+      "Wachau"
+    ],
+    "description": "Dumplings of potato or Topfen (quark) dough wrapped around a whole apricot, boiled and rolled in butter-fried breadcrumbs and powdered sugar. They are found mainly where apricots grow, such as the Wachau in Lower Austria.",
+    "how_to_eat": "Eat hot, with extra powdered sugar.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marillenknödel",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marillenknödel",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-wachauer-marille",
+    "name": "Wachauer Marille",
+    "local_name": "Wachauer Marille",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Austria",
+    "state": "Lower Austria & Burgenland",
+    "regions": [
+      "Wachau"
+    ],
+    "description": "Apricots grown in the Wachau valley and neighbouring municipalities of Lower Austria, where apricots have been a key crop since 1890. The name has been an EU protected designation of origin since 1996.",
+    "how_to_eat": "Eat fresh in summer or as jam and apricot brandy.",
+    "how_to_order": "Buy from farm stalls in the Wachau during the apricot season.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Wachauer_Marille",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Wachauer_Marille",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-mohnnudeln",
+    "name": "Mohnnudeln",
+    "local_name": "Mohnnudeln",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Austria",
+    "state": "Lower Austria & Burgenland",
+    "regions": [
+      "Waldviertel"
+    ],
+    "description": "Finger-shaped noodles of potato dough, similar to Schupfnudeln, tossed in butter and ground poppy seeds and dusted with powdered sugar. Lower Austria's Waldviertel is known for poppy growing, which shows in this dish.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Mohnnudel",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Mohnnudel",
+      "https://de.wikipedia.org/wiki/Schupfnudel",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-martinigansl",
+    "name": "Martinigansl",
+    "local_name": "Martinigansl",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Austria",
+    "state": "Lower Austria & Burgenland",
+    "regions": [
+      "Eisenstadt",
+      "Neusiedler See"
+    ],
+    "description": "Roast goose eaten around St Martin's Day (11 November). St Martin is Burgenland's patron saint, and the goose feast is part of the Martiniloben celebrations in wine villages around Lake Neusiedl.",
+    "how_to_eat": null,
+    "how_to_order": "Look for goose menus at restaurants and wine taverns in early-mid November.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Martinstag",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-gruner-veltliner",
+    "name": "Grüner Veltliner",
+    "local_name": "Grüner Veltliner",
+    "pronunciation": "GROO-ner felt-LEE-ner",
+    "category": "drink",
+    "country": "Austria",
+    "state": "Lower Austria & Burgenland",
+    "regions": [
+      "Wachau",
+      "Weinviertel"
+    ],
+    "description": "A white wine grape that covers almost a third of Austria's vineyards. It is the only permitted grape of the Weinviertel DAC and is also grown in the Kamptal, Kremstal, Traisental and Wachau along the Danube.",
+    "how_to_eat": null,
+    "how_to_order": "Order a glass at a Heuriger wine tavern.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Grüner_Veltliner",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Grüner_Veltliner",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-sturm",
+    "name": "Sturm",
+    "local_name": "Sturm",
+    "pronunciation": "shturm",
+    "category": "drink",
+    "country": "Austria",
+    "state": "Lower Austria & Burgenland",
+    "regions": [],
+    "description": "Partially fermented grape must drunk after the grape harvest; Austrian wine law allows it to be sold from 1 August to 31 December with at least 1% alcohol. By custom, people do not say 'Prost' or clink glasses until the wine is 'baptised' on St Martin's Day.",
+    "how_to_eat": null,
+    "how_to_order": "Buy by the glass or bottle from wineries and taverns in September and October.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Federweisser",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Federweisser",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-linzer-torte",
+    "name": "Linzer Torte",
+    "local_name": "Linzer Torte",
+    "pronunciation": "LIN-tser TOR-teh",
+    "category": "sweet",
+    "country": "Austria",
+    "state": "Upper Austria & Salzburg",
+    "regions": [
+      "Linz"
+    ],
+    "description": "A crumbly shortcrust of flour, butter, egg yolks and ground nuts, filled with redcurrant, raspberry or apricot preserves under a lattice of dough strips. Named after Linz, it has been cited as the oldest cake named after a place, with recipes dating to the 17th century.",
+    "how_to_eat": null,
+    "how_to_order": "Buy by the slice at bakeries and cafés in Linz.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Linzertorte",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Linzertorte",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-linzer-augen",
+    "name": "Linzer Augen",
+    "local_name": "Linzer Augen",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Austria",
+    "state": "Upper Austria & Salzburg",
+    "regions": [
+      "Linz"
+    ],
+    "description": "Round biscuits of Linzer dough (flour, sugar, butter, egg and almonds or nuts) sandwiched with redcurrant jam, the top layer cut with one or three holes ('eyes') and dusted with powdered sugar. In Austria they are a tea and Christmas biscuit.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Linzer_Auge",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Linzer_Auge",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-innviertler-speckknodel",
+    "name": "Innviertler Speckknödel",
+    "local_name": "Innviertler Speckknödel",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Austria",
+    "state": "Upper Austria & Salzburg",
+    "regions": [
+      "Innviertel"
+    ],
+    "description": "An Upper Austrian speciality in which nut-sized balls of cured bacon and parsley are wrapped in potato, choux, noodle or bread dough and cooked. Dumplings are an important part of Upper Austrian cuisine.",
+    "how_to_eat": "Eat as a main course with sauerkraut or cabbage salad.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Speckknödel",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Speckknödel",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-most",
+    "name": "Most",
+    "local_name": "Most",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Austria",
+    "state": "Upper Austria & Salzburg",
+    "regions": [
+      "Mostviertel"
+    ],
+    "description": "A fermented fruit wine pressed traditionally from tannic perry pears mixed with cider apples, made in Upper Austria and Lower Austria's Mostviertel. Unfermented fresh juice is called Süßmost.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Most_(Getränk)",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Most_(Getränk)",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-salzburger-nockerl",
+    "name": "Salzburger Nockerl",
+    "local_name": "Salzburger Nockerl",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Austria",
+    "state": "Upper Austria & Salzburg",
+    "regions": [
+      "Salzburg"
+    ],
+    "description": "A baked sweet soufflé of whisked egg white, sugar and egg yolk, shaped into three peaks said to represent the hills around Salzburg, with powdered sugar for snow. It has become an icon of Austrian cuisine and is listed in Austria's traditional food register.",
+    "how_to_eat": "Eat warm straight from the oven, sometimes over raspberry sauce.",
+    "how_to_order": "Order in Salzburg restaurants; it is always freshly made, so expect a wait.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Salzburger_Nockerl",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Salzburger_Nockerl",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-mozartkugel",
+    "name": "Mozartkugel",
+    "local_name": "Mozartkugel",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Austria",
+    "state": "Upper Austria & Salzburg",
+    "regions": [
+      "Salzburg"
+    ],
+    "description": "A ball of pistachio marzipan covered in nougat and dipped in dark chocolate, created in 1890 by Salzburg confectioner Paul Fürst and named after Mozart. Fürst's descendants still make the handmade 'Original Salzburger Mozartkugeln'.",
+    "how_to_eat": null,
+    "how_to_order": "Buy at Salzburg confectioners.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mozartkugel",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mozartkugel"
+    ]
+  },
+  {
+    "id": "austria-bosna",
+    "name": "Bosna",
+    "local_name": "Bosna",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Austria",
+    "state": "Upper Austria & Salzburg",
+    "regions": [
+      "Salzburg",
+      "Linz"
+    ],
+    "description": "Spiced pork bratwurst in a split white bread roll with onions, parsley, mustard or ketchup and a curry seasoning. It was created in Salzburg in 1949 by Bulgarian-born Zanko Todoroff and spread through Salzburg and Upper Austria.",
+    "how_to_eat": null,
+    "how_to_order": "Order at a sausage stand; the original Balkan Grill is in Salzburg's Getreidegasse.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Bosna_(Imbiss)",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Bosna_(Imbiss)",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-styrian-pumpkin-seed-oil",
+    "name": "Styrian pumpkin seed oil",
+    "local_name": "Steirisches Kürbiskernöl",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Austria",
+    "state": "Styria",
+    "regions": [],
+    "description": "A dark green oil pressed from roasted hull-less seeds of the Styrian oil pumpkin, with an intense nutty taste. It is protected as 'Steirisches Kürbiskernöl g.g.A.' (EU PGI) and is used mainly as a salad dressing with cider vinegar.",
+    "how_to_eat": "Drizzle over salads, pumpkin soup or even vanilla ice cream.",
+    "how_to_order": "Look for the white-green numbered banderole that marks the PGI oil.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Kürbiskernöl",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Kürbiskernöl",
+      "https://en.wikipedia.org/wiki/Pumpkin_seed_oil"
+    ]
+  },
+  {
+    "id": "austria-kaferbohnensalat",
+    "name": "Käferbohnensalat",
+    "local_name": "Käferbohnensalat",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Austria",
+    "state": "Styria",
+    "regions": [],
+    "description": "A salad of cooked runner beans (Käferbohnen) with thinly sliced onions, cider vinegar, salt, pepper and Styrian pumpkin seed oil. The beans have been grown in Styria since the 19th century and 'Steirische Käferbohne' gained EU PDO status in 2016.",
+    "how_to_eat": null,
+    "how_to_order": "Order at a Buschenschank (Styrian wine tavern).",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Käferbohnensalat",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Käferbohnensalat",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-brettljause",
+    "name": "Brettljause",
+    "local_name": "Brettljause",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Austria",
+    "state": "Styria",
+    "regions": [],
+    "description": "A cold platter served on a wooden board in Styrian Buschenschank taverns: cured and smoked meats, Verhackertes (chopped bacon spread), horseradish, hard-boiled eggs, Liptauer, pumpkin seed spread, pickles and cheese with sourdough bread.",
+    "how_to_eat": "Share with a glass of the tavern's own wine.",
+    "how_to_order": "Order at a Buschenschank.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Austrian_cuisine",
+      "https://de.wikipedia.org/wiki/Zwischenmahlzeit"
+    ]
+  },
+  {
+    "id": "austria-heidensterz",
+    "name": "Heidensterz",
+    "local_name": "Heidensterz",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Austria",
+    "state": "Styria",
+    "regions": [],
+    "description": "A dry, crumbly dish of buckwheat flour cooked in salted water and broken up with forks, topped with rendered bacon and cracklings. Once peasant food in Styria and Carinthia, it is now usually served alongside mushroom soup or Klachelsuppe.",
+    "how_to_eat": "Eat alongside soup.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Sterz",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Sterz",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-steirisches-wurzelfleisch",
+    "name": "Steirisches Wurzelfleisch",
+    "local_name": "Steirisches Wurzelfleisch",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Austria",
+    "state": "Styria",
+    "regions": [],
+    "description": "Pork neck (Schopf) boiled with root vegetables, then sliced and served in its broth seasoned with a little vinegar. It is counted among the classic Styrian meat dishes.",
+    "how_to_eat": "Eat with waxy potatoes and freshly grated horseradish.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Steirisches_Wurzelfleisch",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Steirisches_Wurzelfleisch"
+    ]
+  },
+  {
+    "id": "austria-schilcher",
+    "name": "Schilcher",
+    "local_name": "Schilcher",
+    "pronunciation": "SHIL-kher",
+    "category": "drink",
+    "country": "Austria",
+    "state": "Styria",
+    "regions": [
+      "West Styria"
+    ],
+    "description": "A dry rosé wine made only from the Blauer Wildbacher grape in Styria, the regional wine style of West Styria. 'Schilcher' is a protected designation under Austrian wine law and an EU traditional term, and the wine is covered by the Weststeiermark DAC.",
+    "how_to_eat": null,
+    "how_to_order": "Follow the Schilcherweinstraße through Stainz and Deutschlandsberg.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Schilcher",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Schilcher",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-karntner-kasnudeln",
+    "name": "Kärntner Kasnudeln",
+    "local_name": "Kärntner Kasnudel",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Austria",
+    "state": "Carinthia",
+    "regions": [],
+    "description": "Fist-sized pockets of thin noodle dough filled with Topfen (quark) and potato or bread, seasoned with mint and chervil, and sealed with a crimped edge (krendeln). They were traditionally eaten on meatless Fridays and are now widespread in Carinthia.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Kärntner_Nudel",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Kärntner_Nudel",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-reindling",
+    "name": "Reindling",
+    "local_name": "Reinling",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Austria",
+    "state": "Carinthia",
+    "regions": [],
+    "description": "A Carinthian yeast-dough cake rolled with sugar, cinnamon, raisins and butter and baked in a round pan (Reindl). It is a traditional Easter food, eaten with ham, eggs and horseradish, and also with coffee.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Reinling",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Reinling",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-klachlsuppe",
+    "name": "Klachlsuppe",
+    "local_name": "Klachelsuppe",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Austria",
+    "state": "Carinthia",
+    "regions": [
+      "Jauntal"
+    ],
+    "description": "A soup of sliced pork knuckle (Klachel), onions and spices such as bay, juniper and cloves, thickened with a roux. It was made on slaughter days in south-east Styria and Carinthia.",
+    "how_to_eat": "Eat with Heidensterz, boiled potatoes or horseradish.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Klachelsuppe",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Klachelsuppe",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-gailtaler-speck",
+    "name": "Gailtaler Speck",
+    "local_name": "Gailtaler Speck",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Austria",
+    "state": "Carinthia",
+    "regions": [
+      "Gailtal"
+    ],
+    "description": "Cured pork belly from the Gail valley, dry-cured with pepper, garlic and herbs and cold-smoked over beech wood with juniper. It carries a protected designation of origin.",
+    "how_to_eat": "Eat thinly sliced with bread.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Gailtaler_Speck",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Gailtaler_Speck"
+    ]
+  },
+  {
+    "id": "austria-schlickkrapfen",
+    "name": "Schlickkrapfen",
+    "local_name": "Schlickkrapfen",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Austria",
+    "state": "Carinthia",
+    "regions": [],
+    "description": "Small Carinthian filled pasta pockets, smaller than Kasnudeln and mainly filled with meat. The name is a local term for Schlutzkrapfen.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Austrian_cuisine",
+      "https://en.wikipedia.org/wiki/Schlutzkrapfen"
+    ]
+  },
+  {
+    "id": "austria-tiroler-speck",
+    "name": "Tiroler Speck",
+    "local_name": "Tiroler Speck",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Austria",
+    "state": "Tyrol",
+    "regions": [],
+    "description": "Pork belly and back bacon rubbed with salt, caraway and white pepper, smoked for two to three months and matured in a cool cellar. 'Tiroler Speck' is an EU protected geographical indication (PGI).",
+    "how_to_eat": "Eat thinly sliced with cheese, wine, horseradish and rye bread.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Tiroler_Speck",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Tiroler_Speck",
+      "https://en.wikipedia.org/wiki/Tyrolean_speck"
+    ]
+  },
+  {
+    "id": "austria-tiroler-grostl",
+    "name": "Tiroler Gröstl",
+    "local_name": "Tiroler Gröstl",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Austria",
+    "state": "Tyrol",
+    "regions": [],
+    "description": "A pan dish of boiled potatoes and beef or pork fried with onion and bacon in clarified butter, seasoned with marjoram and caraway. It began as a Monday way to use up the Sunday roast.",
+    "how_to_eat": "Eat topped with a fried egg.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Tiroler_Gröstl",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Tiroler_Gröstl"
+    ]
+  },
+  {
+    "id": "austria-schlutzkrapfen",
+    "name": "Schlutzkrapfen",
+    "local_name": "Schlutzkrapfen",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Austria",
+    "state": "Tyrol",
+    "regions": [],
+    "description": "Semi-circular Tyrolean stuffed pasta of white and rye flour dough with eggs, typically filled with cheese, spinach or mushrooms. They are also known as Schlutzer.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Schlutzkrapfen",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Schlutzkrapfen"
+    ]
+  },
+  {
+    "id": "austria-kaiserschmarrn",
+    "name": "Kaiserschmarrn",
+    "local_name": "Kaiserschmarrn",
+    "pronunciation": "KY-zer-shmarn",
+    "category": "sweet",
+    "country": "Austria",
+    "state": "Tyrol",
+    "regions": [],
+    "description": "A fluffy, caramelised pancake of flour, eggs, sugar and milk fried in butter, shredded with forks and dusted with sugar; the original recipe has rum-soaked raisins. Named after Emperor Franz Joseph I, it is eaten as a dessert or a filling lunch at mountain huts in the Alps.",
+    "how_to_eat": "Eat hot with Zwetschkenröster (plum compote) or apple sauce.",
+    "how_to_order": "Order at mountain huts and taverns in the Alps.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kaiserschmarrn",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kaiserschmarrn",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-skiwasser",
+    "name": "Skiwasser",
+    "local_name": "Skiwasser",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Austria",
+    "state": "Tyrol",
+    "regions": [],
+    "description": "A non-alcoholic drink of raspberry syrup, lemon juice and water, red-pink in colour. It originated in the ski huts and lodges of Tyrol.",
+    "how_to_eat": null,
+    "how_to_order": "Order at ski huts.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Skiwasser",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Skiwasser",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-kletzenbrot",
+    "name": "Kletzenbrot",
+    "local_name": "Kletzenbrot",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Austria",
+    "state": "Tyrol",
+    "regions": [],
+    "description": "A sweet Advent bread packed with dried pears (Kletzen) and other dried fruit and nuts, spiced with cinnamon, cloves and anise. It is associated with Tyrol and sometimes called Tyrolean dried fruit bread.",
+    "how_to_eat": "Eat sliced during Advent.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kletzenbrot",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kletzenbrot"
+    ]
+  },
+  {
+    "id": "austria-kasknopfle",
+    "name": "Käsknöpfle",
+    "local_name": "Käsknöpfle",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Austria",
+    "state": "Vorarlberg",
+    "regions": [
+      "Bregenzerwald",
+      "Montafon"
+    ],
+    "description": "Egg noodles (spätzle) layered with grated local cheese such as Bergkäse or Montafon sour cheese and topped with fried onions. Vorarlberg's cuisine, shaped by neighbouring Switzerland and Swabia, gives cheese a major role.",
+    "how_to_eat": "Eat with green salad, potato salad or apple sauce.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Käsespätzle",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Käsespätzle",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-vorarlberger-bergkase",
+    "name": "Vorarlberger Bergkäse",
+    "local_name": "Vorarlberger Bergkäse",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Austria",
+    "state": "Vorarlberg",
+    "regions": [
+      "Bregenzerwald"
+    ],
+    "description": "A hard mountain cheese made by hand from raw hay milk in Vorarlberg, matured 3-6 months or longer, with a nutty, herbal taste. It is protected as an EU PDO.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vorarlberger_Bergkäse",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Vorarlberger_Bergkäse"
+    ]
+  },
+  {
+    "id": "austria-kasdonnala",
+    "name": "Käsdönnala",
+    "local_name": "Käsdönnala",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Austria",
+    "state": "Vorarlberg",
+    "regions": [
+      "Lustenau"
+    ],
+    "description": "A cheese flatbread from Lustenau: yeast dough topped with grated Rheintal cheese, butter, onions, eggs and milk, seasoned with nutmeg. Local bakers make it in large quantities for the Lustenau Kilbi fair.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Käsefladen",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Käsefladen",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  },
+  {
+    "id": "austria-riebel",
+    "name": "Riebel",
+    "local_name": "Riebel",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Austria",
+    "state": "Vorarlberg",
+    "regions": [
+      "Rhine Valley"
+    ],
+    "description": "Maize and wheat semolina cooked in milk into a thick porridge, then slowly fried in butter or lard while stirred into small crumbs. Once a breakfast of poor and farming families in the Vorarlberg Rhine Valley.",
+    "how_to_eat": "Eat with coffee or milk, or with apple sauce or compote.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Riebel",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Riebel"
+    ]
+  },
+  {
+    "id": "austria-funkakuachle",
+    "name": "Funkaküachle",
+    "local_name": "Funkaküachle",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Austria",
+    "state": "Vorarlberg",
+    "regions": [],
+    "description": "Thin-centred, thick-rimmed discs of dough deep-fried and sprinkled with sugar or cinnamon sugar. They are baked for Funkensonntag, the first Sunday of Lent, which Vorarlberg also calls 'Küachlesonntag'.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Funkenküchlein",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Funkenküchlein",
+      "https://en.wikipedia.org/wiki/Austrian_cuisine"
+    ]
+  }
+]

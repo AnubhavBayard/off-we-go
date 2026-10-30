@@ -1,0 +1,907 @@
+[
+  {
+    "id": "croatia-pasticada",
+    "name": "Pašticada",
+    "local_name": "Dalmatinska pašticada",
+    "pronunciation": "PASH-tee-tsah-dah",
+    "category": "meal",
+    "country": "Croatia",
+    "state": "Dalmatia",
+    "regions": [],
+    "description": "Beef (usually a whole eye of round) studded with garlic, cloves, carrot, celery and bacon, marinated in wine vinegar overnight, then braised for hours with onions, prunes, wine and sweet prošek into a sweet-and-sour sauce. It originates in Dalmatia, where it is cooked for festivities, weddings and christenings; the oldest known recipe is documented in Dubrovnik in the 15th century.",
+    "how_to_eat": "Eat the sliced beef and sauce with gnocchi (njoki) or homemade pasta.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pašticada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pašticada",
+      "https://hr.wikipedia.org/wiki/Pašticada"
+    ]
+  },
+  {
+    "id": "croatia-crni-rizot",
+    "name": "Black risotto",
+    "local_name": "Crni rižot",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Croatia",
+    "state": "Dalmatia",
+    "regions": [],
+    "description": "Risotto coloured and flavoured with cuttlefish ink, a dish shared with north-east Italy (risotto al nero di seppia) and found in Croatia and Montenegro. It is listed among Croatian fish and seafood dishes.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'crni rižot'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuttlefish",
+      "https://hr.wikipedia.org/wiki/Hrvatska_kuhinja"
+    ]
+  },
+  {
+    "id": "croatia-poljicki-soparnik",
+    "name": "Soparnik",
+    "local_name": "Poljički soparnik",
+    "pronunciation": "SOH-par-nik",
+    "category": "snack",
+    "country": "Croatia",
+    "state": "Dalmatia",
+    "regions": [
+      "Poljica",
+      "Dugi Rat"
+    ],
+    "description": "A savoury pie of Swiss chard, onion and olive oil between two thin sheets of unleavened dough, traditionally baked on the stone of an open hearth (komin) under embers, then drizzled with olive oil and chopped garlic. It is the speciality of Poljica, between Split and Omiš, dates to about the 13th century, and its preparation is protected intangible cultural heritage of Croatia.",
+    "how_to_eat": "Eat it cut into rhomboid pieces, after it has cooled.",
+    "how_to_order": "Sold at markets, restaurants and festivals in the Split–Omiš area; ask for 'soparnik'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Soparnik",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Soparnik",
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+    ]
+  },
+  {
+    "id": "croatia-dalmatinski-prsut",
+    "name": "Dalmatian prosciutto",
+    "local_name": "Dalmatinski pršut",
+    "pronunciation": "DAL-mah-tin-skee PER-shoot",
+    "category": "snack",
+    "country": "Croatia",
+    "state": "Dalmatia",
+    "regions": [],
+    "description": "Dry-cured ham from the hind leg of the pig, salted, pressed, smoked and dried in the bura wind; unlike Italian prosciutto, Dalmatian pršut is smoked. It is registered as an EU PGI (2016); Drniški pršut from the Drniš area is a separately protected PGI.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'dalmatinski pršut'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Dalmatinski_pršut",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Dalmatinski_pršut",
+      "https://en.wikipedia.org/wiki/Prosciutto",
+      "https://hr.wikipedia.org/wiki/Drniški_pršut"
+    ]
+  },
+  {
+    "id": "croatia-peka",
+    "name": "Peka",
+    "local_name": "Pod pekom",
+    "pronunciation": "PEH-kah",
+    "category": "meal",
+    "country": "Croatia",
+    "state": "Dalmatia",
+    "regions": [],
+    "description": "Food (lamb, veal or octopus, often with potatoes) placed under a bell-shaped iron or ceramic lid (peka) that is covered with hot embers and ash, so it cooks slowly in its own juices. The peka is an ancient cooking vessel that has returned to Croatian restaurant menus.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for lamb, veal or octopus 'pod pekom'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Peka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Croatian_cuisine",
+      "https://hr.wikipedia.org/wiki/Peka"
+    ]
+  },
+  {
+    "id": "croatia-rozata",
+    "name": "Rožata",
+    "local_name": "Rožata",
+    "pronunciation": "ROH-zhah-tah",
+    "category": "sweet",
+    "country": "Croatia",
+    "state": "Dalmatia",
+    "regions": [
+      "Dubrovnik"
+    ],
+    "description": "A Dalmatian custard pudding with a caramel topping, a variant of crème caramel. In Dubrovnik, where it is called rozata, it is flavoured with the local rose liqueur rozalin; it has a documented history from medieval times.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Rožata",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Rožata",
+      "https://en.wikipedia.org/wiki/Crème_caramel"
+    ]
+  },
+  {
+    "id": "croatia-paski-sir",
+    "name": "Pag cheese",
+    "local_name": "Paški sir",
+    "pronunciation": "PASH-kee seer",
+    "category": "snack",
+    "country": "Croatia",
+    "state": "Dalmatia",
+    "regions": [
+      "Pag"
+    ],
+    "description": "A hard sheep's milk cheese from the island of Pag, whose sheep graze on salt-dusted aromatic plants shaped by the bura wind. It is aged five to eighteen months: younger cheeses are creamier and yellow, older ones darker, harder and grainier. It received EU PDO status in 2019.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'paški sir'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pag_cheese",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pag_cheese",
+      "https://hr.wikipedia.org/wiki/Paški_sir",
+      "https://en.wikipedia.org/wiki/Pag_(island)"
+    ]
+  },
+  {
+    "id": "croatia-malostonska-kamenica",
+    "name": "Ston oysters",
+    "local_name": "Malostonska kamenica",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Croatia",
+    "state": "Dalmatia",
+    "regions": [
+      "Ston"
+    ],
+    "description": "Oysters with asymmetric oval shells and soft, juicy, sweet-and-salty meat, farmed in the waters of Mali Ston Bay. The name is registered and protected in the EU (2020).",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'kamenice' around Ston and Mali Ston.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Malostonska_kamenica",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Malostonska_kamenica",
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+    ]
+  },
+  {
+    "id": "croatia-fuzi",
+    "name": "Fuži",
+    "local_name": "Fuži",
+    "pronunciation": "FOO-zhee",
+    "category": "meal",
+    "country": "Croatia",
+    "state": "Istria & Kvarner",
+    "regions": [],
+    "description": "A traditional Istrian pasta: thin dough is cut into diamonds and two corners are folded and pinched together, giving a bow-like shape. It is usually served with a mild red veal sauce of onions, tomato, white wine and broth; rooster or game (boar, rabbit) sauces are common too.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'fuži' with goulash (veal), rooster or game sauce.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fusi_(pasta)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fusi_(pasta)",
+      "https://hr.wikipedia.org/wiki/Fuži"
+    ]
+  },
+  {
+    "id": "croatia-istarski-prsut",
+    "name": "Istrian prosciutto",
+    "local_name": "Istarski pršut",
+    "pronunciation": "EES-tar-skee PER-shoot",
+    "category": "snack",
+    "country": "Croatia",
+    "state": "Istria & Kvarner",
+    "regions": [],
+    "description": "Dry-cured Istrian ham: the skin and subcutaneous fat are removed, the legs are salted with coarse sea salt, pressed, rubbed with pepper, garlic and spices, dried in the bura wind and matured for 6-8 months. Unlike Dalmatian pršut it is not smoked. It is an EU PDO (2015), shared by Croatia and Slovenia.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'istarski pršut'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Istarski_pršut",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Istarski_pršut",
+      "https://en.wikipedia.org/wiki/Prosciutto"
+    ]
+  },
+  {
+    "id": "croatia-krcki-prsut",
+    "name": "Krk prosciutto",
+    "local_name": "Krčki pršut",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Croatia",
+    "state": "Istria & Kvarner",
+    "regions": [
+      "Krk"
+    ],
+    "description": "Ham from the island of Krk, dry-salted with sea salt and spices and air-dried without smoking for at least a year. Registered as an EU PGI on 14 April 2015, it was the first Croatian food to gain EU protection.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'krčki pršut' on Krk.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Krčki_pršut",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Krčki_pršut",
+      "https://en.wikipedia.org/wiki/Prosciutto",
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+    ]
+  },
+  {
+    "id": "croatia-manestra",
+    "name": "Maneštra",
+    "local_name": "Maneštra",
+    "pronunciation": "mah-NESH-trah",
+    "category": "meal",
+    "country": "Croatia",
+    "state": "Istria & Kvarner",
+    "regions": [],
+    "description": "A vegetable stew from Istria made with spring corn, eaten across the northern Adriatic seaboard. It is a first-course soup when made from vegetables, or a main course when made with meat.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maneštra",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Maneštra"
+    ]
+  },
+  {
+    "id": "croatia-brudet",
+    "name": "Brudet",
+    "local_name": "Brodet",
+    "pronunciation": "BROO-det",
+    "category": "meal",
+    "country": "Croatia",
+    "state": "Istria & Kvarner",
+    "regions": [],
+    "description": "Fish stew of the Dalmatian, Kvarner and Istrian coast: several kinds of fish (often conger eel, monkfish and scorpionfish) cooked in one pot with olive oil, onion, garlic, parsley, tomato and a little vinegar or wine. The Neretva valley version (brujet) uses eels, frogs and grey mullet with hot paprika.",
+    "how_to_eat": "Eat with polenta (palenta) or bread to soak up the broth.",
+    "how_to_order": "Ask for 'brodet' or 'brudet'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brudet",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Brudet",
+      "https://hr.wikipedia.org/wiki/Brodet"
+    ]
+  },
+  {
+    "id": "croatia-fritule",
+    "name": "Fritule",
+    "local_name": "Fritule",
+    "pronunciation": "FREE-too-leh",
+    "category": "sweet",
+    "country": "Croatia",
+    "state": "Istria & Kvarner",
+    "regions": [],
+    "description": "Small deep-fried dough balls, similar to doughnuts, flavoured with liqueur or rakija and lemon zest, often with raisins, and dusted with sugar. They are made in Kvarner, Istria and Dalmatia, traditionally on fast days, Christmas Eve and at carnival time.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Fritule",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Fritule",
+      "https://en.wikipedia.org/wiki/Frittella_(doughnut)"
+    ]
+  },
+  {
+    "id": "croatia-rapska-torta",
+    "name": "Rab cake",
+    "local_name": "Rapska torta",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Croatia",
+    "state": "Istria & Kvarner",
+    "regions": [
+      "Rab"
+    ],
+    "description": "A cake from the island of Rab made mainly from almonds and maraschino liqueur, traditionally baked in a spiral shape. Legend says it was first served to Pope Alexander III in 1177; today it is made for weddings and baptisms and sold as a long-keeping souvenir.",
+    "how_to_eat": null,
+    "how_to_order": "Buy it on Rab as a souvenir.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rab_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rab_cake",
+      "https://hr.wikipedia.org/wiki/Rapska_torta"
+    ]
+  },
+  {
+    "id": "croatia-zagorski-strukli",
+    "name": "Zagorski štrukli",
+    "local_name": "Zagorski štrukli",
+    "pronunciation": "ZAH-gor-skee SHTROOK-lee",
+    "category": "meal",
+    "country": "Croatia",
+    "state": "Zagreb & Northern Croatia",
+    "regions": [],
+    "description": "Thin stretched dough filled with cottage cheese mixed with eggs, sour cream and salt, rolled and cut into pieces, then either boiled or baked under cream. A traditional dish of households in Hrvatsko Zagorje and Zagreb, it can be savoury or sweet and served as soup, starter, main or dessert; it is on Croatia's intangible cultural heritage list and its name is protected in the EU.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'štrukli', baked ('pečeni') or boiled ('kuhani').",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zagorski_štrukli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Zagorski_štrukli",
+      "https://hr.wikipedia.org/wiki/Zagorski_štrukli",
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+    ]
+  },
+  {
+    "id": "croatia-purica-s-mlincima",
+    "name": "Turkey with mlinci",
+    "local_name": "Purica s mlincima",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Croatia",
+    "state": "Zagreb & Northern Croatia",
+    "regions": [],
+    "description": "Roast turkey served with mlinci, thin dried flatbreads (flour, salt and water, sometimes egg and fat) that are broken up, softened with hot water or stock and soaked in the roasting fat. Originating in Međimurje, it is eaten across northern Croatia, especially for holidays, and is a classic of Zagreb and Zagorje cooking. The Zagorje turkey and Zagorje mlinci names are themselves EU-protected.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'purica s mlincima' (in Međimurje: 'pura z mlinci').",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Pura_z_mlinci",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Pura_z_mlinci",
+      "https://en.wikipedia.org/wiki/Mlinci",
+      "https://hr.wikipedia.org/wiki/Zagorski_puran",
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+    ]
+  },
+  {
+    "id": "croatia-samoborska-kremsnita",
+    "name": "Samobor kremšnita",
+    "local_name": "Samoborska kremšnita",
+    "pronunciation": "KREM-shnee-tah",
+    "category": "sweet",
+    "country": "Croatia",
+    "state": "Zagreb & Northern Croatia",
+    "regions": [
+      "Samobor"
+    ],
+    "description": "A custard cream cake from Samobor, made with eggs, flour, puff pastry, milk and sugar, and eaten even while still warm. It is protected in Croatia as intangible cultural heritage.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'kremšnita' in Samobor.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Samoborska_kremšnita",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Samoborska_kremšnita",
+      "https://en.wikipedia.org/wiki/Croatian_cuisine"
+    ]
+  },
+  {
+    "id": "croatia-medimurska-gibanica",
+    "name": "Međimurska gibanica",
+    "local_name": "Međimurska gibanica",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Croatia",
+    "state": "Zagreb & Northern Croatia",
+    "regions": [],
+    "description": "A layered cake from Međimurje: puff pastry with four fillings, fresh cow's cheese, grated apple, ground walnuts and ground poppy seed, topped with cream (sometimes mixed with egg yolk) or melted butter and baked. Unlike Slovenian Prekmurje gibanica it has four rather than eight filling layers.",
+    "how_to_eat": "Eat it cut into squares, warm or cold.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Međimurska_gibanica",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Međimurska_gibanica",
+      "https://en.wikipedia.org/wiki/Croatian_cuisine"
+    ]
+  },
+  {
+    "id": "croatia-meso-z-tiblice",
+    "name": "Meso 'z tiblice",
+    "local_name": "Meso 'z tiblice",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Croatia",
+    "state": "Zagreb & Northern Croatia",
+    "regions": [],
+    "description": "A Međimurje speciality of pork leg or loin rubbed with salt and garlic, cured in brine, smoked, boiled and roasted, then preserved in layers of salted minced pork fat inside a wooden vessel (tiblica) for weeks. Its name is protected in the EU.",
+    "how_to_eat": "Eat it cold as a starter with the minced lard, turoš cheese, fresh cheese with cream and spring onion.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Meso_z_tiblice",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Meso_z_tiblice",
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+    ]
+  },
+  {
+    "id": "croatia-bjelovarski-kvargl",
+    "name": "Bjelovar kvargl",
+    "local_name": "Bjelovarski kvargl",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Croatia",
+    "state": "Zagreb & Northern Croatia",
+    "regions": [
+      "Bjelovar"
+    ],
+    "description": "A small hand-made cone of fresh cow's cheese mixed with salt, ground red paprika and sometimes garlic, then dried and smoked; mildly sour and piquant with a smoky aroma. Made across Bjelovar-Bilogora County since the 18th century, it gained EU PGI protection in February 2020.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Bjelovarski_kvargl",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Bjelovarski_kvargl",
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+    ]
+  },
+  {
+    "id": "croatia-gemist",
+    "name": "Gemišt",
+    "local_name": "Gemišt",
+    "pronunciation": "GEH-misht",
+    "category": "drink",
+    "country": "Croatia",
+    "state": "Zagreb & Northern Croatia",
+    "regions": [],
+    "description": "White wine mixed with mineral water, a popular combination in Hrvatsko Zagorje and Međimurje; the name comes from German 'gemischt' (mixed).",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'gemišt'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Croatian_cuisine"
+    ]
+  },
+  {
+    "id": "croatia-licka-janjetina",
+    "name": "Lika lamb",
+    "local_name": "Lička janjetina",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Croatia",
+    "state": "Lika & Karlovac",
+    "regions": [],
+    "description": "Meat of lambs of the native Lika pramenka sheep, raised only in Lika, the mountain-ringed region between Velebit, Velika Kapela, Plješivica and Mala Kapela. It was registered as an EU protected name in October 2018.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'lička janjetina'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Lička_janjetina",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Lička_janjetina",
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+    ]
+  },
+  {
+    "id": "croatia-licki-krumpir",
+    "name": "Lika potato",
+    "local_name": "Lički krumpir",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Croatia",
+    "state": "Lika & Karlovac",
+    "regions": [],
+    "description": "Potatoes grown in Lika, prized for their floury, crumbly texture from a high dry-matter content. They gained EU geographical protection in September 2015.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Lički_krumpir",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Lički_krumpir",
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+    ]
+  },
+  {
+    "id": "croatia-licki-skripavac",
+    "name": "Škripavac",
+    "local_name": "Lički škripavac",
+    "pronunciation": "SHKREE-pah-vats",
+    "category": "snack",
+    "country": "Croatia",
+    "state": "Lika & Karlovac",
+    "regions": [],
+    "description": "A full-fat soft cheese made in households of Lika and Kordun from raw milk, curdled straight after milking; mild, low in salt and rubbery enough to squeak when eaten. Lički škripavac is an EU-protected name.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'škripavac'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Škripavac",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Škripavac",
+      "https://en.wikipedia.org/wiki/Croatian_cuisine",
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+    ]
+  },
+  {
+    "id": "croatia-ogulinski-kiseli-kupus",
+    "name": "Ogulin sauerkraut",
+    "local_name": "Ogulinski kiseli kupus",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Croatia",
+    "state": "Lika & Karlovac",
+    "regions": [
+      "Ogulin"
+    ],
+    "description": "Golden-yellow sauerkraut made by natural lactic fermentation of whole heads of the native Ogulin cabbage, produced around Ogulin and Josipdol. It was registered as an EU protected name in August 2015.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Ogulinski_kiseli_kupus",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Ogulinski_kiseli_kupus",
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+    ]
+  },
+  {
+    "id": "croatia-velebitsko-pivo",
+    "name": "Velebitsko beer",
+    "local_name": "Velebitsko pivo",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Croatia",
+    "state": "Lika & Karlovac",
+    "regions": [
+      "Gospić"
+    ],
+    "description": "A locally brewed beer from near Gospić on the Velebit mountain; its dark beer was voted best beer by an English beer-fan website.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'Velebitsko'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Croatian_cuisine",
+      "https://hr.wikipedia.org/wiki/Hrvatska_kuhinja"
+    ]
+  },
+  {
+    "id": "croatia-slavonski-kulen",
+    "name": "Slavonian kulen",
+    "local_name": "Slavonski kulen",
+    "pronunciation": "KOO-len",
+    "category": "snack",
+    "country": "Croatia",
+    "state": "Slavonia & Baranja",
+    "regions": [],
+    "description": "A dense, low-fat sausage of minced pork spiced with hot red paprika and garlic, stuffed into pork appendix, smoked for months and air-dried, maturing for up to a year. Made at the autumn pig slaughter, it is a symbol of Slavonia; Slavonski kulen and Baranjski kulen are both EU-protected names.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'kulen'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kulen",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kulen",
+      "https://hr.wikipedia.org/wiki/Slavonski_kulen",
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+    ]
+  },
+  {
+    "id": "croatia-cobanac",
+    "name": "Čobanac",
+    "local_name": "Slavonski čobanac",
+    "pronunciation": "CHOH-bah-nats",
+    "category": "meal",
+    "country": "Croatia",
+    "state": "Slavonia & Baranja",
+    "regions": [],
+    "description": "A thick shepherd's stew from Slavonia of several meats, usually beef and pork and sometimes game, cooked for hours with plenty of onion and paprika, often in a kettle (kotlić) over an open fire. It is cooked for family and community gatherings and food festivals.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'čobanac'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Slavonski_čobanac",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Slavonski_čobanac"
+    ]
+  },
+  {
+    "id": "croatia-fis-paprikas",
+    "name": "Fiš paprikaš",
+    "local_name": "Fiš paprikaš",
+    "pronunciation": "FISH PAP-ree-kash",
+    "category": "meal",
+    "country": "Croatia",
+    "state": "Slavonia & Baranja",
+    "regions": [],
+    "description": "A hot, bright red river-fish soup made with a lot of hot paprika and carp or mixed river fish such as catfish, pike and perch, traditionally cooked in a kettle over an open fire on the riverbank. Of Hungarian origin (halászlé), in Croatia it is served mostly in Slavonia and Baranja.",
+    "how_to_eat": "Eat it straight from the kettle with white bread, with white wine alongside.",
+    "how_to_order": "Ask for 'fiš' or 'fiš paprikaš'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Riblji_paprikaš",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Riblji_paprikaš"
+    ]
+  },
+  {
+    "id": "croatia-saran-na-rasljama",
+    "name": "Carp on forked sticks",
+    "local_name": "Šaran na rašljama",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Croatia",
+    "state": "Slavonia & Baranja",
+    "regions": [],
+    "description": "Carp seasoned with salt and pepper and roasted on forked sticks over an open fire, which gives it a smoky flavour. Popular along the Danube and across Slavonia and Baranja, it is cooked in summer for family gatherings, fairs and fishing events.",
+    "how_to_eat": "Eat it hot with roast vegetables or boiled potatoes.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Šaran_na_rašljama",
+    "source_urls": [
+      "https://hr.wikipedia.org/wiki/Šaran_na_rašljama"
+    ]
+  },
+  {
+    "id": "croatia-grasevina",
+    "name": "Graševina",
+    "local_name": "Graševina",
+    "pronunciation": "GRAH-sheh-vee-nah",
+    "category": "drink",
+    "country": "Croatia",
+    "state": "Slavonia & Baranja",
+    "regions": [
+      "Kutjevo",
+      "Ilok"
+    ],
+    "description": "A white wine grape (Welschriesling) and its wine, the most planted white variety in Croatia, grown in all inland wine regions and especially around Kutjevo and Ilok in the far east. The wine is usually straw-yellow, dry and fresh.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'graševina'; labels often add the area, e.g. Graševina slavonska.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Welschriesling",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Welschriesling",
+      "https://hr.wikipedia.org/wiki/Graševina"
+    ]
+  }
+]

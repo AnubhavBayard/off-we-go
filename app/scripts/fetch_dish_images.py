@@ -80,7 +80,8 @@ def resolve(t):
 out = {}
 for d in dishes:
     f = title_file.get(resolve((host_of(d["wikipedia_url"]), title_of(d["wikipedia_url"]))))
-    if f and f in info: out[d["id"]] = info[f]
+    # only Wikimedia Commons files: local wiki uploads can be non-free and lack licence data
+    if f and f in info and info[f]["page"].startswith("https://commons.wikimedia.org/"): out[d["id"]] = info[f]
 
 json.dump(out, open("src/data/dish_images.json", "w"), ensure_ascii=False, indent=1)
 print(f"{len(out)} of {len(dishes)} dishes with a Wikipedia article got a photo")

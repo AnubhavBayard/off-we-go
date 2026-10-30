@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "canada-poutine",
+    "name": "Poutine",
+    "local_name": "Poutine",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Canada",
+    "state": "Québec",
+    "regions": [
+      "Centre-du-Québec",
+      "Montreal",
+      "Quebec City",
+      "Drummondville"
+    ],
+    "description": "French fries and cheese curds topped with hot brown gravy made from beef and chicken stock. It emerged in the Centre-du-Québec region in the late 1950s and became a symbol of Québécois culture; it has been called Canada's national dish.",
+    "how_to_eat": "The curds are added at room temperature so they keep their elasticity and squeak under the hot gravy.",
+    "how_to_order": "Sold at casse-croûtes and poutineries, which often list many variants such as smoked meat or chicken poutine.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Poutine",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Poutine",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Quebec"
+    ]
+  },
+  {
+    "id": "canada-tourtiere",
+    "name": "Tourtière",
+    "local_name": "Tourtière",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Canada",
+    "state": "Québec",
+    "regions": [
+      "Saguenay–Lac-Saint-Jean"
+    ],
+    "description": "A French-Canadian meat pie from Québec made with minced pork, veal or beef and potatoes; game such as venison is sometimes used. It is a traditional part of the Christmas réveillon and New Year's Eve meal. The Tourtière du Lac-Saint-Jean version has a thicker crust and cubes of potato, meat and broth.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tourti%C3%A8re",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tourti%C3%A8re",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Quebec"
+    ]
+  },
+  {
+    "id": "canada-pate-chinois",
+    "name": "Pâté chinois",
+    "local_name": "Pâté chinois",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Canada",
+    "state": "Québec",
+    "regions": [
+      "Montreal"
+    ],
+    "description": "A traditional Québec dish of three layers baked in the oven: ground beef, corn and mashed potato. It probably originated among the French-Canadian working class in Montreal, and a Le Devoir poll led to it being informally called the 'national dish of Quebec'. It differs from shepherd's pie mainly by its layer of corn.",
+    "how_to_eat": "Commonly served sprinkled with paprika, with pickles or ketchup on the side.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/P%C3%A2t%C3%A9_chinois",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/P%C3%A2t%C3%A9_chinois",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Quebec"
+    ]
+  },
+  {
+    "id": "canada-montreal-smoked-meat",
+    "name": "Montreal-style smoked meat",
+    "local_name": "Viande fumée",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Canada",
+    "state": "Québec",
+    "regions": [
+      "Montreal"
+    ],
+    "description": "Kosher-style deli beef brisket that is salted and cured with spices for about a week, hot-smoked and then steamed. It is cured with more cracked pepper than New York pastrami, along with coriander, garlic and mustard seed, and was introduced by Jewish immigrants to Montreal.",
+    "how_to_eat": "Typically served as a sandwich on light rye bread with yellow mustard.",
+    "how_to_order": "Ask for a smoked meat sandwich or platter; in Québec it is often just called 'smoked meat'.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Montreal-style_smoked_meat",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Montreal-style_smoked_meat",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Quebec"
+    ]
+  },
+  {
+    "id": "canada-montreal-bagel",
+    "name": "Montreal-style bagel",
+    "local_name": "Bagel de Montréal",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Canada",
+    "state": "Québec",
+    "regions": [
+      "Montreal"
+    ],
+    "description": "A handmade bagel that is smaller, thinner, sweeter and denser than the New York style, with a larger hole. It contains malt and egg but no salt, is boiled in honey-sweetened water and always baked in a wood-fired oven. It was brought to Montreal by Jewish immigrants from Eastern Europe.",
+    "how_to_eat": null,
+    "how_to_order": "Choose black seed (poppy seed) or white seed (sesame seed); some bakeries make them by hand in full view of customers.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Montreal-style_bagel",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Montreal-style_bagel"
+    ]
+  },
+  {
+    "id": "canada-soupe-aux-pois",
+    "name": "Québec pea soup",
+    "local_name": "Soupe aux pois",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Canada",
+    "state": "Québec",
+    "regions": [],
+    "description": "A traditional Québec soup made with whole yellow peas, salt pork and herbs. After cooking, the pork is usually chopped and returned to the soup or sliced and served separately.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pea_soup",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Quebec"
+    ]
+  },
+  {
+    "id": "canada-maple-taffy",
+    "name": "Maple taffy",
+    "local_name": "Tire sur la neige",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Canada",
+    "state": "Québec",
+    "regions": [],
+    "description": "A sticky candy made by boiling maple syrup to about 112 °C and pouring it onto clean snow, where it quickly thickens. It is part of traditional culture in Québec and is popular at sugar shacks in springtime; Québec produces most of the world's maple syrup.",
+    "how_to_eat": "Lift it off the snow by rolling it onto a wooden stick or a fork.",
+    "how_to_order": "Look for it at sugar shacks (cabanes à sucre) during the spring maple season.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maple_taffy",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Maple_taffy",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Quebec"
+    ]
+  },
+  {
+    "id": "canada-ice-cider",
+    "name": "Ice cider",
+    "local_name": "Cidre de glace",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Canada",
+    "state": "Québec",
+    "regions": [
+      "Dunham",
+      "Montérégie"
+    ],
+    "description": "A fermented drink made from the juice of frozen apples, which concentrates the sugars. It was first created in Québec in 1989 by winemaker Christian Barthomeuf of Dunham. Production rules were set by a Québec regulation in 2008, and Québec ice cider obtained a protected geographical indication (IGP) in December 2014.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ice_cider",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ice_cider",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Quebec"
+    ]
+  },
+  {
+    "id": "canada-butter-tart",
+    "name": "Butter tart",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Canada",
+    "state": "Ontario",
+    "regions": [
+      "Barrie",
+      "Midland"
+    ],
+    "description": "A small pastry tart with a filling of butter, brown sugar, maple syrup and egg, baked until semi-solid with a crunchy top. The earliest published Canadian recipe is from Barrie, Ontario (1900), and it is often named as a national dish of Canada. Whether to add raisins, walnuts or pecans is a matter of debate.",
+    "how_to_eat": null,
+    "how_to_order": "Midland, Ontario hosts 'Ontario's Best Butter Tart Festival'.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Butter_tart",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Butter_tart",
+      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+    ]
+  },
+  {
+    "id": "canada-peameal-bacon-sandwich",
+    "name": "Peameal bacon sandwich",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Canada",
+    "state": "Ontario",
+    "regions": [
+      "Toronto"
+    ],
+    "description": "Peameal bacon is wet-cured, unsmoked lean pork loin rolled in cornmeal, found mainly in Ontario and linked to Toronto pork packer William Davies. A sandwich of cooked peameal bacon on a Kaiser roll is often considered a signature dish of Toronto, particularly from St. Lawrence Market.",
+    "how_to_eat": "Sometimes topped with mustard.",
+    "how_to_order": "Also called 'back bacon on a bun'; look for it at Toronto's St. Lawrence Market.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peameal_bacon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Peameal_bacon",
+      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+    ]
+  },
+  {
+    "id": "canada-icewine",
+    "name": "Icewine",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Canada",
+    "state": "Ontario",
+    "regions": [
+      "Niagara Peninsula"
+    ],
+    "description": "A sweet dessert wine made from grapes frozen naturally on the vine; Canadian law requires picking at −8 °C or colder and a minimum of 35° Brix. Canada is the world's largest producer, about 90% of it from Ontario, notably the Niagara Peninsula, often from Vidal grapes. Icewine is regulated by the VQA appellation system in Ontario and British Columbia.",
+    "how_to_eat": null,
+    "how_to_order": "Often sold in half bottles (375 mL) or smaller 200 mL bottles.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ice_wine",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ice_wine",
+      "https://en.wikipedia.org/wiki/Vintners_Quality_Alliance"
+    ]
+  },
+  {
+    "id": "canada-canadian-whisky",
+    "name": "Canadian whisky (rye)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Canada",
+    "state": "Ontario",
+    "regions": [],
+    "description": "A whisky that must be mashed, distilled and aged in Canada for at least three years in small wood barrels, with at least 40% alcohol; most are light, smooth blends. In Canadian law 'Canadian whisky' and 'rye whisky' are interchangeable terms, and the rules are upheld internationally through geographical indication agreements.",
+    "how_to_eat": "A classic Canadian mix is Rye & Ginger (Canadian whisky with ginger ale).",
+    "how_to_order": "Locally just called 'rye'.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Canadian_whisky",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Canadian_whisky",
+      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+    ]
+  },
+  {
+    "id": "canada-jamaican-patty",
+    "name": "Jamaican patty",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Canada",
+    "state": "Ontario",
+    "regions": [
+      "Toronto"
+    ],
+    "description": "A semicircular flaky pastry, often tinted golden with egg yolk, annatto or turmeric, traditionally filled with ground beef seasoned with onion, garlic, thyme and Scotch bonnet chilli. It is frequently seen in Toronto and the Great Lakes region; the name 'Jamaican patty' came from a 1985 compromise after the Canadian government objected to the term 'beef patty'.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in delis, corner stores and convenience stores.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jamaican_patty",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jamaican_patty"
+    ]
+  },
+  {
+    "id": "canada-halifax-donair",
+    "name": "Halifax donair",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Canada",
+    "state": "Atlantic Canada",
+    "regions": [
+      "Halifax"
+    ],
+    "description": "A variation of the doner kebab created in the early 1970s by Greek immigrant Peter Gamoulakos in Bedford, near Halifax, Nova Scotia. Spiced ground beef is sliced off a rotating cone, crisped on a flattop and wrapped in a pita with onions, tomatoes and a sweet sauce of condensed or evaporated milk, sugar, vinegar and garlic powder.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Donair",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Donair",
+      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+    ]
+  },
+  {
+    "id": "canada-jiggs-dinner",
+    "name": "Jiggs dinner",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Canada",
+    "state": "Atlantic Canada",
+    "regions": [
+      "Newfoundland"
+    ],
+    "description": "A traditional Newfoundland Sunday meal of salt beef boiled with potatoes, carrot, cabbage, turnip and greens. Pease pudding and figgy duff (a raisin and molasses bag pudding) are cooked in bags in the same broth.",
+    "how_to_eat": "Eaten with mustard pickles, pickled beets, cranberry sauce, butter and a thin gravy made from the cooking broth.",
+    "how_to_order": "Also called 'boiled dinner' or 'cooked dinner'.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jiggs_dinner",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jiggs_dinner",
+      "https://en.wikipedia.org/wiki/Figgy_duff_(pudding)"
+    ]
+  },
+  {
+    "id": "canada-fish-and-brewis",
+    "name": "Fish and brewis",
+    "local_name": null,
+    "pronunciation": "fish and BREWS",
+    "category": "meal",
+    "country": "Canada",
+    "state": "Atlantic Canada",
+    "regions": [
+      "Newfoundland"
+    ],
+    "description": "A traditional Newfoundland meal of salt cod and hard bread (hardtack), each soaked overnight and then boiled until tender. It is traditionally served with scrunchions, small pieces of fried salted pork fat, drizzled over the top.",
+    "how_to_eat": null,
+    "how_to_order": "'Fisherman's brewis' mixes the chopped fish and bread together with scrunchions.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fish_and_brewis",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fish_and_brewis"
+    ]
+  },
+  {
+    "id": "canada-touton",
+    "name": "Touton",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Canada",
+    "state": "Atlantic Canada",
+    "regions": [
+      "Newfoundland"
+    ],
+    "description": "A traditional Newfoundland dish of risen bread dough pulled flat and fried in butter or pork fat, often made from leftover dough. Toutons are usually served at breakfast or brunch and appear on many local restaurant breakfast menus.",
+    "how_to_eat": "Traditionally topped with a drizzle of molasses or a pat of butter.",
+    "how_to_order": "Look for them on breakfast menus in Newfoundland.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Touton",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Touton"
+    ]
+  },
+  {
+    "id": "canada-rappie-pie",
+    "name": "Rappie pie",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Canada",
+    "state": "Atlantic Canada",
+    "regions": [
+      "Nova Scotia",
+      "New Brunswick",
+      "Prince Edward Island"
+    ],
+    "description": "A traditional Acadian casserole: grated potatoes are squeezed to remove water, which is replaced with hot chicken, pork or seafood broth, then layered with meat and onions. Common fillings are beef, chicken or clams; the name comes from French 'patates râpées' (grated potatoes).",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rappie_pie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rappie_pie"
+    ]
+  },
+  {
+    "id": "canada-fricot",
+    "name": "Fricot",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Canada",
+    "state": "Atlantic Canada",
+    "regions": [],
+    "description": "An Acadian stew of chicken, potatoes, onions, carrots and summer savoury, sometimes with dumplings. It is so central to Acadian food culture that the Acadian French call to eat is 'Au fricot!'.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fricot",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fricot"
+    ]
+  },
+  {
+    "id": "canada-blueberry-grunt",
+    "name": "Blueberry grunt",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Canada",
+    "state": "Atlantic Canada",
+    "regions": [
+      "Cape Breton"
+    ],
+    "description": "Sweetened, stewed blueberries topped with biscuit or sweet dumplings, common in the Maritimes and especially Cape Breton. Grunts are a stovetop variety of cobbler, reportedly named for the grunting sound they make while cooking.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Canadian_cuisine",
+      "https://en.wikipedia.org/wiki/Cobbler_(food)"
+    ]
+  },
+  {
+    "id": "canada-newfoundland-screech",
+    "name": "Newfoundland Screech",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Canada",
+    "state": "Atlantic Canada",
+    "regions": [
+      "St. John's"
+    ],
+    "description": "A 40% ABV rum imported from Jamaica and blended and bottled by the Newfoundland and Labrador Liquor Corporation; 'screech' was a colloquial word for cheap, strong spirits. It is used in the 'screech-in' ceremony, in which visitors take a shot, recite a short verse and kiss a cod to become honorary Newfoundlanders.",
+    "how_to_eat": null,
+    "how_to_order": "Screech-ins are held in pubs, notably on George Street in St. John's.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Newfoundland_Screech",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Newfoundland_Screech"
+    ]
+  },
+  {
+    "id": "canada-ginger-beef",
+    "name": "Ginger beef",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Canada",
+    "state": "Prairies",
+    "regions": [
+      "Calgary"
+    ],
+    "description": "A Canadian Chinese dish of deep-fried beef strips in a dark, sweet vinegar-and-sugar sauce flavoured with ginger, garlic and hot peppers, with julienned carrots and onions. Its development is most widely credited to chef George Wong at the Silver Inn in Calgary in the mid-1970s.",
+    "how_to_eat": null,
+    "how_to_order": "A common item at Canadian Chinese restaurants.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ginger_beef",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ginger_beef",
+      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+    ]
+  },
+  {
+    "id": "canada-caesar",
+    "name": "Caesar",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Canada",
+    "state": "Prairies",
+    "regions": [
+      "Calgary"
+    ],
+    "description": "A cocktail of vodka, Clamato (clam and tomato juice), hot sauce and Worcestershire sauce, served on ice in a celery-salt-rimmed glass with a celery stalk and lime wedge. It was invented in 1969 by Walter Chell at the Calgary Inn in Calgary, Alberta, and spread from Western Canada to the east.",
+    "how_to_eat": null,
+    "how_to_order": "Order a Caesar; outside Canada bartenders usually offer a Bloody Mary instead.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caesar_(cocktail)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Caesar_(cocktail)",
+      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+    ]
+  },
+  {
+    "id": "canada-saskatoon-berry-pie",
+    "name": "Saskatoon berry pie",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Canada",
+    "state": "Prairies",
+    "regions": [
+      "Saskatchewan"
+    ],
+    "description": "A pie made from saskatoon berries, small purple fruits of a shrub native to North America that Indigenous peoples have long eaten fresh or dried. The pie has become iconic on the Canadian Prairies; Saskatoon berries make up over half of Saskatchewan's fruit-growing area.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Amelanchier_alnifolia",
+      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+    ]
+  },
+  {
+    "id": "canada-perogies",
+    "name": "Perogies",
+    "local_name": null,
+    "pronunciation": "pirr-OH-ghee",
+    "category": "meal",
+    "country": "Canada",
+    "state": "Prairies",
+    "regions": [
+      "Glendon"
+    ],
+    "description": "Filled dumplings brought to Canada by Polish and Ukrainian immigrants, common throughout the country and especially on the Prairies, where Ukrainian communities are concentrated. Homemade versions are filled with mashed potato (often with cottage or cheddar cheese), sauerkraut or fruit such as saskatoon berries, then boiled and sometimes fried in butter.",
+    "how_to_eat": "Served with butter, sour cream, fried onions and sometimes bacon or kielbasa.",
+    "how_to_order": "Spelled 'perogy' locally; Glendon, Alberta has a giant perogy statue.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pierogi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pierogi"
+    ]
+  },
+  {
+    "id": "canada-honey-dill",
+    "name": "Honey dill sauce",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Canada",
+    "state": "Prairies",
+    "regions": [
+      "Winnipeg"
+    ],
+    "description": "A condiment of honey, mayonnaise and dried dill unique to Manitoba. It was invented by mistake at Mitzi's Chicken Finger Restaurant in downtown Winnipeg and spread across the province.",
+    "how_to_eat": "Used as a dip for chicken fingers and sweet potato fries.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Honey_dill",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Honey_dill"
+    ]
+  },
+  {
+    "id": "canada-winnipeg-goldeye",
+    "name": "Smoked Winnipeg goldeye",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Canada",
+    "state": "Prairies",
+    "regions": [
+      "Winnipeg"
+    ],
+    "description": "Goldeye, a freshwater fish, hot-smoked whole after brining in salt, sugar and spices; the method was developed by Winnipeg smoker Robert Firth. It became a fashionable gourmet dish after 1911, and the culinary name 'Winnipeg goldeye' stays with the city where it is processed even though the fish now comes mostly from Saskatchewan and Alberta.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Goldeye",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Goldeye"
+    ]
+  },
+  {
+    "id": "canada-flapper-pie",
+    "name": "Flapper pie",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Canada",
+    "state": "Prairies",
+    "regions": [
+      "Winnipeg"
+    ],
+    "description": "A vanilla custard pie in a graham cracker crust, topped with meringue (or sometimes whipped cream). Known as 'the forgotten Prairie pie', it became popular across the Canadian Prairies in the 1920s and is a staple of Prairie culture.",
+    "how_to_eat": null,
+    "how_to_order": "In Winnipeg's Salisbury House restaurants it is sold as 'wafer pie'.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Flapper_pie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Flapper_pie",
+      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+    ]
+  },
+  {
+    "id": "canada-nanaimo-bar",
+    "name": "Nanaimo bar",
+    "local_name": null,
+    "pronunciation": "nuh-NY-moh",
+    "category": "sweet",
+    "country": "Canada",
+    "state": "British Columbia",
+    "regions": [
+      "Nanaimo"
+    ],
+    "description": "A no-bake bar dessert named after the city of Nanaimo on Vancouver Island. It has three layers: a wafer, nut and coconut crumb base, custard icing in the middle, and chocolate ganache on top.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nanaimo_bar",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nanaimo_bar",
+      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+    ]
+  },
+  {
+    "id": "canada-bc-roll",
+    "name": "B.C. roll",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Canada",
+    "state": "British Columbia",
+    "regions": [
+      "Vancouver"
+    ],
+    "description": "An inside-out (uramaki) sushi roll with barbecued salmon, often salmon skin in a sweet sauce, and cucumber. Vancouver chef Hidekazu Tojo created it in 1974 using salmon skin in place of hard-to-find anago eel; it is named for B.C.'s wild Pacific salmon.",
+    "how_to_eat": null,
+    "how_to_order": "On the menu at many sushi restaurants in British Columbia.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/B.C._roll",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/B.C._roll"
+    ]
+  },
+  {
+    "id": "canada-california-roll",
+    "name": "California roll",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Canada",
+    "state": "British Columbia",
+    "regions": [
+      "Vancouver"
+    ],
+    "description": "An inside-out sushi roll of cooked crab, avocado and cucumber. Vancouver chef Hidekazu Tojo claims he created it at his restaurant in the late 1970s, though food historians also trace it to Los Angeles; it is one of the most popular sushi styles in Canada.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/California_roll",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/California_roll"
+    ]
+  },
+  {
+    "id": "canada-spot-prawns",
+    "name": "BC spot prawns",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Canada",
+    "state": "British Columbia",
+    "regions": [
+      "Vancouver Island"
+    ],
+    "description": "Large Pacific shrimp with white spots, harvested in a short 6-8 week season from May to June. British Columbia has the largest harvest, about 2,450 tonnes a year, much of it from the waters between Vancouver Island and the mainland; the fishery is recognised as sustainable by Ocean Wise.",
+    "how_to_eat": null,
+    "how_to_order": "Available only during the short May-June season.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pandalus_platyceros",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pandalus_platyceros"
+    ]
+  },
+  {
+    "id": "canada-smoked-salmon",
+    "name": "Smoked and candied salmon",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Canada",
+    "state": "British Columbia",
+    "regions": [],
+    "description": "Pacific salmon smoked by First Nations of the Pacific Northwest, traditionally cold-smoked into a dried, jerky-like food stored year-round and now often sold as 'salmon jerky'. Pacific Northwest cuisine also has candied salmon, smoked and glazed with honey or sugar, known as 'Indian candy'. Salmon is often named among the foods most representative of Canada.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Smoked_salmon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Smoked_salmon",
+      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+    ]
+  },
+  {
+    "id": "canada-sxusem",
+    "name": "Sxusem (whipped soapberry)",
+    "local_name": "Sxusem",
+    "pronunciation": "sk-HOO-shum",
+    "category": "sweet",
+    "country": "Canada",
+    "state": "British Columbia",
+    "regions": [],
+    "description": "A whipped foam dessert made from soapberries, whose saponins make the berries froth when whipped, sometimes with other fruit. It comes from the Interior Salish peoples of British Columbia and is known as 'Indian ice cream'.",
+    "how_to_eat": "Eaten like ice cream, or as a drink.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shepherdia_canadensis",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Canadian_cuisine",
+      "https://en.wikipedia.org/wiki/Shepherdia_canadensis"
+    ]
+  },
+  {
+    "id": "canada-bannock",
+    "name": "Bannock",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Canada",
+    "state": "The North & Indigenous foods",
+    "regions": [],
+    "description": "A flatbread eaten by Inuit, First Nations and Métis across Canada, made with flour, baking powder, sugar, lard and water or milk, then fried, baked or cooked on a stick over a fire. Its modern form reflects flour, sugar and lard rations issued on reserves in the late 19th century.",
+    "how_to_eat": null,
+    "how_to_order": "Sweet bannock, with cinnamon and sugar, is also made.",
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bannock_(Indigenous_American_food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bannock_(Indigenous_American_food)",
+      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+    ]
+  },
+  {
+    "id": "canada-pemmican",
+    "name": "Pemmican",
+    "local_name": "ᐱᒦᐦᑳᓐ (pimîhkân)",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Canada",
+    "state": "The North & Indigenous foods",
+    "regions": [],
+    "description": "A calorie-rich mixture of dried, chopped meat (such as bison, deer, elk, moose or fish) and rendered fat, sometimes with dried berries such as saskatoons or cranberries. It was invented by Indigenous peoples of North America, its name comes from Cree, and it was adopted by fur traders and polar explorers.",
+    "how_to_eat": "Eaten raw or added to stews.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pemmican",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pemmican",
+      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+    ]
+  },
+  {
+    "id": "canada-muktuk",
+    "name": "Muktuk",
+    "local_name": "Muktaaq",
+    "pronunciation": "MUCK-tuck",
+    "category": "snack",
+    "country": "Canada",
+    "state": "The North & Indigenous foods",
+    "regions": [],
+    "description": "A traditional Inuit food of whale skin and blubber, usually from bowhead, beluga or narwhal. It is a good source of vitamin C and is traded between communities in Canada.",
+    "how_to_eat": "Usually eaten raw, but also frozen, cooked or pickled; sometimes dipped in soy sauce.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Muktuk",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Muktuk",
+      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+    ]
+  },
+  {
+    "id": "canada-arctic-char",
+    "name": "Arctic char",
+    "local_name": "Iqaluk",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Canada",
+    "state": "The North & Indigenous foods",
+    "regions": [
+      "Nunavut",
+      "Cambridge Bay",
+      "Cumberland Sound"
+    ],
+    "description": "A cold-water fish related to salmon and trout, with pink to red flesh, known in Inuktitut as iqaluk. Commercial fisheries operate across the Canadian Arctic, mostly in Nunavut, and the fish is important to Inuit subsistence diets.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arctic_char",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Arctic_char"
+    ]
+  },
+  {
+    "id": "canada-igunaq",
+    "name": "Igunaq",
+    "local_name": "ᐃᒍᓇᖅ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Canada",
+    "state": "The North & Indigenous foods",
+    "regions": [],
+    "description": "An Inuit method of preserving meat, especially walrus, other marine mammals, caribou and birds, by burying it in summer so it ferments over autumn and freezes over winter. It is considered a delicacy, with a texture and smell likened to soft aged cheese; improper preparation can cause botulism.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Igunaq",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Igunaq",
+      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+    ]
+  },
+  {
+    "id": "canada-wild-rice",
+    "name": "Wild rice (manoomin)",
+    "local_name": "Manoomin",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Canada",
+    "state": "The North & Indigenous foods",
+    "regions": [
+      "Northern Ontario",
+      "Manitoba",
+      "Saskatchewan"
+    ],
+    "description": "The grain of a native aquatic grass, called manoomin in Ojibwe and considered sacred by the Ojibwe. In Canada it is usually harvested from natural lakes and rivers, with Saskatchewan the largest producer; it was traditionally stewed with venison stock or maple syrup or used in stuffings.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wild_rice",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wild_rice",
+      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+    ]
+  }
+]

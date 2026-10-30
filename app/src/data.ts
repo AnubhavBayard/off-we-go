@@ -67,7 +67,7 @@ export const COUNTRY_CODE: Record<string, string> = {
   India: 'IN', France: 'FR', Spain: 'ES', 'United States': 'US', Italy: 'IT', Turkey: 'TR', Mexico: 'MX',
   'United Kingdom': 'GB', Germany: 'DE', Greece: 'GR', Thailand: 'TH', Japan: 'JP', China: 'CN',
   'United Arab Emirates': 'AE', Malaysia: 'MY', Vietnam: 'VN', Indonesia: 'ID', Portugal: 'PT',
-  Netherlands: 'NL', 'South Korea': 'KR', Singapore: 'SG',
+  Netherlands: 'NL', 'South Korea': 'KR', Singapore: 'SG', Austria: 'AT', Canada: 'CA', Croatia: 'HR', Morocco: 'MA',
 }
 
 // "₹20-40", "€8-12", "THB 50-80"

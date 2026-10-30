@@ -1,0 +1,973 @@
+[
+  {
+    "id": "morocco-tanjia",
+    "name": "Tanjia",
+    "local_name": "طنجية",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Morocco",
+    "state": "Marrakesh",
+    "regions": [
+      "Marrakesh"
+    ],
+    "description": "Beef or lamb with preserved lemons, cumin, saffron, garlic, smen (aged butter) and olive oil, sealed in an urn-shaped clay jar (the tangia) with parchment and slow-cooked for hours in the hot ashes of the neighbourhood wood furnace that heats the hammam. It is the emblematic dish of Marrakesh, traditionally made by men, and the meat comes out falling off the bone in a rich sauce.",
+    "how_to_eat": null,
+    "how_to_order": "Traditionally a butcher supplies the jar, meat and spices, and the furnace keeper (fernatchi) cooks it in the hammam ashes.",
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tangia",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tangia",
+      "https://fr.wikipedia.org/wiki/Tangia"
+    ]
+  },
+  {
+    "id": "morocco-babbouche",
+    "name": "Babbouche (snail soup)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Morocco",
+    "state": "Marrakesh",
+    "regions": [
+      "Marrakesh"
+    ],
+    "description": "Snails cooked slowly in a broth flavoured with thyme, aniseed, gum arabic, mint, caraway and liquorice. Snails served in their juices are a common Moroccan street food, and the soup is served on cold nights in Jemaa el-Fna square.",
+    "how_to_eat": "Drink the broth from the small bowl and pick the snails out with a toothpick.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Babbouche",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Babbouche",
+      "https://en.wikipedia.org/wiki/Moroccan_cuisine",
+      "https://fr.wikipedia.org/wiki/Cuisine_marocaine"
+    ]
+  },
+  {
+    "id": "morocco-mechoui",
+    "name": "Méchoui",
+    "local_name": "مشوي",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Morocco",
+    "state": "Marrakesh",
+    "regions": [],
+    "description": "A whole sheep or lamb seasoned with spices such as ras el hanout and spit-roasted beside embers, brushed with melted butter or oil to crisp the skin; in Morocco it is also cooked in a sealed vertical earthen pit oven for four to five hours. It is a feast dish served at the start of a diffa and at big family and religious occasions.",
+    "how_to_eat": "The host pulls off pieces with the right hand, no cutlery, and diners sprinkle them with cumin and salt.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Méchoui",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Méchoui",
+      "https://fr.wikipedia.org/wiki/Cuisine_marocaine"
+    ]
+  },
+  {
+    "id": "morocco-sfenj",
+    "name": "Sfenj",
+    "local_name": "سفنج",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Morocco",
+    "state": "Marrakesh",
+    "regions": [],
+    "description": "A light, spongy ring of yeasted dough fried in oil, its name meaning 'sponge'; it came from al-Andalus and was known in Marinid Morocco. It is made and sold early in the morning for breakfast or in the late afternoon, and head meat with sfenj was a popular Marrakesh breakfast in earlier generations.",
+    "how_to_eat": "Eat it plain, sprinkled with sugar or soaked in honey, with mint tea or coffee.",
+    "how_to_order": "Buy it from a dedicated sfenj fryer (sufnāj) in the morning.",
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sfenj",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sfenj",
+      "https://fr.wikipedia.org/wiki/Sfendj"
+    ]
+  },
+  {
+    "id": "morocco-msemen",
+    "name": "Msemmen",
+    "local_name": "مسمن",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Morocco",
+    "state": "Marrakesh",
+    "regions": [],
+    "description": "A square, many-layered flatbread folded from a dough of fine semolina, a little wheat flour and oil and cooked on a griddle; it is also called rghaif, and a pulled-strand version is called meloui. Marrakchis and many other Moroccans eat it at breakfast, and it can be stuffed with khlea (preserved meat) or onion and tomato.",
+    "how_to_eat": "Eat it with honey, butter or jam and a glass of mint tea.",
+    "how_to_order": "Sold at dairy shops (mhlaba) and breakfast stalls.",
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Msemmen",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Msemmen",
+      "https://fr.wikipedia.org/wiki/Msemmen",
+      "https://fr.wikipedia.org/wiki/Cuisine_marocaine"
+    ]
+  },
+  {
+    "id": "morocco-baghrir",
+    "name": "Baghrir",
+    "local_name": "البغرير",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Morocco",
+    "state": "Marrakesh",
+    "regions": [],
+    "description": "A spongy pancake of semolina or flour, yeast and salt, cooked on one side only so the top is riddled with tiny holes (hence the French name 'thousand-hole crêpe'). It is eaten for breakfast, as a snack and at iftar during Ramadan.",
+    "how_to_eat": "Eat it warm, soaked in melted butter and honey.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Baghrir",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Baghrir",
+      "https://fr.wikipedia.org/wiki/Baghrir",
+      "https://fr.wikipedia.org/wiki/Cuisine_marocaine"
+    ]
+  },
+  {
+    "id": "morocco-jowhara",
+    "name": "Jowhara (milk pastilla)",
+    "local_name": "جوهرة",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Morocco",
+    "state": "Fes & Meknes",
+    "regions": [
+      "Fes"
+    ],
+    "description": "A dessert pastilla of Fassi cuisine: layers of fried warqa pastry with a milky cream between them, flavoured with orange flower water and finished with cinnamon, sugar and toasted almonds. Its name means 'jewel'.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pastilla",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pastilla",
+      "https://en.wikipedia.org/wiki/Moroccan_cuisine"
+    ]
+  },
+  {
+    "id": "morocco-maakouda",
+    "name": "Ma'quda",
+    "local_name": "معقودة",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Morocco",
+    "state": "Fes & Meknes",
+    "regions": [
+      "Fes"
+    ],
+    "description": "A fritter of mashed potato bound with egg and seasoned with garlic, parsley and hot pepper. In Morocco it is a cheap street-stall food, especially eaten by students and workers in cities such as Fes, and it is common at Ramadan iftar.",
+    "how_to_eat": "Usually eaten as a sandwich inside Moroccan bread with harissa.",
+    "how_to_order": "Ask for a maakouda sandwich at street stalls.",
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ma'quda",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ma'quda",
+      "https://fr.wikipedia.org/wiki/Maaqouda",
+      "https://en.wikipedia.org/wiki/Moroccan_cuisine"
+    ]
+  },
+  {
+    "id": "morocco-taktouka",
+    "name": "Taktouka",
+    "local_name": "تكتوكة",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Morocco",
+    "state": "Fes & Meknes",
+    "regions": [
+      "Fes",
+      "Taza"
+    ],
+    "description": "A cooked salad and spread of tomatoes, bell peppers, garlic, paprika and olive oil, simmered until jammy; it is characteristic of Taza and Fes. It is served as a mezze-style side, warm or cold, alongside tagines.",
+    "how_to_eat": "Scoop it up with bread.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Taktouka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Taktouka",
+      "https://fr.wikipedia.org/wiki/Taktouka",
+      "https://en.wikipedia.org/wiki/Moroccan_cuisine"
+    ]
+  },
+  {
+    "id": "morocco-harcha",
+    "name": "Harcha",
+    "local_name": "حَرْشَة",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Morocco",
+    "state": "Fes & Meknes",
+    "regions": [
+      "Fes"
+    ],
+    "description": "A crumbly griddle bread of semolina, butter and milk, brought to Morocco by Tlemcen bakers who settled in Fes; in the Middle Atlas it is made as big as a truck tyre and sold in the street. It is a breakfast and afternoon snack sold by weight alongside msemmen and baghrir.",
+    "how_to_eat": "Eat it with honey, butter, jam or amlou and a glass of mint tea.",
+    "how_to_order": "Sold by weight or by the piece in pastry and breakfast shops.",
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Harcha",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Harcha",
+      "https://fr.wikipedia.org/wiki/Cuisine_marocaine"
+    ]
+  },
+  {
+    "id": "morocco-chebakia",
+    "name": "Chebakia",
+    "local_name": "شباكية",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Morocco",
+    "state": "Fes & Meknes",
+    "regions": [
+      "Fes",
+      "Rabat",
+      "Salé"
+    ],
+    "description": "Strips of dough spiced with anise, cinnamon and saffron, folded into a rose shape, deep-fried, soaked in honey and orange-blossom syrup and coated in sesame. Made in large batches at the start of Ramadan, it is also called mkharqa in Fes, Rabat and Salé.",
+    "how_to_eat": "Eat it with harira at iftar, or with tea or coffee.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shebakia",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shebakia",
+      "https://fr.wikipedia.org/wiki/Chebakia",
+      "https://en.wikipedia.org/wiki/Moroccan_cuisine"
+    ]
+  },
+  {
+    "id": "morocco-rfissa",
+    "name": "Rfissa",
+    "local_name": "رفيسة",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Morocco",
+    "state": "Fes & Meknes",
+    "regions": [
+      "Fes"
+    ],
+    "description": "Shredded msemmen, meloui or day-old bread soaked in a broth of lentils, onions, fenugreek and ras el hanout, topped with chicken. It originates from Fes, is served at celebrations, and is traditionally given to a woman who has just given birth, since fenugreek is thought to help recovery.",
+    "how_to_eat": null,
+    "how_to_order": "Popular in homes but rarely served in restaurants.",
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rfissa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rfissa",
+      "https://fr.wikipedia.org/wiki/Rfissa"
+    ]
+  },
+  {
+    "id": "morocco-kaab-el-ghazal",
+    "name": "Kaab el ghazal (gazelle horns)",
+    "local_name": "كعب الغزال",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Morocco",
+    "state": "Fes & Meknes",
+    "regions": [],
+    "description": "Crescent-shaped cookies of thin flour dough wrapped around almond paste flavoured with orange blossom water and cinnamon, and made with butter and sugar. They are popular across the Maghreb, especially during Ramadan and Eid al-Fitr, and are usually served with mint tea.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gazelle_ankles",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gazelle_ankles",
+      "https://fr.wikipedia.org/wiki/Corne_de_gazelle",
+      "https://en.wikipedia.org/wiki/Moroccan_cuisine"
+    ]
+  },
+  {
+    "id": "morocco-couscous-seven-vegetables",
+    "name": "Couscous with seven vegetables",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Morocco",
+    "state": "Casablanca & Rabat",
+    "regions": [],
+    "description": "Steamed semolina couscous piled with slow-cooked vegetables such as carrots, turnips, pumpkin, zucchini and cabbage, with chickpeas, in a broth of beef, lamb or chicken. Couscous is traditionally served on Fridays after midday prayers, and its know-how was added to UNESCO's Intangible Cultural Heritage list in 2020.",
+    "how_to_eat": "Shared from a large communal clay platter (gsaa).",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Couscous",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Couscous",
+      "https://fr.wikipedia.org/wiki/Cuisine_marocaine"
+    ]
+  },
+  {
+    "id": "morocco-chicken-pastilla",
+    "name": "Chicken pastilla",
+    "local_name": "بسطيلة",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Morocco",
+    "state": "Casablanca & Rabat",
+    "regions": [],
+    "description": "A pie of paper-thin warqa pastry layered with butter around shredded chicken (traditionally pigeon) cooked with onion, parsley and saffron, an egg-thickened sauce and a layer of fried almonds, sugar and cinnamon. It is served as a starter at special meals and weddings and is dusted with powdered sugar and cinnamon.",
+    "how_to_eat": "Served hot as a starter, before the main dish.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pastilla",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pastilla",
+      "https://fr.wikipedia.org/wiki/Pastilla",
+      "https://en.wikipedia.org/wiki/Moroccan_cuisine"
+    ]
+  },
+  {
+    "id": "morocco-harira",
+    "name": "Harira",
+    "local_name": "الحريرة",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Morocco",
+    "state": "Casablanca & Rabat",
+    "regions": [
+      "Rabat"
+    ],
+    "description": "A thick soup of tomatoes, lentils, chickpeas, fava beans, onions, rice or broken vermicelli and a little meat in a lamb stock, seasoned with cinnamon, ginger, saffron or turmeric, coriander and parsley, and thickened with flour. It is the traditional dish for breaking the fast during Ramadan and is also eaten in winter; in Rabat it is called bufertuna.",
+    "how_to_eat": "Eat with dates, hard-boiled eggs, chebakia or bread, and a squeeze of lemon.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Harira",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Harira",
+      "https://fr.wikipedia.org/wiki/Harira",
+      "https://en.wikipedia.org/wiki/Moroccan_cuisine"
+    ]
+  },
+  {
+    "id": "morocco-mrouzia",
+    "name": "Mrouzia",
+    "local_name": "المروزية",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Morocco",
+    "state": "Casablanca & Rabat",
+    "regions": [
+      "Rabat"
+    ],
+    "description": "A sweet-and-salty tagine of lamb or mutton with ras el hanout, honey, cinnamon, almonds and often raisins. It is a traditional dish of Eid al-Adha, often made with the lamb sacrificed for the festival; in Rabat it is called m'assal ('the honeyed one').",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mrouzia",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mrouzia",
+      "https://fr.wikipedia.org/wiki/Mrouzia"
+    ]
+  },
+  {
+    "id": "morocco-seffa",
+    "name": "Seffa",
+    "local_name": "السفة",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Morocco",
+    "state": "Casablanca & Rabat",
+    "regions": [],
+    "description": "Sweetened steamed couscous, vermicelli or rice with butter, cinnamon, toasted almonds and powdered sugar, sometimes served over chicken (seffa with chicken) or with raisins. It is eaten at the end of a meal, before dessert, and served at weddings and family gatherings.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Seffa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Seffa",
+      "https://fr.wikipedia.org/wiki/Seffa"
+    ]
+  },
+  {
+    "id": "morocco-zaalouk",
+    "name": "Zaalouk",
+    "local_name": "زعلوك",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Morocco",
+    "state": "Casablanca & Rabat",
+    "regions": [],
+    "description": "A cooked salad of grilled or fried aubergine mashed with tomatoes, garlic, cumin, paprika, coriander, parsley and olive oil. It is one of the cooked salads that open a typical Moroccan lunch.",
+    "how_to_eat": "Eat it warm or cold, scooped up with bread or alongside meat or fish.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zaalouk",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Zaalouk",
+      "https://fr.wikipedia.org/wiki/Zaalouk",
+      "https://en.wikipedia.org/wiki/Moroccan_cuisine"
+    ]
+  },
+  {
+    "id": "morocco-sellou",
+    "name": "Sellou",
+    "local_name": "سلّو",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Morocco",
+    "state": "Casablanca & Rabat",
+    "regions": [],
+    "description": "A crumbly sweet of roasted flour mixed with butter, honey, toasted almonds and sesame, spiced with anise and fennel. It is one of the important dishes of Ramadan and is also made for weddings and births.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sellou",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sellou",
+      "https://fr.wikipedia.org/wiki/Sellou"
+    ]
+  },
+  {
+    "id": "morocco-chicken-tagine-olives",
+    "name": "Chicken tagine with olives and preserved lemon",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Morocco",
+    "state": "Casablanca & Rabat",
+    "regions": [],
+    "description": "A slow-cooked stew of chicken with olives braised in the conical earthenware tagine pot, whose lid returns condensation so little water is needed. Preserved lemon (ḥamd mṣeyer) is a staple ingredient of Morocco's best-known tagine.",
+    "how_to_eat": "Served in the pot and eaten with bread.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tagine",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tagine",
+      "https://fr.wikipedia.org/wiki/Tajine",
+      "https://fr.wikipedia.org/wiki/Cuisine_marocaine"
+    ]
+  },
+  {
+    "id": "morocco-tetouan-pastilla",
+    "name": "Tétouan pastilla",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Morocco",
+    "state": "Tangier & the North",
+    "regions": [
+      "Tétouan"
+    ],
+    "description": "Tétouan's version of pastilla is made with chicken, eggs and lemon, and is more savoury than sweet, with more preserved lemon and no sugar or almonds. The city's cooking mixes Andalusi, Spanish, Ottoman and Algerian influences.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pastilla",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tétouan",
+      "https://fr.wikipedia.org/wiki/Tétouan",
+      "https://en.wikipedia.org/wiki/Pastilla"
+    ]
+  },
+  {
+    "id": "morocco-chefchaouen-goat-cheese",
+    "name": "Chefchaouen goat cheese",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Morocco",
+    "state": "Tangier & the North",
+    "regions": [
+      "Chefchaouen"
+    ],
+    "description": "Goat's-milk cheese from Chefchaouen, which holds a Moroccan protected geographical indication (IGP). Jben, the Maghreb's traditional cheese, is usually made from raw sheep or goat milk curdled with plant seeds such as cardoon or artichoke, and eaten fresh or dried.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Agriculture_au_Maroc",
+      "https://fr.wikipedia.org/wiki/Jben"
+    ]
+  },
+  {
+    "id": "morocco-bocadillo",
+    "name": "Bocadillo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Morocco",
+    "state": "Tangier & the North",
+    "regions": [],
+    "description": "A sandwich in Spanish style (bocadillo is Spanish for 'sandwich'), with varied fillings. Snack restaurants mainly in northern Morocco began serving bocadillos in the 1980s, and dairy shops (mhlaba) across the country sell them too.",
+    "how_to_eat": null,
+    "how_to_order": "Ask at snack bars or mhlaba dairy shops, which also sell juices, msemmen and harcha.",
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Moroccan_cuisine",
+      "https://en.wikipedia.org/wiki/Bocadillo"
+    ]
+  },
+  {
+    "id": "morocco-bissara",
+    "name": "Bissara",
+    "local_name": "بصارة",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Morocco",
+    "state": "Tangier & the North",
+    "regions": [],
+    "description": "A thick purée-soup of split dried fava beans with garlic, olive oil, cumin and hot pepper, called tamarakt in Tarifit (Rif Berber). In Morocco it is eaten in the colder months and sold in old medina squares and alleyways.",
+    "how_to_eat": "Served in a shallow bowl topped with olive oil, paprika and cumin; dip bread in it.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bissara",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bissara",
+      "https://fr.wikipedia.org/wiki/Bissara",
+      "https://fr.wikipedia.org/wiki/Cuisine_marocaine"
+    ]
+  },
+  {
+    "id": "morocco-briouat",
+    "name": "Sweet briouats",
+    "local_name": "بريوات",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Morocco",
+    "state": "Tangier & the North",
+    "regions": [
+      "Tétouan"
+    ],
+    "description": "Small triangles of paper-thin warqa pastry filled with almond (or peanut) paste with sugar, cinnamon and orange flower water, fried and dipped in warm honey; Tétouan also makes briouats of fresh cheese (jben) and honey. Sweet briouats are a common Ramadan and Eid treat; savoury versions are filled with meat, chicken or seafood.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts",
+      "peanuts",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Briouat",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Briouat",
+      "https://fr.wikipedia.org/wiki/Briouate",
+      "https://fr.wikipedia.org/wiki/Tétouan"
+    ]
+  },
+  {
+    "id": "morocco-mint-tea",
+    "name": "Mint tea (atay)",
+    "local_name": "أتاي",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Morocco",
+    "state": "Tangier & the North",
+    "regions": [
+      "Tangier"
+    ],
+    "description": "Gunpowder green tea brewed with fresh spearmint and sugar, poured from a height into small glasses so it froths; it is Morocco's most popular drink and offered to guests as hospitality. British tea cargoes reached Morocco via the ports of Mogador and Tangier in the 18th century; the tea is served very sweet especially in the north, while in the south saffron may be added.",
+    "how_to_eat": "Traditionally at least three glasses are drunk, each tasting different as the leaves steep.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maghrebi_mint_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Maghrebi_mint_tea",
+      "https://fr.wikipedia.org/wiki/Thé_à_la_menthe",
+      "https://fr.wikipedia.org/wiki/Cuisine_marocaine",
+      "https://en.wikipedia.org/wiki/Moroccan_cuisine"
+    ]
+  },
+  {
+    "id": "morocco-amlou",
+    "name": "Amlou",
+    "local_name": "أملو",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Morocco",
+    "state": "Souss, Atlas & Sahara",
+    "regions": [
+      "Souss"
+    ],
+    "description": "A spread of toasted almonds ground with argan oil and mixed with honey, a speciality of the Souss region and the Chleuh (Shilha) Berbers, sometimes nicknamed 'Berber Nutella'. Argan, the oil it is made from, holds a Moroccan IGP.",
+    "how_to_eat": "Eat it at breakfast or afternoon tea on barley, corn or wheat bread, pancakes or pastries.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amlu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Amlu",
+      "https://fr.wikipedia.org/wiki/Amlou",
+      "https://fr.wikipedia.org/wiki/Agriculture_au_Maroc"
+    ]
+  },
+  {
+    "id": "morocco-argan-oil-tagine",
+    "name": "Argan oil tagine",
+    "local_name": "ṭajin b zzit argan",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Morocco",
+    "state": "Souss, Atlas & Sahara",
+    "regions": [
+      "Souss"
+    ],
+    "description": "In the Souss region the Soussi people sometimes cook tagine with argan oil instead of olive oil, an ancestral Berber custom; in Soussi Berber it is called ṭajin n udi n wargan. Argan oil is also used in Morocco for dipping bread and drizzling on couscous.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Tajine",
+      "https://en.wikipedia.org/wiki/Argan_oil"
+    ]
+  },
+  {
+    "id": "morocco-medfouna",
+    "name": "Medfouna (Berber pizza)",
+    "local_name": "المدفونة",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Morocco",
+    "state": "Souss, Atlas & Sahara",
+    "regions": [
+      "Rissani",
+      "Middle Atlas"
+    ],
+    "description": "A round bread with two layers of dough enclosing a filling of spices, herbs, onions, minced lamb, beef or goat, cheese, coriander and a little fat, sometimes topped with sliced hard-boiled egg; the name means 'buried'. It comes from the Berbers of the southern oases: in the Middle Atlas it is baked over a wood fire, while in Tafilalet it is cooked under the desert sand, and in Drâa-Tafilalet it is also called 'rissani' after the town known for it.",
+    "how_to_eat": "Cut into eight and shared, with a glass of mint tea.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Medfouna",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Medfouna",
+      "https://fr.wikipedia.org/wiki/Medfouna_(Maroc)"
+    ]
+  },
+  {
+    "id": "morocco-majhoul-dates",
+    "name": "Majhoul dates of Tafilalet",
+    "local_name": "تمر المجهول",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Morocco",
+    "state": "Souss, Atlas & Sahara",
+    "regions": [
+      "Tafilalet",
+      "Boudenib"
+    ],
+    "description": "A large, soft, very sweet date variety with a caramel-honey flavour, originating from the Tafilalet oases of south-eastern Morocco; 'Dattes Majhoul de Tafilalet' hold a Moroccan IGP. They are eaten fresh or dried, plain or stuffed with almonds or walnuts, at weddings and to break the fast in Ramadan.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Medjool",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Mejhoul",
+      "https://en.wikipedia.org/wiki/Medjool",
+      "https://fr.wikipedia.org/wiki/Agriculture_au_Maroc"
+    ]
+  },
+  {
+    "id": "morocco-essaouira-sardine-tagine",
+    "name": "Sardine tagine",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Morocco",
+    "state": "Souss, Atlas & Sahara",
+    "regions": [
+      "Essaouira"
+    ],
+    "description": "Essaouira, Morocco's third-largest sardine port, cooks its omnipresent sardines into tagines, including a tagine of sardine meatballs (kefta) known locally as dolma. Sardines are very popular in Moroccan cooking and Morocco is the world's largest sardine exporter.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "MAD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Essaouira",
+      "https://fr.wikipedia.org/wiki/Cuisine_marocaine",
+      "https://en.wikipedia.org/wiki/Moroccan_cuisine"
+    ]
+  }
+]
