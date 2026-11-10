@@ -1,0 +1,1111 @@
+[
+  {
+    "id": "belgium-brussels-waffle",
+    "name": "Brussels waffle",
+    "local_name": "Gaufre de Bruxelles",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Belgium",
+    "state": "Brussels",
+    "regions": [
+      "Brussels"
+    ],
+    "description": "A large, rectangular, very light waffle made from a batter of wheat flour, yeast, sugar, milk, water, butter, salt and beaten egg whites, cooked in an iron with deep square pockets. The recipe dates from the 18th century, and the style was promoted abroad at the 1964 New York World's Fair.",
+    "how_to_eat": "Eaten hot, dusted with icing sugar, sometimes with whipped cream.",
+    "how_to_order": "In Belgium most waffles are sold warm by street vendors.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Gaufre_de_Bruxelles",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Gaufre_de_Bruxelles",
+      "https://nl.wikipedia.org/wiki/Brusselse_wafel",
+      "https://en.wikipedia.org/wiki/Waffle"
+    ]
+  },
+  {
+    "id": "belgium-belgian-fries",
+    "name": "Belgian fries",
+    "local_name": "Frites / frieten",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Belgium",
+    "state": "Brussels",
+    "regions": [],
+    "description": "Potato sticks fried twice, so they stay moist inside and crisp outside; bintje potatoes are generally preferred. In Belgium beef fat is the traditional frying fat. Fries are sold at friteries (frituur, frietkot), which both the Flemish Region and the French Community of Belgium recognise as intangible cultural heritage.",
+    "how_to_eat": "Traditionally served in a paper cone with mayonnaise or another sauce on top.",
+    "how_to_order": "Ask at a friterie or frietkot for a cone of fries and choose a sauce.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/French_fries",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/French_fries",
+      "https://fr.wikipedia.org/wiki/Frite",
+      "https://en.wikipedia.org/wiki/Moules-frites",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-stoemp",
+    "name": "Stoemp",
+    "local_name": null,
+    "pronunciation": "stoomp",
+    "category": "meal",
+    "country": "Belgium",
+    "state": "Brussels",
+    "regions": [],
+    "description": "Mashed potatoes mixed with one or more vegetables such as carrots, leeks, spinach, peas or cabbage, seasoned with thyme, nutmeg or bay leaf, and sometimes with cream, bacon or onion. The name comes from Brabantian dialect.",
+    "how_to_eat": "Traditionally served with fried boudin, sausage, bacon or fried eggs.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stoemp",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Stoemp",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-chicons-au-gratin",
+    "name": "Chicons au gratin",
+    "local_name": "Gegratineerd witloof",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Belgium",
+    "state": "Brussels",
+    "regions": [],
+    "description": "Braised Belgian endives wrapped in slices of ham, covered with béchamel or Mornay sauce and grated cheese, then baked until browned. The endive itself was developed in Belgium in the 1850s, by one account at the Brussels Botanical Garden.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Endive_au_jambon",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Endive_au_jambon",
+      "https://en.wikipedia.org/wiki/Belgian_endive",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-gueuze",
+    "name": "Gueuze",
+    "local_name": "Geuze",
+    "pronunciation": "GUHZ",
+    "category": "drink",
+    "country": "Belgium",
+    "state": "Brussels",
+    "regions": [
+      "Brussels",
+      "Pajottenland"
+    ],
+    "description": "A beer made by blending young and old lambics and bottling the blend for a second fermentation, which gives a dry, sour, highly carbonated drink sometimes called \"Brussels Champagne\". It is traditionally produced in Brussels and the Pajottenland. Gueuze, including the unsweetened \"Oude Gueuze\", is registered as an EU Traditional Speciality Guaranteed.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gueuze",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gueuze",
+      "https://fr.wikipedia.org/wiki/Gueuze",
+      "https://en.wikipedia.org/wiki/Lambic"
+    ]
+  },
+  {
+    "id": "belgium-kriek",
+    "name": "Kriek lambic",
+    "local_name": "Kriek",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Belgium",
+    "state": "Brussels",
+    "regions": [
+      "Brussels"
+    ],
+    "description": "Lambic beer refermented with sour Morello cherries, traditionally the Schaarbeek variety from around Brussels; traditional versions are dry and sour rather than sweet. Both \"Oude kriek\" and \"kriek\" are registered as EU Traditional Specialities Guaranteed.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kriek_lambic",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kriek_lambic",
+      "https://nl.wikipedia.org/wiki/Kriek_(bier)",
+      "https://en.wikipedia.org/wiki/Lambic"
+    ]
+  },
+  {
+    "id": "belgium-pralines",
+    "name": "Belgian pralines",
+    "local_name": "Pralines",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Belgium",
+    "state": "Brussels",
+    "regions": [],
+    "description": "Chocolates with a chocolate shell and a softer filling such as praliné, nuts, marzipan, caramel, coffee or liqueur. Belgian pralines were first introduced by Jean Neuhaus II in 1912, and the ballotin box they are sold in was designed in 1915.",
+    "how_to_eat": null,
+    "how_to_order": "Usually sold in gift boxes from chocolate shops.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Belgian_chocolate",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Belgian_chocolate",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-pistolet",
+    "name": "Pistolet",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Belgium",
+    "state": "Brussels",
+    "regions": [
+      "Brussels"
+    ],
+    "description": "A small round Belgian bread roll with a hard, crisp crust and soft inside, made from dough that rises for 12 hours. It is filled with items such as cervelas, Ardennes ham, Herve cheese, grey shrimp or Ghent mustard. Only a few Brussels bakers still make it the traditional way.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pistolet_(bread)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pistolet_(bread)"
+    ]
+  },
+  {
+    "id": "belgium-moules-frites",
+    "name": "Moules-frites",
+    "local_name": "Mosselen-friet",
+    "pronunciation": "mool-FREET",
+    "category": "meal",
+    "country": "Belgium",
+    "state": "West & East Flanders",
+    "regions": [],
+    "description": "Mussels cooked with flavourings such as white wine, shallots, celery, leeks or butter, served with fries. It is regarded as the national dish of Belgium and probably began by combining mussels from the Flemish coast with fried potatoes.",
+    "how_to_eat": null,
+    "how_to_order": "Available in most restaurants in season; common versions include marinière, nature and à la crème.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Moules-frites",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Moules-frites",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-waterzooi",
+    "name": "Waterzooi",
+    "local_name": "Gentse waterzooi",
+    "pronunciation": "VAH-ter-zoy",
+    "category": "meal",
+    "country": "Belgium",
+    "state": "West & East Flanders",
+    "regions": [
+      "Ghent"
+    ],
+    "description": "A stew-like soup from Ghent with a base of egg yolk, cream and thickened vegetable broth, containing chicken or fish with carrots, onions, celery, leeks, potatoes and herbs. The original was made with fish; chicken waterzooi is more common today.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Waterzooi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Waterzooi",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-cuberdon",
+    "name": "Cuberdon",
+    "local_name": "Gentse neus",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Belgium",
+    "state": "West & East Flanders",
+    "regions": [
+      "Ghent"
+    ],
+    "description": "A cone-shaped purple sweet with a firm gum arabic crust and a soft, raspberry-flavoured centre that also contains gelatine. It keeps only about three weeks, so it is rarely exported, and is recognised by the Flemish agency VLAM as a regional product.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cuberdon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuberdon",
+      "https://fr.wikipedia.org/wiki/Cuberdon"
+    ]
+  },
+  {
+    "id": "belgium-garnaalkroketten",
+    "name": "Shrimp croquettes",
+    "local_name": "Garnaalkroketten",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Belgium",
+    "state": "West & East Flanders",
+    "regions": [],
+    "description": "Breaded croquettes with a thick, creamy béchamel filling of North Sea grey shrimp, flavoured with lemon juice and nutmeg. They became popular in hotels along the Flemish coast after the Second World War; in 2015 about 90 percent of world production was eaten in Belgium.",
+    "how_to_eat": "Often served with a slice of lemon and fried parsley, as a starter or snack.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "dairy",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://nl.wikipedia.org/wiki/Garnaalkroket",
+    "source_urls": [
+      "https://nl.wikipedia.org/wiki/Garnaalkroket",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-tomate-crevettes",
+    "name": "Tomato with grey shrimp",
+    "local_name": "Tomaat-garnaal",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Belgium",
+    "state": "West & East Flanders",
+    "regions": [],
+    "description": "A hollowed-out tomato filled with peeled grey shrimp and mayonnaise or cocktail sauce. It became a brasserie classic once shrimp could be shipped inland from the coast in the late 19th century.",
+    "how_to_eat": "Usually served as a starter.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://nl.wikipedia.org/wiki/Tomaat-garnaal",
+    "source_urls": [
+      "https://nl.wikipedia.org/wiki/Tomaat-garnaal",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-flemish-stew",
+    "name": "Flemish stew",
+    "local_name": "Stoofvlees / carbonade flamande",
+    "pronunciation": "STOHF-flays",
+    "category": "meal",
+    "country": "Belgium",
+    "state": "West & East Flanders",
+    "regions": [],
+    "description": "Beef slowly stewed with beer, onions and mustard, with the sauce sometimes thickened with bread; in East and West Flanders dried prunes are often added. It is one of Belgium's national dishes, and the beer used varies by region.",
+    "how_to_eat": "Often served with fries, boiled potatoes, apple sauce or stoemp.",
+    "how_to_order": "Widely available in restaurants and friteries.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Flemish_stew",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Flemish_stew",
+      "https://nl.wikipedia.org/wiki/Vlaams_Stoofvlees",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-mattentaart",
+    "name": "Geraardsbergse mattentaart",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Belgium",
+    "state": "West & East Flanders",
+    "regions": [
+      "Geraardsbergen"
+    ],
+    "description": "A tart of puff pastry filled with \"matten\" (curds made from whole milk and buttermilk), eggs and almonds. In 2007 it became the first Flemish product to receive EU Protected Geographical Indication, for Geraardsbergen and Lierde.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://nl.wikipedia.org/wiki/Mattentaart",
+    "source_urls": [
+      "https://nl.wikipedia.org/wiki/Mattentaart"
+    ]
+  },
+  {
+    "id": "belgium-babelutte",
+    "name": "Babelutte",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Belgium",
+    "state": "West & East Flanders",
+    "regions": [
+      "Veurne"
+    ],
+    "description": "A long toffee flavoured with honey or vergeoise (brown sugar) from Veurne in West Flanders, closely related to butterscotch. It dates from the 19th century, when a couple made it and sold it to tourists on Belgian beaches.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Babelutte",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Babelutte",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-antwerp-hands",
+    "name": "Antwerp hands",
+    "local_name": "Antwerpse handjes",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Belgium",
+    "state": "Antwerp, Limburg & Flemish Brabant",
+    "regions": [
+      "Antwerp"
+    ],
+    "description": "Hand-shaped biscuits made from butter, sugar, eggs, flour and flaked almonds, referring to the legend of Brabo throwing the giant Antigoon's hand into the Scheldt. The design won a 1934 competition of Antwerp's master pastry chefs; chocolate versions also exist.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Antwerp_hands",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Antwerp_hands",
+      "https://nl.wikipedia.org/wiki/Antwerpse_handjes"
+    ]
+  },
+  {
+    "id": "belgium-liers-vlaaike",
+    "name": "Liers vlaaike",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Belgium",
+    "state": "Antwerp, Limburg & Flemish Brabant",
+    "regions": [
+      "Lier"
+    ],
+    "description": "A small spiced pastry made with candi syrup and four spices to a closely kept recipe, and one of the symbols of the city of Lier. It received EU Protected Geographical Indication in 2013.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://nl.wikipedia.org/wiki/Liers_vlaaike",
+    "source_urls": [
+      "https://nl.wikipedia.org/wiki/Liers_vlaaike"
+    ]
+  },
+  {
+    "id": "belgium-hasseltse-speculaas",
+    "name": "Hasseltse speculaas",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Belgium",
+    "state": "Antwerp, Limburg & Flemish Brabant",
+    "regions": [
+      "Hasselt"
+    ],
+    "description": "A speculaas biscuit from Hasselt that is thicker, softer and less spiced than ordinary speculaas. The oldest mention dates from 1830; it was first baked only around Saint Nicholas and is now sold all year.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://nl.wikipedia.org/wiki/Hasseltse_speculaas",
+    "source_urls": [
+      "https://nl.wikipedia.org/wiki/Hasseltse_speculaas",
+      "https://en.wikipedia.org/wiki/Speculaas"
+    ]
+  },
+  {
+    "id": "belgium-paling-in-t-groen",
+    "name": "Eel in green sauce",
+    "local_name": "Paling in 't groen",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Belgium",
+    "state": "Antwerp, Limburg & Flemish Brabant",
+    "regions": [
+      "Antwerp"
+    ],
+    "description": "Pieces of freshwater eel simmered with a large mix of chopped fresh herbs such as chervil, sorrel, parsley, sage and mint, plus shallot, butter and cornflour. It is mainly a dish of the Scheldt area between Dendermonde and Antwerp.",
+    "how_to_eat": "Usually eaten hot with fries or bread, with lemon squeezed over.",
+    "how_to_order": "Sold in specialty restaurants, and ready to cook at some fishmongers and market stalls.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paling_in_%27t_groen",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Paling_in_%27t_groen",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-elixir-d-anvers",
+    "name": "Elixir d'Anvers",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Belgium",
+    "state": "Antwerp, Limburg & Flemish Brabant",
+    "regions": [
+      "Antwerp"
+    ],
+    "description": "A herbal liqueur made by F.X. de Beukelaer since 1863. Thirty-two plants and herbs are macerated in alcohol and sugar and then aged in oak casks, a process of five months.",
+    "how_to_eat": "Served as an aperitif or digestif.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89lixir_d%27Anvers",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/%C3%89lixir_d%27Anvers",
+      "https://en.wikipedia.org/wiki/Antwerp_hands"
+    ]
+  },
+  {
+    "id": "belgium-de-koninck",
+    "name": "De Koninck (bolleke)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Belgium",
+    "state": "Antwerp, Limburg & Flemish Brabant",
+    "regions": [
+      "Antwerp"
+    ],
+    "description": "A pale ale brewed in Antwerp by the De Koninck brewery, founded in 1833. The round glass it is served in is called a bolleke, and the word is also used for the beer itself. Antwerp's carbonade is typically made with De Koninck.",
+    "how_to_eat": null,
+    "how_to_order": "Order \"a bolleke\" in an Antwerp bar.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/De_Koninck_Brewery",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/De_Koninck_Brewery",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-liege-waffle",
+    "name": "Liège waffle",
+    "local_name": "Gaufre de Liège",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Belgium",
+    "state": "Liège & Northern Wallonia",
+    "regions": [
+      "Liège"
+    ],
+    "description": "A small, rounded waffle made from a dense brioche dough with pearl sugar, which caramelises during cooking. It is traditionally eaten plain, hot or cold, and is said to have been created in the 18th century by the chef of the Prince-Bishop of Liège.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Li%C3%A8ge_waffle",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Li%C3%A8ge_waffle",
+      "https://en.wikipedia.org/wiki/Waffle"
+    ]
+  },
+  {
+    "id": "belgium-boulets-liegeois",
+    "name": "Boulets à la liégeoise",
+    "local_name": "Luikse balletjes",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Belgium",
+    "state": "Liège & Northern Wallonia",
+    "regions": [
+      "Liège"
+    ],
+    "description": "One or two large meatballs of pork with veal or beef, breadcrumbs, onion and parsley, browned and then simmered in a sweet-sour \"sauce lapin\" of onions, vinegar, sirop de Liège, brown sugar and sometimes currants. It is served at most brasseries and friteries in Liège.",
+    "how_to_eat": "Traditionally served with fries and mayonnaise (\"boulets-frites\"), salad or apple sauce.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Boulet_%C3%A0_la_li%C3%A9geoise",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Boulet_%C3%A0_la_li%C3%A9geoise",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-salade-liegeoise",
+    "name": "Salade liégeoise",
+    "local_name": "Luikse salade",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Belgium",
+    "state": "Liège & Northern Wallonia",
+    "regions": [
+      "Liège"
+    ],
+    "description": "A warm salad of green beans, firm potatoes and smoked or salted bacon pieces, finished with a dash of vinegar. It is a winter dish from the Liège region, often eaten as a main course.",
+    "how_to_eat": "Sometimes served with sausages, slices of bacon or on frisée lettuce.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Salade_li%C3%A9geoise",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Salade_li%C3%A9geoise",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-sirop-de-liege",
+    "name": "Sirop de Liège",
+    "local_name": "Luikse siroop",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Belgium",
+    "state": "Liège & Northern Wallonia",
+    "regions": [
+      "Pays de Herve"
+    ],
+    "description": "A dark, jelly-like spread made by slowly reducing apples and pears, often with dates, for many hours; 6-8 kg of fruit give about 1 kg of syrup. Producers are now concentrated in the Pays de Herve. It is also used in sauces such as the one for boulets à la liégeoise.",
+    "how_to_eat": "Spread on a tartine, often with Herve cheese.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sirop_de_Li%C3%A8ge",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sirop_de_Li%C3%A8ge",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-peket",
+    "name": "Peket",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Belgium",
+    "state": "Liège & Northern Wallonia",
+    "regions": [
+      "Liège",
+      "Namur"
+    ],
+    "description": "A juniper-flavoured spirit, the Walloon name for jenever; the word comes from the Walloon for juniper berry. It is drunk at the 15 August celebrations in Liège's Outremeuse quarter and at the Walloon festivities in Namur.",
+    "how_to_eat": "Often accompanied by smoked fish or strong cheese such as Herve.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peket",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Peket",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-tarte-au-riz",
+    "name": "Tarte au riz",
+    "local_name": "Rijstevlaai",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Belgium",
+    "state": "Liège & Northern Wallonia",
+    "regions": [
+      "Verviers"
+    ],
+    "description": "An open tart filled with rice pudding, native to Verviers and popular across eastern Belgium. Walloon versions add only eggs to the filling, while Flemish versions add custard; recipes date back to at least 1604.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rijstevlaai",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rijstevlaai",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-herve-cheese",
+    "name": "Herve cheese",
+    "local_name": "Fromage de Herve",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Belgium",
+    "state": "Liège & Northern Wallonia",
+    "regions": [
+      "Herve"
+    ],
+    "description": "A soft, washed-rind cheese of raw cow's milk from the Pays de Herve, with a reddish-brown rind and a flavour that deepens over about three months of ripening. It has been made since at least the 13th century and holds EU Protected Designation of Origin, the only Belgian cheese with that status.",
+    "how_to_eat": null,
+    "how_to_order": "Sold as \"Herve doux\" (mild) or \"Herve piquant\" (strong).",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Fromage_de_Herve",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Fromage_de_Herve",
+      "https://en.wikipedia.org/wiki/Limburger"
+    ]
+  },
+  {
+    "id": "belgium-tarte-al-djote",
+    "name": "Tarte al djote",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Belgium",
+    "state": "Liège & Northern Wallonia",
+    "regions": [
+      "Nivelles"
+    ],
+    "description": "A savoury tart from Nivelles filled with Swiss chard, low-fat farm fromage blanc (boulette) and butter. It is first mentioned in 1218, and a local brotherhood founded in 1980 rates the tarts of each bakery every year.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Tarte_al_d%27jote",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Tarte_al_d%27jote"
+    ]
+  },
+  {
+    "id": "belgium-jambon-d-ardenne",
+    "name": "Ardennes ham",
+    "local_name": "Jambon d'Ardenne",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Belgium",
+    "state": "Ardennes & Southern Wallonia",
+    "regions": [
+      "Luxembourg province"
+    ],
+    "description": "Ham from a pork leg that is dry-salted or brined, matured in a cool place and optionally smoked over wood, made in the province of Luxembourg and neighbouring areas. It has held EU Protected Geographical Indication since 1996.",
+    "how_to_eat": "Eaten with bread or raw vegetables, with melon, or in an Ardennes ham omelette.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Jambon_d%27Ardenne",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Jambon_d%27Ardenne",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-pate-gaumais",
+    "name": "Pâté gaumais",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Belgium",
+    "state": "Ardennes & Southern Wallonia",
+    "regions": [
+      "Gaume"
+    ],
+    "description": "A round pie of leavened dough filled with pieces of pork marinated in wine or vinegar with spices and herbs, from the Gaume in southern Belgium. It must be at least 15 cm across and 30 percent meat, and has EU Protected Geographical Indication.",
+    "how_to_eat": "Eaten hot or cold.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/P%C3%A2t%C3%A9_gaumais",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/P%C3%A2t%C3%A9_gaumais"
+    ]
+  },
+  {
+    "id": "belgium-escaveche",
+    "name": "Escavèche de Chimay",
+    "local_name": "Escavèche",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Belgium",
+    "state": "Ardennes & Southern Wallonia",
+    "regions": [
+      "Chimay"
+    ],
+    "description": "Cooked fish, originally eel and also trout or pike, preserved cold in a vinegar sauce with onions that sets to a jelly. It is typical of southern Hainaut and the Namur area around Chimay, and \"escavèche de Chimay\" received EU Protected Geographical Indication in 2021.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Escav%C3%A8che",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Escav%C3%A8che"
+    ]
+  },
+  {
+    "id": "belgium-maitrank",
+    "name": "Maitrank",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Belgium",
+    "state": "Ardennes & Southern Wallonia",
+    "regions": [
+      "Arlon"
+    ],
+    "description": "A seasonal aromatised wine from the Arlon area, made by steeping sweet woodruff flowers in dry white Moselle wine with sugar, sliced oranges and cognac. Arlon holds Maitrank festivities each May.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Maitrank",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Maitrank",
+      "https://en.wikipedia.org/wiki/May_wine"
+    ]
+  },
+  {
+    "id": "belgium-orval",
+    "name": "Orval",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Belgium",
+    "state": "Ardennes & Southern Wallonia",
+    "regions": [
+      "Gaume"
+    ],
+    "description": "A Trappist beer brewed at the Abbey of Notre-Dame d'Orval in the Gaume since 1931, dry-hopped and matured with Brettanomyces yeast, around 6.2% alcohol. It is sold only in a skittle-shaped 33 cl bottle, and profits go to charity and the region.",
+    "how_to_eat": null,
+    "how_to_order": "Orval Vert, a lighter version, is only on tap at the café near the abbey.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Orval_Brewery",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Orval_Brewery"
+    ]
+  },
+  {
+    "id": "belgium-chimay",
+    "name": "Chimay",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Belgium",
+    "state": "Ardennes & Southern Wallonia",
+    "regions": [
+      "Chimay"
+    ],
+    "description": "Trappist ales brewed at Scourmont Abbey near Chimay since 1862: Rouge (7% dubbel), Bleue (9% dark ale), Triple (8%) and Chimay 150. The abbey also makes cheese, including one washed with beer.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chimay_Brewery",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chimay_Brewery",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  },
+  {
+    "id": "belgium-couque-de-dinant",
+    "name": "Couque de Dinant",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Belgium",
+    "state": "Ardennes & Southern Wallonia",
+    "regions": [
+      "Dinant"
+    ],
+    "description": "A very hard biscuit from Dinant made only of wheat flour and honey in equal weights, pressed into carved wooden moulds and baked at about 300 °C. It keeps indefinitely and is eaten most around Saint Nicholas Day.",
+    "how_to_eat": "Broken into pieces and sucked, let melt or dipped in coffee rather than bitten whole.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Couque_de_Dinant",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Couque_de_Dinant",
+      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+    ]
+  }
+]

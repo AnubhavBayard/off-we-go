@@ -1,0 +1,1041 @@
+[
+  {
+    "id": "sweden-swedish-meatballs",
+    "name": "Swedish meatballs",
+    "local_name": "Köttbullar",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Stockholm & Central Sweden",
+    "regions": [],
+    "description": "Small fried balls, traditionally 2-4 cm across, of ground beef and pork (or beef alone) mixed with beaten egg, breadcrumbs soaked in milk and onion, seasoned with salt and white pepper or allspice. They became common in the mid-1800s with the arrival of meat grinders and are classed as husmanskost, traditional everyday Swedish food.",
+    "how_to_eat": "Served with gravy, boiled or mashed potatoes, lingonberry jam and sometimes pickled cucumber.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Meatball",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Meatball",
+      "https://sv.wikipedia.org/wiki/K%C3%B6ttbullar",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ]
+  },
+  {
+    "id": "sweden-toast-skagen",
+    "name": "Toast Skagen",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Stockholm & Central Sweden",
+    "regions": [
+      "Stockholm"
+    ],
+    "description": "Toasted bread topped with skagenröra, a prawn salad typically made with mayonnaise, sour cream and dill, sometimes Dijon mustard, and garnished with roe. It was created by the Stockholm restaurateur and chef Tore Wretman, who introduced it in the 1950s; the name comes from Skagen in Denmark.",
+    "how_to_eat": "Eaten as a starter.",
+    "how_to_order": "Found on restaurant menus as a starter, especially in spring, summer and autumn.",
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "shellfish",
+      "egg",
+      "dairy",
+      "fish",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Toast_Skagen",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Toast_Skagen",
+      "https://sv.wikipedia.org/wiki/Skagenr%C3%B6ra"
+    ]
+  },
+  {
+    "id": "sweden-semla",
+    "name": "Semla",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Sweden",
+    "state": "Stockholm & Central Sweden",
+    "regions": [],
+    "description": "A cardamom-spiced wheat bun with its top cut off, filled with a mix of milk and almond paste and topped with whipped cream; the top is put back as a lid and dusted with powdered sugar. It is associated with Lent and especially Shrove Tuesday, and is also called fettisdagsbulle; in Skåne it is known as fastlagsbulle.",
+    "how_to_eat": "Eaten on its own with coffee or tea, or in a bowl of hot milk (hetvägg).",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Semla",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Semla"
+    ]
+  },
+  {
+    "id": "sweden-kanelbulle",
+    "name": "Cinnamon bun",
+    "local_name": "Kanelbulle",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Sweden",
+    "state": "Stockholm & Central Sweden",
+    "regions": [],
+    "description": "A wheat-dough bun filled with butter or margarine, sugar and cinnamon, usually topped with pearl sugar; Swedish dough typically also contains cardamom. The modern Swedish kanelbulle was likely created in the 1920s, after the First World War, and 4 October has been promoted as Cinnamon Bun Day since 1999.",
+    "how_to_eat": "Traditionally eaten at fika, an afternoon coffee break with friends, family or coworkers.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cinnamon_roll",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cinnamon_roll",
+      "https://sv.wikipedia.org/wiki/Kanelbulle"
+    ]
+  },
+  {
+    "id": "sweden-princess-cake",
+    "name": "Princess cake",
+    "local_name": "Prinsesstårta",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Sweden",
+    "state": "Stockholm & Central Sweden",
+    "regions": [],
+    "description": "A layer cake of sponge cake, pastry cream and a thick dome of whipped cream, covered in rolled marzipan that is usually green and often decorated with a pink marzipan rose; modern versions often add jam or raspberries. The recipe first appeared in the 1948 cookbook Prinsessornas kokbok by Jenny Åkerström, teacher of the daughters of Prince Carl.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Princess_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Princess_cake"
+    ]
+  },
+  {
+    "id": "sweden-janssons-temptation",
+    "name": "Jansson's temptation",
+    "local_name": "Janssons frestelse",
+    "pronunciation": "YAHN-sons FRESS-tel-seh",
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Stockholm & Central Sweden",
+    "regions": [],
+    "description": "A casserole of thin potato strips layered with pickled sprats (sold in Sweden as ansjovis) and chopped onions, covered with cream and baked for about an hour. It is commonly part of the Christmas julbord and the Easter buffet, and is also served as a late-night dish at parties.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jansson%27s_temptation",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jansson%27s_temptation"
+    ]
+  },
+  {
+    "id": "sweden-falukorv",
+    "name": "Falukorv",
+    "local_name": "Falukorv",
+    "pronunciation": "FAH-loo-korv",
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Stockholm & Central Sweden",
+    "regions": [
+      "Falun"
+    ],
+    "description": "A pre-cooked, curved sausage from Falun made of smoked pork and beef or veal blended with potato starch flour, onion, salt and mild spices. Its history goes back to the Falun copper mine in the 16th and 17th centuries, and it holds EU Traditional Speciality Guaranteed (TSG) status.",
+    "how_to_eat": "Can be eaten cold, or used as an ingredient in many everyday dishes.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Falukorv",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Falukorv",
+      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+    ]
+  },
+  {
+    "id": "sweden-upplandskubb",
+    "name": "Upplandskubb",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Sweden",
+    "state": "Stockholm & Central Sweden",
+    "regions": [
+      "Uppland"
+    ],
+    "description": "A moist rye and wheat bread from the province of Uppland, fermented for three hours or more and baked for over four hours in a bain-marie, so it forms no crust. It is an EU Protected Designation of Origin product and on Slow Food's Ark of Taste.",
+    "how_to_eat": "Cut into quarter-circle slices and served with cured herring, lard or onion, commonly at Christmas.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Upplandskubb",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Upplandskubb",
+      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+    ]
+  },
+  {
+    "id": "sweden-spettekaka",
+    "name": "Spettekaka",
+    "local_name": "Skånsk spettkaka",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Sweden",
+    "state": "Skåne",
+    "regions": [],
+    "description": "A tall, hollow, cone-shaped cake made by slowly drizzling a batter of mainly eggs, potato starch flour and sugar onto a rotating spit over a fire or gas flame, which gives a dry, meringue-like texture. It is decorated with icing, and Skånsk spettkaka has EU Protected Geographical Indication status, so it must be made in Skåne.",
+    "how_to_eat": "Pieces are sawn off with a hacksaw blade and served with dark coffee, vanilla ice cream and port wine.",
+    "how_to_order": "Kept sealed in plastic until the moment it is eaten so it stays crisp.",
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spettekaka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Spettekaka",
+      "https://sv.wikipedia.org/wiki/Spettekaka",
+      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+    ]
+  },
+  {
+    "id": "sweden-aggakaka",
+    "name": "Äggakaka",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Skåne",
+    "regions": [],
+    "description": "A thick Scanian egg cake made from a pancake-like batter with extra eggs and milk, fried in butter (sometimes with pork fat) and turned over when almost set. It was once made for farmworkers because it was easy to wrap and eat in the fields.",
+    "how_to_eat": "Always served with fried smoked pork and lingonberries, sometimes with red cabbage or beetroot.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%84ggakaka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/%C3%84ggakaka",
+      "https://sv.wikipedia.org/wiki/%C3%84ggakaka"
+    ]
+  },
+  {
+    "id": "sweden-svartsoppa",
+    "name": "Svartsoppa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Skåne",
+    "regions": [],
+    "description": "A \"black soup\" made mainly from goose blood (sometimes pig blood), eaten traditionally and mostly in Skåne. It is the starter of the Mårten gås dinner on 10 November, Saint Martin's Eve.",
+    "how_to_eat": "Eaten as the first course before the roast goose.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Svartsoppa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Svartsoppa",
+      "https://sv.wikipedia.org/wiki/M%C3%A5rtensafton"
+    ]
+  },
+  {
+    "id": "sweden-marten-gas",
+    "name": "Mårten goose dinner",
+    "local_name": "Mårten gås",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Skåne",
+    "regions": [],
+    "description": "Roast goose eaten on Mårtensafton, 10 November, a feast once kept across Sweden but today mainly associated with Skåne. The classic menu of black soup, then the goose, then Scanian apple cake was created in Stockholm in the 1850s and later became popular in Skåne.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://sv.wikipedia.org/wiki/M%C3%A5rtensafton",
+      "https://en.wikipedia.org/wiki/Svartsoppa"
+    ]
+  },
+  {
+    "id": "sweden-alagille",
+    "name": "Eel feast",
+    "local_name": "Ålagille",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Skåne",
+    "regions": [
+      "Åhus",
+      "Simrishamn"
+    ],
+    "description": "A feast of eel dishes rooted in the gatherings of Scanian eel fishermen. A true ålagille has at least four kinds of eel, such as eel soup, smoked, fried or boiled eel, and is held in fishing huts on the 'Eel Coast' between Åhus and Sandhammaren.",
+    "how_to_eat": "Washed down with homemade bäsk.",
+    "how_to_order": "Several eel fishermen host eel feasts from mid-August to late November.",
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://sv.wikipedia.org/wiki/%C3%85lagille",
+    "source_urls": [
+      "https://sv.wikipedia.org/wiki/%C3%85lagille"
+    ]
+  },
+  {
+    "id": "sweden-skansk-kalops",
+    "name": "Scanian kalops",
+    "local_name": "Skånsk kalops",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Skåne",
+    "regions": [],
+    "description": "A Swedish beef stew with carrots, onion, allspice, bay leaf and other spices; the version with carrots is traditionally called Skånsk kalops. It was first described in Cajsa Warg's cookbook of 1755, and the name comes from the English 'collops'.",
+    "how_to_eat": "Often served with boiled potatoes and pickled beetroot.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://sv.wikipedia.org/wiki/Kalops",
+    "source_urls": [
+      "https://sv.wikipedia.org/wiki/Kalops"
+    ]
+  },
+  {
+    "id": "sweden-raksmorgas",
+    "name": "Shrimp sandwich",
+    "local_name": "Räksmörgås",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sweden",
+    "state": "West Coast",
+    "regions": [],
+    "description": "An open sandwich piled with shrimp, often with mayonnaise, egg, roe and lemon, typically so high that the bread is hard to see. It arrived in the 1950s through the Öresund ferries, which served Danish smørrebrød with shrimp. Shrimp and lobster are specialties of the Skagerrak coast.",
+    "how_to_eat": "Usually eaten with a knife and fork.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "shellfish",
+      "egg",
+      "fish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://sv.wikipedia.org/wiki/R%C3%A4ksm%C3%B6rg%C3%A5s",
+    "source_urls": [
+      "https://sv.wikipedia.org/wiki/R%C3%A4ksm%C3%B6rg%C3%A5s",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ]
+  },
+  {
+    "id": "sweden-halv-special",
+    "name": "Halv special",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Sweden",
+    "state": "West Coast",
+    "regions": [
+      "Gothenburg"
+    ],
+    "description": "A hot dog bun with one sausage topped with mashed potato; a hel special has two sausages. It is said to have started in 1942 at a sausage kiosk on Hisingen in Gothenburg, when two young footballers asked for sausage and bread with mash on top.",
+    "how_to_eat": null,
+    "how_to_order": "Order at a gatukök (street kiosk); the drink Pucko has traditionally been served with it.",
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://sv.wikipedia.org/wiki/Hel_special",
+    "source_urls": [
+      "https://sv.wikipedia.org/wiki/Hel_special"
+    ]
+  },
+  {
+    "id": "sweden-inlagd-sill",
+    "name": "Pickled herring",
+    "local_name": "Inlagd sill",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Sweden",
+    "state": "West Coast",
+    "regions": [
+      "Bohuslän"
+    ],
+    "description": "Herring preserved in a brine of salt, vinegar and spices, in variants such as onion, mustard, garlic and sherry herring. It is eaten especially at Christmas, Easter and Midsummer, and Bohuslän, where herring fishing was once economically important, still has many herring canneries.",
+    "how_to_eat": "Often served with crème fraîche or sour cream.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://sv.wikipedia.org/wiki/Inlagd_sill",
+    "source_urls": [
+      "https://sv.wikipedia.org/wiki/Inlagd_sill",
+      "https://en.wikipedia.org/wiki/Swedish_cuisine"
+    ]
+  },
+  {
+    "id": "sweden-swedish-punsch",
+    "name": "Swedish punsch",
+    "local_name": "Punsch",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Sweden",
+    "state": "West Coast",
+    "regions": [
+      "Gothenburg"
+    ],
+    "description": "A liqueur of arrack (or brandy or rum) mixed with arrack tea, sugar and water, usually about 25% alcohol and 30% sugar. Arrack arrived in Gothenburg with the Swedish East India Company in 1733, and Svensk Punsch has had EU Protected Geographical Indication status since 2008.",
+    "how_to_eat": "Drunk warmed or chilled.",
+    "how_to_order": "Since the late 19th century it is usually bought as a bottled liqueur.",
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Punsch",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Punsch",
+      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+    ]
+  },
+  {
+    "id": "sweden-grebbestad-oysters",
+    "name": "Grebbestad oysters",
+    "local_name": "Grebbestadostron",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Sweden",
+    "state": "West Coast",
+    "regions": [
+      "Grebbestad"
+    ],
+    "description": "Wild European oysters (Ostrea edulis) gathered by divers or wading fishermen in the skerries around Grebbestad, which supplies about 90% of Sweden's oysters. The catch is limited to 50,000-60,000 a year, and the oysters have EU Protected Designation of Origin status since 2023.",
+    "how_to_eat": "Many prefer them raw, Bohuslän style; they are also used in gratins and soups.",
+    "how_to_order": "Sold at the Gothenburg fish auction and served in fish restaurants in Gothenburg and Grebbestad; autumn and winter are the best seasons.",
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.vastsverige.com/en/tanum/coastal--archipelago-adventures/oysters/",
+      "https://www.vastsverige.com/mat-och-dryck/eu-skyddade-produkter",
+      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+    ]
+  },
+  {
+    "id": "sweden-kullings-kalvdans",
+    "name": "Kalvdans",
+    "local_name": "Kullings kalvdans",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Sweden",
+    "state": "West Coast",
+    "regions": [
+      "Västergötland"
+    ],
+    "description": "An oven-baked dessert of cow's colostrum (the first milk after calving) cooked with sugar and salt until it sets to a creamy, panna cotta-like texture, often spiced with cinnamon, cardamom or vanilla. Kullings kalvdans, made on farms around the Gäsene and Kulling districts of Västergötland, has EU Protected Geographical Indication status.",
+    "how_to_eat": "Served warm, lukewarm or cold with jam.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://sv.wikipedia.org/wiki/Kalvdans",
+    "source_urls": [
+      "https://sv.wikipedia.org/wiki/Kalvdans",
+      "https://www.vastsverige.com/mat-och-dryck/eu-skyddade-produkter",
+      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+    ]
+  },
+  {
+    "id": "sweden-kroppkakor",
+    "name": "Kroppkakor",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Småland, Öland & Gotland",
+    "regions": [
+      "Öland",
+      "Småland",
+      "Gotland"
+    ],
+    "description": "Tennis-ball-sized boiled potato dumplings, usually filled with diced pork and onion and often spiced with allspice. Öland kroppkakor use mostly raw grated potato, Småland ones mostly boiled potato, and Gotland ones almost only boiled potato.",
+    "how_to_eat": "Eaten with melted butter and lingonberries or cream; on Öland traditionally with melted butter and thin cream or milk, without lingonberry jam.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kroppkaka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kroppkaka",
+      "https://sv.wikipedia.org/wiki/Kroppkakor"
+    ]
+  },
+  {
+    "id": "sweden-smalandsk-ostkaka",
+    "name": "Småland cheesecake",
+    "local_name": "Småländsk ostkaka",
+    "pronunciation": "oost-kah-kah",
+    "category": "sweet",
+    "country": "Sweden",
+    "state": "Småland, Öland & Gotland",
+    "regions": [
+      "Småland"
+    ],
+    "description": "A crustless curd cake made by adding rennet to warm milk and flour, then mixing the curd with cream, sugar, eggs, almonds and bitter almond and baking it. The Småland version has a grainy texture, unlike the smoother Hälsingland ostkaka, and is eaten at Christmas and local gatherings.",
+    "how_to_eat": "Served lukewarm, never hot, with jam or berries and cream or vanilla ice cream.",
+    "how_to_order": "Pre-baked ostkaka is sold in Swedish grocery stores.",
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg",
+      "nuts",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ostkaka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ostkaka",
+      "https://sv.wikipedia.org/wiki/Ostkaka"
+    ]
+  },
+  {
+    "id": "sweden-isterband",
+    "name": "Isterband",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Småland, Öland & Gotland",
+    "regions": [
+      "Småland"
+    ],
+    "description": "A coarsely ground, lightly smoked and lacto-fermented sausage of pork, barley groats and potato, with a slightly sour taste. Småländska isterband from Småland is one of its best-known varieties.",
+    "how_to_eat": "Often served with creamed dill potatoes and pickled beetroot.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Isterband",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Isterband",
+      "https://sv.wikipedia.org/wiki/Isterband"
+    ]
+  },
+  {
+    "id": "sweden-bruna-bonor",
+    "name": "Brown beans with pork",
+    "local_name": "Bruna bönor",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Småland, Öland & Gotland",
+    "regions": [
+      "Öland"
+    ],
+    "description": "Dried brown beans soaked and boiled soft, then flavoured with syrup and vinegar for a sweet-and-sour taste; counted as traditional husmanskost. The raw beans, Bruna bönor från Öland, have EU Protected Geographical Indication status since 2010.",
+    "how_to_eat": "Traditionally eaten with fried slices of salted pork belly.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://sv.wikipedia.org/wiki/Bruna_b%C3%B6nor",
+    "source_urls": [
+      "https://sv.wikipedia.org/wiki/Bruna_b%C3%B6nor",
+      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+    ]
+  },
+  {
+    "id": "sweden-polkagris",
+    "name": "Polkagris",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Sweden",
+    "state": "Småland, Öland & Gotland",
+    "regions": [
+      "Gränna"
+    ],
+    "description": "A hard peppermint candy of sugar, peppermint oil, vinegar and water, classically pulled into red-and-white striped sticks. It is associated with Gränna, where Amalia Eriksson began making it in the 19th century, and Äkta Gränna polkagris has EU Protected Geographical Indication status since 2022.",
+    "how_to_eat": null,
+    "how_to_order": "Only candy made in Gränna parish may be sold as Äkta Gränna polkagris.",
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://sv.wikipedia.org/wiki/Polkagris",
+    "source_urls": [
+      "https://sv.wikipedia.org/wiki/Polkagris",
+      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+    ]
+  },
+  {
+    "id": "sweden-saffranspannkaka",
+    "name": "Saffron pancake",
+    "local_name": "Saffranspannkaka",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Sweden",
+    "state": "Småland, Öland & Gotland",
+    "regions": [
+      "Gotland"
+    ],
+    "description": "A baked dessert of rice pudding, cream, milk, sugar, egg, chopped almonds and saffron, named Gotland's provincial dish. Its roots lie in medieval flavoured rice puddings, and Gotland's Hanseatic trade gave access to saffron and other spices.",
+    "how_to_eat": "Eaten lukewarm or cold with dewberry jam and whipped cream.",
+    "how_to_order": "Often served at summer tourist restaurants on Gotland.",
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Saffranspannkaka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Saffranspannkaka"
+    ]
+  },
+  {
+    "id": "sweden-gotlandsdricka",
+    "name": "Gotland ale",
+    "local_name": "Gotlandsdricka",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Sweden",
+    "state": "Småland, Öland & Gotland",
+    "regions": [
+      "Gotland"
+    ],
+    "description": "A traditional home-brewed, unpasteurised ale from Gotland made with malt, juniper, often hops, water, sugar and yeast, with a smoky taste from malt dried over smoke. Recipes vary by parish and farm, and in southern Gotland honey was often added.",
+    "how_to_eat": "Often drunk while still fermenting, as it is a fresh product.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://sv.wikipedia.org/wiki/Gotlandsdricka",
+    "source_urls": [
+      "https://sv.wikipedia.org/wiki/Gotlandsdricka"
+    ]
+  },
+  {
+    "id": "sweden-biff-a-la-lindstrom",
+    "name": "Biff à la Lindström",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Småland, Öland & Gotland",
+    "regions": [
+      "Kalmar"
+    ],
+    "description": "Fried patties of ground beef mixed with onion, potato, beetroot and capers. A common story places its creation at Hotel Witt in Kalmar in 1862, where Henrik Lindström, raised in Saint Petersburg, showed the guests how to make a dish he ate in Russia.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Biff_%C3%A0_la_Lindstr%C3%B6m",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Biff_%C3%A0_la_Lindstr%C3%B6m"
+    ]
+  },
+  {
+    "id": "sweden-surstromming",
+    "name": "Surströmming",
+    "local_name": null,
+    "pronunciation": "SOOR-strem-ing",
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Norrland & Lapland",
+    "regions": [
+      "High Coast"
+    ],
+    "description": "Lightly salted Baltic herring fermented for at least six months, giving a strong smell and acidic taste; it has been part of northern Swedish cuisine since at least the 16th century. The new season traditionally starts on the third Thursday of August.",
+    "how_to_eat": "Often eaten outdoors with tunnbröd, as a surströmmingsklämma sandwich of buttered crisp flatbread, with snaps, light beer or cold milk.",
+    "how_to_order": "Sold canned; the can is opened away from the table, often under water.",
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Surstr%C3%B6mming",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Surstr%C3%B6mming",
+      "https://sv.wikipedia.org/wiki/Surstr%C3%B6mming",
+      "https://en.wikipedia.org/wiki/Tunnbr%C3%B6d"
+    ]
+  },
+  {
+    "id": "sweden-pitepalt",
+    "name": "Pitepalt",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Norrland & Lapland",
+    "regions": [
+      "Piteå"
+    ],
+    "description": "Dumplings of raw ground potato mixed with wheat and barley flour, usually filled with diced salted pork and boiled; the speciality of Piteå. Palt is more common in northern Sweden, and blodpalt, made with reindeer or cattle blood, is a related dish.",
+    "how_to_eat": "Eaten with butter and lingonberry jam and a glass of cold milk.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Palt",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Palt",
+      "https://sv.wikipedia.org/wiki/Palt",
+      "https://sv.wikipedia.org/wiki/Blodpalt"
+    ]
+  },
+  {
+    "id": "sweden-renskav",
+    "name": "Sautéed reindeer",
+    "local_name": "Renskav",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Norrland & Lapland",
+    "regions": [],
+    "description": "Thin slices cut from frozen reindeer meat, fried in fat and seasoned with black pepper and salt, then cooked with water, cream or beer until tender. It is a traditional Sámi dish that has become popular across the Nordic countries.",
+    "how_to_eat": "Served with mashed potatoes and lingonberry preserves.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Saut%C3%A9ed_reindeer",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Saut%C3%A9ed_reindeer",
+      "https://sv.wikipedia.org/wiki/Renskav"
+    ]
+  },
+  {
+    "id": "sweden-suovas",
+    "name": "Suovas",
+    "local_name": null,
+    "pronunciation": "SOO-oh-vahs",
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Norrland & Lapland",
+    "regions": [],
+    "description": "Salted and lightly smoked reindeer meat; the name is Northern and Lule Sámi for 'smoked'. The meat is salted, smoked over willow, sliced thinly and quickly fried on high heat just before serving.",
+    "how_to_eat": "Eaten with mashed potatoes, lingonberry jam and a sauce.",
+    "how_to_order": "Often served at festivals in pita bread with salad.",
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://sv.wikipedia.org/wiki/Suovas",
+    "source_urls": [
+      "https://sv.wikipedia.org/wiki/Suovas"
+    ]
+  },
+  {
+    "id": "sweden-kalix-lojrom",
+    "name": "Kalix vendace roe",
+    "local_name": "Kalixlöjrom",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Sweden",
+    "state": "Norrland & Lapland",
+    "regions": [
+      "Kalix"
+    ],
+    "description": "Roe of the vendace (Coregonus albula) fished in the Bothnian Bay, with only 4% salt added before freezing. The trawl fishery runs for five weeks from around 20 September, and in 2010 Kalixlöjrom became the first Swedish product with EU Protected Designation of Origin status.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://sv.wikipedia.org/wiki/Kalixl%C3%B6jrom",
+    "source_urls": [
+      "https://sv.wikipedia.org/wiki/Kalixl%C3%B6jrom",
+      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+    ]
+  },
+  {
+    "id": "sweden-kaffeost",
+    "name": "Coffee cheese",
+    "local_name": "Kaffeost",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Sweden",
+    "state": "Norrland & Lapland",
+    "regions": [
+      "Tornedalen"
+    ],
+    "description": "A fresh cheese made by heating milk (traditionally colostrum) with rennet and baking the curd; it squeaks when chewed and has a neutral taste. A traditional food of Tornedalen and the rest of Norrbotten, Västerbotten and Lapland, it received EU Protected Designation of Origin status in 2025.",
+    "how_to_eat": "Pieces are put in coffee, or eaten on the side with cloudberry jam.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://sv.wikipedia.org/wiki/Kaffeost",
+    "source_urls": [
+      "https://sv.wikipedia.org/wiki/Kaffeost",
+      "https://en.wikipedia.org/wiki/Bread_cheese",
+      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+    ]
+  },
+  {
+    "id": "sweden-vasterbottenpaj",
+    "name": "Västerbotten cheese pie",
+    "local_name": "Västerbottenpaj",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sweden",
+    "state": "Norrland & Lapland",
+    "regions": [
+      "Västerbotten"
+    ],
+    "description": "A pie filled with grated Västerbotten cheese, cream, milk and eggs, seasoned with salt and black pepper. The cheese, a hard, strong cow's milk cheese aged at least 12 months, was created in Burträsk in 1872, while the pie probably appeared in the late 1980s or early 1990s.",
+    "how_to_eat": "Served warm, lukewarm or cold, for example with crème fraîche, red onion and vendace roe.",
+    "how_to_order": "Common at Midsummer, Christmas, Easter and crayfish parties.",
+    "typical_price": null,
+    "currency": "SEK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://sv.wikipedia.org/wiki/V%C3%A4sterbottenpaj",
+    "source_urls": [
+      "https://sv.wikipedia.org/wiki/V%C3%A4sterbottenpaj",
+      "https://en.wikipedia.org/wiki/V%C3%A4sterbotten_cheese"
+    ]
+  }
+]

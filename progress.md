@@ -432,3 +432,17 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
 - Ireland done: 27 dishes, 4 regions (Dublin & East 8, Cork & Munster 8, Galway & West 6, Waterford & South-East 5). GI true 4: Waterford blaa PGI, Sneem black pudding PGI, Connemara Hill Lamb PGI, Irish poitín GI. Irish whiskey/champ/soda farl left in UK file. South-East thin. Validator OK.
 - Photos batch 4: 104 new; 5 dropped via NO_PHOTO (Full English photo on Irish breakfast, Stornoway pudding on Sneem, US shrimp chowder, Indonesian risoles on Wexford rissole, empty oyster shells). 1,385 dishes with photos.
 - BATCH 4 DONE: 37 countries, 1,692 dishes. Installed on phone 2026-11-10.
+- Committed + pushed 4196874.
+
+## 2026-11-10: batch 5
+- Batch 5: Switzerland, Belgium, Lebanon, Sweden (registered; CHF, EUR, LBP, SEK). Same plan when done: photos + check, install, commit + push.
+- Switzerland: research agent running.
+- Switzerland done: 40 dishes, 6 regions (Zurich/Basel/NE 7, Bern & Central 5, Romandy 8, Valais 6, Ticino 8, Graubünden 6). GI true 9 (aop-igp.ch register): St. Galler Bratwurst, Zuger Kirschtorte, Saucisse aux choux vaudoise, Longeole, Tête de Moine, Walliser Roggenbrot, Viande séchée du Valais, Abricotine, Bündnerfleisch. Raclette/fondue not GI (only cheeses). Ticino thinner (4 dishes no wiki article). Validator OK.
+- Belgium: research agent running.
+- Belgium done: 37 dishes, 5 regions (Brussels 8, West & East Flanders 8, Antwerp/Limburg/Fl. Brabant 6, Liège & N. Wallonia 8, Ardennes & S. Wallonia 7). GI true 8: gueuze + kriek TSG, mattentaart, Liers vlaaike, Herve PDO, Ardennes ham, pâté gaumais, escavèche de Chimay. Fries nonveg (beef fat), cuberdon nonveg (gelatine). Beers link to brewery articles (check photos). Wikipedia only, no prices. Validator OK.
+- Lebanon: research agent running.
+- Lebanon done: 34 dishes, 5 regions (Beirut 8, Mount Lebanon 7, North 8, Bekaa 5, South 6). No GIs. No prices (LBP inflation). 8 dishes tied to towns only by one-line lists; 7 without wiki article. Skipped shawarma/kunafa/ful/shish taouk (other countries). Shared links (Kibbeh x3, Ka'ak x2) - check photos. Validator OK.
+- Sweden: research agent running (last of batch 5).
+- Sweden done: 35 dishes, 5 regions (Stockholm & Central 8, Skåne 6, West Coast 6, Småland/Öland/Gotland 8, Norrland & Lapland 7). GI true 9: Falukorv TSG, Upplandskubb, spettkaka, Svensk punsch (spirit GI), Grebbestad oysters, Kullings kalvdans, Gränna polkagris, Kalix löjrom, kaffeost. Hushållsost left out (TSG ended 2023). 3 pronunciations agent-derived from IPA (Jansson, surströmming, suovas). Validator OK.
+- Photos batch 5: 140 new; 19 dropped via NO_PHOTO (adverts, plants, packaged muesli, other countries' versions: künefe, dushbara, Tabriz kofta, Egyptian molokheya, jameed, Dutch beans, generic kibbeh/ka'ak/speculaas/polenta/risotto, meatball soup). 1,491 dishes with photos.
+- BATCH 5 DONE: 41 countries, 1,838 dishes. Installed on phone 2026-11-11.

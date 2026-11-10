@@ -84,6 +84,11 @@ NO_PHOTO = {
     "australia-tasmanian-abalone", "australia-tasmanian-atlantic-salmon",
     "argentina-provoleta", "argentina-tamal", "brazil-abara", "brazil-tutu-de-feijao", "brazil-feijoada",
     "ireland-full-irish-breakfast", "ireland-sneem-black-pudding", "ireland-seafood-chowder", "ireland-wexford-rissole", "ireland-galway-oysters",
+    "belgium-de-koninck", "belgium-maitrank", "belgium-hasseltse-speculaas", "lebanon-kaak-knafeh",
+    "lebanon-maqroota", "lebanon-shish-barak", "lebanon-kafta-bithine", "lebanon-kibbeh-lakteen",
+    "lebanon-kibbet-samak", "lebanon-frakeh", "lebanon-mloukhiye-bzeit", "lebanon-kishk",
+    "sweden-swedish-meatballs", "sweden-swedish-punsch", "sweden-bruna-bonor", "switzerland-birchermuesli",
+    "switzerland-basler-mehlsuppe", "switzerland-polenta", "switzerland-risotto-ticinese",
 }
 out = {}
 for d in dishes:

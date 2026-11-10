@@ -1,0 +1,1188 @@
+[
+  {
+    "id": "switzerland-zurcher-geschnetzeltes",
+    "name": "Zürcher Geschnetzeltes",
+    "local_name": "Züri-Gschnätzlets",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Zurich, Basel & Northeast",
+    "regions": [
+      "Zurich"
+    ],
+    "description": "Thin strips of veal sautéed with butter and onion, then finished in a sauce of white wine, cream and demiglace, often with sliced mushrooms. It comes from Zurich and is first mentioned in a cookbook from 1947.",
+    "how_to_eat": "Typically served with rösti; spätzle, pasta, rice or mashed potatoes are alternatives.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Z%C3%BCrcher_Geschnetzeltes",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Z%C3%BCrcher_Geschnetzeltes",
+      "https://en.wikipedia.org/wiki/Swiss_cuisine"
+    ]
+  },
+  {
+    "id": "switzerland-birchermuesli",
+    "name": "Birchermüesli",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Switzerland",
+    "state": "Zurich, Basel & Northeast",
+    "regions": [
+      "Zurich"
+    ],
+    "description": "Rolled oats soaked overnight and eaten with fresh apple, nuts, lemon juice and sweetened condensed milk. It was developed around 1900 by the physician Maximilian Bircher-Benner for patients at his sanatorium on the Zürichberg, and is now a common Swiss breakfast.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Muesli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Muesli",
+      "https://en.wikipedia.org/wiki/Swiss_cuisine"
+    ]
+  },
+  {
+    "id": "switzerland-tirggel",
+    "name": "Tirggel",
+    "local_name": "Züri-Tirggel",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Switzerland",
+    "state": "Zurich, Basel & Northeast",
+    "regions": [
+      "Zurich"
+    ],
+    "description": "Thin, hard Christmas biscuits from Zurich made from flour and honey, pressed into carved moulds with pictures and baked for about 90 seconds under strong top heat. They are recorded in Zurich since 1461 and are also eaten around New Year and at Sechseläuten.",
+    "how_to_eat": "Let small pieces dissolve slowly in the mouth so the honey flavour comes through.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tirggel",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tirggel",
+      "https://de.wikipedia.org/wiki/Tirggel"
+    ]
+  },
+  {
+    "id": "switzerland-basler-lackerli",
+    "name": "Basler Läckerli",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Switzerland",
+    "state": "Zurich, Basel & Northeast",
+    "regions": [
+      "Basel"
+    ],
+    "description": "A hard spice biscuit from Basel made of wheat flour, honey, hazelnuts, almonds, candied orange and lemon peel and kirsch. The dough is baked in a thin layer, glazed with sugar and cut into rectangles while still warm.",
+    "how_to_eat": null,
+    "how_to_order": "Sold year-round by Basel bakeries and specialist makers.",
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Basler_L%C3%A4ckerli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Basler_L%C3%A4ckerli"
+    ]
+  },
+  {
+    "id": "switzerland-basler-mehlsuppe",
+    "name": "Basler Mehlsuppe",
+    "local_name": "Basler Mählsuppe",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Zurich, Basel & Northeast",
+    "regions": [
+      "Basel"
+    ],
+    "description": "A soup of dark-roasted flour cooked with onions, meat broth and sometimes red wine. In Basel it has been eaten in the early morning of carnival (Fasnacht) since the 19th century.",
+    "how_to_eat": "Served with grated cheese such as Sbrinz on the side.",
+    "how_to_order": "Eaten in the restaurants that open for the Morgestraich at the start of Basler Fasnacht.",
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Basler_Mehlsuppe",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Basler_Mehlsuppe",
+      "https://en.wikipedia.org/wiki/Swiss_cuisine"
+    ]
+  },
+  {
+    "id": "switzerland-st-galler-bratwurst",
+    "name": "St. Galler Bratwurst",
+    "local_name": "Olma-Bratwurst",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Switzerland",
+    "state": "Zurich, Basel & Northeast",
+    "regions": [
+      "St. Gallen"
+    ],
+    "description": "A white veal and pork sausage made with fresh milk and spiced with cardamom, coriander, ginger, nutmeg, onion, leek, celery and lemon, produced in St. Gallen, Appenzell and Thurgau. Its recipe goes back to the 1438 statutes of the St. Gallen butchers' guild, and it is a staple at the OLMA agricultural show.",
+    "how_to_eat": "In St. Gallen it is eaten with bread only, without sauce or mustard.",
+    "how_to_order": "Sold grilled at stands and fairs; also served with rösti and onion sauce.",
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/St._Galler_Bratwurst",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/St._Galler_Bratwurst",
+      "https://www.aop-igp.ch/fileadmin/Dokumente/Produktelisten/Produkteliste_D.pdf"
+    ]
+  },
+  {
+    "id": "switzerland-appenzeller-biber",
+    "name": "Appenzeller Biber",
+    "local_name": "Biberli",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Switzerland",
+    "state": "Zurich, Basel & Northeast",
+    "regions": [
+      "Appenzell"
+    ],
+    "description": "A honey gingerbread from the Appenzellerland filled with almond paste and stamped with a moulded picture, often a bear. The dough contains flour, sugar, honey and milk with spices such as cinnamon, cloves, anise, ginger and cardamom; the small palm-sized version is called Biberli.",
+    "how_to_eat": null,
+    "how_to_order": "Biberli are sold as a snack in many restaurants across Switzerland.",
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Appenzeller_Biber",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Appenzeller_Biber",
+      "https://www.patrimoineculinaire.ch/Produit/Appenzeller-Biber-Biberli/330"
+    ]
+  },
+  {
+    "id": "switzerland-rosti",
+    "name": "Rösti",
+    "local_name": "Rööschti",
+    "pronunciation": "RUHSH-tee",
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Bern & Central Switzerland",
+    "regions": [
+      "Bern"
+    ],
+    "description": "Coarsely grated raw or parboiled potato shaped into a round and pan-fried in butter, oil or other fat. It began as a farmers' breakfast in the canton of Bern and gives its name to the Röstigraben, the cultural divide between German- and French-speaking Switzerland.",
+    "how_to_eat": "Usually served alongside other dishes such as fried eggs and spinach, cervelat or Zürcher Geschnetzeltes.",
+    "how_to_order": "Offered in most Swiss restaurants as a replacement for a meal's standard side dish.",
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%B6sti",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/R%C3%B6sti",
+      "https://en.wikipedia.org/wiki/Swiss_cuisine"
+    ]
+  },
+  {
+    "id": "switzerland-berner-platte",
+    "name": "Berner Platte",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Bern & Central Switzerland",
+    "regions": [
+      "Bern"
+    ],
+    "description": "A large platter of smoked pork and beef, pork belly, sausages, bacon and pork ears or tails with juniper-flavoured sauerkraut, potatoes and green or dried beans, each prepared separately. It is traditionally linked to the Bernese victory over the French at Neuenegg on 5 March 1798.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Berner_Platte",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Berner_Platte"
+    ]
+  },
+  {
+    "id": "switzerland-alplermagronen",
+    "name": "Älplermagronen",
+    "local_name": "Älplermakkaronen",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Bern & Central Switzerland",
+    "regions": [],
+    "description": "Pasta boiled together with diced potatoes, then mixed with cream and grated cheese and topped with fried onions. It is associated with Alpine herders, who could carry light dry pasta up to the alp, and is served in mountain huts and restaurants.",
+    "how_to_eat": "Traditionally eaten with apple compote.",
+    "how_to_order": "Commonly found on menus in mountain huts and mountain restaurants.",
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%84lplermagronen",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/%C3%84lplermagronen",
+      "https://en.wikipedia.org/wiki/Swiss_cuisine"
+    ]
+  },
+  {
+    "id": "switzerland-luzerner-chugelipastete",
+    "name": "Luzerner Chügelipastete",
+    "local_name": "Lozärner Chögalipastete",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Bern & Central Switzerland",
+    "regions": [
+      "Lucerne"
+    ],
+    "description": "A puff-pastry case filled with a ragout of veal, small balls of pork and veal sausage meat, mushrooms and raisins. It is a speciality of Lucerne, with the oldest mentions dating to the 18th century.",
+    "how_to_eat": "Typically served with peas, carrots and rice, noodles or fries.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Luzerner_Ch%C3%BCgelipastete",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Luzerner_Ch%C3%BCgelipastete",
+      "https://en.wikipedia.org/wiki/Swiss_cuisine"
+    ]
+  },
+  {
+    "id": "switzerland-zuger-kirschtorte",
+    "name": "Zuger Kirschtorte",
+    "local_name": null,
+    "pronunciation": "TSOO-ger KIRSH-tor-teh",
+    "category": "sweet",
+    "country": "Switzerland",
+    "state": "Bern & Central Switzerland",
+    "regions": [
+      "Zug"
+    ],
+    "description": "A layer cake of almond-hazelnut meringue, sponge soaked in kirsch syrup and kirsch-flavoured butter cream, finished with roasted sliced almonds and icing sugar. Pastry chef Heinrich Höhn created it in Zug in 1921.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zuger_Kirschtorte",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Zuger_Kirschtorte",
+      "https://www.aop-igp.ch/fileadmin/Dokumente/Produktelisten/Produkteliste_D.pdf",
+      "https://www.patrimoineculinaire.ch/Produit/Zuger-Kirschtorte-GGAIGP/315"
+    ]
+  },
+  {
+    "id": "switzerland-cheese-fondue",
+    "name": "Cheese fondue",
+    "local_name": null,
+    "pronunciation": "fon-DEW",
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Romandy",
+    "regions": [
+      "Fribourg"
+    ],
+    "description": "Hard cheeses such as Gruyère and Vacherin melted with white wine in a communal pot (caquelon) kept warm over a small burner. The earliest cheese-and-wine recipe appears in a Zurich cookbook of 1699, and the Swiss Cheese Union promoted it as the national dish in the 1930s.",
+    "how_to_eat": "Each diner dips pieces of bread into the cheese with a long-stemmed fork.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fondue",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fondue",
+      "https://en.wikipedia.org/wiki/Swiss_cuisine",
+      "https://en.wikipedia.org/wiki/Gruy%C3%A8re_cheese"
+    ]
+  },
+  {
+    "id": "switzerland-papet-vaudois",
+    "name": "Papet vaudois",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Romandy",
+    "regions": [
+      "Vaud"
+    ],
+    "description": "Leeks and potatoes cooked together, often with cream and white wine, until soft but not mashed, served with saucisse aux choux or another smoked Vaud sausage. It is often called the national dish of Vaud, as its white and green match the cantonal flag.",
+    "how_to_eat": null,
+    "how_to_order": "Butchers in Vaud hold a Journée du Papet vaudois on the first Friday of October.",
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Papet_Vaudois",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Papet_Vaudois",
+      "https://fr.wikipedia.org/wiki/Papet_vaudois"
+    ]
+  },
+  {
+    "id": "switzerland-saucisse-aux-choux-vaudoise",
+    "name": "Saucisse aux choux vaudoise",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Romandy",
+    "regions": [
+      "Vaud"
+    ],
+    "description": "A smoked raw sausage from Vaud made only from pork, cooked rind, pork liver and blanched cabbage, stuffed into natural beef casing and weighing 300-400 g. Adding cabbage likely began as a way to stretch expensive meat; the recipe is attested from the 18th century.",
+    "how_to_eat": "Eaten cooked, most often with papet vaudois.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Saucisse_aux_choux",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Saucisse_aux_choux",
+      "https://www.aop-igp.ch/fileadmin/Dokumente/Produktelisten/Produkteliste_D.pdf"
+    ]
+  },
+  {
+    "id": "switzerland-malakoff",
+    "name": "Malakoff",
+    "local_name": "Beignet de Vinzel",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Switzerland",
+    "state": "Romandy",
+    "regions": [
+      "Vinzel",
+      "Bursins",
+      "Eysins"
+    ],
+    "description": "Cheese fried in a ball or stick, sometimes on bread or coated in pastry, from villages of La Côte on Lake Geneva such as Eysins, Begnins, Bursins, Luins and Vinzel. It is named after Fort Malakoff in the Crimean War, where Swiss mercenaries served.",
+    "how_to_eat": "Often served as an hors d'oeuvre.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Malakoff_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Malakoff_(food)",
+      "https://en.wikipedia.org/wiki/Swiss_cuisine"
+    ]
+  },
+  {
+    "id": "switzerland-longeole",
+    "name": "Longeole",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Romandy",
+    "regions": [
+      "Geneva"
+    ],
+    "description": "A Geneva cooking sausage of pork, jowl or neck fat and raw rind flavoured with fennel seeds. It needs about three hours of simmering in water and is first mentioned in a Geneva glossary of 1820.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Longeole",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Longeole",
+      "https://www.aop-igp.ch/fileadmin/Dokumente/Produktelisten/Produkteliste_D.pdf",
+      "https://en.wikipedia.org/wiki/Swiss_cuisine"
+    ]
+  },
+  {
+    "id": "switzerland-meringues-double-cream",
+    "name": "Meringues with double cream",
+    "local_name": "Meringues à la crème de Gruyère",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Switzerland",
+    "state": "Romandy",
+    "regions": [
+      "Gruyère"
+    ],
+    "description": "Baked whipped egg white served with Gruyère double cream, a thick cream of at least 45% fat (usually about 50%) made from milk of the Gruyère district in Fribourg.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Meringue",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Swiss_cuisine",
+      "https://en.wikipedia.org/wiki/Meringue",
+      "https://www.patrimoineculinaire.ch/Produit/Creme-de-Gruyere-Greyerzer-Doppelrahm/95"
+    ]
+  },
+  {
+    "id": "switzerland-tete-de-moine",
+    "name": "Tête de Moine",
+    "local_name": null,
+    "pronunciation": "tet duh MWAN",
+    "category": "snack",
+    "country": "Switzerland",
+    "state": "Romandy",
+    "regions": [
+      "Bellelay"
+    ],
+    "description": "A semi-hard raw cow's milk cheese first made by the canons of Bellelay Abbey in the Bernese Jura, documented from the 12th century. It is aged at least 75 days on spruce boards and is pared rather than cut.",
+    "how_to_eat": "Shaved into rosettes with a girolle and typically paired with a dry white wine.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/T%C3%AAte_de_Moine",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/T%C3%AAte_de_Moine",
+      "https://www.aop-igp.ch/fileadmin/Dokumente/Produktelisten/Produkteliste_D.pdf"
+    ]
+  },
+  {
+    "id": "switzerland-absinthe",
+    "name": "Absinthe",
+    "local_name": "La Bleue",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Switzerland",
+    "state": "Romandy",
+    "regions": [
+      "Val-de-Travers"
+    ],
+    "description": "A distilled anise and fennel spirit with wormwood, created in Couvet in the Val-de-Travers, canton of Neuchâtel, in the late 18th century. It was banned in Switzerland from 1910 to 2005; Swiss law allows only distilled, naturally coloured or uncoloured absinthe.",
+    "how_to_eat": null,
+    "how_to_order": "The Maison de l'Absinthe in Môtiers, Val-de-Travers, presents the spirit and its history.",
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Absinthe",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Absinthe",
+      "https://en.wikipedia.org/wiki/Swiss_cuisine"
+    ]
+  },
+  {
+    "id": "switzerland-raclette",
+    "name": "Raclette",
+    "local_name": null,
+    "pronunciation": "ra-KLET",
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Valais",
+    "regions": [],
+    "description": "Half a wheel of cheese is heated on its cut side and the melted layer is scraped onto plates. It originates in Valais, where melting cheese by the fire is attested from 1574, and it was promoted as the Valais national dish at the 1909 Sion exhibition.",
+    "how_to_eat": "Eaten with skin-on potatoes, cornichons and pickled onions, with black tea or Fendant wine.",
+    "how_to_order": "Also sold as street food, often with bread instead of potatoes.",
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Raclette",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Raclette",
+      "https://en.wikipedia.org/wiki/Swiss_cuisine",
+      "https://www.patrimoineculinaire.ch/Produit/Raclette-du-Valais-AOP/444"
+    ]
+  },
+  {
+    "id": "switzerland-cholera",
+    "name": "Cholera",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Valais",
+    "regions": [],
+    "description": "A covered pastry filled with potatoes, apples, pears, onions, leeks, raclette cheese and bacon, known mainly in Valais. The origin of the name is unclear; one story links it to an 1836 cholera epidemic, another to the Valais German word for coal.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cholera_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cholera_(food)",
+      "https://en.wikipedia.org/wiki/Swiss_cuisine"
+    ]
+  },
+  {
+    "id": "switzerland-walliser-roggenbrot",
+    "name": "Walliser Roggenbrot",
+    "local_name": "Pain de seigle valaisan",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Switzerland",
+    "state": "Valais",
+    "regions": [],
+    "description": "A round wholegrain loaf of at least 90% rye and at most 10% wheat, grown and milled in Valais, made with only yeast, salt and water. It is the only Swiss bread with AOP status and keeps for several months.",
+    "how_to_eat": "In the past, hardened loaves were soaked in milk, coffee or soup.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Walliser_Roggenbrot",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Walliser_Roggenbrot",
+      "https://www.aop-igp.ch/fileadmin/Dokumente/Produktelisten/Produkteliste_D.pdf"
+    ]
+  },
+  {
+    "id": "switzerland-brisolee",
+    "name": "Brisolée",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Valais",
+    "regions": [
+      "Fully"
+    ],
+    "description": "An autumn country meal of roasted chestnuts served with cheese, dried meat and autumn fruit. The chestnuts are roasted in a perforated pan or a cranked drum called a brisoloir.",
+    "how_to_eat": null,
+    "how_to_order": "It is the main dish at the chestnut festival held in Fully in mid-October.",
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Brisol%C3%A9e",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Brisol%C3%A9e",
+      "https://en.wikipedia.org/wiki/Swiss_cuisine"
+    ]
+  },
+  {
+    "id": "switzerland-viande-sechee-du-valais",
+    "name": "Viande séchée du Valais",
+    "local_name": "Walliser Trockenfleisch",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Switzerland",
+    "state": "Valais",
+    "regions": [],
+    "description": "Air-dried beef from the thigh of Swiss cattle, seasoned with salt, herbs and spices, dried for four to six weeks and pressed into a rectangular shape. Dried meat in Valais is described as early as 1544 in Sebastian Münster's Cosmographia.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Viande_s%C3%A9ch%C3%A9e_du_Valais",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Viande_s%C3%A9ch%C3%A9e_du_Valais",
+      "https://www.patrimoineculinaire.ch/Produit/Viande-sechee-du-Valais-IGP/120",
+      "https://www.aop-igp.ch/fileadmin/Dokumente/Produktelisten/Produkteliste_D.pdf"
+    ]
+  },
+  {
+    "id": "switzerland-abricotine",
+    "name": "Abricotine",
+    "local_name": "Eau-de-vie d'abricot du Valais",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Switzerland",
+    "state": "Valais",
+    "regions": [],
+    "description": "A fruit brandy distilled from Valais apricots. The name is protected as an AOP in the Swiss register, decided by the Federal Office for Agriculture in 2002.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Abricotine",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Abricotine",
+      "https://www.aop-igp.ch/fileadmin/Dokumente/Produktelisten/Produkteliste_D.pdf"
+    ]
+  },
+  {
+    "id": "switzerland-polenta",
+    "name": "Polenta",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Ticino",
+    "regions": [],
+    "description": "Cornmeal porridge that became the staple of Ticino in the 19th century after maize arrived in the early 17th century. The Ticino recipe serves it with braised or stewed meat, and a Sunday version is made with milk or cream instead of water.",
+    "how_to_eat": null,
+    "how_to_order": "Typical of the grotto, Ticino's rustic restaurants in old wine cellars.",
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Polenta",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Swiss_cuisine",
+      "https://it.wikipedia.org/wiki/Cucina_ticinese",
+      "https://en.wikipedia.org/wiki/Polenta"
+    ]
+  },
+  {
+    "id": "switzerland-risotto-ticinese",
+    "name": "Risotto",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Ticino",
+    "regions": [],
+    "description": "Rice cooked slowly in broth until creamy, in Ticino made with mushrooms such as porcini, saffron or cheese. It is commonly served with luganighe sausages or other local cured meats.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Risotto",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Swiss_cuisine",
+      "https://it.wikipedia.org/wiki/Cucina_ticinese",
+      "https://en.wikipedia.org/wiki/Risotto"
+    ]
+  },
+  {
+    "id": "switzerland-luganighe",
+    "name": "Luganighe",
+    "local_name": "Luganiga",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Ticino",
+    "regions": [],
+    "description": "Fresh pork cooking sausages from shoulder, neck and belly, seasoned with salt, pepper, nutmeg, cloves, cinnamon and garlic. A finer variant, luganighetta, is sold by the metre and can be eaten raw, cooked or grilled.",
+    "how_to_eat": "Eaten with risotto or polenta.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.patrimoineculinaire.ch/Produit/Luganighe/37",
+      "https://en.wikipedia.org/wiki/Swiss_cuisine",
+      "https://en.wikipedia.org/wiki/Swiss_sausages_and_cured_meats"
+    ]
+  },
+  {
+    "id": "switzerland-bruscitti",
+    "name": "Bruscitti",
+    "local_name": "Brüscitt",
+    "pronunciation": "broo-SHEET-tee",
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Ticino",
+    "regions": [
+      "Mendrisiotto"
+    ],
+    "description": "Finely chopped beef cooked for two to four hours with butter, garlic, fennel seeds and lard or pancetta, finished with red wine. It comes from Lombardy and is common in southern Ticino as a winter dish.",
+    "how_to_eat": "Served with polenta, risotto alla milanese or mashed potatoes.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bruscitti",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bruscitti",
+      "https://en.wikipedia.org/wiki/Swiss_cuisine"
+    ]
+  },
+  {
+    "id": "switzerland-torta-di-pane",
+    "name": "Torta di pane",
+    "local_name": "Torta di latte",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Switzerland",
+    "state": "Ticino",
+    "regions": [],
+    "description": "A dense, moist cake of stale bread softened in milk with sugar and eggs, often with cocoa, raisins, pine nuts, amaretti, candied fruit or grappa. It was made to use up bread baked only every few weeks and was a village festival cake in the 19th century.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.patrimoineculinaire.ch/Produit/Torta-di-Pane/63",
+      "https://it.wikipedia.org/wiki/Cucina_ticinese"
+    ]
+  },
+  {
+    "id": "switzerland-vermicelles",
+    "name": "Vermicelles",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Switzerland",
+    "state": "Ticino",
+    "regions": [],
+    "description": "Chestnut purée with milk, sugar and vanilla pressed into thin strands, piled in a nest on a tartlet or meringue and topped with whipped cream. The same name is used in French, German and Italian across Switzerland.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.patrimoineculinaire.ch/Produit/Vermicelles/190",
+      "https://it.wikipedia.org/wiki/Cucina_ticinese"
+    ]
+  },
+  {
+    "id": "switzerland-zincarlin",
+    "name": "Zincarlin",
+    "local_name": "Zincarlin da la Val da Mücc",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Switzerland",
+    "state": "Ticino",
+    "regions": [
+      "Valle di Muggio"
+    ],
+    "description": "A raw-milk, peppered acid-curd cheese from cow's or mixed cow's and goat's milk. The aged, dome-shaped version from the Valle di Muggio is the first Swiss Slow Food presidium.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://it.wikipedia.org/wiki/Zincarlin",
+    "source_urls": [
+      "https://www.patrimoineculinaire.ch/Produit/Zincarlin/50",
+      "https://it.wikipedia.org/wiki/Zincarlin"
+    ]
+  },
+  {
+    "id": "switzerland-gazzosa",
+    "name": "Gazzosa",
+    "local_name": "Gazosa",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Switzerland",
+    "state": "Ticino",
+    "regions": [
+      "Mendrisio"
+    ],
+    "description": "A lightly carbonated soft drink of water, sugar, citric acid and flavourings, sold in a swing-top bottle in flavours such as mandarin, raspberry or bergamot. Ticino's first factory for gazzosa and seltzer opened in Mendrisio in 1883.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.patrimoineculinaire.ch/Produit/Gazzosa/65"
+    ]
+  },
+  {
+    "id": "switzerland-bundnerfleisch",
+    "name": "Bündnerfleisch",
+    "local_name": "Viande des Grisons",
+    "pronunciation": "BUENT-ner-flysh",
+    "category": "snack",
+    "country": "Switzerland",
+    "state": "Graubünden",
+    "regions": [],
+    "description": "Lean beef from the thigh or shoulder, cured with salt, sugar and spices near freezing, then air-dried and pressed into its rectangular shape; it is traditionally not smoked. It is produced in Graubünden.",
+    "how_to_eat": "Sliced very thinly and eaten with bread; also used in soups and capuns.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/B%C3%BCndnerfleisch",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/B%C3%BCndnerfleisch",
+      "https://de.wikipedia.org/wiki/B%C3%BCndnerfleisch",
+      "https://www.aop-igp.ch/fileadmin/Dokumente/Produktelisten/Produkteliste_D.pdf"
+    ]
+  },
+  {
+    "id": "switzerland-capuns",
+    "name": "Capuns",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Graubünden",
+    "regions": [],
+    "description": "Spätzle dough mixed with herbs and pieces of dried meat such as Bündnerfleisch or salsiz, wrapped in chard leaves and cooked in a mix of milk, water and broth. It is a speciality of western Graubünden.",
+    "how_to_eat": "Served with grated cheese on top.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Capuns",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Capuns",
+      "https://de.wikipedia.org/wiki/Capuns",
+      "https://en.wikipedia.org/wiki/Swiss_cuisine"
+    ]
+  },
+  {
+    "id": "switzerland-pizokel",
+    "name": "Pizokel",
+    "local_name": "Bizochels",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Graubünden",
+    "regions": [],
+    "description": "Spätzle-like dumplings of wheat or wheat-buckwheat flour, eggs and milk, scraped from a wet board into boiling water. They are served with melted butter or fried breadcrumbs, often with bacon, onions, cheese and vegetables such as savoy cabbage.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://de.wikipedia.org/wiki/Pizokel",
+    "source_urls": [
+      "https://de.wikipedia.org/wiki/Pizokel",
+      "https://en.wikipedia.org/wiki/Swiss_cuisine"
+    ]
+  },
+  {
+    "id": "switzerland-bundner-nusstorte",
+    "name": "Bündner Nusstorte",
+    "local_name": "Engadiner Nusstorte",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Switzerland",
+    "state": "Graubünden",
+    "regions": [
+      "Engadin"
+    ],
+    "description": "A shortcrust pastry of flour, sugar, egg and butter filled with caramelised sugar, cream and chopped walnuts. The modern filled version was developed by Engadin baker Fausto Pult in 1926, and it is a major product for Graubünden's bakers.",
+    "how_to_eat": null,
+    "how_to_order": "Made by independent bakers throughout Graubünden and also sold in supermarkets.",
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/B%C3%BCndner_Nusstorte",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/B%C3%BCndner_Nusstorte"
+    ]
+  },
+  {
+    "id": "switzerland-maluns",
+    "name": "Maluns",
+    "local_name": "Bündner Kartoffelribel",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Switzerland",
+    "state": "Graubünden",
+    "regions": [],
+    "description": "Boiled potatoes, grated and mixed with flour, then slowly fried in butter and stirred for 40 minutes or more until they form small golden crumbs. The dish spread among Graubünden's farmers in the late 18th century.",
+    "how_to_eat": "Served with apple compote, local cheese or cured meats, traditionally with milk coffee.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maluns",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Maluns"
+    ]
+  },
+  {
+    "id": "switzerland-salsiz",
+    "name": "Salsiz",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Switzerland",
+    "state": "Graubünden",
+    "regions": [],
+    "description": "A raw, rectangular sausage from Graubünden, usually pork but also game or other meats, pressed and usually air-dried rather than smoked. It is an ingredient in capuns and plain in pigna.",
+    "how_to_eat": "Eaten whole or sliced with bread, with a regional red wine.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CHF",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Salsiz",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Salsiz",
+      "https://en.wikipedia.org/wiki/Swiss_sausages_and_cured_meats"
+    ]
+  }
+]

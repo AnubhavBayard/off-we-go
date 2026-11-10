@@ -1,0 +1,1044 @@
+[
+  {
+    "id": "lebanon-hummus",
+    "name": "Hummus",
+    "local_name": "حُمُّص",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Lebanon",
+    "state": "Beirut",
+    "regions": [],
+    "description": "A dip of cooked, mashed chickpeas blended with tahini, lemon juice and garlic, garnished with olive oil, a few whole chickpeas, parsley and paprika. An 1885 Lebanese cookbook is the first recorded hummus recipe after the 14th century, by which time garlic was a standard ingredient. In 2010 a dish of about 10,450 kg made by 300 cooks in al-Fanar, near Beirut, set a Guinness world record.",
+    "how_to_eat": "Eaten as a dip with pita bread, usually as part of a mezze.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hummus",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hummus",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine"
+    ]
+  },
+  {
+    "id": "lebanon-manakish",
+    "name": "Manakish",
+    "local_name": "مناقيش",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Lebanon",
+    "state": "Beirut",
+    "regions": [],
+    "description": "Flatbread dough pressed with the fingertips and topped with za'atar mixed with olive oil, with cheese such as akkawi, or with kishk, then baked. Variants include manakousheh za'atar and manakousheh jebneh (cheese only). In 2023 manakish was inscribed on the UNESCO Intangible Cultural Heritage lists as an emblematic culinary practice in Lebanon.",
+    "how_to_eat": "Eaten for breakfast or lunch, sliced or folded.",
+    "how_to_order": "Sold by neighbourhood bakeries (furns), some of which let customers bring their own toppings.",
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Manakish",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Manakish",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://en.wikipedia.org/wiki/Kashk"
+    ]
+  },
+  {
+    "id": "lebanon-kaak",
+    "name": "Ka'ak",
+    "local_name": "كعك العصرية",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Lebanon",
+    "state": "Beirut",
+    "regions": [],
+    "description": "A Lebanese street bread of sweet dough formed into a flat ring shaped like a handbag, topped with sesame seeds and, after baking, glazed with milk and sugar. It is also called ka'ak al-asreya, \"afternoon ka'ak\". Versions are stuffed with cheese and za'atar.",
+    "how_to_eat": "Eaten as a snack, torn from the ring.",
+    "how_to_order": "Sold from wheeled carts, where the rings hang from a pole by the hole.",
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ka%27ak",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ka%27ak",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine"
+    ]
+  },
+  {
+    "id": "lebanon-kaak-knafeh",
+    "name": "Ka'ak knafeh",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Lebanon",
+    "state": "Beirut",
+    "regions": [],
+    "description": "Knafeh, the syrup-soaked dessert of kadayif pastry layered with white cheese such as akkawi, sandwiched inside a sesame-coated ka'ak bread. It is a popular Lebanese street food. An 1885 Beirut cookbook is the earliest documented source of cheese-filled knafeh.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Knafeh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Knafeh",
+      "https://en.wikipedia.org/wiki/Ka%27ak",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://fr.wikipedia.org/wiki/Cuisine_libanaise"
+    ]
+  },
+  {
+    "id": "lebanon-samkeh-harra",
+    "name": "Samkeh harra",
+    "local_name": "سمكة حارة",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "Beirut",
+    "regions": [
+      "Beirut"
+    ],
+    "description": "Grilled fish marinated with chilli, citrus and coriander. It is listed as a Beirut speciality, where it is usually served with grilled octopus (akhtabout).",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_لبناني"
+    ]
+  },
+  {
+    "id": "lebanon-daoukieh",
+    "name": "Daoukieh",
+    "local_name": "داعوقية",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Lebanon",
+    "state": "Beirut",
+    "regions": [
+      "Beirut"
+    ],
+    "description": "A Beirut dessert of semolina and pistachio, named after its inventor and served with ashta (clotted cream). It is similar to mafroukeh, a semolina dough layered with caramel and butter and soaked in syrup.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://fr.wikipedia.org/wiki/Cuisine_libanaise"
+    ]
+  },
+  {
+    "id": "lebanon-baba-ghanoush",
+    "name": "Baba ghanoush",
+    "local_name": "بابا غنّوج",
+    "pronunciation": "BAH-buh guh-NOOSH",
+    "category": "snack",
+    "country": "Lebanon",
+    "state": "Beirut",
+    "regions": [],
+    "description": "Aubergine roasted or charred over an open flame, peeled and finely chopped, then mixed with tahini, olive oil, lemon juice and garlic, which gives it a smoky taste. Hans Wehr's Arabic dictionary attributes the name to Syrian and Lebanese Arabic. A related dish, mutabbal, is often topped with pomegranate seeds.",
+    "how_to_eat": "Served as a mezze dip for pita bread.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Baba_ghanoush",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Baba_ghanoush",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine"
+    ]
+  },
+  {
+    "id": "lebanon-sfouf",
+    "name": "Sfouf",
+    "local_name": "صفوف",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Lebanon",
+    "state": "Beirut",
+    "regions": [],
+    "description": "A Lebanese semolina cake flavoured with turmeric, sugar, sesame paste, aniseed and pine nuts, raised with baking powder. Unlike basbousa it is not soaked in syrup. It is made for birthdays, family reunions and religious holidays.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame",
+      "nuts",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sfouf",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sfouf",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_لبناني"
+    ]
+  },
+  {
+    "id": "lebanon-tabbouleh",
+    "name": "Tabbouleh",
+    "local_name": "تَبّولَة",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "Mount Lebanon",
+    "regions": [],
+    "description": "A salad of finely chopped parsley, bulgur, tomato, mint and onion, dressed with olive oil, lemon juice and salt; the Lebanese version uses more parsley than bulgur. It comes from the mountains of Lebanon and Syria, and bulgur from the salamouni wheat of the Beqaa Valley is considered well suited to it. Lebanon holds a National Tabbouleh Day on the first Saturday of July.",
+    "how_to_eat": "Eaten as part of a mezze or before a main course, sometimes with lettuce leaves.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tabbouleh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tabbouleh",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine"
+    ]
+  },
+  {
+    "id": "lebanon-kibbeh-lakteen",
+    "name": "Kibbeh lakteen",
+    "local_name": "كبة لقطين",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "Mount Lebanon",
+    "regions": [
+      "Beit Mery"
+    ],
+    "description": "A pumpkin-flavoured kibbeh, the bulgur-based dish that is considered a national dish of Lebanon. It is listed as a speciality of Beit Mery, a mountain town overlooking Beirut.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kibbeh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_لبناني",
+      "https://en.wikipedia.org/wiki/Kibbeh"
+    ]
+  },
+  {
+    "id": "lebanon-makhlouta",
+    "name": "Makhlouta",
+    "local_name": "مخلوطة",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "Mount Lebanon",
+    "regions": [
+      "Baskinta"
+    ],
+    "description": "A stew made with a mix of beans, wheat and legumes, associated with the mountain village of Baskinta, 43 km north-east of Beirut. The Arabic Wikipedia list of regional dishes describes it with meat, rice and nuts.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_لبناني",
+      "https://en.wikipedia.org/wiki/Baskinta"
+    ]
+  },
+  {
+    "id": "lebanon-shish-barak",
+    "name": "Shish barak",
+    "local_name": "شيش برك",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "Mount Lebanon",
+    "regions": [
+      "Dhour El Choueir"
+    ],
+    "description": "Small dumplings of thin dough stuffed with ground beef and spices, then cooked in yogurt and served hot in the sauce. It is sometimes called Lebanese ravioli and is listed as a speciality of Dhour El Choueir in the Matn. A recipe appears in a 15th-century Damascus cookbook.",
+    "how_to_eat": "Served hot in its yogurt sauce.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joshpara",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Joshpara",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_لبناني"
+    ]
+  },
+  {
+    "id": "lebanon-mate",
+    "name": "Mate",
+    "local_name": null,
+    "pronunciation": "MAH-tay",
+    "category": "drink",
+    "country": "Lebanon",
+    "state": "Mount Lebanon",
+    "regions": [
+      "Chouf",
+      "Aley"
+    ],
+    "description": "A caffeine-rich infusion of yerba mate leaves in hot water, drunk frequently in the Chouf and Aley. The custom was brought back by Lebanese and Syrians who had emigrated to South America in the late 19th and early 20th centuries; in Lebanon it is mostly the Druze community that keeps the practice.",
+    "how_to_eat": "Traditionally drunk through a metal straw from a gourd.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mate_(drink)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mate_(drink)",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine"
+    ]
+  },
+  {
+    "id": "lebanon-fattet-batenjen",
+    "name": "Fattet batenjen",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "Mount Lebanon",
+    "regions": [
+      "Chouf"
+    ],
+    "description": "A fatteh, or bread-based dish, of fried aubergine and fried or toasted flatbread covered with yogurt and topped with pine nuts. It is listed as a speciality of the Chouf.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fatteh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fatteh",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://fr.wikipedia.org/wiki/Cuisine_libanaise",
+      "https://ar.wikipedia.org/wiki/مطبخ_لبناني"
+    ]
+  },
+  {
+    "id": "lebanon-kafta-bithine",
+    "name": "Kafta bithine",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "Mount Lebanon",
+    "regions": [
+      "Beit ed-Dine"
+    ],
+    "description": "Spiced minced meat (kafta) cooked with tahini (sesame paste). It is listed as popular in Beit ed-Dine in the Chouf.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kofta",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_لبناني",
+      "https://en.wikipedia.org/wiki/Kofta"
+    ]
+  },
+  {
+    "id": "lebanon-halawet-el-jibn",
+    "name": "Halawet el jibn",
+    "local_name": "حلاوة الجبن",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Lebanon",
+    "state": "North Lebanon",
+    "regions": [
+      "Tripoli"
+    ],
+    "description": "A dessert of semolina and cheese dough, traditionally made with akkawi cheese, rolled around a filling of ashta (clotted cream) and finished with syrup, pistachios and rose jam. It is a speciality of North Lebanon, found notably in Tripoli, a city known for its Arabic sweets; its origin is disputed between Tripoli and the Syrian cities of Homs and Hama.",
+    "how_to_eat": "In summer it is often topped with booza (Arabic ice cream).",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Halawet_el_jibn",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halawet_el_jibn",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://fr.wikipedia.org/wiki/Cuisine_libanaise",
+      "https://en.wikipedia.org/wiki/Tripoli,_Lebanon"
+    ]
+  },
+  {
+    "id": "lebanon-kibbeh-zghartawiyeh",
+    "name": "Kibbeh zghartawiyeh",
+    "local_name": "كبة زغرتاوية",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "North Lebanon",
+    "regions": [
+      "Ehden",
+      "Zgharta"
+    ],
+    "description": "An oven-cooked kibbeh of meat and cracked wheat (bulgur), popular in Ehden, the mountain town of the Zgharta District. Kibbeh is considered a national dish of Lebanon, and North Lebanon also has a grilled kibbeh stuffed with mutton fat.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kibbeh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_لبناني",
+      "https://fr.wikipedia.org/wiki/Cuisine_libanaise",
+      "https://en.wikipedia.org/wiki/Ehden"
+    ]
+  },
+  {
+    "id": "lebanon-fattoush",
+    "name": "Fattoush",
+    "local_name": "فتّوش",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "North Lebanon",
+    "regions": [
+      "Tripoli"
+    ],
+    "description": "A salad of toasted or fried pieces of pita with lettuce and vegetables such as tomatoes, cucumbers, radishes, parsley and mint, soured with sumac and sometimes pomegranate molasses. Unlike the Palestinian version, the Lebanese version contains no white onions. The Arabic Wikipedia lists it among the dishes of Tripoli.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fattoush",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fattoush",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://fr.wikipedia.org/wiki/Cuisine_libanaise",
+      "https://ar.wikipedia.org/wiki/مطبخ_لبناني"
+    ]
+  },
+  {
+    "id": "lebanon-mujaddara",
+    "name": "Mujaddara",
+    "local_name": "مجدّرة",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "North Lebanon",
+    "regions": [
+      "Tripoli"
+    ],
+    "description": "Lentils cooked with rice and topped with caramelised onions. In Lebanon mjaddara means the puréed version with the consistency of rice pudding, while mudardara keeps the rice and lentils whole. It is listed among the dishes of Tripoli.",
+    "how_to_eat": "Usually served with yogurt or a salad.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mujaddara",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mujaddara",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_لبناني"
+    ]
+  },
+  {
+    "id": "lebanon-laban-immo",
+    "name": "Laban immo",
+    "local_name": "لبن إمّو",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "North Lebanon",
+    "regions": [
+      "Douma"
+    ],
+    "description": "Lamb cooked in yogurt, served with rice. It is listed as popular in Douma, a red-roofed mountain village in the Batroun District.",
+    "how_to_eat": "Served with rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_لبناني",
+      "https://en.wikipedia.org/wiki/Douma,_Lebanon"
+    ]
+  },
+  {
+    "id": "lebanon-mloukhiye-bzeit",
+    "name": "Mloukhiye b'zeit",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "North Lebanon",
+    "regions": [
+      "Akkar",
+      "Miniyeh-Danniyeh"
+    ],
+    "description": "Fresh leaves and shoots of the nalta jute plant cooked in olive oil with onions, garlic, tomatoes and chilli peppers. It is a summer side dish of northern Lebanon, especially in the Miniyeh-Danniyeh and Akkar districts.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mulukhiyah",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mulukhiyah",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine"
+    ]
+  },
+  {
+    "id": "lebanon-shanklish",
+    "name": "Shanklish",
+    "local_name": "شَنْكلِيش",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Lebanon",
+    "state": "North Lebanon",
+    "regions": [
+      "Akkar"
+    ],
+    "description": "A cheese made by curdling, straining and fermenting cow or sheep milk yogurt, formed into balls about 6 cm across, coated in thyme or za'atar and chilli, then aged. Shanklish from Akkar and the adjoining Syrian coast is hard, near-white and strong in flavour.",
+    "how_to_eat": "Eaten as a mezze, mashed with chopped tomato, onion and olive oil, often with arak.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shanklish",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shanklish",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://fr.wikipedia.org/wiki/Cuisine_libanaise"
+    ]
+  },
+  {
+    "id": "lebanon-kibbet-samak",
+    "name": "Kibbet samak",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "North Lebanon",
+    "regions": [],
+    "description": "Kibbeh made with white fish instead of red meat, mixed with bulgur like meat kibbeh. It is popular in Lebanon's coastal areas and among Sunni Muslims in North Lebanon, and is widely eaten during Lent.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kibbeh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kibbeh",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine"
+    ]
+  },
+  {
+    "id": "lebanon-sfiha-baalbakiyeh",
+    "name": "Sfiha Baalbakiyeh",
+    "local_name": "صفيحة بعلبكية",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Lebanon",
+    "state": "Bekaa Valley",
+    "regions": [
+      "Baalbek"
+    ],
+    "description": "Small meat pies from Baalbek, with folded sides around a topping of minced meat (often sheep and veal), onions, tomatoes and pine nuts, flavoured with cinnamon, sumac or pomegranate molasses. They are often served at weddings. The Lebanese liquidity crisis led to cheaper, meatless versions.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sfiha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sfiha",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_لبناني"
+    ]
+  },
+  {
+    "id": "lebanon-arak",
+    "name": "Arak",
+    "local_name": "عرق",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Lebanon",
+    "state": "Bekaa Valley",
+    "regions": [
+      "Zahlé"
+    ],
+    "description": "A distilled anise spirit, often called the national drink of Lebanon, made largely from the Marawi and Obaideh grapes. The Bekaa Valley is a centre of production, and Zahlé, where Arak Zahlawi is made with water traditionally drawn from the Berdawni River, is considered its capital.",
+    "how_to_eat": "Served with a traditional Lebanese meal or mezze.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arak_(drink)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Arak_(drink)",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://en.wikipedia.org/wiki/Zahl%C3%A9"
+    ]
+  },
+  {
+    "id": "lebanon-lebanese-wine",
+    "name": "Lebanese wine",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Lebanon",
+    "state": "Bekaa Valley",
+    "regions": [
+      "Zahlé"
+    ],
+    "description": "Wine from one of the oldest wine regions in the world; the Bekaa Valley produces most of it, with vineyards at high altitude. Château Ksara, founded by Jesuits near Zahlé in 1857, is the country's oldest commercial winery, and Merwah and Obaideh are the native white grapes. Lebanese winemakers produced 15 million bottles in 2024.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lebanese_wine",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lebanese_wine",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://en.wikipedia.org/wiki/Zahl%C3%A9"
+    ]
+  },
+  {
+    "id": "lebanon-mjadrat-fasoulya",
+    "name": "Mjadrat fasoulya",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "Bekaa Valley",
+    "regions": [
+      "Rashaya"
+    ],
+    "description": "A stew of kidney beans and lentils, listed as popular in Rashaya, a town on the slopes of Mount Hermon in the western Beqaa Governorate.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_لبناني",
+      "https://en.wikipedia.org/wiki/Rashaya"
+    ]
+  },
+  {
+    "id": "lebanon-kishk",
+    "name": "Kishk",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "Bekaa Valley",
+    "regions": [
+      "Kherbet Qanafar",
+      "Rashaya"
+    ],
+    "description": "A powder of bulgur fermented with milk and yogurt, often goat milk, kneaded daily during fermentation and then dried and ground; it is prepared in early autumn for winter. In Lebanon it is used mixed with tomato paste as a manakish topping, in soup, with eggs, or as a kibbeh stuffing. It is made in West Bekaa villages such as Kherbet Qanafar and in the Rashaya area.",
+    "how_to_eat": "Can be eaten as a soup, possibly with awarma (lamb fried in its own fat).",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kashk",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kashk",
+      "https://food-heritage.org/kishk-the-warmth-of-lebanese-winter/",
+      "https://fr.wikipedia.org/wiki/Cuisine_libanaise"
+    ]
+  },
+  {
+    "id": "lebanon-sayadieh",
+    "name": "Sayadieh",
+    "local_name": "صيادية",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "South Lebanon",
+    "regions": [
+      "Sidon",
+      "Tyre"
+    ],
+    "description": "Fish cooked with spices and served on rice coloured with caramelised onions, garnished with fried onions, almonds and pine nuts. In the Lebanese version a tahini sauce is the key element. The English Wikipedia article on Lebanese cuisine says it originated in Sidon, and it is listed as a dish of Tyre; an 1890 Lebanese cookbook gives three recipes.",
+    "how_to_eat": "Served with tarator (tahini sauce).",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "sesame",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sayadieh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sayadieh",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_لبناني"
+    ]
+  },
+  {
+    "id": "lebanon-sanioura",
+    "name": "Sanioura",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Lebanon",
+    "state": "South Lebanon",
+    "regions": [
+      "Sidon"
+    ],
+    "description": "A lozenge-shaped biscuit made only from ghee, flour and powdered sugar, a speciality of Sidon (Saida); the shape was made to be filled with dates and pistachio. It takes its name from the Sanioura family of pastry makers, whose reputation dates to 1859, and it keeps well.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://food-heritage.org/the-reshaping-of-ghraybeh/",
+      "https://fr.wikipedia.org/wiki/Cuisine_libanaise"
+    ]
+  },
+  {
+    "id": "lebanon-riz-bi-foul",
+    "name": "Riz bi foul",
+    "local_name": "رز بالفول",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "South Lebanon",
+    "regions": [
+      "Sidon"
+    ],
+    "description": "Rice cooked with green fava beans and seasoned with spices. It is listed as a dish of Sidon.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine",
+      "https://ar.wikipedia.org/wiki/مطبخ_لبناني"
+    ]
+  },
+  {
+    "id": "lebanon-frakeh",
+    "name": "Frakeh",
+    "local_name": "فراكة",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "South Lebanon",
+    "regions": [],
+    "description": "A variation of raw kibbeh popular in Southern Lebanon, shaped into croquettes, with the raw meat mixed with herbs and kammouneh, a spice mix including dried roses, marjoram and cumin.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kibbeh_nayyeh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kibbeh_nayyeh",
+      "https://fr.wikipedia.org/wiki/Cuisine_libanaise"
+    ]
+  },
+  {
+    "id": "lebanon-kibbeh-nayyeh",
+    "name": "Kibbeh nayyeh",
+    "local_name": "كبّه نيّه",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Lebanon",
+    "state": "South Lebanon",
+    "regions": [],
+    "description": "Minced raw lamb or beef mixed with fine bulgur and spices, traditionally pounded in a mortar from meat slaughtered the same day. South Lebanon is known for its kibbeh, and the raw form is prepared by the Shia of Lebanon on holidays and by Lebanese Muslims for Eid al-Adha; it is also served at Lebanese weddings.",
+    "how_to_eat": "Scooped with pita or markouk bread, with mint leaves, olive oil, green onions and green chillies.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kibbeh_nayyeh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kibbeh_nayyeh",
+      "https://en.wikipedia.org/wiki/Kibbeh",
+      "https://en.wikipedia.org/wiki/Lebanese_cuisine"
+    ]
+  },
+  {
+    "id": "lebanon-maqroota",
+    "name": "Maqroota",
+    "local_name": "مقروطة",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Lebanon",
+    "state": "South Lebanon",
+    "regions": [
+      "Sidon"
+    ],
+    "description": "A date-filled, anise-flavoured kind of ka'ak, often made as a three-layer cake with dates between two layers of dough, cut before baking, or rolled. It contains olive oil or samneh (clarified butter) and is popular in Sidon and among Palestinian refugees.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LBP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ka%27ak",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ka%27ak"
+    ]
+  }
+]
