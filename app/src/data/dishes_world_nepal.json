@@ -1,0 +1,993 @@
+[
+  {
+    "id": "nepal-momo",
+    "name": "Momo",
+    "local_name": "मम",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Nepal",
+    "state": "Kathmandu Valley (Newari)",
+    "regions": [
+      "Kathmandu"
+    ],
+    "description": "Steamed dumplings of white-flour dough filled with minced meat (buffalo, goat, chicken or pork) with onion, garlic, ginger and coriander, or with vegetables, paneer or chhurpi. Momo were originally filled with buffalo meat and were first popular among the Newar community; they are one of the most popular foods in Nepal.",
+    "how_to_eat": "Served with a tomato-, sesame-, peanut- or soybean-based achar, or in a thin spiced broth as jhol momo.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Momo_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Momo_(food)",
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine",
+      "https://ntb.gov.np/things-to-do/food-&-culinary"
+    ]
+  },
+  {
+    "id": "nepal-samay-baji",
+    "name": "Samay baji",
+    "local_name": "समय् बजि",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nepal",
+    "state": "Kathmandu Valley (Newari)",
+    "regions": [],
+    "description": "A Newar set served on one plate: beaten rice (chiura), fried black soybeans, lentil and rice pancakes, spiced buffalo meat (chhwela), chopped ginger, fried boiled egg, fried fish, pickled beans, spicy potato salad and greens, with achar. It is served as a starter at Newar festivals, pujas and family gatherings, including Indra Jatra, Dashain and Tihar.",
+    "how_to_eat": "Traditionally accompanied by aila, the Newar liquor.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "soy",
+      "egg",
+      "fish",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Samay_baji",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Samay_baji",
+      "https://en.wikipedia.org/wiki/Newar_cuisine"
+    ]
+  },
+  {
+    "id": "nepal-choila",
+    "name": "Choila",
+    "local_name": "छोयला",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nepal",
+    "state": "Kathmandu Valley (Newari)",
+    "regions": [],
+    "description": "Spiced grilled water buffalo meat, now also made with mutton, chicken, duck or mushroom. Haku choila is charred over a straw fire, while mana choila is boiled before being spiced; it is typically very spicy and a key part of samay baji.",
+    "how_to_eat": "Usually eaten with beaten rice (chiura).",
+    "how_to_order": "Sold from restaurants to street vendors.",
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Choila",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Choila",
+      "https://en.wikipedia.org/wiki/Samay_baji",
+      "https://english.onlinekhabar.com/local-foods-in-nepal.html"
+    ]
+  },
+  {
+    "id": "nepal-chatamari",
+    "name": "Chatamari",
+    "local_name": "चतांमरि",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Nepal",
+    "state": "Kathmandu Valley (Newari)",
+    "regions": [
+      "Kathmandu"
+    ],
+    "description": "A Newar rice-flour crepe topped with spiced minced meat, egg and onion, nicknamed 'Newari pizza' for its look. It is eaten at festivals and special occasions and as a snack.",
+    "how_to_eat": null,
+    "how_to_order": "Found in Newa restaurants, especially in Kathmandu.",
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chataamari",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chataamari",
+      "https://ntb.gov.np/things-to-do/food-&-culinary",
+      "https://english.onlinekhabar.com/local-foods-in-nepal.html"
+    ]
+  },
+  {
+    "id": "nepal-wo",
+    "name": "Wo (Bara)",
+    "local_name": "व:",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Nepal",
+    "state": "Kathmandu Valley (Newari)",
+    "regions": [],
+    "description": "A spiced lentil pancake or patty from Newar cuisine, called wo by Newars and bara in the hills. It is made for festivals and rituals and as an everyday snack, and is one of the items in samay baji.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ntb.gov.np/things-to-do/food-&-culinary",
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine",
+      "https://en.wikipedia.org/wiki/Samay_baji"
+    ]
+  },
+  {
+    "id": "nepal-yomari",
+    "name": "Yomari",
+    "local_name": "योमरी",
+    "pronunciation": "YOH-ma-ri",
+    "category": "sweet",
+    "country": "Nepal",
+    "state": "Kathmandu Valley (Newari)",
+    "regions": [
+      "Panauti"
+    ],
+    "description": "A steamed dumpling with a covering of glutinous rice flour and a sweet filling of chaku (molasses) and khuwa, or molasses and sesame; savoury versions use minced meat or lentils. It is the centre of the Yomari Punhi festival in winter, which marks the end of the rice harvest, and one legend places its origin in Panauti.",
+    "how_to_eat": null,
+    "how_to_order": "Made at home for Yomari Punhi (around December) and sold in parts of Kathmandu.",
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yomari",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Yomari",
+      "https://ntb.gov.np/things-to-do/food-&-culinary",
+      "https://english.onlinekhabar.com/local-foods-in-nepal.html"
+    ]
+  },
+  {
+    "id": "nepal-juju-dhau",
+    "name": "Juju dhau",
+    "local_name": "जुजु धौ",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Nepal",
+    "state": "Kathmandu Valley (Newari)",
+    "regions": [
+      "Bhaktapur"
+    ],
+    "description": "A thick, creamy yogurt from Bhaktapur, made from buffalo milk and set in clay pots; the name means 'king of yogurt' in Nepal Bhasa. Dhau is the staple dessert at Newar feasts and a required item at auspicious ceremonies.",
+    "how_to_eat": "Ladled from the clay pot at the end of a meal, or mixed with beaten rice as a snack.",
+    "how_to_order": "Made in Bhaktapur and also sent to Kathmandu, Lalitpur, Banepa, Panauti and Dhulikhel.",
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dhau",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dhau",
+      "https://ntb.gov.np/things-to-do/food-&-culinary",
+      "https://english.onlinekhabar.com/local-foods-in-nepal.html"
+    ]
+  },
+  {
+    "id": "nepal-aila",
+    "name": "Aila",
+    "local_name": "अयला",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Nepal",
+    "state": "Kathmandu Valley (Newari)",
+    "regions": [],
+    "description": "A Newar spirit distilled from rice, grains or millet fermented for four to five days with marcha, a local starter, using clay and copper vessels over a wood fire. It is offered to the gods and to guests and is an important part of Newar festivals.",
+    "how_to_eat": null,
+    "how_to_order": "Mostly homemade, but sold in restaurants that serve Newa cuisine.",
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aila_(liquor)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Aila_(liquor)",
+      "https://ntb.gov.np/things-to-do/food-&-culinary"
+    ]
+  },
+  {
+    "id": "nepal-thakali-set",
+    "name": "Thakali set",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nepal",
+    "state": "Himalaya & Mustang",
+    "regions": [
+      "Mustang",
+      "Pokhara"
+    ],
+    "description": "A set meal from the Thakali people of the Thak Khola valley in Mustang: rice or buckwheat, millet, barley or maize, black lentil soup (masko dal), spicy potatoes, spinach and meat curry, starting with buckwheat chips (kachhyamba). Thakali cuisine uses ghee for cooking and is also served in Thakali-run inns along trade routes and in Pokhara.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in Thakali restaurants in Nepali cities.",
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://english.onlinekhabar.com/local-foods-in-nepal.html",
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine",
+      "https://ntb.gov.np/things-to-do/food-&-culinary"
+    ]
+  },
+  {
+    "id": "nepal-thukpa",
+    "name": "Thukpa",
+    "local_name": "थुक्पा",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nepal",
+    "state": "Himalaya & Mustang",
+    "regions": [],
+    "description": "A Tibetan noodle soup that in Nepal is mostly vegetarian and spicier, using beans, chickpeas, gram or kidney beans as protein, with egg thukpa the next most popular. It is one of the warm foods favoured in Nepal's cold Himalayan region.",
+    "how_to_eat": "Garnished with coriander, spring onion or garlic leaves.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thukpa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thukpa",
+      "https://en.wikipedia.org/wiki/Thenthuk",
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine"
+    ]
+  },
+  {
+    "id": "nepal-tsampa",
+    "name": "Tsampa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nepal",
+    "state": "Himalaya & Mustang",
+    "regions": [],
+    "description": "Roasted flour, usually barley, that needs no cooking and is eaten in the Himalaya and parts of northern Nepal. Thakali and Tibetan-influenced communities mix it with butter tea into a dough, eaten especially while travelling.",
+    "how_to_eat": "Stirred and kneaded with a little butter tea in the bowl until it forms a dough ball.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tsampa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tsampa",
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine"
+    ]
+  },
+  {
+    "id": "nepal-butter-tea",
+    "name": "Butter tea",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Nepal",
+    "state": "Himalaya & Mustang",
+    "regions": [],
+    "description": "Strong tea churned with butter (yak butter, or ghee) and salt, drunk in the Himalayan regions of Nepal; in Sherpa it is called su chya or phe chya. Traditionally tsampa may be added, and cow's-milk butter is increasingly used.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Butter_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Butter_tea",
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine"
+    ]
+  },
+  {
+    "id": "nepal-chhurpi",
+    "name": "Chhurpi",
+    "local_name": "छुर्पी",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Nepal",
+    "state": "Himalaya & Mustang",
+    "regions": [],
+    "description": "A cheese made by boiling buttermilk and draining the curd; the soft kind is cooked with greens or used in momo and chutney, while the hard kind is pressed, dried and smoked until very hard. Thakalis make it from the buttermilk left after making yak butter.",
+    "how_to_eat": "Hard chhurpi is kept in the mouth to soften and chewed slowly, one piece lasting from 30 minutes to hours.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chhurpi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhurpi",
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine"
+    ]
+  },
+  {
+    "id": "nepal-dhungre-roti",
+    "name": "Dhungre roti",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nepal",
+    "state": "Himalaya & Mustang",
+    "regions": [],
+    "description": "A buckwheat pancake common in the Thakali community, which can include vegetables and cheese.",
+    "how_to_eat": "Traditionally eaten plain with a spicy dip of timmur, garlic, chili and salt.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ntb.gov.np/things-to-do/food-&-culinary"
+    ]
+  },
+  {
+    "id": "nepal-timmure-aloo",
+    "name": "Timmure aloo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nepal",
+    "state": "Himalaya & Mustang",
+    "regions": [],
+    "description": "Potatoes seasoned with timmur, a Sichuan-pepper-like wild pepper, from the higher Himalayan region. It is common in Thakali restaurants.",
+    "how_to_eat": "Eaten with dal bhat or as a snack.",
+    "how_to_order": "Order it in Thakali restaurants.",
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ntb.gov.np/things-to-do/food-&-culinary",
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine"
+    ]
+  },
+  {
+    "id": "nepal-chhaang",
+    "name": "Chhaang",
+    "local_name": "छ्याङ",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Nepal",
+    "state": "Himalaya & Mustang",
+    "regions": [
+      "Everest region"
+    ],
+    "description": "A beer brewed from fermented barley, millet or rice, also called jaarh in Nepal. Near Mount Everest it is made by passing hot water through fermenting barley, and Sherpas consider it warming and good for fevers and colds.",
+    "how_to_eat": "Drunk at room temperature in summer and served hot in colder weather.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chhaang",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chhaang",
+      "https://ntb.gov.np/things-to-do/food-&-culinary"
+    ]
+  },
+  {
+    "id": "nepal-dal-bhat",
+    "name": "Dal bhat",
+    "local_name": "दालभात",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nepal",
+    "state": "Middle Hills",
+    "regions": [],
+    "description": "Lentil soup (dal) and boiled rice (bhat), served with vegetable curry (tarkari), achar and often yogurt or buttermilk, with chicken or mutton curry when available. It is eaten throughout Nepal, traditionally twice a day, and in Nepal the dal is often flavoured with jimbu fried in ghee or oil.",
+    "how_to_eat": null,
+    "how_to_order": "Served in almost every restaurant, rice on a metal plate with soup in a separate bowl.",
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dal_bhat",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dal_bhat",
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine",
+      "https://ntb.gov.np/things-to-do/food-&-culinary",
+      "https://english.onlinekhabar.com/local-foods-in-nepal.html"
+    ]
+  },
+  {
+    "id": "nepal-dhindo",
+    "name": "Dhindo",
+    "local_name": "ढिँडो",
+    "pronunciation": "DHIN-ro",
+    "category": "meal",
+    "country": "Nepal",
+    "state": "Middle Hills",
+    "regions": [],
+    "description": "A stiff porridge made by stirring buckwheat, millet or maize flour into boiling water, sometimes with ghee added; it is a traditional staple of Nepal's hill and mountain regions, where rice grew poorly. Once seen as a low-status food, it now appears on urban restaurant menus.",
+    "how_to_eat": "A small ball is pinched off with the fingers, dipped in lentil soup, meat curry, milk or gundruk and swallowed without chewing.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dhindo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dhindo",
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine",
+      "https://ntb.gov.np/things-to-do/food-&-culinary"
+    ]
+  },
+  {
+    "id": "nepal-gundruk",
+    "name": "Gundruk",
+    "local_name": "गुन्द्रुक",
+    "pronunciation": "GOON-drook",
+    "category": "meal",
+    "country": "Nepal",
+    "state": "Middle Hills",
+    "regions": [],
+    "description": "Leaves of mustard, radish and cauliflower, wilted, shredded, fermented without salt for about a week and sun-dried. It is an important source of minerals in the off-season and is served as a side dish, sour soup (gundruk ko jhol) or achar.",
+    "how_to_eat": "Best eaten with dhindo.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gundruk",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gundruk",
+      "https://ntb.gov.np/things-to-do/food-&-culinary",
+      "https://english.onlinekhabar.com/local-foods-in-nepal.html"
+    ]
+  },
+  {
+    "id": "nepal-sel-roti",
+    "name": "Sel roti",
+    "local_name": "सेल रोटी",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Nepal",
+    "state": "Middle Hills",
+    "regions": [],
+    "description": "A ring-shaped, sweet bread of rice-flour batter with water, sugar and ghee, deep-fried in oil or ghee. It is made mostly for Dashain and Tihar, offered to the goddess Laxmi, and keeps for about two weeks.",
+    "how_to_eat": "Eaten alone or with achar, curry or tea.",
+    "how_to_order": "Sold in local restaurants and street stalls.",
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sel_roti",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sel_roti",
+      "https://ntb.gov.np/things-to-do/food-&-culinary",
+      "https://english.onlinekhabar.com/local-foods-in-nepal.html"
+    ]
+  },
+  {
+    "id": "nepal-aloo-tama",
+    "name": "Aloo tama",
+    "local_name": "आलू तामा",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nepal",
+    "state": "Middle Hills",
+    "regions": [],
+    "description": "A sour, spicy soup or stew of potatoes, fermented bamboo shoots (tama) and black-eyed peas, sometimes with garlic, tomato and lemon. It is eaten mostly in winter.",
+    "how_to_eat": "Eaten with plain or beaten rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aloo_tama",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Aloo_tama",
+      "https://ntb.gov.np/things-to-do/food-&-culinary"
+    ]
+  },
+  {
+    "id": "nepal-chukauni",
+    "name": "Chukauni",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nepal",
+    "state": "Middle Hills",
+    "regions": [
+      "Palpa"
+    ],
+    "description": "A potato salad of potatoes, yogurt, onions and spices from Western Nepal around Palpa. It is considered a breakfast dish there.",
+    "how_to_eat": "Eaten warm or cold, often with steamed rice, roti or sel roti.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ntb.gov.np/things-to-do/food-&-culinary"
+    ]
+  },
+  {
+    "id": "nepal-raksi",
+    "name": "Raksi",
+    "local_name": "रक्सी",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Nepal",
+    "state": "Middle Hills",
+    "regions": [],
+    "description": "A clear distilled liquor made from fermented grains such as kodo millet, rice, barley or wheat, often in homemade traditional stills; it is distilled from chhaang. It is drunk at festivals, rituals and social gatherings across Nepal.",
+    "how_to_eat": "Often poured from a height from a small-spouted pitcher into a small glass.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Raksi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Raksi",
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine"
+    ]
+  },
+  {
+    "id": "nepal-thekua",
+    "name": "Thekua",
+    "local_name": "ठेकुवा",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Nepal",
+    "state": "Terai (Madhesh & Mithila)",
+    "regions": [],
+    "description": "A deep-fried sweet of wheat flour, sugar syrup or jaggery and ghee, pressed in a wooden mould and fried in ghee or oil until reddish-brown; it hardens as it cools. It is popular in southern Nepal and is the main offering of Chhath puja.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thekua",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thekua"
+    ]
+  },
+  {
+    "id": "nepal-anarsa",
+    "name": "Anarsa",
+    "local_name": "अनरसा",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Nepal",
+    "state": "Terai (Madhesh & Mithila)",
+    "regions": [],
+    "description": "A biscuit of soaked, dried and ground rice mixed with jaggery, rolled in white poppy seeds and fried in ghee. It is associated with Tihar and is one of the traditional Maithil dishes.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anarsa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Anarsa",
+      "https://en.wikipedia.org/wiki/Maithil_cuisine"
+    ]
+  },
+  {
+    "id": "nepal-bagiya",
+    "name": "Bagiya",
+    "local_name": "बगिया",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Nepal",
+    "state": "Terai (Madhesh & Mithila)",
+    "regions": [],
+    "description": "A steamed rice-flour dumpling filled with sweet chaku, vegetables or other fried items, made by the Maithil, Tharu and Dhimal communities. It is a key part of Laxmi Puja during Tihar.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bagiya",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bagiya",
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine"
+    ]
+  },
+  {
+    "id": "nepal-dhikri",
+    "name": "Dhikri",
+    "local_name": "ढिक्री",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nepal",
+    "state": "Terai (Madhesh & Mithila)",
+    "regions": [],
+    "description": "A steamed rice cake of the Tharu people, made from rice flour and warm water shaped into sausages and steamed under a cotton cloth. It is essential for the Maghi festival and is also made for Dashain and Chhath.",
+    "how_to_eat": "Served with spicy pickles, lentil soup or curry.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dhikri",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dhikri",
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine"
+    ]
+  },
+  {
+    "id": "nepal-litti-chokha",
+    "name": "Litti chokha",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Nepal",
+    "state": "Terai (Madhesh & Mithila)",
+    "regions": [],
+    "description": "Whole-wheat dough balls stuffed with spiced roasted chickpea flour (sattu) and baked or roasted over charcoal, served with chokha, mashed roasted eggplant, tomato and potato with garlic, chili and mustard oil. It is popular in Nepal's Madhesh and eastern Lumbini provinces and is also sold as street food.",
+    "how_to_eat": "In Madhesh Province, litti is served with momo achar.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Litti_(dish)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Litti_(dish)"
+    ]
+  },
+  {
+    "id": "nepal-ghonghi",
+    "name": "Ghonghi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nepal",
+    "state": "Terai (Madhesh & Mithila)",
+    "regions": [],
+    "description": "Small water snails from rivers or ponds, cleaned, boiled and spiced. It is a dish of the Tharu community of the Terai plains.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ntb.gov.np/things-to-do/food-&-culinary",
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine"
+    ]
+  },
+  {
+    "id": "nepal-machh-bhat",
+    "name": "Machh-bhat",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nepal",
+    "state": "Terai (Madhesh & Mithila)",
+    "regions": [],
+    "description": "A Maithil fish curry served with steamed rice; Maithil cooking traditionally uses mustard oil. Fish has religious and cultural significance in Mithila, and fish, betel leaf and fox nut are called its three defining foods.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Maithil_cuisine"
+    ]
+  },
+  {
+    "id": "nepal-tongba",
+    "name": "Tongba",
+    "local_name": "तोङवा",
+    "pronunciation": "TONG-bah",
+    "category": "drink",
+    "country": "Nepal",
+    "state": "Eastern Nepal (Limbu & Rai)",
+    "regions": [],
+    "description": "Fermented finger millet (kodo) in a vessel of the same name, topped with hot water and sipped through a bamboo straw with a filtering end. It is the traditional drink of the Limbu people, used in their weddings, and is mildly alcoholic.",
+    "how_to_eat": "Hot water is poured over the millet and the liquid is sipped through the straw.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tongba",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tongba",
+      "https://ntb.gov.np/things-to-do/food-&-culinary"
+    ]
+  },
+  {
+    "id": "nepal-kinema",
+    "name": "Kinema",
+    "local_name": "किनेमा",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nepal",
+    "state": "Eastern Nepal (Limbu & Rai)",
+    "regions": [],
+    "description": "Soybeans soaked, boiled, cracked and fermented naturally for one to three days in a fern-lined bamboo basket, giving a sticky, strong-smelling product. It is a traditional Limbu food, now also made by other Kirat peoples of eastern Nepal.",
+    "how_to_eat": "Usually cooked into a soup eaten with rice, or made into a dip or side dish.",
+    "how_to_order": "Also sold in local markets as a dried product.",
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kinema",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kinema",
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine"
+    ]
+  },
+  {
+    "id": "nepal-sukuti",
+    "name": "Sukuti",
+    "local_name": "सुकुटी",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Nepal",
+    "state": "Eastern Nepal (Limbu & Rai)",
+    "regions": [],
+    "description": "Thin strips of lean meat, usually buffalo but also lamb or goat, spiced and dried over a wood fire or in the sun. It is a staple of the Limbu people, who call it sakhekya.",
+    "how_to_eat": "Fried with spices and served with onion, tomato and coriander, often alongside drinks, or simmered in curry.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sukuti",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sukuti"
+    ]
+  },
+  {
+    "id": "nepal-sekuwa",
+    "name": "Sekuwa",
+    "local_name": "सेकुवा",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Nepal",
+    "state": "Eastern Nepal (Limbu & Rai)",
+    "regions": [
+      "Dharan",
+      "Tarahara"
+    ],
+    "description": "Goat, chicken, buffalo, lamb or pork marinated in spices, ginger-garlic paste, yogurt, lemon juice and mustard oil, then skewered and grilled over wood or charcoal. It is a specialty of Sunsari District in eastern Nepal, especially Dharan and Tarahara.",
+    "how_to_eat": "Eaten with beaten rice, achar and sliced onion, tomato and cucumber, often with raksi.",
+    "how_to_order": "Sold at roadside stalls and eateries throughout Nepal.",
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sekuwa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sekuwa",
+      "https://ntb.gov.np/things-to-do/food-&-culinary"
+    ]
+  },
+  {
+    "id": "nepal-wachipa",
+    "name": "Wachipa",
+    "local_name": "वाचिपा",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nepal",
+    "state": "Eastern Nepal (Limbu & Rai)",
+    "regions": [],
+    "description": "A Kirat Rai dish of rice and minced chicken mixed with powder of burnt chicken feathers, which gives it a bitter taste; a vegetarian version uses bitter damlapa leaves or flowers. It is eaten on special occasions.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NPR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wachipa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wachipa",
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine"
+    ]
+  }
+]

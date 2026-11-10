@@ -83,6 +83,7 @@ NO_PHOTO = {
     "australia-king-george-whiting", "australia-western-rock-lobster", "australia-marron", "australia-dhufish",
     "australia-tasmanian-abalone", "australia-tasmanian-atlantic-salmon",
     "argentina-provoleta", "argentina-tamal", "brazil-abara", "brazil-tutu-de-feijao", "brazil-feijoada",
+    "ireland-full-irish-breakfast", "ireland-sneem-black-pudding", "ireland-seafood-chowder", "ireland-wexford-rissole", "ireland-galway-oysters",
 }
 out = {}
 for d in dishes:

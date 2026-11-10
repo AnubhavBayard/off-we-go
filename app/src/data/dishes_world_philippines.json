@@ -1,0 +1,1147 @@
+[
+  {
+    "id": "philippines-adobo",
+    "name": "Adobo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Metro Manila & Southern Tagalog",
+    "regions": [],
+    "description": "Meat, seafood or vegetables browned in oil, then marinated and simmered in vinegar, salt and/or soy sauce and garlic; chicken (adobong manok) and pork (adobong baboy) are the most common. It is often considered the unofficial national dish, and the term was recorded in a 1613 Tagalog dictionary as the 'adobo of the natives'.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Adobo_(Filipino_dish)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Adobo_(Filipino_dish)"
+    ]
+  },
+  {
+    "id": "philippines-sinigang",
+    "name": "Sinigang",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Metro Manila & Southern Tagalog",
+    "regions": [],
+    "description": "A sour and savory soup or stew of pork, fish, beef, shrimp or chicken cooked with tamarind (or other sour fruits such as unripe mango or guava), tomatoes, garlic and onions, plus vegetables like okra, taro, radish, water spinach and long beans. It is found nationwide but is considered Tagalog in origin.",
+    "how_to_eat": "Usually eaten with rice, with fish sauce as a common condiment.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sinigang",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sinigang"
+    ]
+  },
+  {
+    "id": "philippines-halo-halo",
+    "name": "Halo-halo",
+    "local_name": "Halúhalò",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Philippines",
+    "state": "Metro Manila & Southern Tagalog",
+    "regions": [
+      "Manila"
+    ],
+    "description": "A cold dessert of crushed ice and evaporated milk (sometimes coconut milk) layered over sweetened beans, coconut strips, sago, agar, pinipig, taro and fruit preserves, often topped with leche flan, ube halaya or ube ice cream. Its name means 'mix-mix', and it is traced to Japanese migrants in Quiapo, Manila in the 1920s-30s; it is considered the unofficial national dessert.",
+    "how_to_eat": "Served in a tall glass with a long spoon; if it has ice cream, that is often eaten first before mixing the rest.",
+    "how_to_order": "Sold from food stands to hotels and at Filipino fast-food chains.",
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Halo-halo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halo-halo"
+    ]
+  },
+  {
+    "id": "philippines-balut",
+    "name": "Balut",
+    "local_name": null,
+    "pronunciation": "ba-LOOT",
+    "category": "street_food",
+    "country": "Philippines",
+    "state": "Metro Manila & Southern Tagalog",
+    "regions": [
+      "Pateros"
+    ],
+    "description": "A fertilized duck egg incubated for about 14 to 18 days in the Philippines and then boiled or steamed, so the partly developed embryo is eaten from the shell. The mallard duck, also called the 'Pateros duck', is often used, and the food was introduced by the Chinese in 1565.",
+    "how_to_eat": "Eaten directly from the shell, often seasoned with salt and vinegar.",
+    "how_to_order": "Sold as street food and in stores and malls.",
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Balut_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Balut_(food)"
+    ]
+  },
+  {
+    "id": "philippines-taho",
+    "name": "Taho",
+    "local_name": "Tahô",
+    "pronunciation": "ta-HO",
+    "category": "street_food",
+    "country": "Philippines",
+    "state": "Metro Manila & Southern Tagalog",
+    "regions": [],
+    "description": "A snack of fresh silken tofu with arnibal (caramelized brown sugar syrup) and sago pearls. The dish came from China via Hokkien immigrants, its name coming from the Hokkien word for tofu.",
+    "how_to_eat": "Served in plastic cups with a spoon or straw, mostly in the morning.",
+    "how_to_order": "Bought from vendors (mágtatahô) who carry two buckets on a pole and call out 'Tahô!' along their route.",
+    "typical_price": "20",
+    "currency": "PHP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Taho",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Taho"
+    ]
+  },
+  {
+    "id": "philippines-pancit-malabon",
+    "name": "Pancit Malabon",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Metro Manila & Southern Tagalog",
+    "regions": [
+      "Malabon"
+    ],
+    "description": "Thick rice noodles in a yellow-orange sauce made with annatto, shrimp broth, fish sauce and crab fat, topped with seafood such as shrimp, squid, smoked milkfish, mussels or oysters. It comes from Malabon in Metro Manila and is similar to pancit palabok, which uses thinner noodles.",
+    "how_to_eat": "Garnished with hard-boiled egg, crushed pork rinds, green onions, fried garlic and a squeeze of calamansi.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "fish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pancit_Malabon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pancit_Malabon"
+    ]
+  },
+  {
+    "id": "philippines-buko-pie",
+    "name": "Buko pie",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Philippines",
+    "state": "Metro Manila & Southern Tagalog",
+    "regions": [
+      "Los Baños"
+    ],
+    "description": "A baked pie filled with young coconut (buko) and sweetened condensed milk, making it denser than cream-based custard pies. It is a specialty of Los Baños, Laguna, where it was created by the Pahud sisters as a local substitute for American apple pie.",
+    "how_to_eat": null,
+    "how_to_order": "Often bought as pasalubong (a homecoming gift) after a visit to Laguna.",
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Buko_pie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Buko_pie"
+    ]
+  },
+  {
+    "id": "philippines-kapeng-barako",
+    "name": "Kapeng barako",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Philippines",
+    "state": "Metro Manila & Southern Tagalog",
+    "regions": [
+      "Batangas",
+      "Cavite"
+    ],
+    "description": "Coffee from the Coffea liberica varietal grown mainly in Batangas and Cavite, with a strong flavor and an aroma reminiscent of aniseed. It was introduced by Spanish friars in the 1740s in Lipa, Batangas, and is listed in Slow Food's Ark of Taste.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kapeng_barako",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kapeng_barako",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-sisig",
+    "name": "Sisig",
+    "local_name": null,
+    "pronunciation": "SEE-sig",
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Central Luzon",
+    "regions": [
+      "Angeles"
+    ],
+    "description": "Chopped pork jowl and ears (maskara) seasoned with calamansi, onions and chili peppers, made by boiling, grilling and then chopping the meat. It is a staple of Kapampangan cuisine; the modern version was developed in Angeles by Lucia Cunanan in 1974, and the city declared sizzling pork sisig a tangible heritage in 2017.",
+    "how_to_eat": "Served on a sizzling hot plate.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sisig",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sisig",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-kare-kare",
+    "name": "Kare-kare",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Central Luzon",
+    "regions": [],
+    "description": "A stew of oxtail, tripe and other beef or pork cuts in a thick sauce of ground roasted peanuts, colored with annatto and thickened with ground toasted rice, with vegetables such as eggplant, banana flower, string beans and bok choy. Its most likely origin is Pampanga, and it is a common dish at Filipino fiestas.",
+    "how_to_eat": "Served hot with sautéed shrimp paste (bagoong alamang) and calamansi on the side.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "peanuts",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kare-kare",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kare-kare",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-tocino",
+    "name": "Tocino",
+    "local_name": "Pindang",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Central Luzon",
+    "regions": [],
+    "description": "Sweetened, cured pork belly strips, cured for several days with sugar, salt and annatto or anise wine, then boiled and fried until the fat renders. Kapampangans call it pindang and simmer it for hours before serving.",
+    "how_to_eat": "Often eaten as tosilog for breakfast or lunch, with garlic rice (sinangág) and a fried egg.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tocino",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tocino",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-burong-isda",
+    "name": "Burong isda",
+    "local_name": "Buro",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Central Luzon",
+    "regions": [],
+    "description": "Cooked rice and raw fish fillets fermented for about a week with salt and red yeast rice (angkak). It is common in Central Luzon, made by Kapampangan, Sambal, Tagalog and other groups, and versions are named after the fish used, such as burong bangus.",
+    "how_to_eat": "Often paired with blanched vegetables.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Burong_isda",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Burong_isda",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-tibok-tibok",
+    "name": "Tibok-tibok",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Philippines",
+    "state": "Central Luzon",
+    "regions": [],
+    "description": "A soft pudding of carabao (water buffalo) milk and ground soaked glutinous rice, flavored with sugar and lime zest and topped with latík (coconut curds). It comes from Pampanga, and the name ('heartbeat') refers to how the thickening mixture seems to pulse as it cooks.",
+    "how_to_eat": "Served cut into squares or diamond-shaped slices.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tibok-tibok",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tibok-tibok",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-pastillas",
+    "name": "Pastillas de leche",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Philippines",
+    "state": "Central Luzon",
+    "regions": [
+      "San Miguel"
+    ],
+    "description": "Milk candies made from carabao or cow milk with sugar and calamansi juice, which originated in San Miguel, Bulacan. They come soft, hard or toasted, and San Miguel holds a Pastillas Festival every May featuring the cut-paper wrappers (pabalat).",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pastillas",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pastillas",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-pinakbet",
+    "name": "Pinakbet",
+    "local_name": "Pakbét",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Ilocos & Northern Luzon",
+    "regions": [],
+    "description": "Vegetables such as eggplant, tomato, okra, bitter melon, string beans and sweet potato cooked with fermented anchovy sauce (bagoong isda), or shrimp paste in some versions, usually without added oil. It is a staple of the Ilocano people, and the name comes from an Ilocano word meaning 'shriveled'.",
+    "how_to_eat": "Eaten as a main course with steamed rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pinakbet",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pinakbet",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-dinengdeng",
+    "name": "Dinengdeng",
+    "local_name": "Inabráw",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Ilocos & Northern Luzon",
+    "regions": [],
+    "description": "A vegetable soup of okra, long beans, eggplant, moringa leaves, bitter gourd or jute leaves seasoned with fermented anchovy sauce (bugguóng), often cooked with grilled or fried fish or dried shrimp. It is a staple of Ilocano cuisine and is related to pinakbet, which has less liquid.",
+    "how_to_eat": "Eaten as a main course with steamed rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dinengdeng",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dinengdeng",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-bagnet",
+    "name": "Bagnet",
+    "local_name": null,
+    "pronunciation": "bag-NET",
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Ilocos & Northern Luzon",
+    "regions": [],
+    "description": "Pork belly seasoned with garlic, peppercorns, bay leaves and salt, boiled, dried overnight and then deep-fried until crisp. It is an Ilocano dish, and its name comes from a word meaning 'to preserve the pork'.",
+    "how_to_eat": "Eaten on its own or with rice, dipped in Ilocos cane vinegar (sukang Iloko) or bagoong.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bagnet",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bagnet",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-vigan-longganisa",
+    "name": "Vigan longganisa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Ilocos & Northern Luzon",
+    "regions": [
+      "Vigan"
+    ],
+    "description": "An air-dried pork sausage from Vigan, Ilocos Sur, made with ground pork and fat, garlic, vinegar, soy sauce, brown sugar, annatto and pepper, giving it a salty, garlicky and sour flavor. Vigan holds an annual Longganisa Festival in January.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vigan_longganisa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Vigan_longganisa",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-dinakdakan",
+    "name": "Dinakdakan",
+    "local_name": "Warek-warek",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Ilocos & Northern Luzon",
+    "regions": [],
+    "description": "Boiled and grilled pork jowl, ears and other parts chopped and dressed with Ilocos vinegar or calamansi, onions, ginger, chilies and traditionally mashed pig's brain, now often replaced with mayonnaise. It comes from the Ilocos Region and is often compared to sisig, but with larger pieces.",
+    "how_to_eat": "Commonly eaten as pulutan (food with alcoholic drinks), sometimes with rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dinakdakan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dinakdakan",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-pinapaitan",
+    "name": "Pinapaitan",
+    "local_name": "Papaítan",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Ilocos & Northern Luzon",
+    "regions": [],
+    "description": "A stew of goat, cow or carabao meat and offal cooked with ginger, made bitter with bile or cud from the animal's gallbladder. It originated in the Ilocos Region, and its name comes from the Ilocano word paít, meaning 'bitter'.",
+    "how_to_eat": "Eaten with steamed rice as a main dish, breakfast or pulutan.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pinapaitan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pinapaitan",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-igado",
+    "name": "Igado",
+    "local_name": "Dinaldalem",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Ilocos & Northern Luzon",
+    "regions": [],
+    "description": "Strips of pork tenderloin and pork liver, kidney, heart and other offal sautéed with garlic and onions and simmered in soy sauce and vinegar with bay leaves and pepper. It is a staple of Ilocano cuisine, and its name comes from the Spanish hígado ('liver').",
+    "how_to_eat": "Served as a main dish with steamed rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Igado",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Igado",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-pinikpikan",
+    "name": "Pinikpikan",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Ilocos & Northern Luzon",
+    "regions": [
+      "Cordillera"
+    ],
+    "description": "A chicken soup of the Igorot people of the Cordillera, boiled with ginger and sometimes vegetables or salted pork (etag). Traditionally the live bird is beaten with a stick before cooking, which is said to improve the flavor and which violates the Philippine Animal Welfare Act; its feathers are burned off, giving a smoky taste.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pinikpikan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pinikpikan",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-bicol-express",
+    "name": "Bicol express",
+    "local_name": "Sinilihan",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Bicol",
+    "regions": [],
+    "description": "A stew of pork cooked with long or small chili peppers, coconut milk or cream, shrimp paste, onion, ginger and garlic. It was named in the 1970s in Malate, Manila, after the Manila-Legazpi train, but is made in the Bicolano style; in Bikol it is called sinilihan ('spiced with chili').",
+    "how_to_eat": "Served with rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bicol_express",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bicol_express",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-laing",
+    "name": "Laing",
+    "local_name": "Pinangat",
+    "pronunciation": "LAH-ing",
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Bicol",
+    "regions": [],
+    "description": "Taro leaves cooked in thick coconut milk with labuyo chili, lemongrass, garlic, ginger and shrimp paste, often with pork, shrimp or fish. In the Bicol Region, where it originates, it is called pinangat and made as whole taro-leaf pouches steamed in coconut milk.",
+    "how_to_eat": "Eaten as a side with meat or fish dishes and white rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laing_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Laing_(food)",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-kinalas",
+    "name": "Kinalas",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Bicol",
+    "regions": [
+      "Naga"
+    ],
+    "description": "A noodle soup topped with meat scraped from a pork or beef head, with a thick brown sauce made from the animal's brains, flavored with chili and pepper. It comes from Naga City, and the name comes from a Bicolano verb meaning 'to remove the meat from the bones'.",
+    "how_to_eat": "Served in hot broth, optionally with a boiled egg.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kinalas",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kinalas",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-kinunot",
+    "name": "Kinunot",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Bicol",
+    "regions": [],
+    "description": "Shredded fish, commonly stingray or shark, cooked in coconut milk with spices and chili. It is one of the Bicol Region's coconut milk and chili dishes.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-sili-ice-cream",
+    "name": "Sili ice cream",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Philippines",
+    "state": "Bicol",
+    "regions": [
+      "Albay"
+    ],
+    "description": "An ice cream made with labuyo chili, coconut milk, puréed strawberries and sugar. It was created by the 1st Colonial Grill restaurant in Albay in 2004, inspired by Bicol's spicy coconut milk dishes.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sili_ice_cream",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sili_ice_cream",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-chicken-inasal",
+    "name": "Chicken inasal",
+    "local_name": "Inasal",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Visayas",
+    "regions": [
+      "Bacolod",
+      "Iloilo"
+    ],
+    "description": "Chicken marinated in calamansi, black pepper, coconut vinegar and annatto, then grilled over hot coals while basted with the marinade. Bacolod's version is slightly sour and Iloilo's is sweeter; it became popular on Bacolod's 'Manokan Country' street in the 1970s and was declared a cultural property of Bacolod in 2022.",
+    "how_to_eat": "Served with rice, calamansi, soy sauce, chicken oil and spiced palm vinegar (sinamak).",
+    "how_to_order": "Order by part: pecho (breast and wing) or paa (leg and thigh).",
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chicken_inasal",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chicken_inasal",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-lechon",
+    "name": "Cebu lechon",
+    "local_name": "Litson",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Visayas",
+    "regions": [
+      "Cebu"
+    ],
+    "description": "A whole pig roasted for hours on a bamboo spit over coconut-husk charcoal. The Cebu (Visayan) style is stuffed with lemongrass, scallions, bay leaves, garlic and pepper, so it needs no liver sauce, unlike the Manila style; it has a crisp skin and moist meat.",
+    "how_to_eat": "Served with simple dips such as salt and vinegar or soy sauce with calamansi and chili.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pig_roast",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pig_roast",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-la-paz-batchoy",
+    "name": "La Paz batchoy",
+    "local_name": "Batsoy",
+    "pronunciation": "BAT-choy",
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Visayas",
+    "regions": [
+      "Iloilo"
+    ],
+    "description": "A noodle soup of round egg noodles (miki) in broth with pork offal, beef, shrimp broth and crushed pork cracklings. It comes from the La Paz district of Iloilo City, where several shops claim to have created it between 1922 and 1945.",
+    "how_to_eat": "Topped with leeks, chicharon and sometimes a raw egg.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Batchoy",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Batchoy",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-pancit-molo",
+    "name": "Pancit Molo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Visayas",
+    "regions": [
+      "Iloilo"
+    ],
+    "description": "A soup of ground-pork dumplings in wonton wrappers with shredded chicken and shrimp. It originated in the Molo district of Iloilo City, and unlike most pancit it is soupy and uses wrappers instead of long noodles.",
+    "how_to_eat": "Garnished with green onions and fried garlic.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pancit_Molo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pancit_Molo",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-piaya",
+    "name": "Piaya",
+    "local_name": "Piyaya",
+    "pronunciation": "pee-YA-ya",
+    "category": "sweet",
+    "country": "Philippines",
+    "state": "Visayas",
+    "regions": [
+      "Bacolod"
+    ],
+    "description": "An unleavened flatbread filled with muscovado sugar, flattened, sprinkled with sesame seeds and baked on a griddle; ube and mango fillings are also made. It is especially associated with Negros Occidental.",
+    "how_to_eat": "Best eaten warm.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Piaya_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Piaya_(food)",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-kbl",
+    "name": "Kadyos, baboy, kag langka (KBL)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Visayas",
+    "regions": [
+      "Iloilo"
+    ],
+    "description": "A soup of pigeon peas, pork hock and unripe jackfruit, soured with batuan fruit and flavored with lemongrass and fish sauce; the peas turn it purple. It comes from the Hiligaynon people of Western Visayas.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kadyos,_baboy,_kag_langka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kadyos,_baboy,_kag_langka",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-humba",
+    "name": "Humba",
+    "local_name": "Humbà",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Visayas",
+    "regions": [],
+    "description": "Fatty pork belly braised until tender in soy sauce, vinegar, garlic, bay leaves and fermented black beans (tausi), sweetened with muscovado, often with hard-boiled eggs and banana blossoms. It is a Visayan dish derived from Hokkien red-braised pork.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Humba",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Humba",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-kinilaw",
+    "name": "Kinilaw",
+    "local_name": "Kilawin",
+    "pronunciation": "ki-ni-LAOW",
+    "category": "snack",
+    "country": "Philippines",
+    "state": "Visayas",
+    "regions": [],
+    "description": "Raw cubed fish such as tanigue (Spanish mackerel) or marlin, mixed with coconut or cane vinegar and calamansi or other souring agents, and flavored with ginger, onions and chili. The name is a Visayan word meaning 'to eat raw', and the method is native to the Philippines.",
+    "how_to_eat": "Eaten as an appetizer before a meal or as pulutan with drinks.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kinilaw",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kinilaw",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-satti",
+    "name": "Satti",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Mindanao",
+    "regions": [
+      "Zamboanga"
+    ],
+    "description": "Small skewers of grilled chicken or beef, usually three strips per stick, served with a warm peanut-based sauce and rice cakes. It is derived from satay and is common in Zamboanga, Sulu and Tawi-Tawi, especially in Tausug cuisine.",
+    "how_to_eat": "Eaten with ta'mu (rice cakes) and a bowl of the peanut sauce.",
+    "how_to_order": "Commonly eaten for breakfast at restaurants that specialize in satti.",
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Satay",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-tiyula-itum",
+    "name": "Tiyula itum",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Mindanao",
+    "regions": [
+      "Sulu"
+    ],
+    "description": "A beef or goat soup made black by charred coconut meat, cooked with turmeric, ginger, galangal, lemongrass and black pepper. It is a Tausug dish, sometimes called 'food for royalty', prepared for weddings and Hari Raya.",
+    "how_to_eat": "Served with white rice or tamu rice cakes.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tiyula_itum",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tiyula_itum",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-piyanggang-manok",
+    "name": "Piyanggang manok",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Philippines",
+    "state": "Mindanao",
+    "regions": [
+      "Sulu"
+    ],
+    "description": "Chicken braised in turmeric, lemongrass, ginger, chilies, garlic, coconut milk and ground burnt coconut, which turns the dish black; the chicken may be grilled first. It is a Tausug dish from Sulu.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Piyanggang_manok",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Piyanggang_manok",
+      "https://en.wikipedia.org/wiki/Filipino_cuisine"
+    ]
+  },
+  {
+    "id": "philippines-pastil",
+    "name": "Pastil",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Philippines",
+    "state": "Mindanao",
+    "regions": [],
+    "description": "Steamed rice wrapped in banana leaves with shredded chicken or fish cooked with garlic, onions and soy sauce. It comes from the Maguindanao people and is a cheap halal breakfast in Mindanao.",
+    "how_to_eat": "Eaten with pickled vegetables and coffee or hot chocolate for breakfast or merienda.",
+    "how_to_order": "Sold by restaurants and street vendors in Muslim communities.",
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pastil",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pastil"
+    ]
+  },
+  {
+    "id": "philippines-panyalam",
+    "name": "Panyalam",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Philippines",
+    "state": "Mindanao",
+    "regions": [],
+    "description": "A deep-fried pancake made from a batter of ground glutinous rice, muscovado and coconut milk. It is a traditional food of Muslim Filipinos such as the Maguindanao, Maranao and Tausug, served at special occasions including Hari Raya.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PHP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Panyalam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Panyalam"
+    ]
+  }
+]

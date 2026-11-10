@@ -1,0 +1,800 @@
+[
+  {
+    "id": "ireland-dublin-coddle",
+    "name": "Dublin coddle",
+    "local_name": "cadal",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ireland",
+    "state": "Dublin & the East",
+    "regions": [
+      "Dublin"
+    ],
+    "description": "Layers of sliced pork sausages and rashers of back bacon with chunky potatoes, sliced onion, salt, pepper and herbs, braised in the stock from boiling the bacon and sausages; traditionally it can include barley. It was often made to use up leftovers and is particularly associated with Dublin, appearing in the works of James Joyce.",
+    "how_to_eat": "Traditionally eaten with bread.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Coddle",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Coddle",
+      "https://en.wikipedia.org/wiki/Irish_cuisine"
+    ]
+  },
+  {
+    "id": "ireland-full-irish-breakfast",
+    "name": "Full Irish breakfast",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ireland",
+    "state": "Dublin & the East",
+    "regions": [],
+    "description": "A fried breakfast of sausage, bacon and eggs, sometimes with brown soda bread, fried potato farls, white pudding or boxty; slices of fried or grilled black pudding are also commonly served. It is eaten across Connacht, Leinster and Munster and has enjoyed a resurgence in popularity.",
+    "how_to_eat": null,
+    "how_to_order": "Its fillings are also sold in a bread roll as the breakfast roll at petrol stations and corner shops.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Full_breakfast",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Full_breakfast",
+      "https://en.wikipedia.org/wiki/Black_pudding",
+      "https://en.wikipedia.org/wiki/Breakfast_roll",
+      "https://en.wikipedia.org/wiki/Irish_cuisine"
+    ]
+  },
+  {
+    "id": "ireland-irish-stew",
+    "name": "Irish stew",
+    "local_name": "stobhach Gaelach",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ireland",
+    "state": "Dublin & the East",
+    "regions": [],
+    "description": "A stew traditionally made with lamb or mutton, potatoes, onions and parsley, sometimes with carrots; in modern times it is also commonly made with beef. Purists hold that only neck mutton chops or kid, potatoes, onions and water belong in it, while others add carrots, turnips and pearl barley. It is considered a national dish of Ireland.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Irish_stew",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Irish_stew",
+      "https://en.wikipedia.org/wiki/Irish_cuisine"
+    ]
+  },
+  {
+    "id": "ireland-colcannon",
+    "name": "Colcannon",
+    "local_name": "cál ceannann",
+    "pronunciation": "kawl KYAN-un",
+    "category": "meal",
+    "country": "Ireland",
+    "state": "Dublin & the East",
+    "regions": [],
+    "description": "Mashed potatoes with cabbage, most commonly made with only potatoes, butter, milk and cabbage; some recipes use kale instead, or add scallions, leeks, onions or chives. It is a popular dish on Saint Patrick's Day and on the feast day of St. Brigid.",
+    "how_to_eat": "Often eaten with boiled ham, salt pork or Irish bacon.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Colcannon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Colcannon",
+      "https://en.wikipedia.org/wiki/Irish_cuisine"
+    ]
+  },
+  {
+    "id": "ireland-guinness",
+    "name": "Guinness",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Ireland",
+    "state": "Dublin & the East",
+    "regions": [
+      "Dublin"
+    ],
+    "description": "A stout that originated in the 18th century at Arthur Guinness's St. James's Gate brewery in Dublin, flavoured by malted barley and roasted unmalted barley. The draught beer's thick, creamy head comes from mixing it with nitrogen and carbon dioxide, and it is the highest-selling beer in Ireland.",
+    "how_to_eat": "Traditionally paired with oysters.",
+    "how_to_order": "The Guinness Storehouse at St. James's Gate Brewery in Dublin is a visitor attraction.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guinness",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Guinness",
+      "https://www.ireland.com/en-fi/magazine/food-and-drink/traditional-irish-food/"
+    ]
+  },
+  {
+    "id": "ireland-spice-bag",
+    "name": "Spice bag",
+    "local_name": "mála spíosrach",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Ireland",
+    "state": "Dublin & the East",
+    "regions": [
+      "Dublin"
+    ],
+    "description": "A fast-food dish inspired by Chinese cuisine: deep-fried salt and chilli chips, salt and chilli chicken (usually shredded), red and green peppers, sliced chilli peppers, fried onions and spices, served in a paper bag. It was created around 2006 at a Chinese takeaway in Templeogue, Dublin, and was voted Ireland's favourite takeaway dish in 2020.",
+    "how_to_eat": "Sometimes accompanied by a tub of curry sauce.",
+    "how_to_order": "Sold mainly in Chinese takeaways and chip shops; a vegetarian version with fried tofu is often available.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spice_bag",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Spice_bag"
+    ]
+  },
+  {
+    "id": "ireland-chicken-fillet-roll",
+    "name": "Chicken fillet roll",
+    "local_name": "rollóg sicín",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Ireland",
+    "state": "Dublin & the East",
+    "regions": [],
+    "description": "A baguette filled with a breaded fillet of processed chicken, often with butter, mayonnaise, lettuce, onion, cheese, stuffing or potato wedges. It is a deli item sold throughout Ireland and has been declared Ireland's favourite deli food.",
+    "how_to_eat": null,
+    "how_to_order": "Order at the deli counter of a convenience shop, newsagent, supermarket or petrol station, choosing plain, spicy or Southern-fried breading; taco sauce is a popular addition.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chicken_fillet_roll",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chicken_fillet_roll",
+      "https://en.wikipedia.org/wiki/Irish_cuisine"
+    ]
+  },
+  {
+    "id": "ireland-gur-cake",
+    "name": "Gur cake",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Ireland",
+    "state": "Dublin & the East",
+    "regions": [
+      "Dublin"
+    ],
+    "description": "A pastry with a thick layer of dark brown filling, made from cake or bread crumbs, dried fruit such as sultanas and a sweetener or binder, between two thin layers of pastry. It is traditionally associated with Dublin and was a cheap confection made from bakery leftovers; elsewhere in Ireland it is known as chester cake.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fruit_slice",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fruit_slice"
+    ]
+  },
+  {
+    "id": "ireland-drisheen",
+    "name": "Drisheen",
+    "local_name": "drisín",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ireland",
+    "state": "Cork & Munster",
+    "regions": [
+      "Cork",
+      "Limerick"
+    ],
+    "description": "A blood pudding made from cow's, pig's or sheep's blood, milk, salt and fat, boiled, sieved and cooked in an animal intestine; it has a gelatinous consistency unlike other Irish black puddings. In Cork and Limerick it is paired with tripe as \"packet and tripe\", a combination strongly associated with Limerick.",
+    "how_to_eat": "Usually needs further cooking before eating; often served with tripe.",
+    "how_to_order": "Sold at the English Market in Cork city.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Drisheen",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Drisheen",
+      "https://discoverireland.ie/irelands-ancient-east/food-drink-irelands-ancient-east",
+      "https://en.wikipedia.org/wiki/Black_pudding"
+    ]
+  },
+  {
+    "id": "ireland-spiced-beef",
+    "name": "Spiced beef",
+    "local_name": "mairteoil spíosraithe",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ireland",
+    "state": "Cork & Munster",
+    "regions": [
+      "Cork"
+    ],
+    "description": "Beef such as round, silverside, topside or brisket, cured with salt and spices such as allspice, juniper, cloves and pepper, then boiled or semi-steamed in water or stout. It remains a traditional Christmas dish in Ireland, popular in Cork on Christmas Day.",
+    "how_to_eat": "Served cold in thin slices, often with brown bread and chutney.",
+    "how_to_order": "Sold year round in some Irish supermarkets.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spiced_beef",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Spiced_beef"
+    ]
+  },
+  {
+    "id": "ireland-skirts-and-kidneys",
+    "name": "Skirts and kidneys",
+    "local_name": "íochtar an chliatháin agus duáin",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ireland",
+    "state": "Cork & Munster",
+    "regions": [
+      "Cork"
+    ],
+    "description": "A white stew of pork skirts (diaphragm trimmings) and pork kidneys with onions, thyme, salt, white pepper, water and potatoes, simmered for about two hours. It comes from Cork's offal cuisine, which grew out of the city's historic beef and pork export trade; a Waterford variant uses generous white pepper instead of thyme.",
+    "how_to_eat": "Often served with crusty white bread to soak up the juices.",
+    "how_to_order": "The meat can be bought at pork butchers.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Skirts_and_kidneys",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Skirts_and_kidneys"
+    ]
+  },
+  {
+    "id": "ireland-crubeens",
+    "name": "Crubeens",
+    "local_name": "crúibín",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Ireland",
+    "state": "Cork & Munster",
+    "regions": [
+      "Cork"
+    ],
+    "description": "Boiled pigs' feet, sometimes including the calves, which may also be fried, broiled or baked. They were a common food in rural Irish pubs, salted to make drinkers thirsty, and are part of Cork's traditional pig-offal cooking.",
+    "how_to_eat": "Traditionally eaten by hand, with brown soda bread and stout.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Crubeens",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Crubeens",
+      "https://en.wikipedia.org/wiki/Skirts_and_kidneys"
+    ]
+  },
+  {
+    "id": "ireland-murphys-irish-stout",
+    "name": "Murphy's Irish Stout",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Ireland",
+    "state": "Cork & Munster",
+    "regions": [
+      "Cork"
+    ],
+    "description": "A stout brewed at the Murphy's Brewery in Cork, brewed to be less heavy and less bitter than Guinness, with a caramel and malt flavour. It was a solely local stout until the brewery was bought by Heineken in 1983.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Murphy%27s_Irish_Stout",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Murphy%27s_Irish_Stout",
+      "https://en.wikipedia.org/wiki/Irish_cuisine"
+    ]
+  },
+  {
+    "id": "ireland-sneem-black-pudding",
+    "name": "Sneem black pudding",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ireland",
+    "state": "Cork & Munster",
+    "regions": [
+      "Sneem"
+    ],
+    "description": "A local variety of black pudding produced in County Kerry, with EU Protected Geographical Indication status. Black pudding is a blood sausage of pork or occasionally beef blood with pork fat or beef suet and a cereal, usually oatmeal or barley.",
+    "how_to_eat": "Slices are usually fried or grilled and served as part of a full breakfast.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_pudding",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Black_pudding",
+      "https://en.wikipedia.org/wiki/List_of_Republic_of_Ireland_food_and_drink_products_with_protected_status"
+    ]
+  },
+  {
+    "id": "ireland-limerick-ham",
+    "name": "Limerick ham",
+    "local_name": "Liamhás Luimnigh",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ireland",
+    "state": "Cork & Munster",
+    "regions": [
+      "Limerick"
+    ],
+    "description": "A ham dry-cured with salt, saltpetre and sugar and then smoked, traditionally over juniper branches; the method was developed in County Limerick. From the 19th century Limerick's ham makers made the city known as \"Pigtown\" and exported across the British Empire.",
+    "how_to_eat": "Steeped in cold water overnight, boiled in cider, then baked at high heat to crisp the fat.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Limerick_ham",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Limerick_ham"
+    ]
+  },
+  {
+    "id": "ireland-irish-coffee",
+    "name": "Irish coffee",
+    "local_name": "caife Gaelach",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Ireland",
+    "state": "Cork & Munster",
+    "regions": [
+      "Foynes",
+      "Shannon"
+    ],
+    "description": "Hot black coffee with Irish whiskey and sugar stirred in, topped with a floated layer of thick cream. One origin story credits Joe Sheridan, chef at the Foynes flying-boat terminal near present-day Shannon Airport, who added whiskey to passengers' coffee in 1942 or 1943.",
+    "how_to_eat": "Drunk through the cream layer.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Irish_coffee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Irish_coffee",
+      "https://en.wikipedia.org/wiki/Irish_cuisine"
+    ]
+  },
+  {
+    "id": "ireland-galway-oysters",
+    "name": "Galway oysters",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ireland",
+    "state": "Galway & the West",
+    "regions": [
+      "Galway",
+      "Clarinbridge"
+    ],
+    "description": "Native oysters from Galway Bay, celebrated each September at the Galway International Oyster and Seafood Festival, held since 1954 at the start of the oyster season. Oysters are also sourced from Clew Bay and Donegal.",
+    "how_to_eat": "Traditionally paired with Guinness.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ostrea_edulis",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Galway_International_Oyster_Festival",
+      "https://www.ireland.com/en-fi/magazine/food-and-drink/traditional-irish-food/",
+      "https://en.wikipedia.org/wiki/Irish_cuisine"
+    ]
+  },
+  {
+    "id": "ireland-seafood-chowder",
+    "name": "Seafood chowder",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ireland",
+    "state": "Galway & the West",
+    "regions": [
+      "Doolin"
+    ],
+    "description": "A creamy soup made with local white fish, smoked fish and salmon. It is served in coastal pubs and restaurants, such as in Doolin, County Clare.",
+    "how_to_eat": "Served with sliced brown bread.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chowder",
+    "source_urls": [
+      "https://www.ireland.com/en-fi/magazine/food-and-drink/traditional-irish-food/",
+      "https://en.wikipedia.org/wiki/Chowder"
+    ]
+  },
+  {
+    "id": "ireland-smoked-salmon",
+    "name": "Irish smoked salmon",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ireland",
+    "state": "Galway & the West",
+    "regions": [
+      "Lisdoonvarna"
+    ],
+    "description": "Hot- or cold-smoked salmon from producers such as the Burren Smokehouse in Lisdoonvarna, County Clare. Brown soda bread served with smoked salmon reappeared on luxury hotel menus in the 1960s.",
+    "how_to_eat": "Served simply with brown soda bread and Irish butter.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Smoked_salmon",
+    "source_urls": [
+      "https://www.ireland.com/en-fi/magazine/food-and-drink/traditional-irish-food/",
+      "https://en.wikipedia.org/wiki/Soda_bread",
+      "https://en.wikipedia.org/wiki/Smoked_salmon"
+    ]
+  },
+  {
+    "id": "ireland-connemara-hill-lamb",
+    "name": "Connemara Hill Lamb",
+    "local_name": "Uain Sléibhe Chonamara",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ireland",
+    "state": "Galway & the West",
+    "regions": [
+      "Connemara"
+    ],
+    "description": "Lamb from the Connemara black-faced horned ewe, a breed unique to the region dating back to the 1800s, raised on herbs, heathers and grasses of the Connemara hills. It received EU Protected Geographical Indication status in 2007.",
+    "how_to_eat": null,
+    "how_to_order": "Available seasonally from July.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://connemara.net/connemara-hill-lamb",
+      "https://en.wikipedia.org/wiki/List_of_Republic_of_Ireland_food_and_drink_products_with_protected_status",
+      "https://www.ireland.com/en-fi/magazine/food-and-drink/traditional-irish-food/"
+    ]
+  },
+  {
+    "id": "ireland-boxty",
+    "name": "Boxty",
+    "local_name": "bacstaí",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ireland",
+    "state": "Galway & the West",
+    "regions": [
+      "Mayo",
+      "Sligo",
+      "Leitrim"
+    ],
+    "description": "A potato pancake of finely grated raw potato and flour, often with mashed potato, milk and butter, fried on a griddle; it is also baked as boxty bread or boiled as dumplings. It is mostly associated with the north midlands, north Connacht and southern Ulster, especially Leitrim, Mayo, Sligo, Longford and Cavan.",
+    "how_to_eat": "Served with butter, honey or sugar, or filled with vegetables, meat or cheese.",
+    "how_to_order": "Sold in shops and supermarkets as dumplings or ready-cooked pancakes.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boxty",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Boxty",
+      "https://en.wikipedia.org/wiki/Full_breakfast"
+    ]
+  },
+  {
+    "id": "ireland-poitin",
+    "name": "Poitín",
+    "local_name": "Poitín",
+    "pronunciation": "PUT-cheen",
+    "category": "drink",
+    "country": "Ireland",
+    "state": "Galway & the West",
+    "regions": [
+      "Connemara"
+    ],
+    "description": "A traditional Irish spirit of 40-90% ABV, historically distilled in a small pot still in remote rural areas; under its technical file it may be made only from cereals, grain, whey, sugar beet, molasses and potatoes. Irish poitín has EU geographical indication status, and folk songs such as The Hills of Connemara are about it.",
+    "how_to_eat": null,
+    "how_to_order": "Commercially produced spirits labelled poitín, poteen or potcheen are sold legally.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Poit%C3%ADn",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Poit%C3%ADn",
+      "https://en.wikipedia.org/wiki/List_of_Republic_of_Ireland_food_and_drink_products_with_protected_status"
+    ]
+  },
+  {
+    "id": "ireland-waterford-blaa",
+    "name": "Waterford blaa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Ireland",
+    "state": "Waterford & the South-East",
+    "regions": [
+      "Waterford"
+    ],
+    "description": "A soft, doughy, square white bread roll dusted with flour, sold as soft (slightly sweet, malty) or crusty. It is made in County Waterford and south County Kilkenny by four remaining bakeries and was awarded EU Protected Geographical Indication status in 2013.",
+    "how_to_eat": "Eaten mainly at breakfast with butter, or as a breakfast blaa with egg, bacon rasher and sausage; best within a few hours of baking.",
+    "how_to_order": "Buy from one of the remaining blaa bakeries, such as Walsh's Bakehouse or Barron's Bakery.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blaa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Blaa",
+      "https://en.wikipedia.org/wiki/List_of_Republic_of_Ireland_food_and_drink_products_with_protected_status",
+      "https://discoverireland.ie/irelands-ancient-east/food-drink-irelands-ancient-east"
+    ]
+  },
+  {
+    "id": "ireland-wexford-rissole",
+    "name": "Wexford rissole",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Ireland",
+    "state": "Waterford & the South-East",
+    "regions": [
+      "Wexford"
+    ],
+    "description": "Boiled potatoes mashed with herbs and spices, battered or breadcrumbed and fried. Fried rissoles are common in Ireland, especially in County Wexford.",
+    "how_to_eat": "Served with chips, chicken or battered sausages.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rissole",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rissole"
+    ]
+  },
+  {
+    "id": "ireland-wexford-strawberries",
+    "name": "Wexford strawberries",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Ireland",
+    "state": "Waterford & the South-East",
+    "regions": [
+      "Wexford"
+    ],
+    "description": "Strawberries traditionally grown in County Wexford, which Discover Ireland calls the county's famous fruit.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://discoverireland.ie/wexford/food-and-drink",
+      "https://goodfoodireland.ie/?p=15116"
+    ]
+  },
+  {
+    "id": "ireland-smithwicks",
+    "name": "Smithwick's",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Ireland",
+    "state": "Waterford & the South-East",
+    "regions": [
+      "Kilkenny"
+    ],
+    "description": "An Irish red ale founded in Kilkenny in 1710 by John Smithwick, on the site of a Franciscan abbey where monks had brewed ale since the 14th century. Production moved to Dublin when the Kilkenny brewery closed in 2013; the old brewery is now the Smithwick's Experience visitor centre.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Smithwick%27s",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Smithwick%27s",
+      "https://en.wikipedia.org/wiki/Irish_cuisine"
+    ]
+  },
+  {
+    "id": "ireland-cashel-blue",
+    "name": "Cashel Blue",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Ireland",
+    "state": "Waterford & the South-East",
+    "regions": [
+      "Fethard",
+      "Cashel"
+    ],
+    "description": "A hand-made, semi-soft, mildly blue-veined cows' milk cheese with a creamy texture, made since 1984 by the Grubb family on their farm near Fethard, County Tipperary. It is named after the Rock of Cashel.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/J%26L_Grubb",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/J%26L_Grubb",
+      "https://discoverireland.ie/irelands-ancient-east/food-drink-irelands-ancient-east"
+    ]
+  }
+]

@@ -417,3 +417,18 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
 - Photo check batch 3: 143 new photos. 15 wrong-subject lead images dropped via new NO_PHOTO set in fetch_dish_images.py (Vegemite logo, bunya tree, FruChocs mascot, live fish/crustaceans for whiting, rock lobster, marron, dhufish, abalone, salmon, Moreton Bay bug drawing; asado grill for provoleta; Oaxacan tamal; feijoada photo on abará/tutu; Portuguese feijoada). 1,286 dishes with photos.
 - 1,561 dishes, 33 countries. Built + installed on phone 2026-11-10. Not committed yet.
 - Next: commit + push batch 3 when user OKs; next batch candidates Philippines, Sri Lanka, Nepal, Ireland, Switzerland.
+- Committed + pushed 5efc629 (batch 3, tab fix).
+
+## 2026-11-10: batch 4
+- Batch 4: Philippines, Sri Lanka, Nepal, Ireland (registered in world_spec.md + COUNTRY_CODE; PHP, LKR, NPR, EUR).
+- Philippines: research agent running.
+- User: when batch 4 is done (after photos + check): install on phone, then commit + push, then start batch 5 (Switzerland, Belgium, Lebanon, Sweden).
+- Philippines done: 40 dishes, 6 regions (Manila & S. Tagalog 8, Central Luzon 6, Ilocos & N. Luzon 8, Bicol 5, Visayas 8, Mindanao 5). No GIs (IPOPHL GIs are mangoes, salt, piña cloth, t'nalak). Cebu lechon links to Pig roast (check photo). Safe-side allergens on sili ice cream, pancit Molo, buko pie, batchoy, sinigang, dinakdakan. Spot-check OK. Validator OK.
+- Sri Lanka: research agent running.
+- Sri Lanka done: 29 dishes, 4 regions (Colombo & Western 8, Kandy & Hill Country 7, Jaffna North & East 7, South Coast 7; East merged into North, too few sourced dishes). No GIs (Ceylon tea EU GI applied 2024, grant not confirmed). Kandy placement of island-wide sweets is agent's call. Faluda veg (jelly gelatin unknown). Some entries sourced from travel sites (Wikipedia rate-limited). Spot-check OK. Validator OK.
+- Nepal: research agent running.
+- Nepal done: 35 dishes, 5 regions (Kathmandu Valley 8, Himalaya & Mustang 8, Middle Hills 7, Terai 7, Eastern Nepal 5). No GIs. 7 dishes without wiki article (some single-source: NTB, Maithil cuisine). Thukpa veg (source: Nepalese version mostly veg). Spot-check OK. Validator OK.
+- Ireland: research agent running (last of batch 4).
+- Ireland done: 27 dishes, 4 regions (Dublin & East 8, Cork & Munster 8, Galway & West 6, Waterford & South-East 5). GI true 4: Waterford blaa PGI, Sneem black pudding PGI, Connemara Hill Lamb PGI, Irish poitín GI. Irish whiskey/champ/soda farl left in UK file. South-East thin. Validator OK.
+- Photos batch 4: 104 new; 5 dropped via NO_PHOTO (Full English photo on Irish breakfast, Stornoway pudding on Sneem, US shrimp chowder, Indonesian risoles on Wexford rissole, empty oyster shells). 1,385 dishes with photos.
+- BATCH 4 DONE: 37 countries, 1,692 dishes. Installed on phone 2026-11-10.

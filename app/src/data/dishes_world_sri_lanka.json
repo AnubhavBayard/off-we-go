@@ -1,0 +1,856 @@
+[
+  {
+    "id": "sri_lanka-hoppers",
+    "name": "Hoppers (appa)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sri Lanka",
+    "state": "Colombo & Western",
+    "regions": [
+      "Colombo"
+    ],
+    "description": "Bowl-shaped pancakes made from a fermented batter, usually of rice flour and coconut milk, fermented with palm toddy or yeast. Savoury versions include egg hoppers, with an egg cooked in the centre, and milk hoppers; sweet versions include pani appa. Known as appam in Tamil and appa in Sinhala.",
+    "how_to_eat": "Eaten with sambols and curry; plain hoppers are often paired with lunu miris, a relish of red onions and chillies.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Appam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine",
+      "https://en.wikipedia.org/wiki/Appam",
+      "https://www.hidmc.com/blog-posts/street-food-in-jaffna-vs-colombo"
+    ]
+  },
+  {
+    "id": "sri_lanka-string-hoppers",
+    "name": "String hoppers (idiyappam)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sri Lanka",
+    "state": "Colombo & Western",
+    "regions": [],
+    "description": "Discs of fine rice-flour noodles: a hot-water dough of rice meal or wheat flour is pressed through a mould onto small wicker mats and steamed. A common breakfast and dinner, they are not usually eaten plain.",
+    "how_to_eat": "Served with a thin fish or chicken curry, dhal and a sambol, or with kiri hodi, a coconut-milk gravy.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Idiyappam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine",
+      "https://en.wikipedia.org/wiki/Idiyappam",
+      "https://en.wikipedia.org/wiki/Appam",
+      "https://en.wikipedia.org/wiki/Kiri_hodi"
+    ]
+  },
+  {
+    "id": "sri_lanka-isso-vade",
+    "name": "Isso vade",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Sri Lanka",
+    "state": "Colombo & Western",
+    "regions": [
+      "Colombo"
+    ],
+    "description": "Deep-fried lentil cakes topped with whole prawns, a Colombo street snack fried in the evenings at kade (shop) stalls.",
+    "how_to_eat": "Served with a splash of lime and chilli sauce.",
+    "how_to_order": "Look for it at the evening stalls on Galle Face Green.",
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.hidmc.com/blog-posts/street-food-in-jaffna-vs-colombo",
+      "https://www.srilankainstyle.com/blog/sri-lankan-cuisine-by-region"
+    ]
+  },
+  {
+    "id": "sri_lanka-watalappam",
+    "name": "Watalappam",
+    "local_name": "වටලප්පන්",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Sri Lanka",
+    "state": "Colombo & Western",
+    "regions": [
+      "Colombo"
+    ],
+    "description": "A steamed coconut custard pudding made of coconut milk or condensed milk, jaggery, cashew nuts, eggs and spices such as cardamom, cloves and nutmeg. Believed to have been brought by Sri Lankan Malays in the 18th century, it is strongly identified with the Muslim community and is part of Eid al-Fitr celebrations.",
+    "how_to_eat": "Served cold.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "nuts",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Watalappam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Watalappam",
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine",
+      "https://www.srilankainstyle.com/blog/sri-lankan-cuisine-by-region"
+    ]
+  },
+  {
+    "id": "sri_lanka-hot-butter-cuttlefish",
+    "name": "Hot butter cuttlefish",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sri Lanka",
+    "state": "Colombo & Western",
+    "regions": [
+      "Colombo"
+    ],
+    "description": "Scored cuttlefish pieces coated in flour and corn flour, deep-fried, then stir-fried with butter, chilli flakes, capsicum and spring onion. Created as a Sri Lankan Chinese dish, a cuisine that developed in Colombo's Chinese restaurants from the 1940s, it is now served island-wide, especially in beachside restaurants.",
+    "how_to_eat": "Served as a starter or 'bite' with drinks, or with rice as part of a main meal; best eaten as soon as it is fried.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hot_butter_cuttlefish",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hot_butter_cuttlefish",
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine"
+    ]
+  },
+  {
+    "id": "sri_lanka-bibikkan",
+    "name": "Bibikkan",
+    "local_name": "බිබික්කන්",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Sri Lanka",
+    "state": "Colombo & Western",
+    "regions": [
+      "Mount Lavinia"
+    ],
+    "description": "A dark, moist coconut cake made of shredded coconut, kithul jaggery and dry-roasted semolina or rice flour with spices. Believed to have been introduced by the Portuguese, it is made for Christmas, New Year and Sinhala and Tamil New Year; the Mount Lavinia area has historically been associated with its production.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bibikkan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bibikkan",
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine"
+    ]
+  },
+  {
+    "id": "sri_lanka-love-cake",
+    "name": "Love cake",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Sri Lanka",
+    "state": "Colombo & Western",
+    "regions": [],
+    "description": "A semolina cake made with cashew nuts, pumpkin preserve, butter, eggs, sugar and honey, flavoured with rose water, cinnamon, nutmeg and cardamom. Introduced by the Portuguese in the 16th century as 'bolo di amor', it is baked for Christmas, birthdays and weddings.",
+    "how_to_eat": "Often served in gold paper for guests to eat or take home.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Love_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Love_cake"
+    ]
+  },
+  {
+    "id": "sri_lanka-faluda",
+    "name": "Faluda",
+    "local_name": "ෆලුඩා",
+    "pronunciation": "faa-loo-daa",
+    "category": "drink",
+    "country": "Sri Lanka",
+    "state": "Colombo & Western",
+    "regions": [],
+    "description": "A cold drink of syrup, ice cream, jelly pieces and basil seeds. It comes from the Mughlai falooda, itself derived from the Persian faloodeh, and in Sri Lanka is a popular dairy refreshment.",
+    "how_to_eat": "Served cold.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Falooda",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine",
+      "https://en.wikipedia.org/wiki/Falooda"
+    ]
+  },
+  {
+    "id": "sri_lanka-ceylon-tea",
+    "name": "Ceylon tea",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Sri Lanka",
+    "state": "Kandy & Hill Country",
+    "regions": [],
+    "description": "Black tea grown in Sri Lanka, described as a pillar of Sri Lankan culture and identity. The Sri Lanka Tea Board owns the Lion Logo, which certifies packs of 100 percent pure Ceylon tea packed in Sri Lanka; the country is among the world's largest tea exporters.",
+    "how_to_eat": null,
+    "how_to_order": "Tea tastings paired with local food are offered in the Central region.",
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ceylon_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ceylon_tea",
+      "https://www.srilankainstyle.com/blog/sri-lankan-cuisine-by-region",
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine"
+    ]
+  },
+  {
+    "id": "sri_lanka-polos-curry",
+    "name": "Polos curry",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sri Lanka",
+    "state": "Kandy & Hill Country",
+    "regions": [],
+    "description": "A curry of young jackfruit (polos); curries of ripe jackfruit (kos) and of jackfruit seeds are also made. It is often slow-cooked in clay pots.",
+    "how_to_eat": "Eaten with rice as part of rice and curry.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.srilankainstyle.com/blog/sri-lankan-cuisine-by-region",
+      "https://www.hidmc.com/blog-posts/north-vs-south-culinary-contrasts-across-sri-lanka"
+    ]
+  },
+  {
+    "id": "sri_lanka-undu-walalu",
+    "name": "Undu walalu",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Sri Lanka",
+    "state": "Kandy & Hill Country",
+    "regions": [
+      "Matale"
+    ],
+    "description": "A sweet from the Matale area made from urad bean flour and kithul treacle; also called undu wal or pani walalu.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine"
+    ]
+  },
+  {
+    "id": "sri_lanka-kevum",
+    "name": "Kevum (oil cake)",
+    "local_name": "කැවුම්",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Sri Lanka",
+    "state": "Kandy & Hill Country",
+    "regions": [],
+    "description": "A deep-fried sweet of rice flour and kithul treacle, mentioned in ancient Sinhala texts and made for Sinhala and Tamil New Year. Konda kevum, shaped like a hair bun, is the most common variant; mung kevum uses green gram flour and is diamond-shaped.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kevum",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kevum",
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine"
+    ]
+  },
+  {
+    "id": "sri_lanka-kokis",
+    "name": "Kokis",
+    "local_name": "කොකිස්",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Sri Lanka",
+    "state": "Kandy & Hill Country",
+    "regions": [],
+    "description": "A crisp, deep-fried snack made by dipping a decorative mould into a batter of rice flour, coconut milk and beaten eggs and frying it in coconut oil. Believed to be of Dutch origin, it is a key snack at Sinhala New Year.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kokis",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kokis",
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine"
+    ]
+  },
+  {
+    "id": "sri_lanka-kola-kanda",
+    "name": "Kola kanda",
+    "local_name": "කොළ කැඳ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sri Lanka",
+    "state": "Kandy & Hill Country",
+    "regions": [],
+    "description": "A herbal congee of red rice, coconut milk and the juice of leafy greens such as gotukola or curry leaves, with ginger and garlic. Ancient texts link it to Buddhist culture; monks eat it in the morning.",
+    "how_to_eat": "Served steaming hot at breakfast with a piece of jaggery to offset the bitterness.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kola_kanda",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kola_kanda"
+    ]
+  },
+  {
+    "id": "sri_lanka-mallung",
+    "name": "Mallung",
+    "local_name": "මැල්ලුම්",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sri Lanka",
+    "state": "Kandy & Hill Country",
+    "regions": [],
+    "description": "Finely shredded leafy greens, often gotukola, lightly cooked with grated coconut, shallots, green chilli, turmeric, powdered Maldives fish and lime juice. The name means 'wilted'; one or two mallungs are served at almost every meal.",
+    "how_to_eat": "Eaten as a side with rice and curry.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mallung",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mallung",
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine"
+    ]
+  },
+  {
+    "id": "sri_lanka-jaffna-crab-curry",
+    "name": "Jaffna crab curry",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sri Lanka",
+    "state": "Jaffna, North & East",
+    "regions": [
+      "Jaffna",
+      "Trincomalee",
+      "Batticaloa"
+    ],
+    "description": "A fiery curry of lagoon crab in coconut milk with roasted spices and tamarind, the signature dish of Jaffna's Tamil cooking.",
+    "how_to_eat": "Eaten with fresh rice, traditionally with the right hand.",
+    "how_to_order": "Seafood restaurants along the Trincomalee and Batticaloa coasts also serve it.",
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.srilankainstyle.com/blog/sri-lankan-cuisine-by-region",
+      "https://www.hidmc.com/blog-posts/north-vs-south-culinary-contrasts-across-sri-lanka",
+      "https://www.hidmc.com/blog-posts/exploring-sri-lankas-best-seafood-delicacies"
+    ]
+  },
+  {
+    "id": "sri_lanka-odiyal-kool",
+    "name": "Odiyal kool",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sri Lanka",
+    "state": "Jaffna, North & East",
+    "regions": [
+      "Jaffna"
+    ],
+    "description": "A thick seafood broth from Jaffna with crab, fish, cuttlefish, prawns and crayfish, plus long beans, jak seeds, manioc, spinach and tamarind, thickened with flour made from palmyra root (odiyal).",
+    "how_to_eat": null,
+    "how_to_order": "Served hot at roadside stalls and local markets in Jaffna.",
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine",
+      "https://www.hidmc.com/blog-posts/street-food-in-jaffna-vs-colombo",
+      "https://www.hidmc.com/blog-posts/north-vs-south-culinary-contrasts-across-sri-lanka"
+    ]
+  },
+  {
+    "id": "sri_lanka-pittu",
+    "name": "Pittu",
+    "local_name": "பிட்டு",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sri Lanka",
+    "state": "Jaffna, North & East",
+    "regions": [
+      "Jaffna",
+      "Trincomalee",
+      "Batticaloa"
+    ],
+    "description": "Steamed cylinders of ground rice layered with grated coconut; the Sri Lankan version is usually made with wheat flour or red rice flour. A common breakfast among Sri Lankan Tamils.",
+    "how_to_eat": "Often served with sodhi, a light coconut-milk stew, or with curries.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Puttu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Puttu",
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine",
+      "https://www.hidmc.com/blog-posts/north-vs-south-culinary-contrasts-across-sri-lanka"
+    ]
+  },
+  {
+    "id": "sri_lanka-vadai",
+    "name": "Parippu vadai",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Sri Lanka",
+    "state": "Jaffna, North & East",
+    "regions": [
+      "Jaffna"
+    ],
+    "description": "Crisp fried lentil cakes with green chilli and curry leaves, sold at Jaffna's roadside stalls and linked to temple festivals.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.hidmc.com/blog-posts/street-food-in-jaffna-vs-colombo",
+      "https://www.hidmc.com/blog-posts/north-vs-south-culinary-contrasts-across-sri-lanka"
+    ]
+  },
+  {
+    "id": "sri_lanka-thosai",
+    "name": "Thosai (dosa)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Sri Lanka",
+    "state": "Jaffna, North & East",
+    "regions": [
+      "Jaffna"
+    ],
+    "description": "A thin savoury pancake of fermented black gram and rice batter, brought to Sri Lanka by South Indian emigrants during British rule. In Jaffna it is often a heavily spiced masala dosa from roadside griddles.",
+    "how_to_eat": "Served hot with chutney and sambar.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dosa_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dosa_(food)",
+      "https://www.hidmc.com/blog-posts/street-food-in-jaffna-vs-colombo"
+    ]
+  },
+  {
+    "id": "sri_lanka-odiyal",
+    "name": "Odiyal",
+    "local_name": "ஒடியல்",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Sri Lanka",
+    "state": "Jaffna, North & East",
+    "regions": [
+      "Jaffna"
+    ],
+    "description": "A hard snack of palmyra palm tubers split and dried; it is also ground into the flour used in odiyal pittu and odiyal kool. Popular in the Jaffna Peninsula.",
+    "how_to_eat": "Eaten with tea.",
+    "how_to_order": "Sold in paper cones in Jaffna's bazaars.",
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Odiyal",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Odiyal",
+      "https://www.hidmc.com/blog-posts/street-food-in-jaffna-vs-colombo"
+    ]
+  },
+  {
+    "id": "sri_lanka-kottu",
+    "name": "Kottu roti",
+    "local_name": "கொத்து ரொட்டி",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Sri Lanka",
+    "state": "Jaffna, North & East",
+    "regions": [
+      "Batticaloa",
+      "Trincomalee"
+    ],
+    "description": "Chopped godamba (wheat) roti stir-fried on a griddle with vegetables, egg, onion, chilli and a meat or fish curry, chopped with heavy iron blades. It originated as cheap street food in the 1960s-70s among the Moor community of Batticaloa and Trincomalee; kottu means 'chopped'.",
+    "how_to_eat": "Usually eaten as a fast-food meal.",
+    "how_to_order": "Order by filling: vegetable, egg, chicken, beef, mutton or fish kottu.",
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kottu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kottu",
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine",
+      "https://www.srilankainstyle.com/blog/sri-lankan-cuisine-by-region"
+    ]
+  },
+  {
+    "id": "sri_lanka-ambul-thiyal",
+    "name": "Ambul thiyal",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sri Lanka",
+    "state": "South Coast (Galle/Matara)",
+    "regions": [
+      "Galle",
+      "Mirissa"
+    ],
+    "description": "A sour, dry fish curry of cubed firm fish, typically tuna, marinated with dried goraka, black pepper and spices and cooked dry rather than saucy.",
+    "how_to_eat": "Eaten with hot rice and gotu kola sambol.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.srilankainstyle.com/blog/sri-lankan-cuisine-by-region",
+      "https://www.hidmc.com/blog-posts/north-vs-south-culinary-contrasts-across-sri-lanka",
+      "https://www.hidmc.com/blog-posts/exploring-sri-lankas-best-seafood-delicacies"
+    ]
+  },
+  {
+    "id": "sri_lanka-lamprais",
+    "name": "Lamprais",
+    "local_name": "ලම්ප්‍රයිස්",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sri Lanka",
+    "state": "South Coast (Galle/Matara)",
+    "regions": [
+      "Galle"
+    ],
+    "description": "Rice cooked in stock with a three-meat curry, ash plantain and aubergine curry, seeni sambol, belacan (shrimp paste) and frikadeller meatballs, wrapped in banana leaf and baked. Introduced by the Dutch Burghers, it is based on the Javanese lemper.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lamprais",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lamprais",
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine",
+      "https://www.srilankainstyle.com/blog/sri-lankan-cuisine-by-region",
+      "https://en.wikipedia.org/wiki/Shrimp_paste"
+    ]
+  },
+  {
+    "id": "sri_lanka-buffalo-curd",
+    "name": "Buffalo curd with treacle",
+    "local_name": "මුදවාපු මී කිරි",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Sri Lanka",
+    "state": "South Coast (Galle/Matara)",
+    "regions": [
+      "Tissamaharama"
+    ],
+    "description": "Thick yogurt (mee kiri) made from water-buffalo milk and set in clay pots, a speciality of the south around Tissamaharama.",
+    "how_to_eat": "Topped with kithul treacle (kithul peni).",
+    "how_to_order": "Sold in clay pots at roadside stalls along the highway near Tissamaharama.",
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dahi_(curd)",
+      "https://roadsandkingdoms.com/2017/sri-lanka-breakfast-curd/",
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine"
+    ]
+  },
+  {
+    "id": "sri_lanka-kalu-dodol",
+    "name": "Kalu dodol",
+    "local_name": "කලු දොදොල්",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Sri Lanka",
+    "state": "South Coast (Galle/Matara)",
+    "regions": [
+      "Hambantota"
+    ],
+    "description": "A dark, sticky, jelly-like sweet of kithul jaggery, rice flour and coconut milk, sometimes with cashews, cardamom and raisins. Hambantota is known as the kalu dodol capital, and it is made for Sinhala New Year.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at kalu dodol shops in the Hambantota area, visited by pilgrims to Kataragama.",
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kalu_dodol",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kalu_dodol"
+    ]
+  },
+  {
+    "id": "sri_lanka-kiribath",
+    "name": "Kiribath",
+    "local_name": "කිරිබත්",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sri Lanka",
+    "state": "South Coast (Galle/Matara)",
+    "regions": [],
+    "description": "Rice cooked in coconut milk until soft and porridge-like; the name means 'milk rice'. Eaten for breakfast on the first day of each month and at auspicious occasions, it is the first meal of Sinhala New Year.",
+    "how_to_eat": "Served with lunu miris, a relish of red onions and chillies.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kiribath",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kiribath",
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine",
+      "https://www.hidmc.com/blog-posts/north-vs-south-culinary-contrasts-across-sri-lanka"
+    ]
+  },
+  {
+    "id": "sri_lanka-malu-mirisata",
+    "name": "Malu mirisata",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sri Lanka",
+    "state": "South Coast (Galle/Matara)",
+    "regions": [],
+    "description": "A spicy fish curry flavoured with chilli and few other ingredients, sometimes with coconut milk. Popular mostly in coastal areas where fish is a staple.",
+    "how_to_eat": "Served with rice, bread or string hoppers.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Malu_mirisata",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Malu_mirisata"
+    ]
+  },
+  {
+    "id": "sri_lanka-pol-sambol",
+    "name": "Pol sambol",
+    "local_name": "පොල් සම්බෝල",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Sri Lanka",
+    "state": "South Coast (Galle/Matara)",
+    "regions": [],
+    "description": "A relish of freshly grated coconut, shallots, dried chilli, lime juice and salt, often with Maldives fish (smoked cured tuna), traditionally ground on a granite stone.",
+    "how_to_eat": "Eaten with rice, string hoppers, hoppers and curries, or as a filling for pol roti.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pol_sambol",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pol_sambol",
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine",
+      "https://www.hidmc.com/blog-posts/north-vs-south-culinary-contrasts-across-sri-lanka"
+    ]
+  }
+]
