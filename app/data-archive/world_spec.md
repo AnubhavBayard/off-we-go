@@ -17,14 +17,14 @@ Reference (already done, do not edit): `/home/beast/Projects/Off We Gooooooo/app
 - local_name: name in the local script/language ONLY if seen in a source (e.g. 寿司, Paella valenciana); else null.
 - pronunciation: simple syllables like "boo-ya-BAYSS", or null. Only if you are confident.
 - category: one of exactly: sweet, street_food, meal, snack, drink. (Do not use pitha or temple_food.)
-- country: English name, exactly one of: France, Spain, United States, Italy, Turkey, Mexico, United Kingdom, Germany, Greece, Thailand, Japan, China, United Arab Emirates, Malaysia, Vietnam, Indonesia, Portugal, Netherlands, South Korea, Singapore, Austria, Canada, Croatia, Morocco, Poland, Hungary, Czechia, Egypt, Australia, Brazil, Peru, Argentina, Philippines, Sri Lanka, Nepal, Ireland, Switzerland, Belgium, Lebanon, Sweden, Denmark, Norway, Taiwan, Colombia. (Add new countries here and to COUNTRY_CODE in src/data.ts.)
+- country: English name, exactly one of: France, Spain, United States, Italy, Turkey, Mexico, United Kingdom, Germany, Greece, Thailand, Japan, China, United Arab Emirates, Malaysia, Vietnam, Indonesia, Portugal, Netherlands, South Korea, Singapore, Austria, Canada, Croatia, Morocco, Poland, Hungary, Czechia, Egypt, Australia, Brazil, Peru, Argentina, Philippines, Sri Lanka, Nepal, Ireland, Switzerland, Belgium, Lebanon, Sweden, Denmark, Norway, Taiwan, Colombia, Israel, Jordan, Chile, New Zealand. (Add new countries here and to COUNTRY_CODE in src/data.ts.)
 - state: the region name (see Regions), e.g. "Provence", "Andalusia", "The South".
 - regions: [] (or city names where best known, e.g. ["Marseille"]).
 - description: 2-3 factual sentences: what it is, main ingredients, why it matters. No fluff.
 - how_to_eat: 1 sentence or null.
 - how_to_order: 1 sentence (what to ask for, where it is sold) or null.
 - typical_price: string like "8-12" in local currency ONLY if a source gives it; else null.
-- currency: ISO 4217 code of the country (EUR, USD, GBP, TRY, MXN, THB, JPY, CNY, AED, MYR, VND, IDR, KRW, SGD, CAD, MAD, PLN, HUF, CZK, EGP, AUD, BRL, PEN, ARS, PHP, LKR, NPR, CHF, LBP, SEK, DKK, NOK, TWD, COP).
+- currency: ISO 4217 code of the country (EUR, USD, GBP, TRY, MXN, THB, JPY, CNY, AED, MYR, VND, IDR, KRW, SGD, CAD, MAD, PLN, HUF, CZK, EGP, AUD, BRL, PEN, ARS, PHP, LKR, NPR, CHF, LBP, SEK, DKK, NOK, TWD, COP, ILS, JOD, CLP, NZD).
 - diet: "veg" | "nonveg" | "egg". Fish/seafood = nonveg. If commonly made with meat or fish stock/sauce (fish sauce, dashi, lard, gelatin), it is nonveg.
 - jain: always false (Jain filter is India-only).
 - vegan: true only if no dairy/egg/honey/meat/fish (including fish sauce).

@@ -460,3 +460,26 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
 - Colombia done: 39 dishes, 5 regions (Bogotá & Andes 8, Antioquia & Coffee 7, Caribbean 8, Pacific & Valle 8, Southwest 8; Llanos dropped, ~3 dishes). GI true 3: bocadillo veleño, achiras del Huila, Café de Colombia (tinto). Viche GI set false by me (only one news article, not registry). Validator OK.
 - Photos batch 6: 120 new; 20 dropped via NO_PHOTO (live ant, butterwort plant on tjukkmjølk, painting on aquavit, other countries' versions: Czech wafer, Spanish natillas/buñuelos/lechona/empanadillas, Mexican tamales, Paraguayan mazamorra, Indonesian rice, Chilean chicha, etc.). 1,583 dishes with photos.
 - BATCH 6 DONE: 45 countries, 1,980 dishes. Installed on phone 2026-11-11.
+- Committed + pushed a69c220.
+
+## 2026-11-11: batch 7
+- Batch 7: Israel, Jordan, Chile, New Zealand (registered; ILS, JOD, CLP, NZD). Same plan: research one at a time, photos + check, install, commit + push.
+- Israel: research agent running.
+- User stopped the session: Israel agent stopped before writing any file. Batch 7 countries stay registered in world_spec.md + COUNTRY_CODE (harmless: picker lists only countries that have dishes).
+
+## 2026-11-11: WRAP-UP (session end)
+**Done this session**
+- Batches 3-6: 16 countries added (Australia, Brazil, Peru, Argentina, Philippines, Sri Lanka, Nepal, Ireland, Switzerland, Belgium, Lebanon, Sweden, Denmark, Norway, Taiwan, Colombia). Now 1,980 dishes in 45 countries, 1,583 with photos.
+- fetch_dish_images.py: NO_PHOTO set (59 ids) for wrong-subject lead images (logos, live animals, plants, other countries' versions). Re-running the script keeps them out.
+- Tab bar: navigates on pointerdown, so a tap during a Home scroll fling switches tab on the first tap.
+- README counts updated. All installed on phone; all pushed.
+- Phone cleanup for user (not app work): deleted 296 duplicate/trashed/old-backup files and 545 WhatsApp PDFs (kept certificates, resumes, IDs); ~2.8 GB freed. App lag traced to phone RAM pressure, not the app.
+
+**Next session, in order**
+1. Batch 7: Israel, Jordan, Chile, New Zealand (already registered). Then: Finland, Iceland, Romania, Georgia, Iran, Cambodia, Cuba, South Africa, Ethiopia, Tunisia... (list of ~66 candidates in this session's chat; same method).
+2. Per batch: one research agent at a time (brief = world_spec.md + stricter rules: every fact sourced, no superlatives, dish-level wiki link, GI only with registry source, check other countries' files for duplicates), spot-check diet/allergens/GI, validate, fetch photos, review new photo filenames (view thumbnails when unclear), add bad ones to NO_PHOTO, build, install, commit + push.
+3. Optional: Android back should close open bottom sheets first.
+4. Before public release: owned/licensed logo; privacy policy; restaurant coordinates CSV (`data-fixes/`) waiting on user; revoke Supabase token `claude-setup`.
+
+**Rebuild + install**
+`cd app && nvm use 22 && npm run build && npx cap sync android && cd android && ANDROID_HOME=~/Android/Sdk ./gradlew assembleDebug && ~/Android/Sdk/platform-tools/adb install -r app/build/outputs/apk/debug/app-debug.apk`
