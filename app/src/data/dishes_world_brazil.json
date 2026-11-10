@@ -1,0 +1,1359 @@
+[
+  {
+    "id": "brazil-acaraje",
+    "name": "Acarajé",
+    "local_name": null,
+    "pronunciation": "ah-kah-rah-ZHEH",
+    "category": "street_food",
+    "country": "Brazil",
+    "state": "Bahia",
+    "regions": [
+      "Salvador"
+    ],
+    "description": "A fritter of milled cowpeas (black-eyed peas) seasoned with onion and salt and deep-fried in dendê (palm oil), descended from the Yoruba akara. It is served split and stuffed with vatapá and caruru, pastes made with shrimp, ground nuts and palm oil. It is both street food and a ritual offering in Candomblé, and was listed as national intangible heritage in 2004.",
+    "how_to_eat": "It is eaten split in half and filled with vatapá and caruru; a vegetarian version comes with hot peppers and green tomatoes.",
+    "how_to_order": "Sold by Baianas do Acarajé, women vendors in white cotton dresses and headscarves who fry it in front of customers on the streets of Salvador.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "peanuts",
+      "nuts",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Acaraj%C3%A9",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Acaraj%C3%A9",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine"
+    ]
+  },
+  {
+    "id": "brazil-abara",
+    "name": "Abará",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Brazil",
+    "state": "Bahia",
+    "regions": [],
+    "description": "A bundle of the same ground black-eyed pea dough used for acarajé, seasoned with onion, salt, dried shrimp and dendê, wrapped in banana leaf and steamed instead of fried. It is part of Bahian cuisine and of Candomblé rituals.",
+    "how_to_eat": "Usually eaten with shrimp, caruru, vatapá, salad and chili to taste.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Abar%C3%A1",
+    "source_urls": [
+      "https://pt.wikipedia.org/wiki/Abar%C3%A1",
+      "https://en.wikipedia.org/wiki/Acaraj%C3%A9"
+    ]
+  },
+  {
+    "id": "brazil-moqueca-baiana",
+    "name": "Moqueca baiana",
+    "local_name": null,
+    "pronunciation": "moh-KEH-kah",
+    "category": "meal",
+    "country": "Brazil",
+    "state": "Bahia",
+    "regions": [
+      "Salvador"
+    ],
+    "description": "The Bahian version of moqueca, a fish or shrimp stew with tomatoes, onions, garlic, lime and coriander, in which coconut milk and palm oil are mandatory. Dorado, shark, whiting and sea bass are the most used fish, and it is cooked and served in a clay pot.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Moqueca",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Moqueca",
+      "https://pt.wikipedia.org/wiki/Moqueca",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine"
+    ]
+  },
+  {
+    "id": "brazil-vatapa",
+    "name": "Vatapá",
+    "local_name": null,
+    "pronunciation": "vah-tah-PAH",
+    "category": "meal",
+    "country": "Brazil",
+    "state": "Bahia",
+    "regions": [
+      "Salvador"
+    ],
+    "description": "An Afro-Brazilian dish of bread, shrimp, coconut milk, finely ground peanuts and palm oil mashed into a creamy paste. It is a typical food of Salvador and comes from West Africa through the Yoruba people.",
+    "how_to_eat": "In Bahia it is eaten with acarajé and caruru; in other regions it is often eaten with white rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "shellfish",
+      "peanuts",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vatap%C3%A1",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Vatap%C3%A1",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine"
+    ]
+  },
+  {
+    "id": "brazil-caruru",
+    "name": "Caruru",
+    "local_name": null,
+    "pronunciation": "kah-roo-ROO",
+    "category": "meal",
+    "country": "Brazil",
+    "state": "Bahia",
+    "regions": [],
+    "description": "A dish of okra, onion, dried shrimp, palm oil and toasted peanuts or cashews cooked to a spread-like consistency. It is a typical condiment in Bahia and part of the Bahian Friday dishes along with moqueca and vatapá.",
+    "how_to_eat": "Commonly eaten with acarajé.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish",
+      "peanuts",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caruru_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Caruru_(food)",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_da_Bahia"
+    ]
+  },
+  {
+    "id": "brazil-bobo-de-camarao",
+    "name": "Bobó de camarão",
+    "local_name": null,
+    "pronunciation": "boh-BOH jee kah-mah-ROWN",
+    "category": "meal",
+    "country": "Brazil",
+    "state": "Bahia",
+    "regions": [],
+    "description": "A chowder-like dish of shrimp in a purée of manioc with coconut milk, herbs, ginger and red palm oil (dendê). It is nearly identical to the West African dish ipetê, and the name comes from the Fon word bovô.",
+    "how_to_eat": "Traditionally served with white rice, or with pirão or acaçá.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bob%C3%B3_de_camar%C3%A3o",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bob%C3%B3_de_camar%C3%A3o",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine"
+    ]
+  },
+  {
+    "id": "brazil-pao-de-queijo",
+    "name": "Pão de queijo",
+    "local_name": null,
+    "pronunciation": "POWN-də-KAY-zhoo",
+    "category": "snack",
+    "country": "Brazil",
+    "state": "Minas Gerais",
+    "regions": [],
+    "description": "Small baked cheese rolls made with sweet and sour cassava starch, oil, eggs, milk, salt, cheese (Minas, Canastra or Parmesan) and water, chewy inside and crunchy outside. It originated on farms in Minas Gerais, where cooks used cassava starch because wheat was not available, and it is naturally gluten-free.",
+    "how_to_eat": "Eaten as a snack or for breakfast, often with coffee as one of the Minas quitandas.",
+    "how_to_order": "Sold from street stands, bakeries and corner shops, and frozen in supermarkets.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/P%C3%A3o_de_queijo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/P%C3%A3o_de_queijo",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_de_Minas_Gerais"
+    ]
+  },
+  {
+    "id": "brazil-feijao-tropeiro",
+    "name": "Feijão tropeiro",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Brazil",
+    "state": "Minas Gerais",
+    "regions": [],
+    "description": "Beans mixed with cassava or maize flour, sausage, eggs and bacon or toucinho, seasoned with garlic, onion and parsley and sometimes finished with pork crackling and kale. It is named after the tropeiros, mule traders who carried dry, durable food on long journeys between Minas Gerais and São Paulo from the 17th century.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Feij%C3%A3o_tropeiro",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Feij%C3%A3o_tropeiro",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_de_Minas_Gerais"
+    ]
+  },
+  {
+    "id": "brazil-tutu-de-feijao",
+    "name": "Tutu de feijão",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Brazil",
+    "state": "Minas Gerais",
+    "regions": [],
+    "description": "Cooked beans sautéed with fried bacon, onion and garlic and thickened with cassava flour (for black beans) or maize flour. It is associated with the cooking of Minas Gerais and São Paulo and is a common part of the traditional Minas lunch with kale and angu.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Tutu_de_feij%C3%A3o",
+    "source_urls": [
+      "https://pt.wikipedia.org/wiki/Tutu_de_feij%C3%A3o",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_de_Minas_Gerais"
+    ]
+  },
+  {
+    "id": "brazil-frango-com-quiabo",
+    "name": "Frango com quiabo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Brazil",
+    "state": "Minas Gerais",
+    "regions": [],
+    "description": "A stew of chicken with okra, cited as typical of Minas Gerais. Okra came to Brazil from Africa, and Minas Gerais is among the country's largest producers.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_de_Minas_Gerais"
+    ]
+  },
+  {
+    "id": "brazil-queijo-canastra",
+    "name": "Canastra cheese",
+    "local_name": "Queijo Canastra",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Brazil",
+    "state": "Minas Gerais",
+    "regions": [
+      "Serra da Canastra",
+      "São Roque de Minas",
+      "Medeiros",
+      "Vargem Bonita"
+    ],
+    "description": "A raw cow's milk cheese from the Serra da Canastra highlands in southwest Minas Gerais, with a mildly spicy, full-bodied flavour. It is sold fresh, half-cured or fully cured (about 40 days). The way it is made has been national intangible heritage since 2008, and 'Canastra' cheese is a registered Indicação de Procedência (INPI, 2012).",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Canastra_cheese",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Canastra_cheese",
+      "https://pt.wikipedia.org/wiki/Queijo_canastra",
+      "https://www.gov.br/inpi/pt-br/servicos/indicacoes-geograficas/arquivos/fichas-tecnicas-de-indicacoes-geograficas/Canastra.pdf",
+      "https://geoftp.ibge.gov.br/cartas_e_mapas/mapas_do_brasil/sociedade_e_economia/indicacoes_geograficas_2018.pdf"
+    ]
+  },
+  {
+    "id": "brazil-queijo-do-serro",
+    "name": "Serro cheese",
+    "local_name": "Queijo do Serro",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Brazil",
+    "state": "Minas Gerais",
+    "regions": [
+      "Serro"
+    ],
+    "description": "A semi-hard, yellowish-white cylindrical cheese of 700-1000 g made by hand from raw whole cow's milk around the town of Serro. The recipe came from Portugal's Serra da Estrela in the 18th century, and the cheese is moister and more acidic than other Minas cheeses. 'Serro' is a registered Indicação de Procedência for cheese (INPI, 2011).",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Queijo_do_Serro",
+    "source_urls": [
+      "https://pt.wikipedia.org/wiki/Queijo_do_Serro",
+      "https://www.gov.br/inpi/pt-br/servicos/indicacoes-geograficas/arquivos/fichas-tecnicas-de-indicacoes-geograficas/Serro.pdf",
+      "https://geoftp.ibge.gov.br/cartas_e_mapas/mapas_do_brasil/sociedade_e_economia/indicacoes_geograficas_2018.pdf"
+    ]
+  },
+  {
+    "id": "brazil-doce-de-leite",
+    "name": "Doce de leite",
+    "local_name": null,
+    "pronunciation": "DOH-see jee LAY-chee",
+    "category": "sweet",
+    "country": "Brazil",
+    "state": "Minas Gerais",
+    "regions": [],
+    "description": "A sweet made by slowly heating milk with sugar, or by cooking condensed milk, sold creamy or firm enough to cut into bars. There are records of it in Minas Gerais from 1773, and it is one of the best-known Minas sweets.",
+    "how_to_eat": "Eaten on toast, in cakes and biscuits, or with fresh Minas cheese.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dulce_de_leche",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dulce_de_leche",
+      "https://pt.wikipedia.org/wiki/Doce_de_leite",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_de_Minas_Gerais"
+    ]
+  },
+  {
+    "id": "brazil-pastel",
+    "name": "Pastel",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Brazil",
+    "state": "São Paulo",
+    "regions": [
+      "São Paulo"
+    ],
+    "description": "Thin pastry envelopes in half-moon or rectangle shapes with savoury or sweet fillings, deep-fried until crisp. Common fillings are ground meat, cheese, chicken, heart of palm, shrimp and codfish, or guava paste with Minas cheese. Popular accounts say Japanese and Chinese immigrants adapted fried spring rolls to sell at São Paulo street markets.",
+    "how_to_eat": "A common drink with pastéis is caldo de cana (sugarcane juice).",
+    "how_to_order": "Sold at street markets (feiras) and in shops called pastelarias; shape often shows the filling, half-moon for cheese and square for meat.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pastel_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pastel_(food)",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine",
+      "https://pt.wikipedia.org/wiki/Pastel_(culin%C3%A1ria)"
+    ]
+  },
+  {
+    "id": "brazil-coxinha",
+    "name": "Coxinha",
+    "local_name": null,
+    "pronunciation": "koh-SHEEN-yə",
+    "category": "street_food",
+    "country": "Brazil",
+    "state": "São Paulo",
+    "regions": [
+      "Limeira"
+    ],
+    "description": "A teardrop-shaped snack of shredded seasoned chicken, often with catupiry cheese or requeijão, wrapped in a dough of wheat flour and chicken broth, then battered, breaded and deep-fried. The name means 'little thigh' because it is shaped like a drumstick; its modern form may have started in Limeira, São Paulo, in the 19th century.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in snack bars and corner shops as one of the salgadinhos.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Coxinha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Coxinha",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine"
+    ]
+  },
+  {
+    "id": "brazil-bauru",
+    "name": "Bauru",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Brazil",
+    "state": "São Paulo",
+    "regions": [
+      "São Paulo",
+      "Bauru"
+    ],
+    "description": "A sandwich of mozzarella melted in a bain-marie, roast beef slices, tomato and pickled cucumber in a pão francês with the soft crumb removed. It was created in 1934 at the Ponto Chic eatery in São Paulo for a law student nicknamed Bauru, and the city of Bauru later fixed the recipe in a municipal law.",
+    "how_to_eat": null,
+    "how_to_order": "Many eateries sell versions with sliced ham instead of roast beef or sliced bread instead of pão francês.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bauru_(sandwich)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bauru_(sandwich)",
+      "https://pt.wikipedia.org/wiki/Bauru_(sandu%C3%ADche)"
+    ]
+  },
+  {
+    "id": "brazil-sanduiche-de-mortadela",
+    "name": "Mortadella sandwich",
+    "local_name": "Sanduíche de mortadela",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Brazil",
+    "state": "São Paulo",
+    "regions": [
+      "São Paulo"
+    ],
+    "description": "A sandwich of pan-fried mortadella in pão francês, with or without cheese, considered a speciality of the Municipal Market of São Paulo (Mercadão). Versions there carry around 300 g of mortadella; the sandwich became popular after a 1979 newspaper piece.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at the stalls and bars of the Mercadão (Municipal Market) in São Paulo.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mortadella_sandwich",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mortadella_sandwich",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine"
+    ]
+  },
+  {
+    "id": "brazil-virado-a-paulista",
+    "name": "Virado à paulista",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Brazil",
+    "state": "São Paulo",
+    "regions": [
+      "São Paulo"
+    ],
+    "description": "A typical São Paulo plate of rice, virado de feijão (beans thickened with cassava flour, similar to tutu), sautéed kale, fried plantain or banana, a pork chop and a fried egg.",
+    "how_to_eat": null,
+    "how_to_order": "Served in botecos and restaurants in the city of São Paulo, traditionally on Mondays.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine",
+      "https://pt.wikipedia.org/wiki/Tutu_de_feij%C3%A3o"
+    ]
+  },
+  {
+    "id": "brazil-caipirinha",
+    "name": "Caipirinha",
+    "local_name": null,
+    "pronunciation": "ky-pi-REEN-yə",
+    "category": "drink",
+    "country": "Brazil",
+    "state": "São Paulo",
+    "regions": [
+      "Piracicaba"
+    ],
+    "description": "Brazil's national cocktail, made with cachaça, sugar, lime and ice. It is thought to have been created in the interior of São Paulo state around 1918, was declared Brazilian cultural heritage in 2003, and is an official International Bartenders Association cocktail.",
+    "how_to_eat": "The lime and sugar are mixed together first, then the cachaça and ice are added.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caipirinha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Caipirinha",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine"
+    ]
+  },
+  {
+    "id": "brazil-feijoada",
+    "name": "Feijoada",
+    "local_name": null,
+    "pronunciation": "fay-zhoo-AH-dah",
+    "category": "meal",
+    "country": "Brazil",
+    "state": "Rio de Janeiro",
+    "regions": [
+      "Rio de Janeiro"
+    ],
+    "description": "A stew of black beans with salted pork and beef, considered Brazil's national dish. It took shape in colonial Brazil in the 18th century, combining Portuguese, African and Indigenous traditions. In Rio the feijoada carioca is served in botequins and restaurants, especially on Fridays and Saturdays.",
+    "how_to_eat": "Usually served with white rice, farofa and sautéed kale.",
+    "how_to_order": "Look for it as the Wednesday or Saturday lunch special in Rio and São Paulo restaurants and botequins.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Feijoada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Feijoada",
+      "https://pt.wikipedia.org/wiki/Feijoada",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Rio_de_Janeiro"
+    ]
+  },
+  {
+    "id": "brazil-file-a-oswaldo-aranha",
+    "name": "Filé à Oswaldo Aranha",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Brazil",
+    "state": "Rio de Janeiro",
+    "regions": [
+      "Rio de Janeiro",
+      "Lapa"
+    ],
+    "description": "A thick filet mignon or sirloin steak topped with fried garlic, served with batatas portuguesas (fried potatoes), white rice and egg farofa. It is named after the politician and diplomat Oswaldo Aranha, who ordered it at restaurants in Lapa, Rio de Janeiro, in the 1930s and 1940s.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Fil%C3%A9_%C3%A0_Oswaldo_Aranha",
+    "source_urls": [
+      "https://pt.wikipedia.org/wiki/Fil%C3%A9_%C3%A0_Oswaldo_Aranha",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Rio_de_Janeiro"
+    ]
+  },
+  {
+    "id": "brazil-bolinho-de-bacalhau",
+    "name": "Bolinho de bacalhau",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Brazil",
+    "state": "Rio de Janeiro",
+    "regions": [
+      "Rio de Janeiro"
+    ],
+    "description": "Fried salt-cod fritters of Portuguese origin. Rio's Portuguese heritage made them one of the most common street foods and botequim snacks in the city.",
+    "how_to_eat": null,
+    "how_to_order": "Served as a snack in Rio's botequins.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Bolinho_de_bacalhau",
+    "source_urls": [
+      "https://pt.wikipedia.org/wiki/Bolinho_de_bacalhau",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Rio_de_Janeiro"
+    ]
+  },
+  {
+    "id": "brazil-brigadeiro",
+    "name": "Brigadeiro",
+    "local_name": null,
+    "pronunciation": "bree-gah-DAY-roo",
+    "category": "sweet",
+    "country": "Brazil",
+    "state": "Rio de Janeiro",
+    "regions": [
+      "Rio de Janeiro"
+    ],
+    "description": "A small ball of condensed milk, cocoa powder and butter cooked to a soft fudge and rolled in chocolate sprinkles. It was created in the 1940s by Heloísa Nabuco de Oliveira, from a carioca family, to promote Brigadier Eduardo Gomes's presidential campaign, and it is considered the most typical Brazilian sweet.",
+    "how_to_eat": "Served in small paper cups; the softer brigadeiro de colher is eaten with a spoon.",
+    "how_to_order": "Made at home and sold in bakeries and snack shops; popular at festive events.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brigadeiro",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Brigadeiro",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Rio_de_Janeiro"
+    ]
+  },
+  {
+    "id": "brazil-mate-gelado",
+    "name": "Iced mate tea",
+    "local_name": "Chá mate gelado",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Brazil",
+    "state": "Rio de Janeiro",
+    "regions": [
+      "Rio de Janeiro"
+    ],
+    "description": "Iced tea made from roasted yerba mate (Ilex paraguariensis). It is a common drink in Rio de Janeiro homes and is sold on the city's beaches and from street stalls.",
+    "how_to_eat": null,
+    "how_to_order": "Buy it from vendors on Rio's beaches.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Rio_de_Janeiro"
+    ]
+  },
+  {
+    "id": "brazil-cachaca-de-paraty",
+    "name": "Paraty cachaça",
+    "local_name": "Cachaça de Paraty",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Brazil",
+    "state": "Rio de Janeiro",
+    "regions": [
+      "Paraty"
+    ],
+    "description": "Artisanal cachaça, a spirit distilled from sugarcane juice, made by small family distilleries in the municipality of Paraty. Paraty was the first place in Brazil to get a geographical indication for cachaça (2007), and in 2024 INPI changed it to a Denominação de Origem; producers are checked by the APACAP association.",
+    "how_to_eat": null,
+    "how_to_order": "Most of it is sold to tourists visiting Paraty, and several distilleries offer tastings.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cacha%C3%A7a",
+    "source_urls": [
+      "https://www.gov.br/inpi/pt-br/servicos/indicacoes-geograficas/arquivos/fichas-tecnicas-de-indicacoes-geograficas/Paraty..pdf",
+      "https://agenciabrasil.ebc.com.br/geral/noticia/2022-10/registro-de-indicacao-geografica-abre-caminhos-para-cachaca-de-paraty",
+      "https://en.wikipedia.org/wiki/Cacha%C3%A7a"
+    ]
+  },
+  {
+    "id": "brazil-pato-no-tucupi",
+    "name": "Pato no tucupi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Brazil",
+    "state": "Amazon (Pará)",
+    "regions": [
+      "Belém"
+    ],
+    "description": "Duck that is roasted or boiled, cut into pieces and simmered in tucupi, a yellow broth extracted from cassava, then topped with boiled jambu leaves. It is a typical dish of Belém and the main lunch dish of the Círio de Nazaré, Pará's largest religious festival.",
+    "how_to_eat": "Served with white rice and cassava flour.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pato_no_tucupi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pato_no_tucupi",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Par%C3%A1",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine"
+    ]
+  },
+  {
+    "id": "brazil-tacaca",
+    "name": "Tacacá",
+    "local_name": null,
+    "pronunciation": "tah-kah-KAH",
+    "category": "street_food",
+    "country": "Brazil",
+    "state": "Amazon (Pará)",
+    "regions": [
+      "Belém"
+    ],
+    "description": "A hot broth of indigenous origin made with tucupi poured over cooked tapioca gum, with jambu (a herb that numbs the mouth) and dried shrimp, seasoned with garlic and pimenta de cheiro. It is eaten across northern Brazil, especially in Pará and Amazonas.",
+    "how_to_eat": "Served hot in a cuia, a bowl made from a gourd.",
+    "how_to_order": "Sold by tacacazeiras, usually in the late afternoon on street corners of Belém and other Pará cities.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tacac%C3%A1",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tacac%C3%A1",
+      "https://pt.wikipedia.org/wiki/Tacac%C3%A1",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Par%C3%A1"
+    ]
+  },
+  {
+    "id": "brazil-manicoba",
+    "name": "Maniçoba",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Brazil",
+    "state": "Amazon (Pará)",
+    "regions": [
+      "Belém"
+    ],
+    "description": "A dish of indigenous origin made from ground cassava leaves (maniva) boiled for about a week to remove their hydrogen cyanide, then cooked with salted pork, dried meat, bacon and sausages. Because the ingredients resemble those of feijoada it is called 'feijoada paraense'; it is served at the Círio de Nazaré and at Christmas.",
+    "how_to_eat": "Served with white rice, cassava flour and chili to taste.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mani%C3%A7oba",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mani%C3%A7oba",
+      "https://pt.wikipedia.org/wiki/Mani%C3%A7oba",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Par%C3%A1"
+    ]
+  },
+  {
+    "id": "brazil-acai-na-tigela",
+    "name": "Açaí bowl",
+    "local_name": "Açaí na tigela",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Brazil",
+    "state": "Amazon (Pará)",
+    "regions": [
+      "Belém"
+    ],
+    "description": "Frozen, mashed fruit of the açaí palm served thick in a bowl, from Pará and Amazonas. In Pará it is eaten with cassava or tapioca flour, also as part of a main meal with fried fish, shrimp or dried meat, while elsewhere in Brazil it is sweetened and topped with granola and banana.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in kiosks along beach promenades and in juice bars.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A%C3%A7ai_bowl",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/A%C3%A7ai_bowl",
+      "https://pt.wikipedia.org/wiki/A%C3%A7a%C3%AD_na_tigela",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Par%C3%A1"
+    ]
+  },
+  {
+    "id": "brazil-bolo-de-castanha-do-para",
+    "name": "Brazil nut cake",
+    "local_name": "Bolo de castanha-do-pará",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Brazil",
+    "state": "Amazon (Pará)",
+    "regions": [],
+    "description": "A cake made with sliced, chopped or ground Brazil nuts along with flour, sugar, butter, eggs and milk; some versions use ground nuts instead of flour. It is common in the Amazon region, where an orange-flavoured version is popular.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts",
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brazil_nut_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Brazil_nut_cake",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine"
+    ]
+  },
+  {
+    "id": "brazil-baiao-de-dois",
+    "name": "Baião de dois",
+    "local_name": null,
+    "pronunciation": "bye-OWN dee DOYS",
+    "category": "meal",
+    "country": "Brazil",
+    "state": "Northeast",
+    "regions": [
+      "Ceará"
+    ],
+    "description": "Rice and beans (preferably feijão verde or feijão novo) cooked together with onion, tomato, pepper and herbs, often with queijo coalho and cream; elsewhere dried meat and butter are added. It comes from Ceará, and the name refers to the baião music style and the 'two' of rice and beans.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bai%C3%A3o_de_dois",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bai%C3%A3o_de_dois",
+      "https://pt.wikipedia.org/wiki/Bai%C3%A3o_de_dois",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine"
+    ]
+  },
+  {
+    "id": "brazil-carne-de-sol",
+    "name": "Carne de sol",
+    "local_name": null,
+    "pronunciation": "KAR-nee jee SOW",
+    "category": "meal",
+    "country": "Brazil",
+    "state": "Northeast",
+    "regions": [],
+    "description": "Beef cut into thin sheets, lightly salted and cured in a dry, ventilated place. It was developed by people of the semi-arid sertão to preserve meat and is traditional across the Northeast.",
+    "how_to_eat": "Eaten fried, in sandwiches, baked with cream, or pounded with cassava flour as paçoca.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carne_de_sol",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Carne_de_sol",
+      "https://pt.wikipedia.org/wiki/Carne_de_sol",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine"
+    ]
+  },
+  {
+    "id": "brazil-bolo-de-rolo",
+    "name": "Bolo de rolo",
+    "local_name": null,
+    "pronunciation": "BOH-loo dee HOH-loo",
+    "category": "sweet",
+    "country": "Brazil",
+    "state": "Northeast",
+    "regions": [
+      "Pernambuco"
+    ],
+    "description": "A cake of flour, eggs, butter and sugar baked in very thin layers and rolled with guava paste (goiabada), like a Swiss roll with many thin layers. It is an adaptation of a Portuguese rolled sponge cake and has been intangible heritage of Pernambuco since 2007.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bolo_de_rolo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bolo_de_rolo",
+      "https://pt.wikipedia.org/wiki/Bolo_de_rolo",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine"
+    ]
+  },
+  {
+    "id": "brazil-cuscuz-nordestino",
+    "name": "Cuscuz nordestino",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Brazil",
+    "state": "Northeast",
+    "regions": [],
+    "description": "Steamed maize couscous, a basic food of the Brazilian Northeast eaten at many meals, especially breakfast. It is a local adaptation of North African couscous using native maize, sometimes with coconut milk added.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Cuscuz_nordestino",
+    "source_urls": [
+      "https://pt.wikipedia.org/wiki/Cuscuz_nordestino"
+    ]
+  },
+  {
+    "id": "brazil-tapioca",
+    "name": "Tapioca",
+    "local_name": null,
+    "pronunciation": "tah-pee-OH-kah",
+    "category": "street_food",
+    "country": "Brazil",
+    "state": "Northeast",
+    "regions": [],
+    "description": "A flatbread made by sprinkling moistened, sieved cassava starch onto a hot griddle until the grains fuse into a crêpe. It is eaten for breakfast in the North and Northeast, plain with butter or filled with coconut, cheese, condensed milk, meats or sweet toppings.",
+    "how_to_eat": "Most commonly eaten with butter or grated coconut for breakfast or an afternoon snack, with coffee with milk.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tapioca",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Par%C3%A1"
+    ]
+  },
+  {
+    "id": "brazil-queijo-coalho",
+    "name": "Queijo coalho",
+    "local_name": null,
+    "pronunciation": "KAY-zhoo KWAH-lyoo",
+    "category": "street_food",
+    "country": "Brazil",
+    "state": "Northeast",
+    "regions": [],
+    "description": "A firm, light, squeaky cheese from Northeastern Brazil that does not melt when heated. It is grilled over charcoal on a stick until golden and slightly charred.",
+    "how_to_eat": "Eaten on a stick, often with oregano or garlic sauce.",
+    "how_to_order": "Sold by vendors on Northeast beaches and served at churrascos.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Queijo_coalho",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Queijo_coalho",
+      "https://pt.wikipedia.org/wiki/Queijo_coalho",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine"
+    ]
+  },
+  {
+    "id": "brazil-cajuina",
+    "name": "Cajuína",
+    "local_name": null,
+    "pronunciation": "kah-zhoo-EE-nah",
+    "category": "drink",
+    "country": "Brazil",
+    "state": "Northeast",
+    "regions": [
+      "Piauí",
+      "Teresina"
+    ],
+    "description": "A non-alcoholic, non-carbonated drink of clarified cashew-apple juice that is bottled and cooked in a water bath, which caramelises its sugars into an amber colour and preserves it. It was developed by pharmacist Rodolfo Teófilo in the 1890s and is a cultural symbol of Teresina. 'Piauí' is a registered Indicação de Procedência for cajuína (INPI, 2014).",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caju%C3%ADna",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Caju%C3%ADna",
+      "https://pt.wikipedia.org/wiki/Caju%C3%ADna",
+      "https://www.gov.br/inpi/pt-br/servicos/indicacoes-geograficas/arquivos/fichas-tecnicas-de-indicacoes-geograficas/Piau.pdf",
+      "https://geoftp.ibge.gov.br/cartas_e_mapas/mapas_do_brasil/sociedade_e_economia/indicacoes_geograficas_2018.pdf"
+    ]
+  },
+  {
+    "id": "brazil-churrasco",
+    "name": "Churrasco",
+    "local_name": null,
+    "pronunciation": "shoo-HAHS-koo",
+    "category": "meal",
+    "country": "Brazil",
+    "state": "South",
+    "regions": [
+      "Rio Grande do Sul"
+    ],
+    "description": "Barbecue that originated with the gaúchos of southern Brazil: beef, pork, sausage and chicken on spits or skewers over charcoal or wood embers, traditionally seasoned only with coarse salt. Picanha (rump cap) is the most prized cut.",
+    "how_to_eat": null,
+    "how_to_order": "At a churrascaria with rodízio service, servers bring skewers to the table and carve meat onto your plate for a fixed price.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Churrasco",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Churrasco",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Rio_Grande_do_Sul",
+      "https://en.wikipedia.org/wiki/Picanha"
+    ]
+  },
+  {
+    "id": "brazil-chimarrao",
+    "name": "Chimarrão",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Brazil",
+    "state": "South",
+    "regions": [
+      "Rio Grande do Sul"
+    ],
+    "description": "Unsweetened mate, an infusion of ground yerba mate leaves in hot (about 70 °C) water, drunk from a cuia gourd through a metal straw called a bomba. It is the regional drink of Rio Grande do Sul, inherited from Guarani and Kaingang peoples, and is closely tied to gaúcho identity.",
+    "how_to_eat": "The same gourd and straw are shared and passed around the group, refilled each time by the person serving.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mate_(drink)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mate_(drink)",
+      "https://pt.wikipedia.org/wiki/Chimarr%C3%A3o",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine"
+    ]
+  },
+  {
+    "id": "brazil-arroz-carreteiro",
+    "name": "Arroz carreteiro",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Brazil",
+    "state": "South",
+    "regions": [
+      "Rio Grande do Sul"
+    ],
+    "description": "Rice cooked with shredded or cubed dried salted beef (charque), sometimes with paio, bacon or linguiça, flavoured with garlic, onion, tomato and parsley. It was first made by ox-cart drivers (carreteiros) crossing Rio Grande do Sul, and modern versions often use leftover churrasco meat.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arroz_carreteiro",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Arroz_carreteiro",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Rio_Grande_do_Sul"
+    ]
+  },
+  {
+    "id": "brazil-galeto",
+    "name": "Galeto",
+    "local_name": "Galeto ao primo canto",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Brazil",
+    "state": "South",
+    "regions": [
+      "Caxias do Sul",
+      "Serra Gaúcha"
+    ],
+    "description": "Young chicken grilled over embers, a dish of the Italian colonies of Rio Grande do Sul that started in Caxias do Sul in the 1930s. It is counted with churrasco and arroz carreteiro among the main dishes of the state.",
+    "how_to_eat": null,
+    "how_to_order": "Served at galeterias with cappelletti soup, radicchio with bacon, fried polenta and pasta.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Galeto",
+    "source_urls": [
+      "https://pt.wikipedia.org/wiki/Galeto",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Rio_Grande_do_Sul"
+    ]
+  },
+  {
+    "id": "brazil-sagu",
+    "name": "Sagu",
+    "local_name": "Sagu de vinho",
+    "pronunciation": "sah-GOO",
+    "category": "sweet",
+    "country": "Brazil",
+    "state": "South",
+    "regions": [
+      "Serra Gaúcha"
+    ],
+    "description": "A dessert of cassava tapioca pearls cooked with sugar and red wine, often infused with cinnamon and cloves. It was created in the Serra Gaúcha wine region and is typical of the three southern states.",
+    "how_to_eat": "Served warm or cold, often topped with crème anglaise.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sagu_(dessert)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sagu_(dessert)",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Rio_Grande_do_Sul"
+    ]
+  },
+  {
+    "id": "brazil-cuca",
+    "name": "Cuca",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Brazil",
+    "state": "South",
+    "regions": [],
+    "description": "A sheet cake of eggs, wheat flour and butter covered with a crumb topping of sugar, butter, flour and cinnamon, similar to German Streuselkuchen. German immigrants brought it to southern Brazil, and the name comes from the German word Kuchen.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Cuca_(bolo)",
+    "source_urls": [
+      "https://pt.wikipedia.org/wiki/Cuca_(bolo)",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine",
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Rio_Grande_do_Sul"
+    ]
+  },
+  {
+    "id": "brazil-barreado",
+    "name": "Barreado",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Brazil",
+    "state": "South",
+    "regions": [
+      "Morretes",
+      "Antonina",
+      "Paraná"
+    ],
+    "description": "A Paraná coast dish of lean beef with bacon, onion, garlic, black pepper, bay leaf and cumin, slow-cooked for 12-18 hours in a clay pot whose lid is sealed with a paste of flour. The name means 'muddied', after the seal; the dish has Azorean Portuguese roots and was served at carnival.",
+    "how_to_eat": "Mixed with cassava flour on the plate until thick, and eaten with rice and sliced plantain.",
+    "how_to_order": "Most easily found in Morretes, and also in Antonina, Guaraqueçaba and Paranaguá.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Barreado",
+    "source_urls": [
+      "https://pt.wikipedia.org/wiki/Barreado",
+      "https://en.wikipedia.org/wiki/Brazilian_cuisine"
+    ]
+  },
+  {
+    "id": "brazil-doces-de-pelotas",
+    "name": "Pelotas sweets",
+    "local_name": "Doces de Pelotas",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Brazil",
+    "state": "South",
+    "regions": [
+      "Pelotas"
+    ],
+    "description": "Traditional sweets of the city of Pelotas based on egg yolks, sugar, coconut, almonds and other nuts, such as quindim, ninho, camafeu, olho de sogra, bem-casado and crystallized fruits. The tradition grew in the 19th century with the wealth of the charque trade and was named national intangible heritage in 2018. 'Pelotas' is a registered Indicação de Procedência for these sweets (INPI, 2011).",
+    "how_to_eat": null,
+    "how_to_order": "Pelotas hosts the Fenadoce sweets fair, first held in 1986.",
+    "typical_price": null,
+    "currency": "BRL",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "nuts",
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.gov.br/inpi/pt-br/servicos/indicacoes-geograficas/arquivos/fichas-tecnicas-de-indicacoes-geograficas/Pelotas.pdf",
+      "https://wp.ufpel.edu.br/empauta/entenda-por-que-a-tradicao-doceira-de-pelotas-e-considerada-patrimonio-imaterial-do-brasil/",
+      "https://geoftp.ibge.gov.br/cartas_e_mapas/mapas_do_brasil/sociedade_e_economia/indicacoes_geograficas_2018.pdf"
+    ]
+  }
+]

@@ -17,14 +17,14 @@ Reference (already done, do not edit): `/home/beast/Projects/Off We Gooooooo/app
 - local_name: name in the local script/language ONLY if seen in a source (e.g. 寿司, Paella valenciana); else null.
 - pronunciation: simple syllables like "boo-ya-BAYSS", or null. Only if you are confident.
 - category: one of exactly: sweet, street_food, meal, snack, drink. (Do not use pitha or temple_food.)
-- country: English name, exactly one of: France, Spain, United States, Italy, Turkey, Mexico, United Kingdom, Germany, Greece, Thailand, Japan, China, United Arab Emirates, Malaysia, Vietnam, Indonesia, Portugal, Netherlands, South Korea, Singapore, Austria, Canada, Croatia, Morocco, Poland, Hungary, Czechia, Egypt. (Add new countries here and to COUNTRY_CODE in src/data.ts.)
+- country: English name, exactly one of: France, Spain, United States, Italy, Turkey, Mexico, United Kingdom, Germany, Greece, Thailand, Japan, China, United Arab Emirates, Malaysia, Vietnam, Indonesia, Portugal, Netherlands, South Korea, Singapore, Austria, Canada, Croatia, Morocco, Poland, Hungary, Czechia, Egypt, Australia, Brazil, Peru, Argentina. (Add new countries here and to COUNTRY_CODE in src/data.ts.)
 - state: the region name (see Regions), e.g. "Provence", "Andalusia", "The South".
 - regions: [] (or city names where best known, e.g. ["Marseille"]).
 - description: 2-3 factual sentences: what it is, main ingredients, why it matters. No fluff.
 - how_to_eat: 1 sentence or null.
 - how_to_order: 1 sentence (what to ask for, where it is sold) or null.
 - typical_price: string like "8-12" in local currency ONLY if a source gives it; else null.
-- currency: ISO 4217 code of the country (EUR, USD, GBP, TRY, MXN, THB, JPY, CNY, AED, MYR, VND, IDR, KRW, SGD, CAD, MAD, PLN, HUF, CZK, EGP).
+- currency: ISO 4217 code of the country (EUR, USD, GBP, TRY, MXN, THB, JPY, CNY, AED, MYR, VND, IDR, KRW, SGD, CAD, MAD, PLN, HUF, CZK, EGP, AUD, BRL, PEN, ARS).
 - diet: "veg" | "nonveg" | "egg". Fish/seafood = nonveg. If commonly made with meat or fish stock/sauce (fish sauce, dashi, lard, gelatin), it is nonveg.
 - jain: always false (Jain filter is India-only).
 - vegan: true only if no dairy/egg/honey/meat/fish (including fish sauce).
@@ -37,7 +37,7 @@ Reference (already done, do not edit): `/home/beast/Projects/Off We Gooooooo/app
 ## Rules
 - Use WebSearch/WebFetch: Wikipedia ("Cuisine of <country>", regional cuisine pages), national tourism boards, reputable food/travel sites. Facts from sources only; do not invent.
 - Never put the user's email or any personal info in HTTP headers, User-Agent or URLs. If you script requests, use User-Agent "OffWeGoDishResearch/1.0".
-- Keep your scripts in your own new scratchpad subfolder: /tmp/claude-1000/-home-beast-Projects-Off-We-Gooooooo/a127c90c-19dd-4cc7-b4ea-15d6b028166c/scratchpad/world_<your countries>/ (other agents work in parallel; never touch shared files).
+- Keep your scripts in your own new scratchpad subfolder: /tmp/claude-1000/-home-beast-Projects-Off-We-Gooooooo/d4c3e708-3864-407e-bcf5-a9cbdf1766bf/scratchpad/world_<your countries>/ (other agents work in parallel; never touch shared files).
 - Validate: `python3 /home/beast/Projects/Off We Gooooooo/app/scripts/check_dishes.py` must print OK for your file (run from the app/ folder: `cd "/home/beast/Projects/Off We Gooooooo/app" && python3 scripts/check_dishes.py`). Other agents' files may still be in progress; only fix your own.
 - Do not edit any other file. No restaurants.
 - Final reply: per country, file path, regions with dish counts, GI-tagged dishes, anything uncertain. Short.

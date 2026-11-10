@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "australia-sydney-rock-oyster",
+    "name": "Sydney rock oyster",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Australia",
+    "state": "New South Wales",
+    "regions": [
+      "Sydney",
+      "Merimbula"
+    ],
+    "description": "Saccostrea glomerata, an oyster endemic to Australia and New Zealand, known in Australia as the Sydney rock oyster or simply rock oyster. It is commercially farmed, mainly along the New South Wales coastline, and is treated as a culinary delicacy in Sydney. Oyster trails, tours and tastings operate in NSW locations such as Merimbula.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Saccostrea_glomerata",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Saccostrea_glomerata",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-carpetbag-steak",
+    "name": "Carpetbag steak",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Australia",
+    "state": "New South Wales",
+    "regions": [
+      "Sydney"
+    ],
+    "description": "A thick cut of beef with a pocket cut into it and stuffed with oysters, then pan-fried, grilled or broiled. The dish traces back to Mumbles in South Wales, UK, but became popular in Sydney around 1950; Australian versions typically use Worcestershire sauce, and the filling is sometimes extended with butter, lemon juice, parsley, breadcrumbs or cheese.",
+    "how_to_eat": "Most often served rare; sometimes wrapped in a strip of bacon.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carpetbag_steak",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Carpetbag_steak",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-flat-white",
+    "name": "Flat white",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Australia",
+    "state": "New South Wales",
+    "regions": [
+      "Sydney"
+    ],
+    "description": "Espresso coffee with steamed milk, with a higher proportion of espresso to milk than a latte and a thin layer of microfoam rather than a cappuccino's thick foam. It became popular in Australia after 1985; its invention is claimed by a Sydneysider, a claim disputed by New Zealand.",
+    "how_to_eat": null,
+    "how_to_order": "In Australia it is usually served in a ceramic cup with a handle.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Flat_white",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Flat_white",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-mango-pancake",
+    "name": "Mango pancake",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Australia",
+    "state": "New South Wales",
+    "regions": [
+      "Sydney"
+    ],
+    "description": "A sweet served at yum cha restaurants in Sydney and elsewhere in Australia. It is believed to have originated in Sydney in the late 1980s and early 1990s.",
+    "how_to_eat": null,
+    "how_to_order": "Ordered from the trolleys or menu at yum cha.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-tim-tam",
+    "name": "Tim Tam",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Australia",
+    "state": "New South Wales",
+    "regions": [
+      "Sydney",
+      "Newcastle"
+    ],
+    "description": "A chocolate biscuit made by Arnott's since 1964: two malted biscuits separated by a light chocolate cream filling and coated in textured chocolate. Arnott's original bakery opened in Newcastle, New South Wales, and Tim Tams are still made in Australia, including at a bakery in Western Sydney.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in supermarkets nationwide in many varieties, such as double coat, dark chocolate and caramel.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Tam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tim_Tam",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-neenish-tart",
+    "name": "Neenish tart",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Australia",
+    "state": "New South Wales",
+    "regions": [
+      "Sydney"
+    ],
+    "description": "An individual tart with a pastry base, a filling of gelatine-set cream, mock cream, icing sugar paste or a lemon and condensed milk mixture, and dried icing on top in two colours. 'Nenish cakes' appear in Sydney newspaper advertisements as early as 1895, and a recipe appeared in the Sydney Mail in 1901. A layer of raspberry jam is a common variation.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Neenish_tart",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Neenish_tart",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-meat-pie",
+    "name": "Meat pie",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Australia",
+    "state": "Victoria",
+    "regions": [
+      "Bendigo",
+      "Melbourne"
+    ],
+    "description": "A handheld single-portion pie of diced or minced meat, usually beef, in gravy, in a shortcrust pastry case; it has been described as Australia's national dish. Its status owes much to the Four'n Twenty company, founded in Bendigo in 1947, whose pies were sold at Australian Rules football matches and grew in popularity in Melbourne in the 1950s.",
+    "how_to_eat": "Eaten hot out of the hand, with tomato sauce spread or dripped on top.",
+    "how_to_order": "Sold at bakeries, milk bars, petrol stations and football matches, often kept in a pie warmer.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Meat_pie_(Australia_and_New_Zealand)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Meat_pie_(Australia_and_New_Zealand)",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-dim-sim",
+    "name": "Dim sim",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Australia",
+    "state": "Victoria",
+    "regions": [
+      "Melbourne",
+      "South Melbourne"
+    ],
+    "description": "A meat and vegetable dumpling inspired by Cantonese dim sum, usually minced meat, cabbage and seasoning in a thick wrapper, larger and doughier than Chinese dumplings. The modern recipe was most likely developed in Melbourne's Chinatown in 1945 by William Chen Wing Young; the larger globular 'South Melbourne dim sim' comes from South Melbourne Market.",
+    "how_to_eat": "Steamed or deep-fried and dipped in soy, tomato or sweet chilli sauce; barbecued halves are called a 'Moe crayfish'.",
+    "how_to_order": "Sold at fish-and-chip shops, service stations and corner shops.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dim_sim",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dim_sim",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-chiko-roll",
+    "name": "Chiko Roll",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Australia",
+    "state": "Victoria",
+    "regions": [
+      "Bendigo",
+      "Melbourne"
+    ],
+    "description": "A deep-fried savoury roll invented by Bendigo boilermaker Frank McEncroe, inspired by the Chinese spring roll and first sold in 1951. The filling is mainly cabbage and barley with carrot, beans, beef, beef tallow, celery and onion, enclosed in a thick egg and flour pastry tube designed to survive handling at football matches.",
+    "how_to_eat": "Designed to be eaten on the move without a plate or cutlery.",
+    "how_to_order": "Sold at fish-and-chip shops, which deep-fry it to order.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chiko_Roll",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chiko_Roll",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-potato-cake",
+    "name": "Potato cake",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Australia",
+    "state": "Victoria",
+    "regions": [],
+    "description": "A thin slice of potato dipped in batter and deep-fried. It is called a potato cake in Victoria, Tasmania and the Murray River regions of New South Wales, a potato scallop in eastern and northern NSW, Queensland and the ACT, and a potato fritter in South Australia.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at fish-and-chip shops; in Victoria ask for a potato cake.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Potato_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Potato_cake"
+    ]
+  },
+  {
+    "id": "australia-vegemite-toast",
+    "name": "Vegemite on toast",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Australia",
+    "state": "Victoria",
+    "regions": [
+      "Melbourne"
+    ],
+    "description": "Buttered toast spread with Vegemite, a thick dark brown spread made from leftover brewers' yeast extract with vegetable and spice additives. Vegemite was developed by Cyril Callister in Melbourne in 1922 and first sold in 1923; it is salty, slightly bitter and malty, and high in B vitamins.",
+    "how_to_eat": "Spread thinly, as it has a strong flavour and is typically eaten in small amounts.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vegemite",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Vegemite",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-hot-jam-doughnut",
+    "name": "Hot jam doughnut",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Australia",
+    "state": "Victoria",
+    "regions": [
+      "Melbourne"
+    ],
+    "description": "A freshly fried doughnut filled with hot jam. Melbourne is considered its home; doughnut vans at Queen Victoria Market have fried them there since 1950 using the same family recipe.",
+    "how_to_eat": "Eaten hot, straight from the van.",
+    "how_to_order": "Sold from doughnut vans at Queen Victoria Market and other markets.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Australian_cuisine",
+      "https://whatson.melbourne.vic.gov.au/eat-and-drink/american-doughnut-kitchen"
+    ]
+  },
+  {
+    "id": "australia-lamington",
+    "name": "Lamington",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Australia",
+    "state": "Queensland",
+    "regions": [
+      "Brisbane",
+      "Toowoomba"
+    ],
+    "description": "Squares of butter cake or sponge cake coated in chocolate sauce and rolled in desiccated coconut; a common variation has cream or strawberry jam between two halves. It is believed to be named after Lord Lamington, Governor of Queensland from 1896 to 1901, and is most often credited to his chef Armand Galland; a 1900 recipe was found in the Queensland Country Life newspaper.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lamington",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lamington",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-moreton-bay-bug",
+    "name": "Moreton Bay bug",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Australia",
+    "state": "Queensland",
+    "regions": [
+      "Brisbane",
+      "Moreton Bay"
+    ],
+    "description": "Thenus orientalis, a slipper lobster known in Australia as the Moreton Bay bug, or simply bug, after Moreton Bay in Brisbane. It is common in seafood restaurants and a commonly used ingredient in Brisbane's cuisine.",
+    "how_to_eat": null,
+    "how_to_order": "Served on its own or with steak as surf and turf.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thenus",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thenus",
+      "https://en.wikipedia.org/wiki/Australian_cuisine",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Brisbane"
+    ]
+  },
+  {
+    "id": "australia-smashed-avo",
+    "name": "Smashed avo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Australia",
+    "state": "Queensland",
+    "regions": [
+      "Brisbane",
+      "Sydney"
+    ],
+    "description": "Toasted bread topped with mashed avocado, often with salt, pepper, lemon juice, olive oil, feta or tomato. Brisbane lays claim to it: the dish is documented in Brisbane as early as 1929, while Sydney cook Bill Granger may have been the first to put it on a modern café menu in 1993.",
+    "how_to_eat": null,
+    "how_to_order": "A standard item on café brunch menus.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Avocado_toast",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Avocado_toast",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-weis-bar",
+    "name": "Weis bar",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Australia",
+    "state": "Queensland",
+    "regions": [
+      "Toowoomba"
+    ],
+    "description": "A bar-shaped fruit ice confection. The original Weis Fruito Bar, of pineapple, banana and passion fruit, was developed by Les Weis in 1957 and sold from his corner store in Toowoomba; the Mango and Cream bar launched in 1959 is the most popular. It was named one of the Q150 Icons of Queensland in 2009.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at milk bars and supermarkets.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Weis_(ice_cream)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Weis_(ice_cream)",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-macadamia",
+    "name": "Macadamia nut",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Australia",
+    "state": "Queensland",
+    "regions": [],
+    "description": "The nut of the Macadamia tree, indigenous to central and southeastern Queensland and northeastern New South Wales, also called the Queensland nut or bauple nut. It was an important bushfood for Aboriginal peoples and is the only widely grown food plant native to Australia.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Macadamia",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Macadamia",
+      "https://en.wikipedia.org/wiki/Bush_tucker",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-bunya-nut",
+    "name": "Bunya nut",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Australia",
+    "state": "Queensland",
+    "regions": [
+      "Wide Bay",
+      "Sunshine Coast"
+    ],
+    "description": "The edible seed of the bunya tree (Araucaria bidwillii), with a flavour compared to chestnut and starchy potato. It was a major food for Aboriginal Australians, who held large bunya gatherings to feast on it, and it is still sold at grocery and roadside stalls in rural southern Queensland.",
+    "how_to_eat": "The nuts split when boiled or put in a fire; they are eaten raw or cooked, or ground into flour for breads and other recipes.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Araucaria_bidwillii",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Araucaria_bidwillii",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-pie-floater",
+    "name": "Pie floater",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Australia",
+    "state": "South Australia",
+    "regions": [
+      "Adelaide",
+      "Port Pirie"
+    ],
+    "description": "A meat pie sitting in, or submerged upside down in, a bowl of thick pea soup made from blue boiler peas. Believed to date from the 1890s, it became popular as a late-evening meal from Adelaide pie carts and was recognised as a South Australian Heritage Icon in 2003.",
+    "how_to_eat": "Topped with tomato sauce; mint sauce, salt, pepper or malt vinegar can be added to taste.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pie_floater",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pie_floater",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-frog-cake",
+    "name": "Frog cake",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Australia",
+    "state": "South Australia",
+    "regions": [
+      "Adelaide"
+    ],
+    "description": "A small cake shaped like a frog's head with an open mouth, made of sponge with a jam centre, artificial cream and a thick fondant coating. It was created by the Adelaide bakery Balfours around 1923, originally only in green, and was listed as a South Australian Heritage Icon by the National Trust in 2001.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Frog_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Frog_cake",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-fruchocs",
+    "name": "FruChocs",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Australia",
+    "state": "South Australia",
+    "regions": [
+      "Riverland",
+      "Barossa Valley"
+    ],
+    "description": "Cubes of dried apricot and peach paste coated in milk chocolate, made in South Australia since 1948. They were introduced to use excess fruit from the Riverland and Barossa Valley and were declared a South Australian icon in 2005.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/FruChocs",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/FruChocs",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-king-george-whiting",
+    "name": "King George whiting",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Australia",
+    "state": "South Australia",
+    "regions": [
+      "Ceduna",
+      "Gulf St Vincent"
+    ],
+    "description": "A coastal fish endemic to southern Australia, recognisable by its pattern of spots. Its main commercial fishery is centred on South Australia, and anglers seek it for its eating quality.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/King_George_whiting",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/King_George_whiting",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-mettwurst",
+    "name": "Mettwurst",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Australia",
+    "state": "South Australia",
+    "regions": [
+      "Hahndorf"
+    ],
+    "description": "A strongly flavoured sausage of raw minced pork preserved by curing and smoking, often with garlic. Large 19th-century German immigration made it common in South Australia, where it is made in the northern German style.",
+    "how_to_eat": "Served as a cold cut, often in school lunches or as a party snack.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mettwurst",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mettwurst",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-kitchener-bun",
+    "name": "Kitchener bun",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Australia",
+    "state": "South Australia",
+    "regions": [],
+    "description": "A doughnut-like bun of sweet yeasted dough, baked or fried, split open and filled with raspberry or strawberry jam and cream, usually dusted with sugar. Sold in South Australia since 1915, it was originally called a Berliner and renamed after Lord Kitchener during World War I.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at South Australian bakeries.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kitchener_bun",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kitchener_bun",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-farmers-union-iced-coffee",
+    "name": "Farmers Union Iced Coffee",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Australia",
+    "state": "South Australia",
+    "regions": [],
+    "description": "A coffee-flavoured milk drink made with coffee, glucose and reduced-fat milk, launched in 1977 by a co-operative of South Australian dairy farmers. In 2003 it was Australia's best-selling flavoured milk drink.",
+    "how_to_eat": null,
+    "how_to_order": "Sold chilled in cartons and bottles at supermarkets and petrol stations.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Farmers_Union_Iced_Coffee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Farmers_Union_Iced_Coffee",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-conti-roll",
+    "name": "Conti roll",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Australia",
+    "state": "Western Australia",
+    "regions": [
+      "Perth",
+      "Northbridge"
+    ],
+    "description": "A long crusty bread roll filled with Italian deli meats, usually coppa, mortadella and salami, plus cheese and preserved antipasti-style vegetables. Also called a continental roll, it was probably born in Perth's Northbridge and has been described as the closest thing Western Australians have to a regional sandwich.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at delis from breakfast to late afternoon; you can specify your preferred meat mix.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Conti_roll",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Conti_roll",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-western-rock-lobster",
+    "name": "Western rock lobster",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Australia",
+    "state": "Western Australia",
+    "regions": [
+      "Geraldton",
+      "Abrolhos Islands"
+    ],
+    "description": "Panulirus cygnus, the most abundant rock lobster in Western Australian waters, called crayfish locally. Most live between Perth and Geraldton, and the fisheries are based off Geraldton and in the Abrolhos Islands.",
+    "how_to_eat": "Often split, grilled on the barbecue and drizzled with butter; also served as lobster mornay.",
+    "how_to_order": "Sold live at back-of-boat sales, at fishmongers and in seafood restaurants.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Panulirus_cygnus",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Panulirus_cygnus",
+      "https://wafic.localista.com.au/rock-lobster",
+      "https://www.worldtravelguide.net/guides/oceania/australia/western-australia/food-and-drink"
+    ]
+  },
+  {
+    "id": "australia-marron",
+    "name": "Marron",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Australia",
+    "state": "Western Australia",
+    "regions": [],
+    "description": "A large freshwater crayfish found only in Western Australia, with clean, firm flesh and meaty nippers. It is farmed in ponds between Geraldton and Esperance, and some South West farms let visitors catch their own.",
+    "how_to_eat": "Boiled and peeled with salt and white pepper, or halved and grilled with butter.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cherax_cainii",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cherax_cainii",
+      "https://wafic.localista.com.au/marron",
+      "https://www.worldtravelguide.net/guides/oceania/australia/western-australia/food-and-drink"
+    ]
+  },
+  {
+    "id": "australia-dhufish",
+    "name": "West Australian dhufish",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Australia",
+    "state": "Western Australia",
+    "regions": [],
+    "description": "Glaucosoma hebraicum, a pearl perch endemic to Western Australian waters from Shark Bay to the Recherche Archipelago. It is one of the seafood species named as part of Western Australian cuisine.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Glaucosoma_hebraicum",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Glaucosoma_hebraicum",
+      "https://en.wikipedia.org/wiki/Australian_cuisine",
+      "https://www.worldtravelguide.net/guides/oceania/australia/western-australia/food-and-drink"
+    ]
+  },
+  {
+    "id": "australia-spearmint-milk",
+    "name": "Spearmint milk",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Australia",
+    "state": "Western Australia",
+    "regions": [],
+    "description": "Green-coloured, spearmint-flavoured milk, described as a Western Australian treat.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-pearl-meat",
+    "name": "Pearl meat",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Australia",
+    "state": "Western Australia",
+    "regions": [],
+    "description": "The shell muscle of pearl oysters, eaten in Western Australia as a delicacy.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.worldtravelguide.net/guides/oceania/australia/western-australia/food-and-drink"
+    ]
+  },
+  {
+    "id": "australia-scallop-pie",
+    "name": "Scallop pie",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Australia",
+    "state": "Tasmania",
+    "regions": [
+      "Hobart"
+    ],
+    "description": "Whole Tasmanian scallops in a curried béchamel sauce inside shortcrust or flaky pastry, flavoured with Keen's curry powder, which has been made in Tasmania since the mid-1800s. Its exact origin is unknown: curried scallops without pastry were popular in Tasmania in the 1920s, and the first scallop pie recipes appeared in local newspapers in the 1930s.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at bakeries around Tasmania and at cafés on the Hobart waterfront.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish",
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Australian_cuisine",
+      "https://thehobartmagazine.com.au/history-of-the-tassie-scallop-pie",
+      "https://www.nationalgeographic.com/travel/article/how-tasmania-australia-produces-some-of-the-worlds-best-seafood"
+    ]
+  },
+  {
+    "id": "australia-leatherwood-honey",
+    "name": "Leatherwood honey",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Australia",
+    "state": "Tasmania",
+    "regions": [],
+    "description": "A monofloral honey made by Tasmanian beekeepers from the flowers of the leatherwood tree, which grows in the forests of western Tasmania. It has intense floral notes and is listed in the Slow Food movement's Ark of Taste; the harvest runs from January to March.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Eucryphia_lucida",
+      "https://www.worldtravelguide.net/guides/oceania/australia/tasmania/food-and-drink",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-tasmanian-abalone",
+    "name": "Abalone",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Australia",
+    "state": "Tasmania",
+    "regions": [],
+    "description": "A sea snail of the genus Haliotis harvested wild off Tasmania, with a delicate flavour. Australia is one of the largest producers of abalone.",
+    "how_to_eat": "Eaten raw, or tenderised with a mallet and cooked in butter, garlic and lemon.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Abalone",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Abalone",
+      "https://www.nationalgeographic.com/travel/article/how-tasmania-australia-produces-some-of-the-worlds-best-seafood",
+      "https://www.worldtravelguide.net/guides/oceania/australia/tasmania/food-and-drink",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-tasmanian-pacific-oyster",
+    "name": "Pacific oyster",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Australia",
+    "state": "Tasmania",
+    "regions": [],
+    "description": "Magallana gigas, an oyster native to Asia that was introduced to Tasmania in the 1940s and is now farmed there.",
+    "how_to_eat": null,
+    "how_to_order": "Offered on oyster farm tours and in seafood restaurants.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pacific_oyster",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pacific_oyster",
+      "https://www.nationalgeographic.com/travel/article/how-tasmania-australia-produces-some-of-the-worlds-best-seafood"
+    ]
+  },
+  {
+    "id": "australia-tasmanian-atlantic-salmon",
+    "name": "Tasmanian Atlantic salmon",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Australia",
+    "state": "Tasmania",
+    "regions": [],
+    "description": "Atlantic salmon farmed in Tasmania and known for its flavour. Salmon is one of the most common species in Australia's aquaculture industry.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Atlantic_salmon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Atlantic_salmon",
+      "https://www.worldtravelguide.net/guides/oceania/australia/tasmania/food-and-drink",
+      "https://www.nationalgeographic.com/travel/article/how-tasmania-australia-produces-some-of-the-worlds-best-seafood",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-fairy-bread",
+    "name": "Fairy bread",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Australia",
+    "state": "Tasmania",
+    "regions": [
+      "Hobart"
+    ],
+    "description": "Sliced white bread spread with butter or margarine and covered with hundreds and thousands, usually cut into triangles and served at children's parties. The first known reference to it as 'fairy bread' is in the Hobart Mercury in 1929.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fairy_bread",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fairy_bread",
+      "https://thehobartmagazine.com.au/history-of-the-tassie-scallop-pie",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-pavlova",
+    "name": "Pavlova",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Australia",
+    "state": "Nationwide & bush food",
+    "regions": [],
+    "description": "A dessert of baked meringue with a crisp crust and soft inside, usually topped with fruit and whipped cream, named after the ballerina Anna Pavlova. Its origin is disputed between Australia and New Zealand, and it is most often eaten in summer, including at Christmas.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pavlova",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pavlova",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-anzac-biscuit",
+    "name": "Anzac biscuit",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Australia",
+    "state": "Nationwide & bush food",
+    "regions": [],
+    "description": "A sweet biscuit of rolled oats, flour, sugar, butter, golden syrup, baking soda and often desiccated coconut, associated with the Australian and New Zealand Army Corps of World War I. They are made most around Anzac Day, 25 April, and are exempt from the ban on commercial use of the word 'Anzac' as long as they are sold as biscuits.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in supermarkets and as a fundraiser for the Returned and Services League.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anzac_biscuit",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Anzac_biscuit",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-sausage-sizzle",
+    "name": "Sausage sizzle",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Australia",
+    "state": "Nationwide & bush food",
+    "regions": [],
+    "description": "A grilled beef or pork sausage served on a slice of white bread, or a hot dog roll in Western Australia, with tomato sauce and optional fried onions. It is the name of the fundraising barbecue as well as the food, and the ones held at polling stations on election day are called 'democracy sausages'.",
+    "how_to_eat": null,
+    "how_to_order": "Look for fundraising stalls outside Bunnings hardware stores on weekends and at polling stations.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sausage_sizzle",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sausage_sizzle",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-halal-snack-pack",
+    "name": "Halal snack pack",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Australia",
+    "state": "Nationwide & bush food",
+    "regions": [],
+    "description": "Halal-certified doner kebab meat (lamb, chicken, beef or a mix) on hot chips, topped with chilli, garlic and barbecue sauce; yoghurt, cheese and jalapeños are common additions. It dates back to at least the 1980s and is a staple of Australian kebab shops; its name was the Macquarie Dictionary's People's Choice Word of the Year for 2016.",
+    "how_to_eat": null,
+    "how_to_order": "Order at kebab shops; it is called a 'meat box' in Western Australia and an 'AB' in Adelaide.",
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Halal_snack_pack",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halal_snack_pack",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-kangaroo-meat",
+    "name": "Kangaroo meat",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Australia",
+    "state": "Nationwide & bush food",
+    "regions": [],
+    "description": "Lean meat from wild-harvested kangaroos, very high in protein and very low in fat, and a staple protein for Indigenous Australians for more than 40,000 years. It has been sold in supermarkets since the 1980s in cuts and sausages.",
+    "how_to_eat": "Because it is so lean, it is usually slow-cooked or quickly stir-fried.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kangaroo_meat",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kangaroo_meat",
+      "https://en.wikipedia.org/wiki/Bush_tucker",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-witchetty-grub",
+    "name": "Witchetty grub",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Australia",
+    "state": "Nationwide & bush food",
+    "regions": [],
+    "description": "The large white wood-eating larva of several moths, mainly Endoxyla leucomochla, which feeds on the roots of the witchetty bush. It is the most important insect food of the desert and has long been a staple of Aboriginal Australians; raw it tastes similar to almonds.",
+    "how_to_eat": "Eaten raw or lightly cooked in hot ashes, which makes the skin crisp.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Witchetty_grub",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Witchetty_grub",
+      "https://en.wikipedia.org/wiki/Bush_tucker",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  },
+  {
+    "id": "australia-damper",
+    "name": "Damper",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Australia",
+    "state": "Nationwide & bush food",
+    "regions": [],
+    "description": "A thick bread of flour, salt and water, with butter if available, traditionally baked in the coals of a campfire or in a camp oven by early European settlers, stockmen and swagmen. Smaller portions are called bush scones or johnnycakes; it is distinct from the bush bread Indigenous Australians made from native seeds, nuts and roots.",
+    "how_to_eat": "Eaten with dried or cooked meat or golden syrup.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "AUD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Damper_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Damper_(food)",
+      "https://en.wikipedia.org/wiki/Australian_cuisine"
+    ]
+  }
+]

@@ -77,8 +77,16 @@ def resolve(t):
     return t
 
 
+# Lead image shows the wrong thing (logo, tree, live animal, another dish or country's version): no photo.
+NO_PHOTO = {
+    "australia-vegemite-toast", "australia-bunya-nut", "australia-fruchocs", "australia-moreton-bay-bug",
+    "australia-king-george-whiting", "australia-western-rock-lobster", "australia-marron", "australia-dhufish",
+    "australia-tasmanian-abalone", "australia-tasmanian-atlantic-salmon",
+    "argentina-provoleta", "argentina-tamal", "brazil-abara", "brazil-tutu-de-feijao", "brazil-feijoada",
+}
 out = {}
 for d in dishes:
+    if d["id"] in NO_PHOTO: continue
     f = title_file.get(resolve((host_of(d["wikipedia_url"]), title_of(d["wikipedia_url"]))))
     # only Wikimedia Commons files: local wiki uploads can be non-free and lack licence data
     if f and f in info and info[f]["page"].startswith("https://commons.wikimedia.org/"): out[d["id"]] = info[f]

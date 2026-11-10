@@ -31,11 +31,15 @@ function Tabs() {
   const { pathname } = useLocation()
   const navigate = useNavigate()
   const committed = useRef<() => void>(undefined)
-  useLayoutEffect(() => { committed.current?.(); committed.current = undefined }, [pathname])
+  const target = useRef(pathname) // last route we navigated to, so pointerdown + click don't navigate twice
+  useLayoutEffect(() => { target.current = pathname; committed.current?.(); committed.current = undefined }, [pathname])
   if (pathname.startsWith('/dish/')) return null
-  const go = (e: React.MouseEvent, to: string) => {
-    if (!document.startViewTransition || to === pathname) return
-    e.preventDefault()
+  // Navigates on pointerdown: a tap while the page is still flinging only stops the fling and the
+  // WebView never sends a click. Click stays for keyboard use.
+  const go = (to: string) => {
+    if (to === target.current) return
+    target.current = to
+    if (!document.startViewTransition) return navigate(to)
     document.startViewTransition(() => new Promise<void>((resolve) => {
       committed.current = resolve
       setTimeout(resolve, 600) // never hold the screen if the route somehow doesn't change
@@ -45,7 +49,8 @@ function Tabs() {
   return (
     <nav className="tabs">
       {TABS.map(({ to, label, Icon }) => (
-        <NavLink key={to} to={to} end={to === '/'} aria-label={label} onClick={(e) => go(e, to)}>
+        <NavLink key={to} to={to} end={to === '/'} aria-label={label} onPointerDown={(e) => e.button === 0 && go(to)}
+          onClick={(e) => { e.preventDefault(); go(to) }}>
           <Icon size={20} /><span>{label}</span>
         </NavLink>
       ))}

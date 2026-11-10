@@ -1,0 +1,1279 @@
+[
+  {
+    "id": "argentina-pizza-al-molde",
+    "name": "Porteño-style pizza",
+    "local_name": "Pizza porteña",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Buenos Aires",
+    "regions": [
+      "Buenos Aires"
+    ],
+    "description": "Buenos Aires-style pizza, brought in the late 19th century by Italian (mostly Genoese) immigrants who settled in La Boca. Its typical form is pizza al molde, baked in a pan with a thick, spongy base and a large amount of cheese. Argentina has the most pizzerias per inhabitant in the world, with the highest concentration in Buenos Aires.",
+    "how_to_eat": "In Buenos Aires, Rosario and Córdoba a slice is often eaten with a wedge of fainá placed on top.",
+    "how_to_order": "Sold in the city's classic pizzerias, most of which specialise in the al molde style.",
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Argentine_pizza",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Argentine_pizza",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine"
+    ]
+  },
+  {
+    "id": "argentina-fugazza",
+    "name": "Fugazza",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Buenos Aires",
+    "regions": [
+      "Buenos Aires"
+    ],
+    "description": "An Argentine pizza with a thick crust topped with onions and sometimes olives, derived from the Genoese focaccia (fugassa). It is credited to pizzaiolo Juan Banchero in La Boca, sometime between 1893 and 1932. The fugazzeta variant is baked between two crusts with cheese inside and onions on top.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for fugazza con queso if you want the version with mozzarella.",
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fugazza",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fugazza",
+      "https://en.wikipedia.org/wiki/Argentine_pizza"
+    ]
+  },
+  {
+    "id": "argentina-faina",
+    "name": "Fainá",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Argentina",
+    "state": "Buenos Aires",
+    "regions": [
+      "Buenos Aires"
+    ],
+    "description": "A thin, unleavened baked pancake of chickpea flour, water and olive oil, brought by Ligurian immigrants; the name comes from the Genoese fainâ. In Argentina it is called la fainá and is commonly eaten together with pizza.",
+    "how_to_eat": "Eaten on top of a slice of pizza (a caballo); it can be ordered de orillo (from the edge) or del medio (from the centre) for a crisper or creamier texture.",
+    "how_to_order": "Served in pizzerias alongside pizza.",
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Farinata",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Farinata",
+      "https://es.wikipedia.org/wiki/Fain%C3%A1",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine"
+    ]
+  },
+  {
+    "id": "argentina-milanesa-napolitana",
+    "name": "Milanesa napolitana",
+    "local_name": "Milanesa a la napolitana",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Buenos Aires",
+    "regions": [
+      "Buenos Aires"
+    ],
+    "description": "A milanesa (breaded, fried beef cutlet descended from the Italian cotoletta alla milanese) topped with tomato sauce, ham and melted mozzarella and finished in the oven. The name comes from the restaurant Nápoli in Buenos Aires, where it was first served in the late 1940s. Argentines are estimated to eat milanesas about three times a week.",
+    "how_to_eat": "Usually served with french fries or mashed potatoes.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Milanesa_napolitana",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Milanesa_napolitana",
+      "https://en.wikipedia.org/wiki/Milanesa"
+    ]
+  },
+  {
+    "id": "argentina-medialuna",
+    "name": "Medialuna",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Argentina",
+    "state": "Buenos Aires",
+    "regions": [],
+    "description": "A crescent-shaped pastry based on the French croissant and the most popular of the Argentine facturas (bakery pastries). It comes in two kinds: de manteca (made with butter, sweet) and de grasa (made with fat, salty).",
+    "how_to_eat": "Eaten at breakfast or at the afternoon merienda with coffee or mate.",
+    "how_to_order": "Sold in bakeries (panaderías) and cafés; ask for de manteca if you avoid animal fat, as de grasa is made with fat.",
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Argentine_cuisine",
+      "https://en.wikipedia.org/wiki/Facturas",
+      "https://es.wikipedia.org/wiki/Cruas%C3%A1n"
+    ]
+  },
+  {
+    "id": "argentina-sandwich-de-miga",
+    "name": "Sándwich de miga",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Argentina",
+    "state": "Buenos Aires",
+    "regions": [],
+    "description": "Thin, crustless white-bread sandwiches in single, double or multiple layers, filled with thinly sliced ham, cheese, hard-boiled egg, tomato, peppers, tuna or lettuce, with butter or mayonnaise. One account credits bakers at Buenos Aires' Confitería Ideal, who made them for British engineers in the early 20th century.",
+    "how_to_eat": "Eaten cold at parties or as a light evening meal; the toasted version is called tostado or carlitos.",
+    "how_to_order": "Usually bought at a local bakery rather than made at home.",
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/S%C3%A1ndwich_de_miga",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/S%C3%A1ndwich_de_miga",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine"
+    ]
+  },
+  {
+    "id": "argentina-chocotorta",
+    "name": "Chocotorta",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Argentina",
+    "state": "Buenos Aires",
+    "regions": [],
+    "description": "A no-bake cake of Chocolinas chocolate biscuits soaked in milk or coffee and layered with a mixture of dulce de leche and cream cheese. The recipe is attributed to advertising creative Marité Mabragaña, around 1982, for a joint campaign of the Chocolinas and Mendicrim brands. It is especially associated with birthday celebrations.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chocotorta",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chocotorta"
+    ]
+  },
+  {
+    "id": "argentina-dulce-de-leche",
+    "name": "Dulce de leche",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Argentina",
+    "state": "Buenos Aires",
+    "regions": [],
+    "description": "A spread made by heating milk and sugar for several hours until it browns and thickens. In Argentina it fills cakes, alfajores and pancakes, is spread on toast at breakfast and is served with ice cream. The national Secretariat of Culture lists it as Argentine cultural, food and gastronomic heritage, and International Dulce de Leche Day has been held every 11 October since 1998.",
+    "how_to_eat": "Spread on toast, rolled into panqueques (crepes) or eaten over flan.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dulce_de_leche",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dulce_de_leche",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina"
+    ]
+  },
+  {
+    "id": "argentina-asado",
+    "name": "Asado",
+    "local_name": null,
+    "pronunciation": "ah-SAH-doh",
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Pampas",
+    "regions": [],
+    "description": "The Argentine barbecue and social gathering: beef ribs, flank (vacío), sausages, offal and other cuts slow-grilled on a parrilla over wood or charcoal embers, with only salt for seasoning. Its origin is traced to the Pampas, and it is listed as Argentine cultural, food and gastronomic heritage. A designated cook, the asador, tends the fire.",
+    "how_to_eat": "Achuras (offal), morcilla and provoleta come first, then choripán, then the main cuts such as asado de tira, vacío and entraña, with chimichurri or salsa criolla, bread and salad.",
+    "how_to_order": "Ordered in parrillas (grill restaurants) by cut.",
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Asado",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Asado",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina"
+    ]
+  },
+  {
+    "id": "argentina-choripan",
+    "name": "Choripán",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Argentina",
+    "state": "Pampas",
+    "regions": [],
+    "description": "A grilled chorizo of beef and pork, split down the middle and served in a crusty roll, usually with chimichurri. The name joins chorizo and pan (bread). A version with blood sausage is called morcipán.",
+    "how_to_eat": "Eaten as a starter while the rest of the asado cooks.",
+    "how_to_order": "Sold at football grounds and by roadside and street vendors in the cities; ask for it mariposa to get the sausage butterflied.",
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chorip%C3%A1n",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chorip%C3%A1n",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine"
+    ]
+  },
+  {
+    "id": "argentina-provoleta",
+    "name": "Provoleta",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Argentina",
+    "state": "Pampas",
+    "regions": [],
+    "description": "A disc of Argentine pulled-curd provolone, dusted with flour and often topped with chili flakes and oregano, grilled until partly melted. The cheese was developed in the 1940s by Calabrian immigrant Natalio Alba in Córdoba to suit the asado.",
+    "how_to_eat": "Eaten communally with bread at the start of an asado, sometimes with chimichurri.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Provoleta",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Provoleta",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine"
+    ]
+  },
+  {
+    "id": "argentina-matambre-arrollado",
+    "name": "Matambre",
+    "local_name": "Matambre arrollado",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Pampas",
+    "regions": [],
+    "description": "A thin beef cut from between the hide and the ribs, rolled around carrots, hard-boiled eggs and plenty of black pepper, tied, boiled in milk or water and then oven-roasted. The name joins matar and hambre (hunger killer). A flat version topped with tomato sauce and mozzarella is matambre a la pizza.",
+    "how_to_eat": "Served in thin slices, hot or cold, often in a French roll with mayonnaise or chimichurri.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Matambre",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Matambre",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine"
+    ]
+  },
+  {
+    "id": "argentina-salame-de-tandil",
+    "name": "Salame de Tandil",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Argentina",
+    "state": "Pampas",
+    "regions": [
+      "Tandil"
+    ],
+    "description": "A cured salami from the Tandil district of Buenos Aires Province, protected by an Argentine denominación de origen. It must use beef from pasture-fed cattle and pork from corn-fed pigs of the region, natural casing, freshly ground spices and hand tying, and is cured in the local climate until covered in an ash-white mould (emplume). The recipe came with Italian and Spanish immigrants in the late 19th and early 20th centuries.",
+    "how_to_eat": "Eaten sliced as part of a picada with cheese and drinks.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Salame_de_Tandil",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Salame_de_Tandil",
+      "https://lanacion.com.ar/economia/de-alcauciles-platenses-al-cordero-patagonico-cuales-nid2265785",
+      "https://www3.hcdn.gob.ar/dependencias/dcomisiones/periodo-135/135-1825.pdf"
+    ]
+  },
+  {
+    "id": "argentina-salame-de-colonia-caroya",
+    "name": "Salame de Colonia Caroya",
+    "local_name": "Salame típico de Colonia Caroya",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Argentina",
+    "state": "Pampas",
+    "regions": [
+      "Colonia Caroya"
+    ],
+    "description": "A coarsely chopped salami made in Colonia Caroya, about 50 km north of Córdoba city, using techniques brought by immigrants from Friuli and Veneto. It is cured in a cellar for at least 21 days. It holds an Argentine geographical indication registered in 2014 (Resolution 37/2014).",
+    "how_to_eat": "Eaten sliced as part of a picada.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://lanacion.com.ar/economia/de-alcauciles-platenses-al-cordero-patagonico-cuales-nid2265785",
+      "https://www.marval.com/Publicacion/nueva-indicacion-geografica-en-argentina-12603?lang=en",
+      "https://www3.hcdn.gob.ar/dependencias/dcomisiones/periodo-135/135-1825.pdf"
+    ]
+  },
+  {
+    "id": "argentina-fernet-con-coca",
+    "name": "Fernet con coca",
+    "local_name": null,
+    "pronunciation": "fer-NET kon KOH-kah",
+    "category": "drink",
+    "country": "Argentina",
+    "state": "Pampas",
+    "regions": [
+      "Córdoba"
+    ],
+    "description": "A long drink of the Italian bitter fernet and cola over ice, which first became popular among young people in Córdoba in the 1980s and spread nationwide. Argentina consumes more than 75% of the world's fernet, and in 2020 the drink became the first Argentine cocktail listed by the IBA, as the fernandito. Córdoba Province accounts for almost 30% of national consumption.",
+    "how_to_eat": "Served in a tall glass over ice; a common mix is three parts fernet to seven parts cola.",
+    "how_to_order": "Also nicknamed fernando or fernandito; often drunk after dinner.",
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fernet_con_coca",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fernet_con_coca",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine"
+    ]
+  },
+  {
+    "id": "argentina-alfajor",
+    "name": "Alfajor",
+    "local_name": null,
+    "pronunciation": "al-fa-HOR",
+    "category": "sweet",
+    "country": "Argentina",
+    "state": "Pampas",
+    "regions": [
+      "Santa Fe",
+      "Córdoba"
+    ],
+    "description": "Two round biscuits of wheat flour or cornflour joined with dulce de leche and dusted with powdered sugar or coated in chocolate. Regional versions include the Santa Fe alfajor of three puff-pastry layers glazed in sugar, made since 1851, and the Córdoba alfajor filled with quince jelly. Mass production began on the Atlantic coast in the 1950s, and Argentines ate about 6 million a day in 2021.",
+    "how_to_eat": null,
+    "how_to_order": "Sold individually in kiosks and in boxes from regional makers.",
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alfajor",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Alfajor",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine"
+    ]
+  },
+  {
+    "id": "argentina-empanada-saltena",
+    "name": "Empanada salteña",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Argentina",
+    "state": "Northwest",
+    "regions": [
+      "Salta"
+    ],
+    "description": "Salta's empanadas are small, juicy and spicy, filled with beef or chicken, potato, peppers and ground chili, and in the high Andes sometimes with llama meat. Each empanada is closed with a decorative pleated edge (repulgue) that also signals the filling. The empanada is listed as Argentine cultural, food and gastronomic heritage, and the Northwest is the region most associated with it.",
+    "how_to_eat": "Eaten with the hands; in Salta and Jujuy often with llajua, a spicy local sauce.",
+    "how_to_order": "Traditionally ordered by the dozen, mixing fillings.",
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Empanada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Empanada",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina"
+    ]
+  },
+  {
+    "id": "argentina-empanada-tucumana",
+    "name": "Empanada tucumana",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Argentina",
+    "state": "Northwest",
+    "regions": [
+      "Tucumán",
+      "Famaillá"
+    ],
+    "description": "Tucumán's empanadas are baked in a clay oven and filled with beef, chicken or tripe; in Famaillá they are made with matambre and fried. Famaillá hosts the annual National Empanada Festival.",
+    "how_to_eat": "A squeeze of lemon is added before eating.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Empanada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Empanada",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine"
+    ]
+  },
+  {
+    "id": "argentina-humita",
+    "name": "Humita",
+    "local_name": "Humita en chala",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Northwest",
+    "regions": [
+      "Jujuy",
+      "Salta",
+      "Tucumán"
+    ],
+    "description": "A pre-Hispanic Andean dish of fresh grated corn sautéed with onion, often with squash, basil, paprika and cumin, mixed with chunks of cheese, wrapped in fresh corn husks and boiled. Argentine humita never contains meat and comes in sweet and salty versions; it is also cooked loose in a pot as humita a la olla.",
+    "how_to_eat": "Unwrap the husk, which is not eaten.",
+    "how_to_order": "Found in restaurants and markets in Jujuy, Tucumán and Salta.",
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Humita",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Humita",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Salta"
+    ]
+  },
+  {
+    "id": "argentina-tamal",
+    "name": "Tamales",
+    "local_name": "Tamal",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Northwest",
+    "regions": [
+      "Salta",
+      "Chicoana"
+    ],
+    "description": "Argentine tamales are made of finely ground corn flour and squash, filled with beef or chicken, raisins, olives and egg, wrapped in sun-dried corn husk tied like a sweet wrapper and boiled. In Salta the filling is onions fried in rendered fat with ají and beef, pork or charqui. Chicoana, Salta, holds the National Tamal Festival.",
+    "how_to_eat": "Unwrap the husk, which is not eaten.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tamale",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Tamal",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Salta",
+      "https://en.wikipedia.org/wiki/Tamale",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine"
+    ]
+  },
+  {
+    "id": "argentina-locro",
+    "name": "Locro",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Northwest",
+    "regions": [],
+    "description": "A thick stew of white corn, beans and squash with beef, pork, chorizo and offal, cooked slowly for several hours. It spread from the Northwest and Cuyo to the whole country and is eaten in large quantities on the national holidays of 25 May and 9 July. In Salta it is crowned with melted fat, paprika and chives, and a spicy version is called locro pulsudo.",
+    "how_to_eat": "Drunk with a red malbec on cold days or a torrontés on warm days.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Locro",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Locro",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Salta"
+    ]
+  },
+  {
+    "id": "argentina-carbonada",
+    "name": "Carbonada",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Northwest",
+    "regions": [],
+    "description": "A thick stew of squash, corn, beef (or lamb or kid), sweet potatoes or potatoes and dried peaches, seasoned with paprika, oregano, thyme, onion, garlic and parsley. It is cooked until thick, which distinguishes it from a puchero, and some cooks add wine. It is typical of Northwest Argentina.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Carbonada",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Carbonada",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine"
+    ]
+  },
+  {
+    "id": "argentina-torrontes",
+    "name": "Torrontés",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Argentina",
+    "state": "Northwest",
+    "regions": [
+      "Cafayate"
+    ],
+    "description": "An aromatic white wine from Torrontés grapes, a variety mostly grown and known in Argentina, with peach and apricot aromas. Salta is particularly noted for it, with vineyards above 1,600 m in the Calchaquí Valleys, and Cafayate is the best-known production centre.",
+    "how_to_eat": "Served with locro on warm days.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Torront%C3%A9s",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Torront%C3%A9s",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina",
+      "https://en.wikipedia.org/wiki/Locro"
+    ]
+  },
+  {
+    "id": "argentina-quesillo-con-miel",
+    "name": "Quesillo with cane syrup",
+    "local_name": "Quesillo con miel de caña",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Argentina",
+    "state": "Northwest",
+    "regions": [
+      "Jujuy"
+    ],
+    "description": "A simple dessert of the Northwest: quesillo, a fresh, unripened stretched-curd cheese of cow, goat or sheep milk made by small producers, served with sugar-cane syrup or dulce de cayote (a preserve of a local squash-like fruit) and walnuts. Jujuy is known for quesillos such as those of San Antonio.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Quesillo",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Quesillo",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina"
+    ]
+  },
+  {
+    "id": "argentina-malbec",
+    "name": "Malbec",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Argentina",
+    "state": "Cuyo",
+    "regions": [
+      "Mendoza"
+    ],
+    "description": "A red wine from the Malbec grape, brought to Argentina in 1868 by French agronomist Michel Pouget and now identified with Argentine wine; Mendoza alone has about 25,000 hectares of it. Argentine Malbec is deep in colour with fruity flavours and softer tannins than that of Cahors, France, and the most highly rated come from the high-altitude districts of Luján de Cuyo and the Uco Valley. Malbec red wine is listed as Argentine cultural, food and gastronomic heritage.",
+    "how_to_eat": "Drunk with asado and, on cold days, with locro.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Malbec",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Malbec",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina",
+      "https://en.wikipedia.org/wiki/Locro"
+    ]
+  },
+  {
+    "id": "argentina-tomatican",
+    "name": "Tomaticán",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Cuyo",
+    "regions": [
+      "Mendoza",
+      "San Juan"
+    ],
+    "description": "A colonial-era stew of beef or pork cut in strips with tomato, corn, potatoes and onion, born from the mix of Huarpe, Mapuche and Spanish cooking. It is eaten mainly in Chile and in the Cuyo provinces of San Juan and Mendoza; another description of the Cuyo dish, also called tomatada, makes it with tomatoes and eggs.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Tomatic%C3%A1n",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Tomatic%C3%A1n",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina"
+    ]
+  },
+  {
+    "id": "argentina-dulce-de-membrillo-rubio",
+    "name": "Dulce de membrillo rubio de San Juan",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Argentina",
+    "state": "Cuyo",
+    "regions": [
+      "San Juan"
+    ],
+    "description": "A blond quince paste from San Juan Province made only from quince pulp and sugar, with a clear, uniform golden colour. It received an Argentine denominación de origen in October 2018 (Resolution 14/2018).",
+    "how_to_eat": "Eaten in slices with fresh cheese, a pairing called postre vigilante, or in pastries such as pastafrola.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Dulce_de_membrillo",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Dulce_de_membrillo",
+      "https://www.marval.com/publicacion/nueva-denominacion-de-origen-13257?lang=en",
+      "https://lanacion.com.ar/economia/de-alcauciles-platenses-al-cordero-patagonico-cuales-nid2265785"
+    ]
+  },
+  {
+    "id": "argentina-sopaipilla",
+    "name": "Sopaipilla",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Argentina",
+    "state": "Cuyo",
+    "regions": [
+      "Mendoza",
+      "San Juan"
+    ],
+    "description": "Fried bread made from wheat-flour dough fried in oil or lard. It is called sopaipilla in Mendoza and San Juan, while most of Argentina calls it torta frita. Rivadavia, in Mendoza, holds a Festival de la Sopaipilla.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sopaipilla",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Sopaipilla",
+      "https://en.wikipedia.org/wiki/Sopaipilla"
+    ]
+  },
+  {
+    "id": "argentina-chanfaina",
+    "name": "Chanfaina",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Cuyo",
+    "regions": [
+      "Mendoza"
+    ],
+    "description": "A stew of Spanish origin whose basic ingredients are lamb and lamb offal, cooked blood, onion, garlic, bay leaf and chili, seasoned with paprika. It is listed among the typical dishes of Mendoza Province.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Chanfaina",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Chanfaina",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina"
+    ]
+  },
+  {
+    "id": "argentina-chipa",
+    "name": "Chipá",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Argentina",
+    "state": "Northeast",
+    "regions": [
+      "Misiones",
+      "Corrientes"
+    ],
+    "description": "Small baked rolls of cassava starch and semi-hard cheese, of Guaraní and Spanish colonial origin and shared with Paraguay. The most common type is chipá almidón or quesú; variants include chipá mbocá, cooked around a stick over embers.",
+    "how_to_eat": "Eaten at breakfast with mate or café con leche.",
+    "how_to_order": "Sold in small bags by street sellers.",
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chipa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chipa",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine"
+    ]
+  },
+  {
+    "id": "argentina-chipa-guasu",
+    "name": "Chipá guazú",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Northeast",
+    "regions": [],
+    "description": "A savoury cake of fresh grated corn kernels, onion, cheese, milk and egg, prepared like sopa paraguaya but with fresh corn instead of corn flour; in Argentina it is also called pastel de choclo. It is widely eaten across the Northeast and often served at asados.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chipa_guasu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chipa_guasu",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina"
+    ]
+  },
+  {
+    "id": "argentina-sopa-paraguaya",
+    "name": "Sopa paraguaya",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Northeast",
+    "regions": [],
+    "description": "Despite its name (Paraguayan soup) it is a spongy, savoury cornbread of corn flour, cheese, onion and milk or whey. In the Argentine Northeast it is eaten plain or filled with chicken or beef.",
+    "how_to_eat": "Eaten for lunch or dinner, often as a side.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sopa_paraguaya",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sopa_paraguaya",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine"
+    ]
+  },
+  {
+    "id": "argentina-mbeyu",
+    "name": "Mbeyú",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Argentina",
+    "state": "Northeast",
+    "regions": [],
+    "description": "A flat griddle cake of cassava starch and fresh cheese, traditionally also with corn flour, pork fat and milk. It is a Guaraní-Spanish recipe from Paraguay that is also eaten in the Argentine Northeast; the name means flattened cake in Guaraní.",
+    "how_to_eat": "Eaten with mate cocido, milk or coffee.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mbeju",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Mbey%C3%BA",
+      "https://en.wikipedia.org/wiki/Mbeju",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina"
+    ]
+  },
+  {
+    "id": "argentina-chupin-de-surubi",
+    "name": "Chupín de surubí",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Northeast",
+    "regions": [],
+    "description": "A stew of surubí, a large river catfish of the Paraná basin, cooked in a sauce of tomatoes and ají. River fish such as surubí, dorado, pacú and boga are central to the cooking of the Northeast.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine"
+    ]
+  },
+  {
+    "id": "argentina-mate",
+    "name": "Mate",
+    "local_name": null,
+    "pronunciation": "MAH-tay",
+    "category": "drink",
+    "country": "Argentina",
+    "state": "Northeast",
+    "regions": [
+      "Misiones",
+      "Corrientes"
+    ],
+    "description": "A caffeine-rich infusion of dried yerba mate leaves in hot (not boiling) water, sipped through a metal straw (bombilla) from a gourd; it is Argentina's national drink and is listed as Argentine cultural, food and gastronomic heritage. Corrientes and Misiones are the main yerba producers. In a group one gourd is refilled and passed around by the person holding the kettle.",
+    "how_to_eat": "Do not thank the server after each round; saying gracias means you have had enough.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mate_(drink)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mate_(drink)",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina"
+    ]
+  },
+  {
+    "id": "argentina-terere",
+    "name": "Tereré",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Argentina",
+    "state": "Northeast",
+    "regions": [],
+    "description": "Yerba mate prepared with cold water and plenty of ice, often with medicinal or refreshing herbs. Of Guaraní origin and traditional in Paraguay, it is drunk most in the Argentine Northeast, where it is also made with citrus juice.",
+    "how_to_eat": "Sipped through a bombilla from a guampa or gourd and passed around like mate.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Terer%C3%A9",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Terer%C3%A9",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina"
+    ]
+  },
+  {
+    "id": "argentina-cordero-patagonico",
+    "name": "Patagonian lamb",
+    "local_name": "Cordero patagónico",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Patagonia",
+    "regions": [],
+    "description": "Lean lamb of Corriedale, Merino and crossbred sheep raised extensively on native vegetation south of the Río Colorado, protected by an Argentine geographical indication since 2014. For the classic roast the meat is brined for six hours, tied to an iron cross and tilted beside the fire to cook slowly while the asador bastes and turns it.",
+    "how_to_eat": "Served with homemade pan de campo and regional wine.",
+    "how_to_order": "Offered at restaurants and estancias across Patagonia.",
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://argentina.travel/actividades/cordero-patagonico",
+      "https://lanacion.com.ar/economia/de-alcauciles-platenses-al-cordero-patagonico-cuales-nid2265785",
+      "https://www3.hcdn.gob.ar/dependencias/dcomisiones/periodo-135/135-1825.pdf",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine"
+    ]
+  },
+  {
+    "id": "argentina-chivito-neuquino",
+    "name": "Chivito criollo del norte neuquino",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Patagonia",
+    "regions": [
+      "Neuquén"
+    ],
+    "description": "Kid goat of the criolla neuquina breed raised by about 1,500 small-scale herders (crianceros) who move their flocks between seasonal pastures in northern Neuquén, using knowledge inherited from the Pehuenche. It holds a denominación de origen, the first granted for an Argentine food product. In Patagonia lamb and chivito are eaten more often than beef, roasted whole over an open fire.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Chivito_criollo_del_norte_neuquino",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Chivito_criollo_del_norte_neuquino",
+      "https://lanacion.com.ar/economia/de-alcauciles-platenses-al-cordero-patagonico-cuales-nid2265785",
+      "https://www3.hcdn.gob.ar/dependencias/dcomisiones/periodo-135/135-1825.pdf",
+      "https://en.wikipedia.org/wiki/Argentine_cuisine"
+    ]
+  },
+  {
+    "id": "argentina-curanto",
+    "name": "Curanto",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Patagonia",
+    "regions": [],
+    "description": "An Araucanian way of cooking in a pit about 150 cm deep: stones are heated in a fire, covered with nalca or maqui leaves, and layered with ingredients such as beef, lamb, pork, chicken, chorizo, potatoes, sweet potatoes, apples and squash filled with cheese, cream and peas. Everything is covered with leaves, damp cloth and soil to cook.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Argentine_cuisine",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina"
+    ]
+  },
+  {
+    "id": "argentina-torta-galesa",
+    "name": "Welsh cake",
+    "local_name": "Torta galesa",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Argentina",
+    "state": "Patagonia",
+    "regions": [
+      "Chubut"
+    ],
+    "description": "A dark fruitcake with dried and glazed fruit created by Welsh settlers in eastern Chubut, who arrived from 1865; it is similar to the Welsh bara brith and is also called torta negra galesa.",
+    "how_to_eat": "Served with tea and scones in the Welsh teahouses of Chubut.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Argentine_cuisine",
+      "https://es.wikipedia.org/wiki/Pastel_gal%C3%A9s",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina"
+    ]
+  },
+  {
+    "id": "argentina-centolla",
+    "name": "Southern king crab",
+    "local_name": "Centolla",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Argentina",
+    "state": "Patagonia",
+    "regions": [
+      "Tierra del Fuego"
+    ],
+    "description": "The southern king crab caught off Tierra del Fuego, boiled whole and served with tomato, lemon, ketchup and mayonnaise. In Patagonia it is also used in casseroles and stews.",
+    "how_to_eat": null,
+    "how_to_order": "In Tierra del Fuego diners often choose a live crab from a tank.",
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://artsandculture.google.com/story/HwXRM6mslwXusQ",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina"
+    ]
+  },
+  {
+    "id": "argentina-trucha-ahumada",
+    "name": "Smoked trout",
+    "local_name": "Trucha ahumada",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Argentina",
+    "state": "Patagonia",
+    "regions": [],
+    "description": "Trout from Patagonian lakes and rivers, wood-smoked and sold sliced like a cold cut. Fresh trout is also baked, grilled or pan-fried, usually with garlic, lemon and rosemary.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://artsandculture.google.com/story/HwXRM6mslwXusQ",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina"
+    ]
+  },
+  {
+    "id": "argentina-chocolate-bariloche",
+    "name": "Bariloche chocolate",
+    "local_name": "Chocolates de Bariloche",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Argentina",
+    "state": "Patagonia",
+    "regions": [
+      "Bariloche"
+    ],
+    "description": "Chocolate made in San Carlos de Bariloche, a tradition associated with Central European settlers in Patagonia. The city produces about 1,000 tonnes a year and holds the National Chocolate Festival at its Civic Center.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ARS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://artsandculture.google.com/story/HwXRM6mslwXusQ",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Argentina"
+    ]
+  }
+]

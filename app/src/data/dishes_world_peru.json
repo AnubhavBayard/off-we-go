@@ -1,0 +1,1249 @@
+[
+  {
+    "id": "peru-ceviche",
+    "name": "Ceviche",
+    "local_name": "Cebiche",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Lima",
+    "regions": [
+      "Lima"
+    ],
+    "description": "Chunks of raw fish marinated briefly in key lime juice with sliced onions, chili peppers and salt; corvina or sea bass is traditional and sole is often used in Lima. It is considered Peru's national dish, and in 2023 UNESCO listed its preparation and consumption as Intangible Cultural Heritage. Unlike Mexican and Ecuadorian versions, the Peruvian one contains no tomato.",
+    "how_to_eat": "It is served with boiled sweet potato and corn, often with toasted corn (cancha), and is traditionally eaten with beer.",
+    "how_to_order": "Sold in cevicherías, which often serve a small glass of the marinade, called leche de tigre, as an appetizer.",
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ceviche",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ceviche",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-lomo-saltado",
+    "name": "Lomo saltado",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Lima",
+    "regions": [],
+    "description": "A stir-fry of beef sirloin strips marinated in vinegar, soy sauce and spices, cooked with red onions, tomatoes and parsley and mixed with french fries. It comes from the chifa (Chinese-Peruvian) tradition, and a short description of it already appears in a 1903 Peruvian cookbook.",
+    "how_to_eat": "Served with white rice alongside the fries.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lomo_saltado",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lomo_saltado",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-aji-de-gallina",
+    "name": "Ají de gallina",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Lima",
+    "regions": [],
+    "description": "A chicken stew of shredded poached chicken in a creamy yellow sauce of onion, garlic and ají amarillo, thickened with bread soaked in milk, cheese and ground nuts such as walnuts or pecans. It is believed to descend from the colonial manjar blanco, a dish of ground almonds, milk and chicken.",
+    "how_to_eat": "Typically served with boiled potatoes and white rice, garnished with black olives and hard-boiled egg.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aj%C3%AD_de_gallina",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Aj%C3%AD_de_gallina",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-anticuchos",
+    "name": "Anticuchos",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Peru",
+    "state": "Lima",
+    "regions": [],
+    "description": "Skewers of beef heart marinated in spices and grilled, often basted with a sauce of garlic, onion, ají panca, cumin, black pepper and beer. The use of offal goes back to colonial times, when enslaved Africans cooked the cuts the Spanish discarded. They are eaten by all social classes and most of all during the July Fiestas Patrias.",
+    "how_to_eat": "Usually eaten with a side of boiled potato or corn.",
+    "how_to_order": "Commonly sold by street vendors, and also found in creole food restaurants.",
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anticucho",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Anticucho",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-causa-limena",
+    "name": "Causa limeña",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Lima",
+    "regions": [
+      "Lima"
+    ],
+    "description": "A cold layered dish of mashed yellow potato kneaded with lime, ají amarillo and oil, filled with tuna, chicken, trout or shellfish, often with avocado. It has pre-Columbian roots, and one story links the name to food sold in Lima's streets 'por la causa' to fund San Martín's independence campaign.",
+    "how_to_eat": "Served cold with hard-boiled egg, black olives and a light coating of mayonnaise.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Causa_lime%C3%B1a",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Causa_lime%C3%B1a",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-picarones",
+    "name": "Picarones",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Peru",
+    "state": "Lima",
+    "regions": [
+      "Lima"
+    ],
+    "description": "Ring-shaped fritters made from squash and sweet potato dough, covered with a syrup of chancaca (raw cane sugar). They were created in colonial Lima as a cheaper replacement for Spanish buñuelos and are mentioned in Ricardo Palma's Tradiciones Peruanas.",
+    "how_to_eat": "Served in a ring shape covered with chancaca syrup.",
+    "how_to_order": "Traditionally served where anticuchos are being prepared.",
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Picarones",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Picarones",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-suspiro-de-limena",
+    "name": "Suspiro de limeña",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Peru",
+    "state": "Lima",
+    "regions": [
+      "Lima"
+    ],
+    "description": "A dessert of manjar blanco (milk and sugar boiled until thick and caramel-coloured, enriched with egg yolks) topped with a meringue made with port wine syrup and sprinkled with cinnamon. It dates from mid-19th-century Lima, and its name, 'sigh of a Lima woman', is attributed to poet José Gálvez.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Suspiro_de_lime%C3%B1a",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Suspiro_de_lime%C3%B1a",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-pisco-sour",
+    "name": "Pisco sour",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Peru",
+    "state": "Lima",
+    "regions": [
+      "Lima"
+    ],
+    "description": "A cocktail of Peruvian pisco with fresh key lime juice, simple syrup, ice, egg white and Angostura bitters. It was created in Lima in the early 1920s by American bartender Victor Morris at Morris' Bar, and bartender Mario Bruiget added the bitters and egg white later that decade. Peru marks National Pisco Sour Day on the first Saturday of February.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pisco_sour",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pisco_sour",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-arroz-con-pato",
+    "name": "Arroz con pato",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "North Coast",
+    "regions": [
+      "Chiclayo",
+      "Lambayeque"
+    ],
+    "description": "A dish of rice turned green by coriander (culantro), cooked with duck marinated in garlic and vinegar and spiced with ají amarillo; dark beer or chicha de jora is often added. It is typical of the Lambayeque region, and the oldest references to it date from 1860.",
+    "how_to_eat": "Served with salsa criolla.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Arroz_con_pato",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Arroz_con_pato"
+    ]
+  },
+  {
+    "id": "peru-seco-de-cabrito",
+    "name": "Seco de cabrito",
+    "local_name": "Cabrito a la norteña",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "North Coast",
+    "regions": [],
+    "description": "A stew of young milk-fed goat marinated in chicha de jora and cooked with coriander, ají amarillo and loche squash. It is eaten along the northern coast from La Libertad to the Ecuadorian border, and lamb is a common substitute.",
+    "how_to_eat": "Served with boiled yuca, salsa criolla, white rice and beans; in Piura it is customarily served with a tamal.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Cabrito_a_la_norte%C3%B1a",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Cabrito_a_la_norte%C3%B1a",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-seco-de-chabelo",
+    "name": "Seco de chabelo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "North Coast",
+    "regions": [
+      "Piura",
+      "Catacaos"
+    ],
+    "description": "Green plantain boiled or grilled, mashed in a mortar and combined with grilled beef or cecina (dried meat), seasoned with chili, tomato, onion and chicha de jora. It is the most characteristic seco of Piura, typically from Catacaos.",
+    "how_to_eat": "Served with boiled potatoes, rice and sauces, sometimes as a piqueo (shared snack).",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Seco_de_chabelo",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Seco_de_chabelo",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-shambar",
+    "name": "Shámbar",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "North Coast",
+    "regions": [
+      "Trujillo"
+    ],
+    "description": "A thick soup of wheat grains, beans, dried peas, chickpeas and broad beans with pork skin, smoked ribs and ham, seasoned with ají panca, mint and cumin. It comes from Trujillo in La Libertad and is traditionally eaten on Mondays.",
+    "how_to_eat": "Eaten as a one-dish main meal.",
+    "how_to_order": "Served in Trujillo-style or northern-cuisine restaurants across the country.",
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Sh%C3%A1mbar",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Sh%C3%A1mbar"
+    ]
+  },
+  {
+    "id": "peru-cebiche-de-conchas-negras",
+    "name": "Cebiche de conchas negras",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "North Coast",
+    "regions": [
+      "Piura",
+      "Tumbes"
+    ],
+    "description": "A ceviche made with black clams, a dish of Piura and Tumbes that is also popular on the southern coast of Ecuador.",
+    "how_to_eat": "Accompanied by toasted corn.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-tacu-tacu",
+    "name": "Tacu-tacu",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "North Coast",
+    "regions": [
+      "Piura"
+    ],
+    "description": "Leftover rice and beans pan-fried and shaped into a flat oval, topped with steak, fried eggs or ripe plantain. Food historians credit its origin to enslaved Afro-Peruvians on the northern coast, a region that specialises in it; Piura uses canary beans.",
+    "how_to_eat": "Often eaten for breakfast or as a second course, sometimes with salsa criolla.",
+    "how_to_order": "Served in casual and upmarket restaurants across Peru; seafood versions are called tacu-tacu de mariscos.",
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tacu-tacu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tacu-tacu",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-king-kong",
+    "name": "King Kong",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Peru",
+    "state": "North Coast",
+    "regions": [
+      "Lambayeque"
+    ],
+    "description": "Layers of cookies made from flour, butter, eggs and milk filled with manjar blanco, pineapple sweet and sometimes peanuts. It is part of the culture of the Lambayeque region, where it was previously called alfajor de Trujillo; the name comes from the King Kong film shown there in the 1930s.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in half-kilo and one-kilo sizes.",
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/King_Kong_(dessert)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/King_Kong_(dessert)",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-natillas-piuranas",
+    "name": "Natillas piuranas",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Peru",
+    "state": "North Coast",
+    "regions": [
+      "Piura"
+    ],
+    "description": "A toffee-like sweet traditionally made with goat's milk and chancaca, now often with cow's milk and sugar. It is traditional in Piura and Lambayeque and reached its current recipe in the 19th century.",
+    "how_to_eat": "Eaten straight with a spoon or used as a filling for desserts such as alfajores.",
+    "how_to_order": "Sold in flat round tins or small wooden boxes.",
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Natillas_piuranas",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Natillas_piuranas"
+    ]
+  },
+  {
+    "id": "peru-rocoto-relleno",
+    "name": "Rocoto relleno",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Arequipa & South",
+    "regions": [
+      "Arequipa"
+    ],
+    "description": "Rocoto peppers boiled in water and vinegar to tame their heat, stuffed with minced beef and pork, onions, pecans and often hard-boiled egg, topped with cheese and baked. It is a dish of the city of Arequipa.",
+    "how_to_eat": "Served whole with baked potatoes or salad.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy",
+      "nuts",
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rocoto_relleno",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rocoto_relleno",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-chupe-de-camarones",
+    "name": "Chupe de camarones",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Arequipa & South",
+    "regions": [
+      "Arequipa"
+    ],
+    "description": "A thick, spicy soup of river shrimp (crayfish), yellow potato, queso fresco, milk, broad beans, corn and egg, flavoured with ají colorado and huacatay. It is traditional in Arequipa and served in all its picanterías; the shrimp traditionally come from the Ocoña, Camaná and Majes rivers.",
+    "how_to_eat": null,
+    "how_to_order": "Found in Arequipa picanterías and in Peruvian restaurants specialising in Arequipan cuisine.",
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Chupe_de_camarones",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Chupe_de_camarones",
+      "https://en.wikipedia.org/wiki/Chupe",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-adobo-arequipeno",
+    "name": "Adobo arequipeño",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Arequipa & South",
+    "regions": [
+      "Arequipa"
+    ],
+    "description": "Pork marinated in garlic, ají panca or rocoto and vinegar or chicha de guiñapo, then cooked in a clay pot with the marinade. It is typical of Arequipa and also traditional in Tacna and Ayacucho, and is usually eaten for breakfast; in Arequipa it is the Sunday dish.",
+    "how_to_eat": "In Arequipa it comes only with pan de tres puntas, a local bread for dipping in the sauce, and a cup of tea or anise.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Adobo_arequipe%C3%B1o",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Adobo_arequipe%C3%B1o",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Arequipa"
+    ]
+  },
+  {
+    "id": "peru-ocopa",
+    "name": "Ocopa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Arequipa & South",
+    "regions": [
+      "Arequipa"
+    ],
+    "description": "A sauce of yellow and mirasol peppers, onion, garlic, evaporated milk, fresh cheese, crackers, peanuts and huacatay (black mint), ground to a paste. It comes from Arequipa and is served over boiled potatoes.",
+    "how_to_eat": "Garnished with hard-boiled egg and a botija olive; in Arequipa it comes with boiled potatoes or shrimp.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "peanuts",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ocopa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ocopa",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-solterito",
+    "name": "Solterito",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Peru",
+    "state": "Arequipa & South",
+    "regions": [
+      "Arequipa"
+    ],
+    "description": "A salad of cooked broad beans, onion, tomato, queso fresco, boiled potatoes and corn, chopped rocoto and parsley in an acidic dressing. It originated in Arequipa and is a staple of the city's picanterías.",
+    "how_to_eat": null,
+    "how_to_order": "Ordered as a starter in Arequipa picanterías.",
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Solterito",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Solterito",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Arequipa"
+    ]
+  },
+  {
+    "id": "peru-queso-helado",
+    "name": "Queso helado",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Peru",
+    "state": "Arequipa & South",
+    "regions": [
+      "Arequipa"
+    ],
+    "description": "A frozen dessert of fresh milk, condensed milk, cinnamon and chuño starch, beaten in a steel cone set in ice and salt until it freezes in layers that look like cheese slices; it contains no cheese. One of the first places it was made was Arequipa's Santa Catalina Monastery.",
+    "how_to_eat": "Served with powdered cinnamon on top.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Queso_helado",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Queso_helado"
+    ]
+  },
+  {
+    "id": "peru-chairo",
+    "name": "Chairo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Arequipa & South",
+    "regions": [
+      "Puno",
+      "Arequipa"
+    ],
+    "description": "A thick Andean soup of chuño (freeze-dried potato), lamb, chalona (dried meat), potato, broad beans or peas, corn and herbs such as mint and huacatay. It is part of the cuisine of Puno and Arequipa, where it is the Tuesday dish, and is also eaten in Bolivia.",
+    "how_to_eat": "Served very hot.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Chairo",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Chairo",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Arequipa"
+    ]
+  },
+  {
+    "id": "peru-cuy-chactado",
+    "name": "Cuy chactado",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Cusco & Andes",
+    "regions": [],
+    "description": "A whole guinea pig fried in plenty of oil under a stone that acts as a lid until crisp. It is a dish of the Peruvian Andes, and 'chactado' refers to cooking pressed under a stone.",
+    "how_to_eat": "Served whole with boiled potatoes, corn and chili sauces such as huacatay cream.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Cuy_chactado",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Cuy_chactado",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-pachamanca",
+    "name": "Pachamanca",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Cusco & Andes",
+    "regions": [
+      "Huancayo",
+      "Huánuco",
+      "Ayacucho"
+    ],
+    "description": "Meats such as lamb, pork, chicken or guinea pig marinated in herbs and baked underground on hot stones together with potatoes, broad beans, sweet potato, corn and humitas. The name comes from Quechua pacha (earth) and manka (pot), and it is made mainly in the central Andes for celebrations.",
+    "how_to_eat": "Cooked in large quantities to share among many people.",
+    "how_to_order": "Served at 'campestre' restaurants in rural areas outside Lima, such as Cieneguilla.",
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pachamanca",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pachamanca",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-chiriuchu",
+    "name": "Chiriuchu",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Cusco & Andes",
+    "regions": [
+      "Cusco"
+    ],
+    "description": "A cold dish of mixed meats (guinea pig, boiled hen, charqui, blood sausage, sausage) with potatoes, cheese, a corn fritter, river fish roe and lake algae. It is eaten in Cusco in June during Inti Raymi and above all Corpus Christi, and mixes Andean and Spanish ingredients.",
+    "how_to_eat": null,
+    "how_to_order": "Not sold in picanterías; look for it during the June festivals in Cusco.",
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "fish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_del_Cusco"
+    ]
+  },
+  {
+    "id": "peru-papa-a-la-huancaina",
+    "name": "Papa a la huancaína",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Cusco & Andes",
+    "regions": [
+      "Huancayo"
+    ],
+    "description": "Boiled potatoes in a creamy, spicy sauce of queso fresco, ají amarillo, red onion and garlic, traditionally ground in a batán. The name refers to Huancayo, though its origin is disputed, and it is eaten throughout the country.",
+    "how_to_eat": "Served cold as a starter over lettuce with black olives, corn and hard-boiled egg.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Papa_a_la_huanca%C3%ADna",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Papa_a_la_huanca%C3%ADna",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-olluquito-con-charqui",
+    "name": "Olluquito con charqui",
+    "local_name": "Olluquito con ch'arki",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Cusco & Andes",
+    "regions": [],
+    "description": "A stew of finely diced olluco (ulluco), a crunchy Andean tuber, with charqui, meat cured by salting and drying, traditionally alpaca or llama and today often sheep. The word charqui is the origin of the English 'jerky'.",
+    "how_to_eat": "Served with white rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Olluquito",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Olluquito",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-puca-picante",
+    "name": "Puca picante",
+    "local_name": "Puka pikanti",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Cusco & Andes",
+    "regions": [
+      "Ayacucho"
+    ],
+    "description": "A stew of potato, toasted ground peanuts and beetroot, which gives it its red colour (puka means red in Quechua). It is considered the main dish of Ayacucho, where it is eaten during Holy Week and Huamanga celebrates it every 2 February.",
+    "how_to_eat": "Usually served with white rice and pork chicharrón.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Puca_picante",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Puca_picante",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-chicha-de-jora",
+    "name": "Chicha de jora",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Peru",
+    "state": "Cusco & Andes",
+    "regions": [
+      "Cusco"
+    ],
+    "description": "A corn beer made by germinating yellow maize (jora), boiling the wort and fermenting it for several days, with 1-3% alcohol. It has been brewed in the Andes for millennia and was used by the Inca in rituals; it is still popular in southern Peru.",
+    "how_to_eat": "In the Cusco area drinkers often first spill a little on the ground as an offering to Pachamama.",
+    "how_to_order": "Sold in chicherías marked by a pole with red flags or flowers at the door, in half-litre glasses or by the litre.",
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chicha_de_jora",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chicha_de_jora",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-chicha-morada",
+    "name": "Chicha morada",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Peru",
+    "state": "Cusco & Andes",
+    "regions": [],
+    "description": "A non-alcoholic drink made by boiling purple corn with pineapple peel, quince, cinnamon and cloves, then sweetening it and adding chopped fruit and lime. It comes from the Andean regions and dates to pre-Columbian times; its consumption in Peru has rivalled that of Coca-Cola.",
+    "how_to_eat": "Served cold; in October it is drunk with anticuchos, picarones and turrón de Doña Pepa.",
+    "how_to_order": "Sold in restaurants and supermarkets, homemade or bottled.",
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chicha_morada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chicha_morada",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-juane",
+    "name": "Juane",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Amazon",
+    "regions": [
+      "Moyobamba",
+      "Tarapoto"
+    ],
+    "description": "Rice with chicken, olives, hard-boiled egg and spices, bound with beaten egg, wrapped in bijao leaves and boiled for about an hour and a half. It is a main dish of the Peruvian jungle, possibly from Moyobamba, and is eaten above all on the feast of San Juan (24 June).",
+    "how_to_eat": "Accompanied by tacacho, yuca or boiled plantain, often with chicha.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Juane",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Juane",
+      "https://es.wikipedia.org/wiki/Juane",
+      "https://en.wikipedia.org/wiki/Amazonian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-tacacho-con-cecina",
+    "name": "Tacacho con cecina",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Amazon",
+    "regions": [
+      "Iquitos"
+    ],
+    "description": "Tacacho is roasted green bellaco plantain mashed with pork lard and chopped chicharrón and formed into a ball; in Peru cecina (dried meat) is mainly eaten in the jungle together with tacacho. The name comes from Quechua taka chu, 'the beaten one'.",
+    "how_to_eat": "Eaten for breakfast in San Martín and Madre de Dios and at lunch or dinner elsewhere, often with chorizo.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tacacho",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tacacho",
+      "https://es.wikipedia.org/wiki/Tacacho",
+      "https://es.wikipedia.org/wiki/Cecina",
+      "https://en.wikipedia.org/wiki/Amazonian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-patarashca",
+    "name": "Patarashca",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Amazon",
+    "regions": [],
+    "description": "A freshwater fish fillet seasoned with turmeric, sweet or charapita chili and wild coriander, wrapped in bijao leaves and cooked over embers. The name comes from Quechua for 'wrapped', and the dish is shared by the Peruvian and Colombian Amazon.",
+    "how_to_eat": "In Peru it comes with yuca, plantain and sometimes white rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Patarashca",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Patarashca",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-inchicapi",
+    "name": "Inchicapi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Amazon",
+    "regions": [],
+    "description": "A thick soup of hen broth with corn flour and toasted ground peanuts, garnished with sacha culantro, of pre-Hispanic origin. It is eaten in the jungle departments of Ucayali, Loreto, Amazonas, San Martín and Madre de Dios on birthdays and special occasions.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Inchicapi",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Inchicapi"
+    ]
+  },
+  {
+    "id": "peru-chapo",
+    "name": "Chapo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Peru",
+    "state": "Amazon",
+    "regions": [],
+    "description": "A drink of ripe plantain cooked over low heat until frothy, then blended with water; sugar and milk are optional. It comes from the Peruvian Amazon.",
+    "how_to_eat": "Usually drunk at breakfast with fried yuca, bread, humitas or juane.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Chapo_(bebida)",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Chapo_(bebida)",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-masato",
+    "name": "Masato",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Peru",
+    "state": "Amazon",
+    "regions": [],
+    "description": "A fermented drink of boiled yuca mixed with water; among native Amazonian peoples the yuca is traditionally chewed so its starch turns to sugar before fermentation into alcohol, while commercial versions use ground yuca and baker's yeast.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Masato",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Masato"
+    ]
+  },
+  {
+    "id": "peru-pisco",
+    "name": "Pisco",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Peru",
+    "state": "Ica & South Coast",
+    "regions": [
+      "Ica",
+      "Pisco"
+    ],
+    "description": "A grape brandy made by distilling fermented fresh grape juice, developed by 16th-century Spanish settlers and named after the port of Pisco, from which it was shipped. It is Peru's national drink and has a denominación de origen declared by Indecopi: since 1991 Peruvian pisco may only be made in Lima, Ica, Arequipa, Moquegua and Tacna.",
+    "how_to_eat": "Drunk neat or in cocktails such as the pisco sour and chilcano (pisco with lime and ginger ale).",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pisco",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pisco",
+      "https://rpp.pe/economia/mercados/el-peru-tiene-10-productos-de-denominacion-de-origen-y-son-estos-noticia-992881",
+      "https://es.wikipedia.org/wiki/Chilcano_(bebida)",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-tejas",
+    "name": "Tejas",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Peru",
+    "state": "Ica & South Coast",
+    "regions": [
+      "Ica"
+    ],
+    "description": "Small confections from the Ica region filled with manjar blanco and dried fruit or nuts, with a fondant-like sugar shell. Chocolate-coated versions are called chocotejas.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Teja_(confectionery)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Teja_(confectionery)",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    ]
+  },
+  {
+    "id": "peru-carapulcra",
+    "name": "Carapulcra",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Ica & South Coast",
+    "regions": [
+      "Chincha"
+    ],
+    "description": "A stew of pork and papa seca (dried potato) with peanuts, ají panca and mirasol peppers, garlic and clove; the name comes from Aymara qala phurk'a, a stew made with hot stones. The Afro-Peruvian Ica version uses fresh potatoes.",
+    "how_to_eat": "Usually eaten with rice, boiled potatoes or yuca; on the coast south of Lima it is served together with sopa seca.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carapulcra",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Carapulcra",
+      "https://en.wikipedia.org/wiki/Peruvian_cuisine",
+      "https://es.wikipedia.org/wiki/Sopa_seca"
+    ]
+  },
+  {
+    "id": "peru-sopa-seca",
+    "name": "Sopa seca",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Peru",
+    "state": "Ica & South Coast",
+    "regions": [
+      "Chincha",
+      "Cañete"
+    ],
+    "description": "An Italian-influenced noodle dish of the coast south of Lima, particularly Cañete and Chincha, served as a pair with carapulcra. A typical recipe cooks spaghetti with chicken, basil, parsley, onion, garlic, tomato and achiote.",
+    "how_to_eat": "Eaten on the same plate as carapulcra.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Sopa_seca",
+      "https://rpp.pe/cultura/mas-cultura/receta-de-carapulcra-chinchana-con-sopa-seca-prepara-este-rico-plato-tipico-en-casa-paso-a-paso-gastronomia-peruana-coronavirus-peru-noticia-1282182"
+    ]
+  },
+  {
+    "id": "peru-frejol-colado",
+    "name": "Frejol colado",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Peru",
+    "state": "Ica & South Coast",
+    "regions": [
+      "Chincha",
+      "Cañete"
+    ],
+    "description": "A sweet of peeled black beans puréed and cooked with milk, cinnamon, cloves, sugar and chancaca, apparently developed by Afro-Peruvians from European manjar blanco. It is traditional in Chincha and Cañete and was once sold in the streets in small sealed gourds.",
+    "how_to_eat": "Served in a dessert dish, usually sprinkled with toasted sesame.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "PEN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Frejol_colado",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Frejol_colado"
+    ]
+  }
+]
