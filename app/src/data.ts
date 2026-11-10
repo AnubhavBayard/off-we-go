@@ -72,6 +72,7 @@ export const COUNTRY_CODE: Record<string, string> = {
   Australia: 'AU', Brazil: 'BR', Peru: 'PE', Argentina: 'AR',
   Philippines: 'PH', 'Sri Lanka': 'LK', Nepal: 'NP', Ireland: 'IE',
   Switzerland: 'CH', Belgium: 'BE', Lebanon: 'LB', Sweden: 'SE',
+  Denmark: 'DK', Norway: 'NO', Taiwan: 'TW', Colombia: 'CO',
 }
 
 // "₹20-40", "€8-12", "THB 50-80"

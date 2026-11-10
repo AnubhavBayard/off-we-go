@@ -1,0 +1,1187 @@
+[
+  {
+    "id": "colombia-ajiaco",
+    "name": "Ajiaco",
+    "local_name": "Ajiaco santafereño",
+    "pronunciation": "ah-HYAH-ko",
+    "category": "meal",
+    "country": "Colombia",
+    "state": "Bogotá & Andean Highlands",
+    "regions": [
+      "Bogotá"
+    ],
+    "description": "A soup of chicken, corn and three varieties of potato, flavoured with the herb guasca (Galinsoga parviflora). It is the traditional dish of Bogotá and the Altiplano Cundiboyacense, and is often cited alongside bandeja paisa as a national dish.",
+    "how_to_eat": "It can be garnished with capers, avocado slices, pieces of corn on the cob or cream.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ajiaco",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ajiaco",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine",
+      "https://en.wikipedia.org/wiki/Bandeja_paisa"
+    ]
+  },
+  {
+    "id": "colombia-changua",
+    "name": "Changua",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Colombia",
+    "state": "Bogotá & Andean Highlands",
+    "regions": [
+      "Bogotá"
+    ],
+    "description": "A breakfast soup of water and milk with salt, into which whole eggs are cracked and poached; it is garnished with scallions and curly cilantro. Typical of Boyacá, Cundinamarca and Bogotá, the name comes from Muisca words, and it is also known as a hangover cure.",
+    "how_to_eat": "It is served with a piece of stale bread called calado that softens in the broth, sometimes with pieces of cheese melting in.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Changua",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Changua",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-caldo-de-costilla",
+    "name": "Caldo de costilla",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Colombia",
+    "state": "Bogotá & Andean Highlands",
+    "regions": [
+      "Bogotá"
+    ],
+    "description": "A rib broth made mainly from beef ribs boiled in water with slices of potato, garlic, onion and cilantro. It is a breakfast dish of the Andean region, eaten on cold mornings and known as a hangover remedy nicknamed levantamuertos.",
+    "how_to_eat": "It is often eaten with arepa, hot chocolate and bread.",
+    "how_to_order": "Restaurants in nightlife areas often stay open all night to serve it.",
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caldo_de_costilla",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Caldo_de_costilla",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-mute",
+    "name": "Mute",
+    "local_name": "Mute santandereano",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Colombia",
+    "state": "Bogotá & Andean Highlands",
+    "regions": [
+      "Bucaramanga",
+      "Cúcuta"
+    ],
+    "description": "A thick soup from Santander, Norte de Santander and Boyacá, made with beef rib, pork parts, tripe, corn and vegetables. In Santander pork is more common, in Boyacá beef and potato, and in Cúcuta it includes chickpeas.",
+    "how_to_eat": "In Cúcuta it is served with rice and pasteles de garbanzo.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mute_(soup)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mute_(soup)",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Colombia"
+    ]
+  },
+  {
+    "id": "colombia-hormigas-culonas",
+    "name": "Hormigas culonas",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Colombia",
+    "state": "Bogotá & Andean Highlands",
+    "regions": [
+      "San Gil",
+      "Barichara",
+      "Bucaramanga"
+    ],
+    "description": "Queen leafcutter ants (Atta laevigata) collected during their nuptial flight in the rainy season, with legs and wings removed, soaked in salt water and roasted in ceramic pans. The custom is inherited from the pre-colonial Guane people of Santander; San Gil and Barichara are the main production centres.",
+    "how_to_eat": null,
+    "how_to_order": "Packets are sold during the rainy season in Santander and also in Bucaramanga and Bogotá.",
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Atta_laevigata",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Atta_laevigata",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Colombia"
+    ]
+  },
+  {
+    "id": "colombia-bocadillo-veleno",
+    "name": "Bocadillo veleño",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Colombia",
+    "state": "Bogotá & Andean Highlands",
+    "regions": [
+      "Vélez",
+      "Moniquirá"
+    ],
+    "description": "A firm guava paste made by cooking ripe guavas with panela or sugar, traditionally layered with two thin bands of white guava paste around a thick band of red guava paste. Each block is wrapped in bijao leaves; the province of Vélez in Santander is the main production centre, and the name is a Colombian denominación de origen also recognised by the EU in 2022.",
+    "how_to_eat": "In Colombia guava paste is often combined with cheese or dulce de leche.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Bocadillo_(dulce)",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Bocadillo_(dulce)",
+      "https://www.asuntoslegales.com.co/actualidad/productos-que-tienen-denominacion-de-origen-en-colombia-4057614",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-oblea",
+    "name": "Oblea",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Colombia",
+    "state": "Bogotá & Andean Highlands",
+    "regions": [
+      "Bogotá",
+      "Tunja"
+    ],
+    "description": "Two thin, crisp round wafers, made by pressing batter between hot plates, filled most commonly with arequipe (milk caramel). Other fillings include jam, cheese, fruit, whipped cream or condensed milk; the arequipe filling became established in the plazas and fairs of Bogotá and Tunja in the late 19th and early 20th centuries.",
+    "how_to_eat": null,
+    "how_to_order": "Sold as a street and festive snack in plazas and parks.",
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Oblea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Oblea",
+      "https://es.wikipedia.org/wiki/Oblea",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-chicha",
+    "name": "Chicha",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Colombia",
+    "state": "Bogotá & Andean Highlands",
+    "regions": [
+      "Bogotá"
+    ],
+    "description": "An indigenous fermented maize drink of the Andes. In Bogotá cooked maize is ground with black panela and left to ferment for seven to eight days depending on the strength wanted. It was outlawed in Colombia in 1949 and remains formally illegal, but is openly available in some areas.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chicha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chicha",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-bandeja-paisa",
+    "name": "Bandeja paisa",
+    "local_name": null,
+    "pronunciation": "bahn-DEH-hah PIE-sah",
+    "category": "meal",
+    "country": "Colombia",
+    "state": "Antioquia & Coffee Region",
+    "regions": [
+      "Medellín"
+    ],
+    "description": "A large platter from Antioquia and the Coffee Axis of red beans cooked with pork, white rice, ground meat, chicharrón, fried egg, ripe plantain, chorizo, arepa, hogao sauce, morcilla, avocado and lemon. Its current form dates from after 1950, and it is one of the most representative meals of Colombian cuisine.",
+    "how_to_eat": "It is served on a large oval tray, sometimes with mazamorra with milk and ground panela on the side.",
+    "how_to_order": "Some Antioquian restaurants offer an extended 'seven meats' version that adds steak, grilled pork and liver.",
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bandeja_paisa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bandeja_paisa",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Colombia"
+    ]
+  },
+  {
+    "id": "colombia-arepa",
+    "name": "Arepa",
+    "local_name": null,
+    "pronunciation": "ah-REH-pah",
+    "category": "street_food",
+    "country": "Colombia",
+    "state": "Antioquia & Coffee Region",
+    "regions": [
+      "Medellín"
+    ],
+    "description": "A flat, round, unleavened patty of ground maize, grilled, baked or fried, eaten in the region since pre-Columbian times. In Colombia it has around 75 regional forms, including arepa paisa, arepa de choclo, arepa boyacense and arepa santandereana, and in 2006 it was named a cultural symbol of the country.",
+    "how_to_eat": "Simple arepas are filled with butter or cheese; Paisa restaurants offer stuffed arepas filled with egg, meat or cheese.",
+    "how_to_order": "Sold by street vendors, in cafeterias and neighbourhood shops, and pre-cooked in supermarkets.",
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arepa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Arepa",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-mazamorra",
+    "name": "Mazamorra",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Colombia",
+    "state": "Antioquia & Coffee Region",
+    "regions": [
+      "Medellín"
+    ],
+    "description": "A drink of maize kernels crushed, soaked in water with lye and cooked until soft, giving a white or yellow mushy base. In Antioquia it accompanies panela and is a side to meals such as bandeja paisa; it is commonly sold as street food.",
+    "how_to_eat": "The consumer usually adds milk and panela to the mazamorra base.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mazamorra",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mazamorra",
+      "https://en.wikipedia.org/wiki/Bandeja_paisa"
+    ]
+  },
+  {
+    "id": "colombia-natilla",
+    "name": "Natilla",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Colombia",
+    "state": "Antioquia & Coffee Region",
+    "regions": [],
+    "description": "A Colombian Christmas dessert made with milk, panela, cinnamon sticks and flour or cornstarch, without eggs, resembling a flan or pudding and topped with powdered cinnamon. It is typical of Antioquia and the Coffee Axis and has spread across the country.",
+    "how_to_eat": "It is eaten at Christmas and New Year with buñuelos, manjar blanco, tamales and hot chocolate.",
+    "how_to_order": "Shops sell pre-made natilla during the Christmas season, including coconut and arequipe flavours.",
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Natillas",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Natillas",
+      "https://es.wikipedia.org/wiki/Natillas",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-bunuelos",
+    "name": "Buñuelos",
+    "local_name": null,
+    "pronunciation": "boo-NYWEH-lo",
+    "category": "snack",
+    "country": "Colombia",
+    "state": "Antioquia & Coffee Region",
+    "regions": [],
+    "description": "Deep-fried dough balls made in the Andean region with ground fresh cheese, eggs, cornstarch and a little cassava starch, not sweet, and fried golden. They are eaten at breakfast and as fast food, and are part of the traditional Christmas spread.",
+    "how_to_eat": "They are served with natilla, manjar blanco, tamales or hot chocolate.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bu%C3%B1uelo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bu%C3%B1uelo",
+      "https://es.wikipedia.org/wiki/Bu%C3%B1uelo",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-aguardiente",
+    "name": "Aguardiente",
+    "local_name": null,
+    "pronunciation": "ah-gwar-DYEN-teh",
+    "category": "drink",
+    "country": "Colombia",
+    "state": "Antioquia & Coffee Region",
+    "regions": [],
+    "description": "An anise-flavoured spirit derived from sugarcane, with 24-29% alcohol, popular in the Andean region. Since the Spanish era it has been the most popular alcoholic drink in Colombia's Andean regions, except the Caribbean, where rum is preferred, and it is widely drunk at parties.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aguardiente",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Aguardiente",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-tinto",
+    "name": "Tinto (Colombian coffee)",
+    "local_name": "Café de Colombia",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Colombia",
+    "state": "Antioquia & Coffee Region",
+    "regions": [
+      "Caldas",
+      "Quindío",
+      "Risaralda"
+    ],
+    "description": "Black coffee with sugar or panela on the side, or café con leche with half heated milk. Most Colombian coffee is grown in the coffee axis of Caldas, Quindío and Risaralda; Café de Colombia was the country's first denominación de origen (2005) and an EU protected geographical indication since 2007, with regional DOs such as Cauca, Nariño, Huila and Santander.",
+    "how_to_eat": "Black coffee is often prepared with aguapanela instead of water and sugar.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Caf%C3%A9_de_Colombia",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Caf%C3%A9_de_Colombia",
+      "https://en.wikipedia.org/wiki/Coffee_production_in_Colombia",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine",
+      "https://www.asuntoslegales.com.co/actualidad/productos-que-tienen-denominacion-de-origen-en-colombia-4057614",
+      "https://en.wikipedia.org/wiki/Aguapanela"
+    ]
+  },
+  {
+    "id": "colombia-arepa-de-huevo",
+    "name": "Arepa de huevo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Colombia",
+    "state": "Caribbean Coast",
+    "regions": [
+      "Cartagena",
+      "Luruaco"
+    ],
+    "description": "A fried snack of the Caribbean region: a maize arepa is fried, split open, filled with a raw egg and fried again. Some versions add shredded or ground meat, and in Sincelejo a tomato and onion mix. It is the centrepiece of Cartagena's Festival del Frito and has its own festival in Luruaco.",
+    "how_to_eat": "It is eaten for breakfast.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Arepa_de_huevo",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Arepa_de_huevo",
+      "https://en.wikipedia.org/wiki/Arepa",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Colombia"
+    ]
+  },
+  {
+    "id": "colombia-mote-de-queso",
+    "name": "Mote de queso",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Colombia",
+    "state": "Caribbean Coast",
+    "regions": [
+      "Montes de María",
+      "Corozal"
+    ],
+    "description": "A Caribbean soup of ñame (yam) with cubes of hard queso costeño, garlic, onion, lime and the aromatic leaves of bleo de chupa. It originates in the Montes de María and the savannas of old Bolívar and is considered a culinary emblem of the coast; the Sinú version adds aubergine and coconut milk.",
+    "how_to_eat": "It is served with white or coconut rice, a sofrito of spring onion, sweet chili and garlic, and suero atollabuey.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Mote_de_queso",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Mote_de_queso",
+      "https://en.wikipedia.org/wiki/Mote_de_queso",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Colombia"
+    ]
+  },
+  {
+    "id": "colombia-cazuela-de-mariscos",
+    "name": "Cazuela de mariscos",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Colombia",
+    "state": "Caribbean Coast",
+    "regions": [
+      "Cartagena",
+      "Barranquilla",
+      "Santa Marta"
+    ],
+    "description": "A seafood stew of the Caribbean coast with lobster, prawns, shrimp, fish, clams and squid in coconut milk with a sofrito of onion, carrot, pepper, tomato and spices. Cream, white wine and Parmesan are optional.",
+    "how_to_eat": "It can be served in black clay pots heated in the oven or on the fire.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "fish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cazuela_de_mariscos",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cazuela_de_mariscos",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Colombia"
+    ]
+  },
+  {
+    "id": "colombia-arroz-de-lisa",
+    "name": "Arroz de lisa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Colombia",
+    "state": "Caribbean Coast",
+    "regions": [
+      "Barranquilla"
+    ],
+    "description": "Rice cooked with dried, salted mullet, a fish of brackish river mouths, plus onion, sweet chili, peppers, cumin and pepper. It is a popular dish of Barranquilla.",
+    "how_to_eat": "It is served on a bijao leaf with chopped chives, with bollo de yuca, avocado salad and panela drink, or with suero atollabuey and queso costeño.",
+    "how_to_order": "In Barranquilla it is sold on the street at any hour by vendors carrying large pots on pedal carts.",
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Arroz_de_lisa",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Arroz_de_lisa",
+      "https://en.wikipedia.org/wiki/Arroz_de_lisa",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-arroz-con-coco",
+    "name": "Arroz con coco",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Colombia",
+    "state": "Caribbean Coast",
+    "regions": [
+      "Cartagena"
+    ],
+    "description": "White rice cooked in coconut milk with shredded coconut meat, water, salt, sugar and optional raisins. It is a common side dish in coastal cities of the Caribbean region.",
+    "how_to_eat": "It is typically served with fish.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Coconut_rice",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Coconut_rice",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-carimanola",
+    "name": "Carimañola",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Colombia",
+    "state": "Caribbean Coast",
+    "regions": [
+      "Atlántico",
+      "Bolívar",
+      "Córdoba",
+      "Sucre"
+    ],
+    "description": "A torpedo-shaped fritter of boiled, mashed cassava dough stuffed with ground beef, shredded chicken or cheese and deep-fried until crisp. It is a breakfast item and snack of the Caribbean coast.",
+    "how_to_eat": "It is often served with suero or ají picante.",
+    "how_to_order": "Sold by street vendors and in restaurants on the Caribbean coast.",
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carima%C3%B1ola",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Carima%C3%B1ola",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Colombia"
+    ]
+  },
+  {
+    "id": "colombia-enyucado",
+    "name": "Enyucado",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Colombia",
+    "state": "Caribbean Coast",
+    "regions": [
+      "El Carmen de Bolívar"
+    ],
+    "description": "A cake from the Caribbean region made with grated cassava, coconut and sugar, sometimes with anise and guava jam. It is one of the region's traditional sweets, sold around El Carmen de Bolívar.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Enyucado",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Enyucado",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Colombia"
+    ]
+  },
+  {
+    "id": "colombia-cocadas",
+    "name": "Cocadas",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Colombia",
+    "state": "Caribbean Coast",
+    "regions": [],
+    "description": "Baked coconut confections made with eggs and shredded coconut, ranging from hard sweet balls to soft, chewy versions. They are among Colombia's representative desserts and a traditional sweet of the Caribbean coast.",
+    "how_to_eat": null,
+    "how_to_order": "Sold on the streets and especially on beaches by vendors carrying them on large aluminium trays.",
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cocada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cocada",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Colombia"
+    ]
+  },
+  {
+    "id": "colombia-sancocho-de-gallina",
+    "name": "Sancocho de gallina",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Colombia",
+    "state": "Pacific Coast & Valle del Cauca",
+    "regions": [
+      "Cali"
+    ],
+    "description": "A hen soup with plantain, corn, coriander and cassava, the most traditional dish of Cali. Sancocho is made across Colombia with different meats and fish and was nominated as a cultural symbol of the country in 2006.",
+    "how_to_eat": "It is served with rice, fried plantain, a chicken leg covered in hogao, and a slice of avocado.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sancocho",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Colombian_cuisine",
+      "https://en.wikipedia.org/wiki/Sancocho",
+      "https://es.wikipedia.org/wiki/Sancocho"
+    ]
+  },
+  {
+    "id": "colombia-aborrajados",
+    "name": "Aborrajados",
+    "local_name": "Aborrajados de plátano maduro",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Colombia",
+    "state": "Pacific Coast & Valle del Cauca",
+    "regions": [
+      "Cali"
+    ],
+    "description": "Ripe sweet plantains stuffed with cheese, dipped in an egg and flour batter and deep-fried. A variation adds chicharrón, and guava paste is sometimes included in the filling; Cali is known for them.",
+    "how_to_eat": "In Cali they are served with guava paste.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aborrajados_de_pl%C3%A1tano_maduro",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Aborrajados_de_pl%C3%A1tano_maduro",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-pandebono",
+    "name": "Pandebono",
+    "local_name": "Pan de bono",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Colombia",
+    "state": "Pacific Coast & Valle del Cauca",
+    "regions": [
+      "Cali"
+    ],
+    "description": "A small bread made without wheat flour, from cassava starch, cornstarch, cheese and eggs, shaped as short strips, rounds or rings and baked. It comes from the old road between Cali and Buenaventura, named after the Hacienda El Bono near Dagua.",
+    "how_to_eat": "It is traditionally eaten warm with hot chocolate at breakfast or as an afternoon snack.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pandebono",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pandebono",
+      "https://es.wikipedia.org/wiki/Pandebono",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-arroz-atollado",
+    "name": "Arroz atollado",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Colombia",
+    "state": "Pacific Coast & Valle del Cauca",
+    "regions": [
+      "Cali"
+    ],
+    "description": "A soupy, slightly creamy rice cooked with chicken, pork, several kinds of potato, vegetables and seasonings. It is a typical dish of Cali and the Valle del Cauca, usually prepared on special occasions.",
+    "how_to_eat": "It is served with patacones, hogao and chorizo.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arroz_atollado",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Arroz_atollado",
+      "https://es.wikipedia.org/wiki/Arroz_atollado"
+    ]
+  },
+  {
+    "id": "colombia-empanadas",
+    "name": "Empanadas",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Colombia",
+    "state": "Pacific Coast & Valle del Cauca",
+    "regions": [
+      "Cali"
+    ],
+    "description": "Small half-moon turnovers of cornmeal dough filled with potato and meat and deep-fried. Cali is known for them; fillings vary by region, and the cornmeal dough sets them apart from wheat-flour empanadas elsewhere in Latin America.",
+    "how_to_eat": "They are eaten with lime wedges and ají.",
+    "how_to_order": "Sold as street food, appetizers and snacks.",
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Empanada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Empanada",
+      "https://es.wikipedia.org/wiki/Empanada",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-lulada",
+    "name": "Lulada",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Colombia",
+    "state": "Pacific Coast & Valle del Cauca",
+    "regions": [
+      "Cali"
+    ],
+    "description": "A drink from Cali of lulo fruit, lime juice, water and sugar, with the texture of a smoothie. Unlike lulo juice, the pulp is chopped by hand and beaten rather than blended.",
+    "how_to_eat": "It is sometimes served with a shot of aguardiente; variations add condensed milk.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lulada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lulada",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-cholado",
+    "name": "Cholado",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Colombia",
+    "state": "Pacific Coast & Valle del Cauca",
+    "regions": [
+      "Jamundí",
+      "Cali"
+    ],
+    "description": "Shaved or crushed ice with chopped fruit such as banana, strawberry, papaya, pineapple, mango and soursop, topped with condensed milk and fruit syrup. It comes from Jamundí in the Valle del Cauca.",
+    "how_to_eat": "It is served with a wafer cookie and sometimes topped with whipped cream.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cholado",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cholado",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Colombia"
+    ]
+  },
+  {
+    "id": "colombia-viche",
+    "name": "Viche",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Colombia",
+    "state": "Pacific Coast & Valle del Cauca",
+    "regions": [],
+    "description": "A home-brewed alcoholic drink of about 35% made from sugar cane on Colombia's Pacific coast, used in traditional communities as a ceremonial drink and remedy. Long illegal, it was declared cultural and ancestral heritage by law in 2021, allowing commercial production, and it is cited among Colombia's denominaciones de origen.",
+    "how_to_eat": "It is drunk on its own or mixed with sweet fruit juices.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Viche_(drink)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Viche_(drink)",
+      "https://www.asuntoslegales.com.co/actualidad/productos-que-tienen-denominacion-de-origen-en-colombia-4057614",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-lechona",
+    "name": "Lechona",
+    "local_name": "Lechona tolimense",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Colombia",
+    "state": "Southwest (Tolima, Huila, Cauca, Nariño)",
+    "regions": [
+      "Ibagué",
+      "El Espinal"
+    ],
+    "description": "A whole pig skin stuffed with seasoned pork and rib, yellow peas, lard, onion and sometimes rice, then slow-roasted for many hours in a clay oven until the skin is crisp. It is typical of Tolima and Huila; El Espinal, Tolima, declared 29 June the national day of lechona in 2004.",
+    "how_to_eat": "It is served with white maize arepas, or in Tolima with insulso; it is also eaten on top of a tamal tolimense.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Lechona",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Lechona",
+      "https://en.wikipedia.org/wiki/Suckling_pig",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-tamal-tolimense",
+    "name": "Tamal tolimense",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Colombia",
+    "state": "Southwest (Tolima, Huila, Cauca, Nariño)",
+    "regions": [
+      "Ibagué"
+    ],
+    "description": "A tamal of maize dough with rice and peas, filled with hard-boiled egg, carrot, bacon, pork and chicken, wrapped in plantain leaves and boiled for hours. It is the best-known of Colombia's many regional tamales and is also sold in bakeries in Bogotá.",
+    "how_to_eat": "It is served with arepa, almojábanas, bread and hot chocolate, or topped with lechona.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Tamal",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Tamal",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-achiras",
+    "name": "Achira biscuits",
+    "local_name": "Achiras del Huila",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Colombia",
+    "state": "Southwest (Tolima, Huila, Cauca, Nariño)",
+    "regions": [
+      "Huila"
+    ],
+    "description": "Crisp, cylindrical golden biscuits made from the flour of the achira plant (Canna indica) with fresh curd cheese, butter and egg yolks, baked in clay ovens. They are a traditional Huila snack, gluten-free, and 'achiras del Huila' is a Colombian denominación de origen.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Achira_(galleta)",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Achira_(galleta)",
+      "https://www.asuntoslegales.com.co/actualidad/productos-que-tienen-denominacion-de-origen-en-colombia-4057614",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Colombia"
+    ]
+  },
+  {
+    "id": "colombia-tamal-de-pipian",
+    "name": "Tamal de pipián",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Colombia",
+    "state": "Southwest (Tolima, Huila, Cauca, Nariño)",
+    "regions": [
+      "Popayán"
+    ],
+    "description": "A Cauca tamal filled with chorizo or pork and pipián, with ground peanut added to the dough. Popayán was named a UNESCO City of Gastronomy in 2005, and in Cauca pipián is the usual filling for tamales and empanadas.",
+    "how_to_eat": "It is served with peanut ají and white rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Tamal",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Tamal",
+      "https://es.wikipedia.org/wiki/Carantanta",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Colombia"
+    ]
+  },
+  {
+    "id": "colombia-cuy-asado",
+    "name": "Cuy asado",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Colombia",
+    "state": "Southwest (Tolima, Huila, Cauca, Nariño)",
+    "regions": [
+      "Pasto"
+    ],
+    "description": "Broiled guinea pig, a traditional dish of the Nariño highlands linked to Inca cuisine and to Ecuadorian food. Guinea pigs were domesticated for meat in the Andes, and in Colombia they are eaten mainly in Cauca and Nariño.",
+    "how_to_eat": "It is accompanied by potatoes and popcorn.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Colombian_cuisine",
+      "https://en.wikipedia.org/wiki/Guinea_pig",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Colombia"
+    ]
+  },
+  {
+    "id": "colombia-hervido",
+    "name": "Hervido",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Colombia",
+    "state": "Southwest (Tolima, Huila, Cauca, Nariño)",
+    "regions": [
+      "Pasto",
+      "Túquerres",
+      "Ipiales"
+    ],
+    "description": "A hot alcoholic drink of Nariño made with fruit pulp, traditionally blackberry, passion fruit, lulo or pineapple, and liquor such as chapil or guarapo, now often bottled spirit. It is a local variety of canelazo, drunk at gatherings and festivities.",
+    "how_to_eat": "It is served very hot; in Ipiales cinnamon and cloves are added.",
+    "how_to_order": "Commonly sold in bars and restaurants in Nariño.",
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Hervido_(bebida)",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Hervido_(bebida)",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  },
+  {
+    "id": "colombia-champus",
+    "name": "Champús",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Colombia",
+    "state": "Southwest (Tolima, Huila, Cauca, Nariño)",
+    "regions": [
+      "Nariño",
+      "Cauca",
+      "Cali"
+    ],
+    "description": "A thick drink of crushed maize with lulo, pineapple, panela, cinnamon, cloves and orange tree leaves, believed to have originated in southwestern Colombia. In Nariño and Cauca it is mainly a Christmas drink, while in the Valle del Cauca it is served very cold all year.",
+    "how_to_eat": "Versions made with mote (cooked maize) are thicker and eaten as a dessert.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Champ%C3%BAs",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Champ%C3%BAs",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Colombia"
+    ]
+  },
+  {
+    "id": "colombia-pan-de-yuca",
+    "name": "Pan de yuca",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Colombia",
+    "state": "Southwest (Tolima, Huila, Cauca, Nariño)",
+    "regions": [],
+    "description": "A bread made from cassava starch and cheese, typical of southern Colombia and western Ecuador. In Colombia pandeyuca is among the breads served with masato.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "COP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pan_de_yuca",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pan_de_yuca",
+      "https://es.wikipedia.org/wiki/Masato",
+      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    ]
+  }
+]

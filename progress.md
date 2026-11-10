@@ -447,3 +447,16 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
 - Photos batch 5: 140 new; 19 dropped via NO_PHOTO (adverts, plants, packaged muesli, other countries' versions: künefe, dushbara, Tabriz kofta, Egyptian molokheya, jameed, Dutch beans, generic kibbeh/ka'ak/speculaas/polenta/risotto, meatball soup). 1,491 dishes with photos.
 - BATCH 5 DONE: 41 countries, 1,838 dishes. Installed on phone 2026-11-11.
 - Committed + pushed batch 5. Next batch candidates: Denmark, Norway, Israel, Jordan, Iran, Taiwan, Cambodia, Colombia, Chile, Cuba, South Africa, Ethiopia, Tunisia, Georgia.
+
+## 2026-11-11: batch 6
+- Batch 6 (user: keep going): Denmark, Norway, Taiwan, Colombia (registered; DKK, NOK, TWD, COP). Plan when done: photos + check, install, commit + push.
+- Denmark: research agent running.
+- Denmark done: 28 dishes, 5 regions (Copenhagen 8, Zealand & Bornholm 5, Funen 5, Jutland 5, South Jutland 5). GI true 3 PGI cheeses: Esrom, Havarti, Danablu. Bornholm merged with Zealand (only 3 sourced dishes). Some da-wiki pages thin (bakskuld, solæg, surrib). Limfjord oysters link = species (drop photo). Validator OK.
+- Norway: research agent running.
+- Norway done: 35 dishes, 5 regions (Oslo & East 8, West 8, Trøndelag 6, North 7, South 6). GI true 12 (beskyttedebetegnelser.no): rakfisk (Valdres), kurv frå Valdres, fenalår, pinnekjøtt, gamalost frå Vik, Hardanger cider, sodd (Festsodd fra Trøndelag), skjenning, badsturøkt kjøtt, tørrfisk fra Lofoten. Tjukkmjølk GI set false by me (protection only covers organic Røros product). 12 dishes no wiki article. South thinnest. Validator OK.
+- Taiwan: research agent running.
+- Taiwan done: 40 dishes, 6 regions (Taipei 8, Northern Taiwan 8, Taichung & Central 6, Tainan 6, Kaohsiung & South 5, Yilan & East Coast 7). No GIs. Indigenous food thin (millet wine only; bamboo-tube rice etc. unsourced). Stinky tofu nonveg (brine with milk/meat/shrimp). Pronunciations agent-simplified from pinyin/POJ. Validator OK.
+- Colombia: research agent running (last of batch 6). First run stopped by an interrupt before writing; restarted, reusing its fetched pages.
+- Colombia done: 39 dishes, 5 regions (Bogotá & Andes 8, Antioquia & Coffee 7, Caribbean 8, Pacific & Valle 8, Southwest 8; Llanos dropped, ~3 dishes). GI true 3: bocadillo veleño, achiras del Huila, Café de Colombia (tinto). Viche GI set false by me (only one news article, not registry). Validator OK.
+- Photos batch 6: 120 new; 20 dropped via NO_PHOTO (live ant, butterwort plant on tjukkmjølk, painting on aquavit, other countries' versions: Czech wafer, Spanish natillas/buñuelos/lechona/empanadillas, Mexican tamales, Paraguayan mazamorra, Indonesian rice, Chilean chicha, etc.). 1,583 dishes with photos.
+- BATCH 6 DONE: 45 countries, 1,980 dishes. Installed on phone 2026-11-11.

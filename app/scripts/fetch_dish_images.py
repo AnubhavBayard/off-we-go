@@ -89,6 +89,11 @@ NO_PHOTO = {
     "lebanon-kibbet-samak", "lebanon-frakeh", "lebanon-mloukhiye-bzeit", "lebanon-kishk",
     "sweden-swedish-meatballs", "sweden-swedish-punsch", "sweden-bruna-bonor", "switzerland-birchermuesli",
     "switzerland-basler-mehlsuppe", "switzerland-polenta", "switzerland-risotto-ticinese",
+    "colombia-hormigas-culonas", "colombia-oblea", "colombia-mazamorra", "colombia-natilla",
+    "colombia-bunuelos", "colombia-arroz-con-coco", "colombia-sancocho-de-gallina", "colombia-empanadas",
+    "colombia-lulada", "colombia-lechona", "colombia-tamal-tolimense", "colombia-tamal-de-pipian",
+    "colombia-chicha", "denmark-limfjord-oysters", "denmark-aalborg-akvavit", "denmark-boghvedegrod",
+    "norway-kjottkaker", "norway-linie-aquavit", "norway-pinnekjott", "norway-tjukkmjolk",
 }
 out = {}
 for d in dishes:

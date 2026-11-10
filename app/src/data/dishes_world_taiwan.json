@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "taiwan-lu-rou-fan",
+    "name": "Lu rou fan (minced pork rice)",
+    "local_name": "滷肉飯",
+    "pronunciation": "loo-roh-FAHN",
+    "category": "meal",
+    "country": "Taiwan",
+    "state": "Taipei",
+    "regions": [],
+    "description": "Pork belly stir-fried with sliced shallots and then boiled in soy sauce, sometimes with sugar, rice wine and spices, served over steamed rice. The Tourism Administration ranks it among the top traditional Taiwanese dishes; in 2011 the Taipei City Government asked Michelin to correct a guide that said it came from Shandong. In southern Taiwan the minced version is usually called bah-sò-pn̄g (肉燥飯).",
+    "how_to_eat": null,
+    "how_to_order": "Sold at small eateries and night-market stalls across Taiwan; ask for khòng-bah-pn̄g if you want a whole slab of braised pork belly instead.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/L%C3%B3%CD%98-bah-pn%CC%84g",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/L%C3%B3%CD%98-bah-pn%CC%84g",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0024013"
+    ]
+  },
+  {
+    "id": "taiwan-gua-bao",
+    "name": "Gua bao (koah-pau)",
+    "local_name": "刈包",
+    "pronunciation": "gwah-BAO",
+    "category": "street_food",
+    "country": "Taiwan",
+    "state": "Taipei",
+    "regions": [],
+    "description": "Flat, folded steamed bun (lotus leaf bread) holding a slice of red-cooked pork belly with stir-fried pickled mustard greens, coriander and ground peanuts. It came to Taiwan with Fuzhou immigrants, is known colloquially as 'tiger bites pig', and was traditionally eaten at year-end employee dinners on the 16th day of the 12th lunar month.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at night markets throughout the year.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "soy",
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Koah-pau",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Koah-pau",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0024013"
+    ]
+  },
+  {
+    "id": "taiwan-stinky-tofu",
+    "name": "Stinky tofu",
+    "local_name": "臭豆腐",
+    "pronunciation": "choh-doh-FOO",
+    "category": "street_food",
+    "country": "Taiwan",
+    "state": "Taipei",
+    "regions": [
+      "Shenkeng"
+    ],
+    "description": "Tofu fermented or marinated in a strong-smelling brine, traditionally made with fermented milk, vegetables and meat and sometimes dried shrimp. In Taiwan it is most often deep-fried, cut into four pieces and served with pickled cabbage; steamed and charcoal-grilled versions also exist, and Shenkeng Old Street in New Taipei has a whole street of stinky tofu eateries.",
+    "how_to_eat": "Fried and steamed versions come with pickled cabbage, garlic sauce and chili sauce.",
+    "how_to_order": "Found at night-market stalls across Taiwan; Shenkeng Old Street is known for barbecued skewers.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy",
+      "dairy",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stinky_tofu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Stinky_tofu",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0024013",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-hujiao-bing",
+    "name": "Pepper bun (hujiao bing)",
+    "local_name": "胡椒餅",
+    "pronunciation": "hoo-jyow-BING",
+    "category": "street_food",
+    "country": "Taiwan",
+    "state": "Taipei",
+    "regions": [],
+    "description": "Baked bun of leavened dough filled with pork marinated in white or black pepper, soy sauce, sugar and cooking wine, plus a layer of green onion, topped with sesame seeds. It is baked against the wall of a cylindrical charcoal clay oven; Taiwanese vendors often sell it as 'Fuzhou pepper bun' and credit Fuzhou immigrants.",
+    "how_to_eat": "Eat it fresh from the oven, as the filling is juicy and hot.",
+    "how_to_order": "Sold at night markets and small food stalls throughout Taiwan.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "soy",
+      "sesame",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hujiao_bing",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hujiao_bing",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0024013"
+    ]
+  },
+  {
+    "id": "taiwan-oyster-vermicelli",
+    "name": "Oyster vermicelli",
+    "local_name": "蚵仔麵線",
+    "pronunciation": "oh-ah mee-SWAH",
+    "category": "street_food",
+    "country": "Taiwan",
+    "state": "Taipei",
+    "regions": [
+      "Dihua Street"
+    ],
+    "description": "Thickened soup of small starch-coated oysters and misua, a thin wheat vermicelli whose tan-brown colour comes from steaming. The dish originated in Taiwan; a common alternative replaces the oysters with pieces of pig's large intestine, and Dihua Street in Taipei's Dadaocheng is a well-known place to eat it.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at night markets and snack stalls; ask for the large-intestine version if you prefer it to oysters.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Oyster_vermicelli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Oyster_vermicelli",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0024013"
+    ]
+  },
+  {
+    "id": "taiwan-oyster-omelette",
+    "name": "Oyster omelette",
+    "local_name": "蚵仔煎",
+    "pronunciation": "oh-ah-CHEN",
+    "category": "street_food",
+    "country": "Taiwan",
+    "state": "Taipei",
+    "regions": [],
+    "description": "Pan-fried mix of small oysters, egg and leafy vegetables such as garland chrysanthemum, bound with a sweet potato or potato starch batter added near the end, often fried in lard. It is a dish of Southern Min origin and is sold at almost every night market in Taiwan.",
+    "how_to_eat": "Eaten with a sweet and mildly spicy sauce poured over the top.",
+    "how_to_order": "Most night-market stalls also offer shrimp, clam or egg-only versions.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish",
+      "egg",
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Oyster_omelette",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Oyster_omelette",
+      "https://zh.wikipedia.org/wiki/%E8%9A%B5%E4%BB%94%E7%85%8E",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0024013"
+    ]
+  },
+  {
+    "id": "taiwan-pineapple-cake",
+    "name": "Pineapple cake",
+    "local_name": "鳳梨酥",
+    "pronunciation": "fung-lee-SOO",
+    "category": "sweet",
+    "country": "Taiwan",
+    "state": "Taipei",
+    "regions": [],
+    "description": "Square pastry with a thin golden shell around a pineapple filling; some bakeries add winter melon, egg yolk or other fruit. It became one of Taiwan's top-selling souvenirs, and the Taipei City Government ran an annual Pineapple Cake Cultural Festival from 2005. Its Hokkien name sounds like a phrase for prosperity, so it is given as an engagement gift.",
+    "how_to_eat": null,
+    "how_to_order": "Sold boxed at bakeries and souvenir shops.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pineapple_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pineapple_cake",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0029014"
+    ]
+  },
+  {
+    "id": "taiwan-popcorn-chicken",
+    "name": "Taiwanese fried chicken (popcorn chicken)",
+    "local_name": "鹹酥雞",
+    "pronunciation": "shyen-soo-JEE",
+    "category": "street_food",
+    "country": "Taiwan",
+    "state": "Taipei",
+    "regions": [],
+    "description": "Bite-sized pieces of chicken leg or thigh marinated in soy sauce, sugar and garlic, coated in flour and fried, usually twice at different oil temperatures. It is seasoned with salt and pepper, with optional chili powder, fried basil leaves and garlic.",
+    "how_to_eat": null,
+    "how_to_order": "Vendors usually let you choose the spice level, mild to extra spicy.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Taiwanese_fried_chicken",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Taiwanese_fried_chicken",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0024013"
+    ]
+  },
+  {
+    "id": "taiwan-a-gei",
+    "name": "A-gei (Tamsui ageh)",
+    "local_name": "淡水阿給",
+    "pronunciation": "ah-GEH",
+    "category": "street_food",
+    "country": "Taiwan",
+    "state": "Northern Taiwan",
+    "regions": [
+      "Tamsui"
+    ],
+    "description": "Fried tofu packet emptied and stuffed with cellophane noodles cooked in stewed ground pork, sealed with surimi (fish paste) and steamed. It was reportedly created in 1965 by a food-stall owner in Tamsui; the name comes from the Japanese aburaage.",
+    "how_to_eat": "Served with a soy-based or sweet chili sauce, often with fish ball soup.",
+    "how_to_order": "Sold by vendors around Tamsui District, New Taipei.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy",
+      "fish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ageh_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ageh_(food)",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-iron-egg",
+    "name": "Iron egg",
+    "local_name": "鐵蛋",
+    "pronunciation": "tyeh-DAHN",
+    "category": "snack",
+    "country": "Taiwan",
+    "state": "Northern Taiwan",
+    "regions": [
+      "Tamsui"
+    ],
+    "description": "Chicken, pigeon or quail eggs repeatedly stewed in soy sauce and spices and then air-dried until dark brown, shrunken and chewy. They are credited to Tamsui, where shopkeeper Yang Bi-yun opened the first iron egg shop in 1980.",
+    "how_to_eat": null,
+    "how_to_order": "Sold packaged in Tamsui shops; quail eggs are the most popular.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Iron_egg",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Iron_egg",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-jiufen-taro-balls",
+    "name": "Taro balls",
+    "local_name": "芋圓",
+    "pronunciation": "oh-EEN",
+    "category": "sweet",
+    "country": "Taiwan",
+    "state": "Northern Taiwan",
+    "regions": [
+      "Jiufen"
+    ],
+    "description": "Chewy balls made from mashed taro mixed with water and sweet potato or potato flour; sweet potato and mung bean versions are also made. They are sold across Taiwan, and Jiufen's taro balls are said to be the best known.",
+    "how_to_eat": "Served in syrup, iced or hot, or as a topping on douhua or shaved ice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Taro_ball",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Taro_ball",
+      "https://zh.wikipedia.org/wiki/%E8%8A%8B%E5%9C%93"
+    ]
+  },
+  {
+    "id": "taiwan-hsinchu-pork-balls",
+    "name": "Hsinchu pork balls (gongwan)",
+    "local_name": "貢丸",
+    "pronunciation": "gong-WAHN",
+    "category": "meal",
+    "country": "Taiwan",
+    "state": "Northern Taiwan",
+    "regions": [
+      "Hsinchu"
+    ],
+    "description": "Meatballs of pounded pork and starch, sometimes with cuttlefish, with a firm, springy texture; the name comes from the pestle used to pound the meat. Hsinchu, where they originated, holds an annual festival for them.",
+    "how_to_eat": "Most often eaten in a clear soup topped with coriander and green onions.",
+    "how_to_order": "Sold in Hsinchu eateries and as packaged souvenirs.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pork_ball",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pork_ball",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0029014",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-hsinchu-rice-noodles",
+    "name": "Hsinchu rice noodles",
+    "local_name": "新竹米粉",
+    "pronunciation": "sin-tik bee-HOON",
+    "category": "meal",
+    "country": "Taiwan",
+    "state": "Northern Taiwan",
+    "regions": [
+      "Hsinchu"
+    ],
+    "description": "Thin noodles steamed and then air-dried in Hsinchu's strong autumn monsoon wind, a method brought from Fujian in the Qing era; many now contain more corn starch than rice. They are commonly stir-fried and topped with soy-sauce meat gravy, eaten dry with mushroom and ground pork, or served in pork ball soup.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://zh.wikipedia.org/wiki/%E6%96%B0%E7%AB%B9%E7%B1%B3%E7%B2%89",
+    "source_urls": [
+      "https://zh.wikipedia.org/wiki/%E6%96%B0%E7%AB%B9%E7%B1%B3%E7%B2%89",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0029014",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-dingbiancuo",
+    "name": "Dingbiancuo (pot-side scrapings soup)",
+    "local_name": "鼎邊趖",
+    "pronunciation": "tyah-pin-SOH",
+    "category": "meal",
+    "country": "Taiwan",
+    "state": "Northern Taiwan",
+    "regions": [
+      "Keelung"
+    ],
+    "description": "Rice batter poured around the hot rim of a large pot, where it sets in the steam, then torn into pieces and cooked in thick shrimp or pork soup with ingredients such as squid, bamboo shoots, cabbage and fried garlic. It came from Fuzhou; in Taiwan the versions at Keelung Miaokou night market, Taipei and Tainan are best known.",
+    "how_to_eat": null,
+    "how_to_order": "Look for it at Keelung Miaokou night market.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://zh.wikipedia.org/wiki/%E9%BC%8E%E9%82%8A%E8%B6%96",
+    "source_urls": [
+      "https://zh.wikipedia.org/wiki/%E9%BC%8E%E9%82%8A%E8%B6%96",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0024013",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0002040"
+    ]
+  },
+  {
+    "id": "taiwan-daxi-dried-tofu",
+    "name": "Daxi dried tofu",
+    "local_name": "大溪豆干",
+    "pronunciation": "tai-keh tow-KWAH",
+    "category": "snack",
+    "country": "Taiwan",
+    "state": "Northern Taiwan",
+    "regions": [
+      "Daxi"
+    ],
+    "description": "Firm black dried tofu from Daxi in Taoyuan, braised in a salty, sweet soy-based sauce and coloured with caramelised brown sugar, giving a thick dark skin and a dense texture. It dates to the 1920s, when a local maker darkened tofu so it would keep, and became popular with coal miners.",
+    "how_to_eat": null,
+    "how_to_order": "Sold by old Daxi tofu makers and shops in the town.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%BA%AA%E8%B1%86%E5%B9%B2",
+    "source_urls": [
+      "https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%BA%AA%E8%B1%86%E5%B9%B2",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-oriental-beauty-tea",
+    "name": "Oriental Beauty tea",
+    "local_name": "東方美人茶",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Taiwan",
+    "state": "Northern Taiwan",
+    "regions": [
+      "Hsinchu",
+      "Miaoli"
+    ],
+    "description": "Heavily oxidised oolong made from leaves bitten by the tea green leafhopper, which gives it honey and ripe-fruit aromas; gardens cannot spray pesticide or the insects will not come. It is grown mainly in Hsinchu and Miaoli, picked in June and July, and was originally called 膨風 ('boasting') tea.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://zh.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9%E7%BE%8E%E4%BA%BA%E8%8C%B6",
+    "source_urls": [
+      "https://zh.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9%E7%BE%8E%E4%BA%BA%E8%8C%B6",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0029014"
+    ]
+  },
+  {
+    "id": "taiwan-bubble-tea",
+    "name": "Bubble tea (pearl milk tea)",
+    "local_name": "珍珠奶茶",
+    "pronunciation": "jen-joo nai-CHAH",
+    "category": "drink",
+    "country": "Taiwan",
+    "state": "Taichung & Central",
+    "regions": [
+      "Taichung",
+      "Tainan"
+    ],
+    "description": "Tea drink, usually black or green tea with milk and sugar, with chewy tapioca pearls at the bottom. Chun Shui Tang in Taichung and Hanlin Tea Room in Tainan both claim to have invented it in the 1980s; Taiwan declared 30 April National Bubble Tea Day in 2020.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bubble_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bubble_tea",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-suncake",
+    "name": "Suncake",
+    "local_name": "太陽餅",
+    "pronunciation": "tai-yahng BING",
+    "category": "sweet",
+    "country": "Taiwan",
+    "state": "Taichung & Central",
+    "regions": [
+      "Taichung"
+    ],
+    "description": "Flat, round, flaky pastry about the size of a palm, filled with maltose. It developed in Taichung, where baker Wei Ching-hai improved an older malt cake; it is a common souvenir from central Taiwan.",
+    "how_to_eat": "Eaten with tea, or dipped or dissolved in hot soy milk or water to soften it.",
+    "how_to_order": "Sold boxed at Taichung bakeries.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Suncake_(Taiwan)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Suncake_(Taiwan)",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0029014",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-ba-wan",
+    "name": "Ba-wan (Taiwanese meatball)",
+    "local_name": "肉圓",
+    "pronunciation": "bah-WAHN",
+    "category": "street_food",
+    "country": "Taiwan",
+    "state": "Taichung & Central",
+    "regions": [
+      "Changhua",
+      "Hsinchu"
+    ],
+    "description": "Translucent disc of sweet potato starch, rice flour and corn starch dough filled with pork, bamboo shoots and shiitake mushrooms. It is believed to have been created in Beidou, Changhua, as flood-relief food in 1898; the Changhua style is regarded as the standard.",
+    "how_to_eat": "Served with a sweet and savoury sauce.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bah-u%C3%A2n",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bah-u%C3%A2n",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0024013",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-chiayi-turkey-rice",
+    "name": "Chiayi turkey rice",
+    "local_name": "嘉義火雞肉飯",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Taiwan",
+    "state": "Taichung & Central",
+    "regions": [
+      "Chiayi"
+    ],
+    "description": "Bowl of rice topped with shredded turkey and a sauce of turkey drippings, soy sauce and shallot-fried lard, often with crispy shallots and pickled yellow radish. It dates from after the Second World War, when turkeys brought by US troops were bred in central Taiwan as a cheaper meat than chicken.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chiayi_turkey_rice",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chiayi_turkey_rice",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0002040"
+    ]
+  },
+  {
+    "id": "taiwan-dong-ding-oolong",
+    "name": "Dong Ding oolong tea",
+    "local_name": "凍頂烏龍茶",
+    "pronunciation": "dong-DING",
+    "category": "drink",
+    "country": "Taiwan",
+    "state": "Taichung & Central",
+    "regions": [
+      "Lugu",
+      "Nantou"
+    ],
+    "description": "Oolong tea from Lugu Township in Nantou County, made mainly from the Qingxin oolong cultivar on slopes at 600 to 1,200 metres. It is counted among Taiwan's ten famous teas; plants are said to have been brought from Fujian's Wuyi Mountains around 1855.",
+    "how_to_eat": null,
+    "how_to_order": "Check the label for growing area, since the name is also used for tea grown elsewhere in Taiwan.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dong_Ding_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dong_Ding_tea",
+      "https://zh.wikipedia.org/wiki/%E5%87%8D%E9%A0%82%E7%83%8F%E9%BE%8D%E8%8C%B6",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0029014"
+    ]
+  },
+  {
+    "id": "taiwan-ox-tongue-biscuit",
+    "name": "Ox tongue biscuit",
+    "local_name": "牛舌餅",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Taiwan",
+    "state": "Taichung & Central",
+    "regions": [
+      "Lukang",
+      "Yilan"
+    ],
+    "description": "Oval biscuit named for its tongue-like shape, made in two distinct styles: Lukang's is thick, flaky and filled with malt sugar, baked or fried, while Yilan's is long, thin and crisp. It was traditionally hung on babies at four months old.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://zh.wikipedia.org/wiki/%E7%89%9B%E8%88%8C%E9%A4%85_(%E5%8F%B0%E7%81%A3%E5%B0%8F%E5%90%83)",
+    "source_urls": [
+      "https://zh.wikipedia.org/wiki/%E7%89%9B%E8%88%8C%E9%A4%85_(%E5%8F%B0%E7%81%A3%E5%B0%8F%E5%90%83)",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0029014"
+    ]
+  },
+  {
+    "id": "taiwan-danzai-noodles",
+    "name": "Danzai noodles (ta-a mi)",
+    "local_name": "擔仔麵",
+    "pronunciation": "dahn-dzai-MYEN",
+    "category": "meal",
+    "country": "Taiwan",
+    "state": "Tainan",
+    "regions": [],
+    "description": "Small bowl of yellow oil noodles with bean sprouts in a shrimp-flavoured soup, topped with minced pork, shrimp, coriander and garlic, and often a soy-braised egg. It began around 1895, when Tainan fisherman Hong Yutou sold noodles from a shoulder pole during the typhoon 'slack season', hence the name 'slack season noodles'.",
+    "how_to_eat": null,
+    "how_to_order": "Portions are small, so it is eaten as a snack.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "shellfish",
+      "soy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/T%C3%A0%E2%81%BF-%C3%A1-m%C4%AB",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/T%C3%A0%E2%81%BF-%C3%A1-m%C4%AB",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0024013",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-milkfish-congee",
+    "name": "Milkfish belly congee",
+    "local_name": "虱目魚肚粥",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Taiwan",
+    "state": "Tainan",
+    "regions": [],
+    "description": "Congee cooked in a broth made from milkfish bones and topped with milkfish belly, pepper and chopped spring onion. It originated in Tainan and is a breakfast dish; processors remove the fish's many small bones, so it is also sold as boneless milkfish belly congee.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Milkfish_congee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Milkfish_congee",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-coffin-bread",
+    "name": "Coffin bread",
+    "local_name": "棺材板",
+    "pronunciation": "gwahn-tsai-BAHN",
+    "category": "street_food",
+    "country": "Taiwan",
+    "state": "Tainan",
+    "regions": [],
+    "description": "Thick slice of white bread hollowed out, deep-fried or toasted, filled with a creamy stew of chicken, liver, shrimp, carrot, potato and milk, and closed with a bread lid. It has been sold in Tainan since at least the 1940s and is credited to Hsu Liu-yi of Kangle Market.",
+    "how_to_eat": "Best eaten hot.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "shellfish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Coffin_bread",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Coffin_bread",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0024013",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-eel-noodles",
+    "name": "Eel noodles",
+    "local_name": "鱔魚意麵",
+    "pronunciation": "shahn-yoo ee-MYEN",
+    "category": "meal",
+    "country": "Taiwan",
+    "state": "Tainan",
+    "regions": [],
+    "description": "Thick, chewy egg noodles with rice eel or finless eel in a brown sweet-and-sour sauce or thickened soup. The dish originated in Tainan and is now sold in restaurants and night markets across Taiwan.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eel_noodles",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Eel_noodles",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-tainan-beef-soup",
+    "name": "Tainan beef soup",
+    "local_name": "臺南牛肉湯",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Taiwan",
+    "state": "Tainan",
+    "regions": [],
+    "description": "Thin slices of fresh, never-frozen local beef, slaughtered the same morning, cooked to medium in hot broth made from beef bones. It is common in Tainan because of nearby cattle markets in Shanhua and Yanshui, and is rare elsewhere.",
+    "how_to_eat": "Eaten with white rice or minced pork rice.",
+    "how_to_order": "Many shops open around 5 am and close on Mondays and Tuesdays, when no cattle are slaughtered.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://zh.wikipedia.org/wiki/%E7%89%9B%E8%82%89%E6%B9%AF",
+    "source_urls": [
+      "https://zh.wikipedia.org/wiki/%E7%89%9B%E8%82%89%E6%B9%AF"
+    ]
+  },
+  {
+    "id": "taiwan-fried-chicken-cutlet",
+    "name": "Fried chicken cutlet",
+    "local_name": "炸雞排",
+    "pronunciation": "jah jee-PIE",
+    "category": "street_food",
+    "country": "Taiwan",
+    "state": "Tainan",
+    "regions": [],
+    "description": "Chicken breast pounded flat, marinated in soy sauce, oyster sauce, garlic, white pepper, sugar and five-spice, coated in egg and starch batter and sweet potato or rice flour, then fried and seasoned. It traces back to Tainan street vendors adapting American fried chicken in the late 20th century and became widespread in the 1990s.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at night markets; vendors offer spicy and other seasonings.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy",
+      "gluten",
+      "egg",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Taiwanese_fried_chicken_cutlet",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Taiwanese_fried_chicken_cutlet",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0024013"
+    ]
+  },
+  {
+    "id": "taiwan-beef-noodle-soup",
+    "name": "Taiwanese beef noodle soup",
+    "local_name": "臺灣牛肉麵",
+    "pronunciation": "nyoh-roh-MYEN",
+    "category": "meal",
+    "country": "Taiwan",
+    "state": "Kaohsiung & South",
+    "regions": [
+      "Kaohsiung",
+      "Taipei"
+    ],
+    "description": "Noodles in a beef broth made by stir-frying spicy bean paste and then simmering beef in it, often for hours; tomato, garlic and herbal versions also exist. It was created by Kuomintang veterans from Sichuan in Kaohsiung's military dependents' villages and is sometimes called Taiwan's national dish; Taipei holds an annual Beef Noodle Festival.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Taiwanese_beef_noodle_soup",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Taiwanese_beef_noodle_soup",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0024013",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0002040"
+    ]
+  },
+  {
+    "id": "taiwan-wanluan-pork-knuckle",
+    "name": "Wanluan pork knuckle",
+    "local_name": "萬巒豬腳",
+    "pronunciation": "wahn-lwahn joo-JYOW",
+    "category": "meal",
+    "country": "Taiwan",
+    "state": "Kaohsiung & South",
+    "regions": [
+      "Wanluan",
+      "Pingtung"
+    ],
+    "description": "Foreleg pork knuckle braised in soy sauce and simmered in a broth with many spices and medicinal herbs, including star anise and cinnamon. It is a signature dish of the Liudui Hakka community in Pingtung and is often served on birthdays as a symbol of good luck and long life.",
+    "how_to_eat": "Eaten hot or cold.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wanluan_pork_knuckle",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wanluan_pork_knuckle",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0029014"
+    ]
+  },
+  {
+    "id": "taiwan-meinong-ban-tiao",
+    "name": "Meinong ban tiao (Hakka flat rice noodles)",
+    "local_name": "美濃粄條",
+    "pronunciation": "bahn-TYOW",
+    "category": "meal",
+    "country": "Taiwan",
+    "state": "Kaohsiung & South",
+    "regions": [
+      "Meinong"
+    ],
+    "description": "Hakka noodles made by steaming a thin layer of rice batter in a flat tray and cutting it into strips; lard is usually used when cooking them. They are a listed specialty of Meinong District, Kaohsiung, where southern Hakka villages call them 'face-towel ban' after their shape.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://zh.wikipedia.org/wiki/%E7%B2%84%E6%A2%9D",
+    "source_urls": [
+      "https://zh.wikipedia.org/wiki/%E7%B2%84%E6%A2%9D",
+      "https://zh.wikipedia.org/wiki/%E7%BE%8E%E6%BF%83%E5%8D%80"
+    ]
+  },
+  {
+    "id": "taiwan-papaya-milk",
+    "name": "Papaya milk",
+    "local_name": "木瓜牛乳",
+    "pronunciation": "moo-gwah nyoh-ROO",
+    "category": "drink",
+    "country": "Taiwan",
+    "state": "Kaohsiung & South",
+    "regions": [
+      "Kaohsiung"
+    ],
+    "description": "Drink of fresh papaya blended with milk, with a creamy, slightly sweet taste and light orange colour. It became popular in the 1970s, and the Tourism Administration lists it as a main feature of Kaohsiung's Liuhe Night Market.",
+    "how_to_eat": null,
+    "how_to_order": "Blended to order at night-market fruit stalls.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Papaya_milk",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Papaya_milk",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0002040",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-lei-cha",
+    "name": "Lei cha (Hakka ground tea)",
+    "local_name": "擂茶",
+    "pronunciation": "lay-CHAH",
+    "category": "drink",
+    "country": "Taiwan",
+    "state": "Kaohsiung & South",
+    "regions": [
+      "Meinong",
+      "Beipu",
+      "Nanzhuang"
+    ],
+    "description": "Hakka drink of tea leaves ground with roasted nuts, seeds and grains such as peanuts, sesame and mung beans, then stirred with hot water into a thin, soup-like drink. The Tourism Administration names Meinong (Kaohsiung), Beipu (Hsinchu) and Nanzhuang (Miaoli) as places for the traditional style.",
+    "how_to_eat": "Often served with puffed rice on top.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "peanuts",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lei_cha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lei_cha",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0029014"
+    ]
+  },
+  {
+    "id": "taiwan-peanut-ice-cream-roll",
+    "name": "Peanut ice cream roll",
+    "local_name": "花生捲冰淇淋",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Taiwan",
+    "state": "Yilan & East Coast",
+    "regions": [
+      "Yilan"
+    ],
+    "description": "Thin wheat crepe filled with shaved peanut brittle, scoops of ice cream and fresh coriander, folded like a burrito. It originated in Yilan County and is sold at night markets and temple fairs; vegan versions use taro or tapioca-based ice cream.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "peanuts",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peanut_ice_cream_roll",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Peanut_ice_cream_roll",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-gao-zha",
+    "name": "Gao zha (fried stock cubes)",
+    "local_name": "糕渣",
+    "pronunciation": "koh-TSAH",
+    "category": "snack",
+    "country": "Taiwan",
+    "state": "Yilan & East Coast",
+    "regions": [
+      "Yilan",
+      "Luodong"
+    ],
+    "description": "Chicken stock thickened with a paste of minced pork loin, shrimp, corn starch and flour, set into a jelly, cut into blocks, coated in starch and deep-fried. A well-known Yilan snack once served at state banquets, it is crisp outside with a hot liquid centre.",
+    "how_to_eat": "Eat it in small bites, as the inside is very hot.",
+    "how_to_order": "Sold at Yilan night markets such as Luodong.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://zh.wikipedia.org/wiki/%E7%B3%95%E6%B8%A3",
+    "source_urls": [
+      "https://zh.wikipedia.org/wiki/%E7%B3%95%E6%B8%A3"
+    ]
+  },
+  {
+    "id": "taiwan-xi-lu-rou",
+    "name": "Xi lu rou (Yilan thick soup)",
+    "local_name": "西魯肉",
+    "pronunciation": "seh-loh-BAH",
+    "category": "meal",
+    "country": "Taiwan",
+    "state": "Yilan & East Coast",
+    "regions": [
+      "Yilan"
+    ],
+    "description": "Thick soup of shredded pork, dried shrimp, shiitake, carrot and bamboo shoots poured over napa cabbage and fried egg. In Yilan it is a traditional dish for the New Year's Eve family dinner.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E9%AD%AF%E8%82%89",
+    "source_urls": [
+      "https://zh.wikipedia.org/wiki/%E8%A5%BF%E9%AD%AF%E8%82%89",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-yilan-smoked-duck",
+    "name": "Yilan smoked duck (ya shang)",
+    "local_name": "鴨賞",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Taiwan",
+    "state": "Yilan & East Coast",
+    "regions": [
+      "Yilan",
+      "Luodong"
+    ],
+    "description": "Whole duck hung in a special kiln and smoked over a sugarcane fire until cooked. It is regarded as the first of Yilan's 'four treasures' and is eaten as is or used as an ingredient.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at Luodong night market.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://zh.wikipedia.org/wiki/%E9%B4%A8%E8%B3%9E",
+    "source_urls": [
+      "https://zh.wikipedia.org/wiki/%E9%B4%A8%E8%B3%9E",
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0002040"
+    ]
+  },
+  {
+    "id": "taiwan-hualien-mochi",
+    "name": "Hualien mochi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Taiwan",
+    "state": "Yilan & East Coast",
+    "regions": [
+      "Hualien"
+    ],
+    "description": "Soft glutinous rice cake; the Hakka version made popular in Hualien is made by hand-grinding glutinous rice, pressing it dry and kneading it repeatedly into a dense, chewy dough around a filling. Mochi is also part of Indigenous food culture; the Amis 'dulun' is a corn-based version without filling.",
+    "how_to_eat": null,
+    "how_to_order": "Sold as a Hualien souvenir.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://eng.taiwan.net.tw/m1.aspx?sNo=0029014",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-millet-wine",
+    "name": "Millet wine",
+    "local_name": "小米酒",
+    "pronunciation": "shyow-mee JYOH",
+    "category": "drink",
+    "country": "Taiwan",
+    "state": "Yilan & East Coast",
+    "regions": [
+      "Hualien",
+      "Taitung"
+    ],
+    "description": "Wine fermented from steamed millet, brewer's yeast and water, the oldest wine in Taiwan and a traditional drink of the Indigenous peoples, used in harvest festivals and rituals. Each group has its own name and drinking rites; the Puyuma of Taitung take fresh millet wine to the beach to give thanks for the harvest.",
+    "how_to_eat": null,
+    "how_to_order": "Offered at Indigenous food stalls such as those on Indigenous People's Street at Hualien's Dongdamen Night Market.",
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Millet_wine",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Millet_wine",
+      "https://travelintaiwan.net/?p=9019",
+      "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
+    ]
+  },
+  {
+    "id": "taiwan-chishang-bento",
+    "name": "Chishang bento",
+    "local_name": "池上便當",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Taiwan",
+    "state": "Yilan & East Coast",
+    "regions": [
+      "Chishang",
+      "Taitung"
+    ],
+    "description": "Railway lunch box from Chishang in Taitung County, traditionally packed in a thin wooden box with Chishang rice, fried salted pork, braised pork, battered fried pork strips, sausage, braised egg, pickled radish, cabbage and bonito floss. After the Second World War it began as rice balls wrapped in shell ginger leaves, sold at Chishang station and later on trains.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TWD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "fish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://zh.wikipedia.org/wiki/%E6%B1%A0%E4%B8%8A%E9%A3%AF%E5%8C%85",
+    "source_urls": [
+      "https://zh.wikipedia.org/wiki/%E6%B1%A0%E4%B8%8A%E9%A3%AF%E5%8C%85"
+    ]
+  }
+]

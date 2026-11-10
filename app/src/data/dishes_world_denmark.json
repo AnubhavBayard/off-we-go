@@ -1,0 +1,872 @@
+[
+  {
+    "id": "denmark-smorrebrod",
+    "name": "Smørrebrød",
+    "local_name": null,
+    "pronunciation": "SMUR-ah-brurth",
+    "category": "meal",
+    "country": "Denmark",
+    "state": "Copenhagen",
+    "regions": [
+      "Copenhagen"
+    ],
+    "description": "Open sandwich of buttered rugbrød (dense, dark sourdough rye bread) topped with cold cuts, meat or fish, cheese or spreads and garnishes; classic toppings include pickled herring, liver pâté, roast beef with remoulade and roast pork with red cabbage. The elaborate, high-piled version was developed in the 1880s at Copenhagen restaurants such as Oskar Davidsen, while simpler pieces are the usual Danish lunch.",
+    "how_to_eat": "Usually eaten with knife and fork; at festive meals fish toppings come first, then meats and salads, then cheese.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "fish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sm%C3%B8rrebr%C3%B8d",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sm%C3%B8rrebr%C3%B8d",
+      "https://en.wikipedia.org/wiki/Danish_cuisine",
+      "https://da.wikipedia.org/wiki/Det_danske_k%C3%B8kken"
+    ]
+  },
+  {
+    "id": "denmark-stjerneskud",
+    "name": "Stjerneskud",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Denmark",
+    "state": "Copenhagen",
+    "regions": [
+      "Copenhagen"
+    ],
+    "description": "Smørrebrød on buttered white or toasted bread topped with one steamed and one fried, breaded plaice fillet, piled with shrimp and garnished with mayonnaise, roe or caviar and lemon. The name means \"shooting star\"; it is said to have been created by Ida Davidsen when cosmonaut Yuri Gagarin visited Copenhagen in 1962.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "fish",
+      "shellfish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://da.wikipedia.org/wiki/Stjerneskud_(sm%C3%B8rrebr%C3%B8d)",
+    "source_urls": [
+      "https://da.wikipedia.org/wiki/Stjerneskud_(sm%C3%B8rrebr%C3%B8d)",
+      "https://en.wikipedia.org/wiki/Sm%C3%B8rrebr%C3%B8d",
+      "https://en.wikipedia.org/wiki/Danish_cuisine"
+    ]
+  },
+  {
+    "id": "denmark-stegt-flaesk",
+    "name": "Fried pork belly with parsley sauce",
+    "local_name": "Stegt flæsk med persillesovs",
+    "pronunciation": "STEKT FLESK",
+    "category": "meal",
+    "country": "Denmark",
+    "state": "Copenhagen",
+    "regions": [],
+    "description": "Strips of pork belly about 1/4 inch thick, lightly salted but not smoked, fried crisp and served with boiled potatoes and persillesovs, a roux-thickened white sauce with parsley. It is described as the national dish of Denmark; a custom has grown of eating it on election nights as a pun on valgflæsk (\"election pork\").",
+    "how_to_eat": "Served with boiled potatoes and parsley sauce, sometimes with apple compote.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stegt_fl%C3%A6sk",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Stegt_fl%C3%A6sk",
+      "https://da.wikipedia.org/wiki/Persillesovs"
+    ]
+  },
+  {
+    "id": "denmark-flaeskesteg",
+    "name": "Danish roast pork",
+    "local_name": "Flæskesteg",
+    "pronunciation": "FLES-keh-sty",
+    "category": "meal",
+    "country": "Denmark",
+    "state": "Copenhagen",
+    "regions": [],
+    "description": "Joint of pork breast or neck roasted with its rind scored, salted and studded with bay leaves for crisp crackling. It is one of Denmark's principal national dishes and the traditional main course of the Christmas Eve dinner.",
+    "how_to_eat": "Served with boiled potatoes, caramelised potatoes (brunede kartofler) and red cabbage; also eaten cold on rye bread as smørrebrød.",
+    "how_to_order": "Hot flæskesteg sandwiches in a bun are sold at many Danish hot dog stands.",
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fl%C3%A6skesteg",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fl%C3%A6skesteg",
+      "https://en.wikipedia.org/wiki/Stegt_fl%C3%A6sk"
+    ]
+  },
+  {
+    "id": "denmark-frikadeller",
+    "name": "Frikadeller",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Denmark",
+    "state": "Copenhagen",
+    "regions": [],
+    "description": "Flattened, pan-fried meatballs made in Denmark from a blend of two ground meats (veal, pork or beef) mixed with onion, egg, milk or water, breadcrumbs, oatmeal or flour, salt and pepper. They became widespread with meat grinders during the industrial revolution; a fish version, fiskefrikadeller, is usually made with cod.",
+    "how_to_eat": "Eaten hot with boiled potatoes, brown sauce and pickled beetroot or red cabbage, or cold on rye bread or with potato salad.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Frikadelle",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Frikadelle",
+      "https://en.wikipedia.org/wiki/Danish_cuisine"
+    ]
+  },
+  {
+    "id": "denmark-rod-polse",
+    "name": "Danish red sausage",
+    "local_name": "Rød pølse",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Denmark",
+    "state": "Copenhagen",
+    "regions": [],
+    "description": "Boiled pork sausage of the Vienna type, about 20 cm long, with a skin dyed bright red. It is the classic offering of the pølsevogn (sausage wagon), described as Denmark's original street food outlet, and some regard it as a national dish.",
+    "how_to_eat": "Traditionally eaten from a paper plate with an uncut bread roll on the side, alternating bites of bread and sausage dipped in ketchup, remoulade and hot mustard.",
+    "how_to_order": "Order at a pølsevogn; ask for a \"hot dog\" to get it in a bun with remoulade, mustard, ketchup, raw and fried onions and pickles.",
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "mustard",
+      "dairy",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%B8d_p%C3%B8lse",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/R%C3%B8d_p%C3%B8lse",
+      "https://en.wikipedia.org/wiki/Danish_cuisine"
+    ]
+  },
+  {
+    "id": "denmark-danish-pastry",
+    "name": "Danish pastry",
+    "local_name": "Wienerbrød",
+    "pronunciation": "VEE-ner-brurth",
+    "category": "sweet",
+    "country": "Denmark",
+    "state": "Copenhagen",
+    "regions": [
+      "Copenhagen"
+    ],
+    "description": "Laminated yeast dough of wheat flour, milk, eggs, sugar and a large amount of butter, folded and rolled to create many layers. Its origin is often linked to Austrian bakers hired during an 1850 bakery strike in Denmark, hence the Danish name meaning \"Viennese bread\"; in Austria it is called Kopenhagener. Danish shapes include spandauers, snails, kringles and the sesame-topped frøsnapper, filled with remonce, custard, marzipan or jam.",
+    "how_to_eat": "Eaten at breakfast on Sundays and festive occasions.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Danish_pastry",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Danish_pastry",
+      "https://en.wikipedia.org/wiki/Danish_cuisine"
+    ]
+  },
+  {
+    "id": "denmark-kransekage",
+    "name": "Kransekage",
+    "local_name": null,
+    "pronunciation": "KRAN-seh-kay-yeh",
+    "category": "sweet",
+    "country": "Denmark",
+    "state": "Copenhagen",
+    "regions": [
+      "Copenhagen"
+    ],
+    "description": "Tower of concentric rings, often 18 or more, made of almonds, sugar and egg whites and stuck together with white icing; it is firm outside and chewy inside. It is traced to an 18th-century Copenhagen baker and is eaten in Denmark at New Year, weddings and anniversaries.",
+    "how_to_eat": "Rings are broken into pieces; on New Year's Eve it is served at midnight with champagne.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kransekage",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kransekage",
+      "https://en.wikipedia.org/wiki/Danish_cuisine",
+      "https://da.wikipedia.org/wiki/Det_danske_k%C3%B8kken"
+    ]
+  },
+  {
+    "id": "denmark-esrom",
+    "name": "Esrom cheese",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Denmark",
+    "state": "Zealand & Bornholm",
+    "regions": [
+      "North Zealand"
+    ],
+    "description": "Pale yellow, semi-soft Trappist-style cow's milk cheese with small holes, a pungent aroma and a sweet, buttery taste, ripened for 10-12 weeks. It is named after Esrum Abbey in North Zealand, where it was made before the Reformation, and is a protected geographical indication (PGI) of the EU.",
+    "how_to_eat": "Used as a table or melting cheese, in sandwiches and casseroles.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Esrom",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Esrom",
+      "https://da.wikipedia.org/wiki/Esrom_(ost)",
+      "https://en.foedevarestyrelsen.dk/Media/638866301580759241/Geografiske_betegnelser_Engelsk.pdf"
+    ]
+  },
+  {
+    "id": "denmark-havarti",
+    "name": "Havarti",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Denmark",
+    "state": "Zealand & Bornholm",
+    "regions": [
+      "Holte"
+    ],
+    "description": "Semi-soft, washed-curd Danish cow's milk cheese with small irregular eyes and a buttery, slightly acidic taste, typically aged about three months. It was earlier called Danish Tilsiter and was named in 1952 after Havarthigården near Holte, where cheese pioneer Hanne Nielsen worked; it received EU PGI protection in 2019.",
+    "how_to_eat": "Sliced, grilled or melted.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Havarti",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Havarti",
+      "https://da.wikipedia.org/wiki/Havarti",
+      "https://en.foedevarestyrelsen.dk/Media/638866301580759241/Geografiske_betegnelser_Engelsk.pdf"
+    ]
+  },
+  {
+    "id": "denmark-sol-over-gudhjem",
+    "name": "Sol over Gudhjem",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Denmark",
+    "state": "Zealand & Bornholm",
+    "regions": [
+      "Bornholm",
+      "Gudhjem"
+    ],
+    "description": "Open sandwich of rye bread with smoked herring, chives or onion, radish and a raw egg yolk, the \"sun\" of the name (\"sun over Gudhjem\"). It is named after Gudhjem on Bornholm, though Danish Wikipedia credits the Copenhagen smørrebrød house Oskar Davidsen; chefs compete to make it each summer at Gudhjem harbour.",
+    "how_to_eat": null,
+    "how_to_order": "Served at Bornholm's smokehouses and many other places on the island.",
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "fish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sol_over_Gudhjem",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sol_over_Gudhjem",
+      "https://da.wikipedia.org/wiki/Sol_over_Gudhjem",
+      "https://www.visitdenmark.com/denmark/destinations/bornholm/island-culinary-heroes",
+      "https://bornholm.info/en/bornholm-smokehouses/"
+    ]
+  },
+  {
+    "id": "denmark-bornholm-smoked-herring",
+    "name": "Bornholm smoked herring",
+    "local_name": "Bornholmer",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Denmark",
+    "state": "Zealand & Bornholm",
+    "regions": [
+      "Bornholm",
+      "Gudhjem",
+      "Svaneke"
+    ],
+    "description": "Herring hung on grills or spits in tall open chimneys over alder wood, first dried over open flames for about two hours and then smoked for about two more, giving a golden fish. The first smokehouse opened in Gudhjem in 1866, and about ten traditional smokehouses still operate on Bornholm.",
+    "how_to_eat": null,
+    "how_to_order": "Bought or eaten at the cafés and shops attached to smokehouses, most of which open from Easter to the autumn half-term.",
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://bornholm.info/en/bornholm-smokehouses/",
+      "https://da.wikipedia.org/wiki/Bornholm",
+      "https://www.visitdenmark.com/denmark/destinations/bornholm/island-culinary-heroes"
+    ]
+  },
+  {
+    "id": "denmark-honningsyp",
+    "name": "Honningsyp",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Denmark",
+    "state": "Zealand & Bornholm",
+    "regions": [
+      "Bornholm"
+    ],
+    "description": "Bornholm drink of snaps mixed with honey, typically one jar of honey to a bottle of snaps, sometimes with spices or herbs; it is yellow and leaves a brownish sediment of pollen and wax. Bornholmers associate it with Christmas and start making it in November so it can mature.",
+    "how_to_eat": "Served at about 12 °C; historically also used as a dip for dry caraway kringles.",
+    "how_to_order": "Bottled honningsyp is sold in food and speciality shops across Bornholm.",
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://da.wikipedia.org/wiki/Honningsyp",
+    "source_urls": [
+      "https://da.wikipedia.org/wiki/Honningsyp",
+      "https://da.wikipedia.org/wiki/Egnsret"
+    ]
+  },
+  {
+    "id": "denmark-brunsviger",
+    "name": "Brunsviger",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Denmark",
+    "state": "Funen",
+    "regions": [],
+    "description": "Tray-baked yeast cake with a topping of brown sugar, syrup and butter or margarine poured over the risen dough before baking. It is especially associated with Funen, where it is eaten on Sunday mornings and, shaped as a cake-man, at children's birthdays; Funen has marked an annual Brunsviger Day since 2017.",
+    "how_to_eat": "On Funen it is sometimes eaten folded inside a bread roll, called a runder med brunner.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://da.wikipedia.org/wiki/Brunsviger",
+    "source_urls": [
+      "https://da.wikipedia.org/wiki/Brunsviger",
+      "https://visitfyn.com/fyn/experiences/three-specialities-fyn",
+      "https://da.wikipedia.org/wiki/Egnsret"
+    ]
+  },
+  {
+    "id": "denmark-rygeost",
+    "name": "Funen smoked cheese",
+    "local_name": "Rygeost",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Denmark",
+    "state": "Funen",
+    "regions": [],
+    "description": "Soft sour-milk cheese salted, seasoned with caraway and smoked over straw or nettles, then sprinkled with whole caraway seeds. It is known especially from Funen and is regarded as the only cheese type invented in Denmark without foreign inspiration.",
+    "how_to_eat": "Eaten sliced on bread, or mixed with sour cream and herbs into a smoked cream cheese.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://da.wikipedia.org/wiki/Rygeost",
+    "source_urls": [
+      "https://da.wikipedia.org/wiki/Rygeost",
+      "https://visitfyn.com/fyn/experiences/three-specialities-fyn",
+      "https://www.visitnyborg.com/nyborg/highlights/recipes-funen-dishes"
+    ]
+  },
+  {
+    "id": "denmark-aebleflaesk",
+    "name": "Æbleflæsk",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Denmark",
+    "state": "Funen",
+    "regions": [],
+    "description": "Old Danish dish of apples cooked with pork belly (sometimes smoked) and onion; the Funen version has more apple than pork, sweetened with sugar or brown sugar. It is regarded as a Funen regional dish and was a candidate in Denmark's 2014 national-dish contest.",
+    "how_to_eat": "Eaten hot or cold on rye bread, sometimes by dipping the bread.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://da.wikipedia.org/wiki/%C3%86blefl%C3%A6sk",
+    "source_urls": [
+      "https://da.wikipedia.org/wiki/%C3%86blefl%C3%A6sk",
+      "https://da.wikipedia.org/wiki/Egnsret",
+      "https://en.wikipedia.org/wiki/Sm%C3%B8rrebr%C3%B8d"
+    ]
+  },
+  {
+    "id": "denmark-boghvedegrod",
+    "name": "Buckwheat porridge",
+    "local_name": "Boghvedegrød",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Denmark",
+    "state": "Funen",
+    "regions": [],
+    "description": "Porridge of buckwheat groats cooked in milk. Buckwheat reached Denmark in the 1300s, and a 1656 book already called the porridge \"Fynbogrød\" (Funen porridge); it is listed as a Funen regional dish.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://da.wikipedia.org/wiki/Boghvedegr%C3%B8d",
+    "source_urls": [
+      "https://da.wikipedia.org/wiki/Boghvedegr%C3%B8d",
+      "https://da.wikipedia.org/wiki/Egnsret"
+    ]
+  },
+  {
+    "id": "denmark-danablu",
+    "name": "Danablu",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Denmark",
+    "state": "Funen",
+    "regions": [
+      "Marslev"
+    ],
+    "description": "Blue-veined, semi-soft cow's milk cheese made with homogenised cream and pierced with copper wires to spread Penicillium roqueforti mould, aged 8-12 weeks. It was developed around 1920 by dairyman Marius Boel, who bought Marslev dairy near Odense in 1914, and it is an EU protected geographical indication (PGI).",
+    "how_to_eat": "Served crumbled on salads, as a dessert cheese with fruit, or on bread or crackers.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Danish_Blue_Cheese",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Danish_Blue_Cheese",
+      "https://foedevarestyrelsen.dk/Media/638924859496078085/Produktspecifikation%20for%20DANABLU%20-%20september%202025.pdf",
+      "https://da.wikipedia.org/wiki/Marslev",
+      "https://en.foedevarestyrelsen.dk/Media/638866301580759241/Geografiske_betegnelser_Engelsk.pdf"
+    ]
+  },
+  {
+    "id": "denmark-gronlangkal",
+    "name": "Grønlangkål",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Denmark",
+    "state": "Jutland",
+    "regions": [
+      "Vendsyssel"
+    ],
+    "description": "Stewed kale, described as a typical Jutland regional dish with local variants. In Vendsyssel the stripped, unchopped kale is boiled for a long time with pork belly and can be served with cinnamon sugar; in South Jutland it is chopped, boiled and finished with cream, and it is the preferred New Year meal there.",
+    "how_to_eat": "In Vendsyssel it was often eaten with hot hvidtøl (a light malt beer).",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://da.wikipedia.org/wiki/Gr%C3%B8nlangk%C3%A5l",
+    "source_urls": [
+      "https://da.wikipedia.org/wiki/Gr%C3%B8nlangk%C3%A5l",
+      "https://da.wikipedia.org/wiki/Egnsret",
+      "https://da.wikipedia.org/wiki/Det_danske_k%C3%B8kken"
+    ]
+  },
+  {
+    "id": "denmark-bakskuld",
+    "name": "Bakskuld",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Denmark",
+    "state": "Jutland",
+    "regions": [
+      "Fanø",
+      "Esbjerg",
+      "Blåvand"
+    ],
+    "description": "Salted, dried and smoked flatfish, usually dab, sometimes plaice or flounder; the modern version is cold-smoked and moister than the traditional long-keeping one. It is a regional dish of Fanø, Esbjerg and the Jutland west coast.",
+    "how_to_eat": "Traditionally wrapped in wet newspaper and cooked in stove embers, today pan-fried in butter, and eaten on coarse rye bread with lard, with kaffepunch to drink.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://da.wikipedia.org/wiki/Bakskuld",
+    "source_urls": [
+      "https://da.wikipedia.org/wiki/Bakskuld",
+      "https://da.wikipedia.org/wiki/Egnsret"
+    ]
+  },
+  {
+    "id": "denmark-limfjord-oysters",
+    "name": "Limfjord oysters",
+    "local_name": "Limfjordsøsters",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Denmark",
+    "state": "Jutland",
+    "regions": [
+      "Limfjord",
+      "Mors"
+    ],
+    "description": "European flat oysters (Ostrea edulis) from the western Limfjord, which holds the world's northernmost and largest continuous stock of the species; most of the harvest is exported. The season opens in autumn with the Oyster and Mussel Premiere, typically in October, at venues around the fjord including Mors.",
+    "how_to_eat": "Usually eaten raw on the half shell.",
+    "how_to_order": "Look for tastings and shucking lessons during the autumn Oyster and Mussel Premiere around the Limfjord.",
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ostrea_edulis",
+    "source_urls": [
+      "https://da.wikipedia.org/wiki/%C3%98sters",
+      "https://en.wikipedia.org/wiki/Ostrea_edulis",
+      "https://www.visitdenmark.com/denmark/plan-your-trip/premiere-and-limfjord-chefs-gdk1151982"
+    ]
+  },
+  {
+    "id": "denmark-limfjord-mussels",
+    "name": "Limfjord blue mussels",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Denmark",
+    "state": "Jutland",
+    "regions": [
+      "Limfjord"
+    ],
+    "description": "Blue mussels (Mytilus edulis) from the Limfjord, which is known for large mussels whose flavour comes from its mix of salt and fresh water. Mussels are fished and farmed on a large scale in Danish waters and are usually served poached.",
+    "how_to_eat": "Served poached, often with white bread, as a starter or small meal.",
+    "how_to_order": "Their season opens with the Limfjord Oyster and Mussel Premiere, typically in October.",
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Limfjord",
+      "https://en.wikipedia.org/wiki/Danish_cuisine",
+      "https://www.visitdenmark.com/denmark/plan-your-trip/premiere-and-limfjord-chefs-gdk1151982"
+    ]
+  },
+  {
+    "id": "denmark-aalborg-akvavit",
+    "name": "Aalborg akvavit",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Denmark",
+    "state": "Jutland",
+    "regions": [
+      "Aalborg"
+    ],
+    "description": "Akvavit is a spirit distilled from grain or potatoes and flavoured mainly with caraway or dill; Danish Distillers, headquartered in Aalborg, made the Aalborg akvavits there until production moved to Norway in 2015, and one Aalborg variety is distilled with amber. Aalborg Taffel Akvavit dates from 1846.",
+    "how_to_eat": "Drunk chilled in a single gulp from a small glass, often with beer, at Christmas and Easter lunches and with herring.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Akvavit",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Akvavit",
+      "https://en.wikipedia.org/wiki/Danish_Distillers",
+      "https://da.wikipedia.org/wiki/De_Danske_Spritfabrikker"
+    ]
+  },
+  {
+    "id": "denmark-sonderjysk-kaffebord",
+    "name": "South Jutland coffee table",
+    "local_name": "Sønderjysk kaffebord",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Denmark",
+    "state": "South Jutland",
+    "regions": [
+      "Gram",
+      "Højer",
+      "Tønder"
+    ],
+    "description": "Traditional spread of cakes with coffee, classically 21 kinds eaten in order: seven soft yeast cakes, then layer cakes, then hard biscuits. It arose after 1864, when Prussian authorities refused liquor licences to Danish-minded meeting halls and locals met over coffee and home-baked cakes instead; local cakes include pomle buns, brødtorte (rye bread cake with blackcurrant and cream), fedtkager, gode råd and ingenting (almond meringue).",
+    "how_to_eat": "Cakes are passed round one after another and guests stack several kinds on their plate.",
+    "how_to_order": "Offered as bookable events at venues across the region, including Gram Castle.",
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/S%C3%B8nderjysk_kaffebord",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/S%C3%B8nderjysk_kaffebord",
+      "https://da.wikipedia.org/wiki/S%C3%B8nderjysk_kaffebord",
+      "https://www.visitsonderjylland.com/tourist/experiences/a-taste-of-sonderjylland/sonderjysk-kaffebord",
+      "https://www.nationalgeographic.com/travel/article/kaffebord-21-cake-jutland-denmark"
+    ]
+  },
+  {
+    "id": "denmark-solaeg",
+    "name": "Solæg",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Denmark",
+    "state": "South Jutland",
+    "regions": [],
+    "description": "Eggs boiled for 15-20 minutes with onion skins, rolled to crack the shell and left in strong brine for 2-3 days, giving a patterned shell and a dark yolk. It is a South Jutland regional dish, also known on the Frisian Islands and in Germany as Solei.",
+    "how_to_eat": "Peeled and halved, the yolk lifted out and the hollow filled with strong mustard, chilli, vinegar and oil, then the yolk put back and the egg eaten in one bite, usually with a snaps or Gammel Dansk.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://da.wikipedia.org/wiki/Sol%C3%A6g",
+    "source_urls": [
+      "https://da.wikipedia.org/wiki/Sol%C3%A6g",
+      "https://da.wikipedia.org/wiki/Egnsret"
+    ]
+  },
+  {
+    "id": "denmark-snysk",
+    "name": "Snysk",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Denmark",
+    "state": "South Jutland",
+    "regions": [
+      "Als",
+      "Sundeved"
+    ],
+    "description": "Summer stew of fresh vegetables, including green and broad beans, peas, carrots, kohlrabi and potatoes, cooked with milk and parsley. It comes from Als, Sundeved and Angel around the Flensburg Fjord and exists in thick (South Jutland) and thin (Als) versions.",
+    "how_to_eat": "Served with breaded pork, smoked ham, marinated herring or fried eel.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://da.wikipedia.org/wiki/Snysk",
+    "source_urls": [
+      "https://da.wikipedia.org/wiki/Snysk",
+      "https://da.wikipedia.org/wiki/Egnsret"
+    ]
+  },
+  {
+    "id": "denmark-surrib",
+    "name": "Surrib",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Denmark",
+    "state": "South Jutland",
+    "regions": [],
+    "description": "South Jutland regional dish of pork, for example rib or boiling pork belly. It belongs especially on the South Jutland Christmas lunch table.",
+    "how_to_eat": "Eaten with South Jutland rye bread, pickled beetroot and mustard, often with a snaps.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://da.wikipedia.org/wiki/Surrib",
+    "source_urls": [
+      "https://da.wikipedia.org/wiki/Surrib",
+      "https://da.wikipedia.org/wiki/Egnsret"
+    ]
+  },
+  {
+    "id": "denmark-skraedderduelse",
+    "name": "Skrædderduelse",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Denmark",
+    "state": "South Jutland",
+    "regions": [],
+    "description": "South Jutland dish of boiled potatoes with a thick sauce of browned smoked pork cubes and onion, thickened with flour and milk or sour cream. The name means \"tailor's dip\", a frugal dish for poor people.",
+    "how_to_eat": "The sauce is eaten with boiled potatoes.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "DKK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://da.wikipedia.org/wiki/Skr%C3%A6dderduelse",
+    "source_urls": [
+      "https://da.wikipedia.org/wiki/Skr%C3%A6dderduelse",
+      "https://da.wikipedia.org/wiki/Egnsret"
+    ]
+  }
+]

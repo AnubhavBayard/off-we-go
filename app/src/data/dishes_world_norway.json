@@ -1,0 +1,1057 @@
+[
+  {
+    "id": "norway-farikal",
+    "name": "Fårikål",
+    "local_name": null,
+    "pronunciation": "FOR-ee-kole",
+    "category": "meal",
+    "country": "Norway",
+    "state": "Oslo & Eastern Norway",
+    "regions": [],
+    "description": "Stew of bone-in mutton pieces, cabbage and whole black pepper, occasionally with a little wheat flour, cooked for several hours. It was chosen as Norway's national dish by the radio programme Nitimen in the 1970s and reconfirmed in 2014; it is eaten in early autumn, and Fårikål Feast Day falls on the last Thursday in September.",
+    "how_to_eat": "Served with potatoes boiled in their skins.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/F%C3%A5rik%C3%A5l",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/F%C3%A5rik%C3%A5l",
+      "https://en.wikipedia.org/wiki/Norwegian_cuisine",
+      "https://www.visitnorway.com/things-to-do/food-and-drink/unique-food-destinations/"
+    ]
+  },
+  {
+    "id": "norway-kjottkaker",
+    "name": "Kjøttkaker",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Norway",
+    "state": "Oslo & Eastern Norway",
+    "regions": [],
+    "description": "Fried patties of minced meat (beef, pork, lamb or game) seasoned with salt and pepper, and in some local traditions ginger or nutmeg, then simmered in brown sauce. Typically about the size of a child's fist, they have long been regarded as everyday home food.",
+    "how_to_eat": "Eaten with boiled potatoes, stewed peas or cabbage and lingonberry jam.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://no.wikipedia.org/wiki/Kj%C3%B8ttkake",
+    "source_urls": [
+      "https://no.wikipedia.org/wiki/Kj%C3%B8ttkake",
+      "https://en.wikipedia.org/wiki/Norwegian_cuisine"
+    ]
+  },
+  {
+    "id": "norway-polse-i-lompe",
+    "name": "Pølse i lompe",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Norway",
+    "state": "Oslo & Eastern Norway",
+    "regions": [],
+    "description": "A hot wiener or grill sausage rolled in a lompe, a soft flatbread of boiled potatoes, wheat flour and salt. It is standard food at children's birthdays, Midsummer Eve and on 17 May, when Norwegians eat on average three sausages each.",
+    "how_to_eat": "Rolled up and eaten by hand, usually with mustard and/or ketchup.",
+    "how_to_order": "Sold at most petrol stations and snack bars (gatekjøkken); toppings include raw or fried onion, potato salad and shrimp salad.",
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://no.wikipedia.org/wiki/P%C3%B8lse_i_lompe",
+    "source_urls": [
+      "https://no.wikipedia.org/wiki/P%C3%B8lse_i_lompe",
+      "https://no.wikipedia.org/wiki/Lompe"
+    ]
+  },
+  {
+    "id": "norway-rakfisk",
+    "name": "Rakfisk",
+    "local_name": null,
+    "pronunciation": "RAHK-fisk",
+    "category": "meal",
+    "country": "Norway",
+    "state": "Oslo & Eastern Norway",
+    "regions": [
+      "Valdres"
+    ],
+    "description": "Trout or char salted and left to ferment under pressure for two to three months or up to a year, then eaten uncooked; it has a strong smell and pungent, salty taste. The term is recorded from 1348, and Rakfisk fra Valdres is a protected geographical designation, made in Valdres from local trout and sold mild, aged or well-aged.",
+    "how_to_eat": "Sliced or as a fillet on flatbrød or lefse with potatoes, red onion and sour cream, often with akevitt and beer.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rakfisk",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rakfisk",
+      "https://www.beskyttedebetegnelser.no/godkjente-produkter/rakfisk-fra-valdres/",
+      "https://www.visitnorway.com/things-to-do/food-and-drink/unique-food-destinations/"
+    ]
+  },
+  {
+    "id": "norway-kurv-fra-valdres",
+    "name": "Kurv frå Valdres",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Norway",
+    "state": "Oslo & Eastern Norway",
+    "regions": [
+      "Valdres"
+    ],
+    "description": "Dry-salted, unsmoked cured sausage (spekepølse) of beef, sheep or game, air-dried on farm storehouses through the cool, dry Valdres winter. It has a dark exterior, red core and slightly sweet taste, with spices such as black pepper, clove, nutmeg and cinnamon; it holds a protected geographical designation.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.beskyttedebetegnelser.no/godkjente-produkter/kurv-fra-valdres/",
+      "https://www.visitnorway.com/things-to-do/food-and-drink/unique-food-destinations/"
+    ]
+  },
+  {
+    "id": "norway-fenalar",
+    "name": "Fenalår",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Norway",
+    "state": "Oslo & Eastern Norway",
+    "regions": [],
+    "description": "Leg of lamb or mutton that is brined, then dried and matured for about three months or more, in some areas also cold-smoked. It is eaten at Christmas and on Constitution Day, and Fenalår fra Norge has protected geographical status in Norway and the EU (PGI).",
+    "how_to_eat": "Cut in thin slices; at informal gatherings the whole leg is passed round with a knife for guests to slice, sometimes alongside rømmegrøt or scrambled eggs.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fenal%C3%A5r",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fenal%C3%A5r",
+      "https://no.wikipedia.org/wiki/Fenal%C3%A5r",
+      "https://www.beskyttedebetegnelser.no/godkjente-produkter/fenalar-fra-norge/"
+    ]
+  },
+  {
+    "id": "norway-brunost",
+    "name": "Brunost",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Norway",
+    "state": "Oslo & Eastern Norway",
+    "regions": [
+      "Gudbrandsdalen"
+    ],
+    "description": "Brown, sweet whey cheese made by boiling down whey with milk and/or cream until the milk sugars caramelise. The firm, fatty modern version is credited to milkmaid Anne Hov in Gudbrandsdalen in 1863, and Gudbrandsdalsost is among the most popular varieties.",
+    "how_to_eat": "Sliced thin on bread, crispbread or waffles; also used in gravy for game.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brunost",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Brunost",
+      "https://en.wikipedia.org/wiki/Norwegian_cuisine",
+      "https://www.visitnorway.com/things-to-do/food-and-drink/unique-food-destinations/"
+    ]
+  },
+  {
+    "id": "norway-linie-aquavit",
+    "name": "Linie aquavit",
+    "local_name": "Linjeakevitt",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Norway",
+    "state": "Oslo & Eastern Norway",
+    "regions": [],
+    "description": "Caraway-spiced akevitt that matures in oak casks shipped from Norway to Australia and back, crossing the equator (the 'line') twice before bottling. Today it is made by Anora outside Oslo as Løiten Linie and Lysholm Linie, a practice traced to Jørgen B. Lysholm in 19th-century Trondheim.",
+    "how_to_eat": "In Norway akevitt is served at room temperature in tulip-shaped glasses and sipped slowly, often with Christmas food.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://no.wikipedia.org/wiki/Linjeakevitt",
+    "source_urls": [
+      "https://no.wikipedia.org/wiki/Linjeakevitt",
+      "https://en.wikipedia.org/wiki/Akvavit"
+    ]
+  },
+  {
+    "id": "norway-pinnekjott",
+    "name": "Pinnekjøtt",
+    "local_name": null,
+    "pronunciation": "PIN-neh-shut",
+    "category": "meal",
+    "country": "Norway",
+    "state": "Western Norway",
+    "regions": [
+      "Bergen"
+    ],
+    "description": "Lamb or mutton ribs that are salted, dried and, especially in parts of Hordaland and Sunnmøre, smoked; before cooking they are soaked and then steamed over birch sticks. It is the Christmas dinner of Western Norway, and Pinnekjøtt fra Norge is a protected geographical designation requiring Norwegian lamb or mutton.",
+    "how_to_eat": "Served with mashed swede (kålrotstappe), potatoes and sausages, with beer and akevitt.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pinnekj%C3%B8tt",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pinnekj%C3%B8tt",
+      "https://www.beskyttedebetegnelser.no/godkjente-produkter/pinnekjott-fra-norge/",
+      "https://en.visitbergen.com/food-and-drink/bergen-city-of-gastronomy/traditional-christmas-food-in-bergen"
+    ]
+  },
+  {
+    "id": "norway-smalahove",
+    "name": "Smalahove",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Norway",
+    "state": "Western Norway",
+    "regions": [
+      "Voss"
+    ],
+    "description": "Half a sheep's head that has been singed, salted, sometimes smoked, and dried, then boiled or steamed for about three hours; since 1998 only lamb heads may be used. A pre-Christmas tradition of Voss and Hardanger, it is celebrated at the Smalahovesleppet festival in Voss each autumn.",
+    "how_to_eat": "Eaten with mashed swede, potatoes and akevitt; the ear and eye are eaten first, then the head is worked from front to back.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Smalahove",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Smalahove",
+      "https://no.wikipedia.org/wiki/Smalahove",
+      "https://www.visitnorway.com/things-to-do/food-and-drink/unique-food-destinations/"
+    ]
+  },
+  {
+    "id": "norway-bergen-fish-soup",
+    "name": "Bergen fish soup",
+    "local_name": "Bergensk fiskesuppe",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Norway",
+    "state": "Western Norway",
+    "regions": [
+      "Bergen"
+    ],
+    "description": "Creamed soup of white fish such as saithe, haddock and cod with finely shredded vegetables, fish balls, sour cream and cream. The traditional base is stock from young saithe bones, and it is seasoned with vinegar and sugar for a slightly sweet-sour taste.",
+    "how_to_eat": null,
+    "how_to_order": "Served by traditional and modern restaurants across Bergen at a wide range of prices.",
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.visitbergen.com/food-and-drink/bergen-city-of-gastronomy/bergen-fish-soup",
+      "https://en.wikipedia.org/wiki/List_of_Norwegian_dishes"
+    ]
+  },
+  {
+    "id": "norway-skillingsbolle",
+    "name": "Skillingsbolle",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Norway",
+    "state": "Western Norway",
+    "regions": [
+      "Bergen"
+    ],
+    "description": "Cinnamon roll made by rolling yeast dough with butter, sugar and cinnamon and cutting it into thick slices. It reached Norway through Bergen, where it remains a tradition; the name comes from its original price of one skilling, and the Bergen version is large with plenty of sugar on top.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://no.wikipedia.org/wiki/Skillingsbolle",
+      "https://en.visitbergen.com/food-and-drink/bergen-city-of-gastronomy/bergen-fish-soup"
+    ]
+  },
+  {
+    "id": "norway-persetorsk",
+    "name": "Persetorsk",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Norway",
+    "state": "Western Norway",
+    "regions": [
+      "Bergen"
+    ],
+    "description": "Fresh cod fillets with the skin on, salted and sugared and pressed in a cool place for a few hours to several days, which firms the flesh into fine flakes. A Christmas dinner in many Bergen homes, it has had its own day, 28 January, since 2020; 'perse' is Bergen dialect from Low German for 'press'.",
+    "how_to_eat": "Boiled and served with mustard sauce in traditional recipes.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://no.wikipedia.org/wiki/Persetorsk",
+      "https://en.visitbergen.com/food-and-drink/bergen-city-of-gastronomy/traditional-christmas-food-in-bergen"
+    ]
+  },
+  {
+    "id": "norway-gamalost-fra-vik",
+    "name": "Gamalost frå Vik",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Norway",
+    "state": "Western Norway",
+    "regions": [
+      "Vik"
+    ],
+    "description": "Pungent sour-milk cheese made from skimmed cow's milk and ripened with mould for about two weeks; it is around 50% protein and 1% fat. It is made only at the dairy in Vik in Sogn, holds a protected geographical designation (2006), and has its own festival in Vik each summer.",
+    "how_to_eat": "Eaten on bread, crispbread or flatbrød.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gamalost",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gamalost",
+      "https://no.wikipedia.org/wiki/Gammalost",
+      "https://www.beskyttedebetegnelser.no/godkjente-produkter/gamalost-fra-vik/"
+    ]
+  },
+  {
+    "id": "norway-hardanger-cider",
+    "name": "Hardanger cider",
+    "local_name": "Sider frå Hardanger",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Norway",
+    "state": "Western Norway",
+    "regions": [
+      "Hardanger"
+    ],
+    "description": "Cider fermented from apples grown, pressed and stored in the Hardanger fjord municipalities, typically fresh and often dry. Cider has been made there since the early 1900s, and it was the first alcoholic product in Norway to receive a protected geographical designation.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.beskyttedebetegnelser.no/godkjente-produkter/sider-fra-hardanger/",
+      "https://www.visitnorway.com/things-to-do/food-and-drink/unique-food-destinations/"
+    ]
+  },
+  {
+    "id": "norway-svele",
+    "name": "Svele",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Norway",
+    "state": "Western Norway",
+    "regions": [],
+    "description": "Thick, griddle-cooked pancake-like cake of egg, flour, butter, sugar and kefir, leavened with baking soda and hartshorn salt, which gives its typical taste. Ferries in Møre og Romsdal began serving sveler in 1971, and they are now associated with ferry crossings throughout Western Norway.",
+    "how_to_eat": "Folded in half with butter and sugar or brunost.",
+    "how_to_order": "Sold aboard many ferries.",
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Svele",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Svele",
+      "https://no.wikipedia.org/wiki/Svele"
+    ]
+  },
+  {
+    "id": "norway-sodd",
+    "name": "Sodd",
+    "local_name": "Festsodd fra Trøndelag",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Norway",
+    "state": "Trøndelag",
+    "regions": [
+      "Innherred"
+    ],
+    "description": "Clear broth with diced boiled mutton and beef and meatballs seasoned with ginger and nutmeg, with potatoes and carrots boiled separately and added on serving. It is the festive dish of Trøndelag for baptisms, confirmations and weddings, is mentioned in Håkon the Good's saga, and Festsodd fra Trøndelag has a protected geographical designation.",
+    "how_to_eat": "Served with skjenning flatbread, often with ginger beer.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sodd",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sodd",
+      "https://no.wikipedia.org/wiki/Sodd",
+      "https://www.beskyttedebetegnelser.no/godkjente-produkter/festsodd-fra-trondelag/"
+    ]
+  },
+  {
+    "id": "norway-skjenning",
+    "name": "Skjenning",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Norway",
+    "state": "Trøndelag",
+    "regions": [
+      "Innherred"
+    ],
+    "description": "Leaf-thin triangular flatbread of mashed potato and wheat flour rolled out with barley flour, brushed on one side with milk and sugar during baking so it shines. A festive bread of Innherred, it holds a protected designation of origin requiring local potatoes and wheat.",
+    "how_to_eat": "Passed round with sodd at weddings, baptisms and funerals.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Skjenning",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Skjenning",
+      "https://www.beskyttedebetegnelser.no/godkjente-produkter/skjenning/"
+    ]
+  },
+  {
+    "id": "norway-karsk",
+    "name": "Karsk",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Norway",
+    "state": "Trøndelag",
+    "regions": [],
+    "description": "Drink of coffee mixed with moonshine (hjemmebrent) and sometimes a spoon of sugar. It spread across Norway in the later 1800s and is firmly part of the culture of Trøndelag; elsewhere it is called kaffedoktor or rotar.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Karsk",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Karsk",
+      "https://en.wikipedia.org/wiki/Norwegian_cuisine"
+    ]
+  },
+  {
+    "id": "norway-trondheimssuppe",
+    "name": "Trondheimssuppe",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Norway",
+    "state": "Trøndelag",
+    "regions": [
+      "Trondheim"
+    ],
+    "description": "Sweet-sour soup of rice, raisins, water, sour milk and sugar, thickened with wheat flour and sometimes flavoured with cinnamon, prunes or fruit cordial. A recipe for it appears in Norway's first cookbook, published by Maren Elisabeth Bang in 1831.",
+    "how_to_eat": "Served hot or cold; at dinner it is usually followed by another dish.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://no.wikipedia.org/wiki/Trondheimssuppe",
+    "source_urls": [
+      "https://no.wikipedia.org/wiki/Trondheimssuppe",
+      "https://en.wikipedia.org/wiki/List_of_Norwegian_dishes"
+    ]
+  },
+  {
+    "id": "norway-badsturokt-kjott",
+    "name": "Sauna-smoked meat",
+    "local_name": "Badsturøkt kjøtt på namdalsk vis",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Norway",
+    "state": "Trøndelag",
+    "regions": [
+      "Namdalen"
+    ],
+    "description": "Meat, most often leg of lamb, ham or elk, that is salted, hot-smoked for a long time in farm smoke saunas over hardwood and sometimes juniper, then dried. The method dates to the mid-1850s and survives only in Namdalen and neighbouring Jämtland; it is protected as a traditional speciality.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.beskyttedebetegnelser.no/godkjente-produkter/badsturokt-kjott-pa-namdalsk-vis/"
+    ]
+  },
+  {
+    "id": "norway-tjukkmjolk",
+    "name": "Tjukkmjølk",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Norway",
+    "state": "Trøndelag",
+    "regions": [
+      "Røros"
+    ],
+    "description": "Thick, mildly sour cultured milk (also called tettemelk) made with a traditional culture from the Røros area; it was originally set with leaves of the tettegras plant. Organic Tjukkmjølk from Røros was the first product to receive a protected geographical designation in Norway, in 2004.",
+    "how_to_eat": "Drunk from a glass, eaten on cereal with sugar and jam, or served with cured meats.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://no.wikipedia.org/wiki/Tettemelk",
+    "source_urls": [
+      "https://www.beskyttedebetegnelser.no/godkjente-produkter/okologisk-tjukkmjolk-fra-roros/",
+      "https://no.wikipedia.org/wiki/Tettemelk",
+      "https://www.visitnorway.com/things-to-do/food-and-drink/unique-food-destinations/"
+    ]
+  },
+  {
+    "id": "norway-torrfisk",
+    "name": "Stockfish",
+    "local_name": "Tørrfisk",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Norway",
+    "state": "Northern Norway",
+    "regions": [
+      "Lofoten"
+    ],
+    "description": "Unsalted cod (skrei) caught off Lofoten and dried outdoors on wooden racks (hjell) from February to April. It was Norway's main fish export for centuries, with Italy now the largest buyer; Tørrfisk fra Lofoten is protected in Norway (2007) and in the EU as a PGI (2014).",
+    "how_to_eat": "Eaten steamed, grilled or baked, in bacalao, or as dry pieces as a snack.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stockfish",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Stockfish",
+      "https://www.beskyttedebetegnelser.no/godkjente-produkter/torrfisk-fra-lofoten/",
+      "https://www.visitnorway.com/things-to-do/food-and-drink/unique-food-destinations/"
+    ]
+  },
+  {
+    "id": "norway-lutefisk",
+    "name": "Lutefisk",
+    "local_name": null,
+    "pronunciation": "LOO-teh-fisk",
+    "category": "meal",
+    "country": "Norway",
+    "state": "Northern Norway",
+    "regions": [],
+    "description": "Stockfish or clipfish soaked in water, then in lye, then in water again, which gives it a gelatinous texture. It is a Christmas-season dish eaten mostly in November and December across Norway.",
+    "how_to_eat": "Served with bacon, mashed peas, potatoes and melted butter, with akevitt and beer.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lutefisk",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lutefisk",
+      "https://no.wikipedia.org/wiki/Lutefisk",
+      "https://www.visitnorway.com/things-to-do/food-and-drink/weird-and-wonderful/"
+    ]
+  },
+  {
+    "id": "norway-molje",
+    "name": "Mølje",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Norway",
+    "state": "Northern Norway",
+    "regions": [
+      "Troms"
+    ],
+    "description": "Poached cod served with its liver and roe; a summer version uses saithe with liver only. It is called the 'national dish' of Northern Norway and of coastal Troms, and friends and family gather for a møljekalas at least once each winter.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://no.wikipedia.org/wiki/M%C3%B8lje",
+    "source_urls": [
+      "https://no.wikipedia.org/wiki/M%C3%B8lje",
+      "https://en.wikipedia.org/wiki/Norwegian_cuisine"
+    ]
+  },
+  {
+    "id": "norway-bidos",
+    "name": "Bidos",
+    "local_name": "Biđus",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Norway",
+    "state": "Northern Norway",
+    "regions": [
+      "Sápmi"
+    ],
+    "description": "Sámi soup of reindeer meat simmered with vegetables such as potato, carrot and onion, sometimes on the bone for flavour. It is regarded as the Sámi national dish and served at celebrations including Sámi National Day; it may be thickened with wheat flour or left clear.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://no.wikipedia.org/wiki/Bidos",
+    "source_urls": [
+      "https://no.wikipedia.org/wiki/Bidos",
+      "https://www.visitnorway.com/things-to-do/food-and-drink/unique-food-destinations/"
+    ]
+  },
+  {
+    "id": "norway-kvaefjord-cake",
+    "name": "Kvæfjord cake",
+    "local_name": "Kvæfjordkake",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Norway",
+    "state": "Northern Norway",
+    "regions": [
+      "Harstad"
+    ],
+    "description": "Sponge cake baked with a meringue and almond top and filled with vanilla cream, nicknamed 'Verdens beste' (the world's best). It is named after Kvæfjord near Harstad, and Nitimen listeners voted it Norway's national cake in 2002.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kv%C3%A6fjord_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kv%C3%A6fjord_cake",
+      "https://no.wikipedia.org/wiki/Kv%C3%A6fjordkake"
+    ]
+  },
+  {
+    "id": "norway-cod-tongues",
+    "name": "Fried cod tongues",
+    "local_name": "Torsketunger",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Norway",
+    "state": "Northern Norway",
+    "regions": [
+      "Lofoten"
+    ],
+    "description": "The tongue and chin muscle of cod, about 30-40 g each, cut from the heads during the winter skrei fishery, traditionally by local schoolchildren on the quays in Lofoten. Breaded and crisp-fried, they are a coastal delicacy in skrei season.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://no.wikipedia.org/wiki/Tungeskj%C3%A6ring",
+      "https://en.wikipedia.org/wiki/Norwegian_cuisine",
+      "https://www.visitnorway.com/things-to-do/food-and-drink/weird-and-wonderful/"
+    ]
+  },
+  {
+    "id": "norway-king-crab",
+    "name": "King crab",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Norway",
+    "state": "Northern Norway",
+    "regions": [
+      "Kirkenes",
+      "Varanger"
+    ],
+    "description": "Crab from the waters around Kirkenes and Varanger with sweet, aromatic meat often compared to lobster. Visitors can join king crab safaris by snowmobile in winter or boat in summer.",
+    "how_to_eat": "Eaten with lemon, or on bread with mayonnaise.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.visitnorway.com/things-to-do/food-and-drink/unique-food-destinations/"
+    ]
+  },
+  {
+    "id": "norway-kompe",
+    "name": "Kompe",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Norway",
+    "state": "Southern Norway",
+    "regions": [],
+    "description": "Boiled dumpling of grated raw potato bound with barley or wheat flour; kompe is the usual name in Sørlandet, while it is raspeball or komle in Western Norway and klubb in Trøndelag. Accompaniments vary locally and include salted meat, bacon, sausage, butter and swede.",
+    "how_to_eat": "Often served with bacon and a glass of milk.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Raspeball",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Raspeball",
+      "https://no.wikipedia.org/wiki/Raspeball",
+      "https://www.visitnorway.com/things-to-do/food-and-drink/weird-and-wonderful/"
+    ]
+  },
+  {
+    "id": "norway-sosterkake",
+    "name": "Søsterkake",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Norway",
+    "state": "Southern Norway",
+    "regions": [
+      "Aust-Agder"
+    ],
+    "description": "Yeast cake of wheat flour, sugar, milk, margarine, cardamom and raisins baked in a tin, typical of the Aust-Agder coast. Many Sørlandet homes bake it for Christmas; its origin is traced to the Netherlands or northern Germany, possibly the town of Soest.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://no.wikipedia.org/wiki/S%C3%B8sterkake",
+    "source_urls": [
+      "https://no.wikipedia.org/wiki/S%C3%B8sterkake",
+      "https://en.wikipedia.org/wiki/List_of_Norwegian_dishes"
+    ]
+  },
+  {
+    "id": "norway-kakemann",
+    "name": "Kakemann",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Norway",
+    "state": "Southern Norway",
+    "regions": [],
+    "description": "Pale Christmas biscuits of wheat flour, sugar, milk, butter or margarine and hartshorn salt, cut into shapes such as people and animals. They are decorated with food colouring or chocolate and have especially strong traditions in Sørlandet and Western Norway.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://no.wikipedia.org/wiki/Kakemann",
+    "source_urls": [
+      "https://no.wikipedia.org/wiki/Kakemann",
+      "https://en.wikipedia.org/wiki/List_of_Norwegian_dishes"
+    ]
+  },
+  {
+    "id": "norway-fresh-prawns",
+    "name": "Fresh prawns",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Norway",
+    "state": "Southern Norway",
+    "regions": [
+      "Kristiansand"
+    ],
+    "description": "Prawns caught by small trawlers and sold ready-cooked at the quays, a staple of the southern coast. It is popular to buy half a kilo and peel them on the quay.",
+    "how_to_eat": "Eaten with bread, mayonnaise and lemon, with beer or white wine.",
+    "how_to_order": "Sold ready-cooked at the quays.",
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Norwegian_cuisine",
+      "https://en.visitsorlandet.com/culture-and-nature/local-flavours-and-food-traditions/",
+      "https://www.visitnorway.com/things-to-do/food-and-drink/unique-food-destinations/"
+    ]
+  },
+  {
+    "id": "norway-crab-feast",
+    "name": "Crab feast",
+    "local_name": "Krabbefest",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Norway",
+    "state": "Southern Norway",
+    "regions": [],
+    "description": "Summer gathering where crabs, bought cooked from a fishmonger or cooked live in a large pan, are eaten outdoors. It is a rustic meal, and fresh crab is part of coastal food in Sørlandet.",
+    "how_to_eat": "Served with only bread, mayonnaise and lemon wedges.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Norwegian_cuisine",
+      "https://en.visitsorlandet.com/culture-and-nature/local-flavours-and-food-traditions/"
+    ]
+  },
+  {
+    "id": "norway-rommegrot",
+    "name": "Rømmegrøt",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Norway",
+    "state": "Southern Norway",
+    "regions": [
+      "Setesdal"
+    ],
+    "description": "Porridge of sour cream, whole milk and wheat flour, traditionally cooked for celebrations such as weddings, baptisms and the end of haymaking. Recipes vary by region, and in Southern Norway and Valdres it is served with cured meats.",
+    "how_to_eat": "Drizzled with butter and sprinkled with sugar and cinnamon, with cured meat and flatbrød on the side.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NOK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%B8mmegr%C3%B8t",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/R%C3%B8mmegr%C3%B8t",
+      "https://no.wikipedia.org/wiki/R%C3%B8mmegr%C3%B8t",
+      "https://en.visitsorlandet.com/culture-and-nature/local-flavours-and-food-traditions/"
+    ]
+  }
+]

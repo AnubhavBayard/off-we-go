@@ -2681,6 +2681,138 @@
   "credit": "Pratyeka",
   "license": "CC BY-SA 4.0"
  },
+ "colombia-ajiaco": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ajiaco.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ajiaco.jpg",
+  "credit": "Mauricio Giraldo from Bogotá, Colombia",
+  "license": "CC BY-SA 2.0"
+ },
+ "colombia-changua": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Changua_Soup.jpg/960px-Changua_Soup.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Changua_Soup.jpg",
+  "credit": "Jorvato",
+  "license": "CC BY-SA 4.0"
+ },
+ "colombia-caldo-de-costilla": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Caldo_y_cilantro.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Caldo_y_cilantro.JPG",
+  "credit": "No machine-readable author provided. Alextrevelian 006~commonswiki assumed (based on copyright claims).",
+  "license": "Public domain"
+ },
+ "colombia-mute": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Plato_de_Mute.jpg/960px-Plato_de_Mute.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Plato_de_Mute.jpg",
+  "credit": "Mizotha",
+  "license": "CC BY-SA 4.0"
+ },
+ "colombia-bocadillo-veleno": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Bocadillo.jpg/960px-Bocadillo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bocadillo.jpg",
+  "credit": "Trotskij",
+  "license": "CC BY-SA 3.0"
+ },
+ "colombia-bandeja-paisa": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Bandeja_paisa%2C_plato_Colombiano.jpg/960px-Bandeja_paisa%2C_plato_Colombiano.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bandeja_paisa,_plato_Colombiano.jpg",
+  "credit": "Wilfredor",
+  "license": "CC0"
+ },
+ "colombia-arepa": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Arepitas_Food_Macro.jpg/960px-Arepitas_Food_Macro.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Arepitas_Food_Macro.jpg",
+  "credit": "Steven Depolo from Grand Rapids, MI, USA",
+  "license": "CC BY 2.0"
+ },
+ "colombia-aguardiente": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Aguardientes_de_Colombia_Nectar.JPG/960px-Aguardientes_de_Colombia_Nectar.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Aguardientes_de_Colombia_Nectar.JPG",
+  "credit": "Joseescobar2012",
+  "license": "CC BY-SA 3.0"
+ },
+ "colombia-tinto": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Roasted_coffee_beans.jpg/960px-Roasted_coffee_beans.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Roasted_coffee_beans.jpg",
+  "credit": "MarkSweep",
+  "license": "Public domain"
+ },
+ "colombia-arepa-de-huevo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Arepa_de_huevo_por_dentro.jpg/960px-Arepa_de_huevo_por_dentro.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Arepa_de_huevo_por_dentro.jpg",
+  "credit": "Jdvillalobos",
+  "license": "CC BY 3.0"
+ },
+ "colombia-mote-de-queso": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Motequeso.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Motequeso.jpg",
+  "credit": "Jdvillalobos",
+  "license": "CC BY-SA 4.0"
+ },
+ "colombia-cazuela-de-mariscos": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Cazuela_de_mariscos.jpg/960px-Cazuela_de_mariscos.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cazuela_de_mariscos.jpg",
+  "credit": "Aleposta",
+  "license": "Public domain"
+ },
+ "colombia-arroz-de-lisa": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Arroz_de_liza.jpg/960px-Arroz_de_liza.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Arroz_de_liza.jpg",
+  "credit": "Jdvillalobos",
+  "license": "CC BY-SA 4.0"
+ },
+ "colombia-carimanola": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Barranquilla_-_Carima%C3%B1olas.jpg/960px-Barranquilla_-_Carima%C3%B1olas.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Barranquilla_-_Carima%C3%B1olas.jpg",
+  "credit": "Jdvillalobos",
+  "license": "CC BY 3.0"
+ },
+ "colombia-cocadas": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Cocadas_ferrol.jpg/960px-Cocadas_ferrol.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cocadas_ferrol.jpg",
+  "credit": "Deparpor",
+  "license": "CC BY-SA 3.0"
+ },
+ "colombia-aborrajados": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Aborrajados_de_pl%C3%A1tano_maduro.jpg/960px-Aborrajados_de_pl%C3%A1tano_maduro.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Aborrajados_de_pl%C3%A1tano_maduro.jpg",
+  "credit": "Ethnobotanical Historian",
+  "license": "CC BY-SA 4.0"
+ },
+ "colombia-pandebono": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pandebono.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pandebono.jpg",
+  "credit": "vasquezcarlosm",
+  "license": "CC BY-SA 2.0"
+ },
+ "colombia-arroz-atollado": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Arroz_atollado.jpg/960px-Arroz_atollado.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Arroz_atollado.jpg",
+  "credit": "Olavia Kite from Tokyo, Japan",
+  "license": "CC BY 2.0"
+ },
+ "colombia-cholado": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Cholado_jamundi.jpg/960px-Cholado_jamundi.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cholado_jamundi.jpg",
+  "credit": "C arango",
+  "license": "Public domain"
+ },
+ "colombia-achiras": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Achiras_del_Huila_-_Achiras_from_Huila..jpg/960px-Achiras_del_Huila_-_Achiras_from_Huila..jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Achiras_del_Huila_-_Achiras_from_Huila..jpg",
+  "credit": "Jkasutoro",
+  "license": "CC0"
+ },
+ "colombia-champus": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Champ%C3%BAs.jpg/960px-Champ%C3%BAs.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Champ%C3%BAs.jpg",
+  "credit": "J. Prince Serna",
+  "license": "CC BY-SA 3.0"
+ },
+ "colombia-pan-de-yuca": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Pandeyuca-colombiano.jpg/960px-Pandeyuca-colombiano.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pandeyuca-colombiano.jpg",
+  "credit": "Ahoraes",
+  "license": "CC BY-SA 4.0"
+ },
  "croatia-pasticada": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Pa%C5%A1ticada_-_Dalmatinska_pa%C5%A1ticada.jpg/960px-Pa%C5%A1ticada_-_Dalmatinska_pa%C5%A1ticada.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Pa%C5%A1ticada_-_Dalmatinska_pa%C5%A1ticada.jpg",
@@ -2950,6 +3082,108 @@
   "page": "https://commons.wikimedia.org/wiki/File:Various_Bottles_of_Slivovitz.jpg",
   "credit": "No machine-readable author provided. Chris Capoccia assumed (based on copyright claims).",
   "license": "Public domain"
+ },
+ "denmark-smorrebrod": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ida_Davidsen_udsnit_af_glasmontren.JPG/960px-Ida_Davidsen_udsnit_af_glasmontren.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Ida_Davidsen_udsnit_af_glasmontren.JPG",
+  "credit": "User:Nillerdk",
+  "license": "CC BY-SA 3.0"
+ },
+ "denmark-stjerneskud": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Sm%C3%B8rrebr%C3%B8d_4.jpg/960px-Sm%C3%B8rrebr%C3%B8d_4.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sm%C3%B8rrebr%C3%B8d_4.jpg",
+  "credit": "Nillerdk",
+  "license": "CC BY 3.0"
+ },
+ "denmark-stegt-flaesk": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Stegt_fl%C3%A6sk.jpg/960px-Stegt_fl%C3%A6sk.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Stegt_fl%C3%A6sk.jpg",
+  "credit": "Original uploader was ChildofMidnight at en.wikipedia",
+  "license": "CC BY 2.0"
+ },
+ "denmark-flaeskesteg": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Julemiddag.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Julemiddag.jpg",
+  "credit": "Unknown author",
+  "license": "CC BY-SA 3.0"
+ },
+ "denmark-frikadeller": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Frikadeller.jpg/960px-Frikadeller.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Frikadeller.jpg",
+  "credit": "This image was taken by Kenneth Jorgensen (gallery).Please attribute this image with \"Kenneth Jorgensen\".An email would also be appreciated.",
+  "license": "CC BY-SA 3.0"
+ },
+ "denmark-rod-polse": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Copenhagen_red_sausage_2.jpg/960px-Copenhagen_red_sausage_2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Copenhagen_red_sausage_2.jpg",
+  "credit": "GeoTrinity",
+  "license": "CC BY-SA 3.0"
+ },
+ "denmark-danish-pastry": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Glazed_apple_Danish.jpg/960px-Glazed_apple_Danish.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Glazed_apple_Danish.jpg",
+  "credit": "Peter Isotalo",
+  "license": "CC BY-SA 3.0"
+ },
+ "denmark-kransekage": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Kransekage_%28wreath_cake%29.jpg/960px-Kransekage_%28wreath_cake%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kransekage_(wreath_cake).jpg",
+  "credit": "Lorie Shaull",
+  "license": "CC BY-SA 4.0"
+ },
+ "denmark-esrom": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Esrom.jpg/960px-Esrom.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Esrom.jpg",
+  "credit": "pastorius",
+  "license": "CC BY 3.0"
+ },
+ "denmark-sol-over-gudhjem": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Sol_over_Gudhjem%2C_Bornholm_%282012-07-05%29%2C_by_Klugschnacker_in_Wikipedia.JPG/960px-Sol_over_Gudhjem%2C_Bornholm_%282012-07-05%29%2C_by_Klugschnacker_in_Wikipedia.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Sol_over_Gudhjem,_Bornholm_(2012-07-05),_by_Klugschnacker_in_Wikipedia.JPG",
+  "credit": "Klugschnacker",
+  "license": "CC BY-SA 3.0"
+ },
+ "denmark-brunsviger": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Brunsviger.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Brunsviger.jpg",
+  "credit": "Christian Jensen",
+  "license": "CC BY 2.5"
+ },
+ "denmark-rygeost": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Flickr_-_cyclonebill_-_Rugbr%C3%B8d_og_kyllingeskind_med_rygeost_og_stenbiderrogn.jpg/960px-Flickr_-_cyclonebill_-_Rugbr%C3%B8d_og_kyllingeskind_med_rygeost_og_stenbiderrogn.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_cyclonebill_-_Rugbr%C3%B8d_og_kyllingeskind_med_rygeost_og_stenbiderrogn.jpg",
+  "credit": "cyclonebill",
+  "license": "CC BY-SA 2.0"
+ },
+ "denmark-aebleflaesk": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/%C3%86blefl%C3%A6sk_2.jpg/960px-%C3%86blefl%C3%A6sk_2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%C3%86blefl%C3%A6sk_2.jpg",
+  "credit": "Nillerdk (talk)",
+  "license": "CC BY-SA 4.0"
+ },
+ "denmark-danablu": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Danish_Blue_cheese.jpg/960px-Danish_Blue_cheese.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Danish_Blue_cheese.jpg",
+  "credit": "No machine-readable author provided. Brookie assumed (based on copyright claims).",
+  "license": "CC BY-SA 3.0"
+ },
+ "denmark-gronlangkal": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Gruenkohlgericht.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Gruenkohlgericht.jpg",
+  "credit": "Wilfried Wittkowsky",
+  "license": "CC BY-SA 3.0"
+ },
+ "denmark-bakskuld": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Bakskuld.JPG/960px-Bakskuld.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Bakskuld.JPG",
+  "credit": "Orf3us",
+  "license": "Public domain"
+ },
+ "denmark-solaeg": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Solei-toeller.jpg/960px-Solei-toeller.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Solei-toeller.jpg",
+  "credit": "Superbass",
+  "license": "CC BY-SA 3.0"
  },
  "egypt-koshary": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Egyptian_food_Koshary.jpg/960px-Egyptian_food_Koshary.jpg",
@@ -5849,6 +6083,108 @@
   "credit": "Philip Rowlands",
   "license": "CC BY-SA 4.0"
  },
+ "norway-farikal": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/F%C3%A5r_i_k%C3%A5l.jpg/960px-F%C3%A5r_i_k%C3%A5l.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:F%C3%A5r_i_k%C3%A5l.jpg",
+  "credit": "Jarvin",
+  "license": "CC BY 3.0"
+ },
+ "norway-polse-i-lompe": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/P%C3%B8lse_med_lompe.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:P%C3%B8lse_med_lompe.jpg",
+  "credit": "Jon-Eric Melsæter",
+  "license": "CC BY 2.0"
+ },
+ "norway-rakfisk": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Rakfisk.jpg/960px-Rakfisk.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Rakfisk.jpg",
+  "credit": "Unknown author",
+  "license": "CC BY-SA 3.0"
+ },
+ "norway-fenalar": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Fenal%C3%A5r.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Fenal%C3%A5r.jpg",
+  "credit": "Food_at_Skjenkestova.jpg: Bernt Rostad derivative work: Adriao cropped original photo.",
+  "license": "CC BY 2.0"
+ },
+ "norway-brunost": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Brunost.jpg/960px-Brunost.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Brunost.jpg",
+  "credit": "Unknown author",
+  "license": "CC BY-SA 3.0"
+ },
+ "norway-smalahove": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Smalahove01.JPG/960px-Smalahove01.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Smalahove01.JPG",
+  "credit": "PerPlex",
+  "license": "CC BY-SA 4.0"
+ },
+ "norway-gamalost-fra-vik": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Gamalost-NorwegianOldCheese.jpg/960px-Gamalost-NorwegianOldCheese.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Gamalost-NorwegianOldCheese.jpg",
+  "credit": "Quick fix",
+  "license": "CC BY 2.0"
+ },
+ "norway-svele": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Svele_Aug_2014.jpg/960px-Svele_Aug_2014.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Svele_Aug_2014.jpg",
+  "credit": "Kjetil Ree",
+  "license": "CC0"
+ },
+ "norway-sodd": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Sodd%2C_Norwegian_traditional_food.jpg/960px-Sodd%2C_Norwegian_traditional_food.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sodd,_Norwegian_traditional_food.jpg",
+  "credit": "Sinful-windborn",
+  "license": "CC BY-SA 4.0"
+ },
+ "norway-skjenning": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Skjenning.jpg/960px-Skjenning.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Skjenning.jpg",
+  "credit": "Kenneaal",
+  "license": "CC BY-SA 4.0"
+ },
+ "norway-torrfisk": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hjell-oversikt.arj.jpeg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hjell-oversikt.arj.jpeg",
+  "credit": "Unknown author",
+  "license": "CC BY-SA 3.0"
+ },
+ "norway-lutefisk": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/ForkLutefisk.jpg/960px-ForkLutefisk.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:ForkLutefisk.jpg",
+  "credit": "Jonathunder",
+  "license": "CC BY-SA 3.0"
+ },
+ "norway-bidos": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Bi%C4%91us.png/960px-Bi%C4%91us.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Bi%C4%91us.png",
+  "credit": "Huy Tran, Nina Veflen, Eva J. B. Jørgensen, Carlos Velasco",
+  "license": "CC BY 4.0"
+ },
+ "norway-kvaefjord-cake": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Kv%C3%A6fjordkake.jpg/960px-Kv%C3%A6fjordkake.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kv%C3%A6fjordkake.jpg",
+  "credit": "Kjetil Ree",
+  "license": "CC BY-SA 3.0"
+ },
+ "norway-kompe": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Komlemiddag.jpg/960px-Komlemiddag.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Komlemiddag.jpg",
+  "credit": "Jarvin",
+  "license": "CC BY-SA 3.0"
+ },
+ "norway-kakemann": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Julemann_etter.jpg/960px-Julemann_etter.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Julemann_etter.jpg",
+  "credit": "Unknown author",
+  "license": "CC BY 2.0"
+ },
+ "norway-rommegrot": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/R%C3%B6mmegr%C3%B6t.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:R%C3%B6mmegr%C3%B6t.jpg",
+  "credit": "Tomas Eklund",
+  "license": "Public domain"
+ },
  "peru-ceviche": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Cebiche_de_corvina.JPG/960px-Cebiche_de_corvina.JPG",
   "page": "https://commons.wikimedia.org/wiki/File:Cebiche_de_corvina.JPG",
@@ -7798,6 +8134,222 @@
   "page": "https://commons.wikimedia.org/wiki/File:101124_FLEISCHTROCKNUNG-BR%C3%9CGGER_PARPAN_007_web.jpg",
   "credit": "Simon Meyer",
   "license": "CC BY 2.5 ch"
+ },
+ "taiwan-lu-rou-fan": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Lurou_fan%28Taiwanese_cuisine%29.jpg/960px-Lurou_fan%28Taiwanese_cuisine%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lurou_fan(Taiwanese_cuisine).jpg",
+  "credit": "Jzest",
+  "license": "CC BY-SA 2.5"
+ },
+ "taiwan-gua-bao": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/08/Steamed_Sandwich%2Ctaken_by_LeoAlmighty.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Steamed_Sandwich,taken_by_LeoAlmighty.jpg",
+  "credit": "LeoAlmighty",
+  "license": "CC BY 2.0"
+ },
+ "taiwan-stinky-tofu": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Stinkender_Tofu_1.JPG/960px-Stinkender_Tofu_1.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Stinkender_Tofu_1.JPG",
+  "credit": "Pilzland",
+  "license": "CC0"
+ },
+ "taiwan-hujiao-bing": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Pepper_bun_at_Raohe_Street_Night_Market_20070622.jpg/960px-Pepper_bun_at_Raohe_Street_Night_Market_20070622.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pepper_bun_at_Raohe_Street_Night_Market_20070622.jpg",
+  "credit": "竹筍弟弟",
+  "license": "Copyrighted free use"
+ },
+ "taiwan-oyster-vermicelli": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Food_%2843644131025%29.jpg/960px-Food_%2843644131025%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Food_(43644131025).jpg",
+  "credit": "bryan... from Taipei, Taiwan",
+  "license": "CC BY-SA 2.0"
+ },
+ "taiwan-oyster-omelette": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Billyfoodoysteromelette.jpg/960px-Billyfoodoysteromelette.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Billyfoodoysteromelette.jpg",
+  "credit": "Archon6812",
+  "license": "CC BY-SA 3.0"
+ },
+ "taiwan-pineapple-cake": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Taiwanese_Pineapple_Cake_001.jpg/960px-Taiwanese_Pineapple_Cake_001.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Taiwanese_Pineapple_Cake_001.jpg",
+  "credit": "Ocdp",
+  "license": "CC0"
+ },
+ "taiwan-popcorn-chicken": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Taiwanese_Pepper_Salt_Chicken_%28%E9%B9%BD%E9%85%A5%E9%9B%9E%29_in_Clovis%2C_CA.jpg/960px-Taiwanese_Pepper_Salt_Chicken_%28%E9%B9%BD%E9%85%A5%E9%9B%9E%29_in_Clovis%2C_CA.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Taiwanese_Pepper_Salt_Chicken_(%E9%B9%BD%E9%85%A5%E9%9B%9E)_in_Clovis,_CA.jpg",
+  "credit": "NeoBatfreak",
+  "license": "CC BY-SA 4.0"
+ },
+ "taiwan-a-gei": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Agei.JPG/960px-Agei.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Agei.JPG",
+  "credit": "The original uploader was Seasurfer at Chinese Wikipedia.",
+  "license": "CC BY-SA 2.0"
+ },
+ "taiwan-iron-egg": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Iron_Eggs_clone_compared_to_a_5_minutes_coocked_and_peeled_chicken_egg_IMG_0263.jpg/960px-Iron_Eggs_clone_compared_to_a_5_minutes_coocked_and_peeled_chicken_egg_IMG_0263.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Iron_Eggs_clone_compared_to_a_5_minutes_coocked_and_peeled_chicken_egg_IMG_0263.jpg",
+  "credit": "Hans Haase",
+  "license": "CC BY-SA 4.0"
+ },
+ "taiwan-jiufen-taro-balls": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Meet_fresh_Taro_Balls_Dessert_5.jpg/960px-Meet_fresh_Taro_Balls_Dessert_5.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Meet_fresh_Taro_Balls_Dessert_5.jpg",
+  "credit": "Yun Huang Yong",
+  "license": "CC BY 2.0"
+ },
+ "taiwan-hsinchu-pork-balls": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%E6%B5%B7%E7%91%9E-%E5%8E%9F%E5%91%B3%E8%B1%AC%E8%82%89%E6%91%83%E4%B8%B8.jpg/960px-%E6%B5%B7%E7%91%9E-%E5%8E%9F%E5%91%B3%E8%B1%AC%E8%82%89%E6%91%83%E4%B8%B8.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%E6%B5%B7%E7%91%9E-%E5%8E%9F%E5%91%B3%E8%B1%AC%E8%82%89%E6%91%83%E4%B8%B8.jpg",
+  "credit": "海瑞摃丸",
+  "license": "CC BY-SA 4.0"
+ },
+ "taiwan-hsinchu-rice-noodles": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/%E8%B2%A2%E4%B8%B8%E7%B1%B3%E7%B2%89%E6%B9%AF.jpg/960px-%E8%B2%A2%E4%B8%B8%E7%B1%B3%E7%B2%89%E6%B9%AF.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%E8%B2%A2%E4%B8%B8%E7%B1%B3%E7%B2%89%E6%B9%AF.jpg",
+  "credit": "中文維基百科的Mingwangx",
+  "license": "CC BY-SA 3.0"
+ },
+ "taiwan-dingbiancuo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/TienPienTso.JPG/960px-TienPienTso.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:TienPienTso.JPG",
+  "credit": "竹筍弟弟",
+  "license": "Copyrighted free use"
+ },
+ "taiwan-daxi-dried-tofu": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Food_%E7%8F%BE%E6%BB%B7%E8%B1%86%E5%B9%B2%2C_%E9%BB%83%E6%97%A5%E9%A6%99%E8%B1%86%E5%B9%B2%2C_%E5%A4%A7%E6%BA%AA%2C_%E6%A1%83%E5%9C%92%2C_%E5%8F%B0%E7%81%A3%2C_Daxi%2C_Taoyuan%2C_Taiwan_%2847202231432%29.jpg/960px-Food_%E7%8F%BE%E6%BB%B7%E8%B1%86%E5%B9%B2%2C_%E9%BB%83%E6%97%A5%E9%A6%99%E8%B1%86%E5%B9%B2%2C_%E5%A4%A7%E6%BA%AA%2C_%E6%A1%83%E5%9C%92%2C_%E5%8F%B0%E7%81%A3%2C_Daxi%2C_Taoyuan%2C_Taiwan_%2847202231432%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Food_%E7%8F%BE%E6%BB%B7%E8%B1%86%E5%B9%B2,_%E9%BB%83%E6%97%A5%E9%A6%99%E8%B1%86%E5%B9%B2,_%E5%A4%A7%E6%BA%AA,_%E6%A1%83%E5%9C%92,_%E5%8F%B0%E7%81%A3,_Daxi,_Taoyuan,_Taiwan_(47202231432).jpg",
+  "credit": "bryan... from Taipei, Taiwan",
+  "license": "CC BY-SA 2.0"
+ },
+ "taiwan-oriental-beauty-tea": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/%EB%8F%99%EB%B0%A9%EB%AF%B8%EC%9D%B81.jpg/960px-%EB%8F%99%EB%B0%A9%EB%AF%B8%EC%9D%B81.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%EB%8F%99%EB%B0%A9%EB%AF%B8%EC%9D%B81.jpg",
+  "credit": "Gcd822",
+  "license": "CC BY-SA 4.0"
+ },
+ "taiwan-bubble-tea": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Bubble_Tea.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Bubble_Tea.png",
+  "credit": "Howief",
+  "license": "CC BY-SA 3.0"
+ },
+ "taiwan-suncake": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Suncake.jpg/960px-Suncake.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Suncake.jpg",
+  "credit": "Meguromaguro",
+  "license": "CC BY-SA 4.0"
+ },
+ "taiwan-ba-wan": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Bawan_with_sauce_at_table_in_a_restaurant_somewhere_in_Daxi.jpg/960px-Bawan_with_sauce_at_table_in_a_restaurant_somewhere_in_Daxi.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bawan_with_sauce_at_table_in_a_restaurant_somewhere_in_Daxi.jpg",
+  "credit": "迷惘的人生",
+  "license": "CC BY-SA 2.0"
+ },
+ "taiwan-chiayi-turkey-rice": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/20220823_Chiayi_Turkey_Rice_in_Kaohsiung%2C_Taiwan.jpg/960px-20220823_Chiayi_Turkey_Rice_in_Kaohsiung%2C_Taiwan.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:20220823_Chiayi_Turkey_Rice_in_Kaohsiung,_Taiwan.jpg",
+  "credit": "midnightbreakfastcafe",
+  "license": "CC BY 2.0"
+ },
+ "taiwan-dong-ding-oolong": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Dong_Ding_tea.jpg/960px-Dong_Ding_tea.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dong_Ding_tea.jpg",
+  "credit": "Waliy sherpa",
+  "license": "CC BY-SA 4.0"
+ },
+ "taiwan-ox-tongue-biscuit": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Ox-tongue-shaped_pastry_closeup_in_Lukang.jpg/960px-Ox-tongue-shaped_pastry_closeup_in_Lukang.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ox-tongue-shaped_pastry_closeup_in_Lukang.jpg",
+  "credit": "neverbutterfly",
+  "license": "CC BY 2.0"
+ },
+ "taiwan-danzai-noodles": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Du_Hsiao_Yueh%27s_Tan_Tsu_Mien_in_ECmall_%2820160514183239%29.jpg/960px-Du_Hsiao_Yueh%27s_Tan_Tsu_Mien_in_ECmall_%2820160514183239%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Du_Hsiao_Yueh%27s_Tan_Tsu_Mien_in_ECmall_(20160514183239).jpg",
+  "credit": "N509FZ",
+  "license": "CC BY-SA 4.0"
+ },
+ "taiwan-milkfish-congee": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Milkfish_Congee_%E8%99%B1%E7%9B%AE%E9%AD%9A%E7%B2%A5.jpg/960px-Milkfish_Congee_%E8%99%B1%E7%9B%AE%E9%AD%9A%E7%B2%A5.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Milkfish_Congee_%E8%99%B1%E7%9B%AE%E9%AD%9A%E7%B2%A5.jpg",
+  "credit": "姜 明雄",
+  "license": "CC0"
+ },
+ "taiwan-coffin-bread": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Coffin_sandwich%2C_Dec_06.JPG/960px-Coffin_sandwich%2C_Dec_06.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Coffin_sandwich,_Dec_06.JPG",
+  "credit": "Unknown author",
+  "license": "Copyrighted free use"
+ },
+ "taiwan-eel-noodles": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Thick_Soup_Noodles_with_Eel_-_%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5_%284596353688%29.jpg/960px-Thick_Soup_Noodles_with_Eel_-_%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5_%284596353688%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Thick_Soup_Noodles_with_Eel_-_%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5_(4596353688).jpg",
+  "credit": "TACO Huang from Kaohsiung, Taiwan",
+  "license": "CC BY-SA 2.0"
+ },
+ "taiwan-fried-chicken-cutlet": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Taiwan_fried_chickenCNE_01.jpg/960px-Taiwan_fried_chickenCNE_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Taiwan_fried_chickenCNE_01.jpg",
+  "credit": "CNEcija12345",
+  "license": "CC BY-SA 4.0"
+ },
+ "taiwan-beef-noodle-soup": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Taiwanese_Beef_Noodle_Soup.jpg/960px-Taiwanese_Beef_Noodle_Soup.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg",
+  "credit": "Jjj84206",
+  "license": "CC BY-SA 4.0"
+ },
+ "taiwan-wanluan-pork-knuckle": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/%E8%90%AC%E5%B7%92%E8%B1%AC%E8%85%B3_%284434285909%29.jpg/960px-%E8%90%AC%E5%B7%92%E8%B1%AC%E8%85%B3_%284434285909%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%E8%90%AC%E5%B7%92%E8%B1%AC%E8%85%B3_(4434285909).jpg",
+  "credit": "Johnson Wang from 台北市, 台灣",
+  "license": "CC BY-SA 2.0"
+ },
+ "taiwan-meinong-ban-tiao": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Flat_noodles.jpg/960px-Flat_noodles.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Flat_noodles.jpg",
+  "credit": "Sean Chiu",
+  "license": "CC BY-SA 4.0"
+ },
+ "taiwan-papaya-milk": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Papaya_Milk_and_Watermelon_Milk_at_Beigang%2C_Yunlin%2C_Taiwan.jpg/960px-Papaya_Milk_and_Watermelon_Milk_at_Beigang%2C_Yunlin%2C_Taiwan.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Papaya_Milk_and_Watermelon_Milk_at_Beigang,_Yunlin,_Taiwan.jpg",
+  "credit": "bryan...",
+  "license": "CC BY-SA 2.0"
+ },
+ "taiwan-lei-cha": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Lei_cha.jpg/960px-Lei_cha.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lei_cha.jpg",
+  "credit": "Ren Kuo from Taipei, Taiwain",
+  "license": "CC BY 2.0"
+ },
+ "taiwan-peanut-ice-cream-roll": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Azhu_peanut_ice_cream_roll_%E4%B9%9D%E4%BB%BD%E9%98%BF%E7%8F%A0%E9%9B%AA%E5%9C%A8%E7%87%92_jiufen_%282025%29_-_img_05.jpg/960px-Azhu_peanut_ice_cream_roll_%E4%B9%9D%E4%BB%BD%E9%98%BF%E7%8F%A0%E9%9B%AA%E5%9C%A8%E7%87%92_jiufen_%282025%29_-_img_05.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Azhu_peanut_ice_cream_roll_%E4%B9%9D%E4%BB%BD%E9%98%BF%E7%8F%A0%E9%9B%AA%E5%9C%A8%E7%87%92_jiufen_(2025)_-_img_05.jpg",
+  "credit": "Chainwit.",
+  "license": "CC BY 4.0"
+ },
+ "taiwan-xi-lu-rou": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Food_%E6%8B%9B%E7%89%8C%E8%8F%9C%E8%84%AF%E8%82%89%2C_My%E7%81%B6%2C_%E5%8F%B0%E5%8C%97_%2822845265769%29.jpg/960px-Food_%E6%8B%9B%E7%89%8C%E8%8F%9C%E8%84%AF%E8%82%89%2C_My%E7%81%B6%2C_%E5%8F%B0%E5%8C%97_%2822845265769%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Food_%E6%8B%9B%E7%89%8C%E8%8F%9C%E8%84%AF%E8%82%89,_My%E7%81%B6,_%E5%8F%B0%E5%8C%97_(22845265769).jpg",
+  "credit": "bryan... from Taipei, Taiwan",
+  "license": "CC BY-SA 2.0"
+ },
+ "taiwan-yilan-smoked-duck": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%E5%88%A9%E6%BE%A4%E8%BE%B2%E7%89%B9%E7%94%A2%E5%93%81%E2%94%80%E8%94%97%E7%87%BB%E9%B4%A8%E8%B3%9E.jpg/960px-%E5%88%A9%E6%BE%A4%E8%BE%B2%E7%89%B9%E7%94%A2%E5%93%81%E2%94%80%E8%94%97%E7%87%BB%E9%B4%A8%E8%B3%9E.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%E5%88%A9%E6%BE%A4%E8%BE%B2%E7%89%B9%E7%94%A2%E5%93%81%E2%94%80%E8%94%97%E7%87%BB%E9%B4%A8%E8%B3%9E.jpg",
+  "credit": "創作者：不詳。貢獻者：不詳",
+  "license": "CC BY 3.0 tw"
+ },
+ "taiwan-chishang-bento": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/30-%E6%B1%A0%E4%B8%8A%E6%82%9F%E9%A5%95%E9%A3%AF%E5%8C%85_%2828896713183%29.jpg/960px-30-%E6%B1%A0%E4%B8%8A%E6%82%9F%E9%A5%95%E9%A3%AF%E5%8C%85_%2828896713183%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:30-%E6%B1%A0%E4%B8%8A%E6%82%9F%E9%A5%95%E9%A3%AF%E5%8C%85_(28896713183).jpg",
+  "credit": "Sinchen.Lin",
+  "license": "CC BY 2.0"
  },
  "thailand-pad-thai": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Phat_Thai_kung_Chang_Khien_street_stall.jpg/960px-Phat_Thai_kung_Chang_Khien_street_stall.jpg",
