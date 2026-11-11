@@ -571,3 +571,24 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
 
 **Rebuild + install**
 `cd app && nvm use 22 && npm run build && npx cap sync android && cd android && ANDROID_HOME=~/Android/Sdk ./gradlew assembleDebug && ~/Android/Sdk/platform-tools/adb install -r app/build/outputs/apk/debug/app-debug.apk`
+- 2026-11-11 new session: phone connected, installed current build (batches 8-10). Starting batch 11 (Ecuador first).
+- Ecuador: research agent running.
+- Ecuador done: 48 dishes, 8 regions (Quito & N Sierra 10, Central Sierra 5, Cuenca & S Sierra 10, Guayaquil & Coast 8, Manabí 5, Esmeraldas 3, Amazon 4, Galápagos 3). GI true 1: miske (SENADI DO, Resolución 001-2022; CAN list of 7 Ecuador DOs, rest ingredients/crafts). Price: encebollado 3.5-3.7 (Sept 2025). Ceviche + seco de chivo written as Ecuadorian versions; cuy, pan de yuca, chicha de jora left out (Peru/Colombia). Thin: Galápagos (one blog), tapao, cocada, Loja (laylita.com). Egg/dairy in empanada de viento + guagua de pan from general knowledge. My fixes: tonga price nulled (undated), helado de paila egg (egg white common). Validator OK.
+- Uzbekistan: research agent running.
+- Uzbekistan done: 39 dishes, 7 regions (Tashkent 8, Fergana 7, Samarkand & Jizzakh 6, Bukhara 6, Khiva & Khorezm 5, Kashkadarya & Surkhandarya 4, Karakalpakstan 3). GI true 13 (State Register of GIs, Ministry of Justice, via dated ministry/IPA news; register itself not seen): to'y oshi, so'qoq somsa, Samarkand non, nohat shurak, Zomin qozon patir, sofi oshi, Gijduvan shashlik, tukhum barak, devzira oshi, baliq qarma, Chimbay zagara non, jughara gurtik, G'uzor tandir go'shti. Prices: Samarkand plov 30500, Khorezm plov 31900 (Stat Agency, Jan 2025). Lagman/manti/samsa/halva written as Uzbek versions. Thin: jizza, chupan kabob (one source), bakhsh. My fixes: devzira price nulled (all-plov regional average), Jarqo'rg'on tandir GI false (source names no body), Samarkand non dairy. Validator OK.
+- Kenya: research agent running.
+- Kenya done: 38 dishes, 5 regions (Nairobi 10, Swahili Coast incl. Lamu 12, Central Highlands 4, Western & Lake Victoria 7, Rift Valley 5). No GIs (no GI law yet; draft GI Bill 2026; KIPI marks only for coffee/tea/baskets). Prices: chapati 20-30, mandazi 20, mayai pasua 25 (2022), smocha 60-70 (2023). Chapati/pilau/biryani as Kenyan versions; samosa left out. Thin: Rift Valley 4 dishes on one Wikipedia page, aliya, osuga, smocha, dawa. magicalkenya.com 403. Safe-side: chapati nonveg (lard sometimes), mandazi egg+dairy (no source), matoke nonveg (beef). My fixes: nulled 2018 blog prices (viazi karai, mahamri, mbaazi, mishkaki) + agent's own pronunciations (sukuma wiki, nyama choma, kuku paka). Validator OK.
+- Pakistan: research agent running (last of batch 11).
+- User: wrap up session. Pakistan agent stopped before writing any file.
+
+## 2026-11-11: WRAP-UP 2 (session end)
+**Done this session**
+- Installed batches 8-10 build on phone.
+- Batch 11 research: Ecuador (48), Uzbekistan (39), Kenya (38) dishes files written + validated. Committed (data only, no photos yet).
+
+**Next session, in order**
+1. Pakistan research (last of batch 11; PKR). Avoid India/Afghanistan duplicates; dish ids `pakistan-`.
+2. Batch 11 photos: fetch_dish_images.py, view unclear thumbnails, NO_PHOTO bad ones.
+3. Build, install, README counts, commit + push.
+4. Batch 12: Nigeria, Ghana, Uruguay, Slovenia (registered).
+5. Still open: Android back closes sheets first (optional); owned logo, privacy policy, restaurant coordinates CSV (waiting on user), revoke Supabase token `claude-setup`.

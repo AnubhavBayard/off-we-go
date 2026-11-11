@@ -1,0 +1,1153 @@
+[
+  {
+    "id": "uzbekistan-tashkent-toy-oshi",
+    "name": "Tashkent wedding plov (To'y oshi)",
+    "local_name": "To'y oshi",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Tashkent",
+    "regions": [
+      "Tashkent"
+    ],
+    "description": "Tashkent's festive plov, cooked early in the morning in large batches in thick-walled hemispherical cast-iron cauldrons. The festive version uses long-grain rice, dried fruits, large chickpeas, boiled horse meat and quail eggs. 'Tashkent wedding pilaf' was registered as a geographical indication by Uzbekistan's Ministry of Justice in April 2026.",
+    "how_to_eat": "Eat from a shared platter, with green tea and a tomato-onion salad.",
+    "how_to_order": "Served at weddings and celebrations; in plov centres ask for to'y oshi.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Uzbek_plov",
+    "source_urls": [
+      "https://zamin.uz/en/uzbekistan/196633-tashkent-wedding-pilaf-has-been-granted-the-status-of-a-geographical-indication.html",
+      "https://www.orexca.com/uzbekistan/cuisine/plov.htm",
+      "https://voyage.uz/guides/guide-uzbek-plov/",
+      "https://en.wikipedia.org/wiki/Uzbek_plov"
+    ]
+  },
+  {
+    "id": "uzbekistan-naryn",
+    "name": "Naryn",
+    "local_name": "Norin",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Tashkent",
+    "regions": [
+      "Tashkent"
+    ],
+    "description": "Hand-rolled egg-dough noodles cut very fine and mixed with thinly sliced boiled horse meat and cumin. The 'dry' version common in Tashkent is served cold with onion and slices of qazi (horse-meat sausage), with hot broth on the side; it is mainly a cold-season dish for celebrations.",
+    "how_to_eat": "Eat the cold noodles and meat first, then sip the hot broth.",
+    "how_to_order": "Ask for norin at teahouses and plov centres, especially in winter.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Naryn_(dish)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Naryn_(dish)",
+      "https://uzbekfoodtour.uz/en/food/show/29",
+      "https://www.orexca.com/uzbekistan/cuisine/dough-dishes.htm"
+    ]
+  },
+  {
+    "id": "uzbekistan-soqoq-somsa",
+    "name": "So'qoq somsa",
+    "local_name": "Soʻqoq somsa",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Uzbekistan",
+    "state": "Tashkent",
+    "regions": [
+      "So'qoq",
+      "Parkent"
+    ],
+    "description": "Spring greens samsa from So'qoq village in Parkent district, Tashkent region. Its key filling is mador, a wild onion that grows in the cool mountain climate around So'qoq in April and May. It is registered as a geographical indication with the Ministry of Justice.",
+    "how_to_eat": "Eat hot from the oven.",
+    "how_to_order": "Look for it in spring around Parkent district.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.fergana.news/articles/138530/",
+      "https://qalampir.uz/news/andizhon-devzira-oshi-%D2%B3am-patentlandi-137347",
+      "https://www.orexca.com/uzbekistan/cuisine/dough-dishes.htm"
+    ]
+  },
+  {
+    "id": "uzbekistan-mastava",
+    "name": "Mastava",
+    "local_name": "Mastava",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Tashkent",
+    "regions": [
+      "Tashkent"
+    ],
+    "description": "A thick soup of lamb, rice and vegetables made by first frying the meat with onions and carrots, in the manner of plov; it is sometimes called 'liquid pilaf'. It is listed among Tashkent's signature dishes.",
+    "how_to_eat": "Stir in the spoonful of sour cream or katyk and the herbs before eating.",
+    "how_to_order": "Order at teahouses and Uzbek cafes.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mastava",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mastava",
+      "https://uzbekistan.travel/en/o/aroma-tashkent-cuisine/"
+    ]
+  },
+  {
+    "id": "uzbekistan-lagman",
+    "name": "Lagman (Uzbek kesma lagman)",
+    "local_name": "Lagʻmon",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Tashkent",
+    "regions": [],
+    "description": "Hand-made noodles with a gravy of meat and vegetables. Uzbekistan has several styles: kesma lagman is the Uzbek style of thick cut noodles with a gravy of radish, cabbage, potatoes, bell peppers and tomatoes, while chuzma lagman is the Uyghur pulled-noodle style. This entry is the Uzbek version, distinct from Xinjiang's Uyghur laghman.",
+    "how_to_eat": "Eat as a soup from a deep bowl, or as a main course with the gravy on top.",
+    "how_to_order": "Ask for kesma lagman or chuzma lagman at teahouses.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://uz.wikipedia.org/wiki/La%CA%BBg%CA%BBmon",
+    "source_urls": [
+      "https://uzbekistan.travel/en/o/uzbek-lagman/",
+      "https://uzbekistan.travel/en/o/aroma-tashkent-cuisine/",
+      "https://www.orexca.com/uzbekistan/cuisine/uzbek-soups.htm"
+    ]
+  },
+  {
+    "id": "uzbekistan-manti",
+    "name": "Manti",
+    "local_name": "Manti",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Tashkent",
+    "regions": [],
+    "description": "Large steamed dumplings with very thin dough, filled with chopped or minced meat and a piece of fat; pumpkin (oshkovok) manti also exist. In Uzbekistan they are usually served with suzma, a strained fermented milk product. This is the Uzbek version, cooked in tiered steamers.",
+    "how_to_eat": "Eat by hand or with a fork, dipped in suzma or sour milk.",
+    "how_to_order": "Order at teahouses; ask for oshkovok manti for the pumpkin version.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Manti_(food)",
+    "source_urls": [
+      "https://uzbekistan.travel/en/o/manti/",
+      "https://www.orexca.com/uzbekistan/cuisine/dough-dishes.htm",
+      "https://en.wikipedia.org/wiki/Manti_(food)"
+    ]
+  },
+  {
+    "id": "uzbekistan-sumalak",
+    "name": "Sumalak",
+    "local_name": "Sumalak",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Uzbekistan",
+    "state": "Tashkent",
+    "regions": [],
+    "description": "A sweet paste cooked from germinated wheat sprouts, flour and fat for about a day. It is prepared during Navruz, the spring new year festival.",
+    "how_to_eat": "Eat by the spoonful, often with bread.",
+    "how_to_order": "Look for it around Navruz (March), when it is cooked in large cauldrons.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://uz.wikipedia.org/wiki/Sumalak",
+    "source_urls": [
+      "https://uz.wikipedia.org/wiki/Sumalak",
+      "https://en.wikipedia.org/wiki/List_of_Uzbek_dishes",
+      "https://www.orexca.com/uzbekistan/cuisine/uzbek-sweets.htm"
+    ]
+  },
+  {
+    "id": "uzbekistan-kok-choy",
+    "name": "Kok choy (green tea)",
+    "local_name": "Kok choy",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Uzbekistan",
+    "state": "Tashkent",
+    "regions": [],
+    "description": "Green tea is the national hot drink, served unsweetened and without milk in small piyola bowls throughout the day and with every meal. Teahouses (choyxona) are important social spaces; black tea is preferred in Tashkent.",
+    "how_to_eat": "Sip from the piyola; the host pours small amounts and refills often.",
+    "how_to_order": "Ask for kok choy at any teahouse.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Uzbek_cuisine",
+      "https://uzbekistan.travel/en/o/secrets-of-the-uzbek-tea-ceremony/"
+    ]
+  },
+  {
+    "id": "uzbekistan-samarkand-non",
+    "name": "Samarkand non",
+    "local_name": "Самарқанд нони",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Uzbekistan",
+    "state": "Samarkand & Jizzakh",
+    "regions": [
+      "Samarkand"
+    ],
+    "description": "A round tandir-baked bread from Samarkand, thinner in the centre with a thick rim; it is described as dense and slightly sweet and keeps for a long time when dried. Around 15,000 were baked daily in 2022. It was registered as a geographical indication by the Ministry of Justice in February 2025.",
+    "how_to_eat": "Tear by hand and eat with tea or any meal.",
+    "how_to_order": "Buy from bakeries and bazaars in Samarkand.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Samarkand_non",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Samarkand_non",
+      "https://gazeta.uz/en/2025/02/06/samarkand-flatbread",
+      "https://en.fergana.news/articles/138530/"
+    ]
+  },
+  {
+    "id": "uzbekistan-nohat-shurak",
+    "name": "Samarkand nohat shurak",
+    "local_name": "Самарқанд нўхат шўраги",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Samarkand & Jizzakh",
+    "regions": [
+      "Samarkand"
+    ],
+    "description": "A thick chickpea and mutton stew cooked in mutton fat with carrots and onions, prepared mainly in Samarkand region where chickpeas are grown. 'Samarkand nohat shurak' was registered as a geographical indication by the Ministry of Justice on 3 July 2025.",
+    "how_to_eat": "Eat with Samarkand bread.",
+    "how_to_order": "Order at Samarkand teahouses.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://uzbekfoodtour.uz/en/food/show/26",
+      "https://www.uzdaily.uz/en/samarkand-nohat-shurak-granted-geographical-indication-status",
+      "https://qalampir.uz/news/andizhon-devzira-oshi-%D2%B3am-patentlandi-137347"
+    ]
+  },
+  {
+    "id": "uzbekistan-samarkand-plov",
+    "name": "Samarkand plov",
+    "local_name": "Palov",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Samarkand & Jizzakh",
+    "regions": [
+      "Samarkand"
+    ],
+    "description": "Samarkand-style plov uses long rice and yellow carrots and is flavoured with dark flaxseed oil. A portion of plov in Samarkand region averaged 30,500 som in January 2025 (Statistics Agency).",
+    "how_to_eat": "Eat from a shared plate with salad and green tea.",
+    "how_to_order": "Order at plov centres at lunchtime.",
+    "typical_price": "30500",
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Uzbek_plov",
+    "source_urls": [
+      "https://www.orexca.com/uzbekistan/cuisine/plov.htm",
+      "https://qalampir.uz/news/palov-indeksi-eng-arzon-osh-k-ayerda-sotildi-113818",
+      "https://en.wikipedia.org/wiki/Uzbek_plov"
+    ]
+  },
+  {
+    "id": "uzbekistan-samarkand-halva",
+    "name": "Samarkand halva",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Uzbekistan",
+    "state": "Samarkand & Jizzakh",
+    "regions": [
+      "Samarkand"
+    ],
+    "description": "A Samarkand halva made from honey, flour and butter with nuts. Halva is served with tea after meals and is part of wedding and festive tables.",
+    "how_to_eat": "Eat in small pieces with green tea.",
+    "how_to_order": "Buy at Samarkand bazaars.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://uzbekistan.travel/en/o/favorite-oriental-delicacy-halva/",
+      "https://www.orexca.com/uzbekistan/cuisine/uzbek-sweets.htm"
+    ]
+  },
+  {
+    "id": "uzbekistan-jizzakh-somsa",
+    "name": "Jizzakh somsa",
+    "local_name": "Somsa",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Uzbekistan",
+    "state": "Samarkand & Jizzakh",
+    "regions": [
+      "Jizzakh"
+    ],
+    "description": "A large half-ball samsa from Jizzakh, also called 'Kipchak samsa', filled with diced mutton, mutton fat and onion and baked in a tandir. It is a signature dish of the Jizzakh people.",
+    "how_to_eat": "Locals eat it with sunflower oil; others use tomato and vinegar sauce.",
+    "how_to_order": "Buy fresh from tandir bakers in Jizzakh.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://uzbekfoodtour.uz/en/food/show/32",
+      "https://uzbekistan.travel/en/o/uzbek-samsa/"
+    ]
+  },
+  {
+    "id": "uzbekistan-zomin-qozon-patir",
+    "name": "Zomin qozon patir",
+    "local_name": "Zomin qozon patiri",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Uzbekistan",
+    "state": "Samarkand & Jizzakh",
+    "regions": [
+      "Zomin"
+    ],
+    "description": "A flatbread from Zomin district, Jizzakh region, made from dough with local milk and butter and baked in a cauldron (qozon) rather than a tandir. It was registered as Uzbekistan's 20th geographical indication in July 2025.",
+    "how_to_eat": "Eat hot for breakfast with cream and tea; butter can be put in the middle.",
+    "how_to_order": "Look for it in Zomin and Jizzakh region.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://qalampir.uz/en/news/zomin-k-ozon-patiri-patentlandi-121416",
+      "https://uzbekistan.travel/en/o/kazan-patyr/"
+    ]
+  },
+  {
+    "id": "uzbekistan-sofi-oshi",
+    "name": "Sofi oshi",
+    "local_name": "Sofi oshi",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Bukhara",
+    "regions": [
+      "Bukhara"
+    ],
+    "description": "A Bukhara plov in which boiled meat, onions and carrots are topped with cumin-salted rice and finished with oil made from pumpkin seeds, sesame and nuts; it takes over three hours of slow cooking. Traditionally a wedding dish, it is now also served in Bukhara cafes. It was registered as a geographical indication in December 2025.",
+    "how_to_eat": "Eat from a shared plate with green tea.",
+    "how_to_order": "Ask for oshi sofi at Bukhara cafes.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "sesame",
+      "nuts"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://indyguide.com/article/oshi-sofi-plove-of-bukhara",
+      "https://www.afisha.uz/uz/gorod/2025/12/24/oshisofi",
+      "https://zamin.uz/en/uzbekistan/178303-a-new-stage-in-the-history-of-bukhara-cuisine-sofi-oshi-in-the-state-register.html"
+    ]
+  },
+  {
+    "id": "uzbekistan-gijduvan-shashlik",
+    "name": "Gijduvan shashlik",
+    "local_name": "Ғиждувон шашлик",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Bukhara",
+    "regions": [
+      "Gijduvan"
+    ],
+    "description": "Minced-meat kebab from Gijduvan, about 50 km from Bukhara, made only from meat, onion, animal fat and spices; the mince is frozen and ground again so it holds on the skewer. It was registered as a geographical indication in August 2023; the Ministry of Justice said anyone may still cook it.",
+    "how_to_eat": "Eat off the skewer with sliced onion and bread.",
+    "how_to_order": "Order in Gijduvan or at kebab grills in Bukhara region.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.fergana.news/articles/138530/",
+      "https://uzbekistan.travel/en/o/uzbek-kebab/",
+      "https://kun.uz/en/news/2023/08/30/gijduvan-kebab-patented",
+      "https://uzbekfoodtour.uz/en/food/show/35"
+    ]
+  },
+  {
+    "id": "uzbekistan-bakhsh",
+    "name": "Bakhsh (green plov)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Bukhara",
+    "regions": [
+      "Bukhara"
+    ],
+    "description": "A Bukharan Jewish 'green palov' of rice with meat or chicken and plenty of coriander, parsley and dill. It is cooked either in a small bag in boiling water (bakhshi khaltagi) or in a cauldron like regular plov (bakhshi degi).",
+    "how_to_eat": null,
+    "how_to_order": "Found mainly in Bukharan Jewish homes and community kitchens.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Uzbek_cuisine",
+      "https://en.wikipedia.org/wiki/Bukharan_Jewish_cuisine"
+    ]
+  },
+  {
+    "id": "uzbekistan-bukhara-somsa",
+    "name": "Bukhara somsa",
+    "local_name": "Somsa",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Uzbekistan",
+    "state": "Bukhara",
+    "regions": [
+      "Bukhara"
+    ],
+    "description": "Bukhara's samsa is baked and triangular. Uzbek samsa is usually filled with chopped meat or minced meat and often contains tail fat.",
+    "how_to_eat": "Eat hot as a snack with tea.",
+    "how_to_order": "Buy from tandir bakers and bazaar stalls.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://uzbekistan.travel/en/o/uzbek-samsa/",
+      "https://www.orexca.com/uzbekistan/cuisine/dough-dishes.htm"
+    ]
+  },
+  {
+    "id": "uzbekistan-bukhara-non",
+    "name": "Bukhara non",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Uzbekistan",
+    "state": "Bukhara",
+    "regions": [
+      "Bukhara"
+    ],
+    "description": "Bukhara's version of obi non, the tandir-baked staple flatbread, sprinkled with sesame or nigella seeds. Bukhara bread is smaller and thicker than Samarkand's.",
+    "how_to_eat": "Tear by hand and eat with any meal.",
+    "how_to_order": "Buy at Bukhara bakeries and bazaars.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Uzbek_cuisine",
+      "https://www.orexca.com/uzbekistan/cuisine/uzbek-bread.htm"
+    ]
+  },
+  {
+    "id": "uzbekistan-nisholda",
+    "name": "Nisholda",
+    "local_name": "Nisholda",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Uzbekistan",
+    "state": "Bukhara",
+    "regions": [],
+    "description": "A thick white sweet like a meringue, made from whipped egg whites and sugar flavoured with soap-root or licorice syrup. It is traditionally eaten at iftar during Ramadan with bread and tea, and is also a traditional dish of Bukharan Jews.",
+    "how_to_eat": "Spread on bread or eat with green tea.",
+    "how_to_order": "Look for it at bazaars during Ramadan.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nisholda",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nisholda",
+      "https://www.orexca.com/uzbekistan/cuisine/uzbek-sweets.htm"
+    ]
+  },
+  {
+    "id": "uzbekistan-shivit-oshi",
+    "name": "Shivit oshi",
+    "local_name": "Shivit oshi",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Khiva & Khorezm",
+    "regions": [
+      "Khiva"
+    ],
+    "description": "Khorezm's 'green lagman': noodles coloured bright green with dill, served with a meat-and-vegetable sauce (vaju) and a white sour-milk sauce. It originated in Khiva and is mainly a summer dish.",
+    "how_to_eat": "Mix the sauces into the noodles.",
+    "how_to_order": "Order in Khiva, mainly in summer.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://uz.wikipedia.org/wiki/Shivit_oshi",
+    "source_urls": [
+      "https://uzbekistan.travel/en/o/shivit-osh/",
+      "https://uz.wikipedia.org/wiki/Shivit_oshi",
+      "https://www.orexca.com/uzbekistan/cuisine/dough-dishes.htm"
+    ]
+  },
+  {
+    "id": "uzbekistan-tukhum-barak",
+    "name": "Tukhum barak",
+    "local_name": "Tuxum barak",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Khiva & Khorezm",
+    "regions": [
+      "Khiva"
+    ],
+    "description": "Boiled dumplings with an egg dough and a filling of raw egg mixed with butter and milk or salt water. Also called 'yumurta barak', it is valued in Khorezm and Karakalpakstan. 'Khorezm tukhumbarak' was registered as a geographical indication in June 2025.",
+    "how_to_eat": "Eat drizzled with sour cream or sour milk.",
+    "how_to_order": "Order at restaurants in Khiva and Urgench.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://uz.wikipedia.org/wiki/Tuxum_barak",
+    "source_urls": [
+      "https://uzbekfoodtour.uz/en/food/show/23",
+      "https://zamin.uz/en/society/152165-the-pride-of-khorezm-cuisine-tukhum-barak-granted-state-protection.html",
+      "https://uz.wikipedia.org/wiki/Tuxum_barak"
+    ]
+  },
+  {
+    "id": "uzbekistan-ijjon",
+    "name": "Ijjon",
+    "local_name": "Ijjon",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Uzbekistan",
+    "state": "Khiva & Khorezm",
+    "regions": [
+      "Khiva"
+    ],
+    "description": "An old Khorezm dish of raw minced beef or mutton, similar to steak tartare, served to guests before the main meal. It is found in Khiva and Khorezm cooking.",
+    "how_to_eat": "Eat as a starter before the main course.",
+    "how_to_order": "Ask for ijjon at Khorezm restaurants.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://uz.wikipedia.org/wiki/Ijjon",
+    "source_urls": [
+      "https://uz.wikipedia.org/wiki/Ijjon",
+      "https://en.wikipedia.org/wiki/List_of_Uzbek_dishes"
+    ]
+  },
+  {
+    "id": "uzbekistan-khorezm-plov",
+    "name": "Khorezm plov",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Khiva & Khorezm",
+    "regions": [
+      "Khiva"
+    ],
+    "description": "Khiva and Khorezm make a lighter plov with minimal spices and oil. A portion of plov in Khorezm region averaged 31,900 som in January 2025 (Statistics Agency).",
+    "how_to_eat": "Eat from a shared plate with green tea.",
+    "how_to_order": "Order at plov centres and teahouses in Khiva and Urgench.",
+    "typical_price": "31900",
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Uzbek_plov",
+    "source_urls": [
+      "https://www.orexca.com/uzbekistan/cuisine/plov.htm",
+      "https://qalampir.uz/news/palov-indeksi-eng-arzon-osh-k-ayerda-sotildi-113818"
+    ]
+  },
+  {
+    "id": "uzbekistan-khorezm-somsa",
+    "name": "Khorezm somsa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Uzbekistan",
+    "state": "Khiva & Khorezm",
+    "regions": [],
+    "description": "Khorezm's samsa is fried rather than baked and filled with minced meat.",
+    "how_to_eat": "Eat hot.",
+    "how_to_order": "Buy from bazaar stalls in Khorezm.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://uzbekistan.travel/en/o/uzbek-samsa/"
+    ]
+  },
+  {
+    "id": "uzbekistan-andijan-devzira-oshi",
+    "name": "Andijan devzira plov",
+    "local_name": "Андижон девзира оши",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Fergana Valley",
+    "regions": [
+      "Andijan"
+    ],
+    "description": "Plov made with devzira, a reddish, dense rice grown in the Fergana Valley that keeps its grains separate. Fergana Valley plov is rich in oil and sometimes spiked with hot chilli. 'Andijan devzira oshi' was registered as a geographical indication, announced by the Intellectual Property Agency in June 2026. A plov portion in Andijan region averaged 31,200 som in January 2025.",
+    "how_to_eat": "Eat from a shared plate with salad and tea.",
+    "how_to_order": "Order at plov centres in Andijan.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Uzbek_plov",
+    "source_urls": [
+      "https://qalampir.uz/news/andizhon-devzira-oshi-%D2%B3am-patentlandi-137347",
+      "https://www.orexca.com/uzbekistan/cuisine/plov.htm",
+      "https://qalampir.uz/news/palov-indeksi-eng-arzon-osh-k-ayerda-sotildi-113818"
+    ]
+  },
+  {
+    "id": "uzbekistan-boin-gusht-kabob",
+    "name": "Boin gusht kabob",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Fergana Valley",
+    "regions": [
+      "Andijan",
+      "Asaka",
+      "Namangan",
+      "Fergana"
+    ],
+    "description": "Lamb neck stewed for 4-5 hours until the fat melts, served with new potatoes fried in the cauldron. A teahouse dish of the Fergana Valley, now found in teahouses across Uzbekistan.",
+    "how_to_eat": "Eat with the potatoes and fresh herbs.",
+    "how_to_order": "Order at teahouses in Andijan, Namangan or Fergana.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://uzbekistan.travel/en/o/boin-gusht-kabob/"
+    ]
+  },
+  {
+    "id": "uzbekistan-bedana-kabob",
+    "name": "Bedana kabob",
+    "local_name": "Bedana kabob",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Fergana Valley",
+    "regions": [
+      "Andijan"
+    ],
+    "description": "Quail stuffed and cooked with lamb, spices and vegetables. It was once served only in wealthy families and at khans' court festivals; versions were recorded by the Andijan chef Mamatkhon Sokiev.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for it at restaurants serving Fergana Valley dishes.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://uzbekistan.travel/en/o/bedana-kabob/"
+    ]
+  },
+  {
+    "id": "uzbekistan-qatlama",
+    "name": "Katlama",
+    "local_name": "Qatlama",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Uzbekistan",
+    "state": "Fergana Valley",
+    "regions": [
+      "Andijan",
+      "Fergana"
+    ],
+    "description": "A thin, layered flatbread of Andijan and Fergana, rolled thin and cooked in fat. Fat (animal fat or sunflower oil) is used between the layers.",
+    "how_to_eat": "Tear and eat with tea or soup.",
+    "how_to_order": "Ask whether animal fat is used if you are vegetarian.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://uz.wikipedia.org/wiki/Qatlama",
+    "source_urls": [
+      "https://www.orexca.com/uzbekistan/cuisine/uzbek-bread.htm",
+      "https://uz.wikipedia.org/wiki/Qatlama",
+      "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%BB%D0%B0%D0%BC%D0%B0"
+    ]
+  },
+  {
+    "id": "uzbekistan-kokand-halva",
+    "name": "Kokand halva",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Uzbekistan",
+    "state": "Fergana Valley",
+    "regions": [
+      "Kokand"
+    ],
+    "description": "A Kokand halva made with cream, with chocolate and nuts added. Kokand is named among the esteemed halva-making towns of Uzbekistan.",
+    "how_to_eat": "Eat in small pieces with green tea.",
+    "how_to_order": "Buy at confectioners and bazaars in Kokand.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://uzbekistan.travel/en/o/favorite-oriental-delicacy-halva/",
+      "https://www.orexca.com/uzbekistan/cuisine/uzbek-sweets.htm"
+    ]
+  },
+  {
+    "id": "uzbekistan-shakarob",
+    "name": "Shakarob (achchiq-chuchuk)",
+    "local_name": "Shakarob",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Uzbekistan",
+    "state": "Fergana Valley",
+    "regions": [],
+    "description": "A salad of thinly sliced tomatoes, onion washed in cold water, green chilli and salt; in the Fergana Valley it is called shakarob and includes thinly sliced cucumber. Elsewhere it is known as achchiq-chuchuk and is served with plov or shashlik.",
+    "how_to_eat": "Eat alongside plov or kebabs.",
+    "how_to_order": "Order with any plov or shashlik.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://uz.wikipedia.org/wiki/Achchiq-chuchuk",
+    "source_urls": [
+      "https://uz.wikipedia.org/wiki/Achchiq-chuchuk",
+      "https://en.wikipedia.org/wiki/Shakarap",
+      "https://uzbekistan.travel/en/o/uzbek-salads/"
+    ]
+  },
+  {
+    "id": "uzbekistan-fergana-ugra",
+    "name": "Ugra soup (Fergana style)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Fergana Valley",
+    "regions": [],
+    "description": "A soup of cut noodles with beef or mutton, potato, carrot and tomato. In the Fergana Valley the noodle dough is made with milk; it may be finished with curd or sour milk.",
+    "how_to_eat": "Eat hot as a first course.",
+    "how_to_order": "Order at teahouses in the Fergana Valley.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://uzbekfoodtour.uz/en/food/show/11",
+      "https://www.orexca.com/uzbekistan/cuisine/uzbek-soups.htm"
+    ]
+  },
+  {
+    "id": "uzbekistan-baliq-qarma",
+    "name": "Baliq qarma",
+    "local_name": "Baliq qarma",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Karakalpakstan",
+    "regions": [],
+    "description": "A Karakalpak fish dish from the fishing traditions of the Aral Sea: boiled fish with shurpa broth, small squares of dried dough and vegetables, with fat from the broth poured over chopped onions. It was registered as a geographical indication in October 2025.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for it at restaurants in Nukus and Karakalpakstan.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.uzdaily.uz/en/the-national-dish-of-karakalpakstan-baliq-qarma-registered-as-a-geographical-indication/",
+      "https://qalampir.uz/news/andizhon-devzira-oshi-%D2%B3am-patentlandi-137347"
+    ]
+  },
+  {
+    "id": "uzbekistan-chimbay-zagara-non",
+    "name": "Chimbay zagara non",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Uzbekistan",
+    "state": "Karakalpakstan",
+    "regions": [
+      "Chimbay"
+    ],
+    "description": "A traditional Karakalpak flatbread from Chimbay district, today made from barley and wheat flour with vegetable additives, salt, oil and water; historically millet and pumpkin or carrot were used. It has been registered as a geographical indication.",
+    "how_to_eat": "Eat with meals or tea.",
+    "how_to_order": "Look for it in Chimbay and Nukus.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://karakalpakstan.travel/media-and-resources/media-and-resources-66/?lang=en"
+    ]
+  },
+  {
+    "id": "uzbekistan-jughara-gurtik",
+    "name": "Karakalpak jughara gurtik",
+    "local_name": "Juvari kurtik",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Karakalpakstan",
+    "regions": [],
+    "description": "Small coin-shaped dumplings of sorghum (jughara) flour boiled in broth and served with boiled meat (beef, chicken or turkey), carrots, potatoes and onions. It is the Karakalpak national dish gurtik; a wheat-flour version also exists. It was registered as a geographical indication in May 2026.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for gurtik in Karakalpakstan.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://joqargikenes.uz/en/posts/2958/",
+      "https://uzbekfoodtour.uz/en/food/show/14"
+    ]
+  },
+  {
+    "id": "uzbekistan-guzor-tandir-goshti",
+    "name": "G'uzor tandir go'shti",
+    "local_name": "G‘uzor tandir go‘shti",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Kashkadarya & Surkhandarya",
+    "regions": [
+      "Guzar"
+    ],
+    "description": "Meat cooked in a pit tandir with juniper branches and juniper firewood, from Guzar in Kashkadarya region. Tandir lamb is prepared there for special guests and holidays. It was registered as a geographical indication in January 2024.",
+    "how_to_eat": "Eat with bread and onions.",
+    "how_to_order": "Order in Guzar and Karshi.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.fergana.news/articles/138530/",
+      "https://uzbekfoodtour.uz/en/food/show/17",
+      "https://qalampir.uz/news/andizhon-devzira-oshi-%D2%B3am-patentlandi-137347"
+    ]
+  },
+  {
+    "id": "uzbekistan-jarqorgon-tandir-goshti",
+    "name": "Jarqo'rg'on tandir go'shti",
+    "local_name": "Jarqo'rg'on tandir go'shti",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Kashkadarya & Surkhandarya",
+    "regions": [
+      "Jarkurgan"
+    ],
+    "description": "Hisar lamb from local pastures cooked for 1.5-2 hours in a ground tandir heated with juniper branches, so the outside reddens and the inside stays juicy. It comes from Jarkurgan district in Surkhandarya and was registered as a geographical indication in October 2025.",
+    "how_to_eat": "Eat with bread and onions.",
+    "how_to_order": "Order in Jarkurgan and Termez.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://zamin.uz/en/uzbekistan/164857-jarqorgon-tandir-goshti-has-been-recognized-as-a-national-brand.html"
+    ]
+  },
+  {
+    "id": "uzbekistan-chupan-kabob",
+    "name": "Chupan kabob",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uzbekistan",
+    "state": "Kashkadarya & Surkhandarya",
+    "regions": [],
+    "description": "A Surkhandarya 'shepherd's kebab' that is not skewered: large pieces of mutton and rump fat fried in oil with potatoes and braised in a cauldron. It was first made by shepherds.",
+    "how_to_eat": null,
+    "how_to_order": "Order at teahouses in Surkhandarya.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://uzbekfoodtour.uz/en/food/show/38"
+    ]
+  },
+  {
+    "id": "uzbekistan-jizza",
+    "name": "Jizza",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Uzbekistan",
+    "state": "Kashkadarya & Surkhandarya",
+    "regions": [
+      "Karshi"
+    ],
+    "description": "Crispy fried cubes of mutton fat topped with onion rings, served in Karshi.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for jizza at restaurants in Karshi.",
+    "typical_price": null,
+    "currency": "UZS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://uzbekfoodtour.uz/en/food/show/43"
+    ]
+  }
+]

@@ -1,0 +1,1431 @@
+[
+  {
+    "id": "ecuador-locro-de-papa",
+    "name": "Locro de papa",
+    "local_name": "Locro de papa",
+    "pronunciation": "LOH-kroh deh PAH-pah",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Quito & Northern Sierra",
+    "regions": [
+      "Quito"
+    ],
+    "description": "A thick Andean potato soup, partly thickened by breaking down some of the potatoes, coloured with achiote and finished with fresh cheese. Ecuador Travel lists it under Pichincha province.",
+    "how_to_eat": "Eat hot, topped with avocado slices and fresh white cheese.",
+    "how_to_order": "Ask for 'locro de papa' at lunch menus and market stalls in Quito.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Locro",
+    "source_urls": [
+      "https://ecuador.travel/en/what-to-eat",
+      "https://thinkgalapagos.com/a-culinary-journey-through-ecuador-and-the-galapagos/",
+      "https://en.wikipedia.org/wiki/Locro"
+    ]
+  },
+  {
+    "id": "ecuador-yahuarlocro",
+    "name": "Yahuarlocro",
+    "local_name": "Yahuarlocro",
+    "pronunciation": "ya-wahr-LOH-kroh",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Quito & Northern Sierra",
+    "regions": [
+      "Guayllabamba"
+    ],
+    "description": "A potato locro cooked with lamb tripe, stomach and liver, topped with a sauce of the lamb's blood, onion and avocado. The name is Kichwa for 'blood stew'; it is most associated with Guayllabamba near Quito.",
+    "how_to_eat": "Eat hot with avocado and the blood-and-onion topping spooned over.",
+    "how_to_order": "Ask for 'yahuarlocro' or 'yaguarlocro' at Sierra market food stalls.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Yahuarlocro",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Yahuarlocro",
+      "https://en.wikipedia.org/wiki/Locro"
+    ]
+  },
+  {
+    "id": "ecuador-fanesca",
+    "name": "Fanesca",
+    "local_name": "Fanesca",
+    "pronunciation": "fah-NES-kah",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Quito & Northern Sierra",
+    "regions": [],
+    "description": "A thick soup of many tender grains and beans with squash, dairy and salted dried fish, traditionally prepared for Good Friday and Holy Week. It is eaten across Ecuador, by households and communities.",
+    "how_to_eat": "Eat as the Holy Week main meal, shared with family.",
+    "how_to_order": "Look for 'fanesca' on restaurant menus during Lent and Holy Week only.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fanesca",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fanesca",
+      "https://ecuador.travel/en/what-to-eat",
+      "https://en.wikipedia.org/wiki/Ecuadorian_cuisine"
+    ]
+  },
+  {
+    "id": "ecuador-empanada-de-viento",
+    "name": "Empanada de viento",
+    "local_name": "Empanada de viento",
+    "pronunciation": "em-pah-NAH-dah deh vee-EN-toh",
+    "category": "street_food",
+    "country": "Ecuador",
+    "state": "Quito & Northern Sierra",
+    "regions": [],
+    "description": "A fried wheat-dough empanada filled with cheese that puffs up with air ('viento') and is dusted with sugar. Ecuador Travel lists it among the country's popular empanadas.",
+    "how_to_eat": "Eat hot and sugary, with coffee or a hot drink.",
+    "how_to_order": "Ask for 'empanada de viento' at cafés, bakeries and street stalls.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ecuador.travel/en/what-to-eat",
+      "https://thinkgalapagos.com/a-culinary-journey-through-ecuador-and-the-galapagos/",
+      "https://www.laylita.com/travel/360/what-to-eat-in-loja-ecuador/"
+    ]
+  },
+  {
+    "id": "ecuador-espumilla",
+    "name": "Espumilla",
+    "local_name": "Espumilla",
+    "pronunciation": "es-poo-MEE-yah",
+    "category": "sweet",
+    "country": "Ecuador",
+    "state": "Quito & Northern Sierra",
+    "regions": [
+      "Quito"
+    ],
+    "description": "A meringue-like sweet of egg whites, sugar and fruit pulp, usually guava or blackberry, whipped by hand and served in an ice-cream cone. It originated in downtown Quito and is sold by street vendors across Ecuador.",
+    "how_to_eat": "Eat from the cone, sometimes topped with blackberry syrup (arrope de mora).",
+    "how_to_order": "Buy from street vendors outside schools, plazas and markets.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Espumilla",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Espumilla"
+    ]
+  },
+  {
+    "id": "ecuador-helado-de-paila",
+    "name": "Helado de paila",
+    "local_name": "Helado de paila",
+    "pronunciation": "eh-LAH-doh deh PIE-lah",
+    "category": "sweet",
+    "country": "Ecuador",
+    "state": "Quito & Northern Sierra",
+    "regions": [
+      "Ibarra"
+    ],
+    "description": "A sorbet-like frozen dessert made by stirring fruit juice and sugar in a bronze basin (paila) set on ice and straw. It developed in the highlands of northern Ecuador and southern Colombia; Ibarra is its best-known home.",
+    "how_to_eat": "Eat by the cup or cone in flavours like blackberry, soursop or naranjilla.",
+    "how_to_order": "Ask for 'helado de paila' at ice cream shops in Ibarra.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Helado_de_paila",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Helado_de_paila",
+      "https://en.wikipedia.org/wiki/Ecuadorian_cuisine"
+    ]
+  },
+  {
+    "id": "ecuador-colada-morada",
+    "name": "Colada morada",
+    "local_name": "Colada morada",
+    "pronunciation": "koh-LAH-dah moh-RAH-dah",
+    "category": "drink",
+    "country": "Ecuador",
+    "state": "Quito & Northern Sierra",
+    "regions": [],
+    "description": "A thick purple drink of black corn flour, fruit, herbs and spices, sweetened with panela. It is traditionally drunk around 2 November (Día de los Difuntos) with guaguas de pan.",
+    "how_to_eat": "Drink warm or cold alongside a guagua de pan.",
+    "how_to_order": "Look for it in bakeries and cafés in late October and early November.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Colada_morada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Colada_morada",
+      "https://en.wikipedia.org/wiki/Ecuadorian_cuisine",
+      "https://ecuador.travel/en/what-to-eat"
+    ]
+  },
+  {
+    "id": "ecuador-guagua-de-pan",
+    "name": "Guagua de pan",
+    "local_name": "Guagua de pan",
+    "pronunciation": "GWAH-gwah deh pahn",
+    "category": "sweet",
+    "country": "Ecuador",
+    "state": "Quito & Northern Sierra",
+    "regions": [],
+    "description": "A sweet wheat bread roll shaped and decorated like a swaddled baby, sometimes with a sweet filling. In Ecuador it is made and exchanged on 2 November across the Andes and eaten with colada morada.",
+    "how_to_eat": "Eat with a glass of colada morada.",
+    "how_to_order": "Buy at bakeries around Día de los Difuntos.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/T%27anta_wawa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/T%27anta_wawa",
+      "https://en.wikipedia.org/wiki/Colada_morada"
+    ]
+  },
+  {
+    "id": "ecuador-canelazo",
+    "name": "Canelazo",
+    "local_name": "Canelazo",
+    "pronunciation": "kah-neh-LAH-soh",
+    "category": "drink",
+    "country": "Ecuador",
+    "state": "Quito & Northern Sierra",
+    "regions": [
+      "Quito"
+    ],
+    "description": "A hot drink of cinnamon water, panela and aguardiente (sugarcane spirit), often with naranjilla or other fruit juice. It is sold by street vendors during holidays, especially the Fiestas de Quito and Christmas.",
+    "how_to_eat": "Drink hot; can be ordered without alcohol.",
+    "how_to_order": "Ask for 'canelazo' from street vendors during Fiestas de Quito or in highland bars.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Canelazo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Canelazo",
+      "https://ecuador.travel/en/what-to-eat",
+      "https://en.wikipedia.org/wiki/Ecuadorian_cuisine"
+    ]
+  },
+  {
+    "id": "ecuador-fritada",
+    "name": "Fritada",
+    "local_name": "Fritada",
+    "pronunciation": "free-TAH-dah",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Quito & Northern Sierra",
+    "regions": [
+      "Otavalo"
+    ],
+    "description": "Pork cooked in water and orange juice with onion, garlic and cumin until the liquid evaporates and the meat browns in its own fat in a brass pan. It is a highland dish; Ecuador's Spanish-language sources name Imbabura for it.",
+    "how_to_eat": "Eat with llapingachos or boiled potatoes, mote, pickled onion and tomato, and fried ripe plantain.",
+    "how_to_order": "Ask for 'fritada' at market stalls such as Otavalo's.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fritada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fritada",
+      "https://ecuador.travel/en/what-to-eat",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Ecuador"
+    ]
+  },
+  {
+    "id": "ecuador-llapingacho",
+    "name": "Llapingacho",
+    "local_name": "Llapingacho",
+    "pronunciation": "yah-peen-GAH-choh",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Central Sierra",
+    "regions": [
+      "Ambato"
+    ],
+    "description": "A potato patty seasoned with onion, cumin and achiote, stuffed with fresh cheese and fried on a griddle until crisp. It originated in Ambato and is usually served with peanut sauce.",
+    "how_to_eat": "Eat with peanut sauce, often alongside pork, sausage, fried egg and avocado.",
+    "how_to_order": "Ask for 'llapingachos' at Ambato market stalls or with hornado or fritada.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Llapingacho",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Llapingacho",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Ecuador"
+    ]
+  },
+  {
+    "id": "ecuador-chugchucaras",
+    "name": "Chugchucaras",
+    "local_name": "Chugchucaras",
+    "pronunciation": "choog-choo-KAH-rahs",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Central Sierra",
+    "regions": [
+      "Latacunga"
+    ],
+    "description": "A Latacunga plate of deep-fried pork, mote (hominy), potatoes, fried plantains, empanadas and pork rinds. The name comes from Kichwa words meaning 'trembling' and 'pig skin'.",
+    "how_to_eat": "Eat with ají, a sauce of hot peppers, tomato, cilantro and onion.",
+    "how_to_order": "Ask for 'chugchucaras' in Latacunga.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chugchucaras",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chugchucaras",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Ecuador"
+    ]
+  },
+  {
+    "id": "ecuador-hornado",
+    "name": "Hornado",
+    "local_name": "Hornado",
+    "pronunciation": "or-NAH-doh",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Central Sierra",
+    "regions": [
+      "Riobamba"
+    ],
+    "description": "Whole pig roasted in a wood oven, often marinated with garlic, cumin and beer. It is a highland market dish found across Ecuador, served with mote, llapingachos, fried ripe plantain and pickled onion and tomato.",
+    "how_to_eat": "Eat with mote, llapingachos and curtido.",
+    "how_to_order": "Ask for a plate of 'hornado' at highland markets, where whole roast pigs are on display.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hornado",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hornado",
+      "https://es.wikipedia.org/wiki/Hornado",
+      "https://thinkgalapagos.com/a-culinary-journey-through-ecuador-and-the-galapagos/",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Ecuador"
+    ]
+  },
+  {
+    "id": "ecuador-quimbolito",
+    "name": "Quimbolito",
+    "local_name": "Quimbolito",
+    "pronunciation": "keem-boh-LEE-toh",
+    "category": "sweet",
+    "country": "Ecuador",
+    "state": "Central Sierra",
+    "regions": [
+      "Ambato",
+      "Quito"
+    ],
+    "description": "A sweet steamed cake of flour, eggs, sugar and butter or lard, wrapped in achira leaves. It is documented in the Sierra, especially Ambato and Quito, and may contain cheese or raisins.",
+    "how_to_eat": "Eat warm with coffee, hot chocolate or tea.",
+    "how_to_order": "Ask for 'quimbolitos' at bakeries and cafés in the afternoon.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Quimbolito",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Quimbolito",
+      "https://ecuador.travel/en/what-to-eat",
+      "https://www.laylita.com/travel/360/what-to-eat-in-loja-ecuador/"
+    ]
+  },
+  {
+    "id": "ecuador-muchines-de-yuca",
+    "name": "Muchines de yuca",
+    "local_name": "Muchines de yuca",
+    "pronunciation": "moo-CHEE-nes deh YOO-kah",
+    "category": "snack",
+    "country": "Ecuador",
+    "state": "Central Sierra",
+    "regions": [
+      "Ambato"
+    ],
+    "description": "Boiled cassava mashed with egg yolk, shaped around a cheese and onion filling and fried until golden. They are found on the coast but are popular in Ambato at breakfast.",
+    "how_to_eat": "Eat with honey, alongside coffee or canelazo.",
+    "how_to_order": "Ask for 'muchines' at breakfast cafés in Ambato.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Muchines_de_yuca",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Muchines_de_yuca"
+    ]
+  },
+  {
+    "id": "ecuador-mote-pillo",
+    "name": "Mote pillo",
+    "local_name": "Mote pillo",
+    "pronunciation": "MOH-teh PEE-yoh",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Cuenca & Southern Sierra",
+    "regions": [
+      "Cuenca"
+    ],
+    "description": "Hominy (mote) scrambled with eggs, milk, achiote and green onion, seasoned with garlic and cumin. It is one of the emblematic dishes of Cuenca and Azuay province.",
+    "how_to_eat": "Eat as breakfast or as a side to grilled meat.",
+    "how_to_order": "Ask for 'mote pillo' at Cuenca markets and traditional eateries.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mote_pillo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mote_pillo",
+      "https://ecuador.travel/en/what-to-eat"
+    ]
+  },
+  {
+    "id": "ecuador-mote-sucio",
+    "name": "Mote sucio",
+    "local_name": "Mote sucio",
+    "pronunciation": "MOH-teh SOO-see-oh",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Cuenca & Southern Sierra",
+    "regions": [
+      "Cuenca"
+    ],
+    "description": "Hominy fried in mapahuira, the dark pork fat and crumbs left from making fritada, with garlic, cumin and green onion. Its 'dirty' name comes from that appearance; it is an Azuay and Cañar dish.",
+    "how_to_eat": "Eat as a lunch side, especially with grilled pork.",
+    "how_to_order": "Ask for 'mote sucio' at Cuenca markets.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Mote_sucio",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Mote_sucio",
+      "https://ecuador.travel/en/what-to-eat",
+      "https://en.wikipedia.org/wiki/Mote_pillo"
+    ]
+  },
+  {
+    "id": "ecuador-mote-pata",
+    "name": "Mote pata",
+    "local_name": "Mote pata",
+    "pronunciation": "MOH-teh PAH-tah",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Cuenca & Southern Sierra",
+    "regions": [
+      "Cuenca"
+    ],
+    "description": "A soup of hominy with pork, home-made longaniza sausage and squash seeds, cooked in an achiote refrito. It is a Carnival dish of Azuay and Cañar; 'pata' comes from Kichwa for 'well cooked', not from a foot.",
+    "how_to_eat": "Eat at Carnival, often with chicha de jora.",
+    "how_to_order": "Look for 'mote pata' in Cuenca around Carnival.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Mote_pata",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Mote_pata",
+      "https://ecuador.travel/en/what-to-eat"
+    ]
+  },
+  {
+    "id": "ecuador-repe-lojano",
+    "name": "Repe lojano",
+    "local_name": "Repe",
+    "pronunciation": "REH-peh loh-HAH-noh",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Cuenca & Southern Sierra",
+    "regions": [
+      "Loja"
+    ],
+    "description": "A creamy soup of green bananas (guineo), milk, fresh cheese and cilantro from Loja province. A variant, arvejas con guineo, adds split peas.",
+    "how_to_eat": "Eat hot with avocado slices.",
+    "how_to_order": "Ask for 'repe' at lunch spots in Loja.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.laylita.com/travel/360/what-to-eat-in-loja-ecuador/",
+      "https://en.wikipedia.org/wiki/Ecuadorian_cuisine"
+    ]
+  },
+  {
+    "id": "ecuador-cecina-lojana",
+    "name": "Cecina lojana",
+    "local_name": "Cecina",
+    "pronunciation": "seh-SEE-nah",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Cuenca & Southern Sierra",
+    "regions": [
+      "Loja",
+      "Catamayo"
+    ],
+    "description": "Thin pork steaks marinated with cumin and garlic, sun-dried and then grilled or fried. It is best known in Catamayo and La Toma in Loja province.",
+    "how_to_eat": "Eat with boiled yuca, onion-tomato curtido, rice and ají.",
+    "how_to_order": "Ask for 'cecina' in Catamayo or Loja.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.laylita.com/travel/360/what-to-eat-in-loja-ecuador/",
+      "https://en.wikipedia.org/wiki/Ecuadorian_cuisine"
+    ]
+  },
+  {
+    "id": "ecuador-tamal-lojano",
+    "name": "Tamal lojano",
+    "local_name": "Tamal lojano",
+    "pronunciation": "tah-MAHL loh-HAH-noh",
+    "category": "snack",
+    "country": "Ecuador",
+    "state": "Cuenca & Southern Sierra",
+    "regions": [
+      "Loja"
+    ],
+    "description": "A corn tamal filled with chicken or pork and wrapped in achira leaves. It is eaten in Loja for breakfast or with afternoon coffee.",
+    "how_to_eat": "Eat with ají de pepa, a green sauce of squash seeds, cilantro and hot pepper.",
+    "how_to_order": "Ask for 'tamales lojanos' at cafés and bakeries in Loja.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.laylita.com/travel/360/what-to-eat-in-loja-ecuador/"
+    ]
+  },
+  {
+    "id": "ecuador-humita",
+    "name": "Humita",
+    "local_name": "Humita",
+    "pronunciation": "oo-MEE-tah",
+    "category": "snack",
+    "country": "Ecuador",
+    "state": "Cuenca & Southern Sierra",
+    "regions": [
+      "Loja"
+    ],
+    "description": "Fresh ground corn mixed with cheese, eggs and cream, steamed in the corn husk. Ecuador's version is distinguished from the quimbolito by using fresh corn rather than flour, and corn husks rather than achira leaves.",
+    "how_to_eat": "Eat with coffee and ají de tomate de árbol.",
+    "how_to_order": "Ask for 'humitas' at cafés in the afternoon.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Humita",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Humita",
+      "https://www.laylita.com/travel/360/what-to-eat-in-loja-ecuador/",
+      "https://es.wikipedia.org/wiki/Quimbolito"
+    ]
+  },
+  {
+    "id": "ecuador-quesillo-con-miel",
+    "name": "Quesillo con miel",
+    "local_name": "Quesillo con miel",
+    "pronunciation": "keh-SEE-yoh kon mee-EL",
+    "category": "sweet",
+    "country": "Ecuador",
+    "state": "Cuenca & Southern Sierra",
+    "regions": [
+      "Loja"
+    ],
+    "description": "A slice of quesillo, a fresh farmer's cheese, drizzled with panela syrup (miel de panela). It is a dessert of Loja; Ecuador Travel also lists it in Tulcán.",
+    "how_to_eat": "Eat as a simple dessert.",
+    "how_to_order": "Ask for 'quesillo con miel' at restaurants and markets in Loja.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.laylita.com/travel/360/what-to-eat-in-loja-ecuador/",
+      "https://en.wikipedia.org/wiki/Ecuadorian_cuisine",
+      "https://ecuador.travel/en/what-to-eat"
+    ]
+  },
+  {
+    "id": "ecuador-horchata-lojana",
+    "name": "Horchata lojana",
+    "local_name": "Horchata lojana",
+    "pronunciation": "or-CHAH-tah loh-HAH-nah",
+    "category": "drink",
+    "country": "Ecuador",
+    "state": "Cuenca & Southern Sierra",
+    "regions": [
+      "Loja"
+    ],
+    "description": "A herbal and flower infusion made with escancel (bloodleaf), lemon verbena, lemongrass, mint, chamomile and other plants.",
+    "how_to_eat": "Drink warm or cold, already sweetened, with lemon.",
+    "how_to_order": "Ask for 'horchata' with lunch in Loja.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.laylita.com/travel/360/what-to-eat-in-loja-ecuador/"
+    ]
+  },
+  {
+    "id": "ecuador-miske",
+    "name": "Miske",
+    "local_name": "Miske",
+    "pronunciation": "MEES-keh",
+    "category": "drink",
+    "country": "Ecuador",
+    "state": "Cuenca & Southern Sierra",
+    "regions": [
+      "Cañar",
+      "Azuay",
+      "Loja"
+    ],
+    "description": "A clear spirit distilled from fermented tzawarmishky, the sap of Andean agave (penco or tzawar). It holds Ecuador's Denominación de Origen (SENADI, 2022), with a protected area covering cantons in highland provinces from Carchi to Loja.",
+    "how_to_eat": "Sip neat; aged versions rested in wood take on woody notes.",
+    "how_to_order": "Ask for 'miske' at bars and liquor shops in the Sierra.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://api.comunidadandina.org/uploads/LISTADO_DENOMINACIONES_DE_ORIGEN_CAN_07025d1e91.pdf",
+      "https://assets.publishing.service.gov.uk/media/653bb8afd10f35000d9a6ac5/Product_Specification_MISKE.pdf",
+      "https://www.vistazo.com/enfoque/el-miske-es-la-septima-denominacion-de-origen-ecuatoriana-BG3686416"
+    ]
+  },
+  {
+    "id": "ecuador-encebollado",
+    "name": "Encebollado",
+    "local_name": "Encebollado",
+    "pronunciation": "en-seh-boh-YAH-doh",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Guayaquil & Coast",
+    "regions": [
+      "Guayaquil"
+    ],
+    "description": "A fish broth with albacore tuna, yuca and pickled red onion, seasoned with tomato and cilantro. It is regarded as a national dish and is most popular on the coast; it is commonly eaten for breakfast and as a hangover cure.",
+    "how_to_eat": "Eat with lime, chifles (plantain chips), toasted corn or bread.",
+    "how_to_order": "Ask for 'un encebollado' at encebollado shops that open early in the morning.",
+    "typical_price": "3.5-3.7",
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Encebollado",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Encebollado",
+      "https://es.wikipedia.org/wiki/Encebollado",
+      "https://ecuador.travel/en/what-to-eat",
+      "https://www.eloriente.com/articulo/iacutendice-del-encebollado-eliminacioacuten-del-subsidio-al-dieacutesel-apenas-incidioacute-en-el-precio/53709"
+    ]
+  },
+  {
+    "id": "ecuador-ceviche-de-camaron",
+    "name": "Ecuadorian shrimp ceviche",
+    "local_name": "Ceviche de camarón",
+    "pronunciation": "seh-VEE-cheh deh kah-mah-ROHN",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Guayaquil & Coast",
+    "regions": [],
+    "description": "The Ecuadorian version of ceviche: cooked shrimp in a juicy marinade of lime, bitter orange and tomato with onion, unlike Peru's raw-fish ceviche. Fish, clams and mixed-seafood versions exist, and it is sold on beaches and in cevicherías across the country.",
+    "how_to_eat": "Eat with chifles, canguil (popcorn) or toasted corn, or with rice to soak up the juice.",
+    "how_to_order": "Ask for 'ceviche de camarón' at a cevichería.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Ceviche_ecuatoriano",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Ceviche_ecuatoriano",
+      "https://thinkgalapagos.com/a-culinary-journey-through-ecuador-and-the-galapagos/",
+      "https://bushop.com/ecuador/ecuador-food/",
+      "https://ecuador.travel/en/what-to-eat"
+    ]
+  },
+  {
+    "id": "ecuador-arroz-con-menestra",
+    "name": "Arroz con menestra y carne",
+    "local_name": "Arroz con menestra",
+    "pronunciation": "ah-ROS kon meh-NES-trah",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Guayaquil & Coast",
+    "regions": [
+      "Guayaquil"
+    ],
+    "description": "Rice with menestra, a stew of beans or lentils, served with grilled beef. It is one of the most representative dishes of Guayaquil and of coastal home cooking.",
+    "how_to_eat": "Eat with patacones or fried ripe plantain.",
+    "how_to_order": "Ask for 'arroz con menestra y carne asada' at típica restaurants in Guayaquil.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Arroz_con_menestra",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Arroz_con_menestra",
+      "https://en.wikipedia.org/wiki/List_of_Ecuadorian_dishes_and_foods"
+    ]
+  },
+  {
+    "id": "ecuador-bolon-de-verde",
+    "name": "Bolón de verde",
+    "local_name": "Bolón de verde",
+    "pronunciation": "boh-LOHN deh VER-deh",
+    "category": "snack",
+    "country": "Ecuador",
+    "state": "Guayaquil & Coast",
+    "regions": [
+      "Guayaquil"
+    ],
+    "description": "A ball of mashed green plantain filled or mixed with cheese and/or chicharrón (pork crackling). It is a coastal breakfast staple.",
+    "how_to_eat": "Eat for breakfast with hot coffee.",
+    "how_to_order": "Ask for a 'bolón mixto' (cheese and pork) or 'bolón de queso' at breakfast cafés.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://thinkgalapagos.com/a-culinary-journey-through-ecuador-and-the-galapagos/",
+      "https://bushop.com/ecuador/ecuador-food/",
+      "https://ecuador.travel/en/what-to-eat",
+      "https://en.wikipedia.org/wiki/List_of_Ecuadorian_dishes_and_foods"
+    ]
+  },
+  {
+    "id": "ecuador-caldo-de-salchicha",
+    "name": "Caldo de salchicha",
+    "local_name": "Caldo de salchicha",
+    "pronunciation": "KAHL-doh deh sahl-CHEE-chah",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Guayaquil & Coast",
+    "regions": [
+      "Guayaquil"
+    ],
+    "description": "A Guayaquil soup built on blood-and-rice sausage and pork offal. It is also called 'caldo de manguera' (hose soup) for the sausage's resemblance to a firefighter's hose.",
+    "how_to_eat": "Eat hot with a squeeze of lime.",
+    "how_to_order": "Ask for 'caldo de salchicha' at Guayaquil eateries.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Caldo_de_salchicha",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Caldo_de_salchicha"
+    ]
+  },
+  {
+    "id": "ecuador-guatita",
+    "name": "Guatita",
+    "local_name": "Guatita",
+    "pronunciation": "gwah-TEE-tah",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Guayaquil & Coast",
+    "regions": [],
+    "description": "A stew of beef tripe, cleaned in lemon brine and slow-cooked, with potatoes in a peanut sauce. It is considered a national dish of Ecuador and is believed to relieve hangovers.",
+    "how_to_eat": "Eat hot, often with rice and avocado.",
+    "how_to_order": "Ask for 'guatita' at restaurants on Saturday and Sunday mornings.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guatita",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Guatita",
+      "https://www.laylita.com/travel/360/what-to-eat-in-loja-ecuador/"
+    ]
+  },
+  {
+    "id": "ecuador-seco-de-chivo",
+    "name": "Seco de chivo",
+    "local_name": "Seco de chivo",
+    "pronunciation": "SEH-koh deh CHEE-voh",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Guayaquil & Coast",
+    "regions": [],
+    "description": "The Ecuadorian seco: goat meat stewed in an acidic sauce such as naranjilla, chicha or beer. Peru has its own seco de cabrito; seco de chivo is one of the commonly cited dishes of Ecuadorian cuisine.",
+    "how_to_eat": "Eat with rice and fried ripe plantain.",
+    "how_to_order": "Ask for 'seco de chivo' on lunch menus.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Seco_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Seco_(food)",
+      "https://es.wikipedia.org/wiki/Seco_(comida)",
+      "https://en.wikipedia.org/wiki/Ecuadorian_cuisine"
+    ]
+  },
+  {
+    "id": "ecuador-tigrillo",
+    "name": "Tigrillo",
+    "local_name": "Tigrillo",
+    "pronunciation": "tee-GREE-yoh",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Guayaquil & Coast",
+    "regions": [
+      "El Oro"
+    ],
+    "description": "Mashed green plantain mixed with egg, cheese and onion, sometimes with chicharrón, from El Oro province. It was declared Intangible Cultural Heritage of Ecuador in 2020 (a national heritage listing, not a GI).",
+    "how_to_eat": "Eat for breakfast with black coffee.",
+    "how_to_order": "Ask for 'tigrillo' at breakfast spots in El Oro or Manabí.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ecuador.travel/en/what-to-eat",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Ecuador",
+      "https://bushop.com/ecuador/ecuador-food/"
+    ]
+  },
+  {
+    "id": "ecuador-viche",
+    "name": "Viche de pescado",
+    "local_name": "Viche",
+    "pronunciation": "VEE-cheh",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Manabí",
+    "regions": [
+      "Portoviejo"
+    ],
+    "description": "A thick fish soup of Manabí made with ground peanuts, green plantain, yuca, corn, sweet plantain and other vegetables. It is also made with shrimp or crab and is a coastal Holy Week dish.",
+    "how_to_eat": "Eat hot with lime and optional hot sauce.",
+    "how_to_order": "Ask for 'viche de pescado' in Portoviejo.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.laylita.com/recipes/biche-de-pescado-or-fish-soup/",
+      "https://ecuador.travel/en/what-to-eat",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Ecuador"
+    ]
+  },
+  {
+    "id": "ecuador-corviche",
+    "name": "Corviche",
+    "local_name": "Corviche",
+    "pronunciation": "kor-VEE-cheh",
+    "category": "street_food",
+    "country": "Ecuador",
+    "state": "Manabí",
+    "regions": [],
+    "description": "A fried (sometimes baked) fritter of green plantain dough with ground peanuts, stuffed with sea fish such as albacore. It originated in Manabí and is crisp outside and soft inside.",
+    "how_to_eat": "Eat with onion and tomato salsa, or with coffee.",
+    "how_to_order": "Buy from snack vendors and cafés across Manabí.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Corviche",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Corviche",
+      "https://thinkgalapagos.com/a-culinary-journey-through-ecuador-and-the-galapagos/",
+      "https://ecuador.travel/en/what-to-eat"
+    ]
+  },
+  {
+    "id": "ecuador-tonga",
+    "name": "Tonga",
+    "local_name": "Tonga",
+    "pronunciation": "TOHN-gah",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Manabí",
+    "regions": [
+      "Chone",
+      "Portoviejo",
+      "Manta"
+    ],
+    "description": "Rice, a piece of free-range chicken stew, peanut sauce and fried ripe plantain wrapped in smoked banana leaves. It began as the packed lunch of Manabí rubber tappers and farm workers.",
+    "how_to_eat": "Unwrap and eat from the banana leaf.",
+    "how_to_order": "Ask for 'tonga de gallina' at restaurants in Chone, Portoviejo or Manta.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.elcomercio.com/actualidad/ecuador/tonga-almuerzo-manabita-plato-turismo/"
+    ]
+  },
+  {
+    "id": "ecuador-sal-prieta",
+    "name": "Sal prieta",
+    "local_name": "Sal prieta",
+    "pronunciation": "sahl pree-EH-tah",
+    "category": "snack",
+    "country": "Ecuador",
+    "state": "Manabí",
+    "regions": [],
+    "description": "A Manabí condiment of equal parts finely ground toasted corn and toasted peanuts, often with achiote, cilantro and oil or lard. It is sprinkled on plantain, seafood, rice and patacones.",
+    "how_to_eat": "Sprinkle over roasted plantain or rice.",
+    "how_to_order": "Ask for 'sal prieta' with plantain dishes in Manabí, or buy it in markets.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Sal_prieta",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Sal_prieta",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Ecuador"
+    ]
+  },
+  {
+    "id": "ecuador-bollo-de-pescado",
+    "name": "Bollo de pescado",
+    "local_name": "Bollo de pescado",
+    "pronunciation": "BOH-yoh deh pes-KAH-doh",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Manabí",
+    "regions": [],
+    "description": "Green plantain dough with fish (albacore, bonito or wahoo) and ground peanut, wrapped in banana leaves and cooked. Manabí, Esmeraldas and Guayaquil all claim its origin; in Esmeraldas it is called tamal.",
+    "how_to_eat": "Unwrap and eat warm.",
+    "how_to_order": "Ask for 'bollo de pescado' at coastal restaurants and roadside stalls.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Bollo_de_pescado",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Bollo_de_pescado",
+      "https://ecuador.travel/en/what-to-eat"
+    ]
+  },
+  {
+    "id": "ecuador-encocado",
+    "name": "Encocado",
+    "local_name": "Encocado",
+    "pronunciation": "en-koh-KAH-doh",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Esmeraldas",
+    "regions": [
+      "Esmeraldas"
+    ],
+    "description": "Fish or seafood (shrimp, crab, clams) stewed in coconut milk with garlic and the local herbs chillangua, oreganón and chirarán. It is the typical dish of Esmeraldas, rooted in recipes brought by Africans who settled the coast in the colonial era.",
+    "how_to_eat": "Eat with white rice and patacones or fried ripe plantain.",
+    "how_to_order": "Ask for 'encocado de pescado' or 'de camarón' in Esmeraldas.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Encocado",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Encocado",
+      "https://ecuador.travel/en/what-to-eat",
+      "https://thinkgalapagos.com/a-culinary-journey-through-ecuador-and-the-galapagos/"
+    ]
+  },
+  {
+    "id": "ecuador-tapao-arrecho",
+    "name": "Tapao arrecho",
+    "local_name": "Tapao arrecho",
+    "pronunciation": "tah-PAH-oh ah-REH-choh",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Esmeraldas",
+    "regions": [
+      "Esmeraldas"
+    ],
+    "description": "An Afro-Esmeraldas stew of green plantain slow-cooked with smoked chicken, smoked pork and chorizo in an achiote sofrito with chillangua, oregano and chirarán. 'Tapao' refers to cooking it covered.",
+    "how_to_eat": "Eat hot as a hearty lunch.",
+    "how_to_order": "Ask for 'tapao' in Esmeraldas.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.extra.ec/noticia/ecuador/esmeraldas-logra-record-guinness-con-el-tapao-arrecho-mas-grande-del-mundo-140142.html",
+      "https://ecuador.travel/en/what-to-eat"
+    ]
+  },
+  {
+    "id": "ecuador-cocada",
+    "name": "Cocada esmeraldeña",
+    "local_name": "Cocada",
+    "pronunciation": "koh-KAH-dah",
+    "category": "sweet",
+    "country": "Ecuador",
+    "state": "Esmeraldas",
+    "regions": [
+      "Esmeraldas",
+      "Atacames"
+    ],
+    "description": "A sweet of grated coconut cooked with melted sugar or panela, cinnamon, anise and cloves, stirred for about 45 minutes over a wood fire. About 120 families in Esmeraldas make it by hand.",
+    "how_to_eat": "Eat as a sweet snack.",
+    "how_to_order": "Buy from cocada makers in Esmeraldas city or vendors in Atacames.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.elcomercio.com/tendencias/cocada-gastronomia-esmeraldas-cocina-lena"
+    ]
+  },
+  {
+    "id": "ecuador-maito",
+    "name": "Maito",
+    "local_name": "Maito",
+    "pronunciation": "MY-toh",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Amazon",
+    "regions": [
+      "Archidona"
+    ],
+    "description": "River fish such as bagre, bocachico, cachama or pintadillo, or frogs, offal or poultry, wrapped in bijao or other leaves, tied with fibre and cooked over charcoal embers. The name is Kichwa for 'wrapped'.",
+    "how_to_eat": "Eat with boiled yuca or plantain and a glass of guayusa or chicha.",
+    "how_to_order": "Ask for 'maito de pescado' at Archidona market or Amazon eateries.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Maito",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Maito",
+      "https://ecuador.travel/en/what-to-eat",
+      "https://thinkgalapagos.com/a-culinary-journey-through-ecuador-and-the-galapagos/"
+    ]
+  },
+  {
+    "id": "ecuador-chontacuro",
+    "name": "Chontacuro",
+    "local_name": "Chontacuro",
+    "pronunciation": "chohn-tah-KOO-roh",
+    "category": "street_food",
+    "country": "Ecuador",
+    "state": "Amazon",
+    "regions": [
+      "Archidona"
+    ],
+    "description": "Larvae of the palm weevil harvested from fallen palm trees. They are eaten raw or grilled on a skewer, and can also be cooked in maito.",
+    "how_to_eat": "Eat grilled on a stick.",
+    "how_to_order": "Look for grilled 'chontacuros' at Archidona market.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Rhynchophorus_palmarum",
+    "source_urls": [
+      "https://ecuador.travel/en/what-to-eat",
+      "https://bushop.com/ecuador/ecuador-food/",
+      "https://es.wikipedia.org/wiki/Maito"
+    ]
+  },
+  {
+    "id": "ecuador-guayusa",
+    "name": "Guayusa",
+    "local_name": "Guayusa",
+    "pronunciation": "gwah-YOO-sah",
+    "category": "drink",
+    "country": "Ecuador",
+    "state": "Amazon",
+    "regions": [
+      "Napo",
+      "Pastaza"
+    ],
+    "description": "A caffeinated tea brewed from the leaves of Ilex guayusa, a holly tree native to the upper Amazon and cultivated mainly in Napo and Pastaza. It is a traditional Amazon drink.",
+    "how_to_eat": "Drink hot or cold; it accompanies maito.",
+    "how_to_order": "Ask for 'guayusa' at Archidona market or Amazon lodges.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ilex_guayusa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ilex_guayusa",
+      "https://ecuador.travel/en/what-to-eat"
+    ]
+  },
+  {
+    "id": "ecuador-chicha-de-yuca",
+    "name": "Chicha de yuca",
+    "local_name": "Lumu aswa",
+    "pronunciation": "LOO-moo AHS-wah",
+    "category": "drink",
+    "country": "Ecuador",
+    "state": "Amazon",
+    "regions": [
+      "Sarayaku"
+    ],
+    "description": "A fermented drink of cooked yuca chewed and mashed into a dough by women, then stored in clay pots. It is shared daily, at mingas (collective work) and at festivals; Sarayaku also makes versions from chonta palm fruit, peanut and corn.",
+    "how_to_eat": "Drink from a shared bowl when offered.",
+    "how_to_order": "Offered in Amazon Kichwa communities; ask for 'chicha' or 'chicha de chonta'.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://sarayaku.org/en/aswa-chicha/",
+      "https://thinkgalapagos.com/a-culinary-journey-through-ecuador-and-the-galapagos/",
+      "https://ecuador.travel/en/what-to-eat"
+    ]
+  },
+  {
+    "id": "ecuador-ceviche-de-canchalagua",
+    "name": "Canchalagua ceviche",
+    "local_name": "Ceviche de canchalagua",
+    "pronunciation": "seh-VEE-cheh deh kahn-chah-LAH-gwah",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Galápagos",
+    "regions": [
+      "Puerto Ayora",
+      "San Cristóbal",
+      "Floreana"
+    ],
+    "description": "Ceviche of canchalagua, an endemic Galápagos chiton (mollusc) with an octopus-like texture, cured in lime with onion, tomato and cilantro. It is only gathered at night at low tide around the full moon.",
+    "how_to_eat": "Eat chilled as a starter.",
+    "how_to_order": "Ask at Puerto Ayora cevicherías; availability depends on the lunar tide.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.voyagers.travel/blog/guide-to-galapagos-local-products-lobster-tuna-brujo-and-canchalagua-the-best-places-to-eat-them-and-how"
+    ]
+  },
+  {
+    "id": "ecuador-pez-brujo",
+    "name": "Pez brujo",
+    "local_name": "Brujo",
+    "pronunciation": "BROO-hoh",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Galápagos",
+    "regions": [
+      "Puerto Ayora"
+    ],
+    "description": "An endemic Galápagos scorpionfish with mild white flesh, fried whole, grilled or cooked in coconut sauce (brujo encocado). Menus depend on the day's regulated artisanal catch.",
+    "how_to_eat": "Eat whole fried with patacones and rice.",
+    "how_to_order": "Ask for 'brujo frito' or 'brujo encocado' at the Kioskos street stalls in Puerto Ayora.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.voyagers.travel/blog/guide-to-galapagos-local-products-lobster-tuna-brujo-and-canchalagua-the-best-places-to-eat-them-and-how",
+      "https://thinkgalapagos.com/a-culinary-journey-through-ecuador-and-the-galapagos/"
+    ]
+  },
+  {
+    "id": "ecuador-langosta",
+    "name": "Galápagos lobster",
+    "local_name": "Langosta",
+    "pronunciation": "lahn-GOHS-tah",
+    "category": "meal",
+    "country": "Ecuador",
+    "state": "Galápagos",
+    "regions": [
+      "Puerto Ayora"
+    ],
+    "description": "Local spiny and slipper lobster, most traditionally grilled, also served in coconut-seafood sauce or soup. It can only be sold during the authorised fishing season, announced each year.",
+    "how_to_eat": "Eat grilled with garlic butter.",
+    "how_to_order": "Ask for 'langosta' in season at Puerto Ayora restaurants and kiosks.",
+    "typical_price": null,
+    "currency": "USD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.voyagers.travel/blog/guide-to-galapagos-local-products-lobster-tuna-brujo-and-canchalagua-the-best-places-to-eat-them-and-how",
+      "https://thinkgalapagos.com/a-culinary-journey-through-ecuador-and-the-galapagos/"
+    ]
+  }
+]

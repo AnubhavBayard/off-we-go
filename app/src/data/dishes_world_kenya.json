@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "kenya-ugali",
+    "name": "Ugali",
+    "local_name": "sima",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Nairobi",
+    "regions": [],
+    "description": "A stiff dough of maize flour (sometimes cassava, sorghum or millet) cooked in boiling water until firm. It is Kenya's everyday starch, served with greens, stews, fish or grilled meat. Kenya's version of the maize staple called pap in South Africa.",
+    "how_to_eat": "Pinch off a piece with your fingers, press a dent in it with your thumb and use it to scoop up the stew or greens.",
+    "how_to_order": "Served at roadhouses and budget eateries everywhere, usually as the starch alongside a stew or meat.",
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ugali",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ugali",
+      "https://en.wikipedia.org/wiki/Culture_of_Kenya",
+      "https://www.lonelyplanet.com/articles/what-to-eat-and-drink-in-kenya"
+    ]
+  },
+  {
+    "id": "kenya-sukuma-wiki",
+    "name": "Sukuma wiki",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Nairobi",
+    "regions": [],
+    "description": "Collard greens (sukuma) sautéed in oil with onions and seasoning; the name means \"push the week\" because the greens are cheap and available all year. It is the standard side to ugali; some cooks add meat or fish.",
+    "how_to_eat": "Eat as a side with ugali.",
+    "how_to_order": "Ask whether it is cooked with meat or meat stock if you are vegetarian; Lonely Planet notes many vegetable dishes are.",
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sukuma_wiki",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sukuma_wiki",
+      "https://en.wikipedia.org/wiki/Culture_of_Kenya",
+      "https://www.willflyforfood.net/food-in-kenya/",
+      "https://www.lonelyplanet.com/articles/what-to-eat-and-drink-in-kenya"
+    ]
+  },
+  {
+    "id": "kenya-nyama-choma",
+    "name": "Nyama choma",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Nairobi",
+    "regions": [
+      "Nairobi"
+    ],
+    "description": "Grilled meat, usually goat, sometimes beef, cooked over wood or charcoal; the name means \"grilled meat\" in Swahili. Often called an unofficial national dish, it is eaten at roadside joints and gatherings with ugali and kachumbari.",
+    "how_to_eat": "Eat with your hands, alongside ugali and kachumbari.",
+    "how_to_order": "Ordered by weight at grill joints and cafés; Lonely Planet suggests a half-kilo portion.",
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nyama_choma",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nyama_choma",
+      "https://en.wikipedia.org/wiki/Culture_of_Kenya",
+      "https://www.lonelyplanet.com/articles/what-to-eat-and-drink-in-kenya",
+      "https://www.willflyforfood.net/food-in-kenya/"
+    ]
+  },
+  {
+    "id": "kenya-kachumbari",
+    "name": "Kachumbari",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Nairobi",
+    "regions": [],
+    "description": "An uncooked relish of chopped tomatoes, onions and chilli, with lemon juice or vinegar and salt. The name comes from the Indian word cachumber; in Kenya it is served with nyama choma, pilau and mukimo.",
+    "how_to_eat": "Eat as a fresh side with grilled meat, pilau or ugali.",
+    "how_to_order": "Comes as a side with nyama choma and rice dishes.",
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kachumbari",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kachumbari",
+      "https://sw.wikipedia.org/wiki/Kachumbari"
+    ]
+  },
+  {
+    "id": "kenya-chapati",
+    "name": "Kenyan chapati",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Nairobi",
+    "regions": [],
+    "description": "The East African chapati is a layered wheat flatbread fried in oil, butter or lard, closer to a thin paratha than the Indian chapati; it came with Indian railway workers. Unlike the Indian chapati puffed over a flame, it is fried and layered.",
+    "how_to_eat": "Tear pieces to scoop up stews, beans or greens, or eat with tea.",
+    "how_to_order": "Sold at street stalls and canteens; ask if it is cooked with oil if you avoid lard or butter. Street price was KES 20-30 each in 2022 (Kenyans.co.ke).",
+    "typical_price": "20-30",
+    "currency": "KES",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chapati",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chapati",
+      "https://www.willflyforfood.net/food-in-kenya/",
+      "https://www.kenyans.co.ke/news/76848-5-street-foods-whose-prices-have-shot"
+    ]
+  },
+  {
+    "id": "kenya-mandazi",
+    "name": "Mandazi",
+    "local_name": "maandazi",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Kenya",
+    "state": "Nairobi",
+    "regions": [],
+    "description": "A lightly sweet fried bread, often triangular, that started on the Swahili coast and is now a standard breakfast across Kenya. It is made from wheat dough with yeast or baking powder; recipes vary and some doughs include milk or egg.",
+    "how_to_eat": "Eat fresh in the morning with a cup of chai.",
+    "how_to_order": "Sold at kiosks and cafés from early morning. Price was about KES 20 a piece in 2022 (Kenyans.co.ke).",
+    "typical_price": "20",
+    "currency": "KES",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mandazi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mandazi",
+      "https://www.lonelyplanet.com/articles/what-to-eat-and-drink-in-kenya",
+      "https://www.theelephant.info/analysis/2022/09/20/food-culture-at-the-kenyan-coast/",
+      "https://www.kenyans.co.ke/news/76848-5-street-foods-whose-prices-have-shot"
+    ]
+  },
+  {
+    "id": "kenya-chai",
+    "name": "Kenyan chai",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Kenya",
+    "state": "Nairobi",
+    "regions": [],
+    "description": "Sweet, milky black tea, often boiled together with milk and sugar, sometimes with ginger or masala spices. Many Kenyans start the day with it, usually with a mandazi; Kalenjin tea is often around 40% milk.",
+    "how_to_eat": "Drink hot with mandazi or chapati.",
+    "how_to_order": "Ask for chai at any café or kiosk; black tea without milk is called chai ya rangi.",
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.lonelyplanet.com/articles/what-to-eat-and-drink-in-kenya",
+      "https://festival.si.edu/blog/2014/foodways-friday-kenyan-chai/",
+      "https://sw.wikipedia.org/wiki/Chai",
+      "https://en.wikipedia.org/wiki/Kalenjin_people"
+    ]
+  },
+  {
+    "id": "kenya-smocha",
+    "name": "Smocha",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Kenya",
+    "state": "Nairobi",
+    "regions": [
+      "Nairobi"
+    ],
+    "description": "A street wrap of a smokie (sausage) rolled in a chapati with kachumbari and a sauce of your choice; also called chapo smokie. It is sold from roadside stalls in Kenya's cities.",
+    "how_to_eat": null,
+    "how_to_order": "Ask a roadside smokie vendor for a smocha. Price was KES 60-70 in 2023 (Citizen Digital).",
+    "typical_price": "60-70",
+    "currency": "KES",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://citizen.digital/article/smocha-kenyas-new-delicacy-gaining-popularity-among-office-workers-n325598"
+    ]
+  },
+  {
+    "id": "kenya-mayai-pasua",
+    "name": "Mayai pasua",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Kenya",
+    "state": "Nairobi",
+    "regions": [
+      "Nairobi"
+    ],
+    "description": "A boiled egg split and served with a salad of tomatoes, onions and pepper, sold by street vendors in Nairobi's CBD along with smokies. It is a quick snack between meals.",
+    "how_to_eat": null,
+    "how_to_order": "Buy from smokie and egg carts in Nairobi CBD. Price was KES 25 in 2022 (Kenyans.co.ke).",
+    "typical_price": "25",
+    "currency": "KES",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.kenyans.co.ke/news/76848-5-street-foods-whose-prices-have-shot"
+    ]
+  },
+  {
+    "id": "kenya-dawa",
+    "name": "Dawa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Kenya",
+    "state": "Nairobi",
+    "regions": [],
+    "description": "A Kenyan cocktail of vodka, lime and honey; dawa means \"medicine\" in Swahili. Lonely Planet lists it among Kenya's local cocktail creations.",
+    "how_to_eat": null,
+    "how_to_order": "Order at bars; contains alcohol.",
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.lonelyplanet.com/articles/what-to-eat-and-drink-in-kenya"
+    ]
+  },
+  {
+    "id": "kenya-pilau",
+    "name": "Kenyan pilau",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Swahili Coast (Mombasa & Lamu)",
+    "regions": [
+      "Mombasa",
+      "Lamu"
+    ],
+    "description": "Rice cooked with whole spices such as cinnamon, cardamom, cloves and black pepper, usually with meat; in Kenya it is mostly a coastal dish and potatoes are often added. It is served at weddings, Eid and Christmas, with kachumbari on the side. This is the Kenyan coastal version of pilaf.",
+    "how_to_eat": "Eat with kachumbari.",
+    "how_to_order": "Sold at Swahili eateries and street lunch stalls on the coast.",
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pilaf",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pilaf",
+      "https://www.theelephant.info/analysis/2022/09/20/food-culture-at-the-kenyan-coast/",
+      "https://www.willflyforfood.net/food-in-kenya/",
+      "https://thelandofwanderlust.com/foodies-guide-10-dishes-to-try-in-mombasa/"
+    ]
+  },
+  {
+    "id": "kenya-biryani",
+    "name": "Swahili biryani",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Swahili Coast (Mombasa & Lamu)",
+    "regions": [
+      "Mombasa",
+      "Malindi",
+      "Lamu"
+    ],
+    "description": "A coastal rice dish where a spiced meat or chicken masala and the rice are cooked separately, unlike pilau, often with potatoes. Chicken biryani (biryani kuku) with tamarind juice and kachumbari is a common coastal lunch. Listed as the Kenyan coastal version, distinct from Indian biryanis.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for biryani kuku (chicken biryani) at Swahili lunch spots and street stalls.",
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Biryani",
+    "source_urls": [
+      "https://www.theelephant.info/analysis/2022/09/20/food-culture-at-the-kenyan-coast/",
+      "https://thelandofwanderlust.com/foodies-guide-10-dishes-to-try-in-mombasa/",
+      "https://www.lonelyplanet.com/articles/what-to-eat-and-drink-in-kenya"
+    ]
+  },
+  {
+    "id": "kenya-viazi-karai",
+    "name": "Viazi karai",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Kenya",
+    "state": "Swahili Coast (Mombasa & Lamu)",
+    "regions": [
+      "Mombasa"
+    ],
+    "description": "Boiled, peeled potatoes dipped in a gram (chickpea) flour batter and deep-fried in a karai, a basin-like pan. It is a Mombasa afternoon snack, served with tamarind sauce, chilli or coconut chutney.",
+    "how_to_eat": "Eat hot with tamarind sauce or coconut chutney.",
+    "how_to_order": "Buy from street vendors in Mombasa's Old Town or Mama Ngina Drive.",
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.businessdailyafrica.com/bd/lifestyle/food-drinks/savouring-street-food-2240888",
+      "https://www.skratch.world/post/a-food-lovers-guide-to-mombasa-street-food",
+      "https://lifeinmombasa.com/index.php/videos/mombasa-best-street-snack/",
+      "https://thelandofwanderlust.com/foodies-guide-10-dishes-to-try-in-mombasa/"
+    ]
+  },
+  {
+    "id": "kenya-mahamri",
+    "name": "Mahamri",
+    "local_name": "mahambri",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Kenya",
+    "state": "Swahili Coast (Mombasa & Lamu)",
+    "regions": [],
+    "description": "A coastal fried bread made from wheat dough with yeast, sugar, cardamom and coconut milk. It is a Swahili breakfast staple, usually eaten with mbaazi; most people buy it from street vendors rather than make it at home.",
+    "how_to_eat": "Eat with mbaazi wa nazi and spiced tea for breakfast.",
+    "how_to_order": "Buy fresh from breakfast vendors early; they often sell out by mid-morning.",
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.theelephant.info/analysis/2022/09/20/food-culture-at-the-kenyan-coast/",
+      "https://www.businessdailyafrica.com/bd/lifestyle/food-drinks/savouring-street-food-2240888",
+      "https://lifeinmombasa.com/index.php/videos/mombasa-best-street-snack/",
+      "https://en.wikipedia.org/wiki/Mandazi"
+    ]
+  },
+  {
+    "id": "kenya-mbaazi-wa-nazi",
+    "name": "Mbaazi wa nazi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Swahili Coast (Mombasa & Lamu)",
+    "regions": [
+      "Mombasa",
+      "Malindi"
+    ],
+    "description": "Pigeon peas cooked in coconut milk. Paired with mahamri, it is the classic Swahili breakfast along the Kenyan coast.",
+    "how_to_eat": "Dip mahamri into the peas.",
+    "how_to_order": "Sold by breakfast vendors on the coast.",
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://lifeinmombasa.com/index.php/videos/mombasa-best-street-snack/",
+      "https://www.theelephant.info/analysis/2022/09/20/food-culture-at-the-kenyan-coast/"
+    ]
+  },
+  {
+    "id": "kenya-mishkaki",
+    "name": "Mishkaki",
+    "local_name": "mshikaki",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Kenya",
+    "state": "Swahili Coast (Mombasa & Lamu)",
+    "regions": [
+      "Mombasa"
+    ],
+    "description": "Cubes of marinated beef or chicken skewered and grilled over charcoal, sold by the stick, with tamarind sauce and salad. It is mostly an evening street food in Mombasa.",
+    "how_to_eat": null,
+    "how_to_order": "Buy by the stick from evening grills; some vendors add chips, naan or chapati.",
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://lifeinmombasa.com/index.php/videos/mombasa-best-street-snack/",
+      "https://www.businessdailyafrica.com/bd/lifestyle/food-drinks/savouring-street-food-2240888",
+      "https://www.skratch.world/post/a-food-lovers-guide-to-mombasa-street-food"
+    ]
+  },
+  {
+    "id": "kenya-kuku-paka",
+    "name": "Kuku paka",
+    "local_name": "kuku wa kupaka",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Swahili Coast (Mombasa & Lamu)",
+    "regions": [],
+    "description": "Chicken that is char-grilled and then cooked in a coconut milk curry sauce; also called kuku na nazi. It has African, Indian and Arab influences and is popular on the coast; fish or shrimp versions exist.",
+    "how_to_eat": "Add a squeeze of lime before eating.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kuku_paka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kuku_paka",
+      "https://www.willflyforfood.net/food-in-kenya/"
+    ]
+  },
+  {
+    "id": "kenya-samaki-wa-kupaka",
+    "name": "Samaki wa kupaka",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Swahili Coast (Mombasa & Lamu)",
+    "regions": [
+      "Lamu"
+    ],
+    "description": "Whole fish, such as red snapper or kingfish, coated in a sauce of coconut milk, tamarind, pepper and turmeric. On Lamu it is made for special occasions such as weddings and is especially popular during Ramadan.",
+    "how_to_eat": "Serve with rice or bread; during Ramadan it is eaten with a millet or wheat porridge.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://festival.si.edu/blog/2014/foodways-friday-swahili-fish-with-creamy-coconut-sauce",
+      "https://www.lonelyplanet.com/articles/what-to-eat-and-drink-in-kenya"
+    ]
+  },
+  {
+    "id": "kenya-kahawa-chungu",
+    "name": "Kahawa chungu",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Kenya",
+    "state": "Swahili Coast (Mombasa & Lamu)",
+    "regions": [
+      "Mombasa",
+      "Lamu"
+    ],
+    "description": "Strong Swahili coffee spiced with cloves and black pepper and usually served without sugar, hence chungu, meaning bitter. It is sold from coffee pots by street vendors in the old towns.",
+    "how_to_eat": "Drink with a sweet snack such as mitai.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.theelephant.info/analysis/2022/09/20/food-culture-at-the-kenyan-coast/",
+      "https://www.skratch.world/post/a-food-lovers-guide-to-mombasa-street-food"
+    ]
+  },
+  {
+    "id": "kenya-madafu",
+    "name": "Madafu",
+    "local_name": "dafu",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Kenya",
+    "state": "Swahili Coast (Mombasa & Lamu)",
+    "regions": [
+      "Mombasa"
+    ],
+    "description": "Young green coconuts opened for their water; after drinking, the soft white flesh is eaten. It is the standard coastal refreshment, sold at places like Mama Ngina Drive in Mombasa.",
+    "how_to_eat": "Drink the water, then scoop out the flesh.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://sw.wikipedia.org/wiki/Dafu",
+    "source_urls": [
+      "https://www.businessdailyafrica.com/bd/lifestyle/food-drinks/savouring-street-food-2240888",
+      "https://lifeinmombasa.com/index.php/videos/mombasa-best-street-snack/",
+      "https://thelandofwanderlust.com/foodies-guide-10-dishes-to-try-in-mombasa/",
+      "https://sw.wikipedia.org/wiki/Dafu"
+    ]
+  },
+  {
+    "id": "kenya-halwa",
+    "name": "Swahili halwa",
+    "local_name": "haluwa",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Kenya",
+    "state": "Swahili Coast (Mombasa & Lamu)",
+    "regions": [
+      "Mombasa",
+      "Lamu"
+    ],
+    "description": "A jelly-like sweet made from starch, sugar, cardamom and ghee, garnished with cashew nuts or almonds. It is sold by sweet vendors in Mombasa and Lamu.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.businessdailyafrica.com/bd/lifestyle/food-drinks/savouring-street-food-2240888",
+      "https://www.theelephant.info/analysis/2022/09/20/food-culture-at-the-kenyan-coast/"
+    ]
+  },
+  {
+    "id": "kenya-mabuyu",
+    "name": "Mabuyu",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Kenya",
+    "state": "Swahili Coast (Mombasa & Lamu)",
+    "regions": [
+      "Mombasa"
+    ],
+    "description": "Baobab seeds cooked in sugar syrup and coloured, usually red but also green, yellow or purple. It is a coastal snack sold around Mackinnon Market in Mombasa.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.businessdailyafrica.com/bd/lifestyle/food-drinks/savouring-street-food-2240888",
+      "https://lifeinmombasa.com/index.php/videos/mombasa-best-street-snack/"
+    ]
+  },
+  {
+    "id": "kenya-githeri",
+    "name": "Githeri",
+    "local_name": "Gĩtheri",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Central Highlands (Kikuyu)",
+    "regions": [],
+    "description": "Maize kernels and beans boiled together in a pot (sufuria), sometimes stewed with onions, tomatoes, potatoes or meat. It is a staple of the Kikuyu, Meru, Embu and Kamba and has been the standard Kenyan school meal since the 1920s.",
+    "how_to_eat": null,
+    "how_to_order": "Ask whether it is cooked with meat if you are vegetarian.",
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Githeri",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Githeri",
+      "https://www.willflyforfood.net/food-in-kenya/",
+      "https://k24.digital/lifestyle/how-kenyan-traditional-foods-tell-the-story-of-culture",
+      "https://www.lonelyplanet.com/articles/what-to-eat-and-drink-in-kenya"
+    ]
+  },
+  {
+    "id": "kenya-mukimo",
+    "name": "Mukimo",
+    "local_name": "mũkimo",
+    "pronunciation": "moo-KEE-moh",
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Central Highlands (Kikuyu)",
+    "regions": [],
+    "description": "Potatoes mashed with green vegetables such as pumpkin leaves or peas, sometimes with maize and beans; also called irio. It comes from communities around Mount Kenya and is served with stew or nyama choma.",
+    "how_to_eat": "Eat as a side with beef stew or nyama choma.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mukimo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mukimo",
+      "https://sw.wikipedia.org/wiki/Mukimo",
+      "https://en.wikipedia.org/wiki/Kikuyu_people",
+      "https://www.willflyforfood.net/food-in-kenya/"
+    ]
+  },
+  {
+    "id": "kenya-uji",
+    "name": "Uji",
+    "local_name": "ũcũrũ",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Kenya",
+    "state": "Central Highlands (Kikuyu)",
+    "regions": [],
+    "description": "A thin porridge of millet, maize or sorghum flour, served warm, often with milk and sugar. The Kikuyu make a fermented version called ũcũrũ.",
+    "how_to_eat": "Drink warm from a cup at breakfast.",
+    "how_to_order": "Ask whether it is made with milk if you avoid dairy.",
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://sw.wikipedia.org/wiki/Uji",
+    "source_urls": [
+      "https://www.lonelyplanet.com/articles/what-to-eat-and-drink-in-kenya",
+      "https://sw.wikipedia.org/wiki/Uji",
+      "https://en.wikipedia.org/wiki/Kikuyu_people"
+    ]
+  },
+  {
+    "id": "kenya-mutura",
+    "name": "Mutura",
+    "local_name": "mũtura",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Kenya",
+    "state": "Central Highlands (Kikuyu)",
+    "regions": [
+      "Nairobi"
+    ],
+    "description": "A blood sausage of intestine casing stuffed with chopped beef or goat meat, tripe and cooked blood, seasoned with onion, salt, pepper and chilli, then grilled. It is a Kikuyu dish now sold by street vendors, especially in Nairobi; some versions leave out the blood.",
+    "how_to_eat": null,
+    "how_to_order": "Buy from roadside street vendors.",
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mutura",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mutura",
+      "https://en.wikipedia.org/wiki/Kikuyu_people",
+      "https://www.businessdailyafrica.com/bd/lifestyle/food-drinks/savouring-street-food-2240888"
+    ]
+  },
+  {
+    "id": "kenya-ugali-na-samaki",
+    "name": "Ugali with fried tilapia",
+    "local_name": "ngege",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Western & Lake Victoria (Luo/Luhya)",
+    "regions": [
+      "Kisumu"
+    ],
+    "description": "Whole tilapia (ngege) from Lake Victoria, fried, stewed in tomato and onion or grilled over charcoal, served with ugali and greens. Fish with ugali is the everyday meal of the Luo around Kisumu.",
+    "how_to_eat": "Pull the fish apart with your fingers and scoop it up with ugali.",
+    "how_to_order": "Order at the fish stalls on Dunga Beach outside Kisumu.",
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Luo_people",
+      "https://thelandofwanderlust.com/10-best-local-dishes-to-try-in-kisumu/",
+      "https://k24.digital/lifestyle/how-kenyan-traditional-foods-tell-the-story-of-culture"
+    ]
+  },
+  {
+    "id": "kenya-omena",
+    "name": "Omena",
+    "local_name": "dagaa",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Western & Lake Victoria (Luo/Luhya)",
+    "regions": [
+      "Kisumu"
+    ],
+    "description": "Small silver cyprinid fish from Lake Victoria, sun-dried and cooked with tomatoes and onions, sometimes with peanut sauce. It is a Luo staple usually eaten with ugali.",
+    "how_to_eat": "Eat with ugali and greens.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Silver_cyprinid",
+      "https://thelandofwanderlust.com/10-best-local-dishes-to-try-in-kisumu/",
+      "https://en.wikipedia.org/wiki/Luo_people"
+    ]
+  },
+  {
+    "id": "kenya-aliya",
+    "name": "Aliya",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Western & Lake Victoria (Luo/Luhya)",
+    "regions": [
+      "Kisumu"
+    ],
+    "description": "Strips of sun-dried beef, later stewed with tomato and onion or fried until crisp. It is a traditional Luo dish.",
+    "how_to_eat": "Eat with ugali or chapati.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Culture_of_Kenya",
+      "https://thelandofwanderlust.com/10-best-local-dishes-to-try-in-kisumu/"
+    ]
+  },
+  {
+    "id": "kenya-ingokho",
+    "name": "Ingokho",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Western & Lake Victoria (Luo/Luhya)",
+    "regions": [],
+    "description": "Indigenous (kienyeji) chicken stewed by the Luhya, served with ugali. It is the dish served to honoured guests and at dowry and other ceremonies.",
+    "how_to_eat": "Eat with ugali.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Culture_of_Kenya",
+      "https://k24.digital/lifestyle/how-kenyan-traditional-foods-tell-the-story-of-culture",
+      "https://en.wikipedia.org/wiki/Ugali",
+      "https://nairobilawmonthly.com/the-community-that-wont-chicken-out/"
+    ]
+  },
+  {
+    "id": "kenya-mrenda",
+    "name": "Mrenda",
+    "local_name": "murere",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Western & Lake Victoria (Luo/Luhya)",
+    "regions": [],
+    "description": "Jute leaves cooked as a green vegetable, also called murere, eaten by the Luhya. It is served with ugali.",
+    "how_to_eat": "Scoop up with ugali.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Corchorus",
+      "https://en.wikipedia.org/wiki/Ugali"
+    ]
+  },
+  {
+    "id": "kenya-osuga",
+    "name": "Osuga",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Western & Lake Victoria (Luo/Luhya)",
+    "regions": [
+      "Kisumu"
+    ],
+    "description": "A slightly bitter leafy green sautéed with onions and tomatoes, one of the traditional Luo vegetables. It is served with fish or meat and ugali.",
+    "how_to_eat": "Eat as a side with ugali and fish.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://thelandofwanderlust.com/10-best-local-dishes-to-try-in-kisumu/",
+      "https://en.wikipedia.org/wiki/Culture_of_Kenya",
+      "https://en.wikipedia.org/wiki/Luo_people"
+    ]
+  },
+  {
+    "id": "kenya-matoke",
+    "name": "Matoke",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Western & Lake Victoria (Luo/Luhya)",
+    "regions": [],
+    "description": "Green cooking bananas (East African Highland bananas), stewed with onions, tomatoes and spices, often with beef. Cooking bananas are a staple around the Lake Victoria area of Kenya.",
+    "how_to_eat": "Eat with chapati.",
+    "how_to_order": "Ask if it is cooked with beef if you are vegetarian.",
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Matoke",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Matoke",
+      "https://www.willflyforfood.net/food-in-kenya/",
+      "https://www.lonelyplanet.com/articles/what-to-eat-and-drink-in-kenya"
+    ]
+  },
+  {
+    "id": "kenya-mursik",
+    "name": "Mursik",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Kenya",
+    "state": "Rift Valley (Kalenjin)",
+    "regions": [],
+    "description": "Cow's or goat's milk fermented for several days in a gourd (sotet) lined with charcoal from specific trees, which flavours it. It is the traditional drink of the Kalenjin, served at dowry ceremonies and to returning athletes; in the past blood was sometimes added, which is now rare.",
+    "how_to_eat": "Drink at room temperature or chilled, alone or with ugali.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mursik",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mursik",
+      "https://en.wikipedia.org/wiki/Kalenjin_people",
+      "https://k24.digital/lifestyle/how-kenyan-traditional-foods-tell-the-story-of-culture"
+    ]
+  },
+  {
+    "id": "kenya-psongiot",
+    "name": "Psong'iot",
+    "local_name": "kimnyet",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Rift Valley (Kalenjin)",
+    "regions": [],
+    "description": "Kalenjin ugali made from millet and sorghum flour instead of maize; maize ugali is called kimnyet. It is served with greens and milk.",
+    "how_to_eat": "Eat with socheek or other vegetables.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kalenjin_people",
+      "https://en.wikipedia.org/wiki/Culture_of_Kenya"
+    ]
+  },
+  {
+    "id": "kenya-socheek",
+    "name": "Socheek",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Rift Valley (Kalenjin)",
+    "regions": [],
+    "description": "A Kalenjin vegetable relish of greens cooked with milk and cream. It is a typical side for ugali.",
+    "how_to_eat": "Eat with ugali.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kalenjin_people",
+      "https://en.wikipedia.org/wiki/Culture_of_Kenya"
+    ]
+  },
+  {
+    "id": "kenya-mcheleng",
+    "name": "Mcheleng",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Kenya",
+    "state": "Rift Valley (Kalenjin)",
+    "regions": [],
+    "description": "Rice cooked with milk into a creamy dish, made by the Kalenjin as a treat for children and eaten by the whole family.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kalenjin_people"
+    ]
+  },
+  {
+    "id": "kenya-moriot",
+    "name": "Moriot",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Kenya",
+    "state": "Rift Valley (Kalenjin)",
+    "regions": [],
+    "description": "The crust left in the pot after cooking ugali, eaten as a snack by the Kalenjin.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KES",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kalenjin_people"
+    ]
+  }
+]
