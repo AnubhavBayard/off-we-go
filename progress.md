@@ -483,3 +483,19 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
 
 **Rebuild + install**
 `cd app && nvm use 22 && npm run build && npx cap sync android && cd android && ANDROID_HOME=~/Android/Sdk ./gradlew assembleDebug && ~/Android/Sdk/platform-tools/adb install -r app/build/outputs/apk/debug/app-debug.apk`
+
+## 2026-11-11: batch 7 (resumed, new session)
+- User: start batch 7. Israel: research agent running.
+- User: keep going through whole batch 7 (Israel, Jordan, Chile, NZ), then photos + check, install, commit + push.
+- User: after batch 7, start batch 8. Batch 8 registered: Finland, Iceland, Romania, Georgia (EUR, ISK, RON, GEL) in world_spec.md + COUNTRY_CODE.
+- User: after batch 8, start batch 9. Batch 9 registered: Iran, Cambodia, Cuba, South Africa (IRR, KHR, CUP, ZAR).
+- Israel done: 31 dishes, 5 regions (Tel Aviv & Jaffa 5, Jerusalem 7, Haifa & Galilee 4, Nationwide street food 7, Nationwide home & holiday 8). No GIs, no prices. Negev dropped (no dish sources). Skipped dishes in Lebanon/Egypt files; shawarma/falafel/schnitzel only as Israeli versions. Thin: goose liver, sambusak, Druze pita, kubbeh soup. My safe-side fixes: sufganiyah egg+dairy, mofletta dairy. Validator OK.
+- Jordan: research agent running.
+- Jordan done: 24 dishes, 5 regions (Amman 8, Salt & Balqa 3, North 5, Karak & South 4, Wadi Rum/Aqaba & Bedouin 4). No GIs (Jordan GI projects are olive oil, Awassi sheep, Majhoul dates). No prices. Salt thin (khabeesa, rashoof single-source). Mujallala sources disagree (used tourism board version). Kept Aqaba sayadieh (source says distinct method/fish). Shared links checked: fattet hummus vs Lebanon fattet batenjen, qahwa sada vs UAE gahwa (different drinks, may share photo). Spot-check OK. Validator OK.
+- Chile: research agent running.
+- Chile done: 47 dishes, 8 regions (Central Valley 9, Santiago 8, North 6, Chiloé 6, Araucanía & Lakes 6, Valparaíso & Coast 5, Rapa Nui 4, Patagonia 3). GI true 7: INAPI DO chicha de Curacaví, prosciutto de Capitán Pastene, sidra de Punucapa; INAPI IG dulces de Curacaví, dulces de La Ligua, longaniza de Chillán; pisco (DO by law, Decreto 521). Pajarete not GI (INAPI certification mark only). Patagonia + Rapa Nui thin. Lard calls: humitas, sopaipillas, milcao, tortilla de rescoldo nonveg. My fix: pisco sour not vegan, egg allergen (egg white sometimes added). 7 es-wiki links. Validator OK.
+- New Zealand: research agent running (last of batch 7).
+- New Zealand done: 34 dishes, 6 regions (Auckland & Northland 4, Rotorua & BoP 8, Wellington & Lower NI 7, Canterbury 4, Otago & Southland 8, Marlborough & Nelson 3). GI true 3 (IPONZ wine GIs): Marlborough Sauvignon Blanc, Central Otago Pinot Noir, Waiheke Island wine. Flat white + pavlova as NZ entries, dispute with Australia noted. Species/plant links: Bluff oysters, crayfish, mussels, kūmara, kiwifruit, feijoa (check photos). Several placements loose (nationwide items in Wellington). My fix: lolly cake + chocolate fish nonveg (marshmallow gelatin). Validator OK.
+- Batch 7 research done. Photos: running fetch_dish_images.py.
+- Photos batch 7: 96 new; 10 dropped via NO_PHOTO (Spanish empanadillas, Ecuadorian cazuela, grape drawing on pajarete, German marble cake on kuchen, Samarkand halva, German schnitzel, Turkish künefe on both Jordan knafeh, live crayfish, oyster museum specimen). 1,669 dishes with photos. Next: build + install, commit + push.
+- BATCH 7 DONE: 49 countries, 2,116 dishes, 1,669 with photos. Installed on phone 2026-11-11. README counts updated.

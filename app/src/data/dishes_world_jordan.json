@@ -1,0 +1,741 @@
+[
+  {
+    "id": "jordan-knafeh-nabulsieh",
+    "name": "Knafeh nabulsieh",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Jordan",
+    "state": "Amman",
+    "regions": [
+      "Amman"
+    ],
+    "description": "The most common form of knafeh in Jordan: a single layer of soft semolina or shredded kadayif pastry baked over white, salty nabulsi cheese and soaked in sugar syrup. The pastry, traditionally coloured orange, is pressed into a pan coated with clarified butter, topped with desalted cheese, cooked on the stovetop, then flipped and garnished with nuts. The style takes its name from Nablus in Palestine.",
+    "how_to_eat": "Eaten hot, straight after the syrup is poured, while the cheese is still melted.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Knafeh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Knafeh",
+      "https://en.wikipedia.org/wiki/Jordanian_cuisine",
+      "https://edutravel.visitjordan.com/en/page/79/Food-and-Drinks"
+    ]
+  },
+  {
+    "id": "jordan-knafeh-ramlawiyyeh",
+    "name": "Knafeh ramlawiyyeh",
+    "local_name": "كنافة رملاوية",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Jordan",
+    "state": "Amman",
+    "regions": [
+      "Amman"
+    ],
+    "description": "A variety of knafeh common in Amman, made without cheese: pine nuts, walnuts, knafeh pastry or semolina and samneh (clarified butter) are mixed on a sheet pan, baked and soaked in syrup. Its name is attributed to the city of Ramleh, where it is thought to have originated before spreading to Jordan.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Knafeh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Knafeh"
+    ]
+  },
+  {
+    "id": "jordan-fattet-hummus",
+    "name": "Fattet hummus",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jordan",
+    "state": "Amman",
+    "regions": [
+      "Amman"
+    ],
+    "description": "A fatteh of pieces of khubz (flatbread) layered with chickpeas, tahini and lemon; the Jordanian version is topped with strained yogurt and olive oil, and nuts or ground meat may be added as garnish. Falafel shops serve it alongside ful, and with hummus and falafel it makes up the Friday breakfast many Jordanians prefer.",
+    "how_to_eat": "Eaten with a spoon or scooped up with bread at breakfast.",
+    "how_to_order": "Ask for it at falafel shops, which also serve ful and hummus.",
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fatteh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fatteh",
+      "https://en.wikipedia.org/wiki/Jordanian_cuisine",
+      "https://edutravel.visitjordan.com/en/page/79/Food-and-Drinks",
+      "https://migrationology.com/jordanian-food/"
+    ]
+  },
+  {
+    "id": "jordan-galayet-bandora",
+    "name": "Galayet bandora",
+    "local_name": "قلّاية بندورة",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jordan",
+    "state": "Amman",
+    "regions": [],
+    "description": "Tomatoes sautéed and stewed with onions, hot peppers, olive oil and salt until thick but not dry. It is popular across the Levant, especially in Jordan and Palestine, where it is traditionally made during the olive harvest; versions with ground or stewed meat, fried eggs or garlic also exist. King Abdullah II named it his favourite dish in a 2019 interview.",
+    "how_to_eat": "Scooped up with warm pita bread, or served over rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Qalayet_bandora",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Qalayet_bandora",
+      "https://en.wikipedia.org/wiki/Jordanian_cuisine",
+      "https://migrationology.com/jordanian-food/"
+    ]
+  },
+  {
+    "id": "jordan-mansaf-in-a-cup",
+    "name": "Mansaf in a cup",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Jordan",
+    "state": "Amman",
+    "regions": [
+      "Amman"
+    ],
+    "description": "A single-serving version of mansaf (lamb, rice and jameed sauce) packed in a paper cup to be eaten on the go, first sold by a restaurateur in Amman in the 2020s. It was controversial: some Jordanians saw it as inauthentic or as lowering the prestige of a dish meant to be shared from one platter. It later spread to Palestine.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mansaf",
+      "https://edutravel.visitjordan.com/en/page/79/Food-and-Drinks"
+    ]
+  },
+  {
+    "id": "jordan-qatayef",
+    "name": "Qatayef",
+    "local_name": "قطايف",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Jordan",
+    "state": "Amman",
+    "regions": [],
+    "description": "Small pancakes of wheat or semolina batter cooked on one side only, then filled and folded; fillings include cream (qishta), nuts or sweet cheese, and they are served fresh with syrup or deep-fried or baked. In Jordan they are a Ramadan specialty, appearing in markets and bakeries almost only during that month; Al Ghad reported that Jordanians ate about 120 million pieces in Ramadan 2015.",
+    "how_to_eat": "Eaten after iftar during Ramadan, with syrup.",
+    "how_to_order": "Sold by bakeries and market vendors during Ramadan.",
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Qatayef",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Qatayef",
+      "https://en.wikipedia.org/wiki/Jordanian_cuisine",
+      "https://www.jordannews.jo/Section-115/Around-Jordan/What-Should-You-Eat-When-Visiting-Karak-A-Tour-of-Its-Traditional-Dishes-46733"
+    ]
+  },
+  {
+    "id": "jordan-warbat",
+    "name": "Warbat",
+    "local_name": "وربات",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Jordan",
+    "state": "Amman",
+    "regions": [],
+    "description": "A Levantine pastry of phyllo layers filled with semolina custard, sometimes with pistachios, walnuts, almonds or sweet cheese, and topped with a syrup of sugar, water and lemon juice. It is often eaten during Ramadan. In Jordan, warbat and knafeh are often the desserts sold most for celebrations such as tawjihi (school exam) results.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Warbat",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Warbat",
+      "https://en.wikipedia.org/wiki/Jordanian_cuisine"
+    ]
+  },
+  {
+    "id": "jordan-karawiya",
+    "name": "Karawiya (meghli)",
+    "local_name": "مغلي",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Jordan",
+    "state": "Amman",
+    "regions": [],
+    "description": "A rice-flour pudding spiced with caraway, anise and cinnamon and garnished with dried coconut and nuts such as almonds, walnuts, pine nuts and pistachios. In Jordan it is usually called karawiya (the Arabic for caraway) and served warm, and it is served to guests to celebrate the birth of a child.",
+    "how_to_eat": "Eaten warm with a spoon.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Meghli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Meghli",
+      "https://en.wikipedia.org/wiki/Jordanian_cuisine"
+    ]
+  },
+  {
+    "id": "jordan-mansaf",
+    "name": "Mansaf",
+    "local_name": "منسف",
+    "pronunciation": "MAN-saf",
+    "category": "meal",
+    "country": "Jordan",
+    "state": "Salt & Balqa",
+    "regions": [
+      "Salt",
+      "Karak"
+    ],
+    "description": "Jordan's national dish: lamb on the bone simmered for hours in a sauce of jameed (dried fermented yogurt), served on a large platter over shrak flatbread and rice, garnished with almonds and pine nuts and doused with the yogurt sauce. It is served at weddings, births, graduations, Eid, Christmas, Easter and Independence Day, and to settle tribal disputes. Salt and Al-Karak are known for their mansaf, and UNESCO listed it as intangible cultural heritage of Jordan in 2022.",
+    "how_to_eat": "Traditionally eaten standing around the shared platter, using only the right hand to press rice and meat into balls, with the left hand behind the back.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mansaf",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mansaf",
+      "https://en.wikipedia.org/wiki/Jordanian_cuisine",
+      "https://www.jordannews.jo/Section-115/Around-Jordan/What-Should-You-Eat-When-Visiting-Karak-A-Tour-of-Its-Traditional-Dishes-46733",
+      "https://edutravel.visitjordan.com/en/page/79/Food-and-Drinks"
+    ]
+  },
+  {
+    "id": "jordan-salti-khabeesa",
+    "name": "Salti khabeesa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Jordan",
+    "state": "Salt & Balqa",
+    "regions": [
+      "Salt"
+    ],
+    "description": "A sun-dried sweet from Salt, similar to a fruit leather: local grape juice is boiled with semolina into a paste, mixed with aniseed, sesame seeds, juniper seeds and almonds, then spread thin and left to dry in the sun. It is made by older women and sold in Salt's market; Hebron in Palestine also makes it.",
+    "how_to_eat": null,
+    "how_to_order": "Look for it in shops on the main market street in Salt.",
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://roadsandkingdoms.com/2017/sounds-like-best-fruit-roll-ever/"
+    ]
+  },
+  {
+    "id": "jordan-rashoof",
+    "name": "Rashoof",
+    "local_name": "الرشوف",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jordan",
+    "state": "Salt & Balqa",
+    "regions": [
+      "Salt"
+    ],
+    "description": "A heavy winter soup of lentils and coarse wheat or grain cooked with jameed, the same dried yogurt used in mansaf. It is a Bedouin and rural dish popular in northern Jordan and eaten in the north, centre and south; in Salt a women's group cooks it to keep it from being forgotten.",
+    "how_to_eat": "Eaten hot in winter, with sour pickles and vegetables.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jordanian_cuisine",
+      "https://edutravel.visitjordan.com/en/page/79/Food-and-Drinks",
+      "https://al-ain.com/video/traditional-food-jordan",
+      "https://www.yahoo.com/news/jordanian-women-try-revive-forgotten-192827175.html"
+    ]
+  },
+  {
+    "id": "jordan-makmoura",
+    "name": "Makmoura",
+    "local_name": "مكمورة",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jordan",
+    "state": "North (Irbid, Jerash, Ajloun)",
+    "regions": [
+      "Irbid",
+      "Ar-Ramtha"
+    ],
+    "description": "A Hauran dish from rural northern Jordan, including Ar-Ramtha, Huwwarah and the villages around Irbid: chicken (or meat) and large amounts of chopped onion cooked in olive oil and covered with whole-wheat dough, then baked. The name means 'covered'. It was traditionally made for the olive harvest and is now cooked for celebrations and festivals as part of Irbid's identity.",
+    "how_to_eat": "Cut into triangles and served like a cake.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Makmoura",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Makmoura",
+      "https://al-ain.com/video/traditional-food-jordan",
+      "https://en.wikipedia.org/wiki/Jordanian_cuisine"
+    ]
+  },
+  {
+    "id": "jordan-maqluba",
+    "name": "Maqluba",
+    "local_name": "مقلوبة",
+    "pronunciation": "mak-LOO-ba",
+    "category": "meal",
+    "country": "Jordan",
+    "state": "North (Irbid, Jerash, Ajloun)",
+    "regions": [
+      "Ajloun"
+    ],
+    "description": "A one-pot dish of rice, chicken or lamb and fried vegetables such as aubergine, cauliflower and potato, layered in a pot that is flipped upside down onto a platter, which gives it its name. In Ajloun it is a Friday family meal, often made with chicken because it costs less than lamb; Karak cooks spice their version with cardamom and cinnamon.",
+    "how_to_eat": "Served with salad or cold yogurt.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maqluba",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Maqluba",
+      "https://www.nationalgeographic.com/travel/article/culinary-traditions-ajloun-jordan",
+      "https://www.jordannews.jo/Section-115/Around-Jordan/What-Should-You-Eat-When-Visiting-Karak-A-Tour-of-Its-Traditional-Dishes-46733",
+      "https://al-ain.com/video/traditional-food-jordan"
+    ]
+  },
+  {
+    "id": "jordan-yalanji",
+    "name": "Yalanji",
+    "local_name": "يلنجي",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Jordan",
+    "state": "North (Irbid, Jerash, Ajloun)",
+    "regions": [
+      "Ajloun"
+    ],
+    "description": "Vine leaves stuffed mainly with rice, served as part of a Jordanian mezze. In the Ajloun highlands, home cooks flavour the filling with coriander grown in their gardens.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jordanian_cuisine",
+      "https://www.nationalgeographic.com/travel/article/culinary-traditions-ajloun-jordan"
+    ]
+  },
+  {
+    "id": "jordan-jarjeer-salad",
+    "name": "Jarjeer salad",
+    "local_name": "سلطة جرجير",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Jordan",
+    "state": "North (Irbid, Jerash, Ajloun)",
+    "regions": [
+      "Ajloun"
+    ],
+    "description": "A salad of rocket (jarjeer) leaves, which grow large in Jordan, tossed with olive oil and lemon; in Ajloun it is made tangy with plenty of sumac. It is served alongside maqluba at family meals.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jordanian_cuisine",
+      "https://www.nationalgeographic.com/travel/article/culinary-traditions-ajloun-jordan"
+    ]
+  },
+  {
+    "id": "jordan-labaneh-jarashiyyeh",
+    "name": "Labaneh jarashiyyeh",
+    "local_name": "لبنه جرشيّه",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Jordan",
+    "state": "North (Irbid, Jerash, Ajloun)",
+    "regions": [
+      "Jerash"
+    ],
+    "description": "'Labaneh from Jerash': a strained yogurt thick enough to spread on flatbread as a sandwich, served as part of a mezze.",
+    "how_to_eat": "Spread on flatbread.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jordanian_cuisine"
+    ]
+  },
+  {
+    "id": "jordan-karaki-jameed",
+    "name": "Karaki jameed",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Jordan",
+    "state": "Karak & South",
+    "regions": [
+      "Karak"
+    ],
+    "description": "Hard, dried, salted yogurt made from sheep's or goat's milk: the milk is churned to separate butter, the yogurt is strained in cloth, salted for several days and shaped into round balls. It is the base of the sauce for mansaf. Al-Karak is known for its jameed, which village families have traditionally made for their own use.",
+    "how_to_eat": "Dissolved in water and cooked into the sauce for mansaf and other dishes.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mansaf",
+      "https://www.jordannews.jo/Section-30/Entrepreneurship/Gader-Al-Badiya-preserves-national-heritage-10082",
+      "https://www.jordannews.jo/Section-115/Around-Jordan/What-Should-You-Eat-When-Visiting-Karak-A-Tour-of-Its-Traditional-Dishes-46733"
+    ]
+  },
+  {
+    "id": "jordan-karaki-musakhan",
+    "name": "Karaki musakhan",
+    "local_name": "مسخّن",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jordan",
+    "state": "Karak & South",
+    "regions": [
+      "Karak"
+    ],
+    "description": "Taboon bread soaked in fresh olive oil, topped with caramelised onions, sumac and roasted chicken, often finished with pine nuts. Musakhan originated as a Palestinian dish and is popular in Jordan; in Karak it is usually made during the olive harvest.",
+    "how_to_eat": "Eaten with the hands, with yogurt on the side.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Musakhan",
+    "source_urls": [
+      "https://www.jordannews.jo/Section-115/Around-Jordan/What-Should-You-Eat-When-Visiting-Karak-A-Tour-of-Its-Traditional-Dishes-46733",
+      "https://en.wikipedia.org/wiki/Musakhan",
+      "https://al-ain.com/video/traditional-food-jordan"
+    ]
+  },
+  {
+    "id": "jordan-mujallala",
+    "name": "Mujallala",
+    "local_name": "المجلّلة",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jordan",
+    "state": "Karak & South",
+    "regions": [],
+    "description": "A dish popular in southern Jordan: bread dipped in hot jameed sauce and topped with mutton or chicken and fried nuts.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://edutravel.visitjordan.com/en/page/79/Food-and-Drinks",
+      "https://en.wikipedia.org/wiki/Jordanian_cuisine"
+    ]
+  },
+  {
+    "id": "jordan-hareeseh",
+    "name": "Hareeseh",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Jordan",
+    "state": "Karak & South",
+    "regions": [
+      "Karak"
+    ],
+    "description": "A baked semolina cake soaked in sugar syrup and cut into diamonds or squares; the Levantine name for basbousa. Karak's traditional sweets include a nut-filled version, and Jordanian versions can include coconut, cream, yogurt and almonds.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Basbousa",
+    "source_urls": [
+      "https://www.jordannews.jo/Section-115/Around-Jordan/What-Should-You-Eat-When-Visiting-Karak-A-Tour-of-Its-Traditional-Dishes-46733",
+      "https://en.wikipedia.org/wiki/Basbousa",
+      "https://migrationology.com/jordanian-food/"
+    ]
+  },
+  {
+    "id": "jordan-zarb",
+    "name": "Zarb",
+    "local_name": "زارب",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jordan",
+    "state": "Wadi Rum, Aqaba & Bedouin",
+    "regions": [
+      "Wadi Rum",
+      "Petra"
+    ],
+    "description": "A Bedouin meal of lamb or chicken and vegetables such as potatoes, onions, courgette and carrots, cooked in a pit dug in the sand over wood coals and sealed in for about 1.5-2.5 hours. Today the pit is often lined with a metal casing holding a multi-level rack, with meat below and vegetables above; traditionally the food was wrapped in palm leaves. In Jordan it is linked to the Hisma desert (Wadi Rum) and Petra.",
+    "how_to_eat": "Served with rice and mezze such as hummus, mutabbal and salad.",
+    "how_to_order": "Offered as a dinner at Wadi Rum desert camps rather than in Aqaba restaurants.",
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jordanian_cuisine",
+      "https://edutravel.visitjordan.com/en/page/79/Food-and-Drinks",
+      "https://pinkpangea.com/2017/05/dinner-desert-bedouin-zarb-wadi-rum-jordan/",
+      "https://egyptianstreets.com/2018/11/09/a-desert-feast-in-jordans-wadi-rum/",
+      "https://wowjordan.com/en/2024/02/19/traditional-food-in-aqaba/"
+    ]
+  },
+  {
+    "id": "jordan-aqaba-sayadieh",
+    "name": "Aqaba sayadieh",
+    "local_name": "صيادية",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jordan",
+    "state": "Wadi Rum, Aqaba & Bedouin",
+    "regions": [
+      "Aqaba"
+    ],
+    "description": "Aqaba's fish and rice dish: onions are fried dark brown and simmered with tomato paste, cumin and spices such as coriander, turmeric, cardamom, cinnamon and ginger into a stew, fish such as grouper, swordfish or sea bream is cooked in it, and the rice is then cooked in the same stew. Versions exist in Lebanon and Egypt, but the Aqaba one differs in method and the Red Sea fish used. It is often served to guests or on special occasions.",
+    "how_to_eat": "The rice is spread on a large plate with the fish on top, the stew served alongside, with a tahini salad.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sayadieh",
+    "source_urls": [
+      "https://enicbcmed.eu/crossdev-sayadiah-must-try-experience-aqaba-jordan",
+      "https://en.wikipedia.org/wiki/Sayadieh",
+      "https://wowjordan.com/en/2024/02/19/traditional-food-in-aqaba/"
+    ]
+  },
+  {
+    "id": "jordan-bedouin-sage-tea",
+    "name": "Bedouin sage tea",
+    "local_name": "شاي بدوي",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Jordan",
+    "state": "Wadi Rum, Aqaba & Bedouin",
+    "regions": [
+      "Wadi Rum"
+    ],
+    "description": "Tea brewed over an open fire by Bedouins, traditionally with dried wild sage and large amounts of raw sugar; thyme, cardamom, cinnamon or black tea leaves may be added, and there is no single recipe. In Wadi Rum it is part of Bedouin hospitality and of a zarb dinner.",
+    "how_to_eat": "Served hot in small glasses.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://pinkpangea.com/2017/05/dinner-desert-bedouin-zarb-wadi-rum-jordan/",
+      "https://en.wikipedia.org/wiki/Arabic_tea",
+      "https://en.wikipedia.org/wiki/Jordanian_cuisine"
+    ]
+  },
+  {
+    "id": "jordan-qahwa-sada",
+    "name": "Qahwa sada",
+    "local_name": "قهوة عربيّة",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Jordan",
+    "state": "Wadi Rum, Aqaba & Bedouin",
+    "regions": [],
+    "description": "Black, unsweetened Arabic coffee flavoured with cardamom, made from fire-roasted beans and served in very small cups; among Bedouins and in rural communities a long-spouted pot called a bakraj is used. In Jordan it is called 'welcome coffee' and is served to honour guests.",
+    "how_to_eat": "Drunk in small sips from espresso-sized cups.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JOD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arabic_coffee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Arabic_coffee",
+      "https://en.wikipedia.org/wiki/Jordanian_cuisine",
+      "https://www.jordannews.jo/Section-115/Around-Jordan/What-Should-You-Eat-When-Visiting-Karak-A-Tour-of-Its-Traditional-Dishes-46733"
+    ]
+  }
+]

@@ -1,0 +1,1395 @@
+[
+  {
+    "id": "chile-completo",
+    "name": "Completo",
+    "local_name": null,
+    "pronunciation": "kom-PLEH-toh",
+    "category": "street_food",
+    "country": "Chile",
+    "state": "Santiago",
+    "regions": [
+      "Santiago"
+    ],
+    "description": "A Chilean hot dog, often about twice the size of an American one, topped with chopped tomato, mayonnaise, sauerkraut and salsa americana, or with tomato, mashed avocado and mayonnaise in the 'Italiano' version. It was first made in the 1920s in the soda fountains of central Santiago by Eduardo Bahamondes, who added tomato and avocado after locals disliked the plain hot dog.",
+    "how_to_eat": "Eaten by hand, usually with a lot of mayonnaise on top.",
+    "how_to_order": "Ask for a completo (with sauerkraut and salsa americana) or an italiano (tomato, avocado, mayonnaise) at a fuente de soda.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Completo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Completo",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-barros-luco",
+    "name": "Barros Luco",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Chile",
+    "state": "Santiago",
+    "regions": [
+      "Santiago"
+    ],
+    "description": "A hot sandwich of beef and melted cheese, named after Ramón Barros Luco, president of Chile from 1910 to 1915. It is said to have been created in the restaurant of the National Congress in Santiago, where he always ordered it; its ham-and-cheese counterpart is the Barros Jarpa, named after his cousin.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for a Barros Luco (beef and cheese) or a Barros Jarpa (ham and cheese).",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Barros_Luco",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Barros_Luco",
+      "https://en.wikipedia.org/wiki/Barros_Jarpa_(sandwich)",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-chacarero",
+    "name": "Chacarero",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Chile",
+    "state": "Santiago",
+    "regions": [
+      "Santiago"
+    ],
+    "description": "A sandwich of thinly sliced churrasco-style steak or lomito-style pork on a round roll with tomatoes, green beans and mayonnaise, optionally with ají verde chili. It is one of the sandwiches served in Chilean fuentes de soda and schoperías, which serve fast food and draught beer.",
+    "how_to_eat": null,
+    "how_to_order": "Order it at a fuente de soda or schopería; say if you want ají verde added.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chacarero",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chacarero",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-paila-marina",
+    "name": "Paila marina",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Chile",
+    "state": "Santiago",
+    "regions": [
+      "Santiago"
+    ],
+    "description": "A seafood soup or light stew served in a paila (earthenware bowl): onions, carrots, peppers, tomatoes, fish and shellfish in the shell are fried, then simmered in fish stock with herbs and paprika. It is traditionally eaten at seafood markets, especially the morning after a party; Santiago's Mercado Central is one of the city's busiest places on 1 January.",
+    "how_to_eat": "Eaten hot from the clay bowl, shellfish still in the shell.",
+    "how_to_order": "Order it at a seafood market such as Santiago's Mercado Central.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paila_marina",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Paila_marina",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-terremoto",
+    "name": "Terremoto",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Chile",
+    "state": "Santiago",
+    "regions": [
+      "Santiago"
+    ],
+    "description": "A cocktail of white pipeño wine (or generic white wine), pineapple ice cream and grenadine, created in the late 20th century; its name ('earthquake') refers to the 1985 Chilean earthquake. A half-size second round is called a réplica (aftershock), and the version made with red wine is called an Africano.",
+    "how_to_eat": "Traditionally served in a 400 ml glass, often followed by a smaller réplica.",
+    "how_to_order": "Bars such as La Piojera helped popularise it; ask for a terremoto, then a réplica.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Terremoto_(drink)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Terremoto_(drink)",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-mote-con-huesillo",
+    "name": "Mote con huesillo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Chile",
+    "state": "Santiago",
+    "regions": [
+      "Santiago"
+    ],
+    "description": "A non-alcoholic summer drink of dried peaches (huesillos) cooked in sugar, water and often cinnamon, cooled and mixed with cooked husked wheat (mote). It is mostly sold by street vendors from carts and stands; served without the peaches it is called descarozados.",
+    "how_to_eat": "Served chilled in a tall glass with a long spoon for the wheat and peach.",
+    "how_to_order": "Buy it from street carts or stands in summer.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mote_con_huesillo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mote_con_huesillo",
+      "https://en.wikipedia.org/wiki/Mote_(food)"
+    ]
+  },
+  {
+    "id": "chile-cola-de-mono",
+    "name": "Cola de mono",
+    "local_name": "Colemono",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Chile",
+    "state": "Santiago",
+    "regions": [],
+    "description": "A Christmas and New Year drink of aguardiente, milk, coffee, sugar and spices such as cinnamon, clove, vanilla and orange zest. Several stories explain its name ('monkey's tail'), including one linked to the bottles of Anís del Mono it was first sold in.",
+    "how_to_eat": "Often paired with pan de Pascua.",
+    "how_to_order": "Look for it in December, at home gatherings, bakeries and shops.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cola_de_mono",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cola_de_mono",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-pan-de-pascua",
+    "name": "Pan de Pascua",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Chile",
+    "state": "Santiago",
+    "regions": [],
+    "description": "A Christmas cake (despite the name, made from batter rather than bread dough) flavoured with ginger and honey, usually with candied fruit, raisins, walnuts and almonds. It was brought to Chile by German immigrants and combines features of German stollen and Italian panettone.",
+    "how_to_eat": "Sliced and eaten with cola de mono at Christmas.",
+    "how_to_order": "Sold in bakeries and supermarkets in the weeks before Christmas.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pan_de_Pascua",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pan_de_Pascua",
+      "https://en.wikipedia.org/wiki/Cola_de_mono"
+    ]
+  },
+  {
+    "id": "chile-empanada-de-pino",
+    "name": "Empanada de pino",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Chile",
+    "state": "Central Valley",
+    "regions": [],
+    "description": "The Chilean baked empanada, filled with pino (seasoned ground or chopped beef with onions), plus olives, raisins and hard-boiled egg. Empanadas, chicha and red wine were already the food of Chile's first independence celebrations and remain traditional at the September Fiestas Patrias; sellers always say whether their empanadas are baked (de horno) or fried.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for an empanada de pino de horno; fried cheese empanadas (empanadas fritas de queso) are the other common choice.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Empanada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Empanada",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine",
+      "https://chile.travel/en/blog/typical-cuisine-a-journey-through-the-flavors-of-chile/"
+    ]
+  },
+  {
+    "id": "chile-pastel-de-choclo",
+    "name": "Pastel de choclo",
+    "local_name": null,
+    "pronunciation": "pahs-TEL deh CHOH-kloh",
+    "category": "meal",
+    "country": "Chile",
+    "state": "Central Valley",
+    "regions": [],
+    "description": "A corn pie with a filling of pino (minced beef cooked with onions and spices, sometimes with chicken), hard-boiled egg, olives and raisins, topped with fresh corn ground with basil and pre-cooked with milk and a little lard, then baked, usually in a clay paila. A similar dish was described in Chile in 1862 by Claudio Gay.",
+    "how_to_eat": null,
+    "how_to_order": "Served in the clay dish it was baked in; Santiago picadas and the Mercado Central serve it.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pastel_de_choclo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pastel_de_choclo",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine",
+      "https://chile.travel/en/blog/typical-cuisine-a-journey-through-the-flavors-of-chile/"
+    ]
+  },
+  {
+    "id": "chile-cazuela",
+    "name": "Cazuela",
+    "local_name": null,
+    "pronunciation": "kah-SWEH-lah",
+    "category": "meal",
+    "country": "Chile",
+    "state": "Central Valley",
+    "regions": [],
+    "description": "A soup-stew, most often of chicken (cazuela de ave) or beef, with the meat, potato, a piece of squash, green beans, rice and a piece of corn cooked separately and combined in the bowl. It shares roots with a Mapuche stock; regional versions include the Coquimbo cazuela with peeled wheat instead of rice.",
+    "how_to_eat": "Usually the broth is drunk first, then the meat and large vegetables are eaten.",
+    "how_to_order": "Found in Santiago picadas and the Mercado Central; ask for cazuela de ave (chicken) or de vacuno (beef).",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cazuela",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cazuela",
+      "https://www.marcachile.cl/en/5-platos-tipicos-chilenos/",
+      "https://chile.travel/en/blog/typical-cuisine-a-journey-through-the-flavors-of-chile/"
+    ]
+  },
+  {
+    "id": "chile-porotos-granados",
+    "name": "Porotos granados",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Chile",
+    "state": "Central Valley",
+    "regions": [],
+    "description": "A summer countryside stew of fresh cranberry beans, corn and squash, with onion, cumin, basil and oregano. Most of its ingredients are native to the Americas and the most common version is vegetarian, made with vegetable broth, though chicken or beef broth is sometimes used.",
+    "how_to_eat": "Often served with ensalada chilena (tomato and onion salad).",
+    "how_to_order": "Ask whether it is made with vegetable or meat broth if that matters to you.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Porotos_granados",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Porotos_granados",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-humitas",
+    "name": "Humitas (Chilean)",
+    "local_name": "Humitas",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Chile",
+    "state": "Central Valley",
+    "regions": [],
+    "description": "Fresh corn ground with onion, basil and butter or lard, wrapped in corn husks, tied with thread and baked or boiled. In Chile they are traceable to the 19th century and are eaten in summer.",
+    "how_to_eat": "Eaten savoury or sweet, traditionally with added sugar or with tomato.",
+    "how_to_order": "Ask whether they are made with butter or lard if you avoid meat.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Humita",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Humita",
+      "https://chile.travel/en/blog/typical-cuisine-a-journey-through-the-flavors-of-chile/"
+    ]
+  },
+  {
+    "id": "chile-sopaipillas",
+    "name": "Sopaipillas (Chilean)",
+    "local_name": "Sopaipillas",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Chile",
+    "state": "Central Valley",
+    "regions": [],
+    "description": "Round, flat discs of fried dough pricked with a fork, made in central Chile with flour, animal fat and cooked pumpkin. They have been eaten in Chile at least since 1726 and are a winter street food and a rainy-day home treat.",
+    "how_to_eat": "Savoury with pebre, mustard or avocado, or sweet as sopaipillas pasadas, soaked in hot chancaca (panela) syrup.",
+    "how_to_order": "Buy them from street stalls in winter; ask for pasadas for the syrup-soaked sweet version.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sopaipilla",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sopaipilla",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-chicha-de-curacavi",
+    "name": "Chicha de Curacaví",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Chile",
+    "state": "Central Valley",
+    "regions": [
+      "Curacaví"
+    ],
+    "description": "An undistilled, fermented grape chicha from Curacaví, west of Santiago, cooked in copper vessels and made only from wine grapes, with no added ingredients. It has a registered Denominación de Origen with Chile's INAPI and averages about 7% alcohol; chicha is drunk mostly in the countryside and at the 18 September festivities.",
+    "how_to_eat": null,
+    "how_to_order": "Look for it around the September Fiestas Patrias, when chicha is easiest to find.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.inapi.cl/sello-de-origen/productos-registrados-y-en-proceso/centro",
+      "https://en.wikipedia.org/wiki/Chicha",
+      "https://www.fundacionfuturo.cl/wp-content/uploads/2023/04/sellosorigenes.pdf"
+    ]
+  },
+  {
+    "id": "chile-dulces-de-curacavi",
+    "name": "Dulces de Curacaví",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Chile",
+    "state": "Central Valley",
+    "regions": [
+      "Curacaví"
+    ],
+    "description": "Baked pastries from Curacaví filled mainly with manjar (dulce de leche), registered as an Indicación Geográfica with INAPI. The registration covers 12 types, including chilenitos, alfajores, príncipes, empolvados, cocadas, merengues, mil hojas and huevo mol.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in the many sweet shops of Curacaví.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.inapi.cl/sello-de-origen/productos-registrados-y-en-proceso/centro",
+      "https://www.fundacionfuturo.cl/wp-content/uploads/2023/04/sellosorigenes.pdf"
+    ]
+  },
+  {
+    "id": "chile-longaniza-de-chillan",
+    "name": "Longaniza de Chillán",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Chile",
+    "state": "Central Valley",
+    "regions": [
+      "Chillán"
+    ],
+    "description": "A long, narrow pork and beef sausage seasoned with salt, paprika, garlic, oregano, cumin and pepper, smoked or unsmoked, from the Ñuble region. It is registered with INAPI as an Indicación Geográfica, and large amounts of longaniza are eaten at the 18 September festivities.",
+    "how_to_eat": "Grilled at asados and often eaten in bread as a choripán.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.inapi.cl/sello-de-origen/productos-registrados-y-en-proceso/sur",
+      "https://en.wikipedia.org/wiki/Longaniza",
+      "https://en.wikipedia.org/wiki/Choripán"
+    ]
+  },
+  {
+    "id": "chile-chorrillana",
+    "name": "Chorrillana",
+    "local_name": null,
+    "pronunciation": "cho-ree-YAH-nah",
+    "category": "meal",
+    "country": "Chile",
+    "state": "Valparaíso & Coast",
+    "regions": [
+      "Valparaíso"
+    ],
+    "description": "A plate of salted French fries topped with sliced beef, usually with fried onions and scrambled or fried eggs; some versions add sausages or chorizo. In Chile it is popularly believed to have originated around 1970 at J. Cruz, a bar-restaurant in Valparaíso, as a cheap dish to share.",
+    "how_to_eat": "Shared from one platter.",
+    "how_to_order": "Order one platter for the table in a bar.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chorrillana",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chorrillana",
+      "https://es.wikipedia.org/wiki/Chorrillana"
+    ]
+  },
+  {
+    "id": "chile-machas-a-la-parmesana",
+    "name": "Machas a la parmesana",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Chile",
+    "state": "Valparaíso & Coast",
+    "regions": [
+      "Viña del Mar"
+    ],
+    "description": "Macha clams (Mesodesma donacium) baked in the half shell with Parmesan, a little butter and white wine or lemon. The dish was created in the 1950s at the Italian restaurant San Marco in Viña del Mar and is popular along the Chilean coast, often as a starter.",
+    "how_to_eat": "Eaten as a starter, straight from the shell.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Machas_a_la_parmesana",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Machas_a_la_parmesana",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-caldillo-de-congrio",
+    "name": "Caldillo de congrio",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Chile",
+    "state": "Valparaíso & Coast",
+    "regions": [
+      "Isla Negra"
+    ],
+    "description": "A soup of pink or red cusk-eel (congrio), made with a fish-head stock, onion, garlic, tomato, potatoes, coriander and cream. Pablo Neruda wrote an ode to it, and it is often associated with his house in Isla Negra.",
+    "how_to_eat": "Served hot, preferably in a clay pot that keeps it warm.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caldillo_de_congrio",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Caldillo_de_congrio",
+      "https://www.marcachile.cl/en/5-platos-tipicos-chilenos/"
+    ]
+  },
+  {
+    "id": "chile-pastel-de-jaiba",
+    "name": "Pastel de jaiba",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Chile",
+    "state": "Valparaíso & Coast",
+    "regions": [],
+    "description": "A crustless crab bake: crab meat sautéed with onion and garlic, mixed with bread soaked in milk or cream, topped with grated cheese and baked in individual clay pots. It is served by restaurants along Chile's Pacific coast.",
+    "how_to_eat": "Eaten hot from the clay pot.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pastel_de_jaiba",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pastel_de_jaiba",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-dulces-de-la-ligua",
+    "name": "Dulces de La Ligua",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Chile",
+    "state": "Valparaíso & Coast",
+    "regions": [
+      "La Ligua"
+    ],
+    "description": "Handmade pastries from La Ligua in the Valparaíso Region, built from hojarasca (thin pastry), manjar and meringue or icing, in shapes with names such as alfajor, chilenito, cocada, empolvado and príncipe. They are registered with INAPI as an Indicación Geográfica; their origin is attributed either to families who came from Copiapó in the late 19th century or to Augustinian nuns.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in La Ligua and by vendors called palomitas, in white aprons, along Ruta 5.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Dulces_de_La_Ligua",
+    "source_urls": [
+      "https://www.inapi.cl/sello-de-origen/productos-registrados-y-en-proceso/centro",
+      "https://es.wikipedia.org/wiki/Dulces_de_La_Ligua",
+      "https://www.fundacionfuturo.cl/wp-content/uploads/2023/04/sellosorigenes.pdf"
+    ]
+  },
+  {
+    "id": "chile-pisco",
+    "name": "Pisco (Chilean)",
+    "local_name": "Pisco",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Chile",
+    "state": "North",
+    "regions": [
+      "Atacama",
+      "Coquimbo"
+    ],
+    "description": "A grape spirit distilled from wine; Chilean pisco has a legal Denominación de Origen restricted to the Atacama and Coquimbo regions, first set in 1931. It is made mainly from Muscat grapes and graded by strength from Pisco Corriente (30-35%) to Gran Pisco (43% or more).",
+    "how_to_eat": "Drunk in pisco sours and piscolas more often than neat.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pisco",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pisco",
+      "https://www.sag.cl/sites/default/files/decreto_ndeg_521.pdf"
+    ]
+  },
+  {
+    "id": "chile-pisco-sour",
+    "name": "Chilean pisco sour",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Chile",
+    "state": "North",
+    "regions": [],
+    "description": "The Chilean version of the pisco sour: Chilean pisco shaken with juice of limón de Pica and powdered sugar over ice. Unlike the Peruvian version, it is usually made without egg white or bitters.",
+    "how_to_eat": null,
+    "how_to_order": "Ask whether egg white is used if you avoid egg; the Chilean recipe usually has none.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pisco_sour",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pisco_sour",
+      "https://www.sag.cl/sites/default/files/decreto_ndeg_521.pdf"
+    ]
+  },
+  {
+    "id": "chile-piscola",
+    "name": "Piscola",
+    "local_name": "Combinado nacional",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Chile",
+    "state": "North",
+    "regions": [],
+    "description": "A highball of pisco and cola over ice in a ratio from 1:1 to 1:3; mixed with ginger ale, tonic or a lemon-lime soda it is called 'white'. Since 2003, 8 February has been celebrated in Chile as the day of the piscola.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for a piscola; you can choose the pisco and the mixer.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Piscola",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Piscola"
+    ]
+  },
+  {
+    "id": "chile-pajarete",
+    "name": "Pajarete",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Chile",
+    "state": "North",
+    "regions": [
+      "Huasco Valley"
+    ],
+    "description": "A sweet fortified wine, also called vino del sol, produced in the Atacama and Coquimbo regions from Muscat and País grapes; it is viscous, aromatic and pale cinnamon in colour. The Huasco Alto version carries an INAPI certification mark (Esencia de Huasco Alto).",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Pajarete",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Pajarete",
+      "https://www.inapi.cl/sello-de-origen/productos-registrados-y-en-proceso/norte-chico",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-chumbeque",
+    "name": "Chumbeque",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Chile",
+    "state": "North",
+    "regions": [
+      "Iquique"
+    ],
+    "description": "A layered, turrón-like sweet of flour, sesame and cinnamon with layers of fruit syrup such as fig or orange. The northern Chilean version, linked to Iquique, uses oil instead of lard and no egg yolks; it is said to have been created by a Cantonese immigrant, Ernesto Koo, and his wife, a pastry cook.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in shops in Iquique and other northern cities.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Chumbeque",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Chumbeque"
+    ]
+  },
+  {
+    "id": "chile-calapurca",
+    "name": "Calapurca",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Chile",
+    "state": "North",
+    "regions": [],
+    "description": "An Andean soup traditionally heated before serving with stones preheated in embers; the name comes from Aymara for a soup cooked with hot stones. The northern Chilean version uses ají de color, beef, lamb, llama or chicken, onion, mote and potatoes, and is eaten in mountain and valley villages during traditional festivals.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Calapurca",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Calapurca",
+      "https://chile.travel/en/blog/typical-cuisine-a-journey-through-the-flavors-of-chile/"
+    ]
+  },
+  {
+    "id": "chile-curanto",
+    "name": "Curanto en hoyo",
+    "local_name": "Curanto en hoyo",
+    "pronunciation": "koo-RAHN-toh",
+    "category": "meal",
+    "country": "Chile",
+    "state": "Chiloé",
+    "regions": [
+      "Chiloé"
+    ],
+    "description": "The Chilote method of cooking shellfish, meat, sausages, potatoes, milcao and chapalele on red-hot stones in a pit, covered with nalca leaves, sacks and turf so the food steams for about an hour. Clams, ribbed mussels and giant barnacles (picorocos) are essential; a version cooked in a pot is called curanto en olla or pulmay.",
+    "how_to_eat": null,
+    "how_to_order": "In Chiloé, ask for curanto en hoyo for the pit-cooked version or curanto en olla for the pot version.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Curanto",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Curanto",
+      "https://www.marcachile.cl/en/5-platos-tipicos-chilenos/",
+      "https://chile.travel/en/blog/typical-cuisine-a-journey-through-the-flavors-of-chile/"
+    ]
+  },
+  {
+    "id": "chile-milcao",
+    "name": "Milcao",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Chile",
+    "state": "Chiloé",
+    "regions": [
+      "Chiloé"
+    ],
+    "description": "A potato pancake from Chiloé made from raw grated potatoes and cooked mashed potatoes kneaded with seasoning and lard. It is part of curanto and is baked, fried or boiled.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Milcao",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Milcao",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-chapalele",
+    "name": "Chapalele",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Chile",
+    "state": "Chiloé",
+    "regions": [
+      "Chiloé"
+    ],
+    "description": "A dumpling of boiled potatoes and wheat flour, especially common in the cuisine of Chiloé. It is a standard part of curanto.",
+    "how_to_eat": "Usually eaten as part of a curanto.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chapalele",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chapalele",
+      "https://en.wikipedia.org/wiki/Curanto"
+    ]
+  },
+  {
+    "id": "chile-cancato",
+    "name": "Cancato",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Chile",
+    "state": "Chiloé",
+    "regions": [
+      "Chiloé",
+      "Llanquihue"
+    ],
+    "description": "Fish (traditionally sierra, now often salmon) held open with sticks and roasted over a fire; the name comes from the Mapudungun for roasted meat. In restaurants it is usually a baked salmon topped with tomato, sausage and melted cheese.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cancato",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cancato",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-licor-de-oro",
+    "name": "Licor de oro",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Chile",
+    "state": "Chiloé",
+    "regions": [
+      "Chiloé"
+    ],
+    "description": "A Chilote liqueur made of aguardiente and whey, flavoured with saffron and lemon peel, which give it its yellow colour.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Licor_de_oro",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Licor_de_oro",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-murta-con-membrillo",
+    "name": "Murta con membrillo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Chile",
+    "state": "Chiloé",
+    "regions": [],
+    "description": "A dessert from southern Chile of murta berries (Ugni molinae, the Chilean guava) boiled with quince and sugar. Murta is a shrub native to southern Chile that the Mapuche used before the Spanish arrived.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Murta_con_membrillo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Murta_con_membrillo",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-kuchen",
+    "name": "Kuchen (Chilean)",
+    "local_name": "Kuchen",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Chile",
+    "state": "Araucanía & the Lakes",
+    "regions": [],
+    "description": "A German-style cake brought to southern Chile by German immigrants in the 1850s, usually topped or filled with fruit such as apple, strawberry or murta. It is now sold in bakeries and supermarkets across Chile.",
+    "how_to_eat": null,
+    "how_to_order": "Look for fruit kuchen in bakeries in the south.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kuchen",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kuchen",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-crudo-aleman",
+    "name": "Crudo alemán",
+    "local_name": "Crudos",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Chile",
+    "state": "Araucanía & the Lakes",
+    "regions": [],
+    "description": "A German-Chilean dish similar to steak tartare: finely chopped raw beef on a slice of white bread, with lemon juice, chopped onion and a yogurt-mayonnaise sauce. It probably derives from German Mett, with beef replacing pork in cattle-farming southern Chile.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Crudo_alemán",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Crudo_alemán",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-valdiviano",
+    "name": "Valdiviano",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Chile",
+    "state": "Araucanía & the Lakes",
+    "regions": [
+      "Valdivia"
+    ],
+    "description": "A soup of charqui (jerky) and onions, named after the city of Valdivia, where Spanish soldiers isolated after 1598 are said to have created it from their jerky rations. It is one of the oldest dishes in Chilean cuisine.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Valdiviano",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Valdiviano",
+      "https://www.marcachile.cl/en/5-platos-tipicos-chilenos/"
+    ]
+  },
+  {
+    "id": "chile-sidra-de-punucapa",
+    "name": "Sidra de Punucapa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Chile",
+    "state": "Araucanía & the Lakes",
+    "regions": [
+      "Punucapa",
+      "Valdivia"
+    ],
+    "description": "A low-alcohol (4-5%) apple cider from Punucapa near Valdivia, made by hand with a long natural fermentation from local apple varieties brought by German and Spanish settlers. It has a registered Denominación de Origen with INAPI and is linked to the Fiesta de la Candelaria in February.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Sidra_de_Punucapa",
+    "source_urls": [
+      "https://www.inapi.cl/sello-de-origen/productos-registrados-y-en-proceso/sur",
+      "https://es.wikipedia.org/wiki/Sidra_de_Punucapa",
+      "https://www.fundacionfuturo.cl/wp-content/uploads/2023/04/sellosorigenes.pdf"
+    ]
+  },
+  {
+    "id": "chile-prosciutto-de-capitan-pastene",
+    "name": "Prosciutto de Capitán Pastene",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Chile",
+    "state": "Araucanía & the Lakes",
+    "regions": [
+      "Capitán Pastene"
+    ],
+    "description": "A raw ham salted, smoked and aged for 12 to 30 months in the Nahuelbuta range, made in Capitán Pastene (Lumaco) by descendants of Italian settlers who arrived in 1904. It has a registered Denominación de Origen with INAPI since 2015.",
+    "how_to_eat": "Eaten thinly sliced.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Prosciutto_de_Capit%C3%A1n_Pastene",
+    "source_urls": [
+      "https://www.inapi.cl/sello-de-origen/productos-registrados-y-en-proceso/sur",
+      "https://es.wikipedia.org/wiki/Prosciutto_de_Capit%C3%A1n_Pastene",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-tortilla-de-rescoldo",
+    "name": "Tortilla de rescoldo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Chile",
+    "state": "Araucanía & the Lakes",
+    "regions": [
+      "Antihue",
+      "Laraquete"
+    ],
+    "description": "A flatbread of wheat flour, fat (lard, butter or shortening) and salt, traditionally baked directly in the embers of a fire and dating to colonial travel rations. It is sold in train stations and public places, especially in Antihue and Laraquete, by vendors called palomitas who dress in white.",
+    "how_to_eat": "Served with butter or regional condiments.",
+    "how_to_order": "Buy from roadside or station vendors; versions with pork (Antihue) or shellfish (Laraquete) exist.",
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tortilla_de_rescoldo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tortilla_de_rescoldo",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-cordero-al-palo",
+    "name": "Cordero al palo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Chile",
+    "state": "Patagonia",
+    "regions": [
+      "Magallanes"
+    ],
+    "description": "A whole lamb tied to a stake and roasted upright beside a wood fire on low heat for around five hours. Lamb is not widely eaten in much of Chile but is popular in Patagonia among locals and visitors.",
+    "how_to_eat": "Served hot with salads and pebre.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Asado",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine",
+      "https://chile.travel/en/blog/typical-cuisine-a-journey-through-the-flavors-of-chile/"
+    ]
+  },
+  {
+    "id": "chile-chupe-de-centolla",
+    "name": "Chupe de centolla",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Chile",
+    "state": "Patagonia",
+    "regions": [
+      "Punta Arenas"
+    ],
+    "description": "A creamy stew of southern king crab (centolla), served very hot in clay bowls in Punta Arenas. The crab lives in Chilean waters from Talcahuano to Cape Horn.",
+    "how_to_eat": "Eaten hot from the clay bowl.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.interpatagonia.com/puntaarenas/tour-gastronomico-punta-arenas.html",
+      "https://chile.travel/en/blog/typical-cuisine-a-journey-through-the-flavors-of-chile/",
+      "https://en.wikipedia.org/wiki/Lithodes_santolla"
+    ]
+  },
+  {
+    "id": "chile-calafate-sour",
+    "name": "Calafate sour",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Chile",
+    "state": "Patagonia",
+    "regions": [
+      "Magallanes"
+    ],
+    "description": "A Patagonian variation of the Chilean pisco sour, made with pisco, lemon juice and sugar plus calafate berry juice or liqueur. The calafate is a small, blue-purple, sweet-sour berry of Chilean and Argentine Patagonia, and the drink is found in local restaurants across Magallanes.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.elmostrador.cl/revista-jengibre/gastronomia/2024/05/20/calafate-el-fruto-que-le-da-identidad-y-sabor-a-la-gastronomia-patagonica/",
+      "https://www.journeylatinamerica.com/travel-inspiration/recipes/calafate-sour/"
+    ]
+  },
+  {
+    "id": "chile-umu",
+    "name": "Umu",
+    "local_name": "Umu Ta'o",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Chile",
+    "state": "Rapa Nui (Easter Island)",
+    "regions": [
+      "Easter Island"
+    ],
+    "description": "Meat, fish, vegetables and fruit wrapped in banana leaves and cooked in an umu pae, an earth oven of hot volcanic stones covered with soil; it is the Rapa Nui counterpart of curanto. It is a way of cooking large quantities of food for gatherings.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pascuense_cuisine",
+      "https://chile.travel/en/blog/typical-cuisine-a-journey-through-the-flavors-of-chile/",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  },
+  {
+    "id": "chile-tunu-ahi",
+    "name": "Tunu ahi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Chile",
+    "state": "Rapa Nui (Easter Island)",
+    "regions": [
+      "Easter Island"
+    ],
+    "description": "Fresh fish, typically a tuna steak, cooked on a hot volcanic stone, often served on the beach where it is cooked.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pascuense_cuisine",
+      "https://chile.travel/en/blog/typical-cuisine-a-journey-through-the-flavors-of-chile/"
+    ]
+  },
+  {
+    "id": "chile-poe",
+    "name": "Po'e",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Chile",
+    "state": "Rapa Nui (Easter Island)",
+    "regions": [
+      "Easter Island"
+    ],
+    "description": "A pudding-like cake of mashed banana or pumpkin with flour, baked in the umu pae earth oven. It is part of the Polynesian food tradition of Rapa Nui.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Po%27e",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pascuense_cuisine",
+      "https://chile.travel/en/blog/typical-cuisine-a-journey-through-the-flavors-of-chile/",
+      "https://en.wikipedia.org/wiki/Po%27e"
+    ]
+  },
+  {
+    "id": "chile-rapa-nui-ceviche",
+    "name": "Rapa Nui ceviche",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Chile",
+    "state": "Rapa Nui (Easter Island)",
+    "regions": [
+      "Easter Island"
+    ],
+    "description": "The Easter Island version of ceviche, raw fish cured in citrus juice, with tuna as the preferred fish. Unlike the mainland version it can include soy sauce or coconut milk, and other island fish such as glasseye or swordfish are also used.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CLP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pascuense_cuisine",
+      "https://en.wikipedia.org/wiki/Chilean_cuisine"
+    ]
+  }
+]

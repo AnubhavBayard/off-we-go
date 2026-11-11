@@ -1,0 +1,991 @@
+[
+  {
+    "id": "new_zealand-mince-and-cheese-pie",
+    "name": "Mince and cheese pie",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "New Zealand",
+    "state": "Auckland & Northland",
+    "regions": [
+      "Auckland"
+    ],
+    "description": "A single-portion meat pie of minced beef in gravy with cheese, in a shortcrust case; mince and cheese is one of the judged categories at the annual Bakels New Zealand Supreme Pie Awards, held since 1997. The meat pie is described as the nearest thing New Zealand has to street food, and Auckland's Big Ben Pies has made pies since 1969. The meat pie itself is shared with Australia, where it has been called the national dish.",
+    "how_to_eat": "Eaten by hand as a takeaway snack.",
+    "how_to_order": "Sold in dairies, bakeries, supermarkets, petrol stations and school canteens.",
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Meat_pie_(Australia_and_New_Zealand)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Meat_pie_(Australia_and_New_Zealand)",
+      "https://en.wikipedia.org/wiki/New_Zealand_cuisine"
+    ]
+  },
+  {
+    "id": "new_zealand-lemon-and-paeroa",
+    "name": "Lemon & Paeroa (L&P)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "New Zealand",
+    "state": "Auckland & Northland",
+    "regions": [
+      "Paeroa"
+    ],
+    "description": "A sweet, lemon-flavoured soft drink, originally made by combining lemon juice with naturally carbonated mineral water from a spring in the town of Paeroa; it was being advertised by 1915 and is now made by Coca-Cola. Paeroa has a 7-metre L&P bottle statue on its main road.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in bottles and cans throughout New Zealand.",
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lemon_%26_Paeroa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lemon_%26_Paeroa",
+      "https://en.wikipedia.org/wiki/Paeroa"
+    ]
+  },
+  {
+    "id": "new_zealand-kumara",
+    "name": "Kūmara",
+    "local_name": "kūmara",
+    "pronunciation": "KOO-ma-ra",
+    "category": "meal",
+    "country": "New Zealand",
+    "state": "Auckland & Northland",
+    "regions": [
+      "Dargaville"
+    ],
+    "description": "Sweet potato, brought to New Zealand by Māori from tropical Polynesia and a staple because it could be stored over winter; today most kūmara are the commercial varieties Owairaka Red, Toka Toka Gold and Beauregard. The area around Dargaville in Northland is one of the chief growing regions and is known locally as the 'Kūmara Capital'. It is a standard vegetable in a hāngī.",
+    "how_to_eat": "Cooked as a vegetable, including in a hāngī.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sweet_potato",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/New_Zealand_cuisine",
+      "https://en.wikipedia.org/wiki/Dargaville",
+      "https://en.wikipedia.org/wiki/H%C4%81ng%C4%AB"
+    ]
+  },
+  {
+    "id": "new_zealand-waiheke-island-wine",
+    "name": "Waiheke Island wine",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "New Zealand",
+    "state": "Auckland & Northland",
+    "regions": [
+      "Waiheke Island"
+    ],
+    "description": "Wine from Waiheke Island in Auckland, which is registered as a wine geographical indication (NZ GI 1015, registered 26 February 2018, registrant the Waiheke Winegrowers' Association). The island is known for cabernet blends.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://iponz.govt.nz/about-ip/geographical-indications/register/waiheke-island",
+      "https://en.wikipedia.org/wiki/New_Zealand_cuisine"
+    ]
+  },
+  {
+    "id": "new_zealand-hangi",
+    "name": "Hāngī",
+    "local_name": "hāngī",
+    "pronunciation": "HAH-ngee",
+    "category": "meal",
+    "country": "New Zealand",
+    "state": "Rotorua & Bay of Plenty",
+    "regions": [
+      "Rotorua"
+    ],
+    "description": "Traditional Māori cooking in a pit oven: stones are heated by fire, baskets of meat (lamb, pork, chicken, seafood) and vegetables (potato, kūmara, pumpkin, cabbage) are placed on them, covered with wet cloths and earth, and steamed for 2 to 4 hours. Most large Māori gatherings feature one. In Rotorua, Whakarewarewa village cooks its hāngī with geothermal steam boxes instead of hot stones.",
+    "how_to_eat": "Served as a plate of carved meats, vegetables and stuffing.",
+    "how_to_order": "Served at Māori cultural experiences in Rotorua such as Whakarewarewa and Te Puia.",
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/H%C4%81ng%C4%AB",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/H%C4%81ng%C4%AB",
+      "https://en.wikipedia.org/wiki/New_Zealand_cuisine",
+      "https://whakarewarewa.com/experiences-traditional-food/",
+      "https://www.rotoruanz.com/visit/stories-articles/december-2025/summer-kai-a-taste-of-te-ao-maori"
+    ]
+  },
+  {
+    "id": "new_zealand-hangi-pie",
+    "name": "Hāngī pie",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "New Zealand",
+    "state": "Rotorua & Bay of Plenty",
+    "regions": [
+      "Rotorua"
+    ],
+    "description": "A hand-held pastry pie filled with hāngī-cooked food, sold at Whakarewarewa living Māori village in Rotorua.",
+    "how_to_eat": "Eaten by hand.",
+    "how_to_order": "Sold at Whakarewarewa in Rotorua.",
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.rotoruanz.com/visit/stories-articles/december-2025/summer-kai-a-taste-of-te-ao-maori"
+    ]
+  },
+  {
+    "id": "new_zealand-rewena-bread",
+    "name": "Rēwena bread",
+    "local_name": "parāoa rēwena",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "New Zealand",
+    "state": "Rotorua & Bay of Plenty",
+    "regions": [
+      "Rotorua"
+    ],
+    "description": "A Māori sourdough bread leavened with a fermented potato starter (the 'bug'), made from boiled, mashed potatoes, flour and sugar left to ferment for one to several days, giving a sweet and sour taste. It is usually baked as a round loaf and is on the menu at Te Puia's evening experience in Rotorua.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/R%C4%93wena_bread",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/R%C4%93wena_bread",
+      "https://en.wikipedia.org/wiki/New_Zealand_cuisine",
+      "https://www.rotoruanz.com/visit/stories-articles/december-2025/summer-kai-a-taste-of-te-ao-maori"
+    ]
+  },
+  {
+    "id": "new_zealand-boil-up",
+    "name": "Boil up",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "New Zealand",
+    "state": "Rotorua & Bay of Plenty",
+    "regions": [],
+    "description": "A traditional Māori broth of pork meat and bones boiled with greens such as pūhā, watercress or cabbage, kūmara or potatoes, and flour dumplings called doughboys. It developed after Māori adopted European pigs, potatoes and iron cooking pots in the 19th century.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boil_up",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Boil_up",
+      "https://en.wikipedia.org/wiki/New_Zealand_cuisine"
+    ]
+  },
+  {
+    "id": "new_zealand-paraoa-parai",
+    "name": "Parāoa parai (fry bread)",
+    "local_name": "parāoa parai",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "New Zealand",
+    "state": "Rotorua & Bay of Plenty",
+    "regions": [],
+    "description": "Māori fried bread (the name means 'flour fried'), crisp and golden outside and soft inside. It is served at Matariki feasts and at hākari (feasts) on the marae.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/New_Zealand_cuisine",
+      "https://en.wikipedia.org/wiki/R%C4%93wena_bread"
+    ]
+  },
+  {
+    "id": "new_zealand-pork-and-puha",
+    "name": "Pork and pūhā",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "New Zealand",
+    "state": "Rotorua & Bay of Plenty",
+    "regions": [],
+    "description": "Pork cooked with pūhā (sow thistle), one of two dishes regarded as distinctively Māori; it combines an introduced meat with an indigenous green and owes much to 19th-century British cooking methods.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/New_Zealand_cuisine",
+      "https://en.wikipedia.org/wiki/Sonchus_oleraceus"
+    ]
+  },
+  {
+    "id": "new_zealand-kanga-pirau",
+    "name": "Kānga pirau",
+    "local_name": "kānga pirau",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "New Zealand",
+    "state": "Rotorua & Bay of Plenty",
+    "regions": [],
+    "description": "Fermented maize porridge, a Māori delicacy whose name means 'rotten corn'; whole cobs are soaked in running water for up to six weeks, then the kernels are mashed. It dates back to at least the 19th century and is also called kānga wai or kānga kōpiro.",
+    "how_to_eat": "Often served with cream and sugar, or beaten with egg, butter, sugar and cinnamon and baked.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/K%C4%81nga_pirau",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/K%C4%81nga_pirau",
+      "https://en.wikipedia.org/wiki/New_Zealand_cuisine"
+    ]
+  },
+  {
+    "id": "new_zealand-kiwifruit",
+    "name": "Kiwifruit",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "New Zealand",
+    "state": "Rotorua & Bay of Plenty",
+    "regions": [
+      "Te Puke"
+    ],
+    "description": "The fruit of Actinidia vines, native to China and called Chinese gooseberry until New Zealand exporter Turners & Growers adopted the name 'kiwifruit' in 1959; New Zealand's marketing board became Zespri in 1997. Te Puke in the Western Bay of Plenty markets itself as the 'Kiwifruit capital of the world'. Green and gold (SunGold) varieties are grown.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kiwifruit",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kiwifruit",
+      "https://en.wikipedia.org/wiki/Te_Puke"
+    ]
+  },
+  {
+    "id": "new_zealand-flat-white",
+    "name": "Flat white",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "New Zealand",
+    "state": "Wellington & Lower North Island",
+    "regions": [
+      "Wellington"
+    ],
+    "description": "Espresso with steamed milk and a thin layer of microfoam, with more coffee to milk than a latte. Its origin is disputed with Australia: one New Zealand claim places it at Bar Bodega on Willis Street, Wellington, as a 'failed cappuccino' in 1989, another at Cafe DKD in Auckland. Tourism New Zealand says it is more commonly served in a smaller (175 ml) cup than in Australia.",
+    "how_to_eat": null,
+    "how_to_order": "Order at any café.",
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Flat_white",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Flat_white",
+      "https://en.wikipedia.org/wiki/New_Zealand_cuisine"
+    ]
+  },
+  {
+    "id": "new_zealand-pavlova",
+    "name": "Pavlova",
+    "local_name": null,
+    "pronunciation": "pav-LOH-və",
+    "category": "sweet",
+    "country": "New Zealand",
+    "state": "Wellington & Lower North Island",
+    "regions": [
+      "Wellington"
+    ],
+    "description": "A baked meringue with a crisp crust and soft inside, topped with whipped cream and fruit; New Zealand pavlova is more likely to carry kiwifruit. Its origin is disputed with Australia: University of Otago anthropologist Helen Leach found at least 21 pavlova recipes in New Zealand cookbooks by 1940, and an unverified story places its creation in a Wellington hotel in 1926. Te Papa in Wellington made a 45-metre pavlova for its first birthday in 1999.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pavlova",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pavlova",
+      "https://en.wikipedia.org/wiki/New_Zealand_cuisine"
+    ]
+  },
+  {
+    "id": "new_zealand-hokey-pokey-ice-cream",
+    "name": "Hokey pokey ice cream",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "New Zealand",
+    "state": "Wellington & Lower North Island",
+    "regions": [],
+    "description": "Vanilla ice cream with small lumps of honeycomb toffee ('hokey pokey' is the New Zealand term for honeycomb toffee). It is the second-most popular ice cream flavour in New Zealand after vanilla; Tip Top, the brand founded in Wellington in 1936, switched to honeycomb balls from solid toffee around 1980.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in dairies and supermarkets.",
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hokey_pokey_(ice_cream)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hokey_pokey_(ice_cream)",
+      "https://en.wikipedia.org/wiki/Tip_Top_(ice_cream)"
+    ]
+  },
+  {
+    "id": "new_zealand-kiwi-onion-dip",
+    "name": "Kiwi onion dip",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "New Zealand",
+    "state": "Wellington & Lower North Island",
+    "regions": [],
+    "description": "A dip of powdered onion soup stirred into a can of reduced cream, sometimes with lemon juice or malt vinegar, then chilled to thicken. Its creation is credited to Rosemary Dempsey, a Nestlé New Zealand home economist in the 1950s or 60s; reduced cream is a product widely available mainly in New Zealand.",
+    "how_to_eat": "Served with potato chips, crackers or chopped vegetables at parties and barbecues.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kiwi_onion_dip",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kiwi_onion_dip"
+    ]
+  },
+  {
+    "id": "new_zealand-paua-fritters",
+    "name": "Pāua fritters",
+    "local_name": null,
+    "pronunciation": "PAH-oo-ah",
+    "category": "snack",
+    "country": "New Zealand",
+    "state": "Wellington & Lower North Island",
+    "regions": [],
+    "description": "Fritters of minced pāua (New Zealand abalone) bound with a batter of egg, flour, baking powder and milk, plus parsley, fried until golden. Pāua is a treasured Māori kaimoana; recreational gathering is limited to five per person per day.",
+    "how_to_eat": "Served straight from the pan with lemon juice and salt.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "egg",
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ourwayoflife.co.nz/recipe-paua-fritters/",
+      "https://en.wikipedia.org/wiki/P%C4%81ua"
+    ]
+  },
+  {
+    "id": "new_zealand-feijoa",
+    "name": "Feijoa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "New Zealand",
+    "state": "Wellington & Lower North Island",
+    "regions": [],
+    "description": "The fruit of a South American shrub that has been widely grown in New Zealand since the 1920s and is a popular garden tree there. The fruit is in season from March to June.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Feijoa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Feijoa"
+    ]
+  },
+  {
+    "id": "new_zealand-manuka-honey",
+    "name": "Mānuka honey",
+    "local_name": "mānuka",
+    "pronunciation": "MAH-noo-kah",
+    "category": "snack",
+    "country": "New Zealand",
+    "state": "Wellington & Lower North Island",
+    "regions": [],
+    "description": "A monofloral honey made by bees from the nectar of the mānuka tree, which grows in New Zealand and coastal south-eastern Australia. It is viscous, dark cream to dark brown, with a strong flavour; the tree is a taonga in Māori tradition.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/M%C4%81nuka_honey",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/M%C4%81nuka_honey"
+    ]
+  },
+  {
+    "id": "new_zealand-kaikoura-crayfish",
+    "name": "Kaikōura crayfish",
+    "local_name": "kōura",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "New Zealand",
+    "state": "Canterbury & Christchurch",
+    "regions": [
+      "Kaikōura"
+    ],
+    "description": "Southern rock lobster (Jasus edwardsii), called crayfish in New Zealand and kōura in Māori. The town name Kaikōura means 'meal of crayfish', and the crayfish industry still plays a role in its economy.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jasus_edwardsii",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kaik%C5%8Dura",
+      "https://en.wikipedia.org/wiki/Jasus_edwardsii"
+    ]
+  },
+  {
+    "id": "new_zealand-afghan-biscuit",
+    "name": "Afghan biscuit",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "New Zealand",
+    "state": "Canterbury & Christchurch",
+    "regions": [
+      "Timaru"
+    ],
+    "description": "A New Zealand biscuit of butter, flour, cornflakes, sugar and cocoa, topped with chocolate icing and half a walnut; it has no rising agent and is soft and dense. The earliest recipe found is in The Timaru Herald (1934); Griffin's renamed its commercial version in 2020.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Afghan_(biscuit)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Afghan_(biscuit)"
+    ]
+  },
+  {
+    "id": "new_zealand-colonial-goose",
+    "name": "Colonial goose",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "New Zealand",
+    "state": "Canterbury & Christchurch",
+    "regions": [],
+    "description": "A boned leg of lamb or mutton stuffed with honey, dried apricots, breadcrumbs, onion and herbs and marinated in red wine, devised by settlers who had plenty of sheep but few geese. It was common on New Zealand tables until the mid-1980s; some restaurants serve it at midwinter. Traditional Kiwiana fare remains the norm in many homes in rural Canterbury.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Colonial_goose",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Colonial_goose",
+      "https://en.wikipedia.org/wiki/New_Zealand_cuisine"
+    ]
+  },
+  {
+    "id": "new_zealand-lolly-cake",
+    "name": "Lolly cake",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "New Zealand",
+    "state": "Canterbury & Christchurch",
+    "regions": [],
+    "description": "An unbaked slice of crushed malt biscuits, melted butter and condensed milk mixed with soft lollies (explorer lollies or fruit puffs), rolled in desiccated coconut, chilled and sliced. It has been eaten since at least the 1940s; Canterbury company Cookie Time released a lolly cake biscuit in 2021.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in supermarkets, bakeries, dairies and petrol stations.",
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lolly_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lolly_cake"
+    ]
+  },
+  {
+    "id": "new_zealand-bluff-oysters",
+    "name": "Bluff oysters",
+    "local_name": "tio",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "New Zealand",
+    "state": "Otago & Southland",
+    "regions": [
+      "Bluff"
+    ],
+    "description": "Flat oysters (Ostrea chilensis) from the Foveaux Strait fishery centred on the town of Bluff, harvested from March to August. The fishery was hit by the Bonamia parasite from the 1980s and has been recovering since 2003; Bluff holds an annual oyster festival. Māori call them tio.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dredge_oyster",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dredge_oyster",
+      "https://en.wikipedia.org/wiki/Bluff,_New_Zealand",
+      "https://en.wikipedia.org/wiki/New_Zealand_cuisine"
+    ]
+  },
+  {
+    "id": "new_zealand-cheese-roll",
+    "name": "Cheese roll",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "New Zealand",
+    "state": "Otago & Southland",
+    "regions": [],
+    "description": "A slice of bread spread with a filling mainly of cheese, typically with onion, Worcestershire sauce and onion soup mix (or evaporated milk), rolled into a tube and toasted, sometimes buttered outside. It is very popular in Otago and Southland and one of few recipes specific to one main island.",
+    "how_to_eat": null,
+    "how_to_order": "Found on the menu at cafeterias and similar food outlets in Otago and Southland.",
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cheese_roll",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cheese_roll"
+    ]
+  },
+  {
+    "id": "new_zealand-whitebait-fritter",
+    "name": "Whitebait fritter",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "New Zealand",
+    "state": "Otago & Southland",
+    "regions": [
+      "Southland"
+    ],
+    "description": "Juvenile galaxiid fish (mainly inanga) bound with egg, essentially an omelette containing whitebait; purists use only the egg white. Whitebait are netted in the lower reaches of rivers during a season of 1 September to 30 October on the mainland, and the fish commands high prices.",
+    "how_to_eat": "Served in buttered bread or on their own with lemon.",
+    "how_to_order": "Ask for a whitebait patty at a local café during or just after the season.",
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "egg",
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://southlandnz.com/blog/post/whitebait/",
+      "https://en.wikipedia.org/wiki/Whitebait"
+    ]
+  },
+  {
+    "id": "new_zealand-titi-muttonbird",
+    "name": "Tītī (muttonbird)",
+    "local_name": "tītī",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "New Zealand",
+    "state": "Otago & Southland",
+    "regions": [
+      "Rakiura / Stewart Island"
+    ],
+    "description": "Chicks of the sooty shearwater harvested on 36 Tītī (Muttonbird) Islands around Rakiura, a harvest managed entirely by Rakiura Māori, with about 250,000 birds taken each year and evidence of harvesting since at least the 17th century. The meat is fatty and strong-tasting, likened to mutton, and was traditionally preserved in its own fat.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Muttonbirding",
+      "https://en.wikipedia.org/wiki/Muttonbird",
+      "https://en.wikipedia.org/wiki/New_Zealand_cuisine"
+    ]
+  },
+  {
+    "id": "new_zealand-central-otago-pinot-noir",
+    "name": "Central Otago Pinot Noir",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "New Zealand",
+    "state": "Otago & Southland",
+    "regions": [
+      "Central Otago",
+      "Bannockburn"
+    ],
+    "description": "Red wine from the Central Otago wine region in the South Island, where pinot noir makes up over 80% of plantings. Central Otago is a registered New Zealand wine geographical indication (NZ GI 1007, registered 29 October 2018).",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Central_Otago_wine_region",
+    "source_urls": [
+      "https://iponz.govt.nz/about-ip/geographical-indications/register/central-otago",
+      "https://en.wikipedia.org/wiki/Central_Otago_wine_region"
+    ]
+  },
+  {
+    "id": "new_zealand-pineapple-lumps",
+    "name": "Pineapple lumps",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "New Zealand",
+    "state": "Otago & Southland",
+    "regions": [
+      "Oamaru"
+    ],
+    "description": "Chocolate-covered sweets with a soft, chewy pineapple-flavoured centre, introduced by the Regina Confectionery Company in Oamaru in 1952 as 'pineapple chunks' to use up leftover marshmallow. Pascall's version was later made at the Cadbury factory in Dunedin until 2018.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in supermarkets and dairies.",
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pineapple_lumps",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pineapple_lumps"
+    ]
+  },
+  {
+    "id": "new_zealand-chocolate-fish",
+    "name": "Chocolate fish",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "New Zealand",
+    "state": "Otago & Southland",
+    "regions": [
+      "Dunedin"
+    ],
+    "description": "A fish-shaped sweet of pink or white marshmallow coated in milk chocolate, 5 to 8 cm long. Made since at least 1903; marshmallow versions were produced in Dunedin by 1937. It is a common reward for a job done well.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chocolate_fish",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chocolate_fish"
+    ]
+  },
+  {
+    "id": "new_zealand-louise-cake",
+    "name": "Louise cake",
+    "local_name": "keke ruihi",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "New Zealand",
+    "state": "Otago & Southland",
+    "regions": [],
+    "description": "A slice of shortbread base topped with raspberry jam and coconut meringue. A recipe was shared in the Otago Witness newspaper in 1927, and the name may refer to the 1871 wedding of Princess Louise.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Louise_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Louise_cake"
+    ]
+  },
+  {
+    "id": "new_zealand-marlborough-sauvignon-blanc",
+    "name": "Marlborough Sauvignon Blanc",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "New Zealand",
+    "state": "Marlborough & Nelson",
+    "regions": [
+      "Blenheim",
+      "Seddon"
+    ],
+    "description": "White wine from the Marlborough region, where commercial winemaking began with Montana's plantings in 1973; Cloudy Bay's 1985 Sauvignon Blanc drew international attention to New Zealand wine. Marlborough is a registered wine geographical indication (NZ GI 1004, registered 26 February 2018).",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marlborough_wine_region",
+    "source_urls": [
+      "https://iponz.govt.nz/about-ip/geographical-indications/register/marlborough",
+      "https://en.wikipedia.org/wiki/Marlborough_wine_region",
+      "https://en.wikipedia.org/wiki/New_Zealand_cuisine"
+    ]
+  },
+  {
+    "id": "new_zealand-greenshell-mussels",
+    "name": "Greenshell mussels",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "New Zealand",
+    "state": "Marlborough & Nelson",
+    "regions": [
+      "Havelock",
+      "Marlborough Sounds"
+    ],
+    "description": "The New Zealand green-lipped mussel (Perna canaliculus), endemic to New Zealand and farmed on longlines since the 1970s under the trademark Greenshell. Havelock in the Marlborough Sounds is the centre of much of the industry and calls itself the greenshell mussel capital of the world.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Perna_canaliculus",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Perna_canaliculus",
+      "https://en.wikipedia.org/wiki/Havelock,_New_Zealand"
+    ]
+  },
+  {
+    "id": "new_zealand-nelson-craft-beer",
+    "name": "Nelson craft beer",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "New Zealand",
+    "state": "Marlborough & Nelson",
+    "regions": [
+      "Nelson"
+    ],
+    "description": "Beer from the breweries of Nelson Tasman, which the regional tourism body calls New Zealand's craft brewing capital. New Zealand is a leading hops-producing nation, and beer is the country's most popular alcoholic drink.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NZD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.nelsontasman.nz/visit-nelson-tasman/plan-your-trip/activities/food-wine-and-beer",
+      "https://en.wikipedia.org/wiki/New_Zealand_cuisine"
+    ]
+  }
+]

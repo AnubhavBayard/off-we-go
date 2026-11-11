@@ -1,0 +1,927 @@
+[
+  {
+    "id": "israel-sabich",
+    "name": "Sabich",
+    "local_name": "סביח",
+    "pronunciation": "sa-BEEKH",
+    "category": "street_food",
+    "country": "Israel",
+    "state": "Tel Aviv & Jaffa",
+    "regions": [
+      "Ramat Gan",
+      "Tel Aviv"
+    ],
+    "description": "A pita or laffa stuffed with fried eggplant, hard-boiled (often haminados) eggs, chopped salad, parsley, amba and tahini. It is based on the Iraqi Jewish Shabbat breakfast and was put into one pita by Iraqi immigrant Sabich Tzvi Halabi at his kiosk in Ramat Gan in the early 1960s. It is now sold at kiosks across Israel.",
+    "how_to_eat": "Eaten by hand as a sandwich; a version without bread is served as sabich salad.",
+    "how_to_order": "Sold at kiosks throughout Israel, especially in Ramat Gan.",
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "sesame",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sabich",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sabich",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine",
+      "https://www.sbs.com.au/food/article/beyond-falafel-a-street-food-tour-of-israel/0q82zonez"
+    ]
+  },
+  {
+    "id": "israel-falafel-in-pita",
+    "name": "Falafel in pita",
+    "local_name": null,
+    "pronunciation": "fə-LAH-fəl",
+    "category": "street_food",
+    "country": "Israel",
+    "state": "Tel Aviv & Jaffa",
+    "regions": [
+      "Tel Aviv"
+    ],
+    "description": "Deep-fried balls of soaked, ground chickpeas mixed with herbs such as parsley and spices such as cumin and coriander. In Israel it is usually stuffed into pita with pickles, tahini, hummus, chopped salad and hot sauce; the pita version was popularised in the 1950s, and Israelis call it a national dish, a claim Palestinians and other Arabs dispute.",
+    "how_to_eat": "Eaten as a pita sandwich standing at the stall, or as part of a mezze.",
+    "how_to_order": "Sold at falafel stands in every neighbourhood; many include extras such as chips, fried eggplant and salads in the price of one portion.",
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "sesame",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Falafel",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Falafel",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine",
+      "https://www.sbs.com.au/food/article/beyond-falafel-a-street-food-tour-of-israel/0q82zonez"
+    ]
+  },
+  {
+    "id": "israel-jachnun",
+    "name": "Jachnun",
+    "local_name": "גַחְנוּן",
+    "pronunciation": "JAKH-noon",
+    "category": "meal",
+    "country": "Israel",
+    "state": "Tel Aviv & Jaffa",
+    "regions": [
+      "Kerem HaTeimanim"
+    ],
+    "description": "A Yemenite Jewish bread: thinly rolled dough brushed with clarified butter (samneh) or shortening, rolled up and baked overnight in a lidded pot at very low heat until dark amber and sweet. It is a Shabbat morning food, also sold at roadside stalls and in Tel Aviv's Yemenite Quarter next to Carmel Market.",
+    "how_to_eat": "Eat with grated tomato dip (resek), hard-boiled eggs and zhug.",
+    "how_to_order": "Ask for jachnun at Yemenite eateries, typically on Saturday mornings or as a breakfast dish.",
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jachnun",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jachnun",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine",
+      "https://www.timesofisrael.com/when-time-stops-in-the-kerem/"
+    ]
+  },
+  {
+    "id": "israel-skewered-goose-liver",
+    "name": "Skewered goose liver",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Israel",
+    "state": "Tel Aviv & Jaffa",
+    "regions": [
+      "South Tel Aviv"
+    ],
+    "description": "Goose liver threaded on skewers and grilled over coals with salt and black pepper, sometimes with cumin or baharat. Israeli cuisine sources describe it as a dish from southern Tel Aviv, part of the country's grilled-meat culture of small kebab and shashlik eateries.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Israeli_cuisine"
+    ]
+  },
+  {
+    "id": "israel-bourekas",
+    "name": "Bourekas",
+    "local_name": "בורקס",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Israel",
+    "state": "Tel Aviv & Jaffa",
+    "regions": [
+      "Carmel Market",
+      "Levinsky Market"
+    ],
+    "description": "Baked Sephardic turnovers of puff pastry, filo or brik dough, often topped with sesame and filled with feta or kashkaval cheese, mashed potato, spinach, eggplant, mushrooms or minced meat. Brought by Jews from Turkey and the Balkans, they are sold at kiosks, bakeries and markets including Tel Aviv's Carmel and Levinsky markets and Jerusalem's Mahane Yehuda.",
+    "how_to_eat": "Often eaten as a light meal with hard-boiled eggs and chopped salad.",
+    "how_to_order": "Sold at kiosks, cafés, market stalls and dedicated boureka bakeries.",
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bourekas",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bourekas",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine"
+    ]
+  },
+  {
+    "id": "israel-jerusalem-mixed-grill",
+    "name": "Jerusalem mixed grill",
+    "local_name": "מעורב ירושלמי",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Israel",
+    "state": "Jerusalem",
+    "regions": [
+      "Mahane Yehuda"
+    ],
+    "description": "Chicken hearts, spleens and often liver with chicken or turkey meat, cooked on a flat grill with onion, garlic, black pepper, cumin, turmeric and coriander. It is said to have been invented at Jerusalem's Mahane Yehuda Market and is now sold in cities across Israel.",
+    "how_to_eat": "Eaten stuffed in a pita or taboon bread with tahini, often with amba.",
+    "how_to_order": "Ask for 'me'orav yerushalmi' at grill stands and steakiyot in and around the market.",
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jerusalem_mixed_grill",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jerusalem_mixed_grill",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine",
+      "https://en.wikipedia.org/wiki/Mahane_Yehuda_Market"
+    ]
+  },
+  {
+    "id": "israel-jerusalem-bagel",
+    "name": "Jerusalem bagel",
+    "local_name": "בייגל ירושלמי",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Israel",
+    "state": "Jerusalem",
+    "regions": [
+      "Old City"
+    ],
+    "description": "A long, oblong ring of yeasted bread covered in sesame seeds, baked but not boiled; also called ka'ak al-quds in Arabic. It is related to Middle Eastern ka'ak and is sold from carts in Jerusalem's Old City.",
+    "how_to_eat": "Traditionally eaten for breakfast, often with eggs, falafel and za'atar.",
+    "how_to_order": "Buy it from bakeries or cart sellers in the Old City.",
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jerusalem_bagel",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jerusalem_bagel",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine",
+      "https://www.sbs.com.au/food/article/beyond-falafel-a-street-food-tour-of-israel/0q82zonez"
+    ]
+  },
+  {
+    "id": "israel-kugel-yerushalmi",
+    "name": "Kugel Yerushalmi",
+    "local_name": "קוגל ירושלמי",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Israel",
+    "state": "Jerusalem",
+    "regions": [],
+    "description": "A baked pudding of thin egg noodles coated in a caramel-like sauce and seasoned with black pepper. It was created in the 18th century by Ashkenazi Jews in Jerusalem and contains no dairy. It is served on Shabbat and Jewish holidays.",
+    "how_to_eat": "Eaten on Shabbat morning after synagogue services.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yerushalmi_Kugel",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Yerushalmi_Kugel",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine"
+    ]
+  },
+  {
+    "id": "israel-orez-shuit",
+    "name": "Orez shu'it",
+    "local_name": "אורז שעועית",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Israel",
+    "state": "Jerusalem",
+    "regions": [],
+    "description": "White beans cooked in tomato paste and served over plain white rice. It was developed by Sephardic Jews in Jerusalem's Old City and counts as part of the city's regional cooking; modern versions may add meat or fried onions.",
+    "how_to_eat": null,
+    "how_to_order": "Served as a side dish in homes and Jerusalem restaurants.",
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Orez_Shu'it",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Orez_Shu'it",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine"
+    ]
+  },
+  {
+    "id": "israel-kubbeh-soup",
+    "name": "Kubbeh soup",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Israel",
+    "state": "Jerusalem",
+    "regions": [
+      "Mahane Yehuda",
+      "Nachlaot"
+    ],
+    "description": "Dumplings with a shell of fine bulgur (Kurdish style) or semolina (Iraqi style), stuffed with ground meat and cooked in soup: the lemony hamousta with celery and chard, or the beet-red selek. Kurdish Jews served it for Friday lunch, and from the 1980s eateries around Mahane Yehuda Market made it a Jerusalem staple.",
+    "how_to_eat": "Eaten as a soup meal, traditionally at Friday lunchtime.",
+    "how_to_order": "Ask for kubbeh hamousta or kubbeh selek at Kurdish and Iraqi eateries near Mahane Yehuda.",
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://tabletmag.com/sections/food/articles/kubbeh-soup-kurdish-treat-jerusalem-staple",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine",
+      "https://en.wikipedia.org/wiki/Mahane_Yehuda_Market"
+    ]
+  },
+  {
+    "id": "israel-sambusak",
+    "name": "Sambusak",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Israel",
+    "state": "Jerusalem",
+    "regions": [],
+    "description": "A semicircular dough pocket filled with mashed chickpeas, fried onions and spices; other versions hold meat with pine nuts, or feta or Tzfat cheese with za'atar for breakfast. It is fried or baked, and pies like sambusak are counted among the classics of Jerusalem Sephardi cooking.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Israeli_cuisine",
+      "https://www.sbs.com.au/food/article/beyond-falafel-a-street-food-tour-of-israel/0q82zonez"
+    ]
+  },
+  {
+    "id": "israel-tahini-halva",
+    "name": "Tahini halva",
+    "local_name": "חלווה",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Israel",
+    "state": "Jerusalem",
+    "regions": [
+      "Mahane Yehuda"
+    ],
+    "description": "A sweet made from sesame tahini and sugar, sold in slabs with or without nuts; vanilla and vanilla with chocolate swirls are common. It is parve and appears on Israeli hotel breakfasts; halva stands are found in and around Mahane Yehuda Market.",
+    "how_to_eat": "Eaten in small pieces, cut from the slab.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Halva",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Halva",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine",
+      "https://en.wikipedia.org/wiki/Mahane_Yehuda_Market"
+    ]
+  },
+  {
+    "id": "israel-druze-pita",
+    "name": "Druze pita",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Israel",
+    "state": "Haifa & Galilee",
+    "regions": [
+      "Daliyat al-Karmel",
+      "Maghar"
+    ],
+    "description": "A thin, floppy flatbread cooked on a large black dome, created by Druze Israelis in the Galilee village of Maghar. It is often spread with labneh and za'atar and is sold in Druze villages such as Daliyat al-Karmel on Mount Carmel and at Tel Aviv's Carmel Market.",
+    "how_to_eat": "Eaten plain or spread with labneh, za'atar and olive oil.",
+    "how_to_order": "Buy it from Druze bakers and stands; ask for it with labneh.",
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.sbs.com.au/food/article/beyond-falafel-a-street-food-tour-of-israel/0q82zonez",
+      "https://tabletmag.com/sections/food/articles/taste-of-druze-cuisine"
+    ]
+  },
+  {
+    "id": "israel-st-peters-fish",
+    "name": "St. Peter's fish",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Israel",
+    "state": "Haifa & Galilee",
+    "regions": [
+      "Tiberias",
+      "Sea of Galilee"
+    ],
+    "description": "Tilapia from the Sea of Galilee, known locally as musht, served whole, grilled or fried, dressed only with lemon juice. The name comes from the Gospel story of Peter catching a fish with a coin in its mouth. A Tiberias specialty bakes tilapia with tahini and tops it with olive oil, herbs and pine nuts.",
+    "how_to_eat": "Served whole, dressed with lemon juice.",
+    "how_to_order": "Ask for musht or St. Peter's fish at fish restaurants around Tiberias.",
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Israeli_cuisine",
+      "https://en.wikipedia.org/wiki/Tilapia",
+      "https://en.wikipedia.org/wiki/Mango_tilapia"
+    ]
+  },
+  {
+    "id": "israel-tzfat-cheese",
+    "name": "Tzfat cheese",
+    "local_name": "גבינה צפתית",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Israel",
+    "state": "Haifa & Galilee",
+    "regions": [
+      "Safed"
+    ],
+    "description": "A semi-hard, salty, mild curd cheese, originally from sheep's milk, moulded in baskets that leave circular ridges. It was first made around 1840 at the HaMeiri dairy in Safed, which descendants of the founders still run.",
+    "how_to_eat": "Fresh cheese is eaten in salads and sandwiches; aged salted cheese is grated for baking.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tzfatit",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tzfatit",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine"
+    ]
+  },
+  {
+    "id": "israel-labneh-balls",
+    "name": "Labneh balls in olive oil",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Israel",
+    "state": "Haifa & Galilee",
+    "regions": [],
+    "description": "Salted strained yogurt (labneh) rolled into balls and preserved in olive oil, often with za'atar, oregano, sumac or herbs. They are more common in the north of Israel than in the centre and south, and are sold at Druze farmers' markets in the north.",
+    "how_to_eat": "Eaten at breakfast with bread and other cheeses.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Strained_yogurt",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Israeli_cuisine",
+      "https://en.wikipedia.org/wiki/Strained_yogurt",
+      "https://tabletmag.com/sections/food/articles/taste-of-druze-cuisine"
+    ]
+  },
+  {
+    "id": "israel-shawarma",
+    "name": "Israeli turkey shawarma",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Israel",
+    "state": "Nationwide street food",
+    "regions": [],
+    "description": "Sliced, marinated meat roasted on a rotating spit; in Israel it is usually dark-meat turkey with lamb fat added, served with tahini instead of yogurt for kashrut reasons. Its place in Israeli cuisine is politically disputed.",
+    "how_to_eat": "Eaten in a pita or laffa with hummus, tahini, salad, pickles, fries or amba.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shawarma",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shawarma",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine"
+    ]
+  },
+  {
+    "id": "israel-schnitzel-in-pita",
+    "name": "Schnitzel in pita",
+    "local_name": "שניצל",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Israel",
+    "state": "Nationwide street food",
+    "regions": [],
+    "description": "Chicken or turkey breast coated in beaten egg and breadcrumbs, sometimes with paprika or sesame, and fried in vegetable oil instead of butter for kashrut reasons. Central European Jews brought it; poultry replaced veal when veal was unavailable in the state's early years.",
+    "how_to_eat": "Eaten in a pita with hummus, chips and chopped salad, or as a main with salads.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Schnitzel",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Schnitzel",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine"
+    ]
+  },
+  {
+    "id": "israel-shakshouka",
+    "name": "Shakshouka",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Israel",
+    "state": "Nationwide street food",
+    "regions": [],
+    "description": "Eggs poached in a sauce of tomatoes, peppers, onion and garlic, spiced with cumin, paprika and cayenne. Maghrebi Jews brought it to Israel in the 1950s and it appeared on restaurant menus from the 1990s; variants include a spinach-and-feta version without tomato.",
+    "how_to_eat": "Served in the pan it was cooked in, with bread to mop up the sauce and a side salad.",
+    "how_to_order": "Order it at breakfast cafés; 'shakshouka be-pita' is the version stuffed in pita.",
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shakshouka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shakshouka",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine",
+      "https://en.wikipedia.org/wiki/Israeli_breakfast"
+    ]
+  },
+  {
+    "id": "israel-malawach",
+    "name": "Malawach",
+    "local_name": "מלוואח",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Israel",
+    "state": "Nationwide street food",
+    "regions": [],
+    "description": "A Yemenite Jewish flatbread of thin layers of laminated dough enriched with butter, clarified butter or margarine, fried flat in a pan. It is made from the same dough as jachnun and is now sold at restaurants across Israel and frozen in supermarkets.",
+    "how_to_eat": "Eaten with hard-boiled eggs, zhug and grated tomato, or as a wrap; sometimes with honey, or labneh and jam.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Malawach",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Malawach",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine"
+    ]
+  },
+  {
+    "id": "israel-malabi",
+    "name": "Malabi",
+    "local_name": "מלבי",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Israel",
+    "state": "Nationwide street food",
+    "regions": [],
+    "description": "A creamy milk and cornstarch pudding originally from Turkey; a parve version uses almond milk so it can follow a meat meal. It is sold from street carts in cups with a thick sweet syrup and toppings such as chopped pistachios or coconut.",
+    "how_to_eat": "Eaten cold with a spoon from a cup.",
+    "how_to_order": "Buy it from carts and stalls, or as a dessert in restaurants.",
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Muhallebi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Israeli_cuisine",
+      "https://en.wikipedia.org/wiki/Muhallebi"
+    ]
+  },
+  {
+    "id": "israel-limonana",
+    "name": "Limonana",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Israel",
+    "state": "Nationwide street food",
+    "regions": [],
+    "description": "Lemonade made from freshly squeezed lemons blended with mint. The name combines the Hebrew words for lemon and mint and was coined for an advertising campaign; it is drunk mainly in summer.",
+    "how_to_eat": "Drunk ice-cold, sometimes blended with ice into a slush.",
+    "how_to_order": "Ask for limonana at cafés and juice stands.",
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mint_lemonade",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mint_lemonade",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine"
+    ]
+  },
+  {
+    "id": "israel-bamba",
+    "name": "Bamba",
+    "local_name": "במבה",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Israel",
+    "state": "Nationwide street food",
+    "regions": [
+      "Kiryat Gat"
+    ],
+    "description": "A snack of puffed maize coated with peanut butter, launched in 1964 by Osem and made in Kiryat Gat. It makes up about a quarter of the Israeli snack market and is a children's staple.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in bags at every supermarket and kiosk.",
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bamba_(snack)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bamba_(snack)",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine"
+    ]
+  },
+  {
+    "id": "israel-israeli-salad",
+    "name": "Israeli salad",
+    "local_name": "סָלָט קָצוּץ",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Israel",
+    "state": "Nationwide home & holiday",
+    "regions": [],
+    "description": "Finely diced tomato, cucumber and onion, sometimes with peppers and parsley, dressed with lemon juice and/or olive oil. Within Israel it is called salat katzutz (chopped salad) or salat aravi (Arab salad); it was popularised on the kibbutzim and is served with most meals.",
+    "how_to_eat": "Served as a side dish, at breakfast, or stuffed into a pita with falafel or shawarma.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Israeli_salad",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Israeli_salad",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine"
+    ]
+  },
+  {
+    "id": "israel-israeli-breakfast",
+    "name": "Israeli breakfast",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Israel",
+    "state": "Nationwide home & holiday",
+    "regions": [],
+    "description": "A spread that began on the kibbutzim: salads, fresh vegetables, cheeses, yogurt and labneh, eggs or shakshouka, bread and pastries, and pickled or smoked fish such as herring. It never includes meat, because it is a dairy meal under kashrut, and it is served at most Israeli hotels and many restaurants.",
+    "how_to_eat": "Served buffet style at hotels; restaurants serve a set plate.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "fish",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Israeli_breakfast",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Israeli_breakfast",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine"
+    ]
+  },
+  {
+    "id": "israel-hamin",
+    "name": "Hamin",
+    "local_name": "חמין",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Israel",
+    "state": "Nationwide home & holiday",
+    "regions": [],
+    "description": "A Sephardi Sabbath stew of chicken or meat, rice or grains, beans, potatoes, garlic and spices such as turmeric and cinnamon, with whole eggs (haminados) cooked in the shell. It starts cooking before Shabbat and simmers overnight; Jerusalem cooks add both potatoes and rice, and Ashkenazim make the related cholent.",
+    "how_to_eat": "Eaten at Shabbat lunch; some restaurants serve it during the week.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hamin",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hamin",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine",
+      "https://en.wikipedia.org/wiki/Haminados"
+    ]
+  },
+  {
+    "id": "israel-kubaneh",
+    "name": "Kubaneh",
+    "local_name": "כֻּבַּאנֶה",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Israel",
+    "state": "Nationwide home & holiday",
+    "regions": [],
+    "description": "A Yemenite Jewish yeast bread of flour, sugar, salt and butter or margarine, baked overnight in a tightly covered pot at low heat. It is served for Shabbat breakfast, often with eggs baked in their shells alongside it.",
+    "how_to_eat": "Served with grated tomato, zhug or clarified butter.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kubaneh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kubaneh",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine"
+    ]
+  },
+  {
+    "id": "israel-chraime",
+    "name": "Chraime",
+    "local_name": "חריימה",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Israel",
+    "state": "Nationwide home & holiday",
+    "regions": [],
+    "description": "Fish slices, such as grouper or halibut, braised in a spicy tomato and hot pepper sauce; the name comes from the Arabic for 'hot'. North African Jews make it for Shabbat, Rosh Hashanah and Passover, and cheaper everyday versions are served at market eateries.",
+    "how_to_eat": null,
+    "how_to_order": "Everyday versions are served at market eateries.",
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chraime",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chraime",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine"
+    ]
+  },
+  {
+    "id": "israel-sufganiyah",
+    "name": "Sufganiyah",
+    "local_name": "סופגנייה",
+    "pronunciation": "soof-ga-nee-YAH",
+    "category": "sweet",
+    "country": "Israel",
+    "state": "Nationwide home & holiday",
+    "regions": [],
+    "description": "A deep-fried yeast doughnut filled with red jam and topped with powdered sugar; bakeries also fill them with custard, dulce de leche, chocolate or halva. Polish Jews brought the recipe, and in Israel it became the main Hanukkah food, sold by bakeries from as early as September.",
+    "how_to_eat": "Eaten fresh around Hanukkah.",
+    "how_to_order": "Bakeries sell them in the weeks before and during Hanukkah.",
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sufganiyah",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sufganiyah",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine"
+    ]
+  },
+  {
+    "id": "israel-mofletta",
+    "name": "Mofletta",
+    "local_name": "מופלטה",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Israel",
+    "state": "Nationwide home & holiday",
+    "regions": [],
+    "description": "A thin crêpe of water, flour and oil cooked in a greased pan, the first leavened food eaten at Mimouna, the North African Jewish celebration the night after Passover. Families set out feasts of pastries and sweets for neighbours and visitors.",
+    "how_to_eat": "Eaten warm, spread with butter, honey, syrup, jam, nuts or dried fruit.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mofletta",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mofletta",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine"
+    ]
+  },
+  {
+    "id": "israel-ptitim",
+    "name": "Ptitim (Israeli couscous)",
+    "local_name": "פְּתִיתִים",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Israel",
+    "state": "Nationwide home & holiday",
+    "regions": [],
+    "description": "Small toasted pasta made of hard wheat flour, originally rice-shaped and later ball-shaped. Osem created it in 1953 at the request of David Ben-Gurion as a substitute for rice during the austerity period, hence the nickname 'Ben-Gurion rice'.",
+    "how_to_eat": "Usually cooked with sautéed onion or garlic as a side dish; children often eat it with tomato paste.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ILS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Israeli_couscous",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Israeli_couscous",
+      "https://en.wikipedia.org/wiki/Israeli_cuisine"
+    ]
+  }
+]
