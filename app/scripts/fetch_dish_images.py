@@ -96,6 +96,7 @@ NO_PHOTO = {
     "norway-kjottkaker", "norway-linie-aquavit", "norway-pinnekjott", "norway-tjukkmjolk",
     "chile-empanada-de-pino", "chile-cazuela", "chile-pajarete", "chile-kuchen", "israel-tahini-halva",
     "israel-schnitzel-in-pita", "jordan-knafeh-nabulsieh", "jordan-knafeh-ramlawiyyeh", "new_zealand-kaikoura-crayfish", "new_zealand-bluff-oysters",
+    "finland-pea-soup", "finland-sara", "georgia-matsoni", "romania-gomboti",
 }
 out = {}
 for d in dishes:

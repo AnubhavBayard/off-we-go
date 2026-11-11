@@ -1,0 +1,1512 @@
+[
+  {
+    "id": "georgia-ajapsandali",
+    "name": "Ajapsandali",
+    "local_name": "აჯაფსანდალი",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Tbilisi & Kartli",
+    "regions": [
+      "Tbilisi"
+    ],
+    "description": "A vegetable stew of eggplant, tomato, onion and bell pepper, stewed or fried in vegetable oil and seasoned with garlic, basil, coriander and parsley. Georgia's tourism board calls it an urban Tbilisi dish.",
+    "how_to_eat": "It is typically served cold.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ajapsandali",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ajapsandali",
+      "https://georgia.travel/why-georgia-delicious-cuisine"
+    ]
+  },
+  {
+    "id": "georgia-chicken-tabaka",
+    "name": "Chicken Tabaka",
+    "local_name": "წიწილა ტაბაკა",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Tbilisi & Kartli",
+    "regions": [],
+    "description": "A whole chicken flattened and pan-fried under a weight in a pan called a tapa. It is often seasoned with garlic or served with Georgian sauces such as bazhe, satsivi or tkemali.",
+    "how_to_eat": "Eat with a garlic or tkemali sauce on the side.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chicken_tabaka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chicken_tabaka",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-ojakhuri",
+    "name": "Ojakhuri",
+    "local_name": "ოჯახური",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Tbilisi & Kartli",
+    "regions": [],
+    "description": "Fried meat (beef, pork or chicken) and potatoes cut into large chunks, often with onion, tomato, peppers and garlic, seasoned with khmeli suneli and coriander. The name means 'family-style' and it is traditionally served on a ketsi clay plate.",
+    "how_to_eat": "Eat hot from the clay plate, garnished with fresh coriander or parsley.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ojakhuri",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ojakhuri"
+    ]
+  },
+  {
+    "id": "georgia-chashushuli",
+    "name": "Chashushuli",
+    "local_name": "ჩაშუშული",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Tbilisi & Kartli",
+    "regions": [],
+    "description": "A stew of meat, classically veal, fried and then stewed with tomatoes, onions and garlic, seasoned with herbs and sometimes ajika. It is one of the main meat dishes of Georgian home cooking.",
+    "how_to_eat": "Served on a ketsi clay plate, with lavash and white wine.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chashushuli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chashushuli"
+    ]
+  },
+  {
+    "id": "georgia-khabizgina",
+    "name": "Khabizgina",
+    "local_name": "ხაბიზგინა",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Tbilisi & Kartli",
+    "regions": [],
+    "description": "An Ossetian-style khachapuri filled with cheese and potato. Wikipedia lists it under Kartli and Georgia's tourism board under Samachablo.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Georgian_cuisine",
+      "https://georgia.travel/why-georgia-delicious-cuisine",
+      "https://en.wikipedia.org/wiki/Khachapuri"
+    ]
+  },
+  {
+    "id": "georgia-tkemali",
+    "name": "Tkemali",
+    "local_name": "ტყემალი",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Georgia",
+    "state": "Tbilisi & Kartli",
+    "regions": [],
+    "description": "A tart sauce made mainly from cherry plums, with garlic, pennyroyal, coriander, dill, chili and salt. It is the standard condiment for grilled meat, poultry and potatoes. Tkemali is a registered Georgian geographical indication.",
+    "how_to_eat": "Spoon it over grilled meat or potatoes.",
+    "how_to_order": "It is also sold bottled by several Georgian producers.",
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tkemali",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tkemali",
+      "https://www.sakpatenti.gov.ge/en/state_registry"
+    ]
+  },
+  {
+    "id": "georgia-matsoni",
+    "name": "Matsoni",
+    "local_name": "მაწონი",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Georgia",
+    "state": "Tbilisi & Kartli",
+    "regions": [],
+    "description": "A fermented milk (yogurt) product of Georgia and Armenia, also used in Georgian cooking, for example in lobiani dough and gebzhalia sauce. Georgia registered matsoni as a geographical indication in 2012.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Matzoon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Matzoon",
+      "https://www.sakpatenti.gov.ge/en/state_registry"
+    ]
+  },
+  {
+    "id": "georgia-mtsvadi",
+    "name": "Mtsvadi",
+    "local_name": "მწვადი",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Kakheti",
+    "regions": [],
+    "description": "Skewered meat grilled over vine-cutting embers, salted but not spiced; pork is the most common, though veal, lamb and chicken are also used. Kakhetian mtsvadi, made from Kakhetian pork and sprinkled with qvevri wine, is the regional version.",
+    "how_to_eat": "Eat with fresh greens, shoti bread and onion rings; some Kakhetian villages drop the hot meat into pomegranate juice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://georgia.travel/mtsvadi",
+      "https://georgia.travel/why-georgia-delicious-cuisine"
+    ]
+  },
+  {
+    "id": "georgia-chakapuli",
+    "name": "Chakapuli",
+    "local_name": "ჩაქაფული",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Kakheti",
+    "regions": [],
+    "description": "A stew of lamb or veal cooked with dry white wine, tarragon, unripe cherry plums or tkemali, and fresh herbs. Beef or mushroom versions also exist.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chakapuli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chakapuli",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-shotis-puri",
+    "name": "Shotis Puri",
+    "local_name": "შოთი",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Georgia",
+    "state": "Kakheti",
+    "regions": [],
+    "description": "A canoe-shaped white-flour bread baked by sticking the dough to the inside wall of a round clay or brick oven called a tone. Kakheti is described as the birthplace of shoti.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shoti",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shoti",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-churchkhela",
+    "name": "Churchkhela",
+    "local_name": "ჩურჩხელა",
+    "pronunciation": "CHURCH-kheh-LAH",
+    "category": "sweet",
+    "country": "Georgia",
+    "state": "Kakheti",
+    "regions": [],
+    "description": "A candle-shaped sweet made by threading walnuts or hazelnuts on a string, dipping them in thickened grape juice with flour, and hanging them to dry. The Kakheti method is on Georgia's intangible heritage list and churchkhela is a registered Georgian geographical indication.",
+    "how_to_eat": "Eaten as a between-meal snack, and as a dessert at New Year and Christmas.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "nuts",
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Churchkhela",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Churchkhela",
+      "https://www.sakpatenti.gov.ge/en/state_registry",
+      "https://georgia.travel/why-georgia-delicious-cuisine"
+    ]
+  },
+  {
+    "id": "georgia-chacha",
+    "name": "Chacha",
+    "local_name": "ჭაჭა",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Georgia",
+    "state": "Kakheti",
+    "regions": [],
+    "description": "A clear, strong pomace brandy distilled from the grape residue left after winemaking, also made from other fruits; commercial chacha is around 40% alcohol, home brew much stronger. Chacha is a registered Georgian geographical indication.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chacha_(brandy)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chacha_(brandy)",
+      "https://www.sakpatenti.gov.ge/en/state_registry"
+    ]
+  },
+  {
+    "id": "georgia-mukuzani",
+    "name": "Mukuzani",
+    "local_name": "მუკუზანი",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Georgia",
+    "state": "Kakheti",
+    "regions": [
+      "Mukuzani"
+    ],
+    "description": "A dry red wine made from Saperavi grapes in Mukuzani, Kakheti, and aged in oak for at least three years. It has been produced since 1888 and is a registered Georgian appellation of origin.",
+    "how_to_eat": "Drink with steak or dark meats.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mukuzani",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mukuzani",
+      "https://en.wikipedia.org/wiki/Georgian_wine",
+      "https://www.sakpatenti.gov.ge/en/state_registry"
+    ]
+  },
+  {
+    "id": "georgia-kindzmarauli",
+    "name": "Kindzmarauli",
+    "local_name": "ქინძმარაული",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Georgia",
+    "state": "Kakheti",
+    "regions": [
+      "Kvareli"
+    ],
+    "description": "A dark red, naturally semi-sweet wine made from Saperavi grapes grown in the Kvareli district of Kakheti. It is a registered Georgian appellation of origin.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kindzmarauli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kindzmarauli",
+      "https://en.wikipedia.org/wiki/Georgian_wine",
+      "https://www.sakpatenti.gov.ge/en/state_registry"
+    ]
+  },
+  {
+    "id": "georgia-tsinandali",
+    "name": "Tsinandali",
+    "local_name": "წინანდალი",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Georgia",
+    "state": "Kakheti",
+    "regions": [
+      "Tsinandali"
+    ],
+    "description": "A white wine blended from Rkatsiteli and Mtsvane grapes from the Telavi and Kvareli micro-regions of Kakheti. It is a registered Georgian appellation of origin.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Georgian_wine",
+      "https://www.sakpatenti.gov.ge/en/state_registry"
+    ]
+  },
+  {
+    "id": "georgia-imeretian-khachapuri",
+    "name": "Imeretian Khachapuri",
+    "local_name": "იმერული ხაჭაპური",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Georgia",
+    "state": "Imereti",
+    "regions": [],
+    "description": "A round, leavened bread filled with white, salted Imeretian cheese. It is the most common form of khachapuri, Georgia's cheese bread, which is sold in restaurants and as street food.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in restaurants and as street food.",
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khachapuri",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine",
+      "https://georgia.travel/why-georgia-delicious-cuisine"
+    ]
+  },
+  {
+    "id": "georgia-imeretian-cheese",
+    "name": "Imeretian Cheese",
+    "local_name": "იმერული ყველი",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Georgia",
+    "state": "Imereti",
+    "regions": [],
+    "description": "A white, salted cheese from Imereti. It is the standard filling of Imeretian khachapuri and a registered Georgian geographical indication.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.sakpatenti.gov.ge/en/state_registry",
+      "https://en.wikipedia.org/wiki/Khachapuri",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-pkhali",
+    "name": "Pkhali",
+    "local_name": "ფხალი",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Georgia",
+    "state": "Imereti",
+    "regions": [],
+    "description": "Chopped boiled vegetables such as spinach, beetroot, cabbage or beans mixed with ground walnuts, garlic, vinegar, onion and herbs. Restaurants usually serve spinach, beetroot and white-bean versions; the tourism board notes Imereti makes a dozen kinds.",
+    "how_to_eat": "Often served with pomegranate seeds.",
+    "how_to_order": "Restaurants usually serve it as a set of spinach, beetroot and white-bean pkhali.",
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pkhali",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pkhali",
+      "https://georgia.travel/why-georgia-delicious-cuisine",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-lobio",
+    "name": "Lobio",
+    "local_name": "ლობიო",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Imereti",
+    "regions": [],
+    "description": "Stewed beans, most often red kidney beans, cooked with coriander, walnuts, garlic and onion; there are hot and cold versions. It is traditionally served in a clay pot.",
+    "how_to_eat": "Eat with mchadi cornbread and pickled vegetables.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lobio",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lobio",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-mchadi",
+    "name": "Mchadi",
+    "local_name": "მჭადი",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Georgia",
+    "state": "Imereti",
+    "regions": [],
+    "description": "A cornbread patty made from cornmeal and water and then fried. It is common in Imereti and is traditionally eaten with lobio or cheese.",
+    "how_to_eat": "Eat alongside lobio or cheese.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mchadi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mchadi",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-chakhokhbili",
+    "name": "Chakhokhbili",
+    "local_name": "ჩახოხბილი",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Imereti",
+    "regions": [],
+    "description": "Chicken stewed with tomato and fresh herbs, dry-fried first without oil. The name comes from the Georgian word for pheasant.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chakhokhbili",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chakhokhbili",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-lagidze-water",
+    "name": "Lagidze Water",
+    "local_name": "ლაღიძის წყალი",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Georgia",
+    "state": "Imereti",
+    "regions": [
+      "Kutaisi",
+      "Tbilisi"
+    ],
+    "description": "A soda made from sparkling water and natural fruit or herb syrups such as tarragon, pear and quince, developed by Mitrofan Lagidze in Kutaisi from 1887. It contains no milk and is on Georgia's intangible heritage list.",
+    "how_to_eat": "Traditionally mixed in the glass at a soda fountain; also sold bottled.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lagidze_water",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lagidze_water",
+      "https://en.wikipedia.org/wiki/Tarkhuna"
+    ]
+  },
+  {
+    "id": "georgia-gozinaki",
+    "name": "Gozinaki",
+    "local_name": "გოზინაყი",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Georgia",
+    "state": "Imereti",
+    "regions": [],
+    "description": "A brittle of walnuts caramelized in honey. It is a mandatory part of New Year's Eve and Christmas tables, and in Imereti and Racha it was sometimes called churchkhela.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gozinaki",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gozinaki"
+    ]
+  },
+  {
+    "id": "georgia-megrelian-khachapuri",
+    "name": "Megrelian Khachapuri",
+    "local_name": "მეგრული ხაჭაპური",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Samegrelo",
+    "regions": [],
+    "description": "A round cheese bread like the Imeretian version but with more cheese added on top. It comes from Samegrelo.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khachapuri",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-elarji",
+    "name": "Elarji",
+    "local_name": "ელარჯი",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Samegrelo",
+    "regions": [],
+    "description": "A thick cornmeal porridge (ghomi) with a large amount of sulguni cheese kneaded in until stretchy. It is a staple of Samegrelo, traditionally made for guests and feasts.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Elarji",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Elarji",
+      "https://georgia.travel/why-georgia-delicious-cuisine"
+    ]
+  },
+  {
+    "id": "georgia-gebzhalia",
+    "name": "Gebzhalia",
+    "local_name": "გებჟალია",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Samegrelo",
+    "regions": [],
+    "description": "Rolls of young cheese (Imeretian or sulguni) with mint, covered in a mint sauce of matsoni or nadugi curd and milk. It is a staple of Samegrelo.",
+    "how_to_eat": "Serve with mchadi or ghomi.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gebzhalia",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gebzhalia",
+      "https://georgia.travel/why-georgia-delicious-cuisine"
+    ]
+  },
+  {
+    "id": "georgia-ghomi",
+    "name": "Ghomi",
+    "local_name": "ღომი",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Samegrelo",
+    "regions": [],
+    "description": "A cornmeal porridge eaten in Samegrelo. It is the base of elarji and is served under Megrelian kharcho.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Georgian_cuisine",
+      "https://en.wikipedia.org/wiki/Elarji",
+      "https://en.wikipedia.org/wiki/Kharcho"
+    ]
+  },
+  {
+    "id": "georgia-megrelian-kharcho",
+    "name": "Megrelian Kharcho",
+    "local_name": "ხარჩო",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Samegrelo",
+    "regions": [],
+    "description": "Beef cooked with cherry-plum purée, walnuts, khmeli suneli and coriander. In Samegrelo it is made as a stew rather than a soup, without rice.",
+    "how_to_eat": "Eat over a bed of ghomi.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kharcho",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kharcho",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-sulguni",
+    "name": "Sulguni",
+    "local_name": "სულგუნი",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Georgia",
+    "state": "Samegrelo",
+    "regions": [],
+    "description": "A brined, elastic cheese from Samegrelo with a sour, moderately salty flavour, often deep-fried or served in wedges. Sulguni has been a protected Georgian geographical indication since 2012; Megrelian sulguni is registered separately.",
+    "how_to_eat": "Eat in wedges, fried, or melted in dishes like elarji.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sulguni",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sulguni",
+      "https://www.sakpatenti.gov.ge/en/state_registry"
+    ]
+  },
+  {
+    "id": "georgia-ajika",
+    "name": "Ajika",
+    "local_name": "აჯიკა",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Georgia",
+    "state": "Samegrelo",
+    "regions": [],
+    "description": "A spicy paste based on hot peppers with coriander, utskho suneli and other spices, made mainly in Samegrelo and Abkhazia; green ajika uses unripe peppers. It is on Georgia's intangible heritage list and is a registered geographical indication.",
+    "how_to_eat": "Used to flavour other dishes.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ajika",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ajika",
+      "https://www.sakpatenti.gov.ge/en/state_registry",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-adjarian-khachapuri",
+    "name": "Adjarian Khachapuri",
+    "local_name": "აჭარული ხაჭაპური",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Adjara & Guria",
+    "regions": [
+      "Batumi"
+    ],
+    "description": "A boat-shaped bread filled with Imeretian and sulguni cheese, topped with an egg and butter. It is a symbol of Batumi, and the boat shape is linked to the region's Black Sea seafarers.",
+    "how_to_eat": "Mix the hot cheese, egg and butter inside the boat, then eat by hand or with a knife and fork.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://georgia.travel/ship-and-sun-the-inspiration-for-ajarian-khachapuri",
+      "https://en.wikipedia.org/wiki/Khachapuri"
+    ]
+  },
+  {
+    "id": "georgia-achma",
+    "name": "Achma",
+    "local_name": "აჩმა",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Adjara & Guria",
+    "regions": [],
+    "description": "A khachapuri of many thin, briefly boiled dough layers with sulguni (or sulguni and imeruli) cheese between them and butter, baked in a pan. It is associated with Adjara and Abkhazia.",
+    "how_to_eat": "Served hot, cut from a large baking pan.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Achma",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Achma",
+      "https://en.wikipedia.org/wiki/Khachapuri"
+    ]
+  },
+  {
+    "id": "georgia-borano",
+    "name": "Borano",
+    "local_name": "ბორანო",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Adjara & Guria",
+    "regions": [],
+    "description": "Chopped cheese fried in ghee, a dish of mountainous Adjara.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Georgian_cuisine",
+      "https://georgia.travel/why-georgia-delicious-cuisine"
+    ]
+  },
+  {
+    "id": "georgia-satsivi",
+    "name": "Satsivi",
+    "local_name": "საცივი",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Adjara & Guria",
+    "regions": [],
+    "description": "Boiled chicken or turkey in a cold walnut sauce seasoned with garlic, fenugreek, coriander and cinnamon. It is a staple of winter holiday feasts and is linked to Guria.",
+    "how_to_eat": "Served cold.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Satsivi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Satsivi",
+      "https://georgia.travel/why-georgia-delicious-cuisine",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-nigvziani-badrijani",
+    "name": "Nigvziani Badrijani",
+    "local_name": "ნიგვზიანი ბადრიჯანი",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Georgia",
+    "state": "Adjara & Guria",
+    "regions": [],
+    "description": "Fried eggplant slices rolled around a paste of walnuts, garlic, coriander, fenugreek and vinegar. It is often topped with pomegranate seeds and is a standard feast dish all year.",
+    "how_to_eat": "Eat cold as a starter.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nigvziani_badrijani",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nigvziani_badrijani",
+      "https://georgia.travel/why-georgia-delicious-cuisine",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-gurian-khachapuri",
+    "name": "Gurian Khachapuri",
+    "local_name": "გურული ღვეზელი",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Adjara & Guria",
+    "regions": [],
+    "description": "A crescent-shaped pie with cheese and chopped boiled eggs inside. Gurians make it at Christmas, so it is also called Christmas pie.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khachapuri",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-kupati",
+    "name": "Kupati",
+    "local_name": "კუპატი",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Adjara & Guria",
+    "regions": [],
+    "description": "A sausage of ground pork and offal or intestines with pepper and onion. Georgia's tourism board lists it as a dish of Guria.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kupati",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kupati",
+      "https://georgia.travel/why-georgia-delicious-cuisine",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-khinkali",
+    "name": "Khinkali",
+    "local_name": "ხინკალი",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Svaneti & the Mountains",
+    "regions": [
+      "Pshavi",
+      "Tusheti",
+      "Khevsureti",
+      "Mtiuleti"
+    ],
+    "description": "Twisted dumplings filled with raw minced meat and spices, so the juices stay inside when boiled; mushroom, potato and cheese fillings also exist. The dish comes from the mountains of eastern Georgia, with Pshavi and Tusheti named as its homeland.",
+    "how_to_eat": "Hold by the knot, bite and suck out the broth, then leave the knot on the plate.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khinkali",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khinkali",
+      "https://georgia.travel/khinkali"
+    ]
+  },
+  {
+    "id": "georgia-kubdari",
+    "name": "Kubdari",
+    "local_name": "კუბდარი",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Svaneti & the Mountains",
+    "regions": [
+      "Svaneti"
+    ],
+    "description": "A leavened bread filled with chunks of lamb, kid or pork, spices and onion. It is the national dish of the Svans and was added to Georgia's intangible heritage list in 2015.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kubdari",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kubdari",
+      "https://georgia.travel/why-georgia-delicious-cuisine"
+    ]
+  },
+  {
+    "id": "georgia-tashmijabi",
+    "name": "Tashmijabi",
+    "local_name": "თაშმიჯაბი",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Svaneti & the Mountains",
+    "regions": [
+      "Svaneti"
+    ],
+    "description": "Mashed potatoes mixed with sulguni cheese, milk and butter until stretchy. It is a Svan dish served as a main or side.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tashmijabi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tashmijabi",
+      "https://georgia.travel/why-georgia-delicious-cuisine"
+    ]
+  },
+  {
+    "id": "georgia-chvishtari",
+    "name": "Chvishtari",
+    "local_name": "ჭვიშტარი",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Georgia",
+    "state": "Svaneti & the Mountains",
+    "regions": [
+      "Svaneti"
+    ],
+    "description": "A cornbread (mchadi) with sulguni cheese inside, from Svaneti.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Georgian_cuisine",
+      "https://en.wikipedia.org/wiki/Mchadi"
+    ]
+  },
+  {
+    "id": "georgia-svan-salt",
+    "name": "Svan Salt",
+    "local_name": "სვანური მარილი",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Georgia",
+    "state": "Svaneti & the Mountains",
+    "regions": [
+      "Svaneti"
+    ],
+    "description": "A seasoning of salt mixed with coriander, dill, blue fenugreek, red pepper, marigold, garlic and cumin from Upper Svaneti. It is used for soups, salads, meat and potatoes and is a registered Georgian geographical indication (Svanuri Marili).",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Svan_salt",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Svan_salt",
+      "https://www.sakpatenti.gov.ge/en/state_registry"
+    ]
+  },
+  {
+    "id": "georgia-tushetian-guda",
+    "name": "Tushetian Guda",
+    "local_name": "გუდის ყველი",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Georgia",
+    "state": "Svaneti & the Mountains",
+    "regions": [
+      "Tusheti"
+    ],
+    "description": "A sheep's milk cheese from Tusheti matured inside a sheepskin bag, which gives it its name. Tushetian Guda is a registered Georgian appellation of origin.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guda_cheese",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Guda_cheese",
+      "https://www.sakpatenti.gov.ge/en/state_registry"
+    ]
+  },
+  {
+    "id": "georgia-kotori",
+    "name": "Kotori",
+    "local_name": "კოტორი",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Svaneti & the Mountains",
+    "regions": [
+      "Tusheti"
+    ],
+    "description": "A thin khachapuri filled with cottage cheese, made in Tusheti.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-dambalkhacho",
+    "name": "Dambalkhacho",
+    "local_name": "დამბალხაჭო",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Georgia",
+    "state": "Svaneti & the Mountains",
+    "regions": [
+      "Pshavi",
+      "Tianeti"
+    ],
+    "description": "A pungent cheese made from buttermilk cottage cheese shaped into balls, dried over a fire and aged in clay pots until mould develops. It comes from Tianeti and Pshavi and is a registered Georgian geographical indication.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dambalkhacho",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dambalkhacho",
+      "https://www.sakpatenti.gov.ge/en/state_registry",
+      "https://georgia.travel/why-georgia-delicious-cuisine"
+    ]
+  },
+  {
+    "id": "georgia-lobiani",
+    "name": "Lobiani",
+    "local_name": "რაჭული ლობიანი",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Racha-Lechkhumi",
+    "regions": [],
+    "description": "A bread filled with boiled kidney beans, made from matsoni dough like Imeretian khachapuri. The Racha version is the most popular and is often paired with Racha ham.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lobiani",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lobiani",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-rachuli-lori",
+    "name": "Rachuli Lori (Racha Ham)",
+    "local_name": "ლორი",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Racha-Lechkhumi",
+    "regions": [],
+    "description": "Smoked pork ham from Racha, often eaten with lobiani. Rachuli Lori is a registered Georgian geographical indication.",
+    "how_to_eat": "Eat with Racha lobiani.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Georgian_cuisine",
+      "https://en.wikipedia.org/wiki/Lobiani",
+      "https://www.sakpatenti.gov.ge/en/state_registry"
+    ]
+  },
+  {
+    "id": "georgia-shkmeruli",
+    "name": "Shkmeruli",
+    "local_name": "შქმერული",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Racha-Lechkhumi",
+    "regions": [
+      "Shkmeri"
+    ],
+    "description": "Fried chicken cooked in a garlic and milk sauce, named after Shkmeri, a village in Racha's Oni district.",
+    "how_to_eat": "Eat with bread to soak up the sauce.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shkmeruli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shkmeruli",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-khvanchkara",
+    "name": "Khvanchkara",
+    "local_name": "ხვანჭკარა",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Georgia",
+    "state": "Racha-Lechkhumi",
+    "regions": [
+      "Khvanchkara",
+      "Ambrolauri"
+    ],
+    "description": "A naturally semi-sweet red wine made from Aleksandrouli and Mujuretuli grapes grown around the village of Khvanchkara near Ambrolauri. It has been made since 1907 and is a registered Georgian appellation of origin.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khvanchkara",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khvanchkara",
+      "https://en.wikipedia.org/wiki/Georgian_wine",
+      "https://www.sakpatenti.gov.ge/en/state_registry"
+    ]
+  },
+  {
+    "id": "georgia-borjomi",
+    "name": "Borjomi",
+    "local_name": "ბორჯომი",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Georgia",
+    "state": "Samtskhe-Javakheti",
+    "regions": [
+      "Borjomi"
+    ],
+    "description": "A naturally carbonated mineral water from springs in the Borjomi Gorge, bottled in the town of Borjomi. Borjomi is a registered Georgian appellation of origin.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Borjomi_(brand)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Borjomi_(brand)",
+      "https://www.sakpatenti.gov.ge/en/state_registry"
+    ]
+  },
+  {
+    "id": "georgia-tenili",
+    "name": "Tenili",
+    "local_name": "ტენილი ყველი",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Georgia",
+    "state": "Samtskhe-Javakheti",
+    "regions": [
+      "Meskheti"
+    ],
+    "description": "A string cheese from Meskheti made from sheep's milk stretched into fine strands in hot whey, coated in cream and matured in a clay pot for about two months. Tenili is a registered Georgian geographical indication.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tenili",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tenili",
+      "https://www.sakpatenti.gov.ge/en/state_registry",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  },
+  {
+    "id": "georgia-penovani-khachapuri",
+    "name": "Penovani Khachapuri",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Georgia",
+    "state": "Samtskhe-Javakheti",
+    "regions": [],
+    "description": "A khachapuri made from puff pastry filled with cheese, which gives it a flaky texture. Wikipedia attributes it to Samtskhe-Javakheti.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khachapuri"
+    ]
+  },
+  {
+    "id": "georgia-meskhetian-khinkali",
+    "name": "Meskhetian Khinkali",
+    "local_name": "მესხური ხინკალი",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Georgia",
+    "state": "Samtskhe-Javakheti",
+    "regions": [
+      "Meskheti"
+    ],
+    "description": "Khinkali filled with apokhti, sun-dried meat such as goose. Georgia's tourism board says it is served with bakmazi, a condensed mulberry sauce.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GEL",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://georgia.travel/why-georgia-delicious-cuisine",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+    ]
+  }
+]

@@ -1,0 +1,788 @@
+[
+  {
+    "id": "iceland-pylsa",
+    "name": "Icelandic hot dog",
+    "local_name": "Pylsa",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Iceland",
+    "state": "Reykjavík & Capital Region",
+    "regions": [
+      "Reykjavík"
+    ],
+    "description": "Sausage made from a blend of lamb, pork and beef, served in a soft bun. The standard toppings are raw onion, crisp fried onion, ketchup, sweet brown mustard and remoulade.",
+    "how_to_eat": "Ordered with everything, it comes with both kinds of onion and all three sauces.",
+    "how_to_order": "Ask for \"eina með öllu\" (one with everything) at a hot dog stand.",
+    "typical_price": "880",
+    "currency": "ISK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://guidetoiceland.is/history-culture/food-in-iceland",
+      "https://visitreykjavik.is/traditional-icelandic-dishes-try-reykjavik",
+      "https://en.wikipedia.org/wiki/B%C3%A6jarins_Beztu_Pylsur"
+    ]
+  },
+  {
+    "id": "iceland-kjotsupa",
+    "name": "Icelandic meat soup",
+    "local_name": "Kjötsúpa",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iceland",
+    "state": "Reykjavík & Capital Region",
+    "regions": [
+      "Reykjavík"
+    ],
+    "description": "Lamb soup with swede, carrots, potatoes and onions in a clear broth. Older versions used barley, sour milk or skyr; potatoes and carrots were added in the late 19th century.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.re.is/blog/traditional-icelandic-food/",
+      "https://visitreykjavik.is/traditional-icelandic-dishes-try-reykjavik",
+      "https://guidetoiceland.is/history-culture/food-in-iceland"
+    ]
+  },
+  {
+    "id": "iceland-plokkfiskur",
+    "name": "Plokkfiskur",
+    "local_name": "Plokkfiskur",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iceland",
+    "state": "Reykjavík & Capital Region",
+    "regions": [],
+    "description": "Stew of boiled cod or haddock mashed with potatoes and onions in a creamy sauce of flour and milk, seasoned with salt and white pepper. It began as a way to use up leftover cooked fish.",
+    "how_to_eat": "Usually served with rúgbrauð (rye bread) and butter.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.re.is/blog/traditional-icelandic-food/",
+      "https://visitreykjavik.is/traditional-icelandic-dishes-try-reykjavik",
+      "https://guidetoiceland.is/history-culture/food-in-iceland"
+    ]
+  },
+  {
+    "id": "iceland-hangikjot",
+    "name": "Hangikjöt",
+    "local_name": "Hangikjöt",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iceland",
+    "state": "Reykjavík & Capital Region",
+    "regions": [],
+    "description": "Smoked lamb or mutton, named 'hung meat' after the practice of hanging it to smoke; it is smoked over birch wood or dried sheep dung. It is the main Christmas dish, eaten by around 90% of Icelanders over the holidays, and is also sold year-round as sliced cold meat.",
+    "how_to_eat": "Served hot with boiled potatoes, white sauce and green peas, or cold in thin slices on flatkaka, rúgbrauð or laufabrauð.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hangikj%C3%B6t",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hangikj%C3%B6t",
+      "https://www.re.is/blog/traditional-icelandic-food/",
+      "https://visitreykjavik.is/traditional-icelandic-dishes-try-reykjavik"
+    ]
+  },
+  {
+    "id": "iceland-thorramatur",
+    "name": "Þorramatur",
+    "local_name": "Þorramatur",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iceland",
+    "state": "Reykjavík & Capital Region",
+    "regions": [
+      "Reykjavík"
+    ],
+    "description": "Selection of traditional cured meat and fish products, such as hákarl, svið, slátur and sour ram's testicles, served with rúgbrauð, butter and brennivín. It is eaten mainly between January and March at the midwinter feast of Þorrablót; the name was first used by a Reykjavík restaurant in 1958.",
+    "how_to_eat": "Buffets usually offer both sour (whey-cured) and non-sour versions of the same foods.",
+    "how_to_order": "Look for it at Þorrablót events and restaurants during the month of Þorri (mid-January to mid-February).",
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%9Eorramatur",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/%C3%9Eorramatur",
+      "https://en.wikipedia.org/wiki/Icelandic_cuisine",
+      "https://visitreykjavik.is/traditional-icelandic-dishes-try-reykjavik"
+    ]
+  },
+  {
+    "id": "iceland-svid",
+    "name": "Svið",
+    "local_name": "Svið",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iceland",
+    "state": "Reykjavík & Capital Region",
+    "regions": [],
+    "description": "Sheep's head cut in half, singed to remove the wool, and boiled with the brain removed; it is sometimes cured in lactic acid. It is part of Þorramatur and is also made into sviðasulta, a head cheese pickled in whey.",
+    "how_to_eat": "Eaten hot or cold; the cheek holds most of the meat.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Svi%C3%B0",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Svi%C3%B0",
+      "https://guidetoiceland.is/history-culture/food-in-iceland",
+      "https://www.re.is/blog/traditional-icelandic-food/"
+    ]
+  },
+  {
+    "id": "iceland-slatur",
+    "name": "Slátur",
+    "local_name": "Slátur",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iceland",
+    "state": "Reykjavík & Capital Region",
+    "regions": [],
+    "description": "Sheep offal puddings of two kinds: blóðmör (blood pudding) and lifrarpylsa (liver sausage), made with sheep's blood or liver, suet, rye flour and oats, stuffed into pouches and boiled. Traditionally made at autumn slaughter time, it is sold in shops year-round and is part of Þorramatur.",
+    "how_to_eat": "Eaten hot with mashed or boiled potatoes and swede, or cold in slices, sometimes pickled in whey.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sl%C3%A1tur",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sl%C3%A1tur",
+      "https://guidetoiceland.is/history-culture/food-in-iceland",
+      "https://www.re.is/blog/traditional-icelandic-food/"
+    ]
+  },
+  {
+    "id": "iceland-hrutspungar",
+    "name": "Sour ram's testicles",
+    "local_name": "Súrsaðir hrútspungar",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iceland",
+    "state": "Reykjavík & Capital Region",
+    "regions": [],
+    "description": "Ram's testicles boiled and then cured in sour whey. A Þorramatur item; a pâté version is also made and spread on rye bread.",
+    "how_to_eat": null,
+    "how_to_order": "Served mainly on Þorramatur platters in January and February.",
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://guidetoiceland.is/history-culture/food-in-iceland",
+      "https://www.re.is/blog/traditional-icelandic-food/",
+      "https://visitreykjavik.is/traditional-icelandic-dishes-try-reykjavik"
+    ]
+  },
+  {
+    "id": "iceland-kleinur",
+    "name": "Kleinur",
+    "local_name": "Kleina",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iceland",
+    "state": "Reykjavík & Capital Region",
+    "regions": [],
+    "description": "Twisted pastry of flattened dough cut into trapezoids with a cutting wheel, pulled through a slit to form a knot and deep-fried in oil. It is an everyday pastry sold in bakeries singly and in shops in bags, usually eaten plain; its name comes from Low German, and it is recorded in Denmark from the 14th century.",
+    "how_to_eat": "Eaten plain with coffee, sometimes dipped in chocolate.",
+    "how_to_order": "Sold singly in bakeries or in bags of about ten in shops.",
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Icelandic_cuisine",
+      "https://en.wikipedia.org/wiki/Klen%C3%A4t",
+      "https://visiticeland.com/article/icelandic-bakery-guide",
+      "https://guidetoiceland.is/history-culture/food-in-iceland"
+    ]
+  },
+  {
+    "id": "iceland-ponnukokur",
+    "name": "Icelandic pancakes",
+    "local_name": "Pönnukökur",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iceland",
+    "state": "Reykjavík & Capital Region",
+    "regions": [],
+    "description": "Thin crêpe-style pancakes. They are served either rolled with sugar or folded with rhubarb jam and whipped cream.",
+    "how_to_eat": "Often eaten with black coffee or cold milk.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://guidetoiceland.is/history-culture/food-in-iceland",
+      "https://en.wikipedia.org/wiki/List_of_Icelandic_desserts"
+    ]
+  },
+  {
+    "id": "iceland-bollur",
+    "name": "Cream buns",
+    "local_name": "Bollur",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iceland",
+    "state": "Reykjavík & Capital Region",
+    "regions": [],
+    "description": "Sweet buns filled with cream and jam and topped with chocolate, eaten on Bolludagur (Shrove Monday). The custom came to Iceland from Denmark and Norway in the 19th century.",
+    "how_to_eat": null,
+    "how_to_order": "Bakeries sell them in the days around Bolludagur, before Lent.",
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bolludagur",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bolludagur",
+      "https://en.wikipedia.org/wiki/Icelandic_cuisine"
+    ]
+  },
+  {
+    "id": "iceland-snudur",
+    "name": "Snúður",
+    "local_name": "Snúður",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iceland",
+    "state": "Reykjavík & Capital Region",
+    "regions": [],
+    "description": "Cinnamon roll, usually topped with glaze or melted chocolate; some bakeries use caramel, vanilla, blueberry or liquorice toppings. It is a long-standing bakery item, reflecting the Danish roots of Icelandic baking.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in most bakeries.",
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Icelandic_cuisine",
+      "https://guidetoiceland.is/history-culture/food-in-iceland",
+      "https://visiticeland.com/article/icelandic-bakery-guide"
+    ]
+  },
+  {
+    "id": "iceland-malt-og-appelsin",
+    "name": "Malt og appelsín",
+    "local_name": "Malt og appelsín",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Iceland",
+    "state": "Reykjavík & Capital Region",
+    "regions": [],
+    "description": "Mix of malt drink and Appelsín orange soda, drunk mainly at Christmas. It is sold pre-mixed or mixed at home.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://guidetoiceland.is/history-culture/food-in-iceland"
+    ]
+  },
+  {
+    "id": "iceland-skyr",
+    "name": "Skyr",
+    "local_name": "Skyr",
+    "pronunciation": "SKEER",
+    "category": "snack",
+    "country": "Iceland",
+    "state": "South Iceland",
+    "regions": [
+      "Selfoss"
+    ],
+    "description": "Cultured dairy product with the texture of strained yogurt and a milder flavour, classed as a fresh sour-milk cheese. It is made from skimmed milk with a culture from a previous batch and rennet, then strained; it was originally made from sheep's milk and has survived as a tradition only in Iceland. The country's largest dairy is in Selfoss.",
+    "how_to_eat": "Eaten cold for breakfast or as a snack, with cream, milk or berries.",
+    "how_to_order": "Sold plain or flavoured in every supermarket.",
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Skyr",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Skyr",
+      "https://en.wikipedia.org/wiki/Icelandic_cuisine",
+      "https://guidetoiceland.is/history-culture/food-in-iceland",
+      "https://mataraudur.is/en/region/the-south/"
+    ]
+  },
+  {
+    "id": "iceland-langoustine-soup",
+    "name": "Langoustine soup",
+    "local_name": "Humarsúpa",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iceland",
+    "state": "South Iceland",
+    "regions": [],
+    "description": "Soup made with langoustine meat, which Icelandic menus call 'lobster' (humar), usually finished with cream and herbs; in Höfn it is made from the heads and shells left from the tails. Icelandic langoustine is caught mainly off the south coast.",
+    "how_to_eat": null,
+    "how_to_order": "Listed on menus as lobster soup.",
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://visitreykjavik.is/traditional-icelandic-dishes-try-reykjavik",
+      "https://guidetoiceland.is/history-culture/food-in-iceland",
+      "https://isnet.is/iceland/east-iceland/hofn/"
+    ]
+  },
+  {
+    "id": "iceland-rugbraud",
+    "name": "Rúgbrauð (geothermal rye bread)",
+    "local_name": "Rúgbrauð",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Iceland",
+    "state": "South Iceland",
+    "regions": [
+      "Laugarvatn",
+      "Mývatn"
+    ],
+    "description": "Dense, dark, crustless and slightly sweet rye bread. When baked by burying the dough in the hot ground near a hot spring it is called hverabrauð; at Laugarvatn the rye, milk and golden syrup dough is buried in a tin overnight.",
+    "how_to_eat": "Served with butter, smoked trout, hangikjöt or pickled herring.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%BAgbrau%C3%B0",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/R%C3%BAgbrau%C3%B0",
+      "https://perlan.is/articles/iceland-volcano-bread",
+      "https://guidetoiceland.is/history-culture/food-in-iceland"
+    ]
+  },
+  {
+    "id": "iceland-hakarl",
+    "name": "Hákarl",
+    "local_name": "Kæstur hákarl",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Iceland",
+    "state": "West & Westfjords",
+    "regions": [
+      "Bjarnarhöfn",
+      "Snæfellsnes"
+    ],
+    "description": "Greenland shark meat, poisonous when fresh, cured by fermentation for six to twelve weeks and then hung to dry for four to five months. It has a strong ammonia smell. The traditional curing process can be seen at the Bjarnarhöfn Shark Museum on Snæfellsnes; the species is slow to mature, and its catch has been criticised as unsustainable.",
+    "how_to_eat": "Eaten in small cubes on toothpicks, often with a shot of brennivín.",
+    "how_to_order": "Sold in supermarkets year-round and served at Þorrablót.",
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/H%C3%A1karl",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/H%C3%A1karl",
+      "https://guidetoiceland.is/history-culture/food-in-iceland",
+      "https://visitreykjavik.is/traditional-icelandic-dishes-try-reykjavik"
+    ]
+  },
+  {
+    "id": "iceland-skata",
+    "name": "Fermented skate",
+    "local_name": "Skata",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iceland",
+    "state": "West & Westfjords",
+    "regions": [
+      "Westfjords"
+    ],
+    "description": "Skate fermented until it has a strong ammonia smell, a dish once limited to the Westfjords. Many Icelanders now eat it on Þorláksmessa, 23 December.",
+    "how_to_eat": "Served with boiled potatoes and melted tallow.",
+    "how_to_order": "Restaurants serve it on 23 December.",
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Icelandic_cuisine",
+      "https://mataraudur.is/en/region/the-west-fjords/",
+      "https://guidetoiceland.is/history-culture/food-in-iceland"
+    ]
+  },
+  {
+    "id": "iceland-hardfiskur",
+    "name": "Harðfiskur",
+    "local_name": "Harðfiskur",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Iceland",
+    "state": "West & Westfjords",
+    "regions": [
+      "Westfjords",
+      "Ísafjörður"
+    ],
+    "description": "Dried fish, usually haddock, wolffish or cod, lightly brined and hung outdoors on racks for four to six weeks, or dried in heated chambers. Outdoor drying is done in windy places such as the Westfjords, where drying racks and sheds can be seen from the road.",
+    "how_to_eat": "Eaten as a snack, often spread with salted butter.",
+    "how_to_order": "Sold as fillets in supermarkets, markets and roadside shops.",
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.westfjords.is/en/travel-info/travel-blog-1/hardfiskur-a-taste-of-icelandic-tradition",
+      "https://www.re.is/blog/traditional-icelandic-food/",
+      "https://guidetoiceland.is/history-culture/food-in-iceland"
+    ]
+  },
+  {
+    "id": "iceland-brennivin",
+    "name": "Brennivín",
+    "local_name": "Brennivín",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Iceland",
+    "state": "West & Westfjords",
+    "regions": [
+      "Borgarnes"
+    ],
+    "description": "Clear caraway-flavoured aquavit distilled from fermented grain mash and bottled at 37.5% ABV. It is distilled in Borgarnes and is the traditional drink with hákarl and Þorramatur; its black label gave it the nickname 'Black Death'.",
+    "how_to_eat": "Drunk chilled as a shot.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brenniv%C3%ADn",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Brenniv%C3%ADn",
+      "https://mataraudur.is/en/region/the-west/",
+      "https://guidetoiceland.is/history-culture/food-in-iceland"
+    ]
+  },
+  {
+    "id": "iceland-laufabraud",
+    "name": "Laufabrauð",
+    "local_name": "Laufabrauð",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Iceland",
+    "state": "North Iceland",
+    "regions": [],
+    "description": "Very thin round wafers, 15-20 cm across, cut with leaf-like patterns by knife or brass roller and fried briefly in tallow or oil. It originated in northern Iceland and is eaten almost only at Christmas; families gather to cut and fry it.",
+    "how_to_eat": "Served with butter or alongside hangikjöt.",
+    "how_to_order": "Sold in bakeries before Christmas.",
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laufabrau%C3%B0",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Laufabrau%C3%B0",
+      "https://mataraudur.is/en/region/the-north/",
+      "https://www.re.is/blog/traditional-icelandic-food/"
+    ]
+  },
+  {
+    "id": "iceland-myvatn-smoked-trout",
+    "name": "Mývatn smoked trout",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Iceland",
+    "state": "North Iceland",
+    "regions": [
+      "Mývatn"
+    ],
+    "description": "Trout from Lake Mývatn, half-dried, salted and smoked over dung, twigs and dwarf birch. Locals describe it as the staple food of their youth.",
+    "how_to_eat": "Served on hverabrauð, rye bread baked in the hot ground.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://mataraudur.is/en/region/the-north/"
+    ]
+  },
+  {
+    "id": "iceland-akureyri-burger",
+    "name": "Akureyri-style burger",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Iceland",
+    "state": "North Iceland",
+    "regions": [
+      "Akureyri"
+    ],
+    "description": "Hamburger with french fries put inside the bun, a local way of eating a burger in Akureyri. It comes with kokteilsósa, a mix of mayonnaise and ketchup, and is a late-night snack.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.journeum.com/dst/Europe/Iceland/North%20Iceland/Akureyri/Eat"
+    ]
+  },
+  {
+    "id": "iceland-hofn-langoustine",
+    "name": "Höfn langoustine",
+    "local_name": "Humar",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iceland",
+    "state": "East Iceland",
+    "regions": [
+      "Höfn"
+    ],
+    "description": "Langoustine, called lobster (humar) in Iceland, is landed at Höfn í Hornafirði, known as the langoustine capital of Iceland. A common preparation is whole tails pan-fried in garlic butter and served in the shell; the town holds the Humarhátíð langoustine festival in late June.",
+    "how_to_eat": "Tails are served shell-on, so you pick out the meat.",
+    "how_to_order": null,
+    "typical_price": "5500-8900",
+    "currency": "ISK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://isnet.is/iceland/east-iceland/hofn/",
+      "https://mataraudur.is/en/region/the-east/",
+      "https://guidetoiceland.is/history-culture/food-in-iceland"
+    ]
+  },
+  {
+    "id": "iceland-reindeer",
+    "name": "Reindeer",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iceland",
+    "state": "East Iceland",
+    "regions": [],
+    "description": "Wild reindeer, descended from animals introduced in the late 18th century, live on the moors and fjords of East Iceland. A limited number are hunted each autumn; the meat is considered a delicacy and is usually expensive.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Icelandic_cuisine",
+      "https://mataraudur.is/en/region/the-east/"
+    ]
+  },
+  {
+    "id": "iceland-bulsur",
+    "name": "Bulsur",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Iceland",
+    "state": "East Iceland",
+    "regions": [
+      "Djúpivogur"
+    ],
+    "description": "Vegetable sausages made without additives from barley, beans, meal and seeds by organic farmers near Djúpivogur.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ISK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://mataraudur.is/en/region/the-east/"
+    ]
+  }
+]

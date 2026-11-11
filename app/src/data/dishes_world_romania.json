@@ -1,0 +1,1348 @@
+[
+  {
+    "id": "romania-mititei",
+    "name": "Mititei (mici)",
+    "local_name": "Mititei",
+    "pronunciation": "mee-tee-TAY",
+    "category": "street_food",
+    "country": "Romania",
+    "state": "Bucharest",
+    "regions": [],
+    "description": "Grilled skinless sausages of minced beef, lamb and pork seasoned with garlic, black pepper, thyme, coriander and other spices, with sodium bicarbonate and broth or water worked into the mixture. They are eaten across Romania, with an estimated 440 million consumed a year, and are closely tied to outdoor grilling on 1 May.",
+    "how_to_eat": "Eat them hot off the grill with mustard, bread or fries and pickles (murături).",
+    "how_to_order": "Ask for a portion of mici with mustard at grill stalls, beer gardens and outdoor events.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mititei",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mititei",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-ciorba-de-burta",
+    "name": "Ciorbă de burtă (tripe sour soup)",
+    "local_name": "Ciorbă de burtă",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Romania",
+    "state": "Bucharest",
+    "regions": [],
+    "description": "A sour soup of beef tripe finished with sour cream, egg yolks and plenty of garlic, soured with vinegar or lemon. It takes a long time to prepare; Bucharest households were already cooking a similar trotter soup soured with egg and vinegar in the 17th and 18th centuries.",
+    "how_to_eat": "Add garlic sauce or vinegar to taste and eat it with a hot pepper on the side.",
+    "how_to_order": "Ask for ciorbă de burtă on the soup section of a Romanian menu.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://ro.wikipedia.org/wiki/Ciorbă_de_burtă",
+    "source_urls": [
+      "https://ro.wikipedia.org/wiki/Ciorbă_de_burtă",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-sarmale",
+    "name": "Sarmale (Romanian cabbage rolls)",
+    "local_name": "Sarmale",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Romania",
+    "state": "Bucharest",
+    "regions": [],
+    "description": "Sour (pickled) cabbage or vine leaves rolled around minced meat with rice, onion and herbs, then simmered for hours, traditionally in ceramic pots. In Transylvania smoked pig's trotters or pork rind go into the pot between the rolls; meatless Lent versions are filled with rice and herbs.",
+    "how_to_eat": "Eat them hot with mămăligă and sour cream, with hot peppers on the side.",
+    "how_to_order": "Ask for sarmale cu mămăligă; for a meatless version ask for sarmale de post.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Romanian_cuisine",
+      "https://en.wikipedia.org/wiki/Sarma"
+    ]
+  },
+  {
+    "id": "romania-cozonac",
+    "name": "Cozonac",
+    "local_name": "Cozonac",
+    "pronunciation": "koh-zoh-NAK",
+    "category": "sweet",
+    "country": "Romania",
+    "state": "Bucharest",
+    "regions": [],
+    "description": "A sweet yeast bread rich in eggs, milk and butter, baked as a loaf or rolled out with fillings such as walnuts, poppy seeds, raisins or Turkish delight (rahat). In Romania it is baked for Christmas and during Holy Week before Easter; the earliest known written recipe appears in an 1841 cookbook printed in Iași. A Lent version without eggs or milk is called cozonac de post.",
+    "how_to_eat": "Eat it in slices, usually with coffee or milk.",
+    "how_to_order": "Ask for cozonac cu nucă (walnut) or cu mac (poppy seed) at bakeries, especially around Christmas and Easter.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cozonac",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cozonac",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-papanasi",
+    "name": "Papanași",
+    "local_name": "Papanași",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Romania",
+    "state": "Bucharest",
+    "regions": [],
+    "description": "A dessert made from a dough of fresh cheese (urdă or brânză proaspătă), eggs and semolina or flour, shaped like a doughnut with a small ball on top. It is usually fried, but can also be boiled like a dumpling, and is served with sour cream and jam or sour cherries.",
+    "how_to_eat": "Eat them warm, with the sour cream and jam spooned over the top.",
+    "how_to_order": "Ask for papanași prăjiți (fried) with smântână and dulceață (jam).",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Papanași",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Papanași",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-salata-de-vinete",
+    "name": "Salată de vinete (aubergine spread)",
+    "local_name": "Salată de vinete",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Romania",
+    "state": "Bucharest",
+    "regions": [],
+    "description": "Aubergines roasted until the skin chars, peeled, finely chopped and beaten with sunflower oil, lemon juice or vinegar, salt and pepper. Some cooks add mustard, a raw egg yolk or mayonnaise. It is served cold with chopped onion and tomato slices.",
+    "how_to_eat": "Spread it on bread with chopped onion and tomato, sometimes with telemea cheese.",
+    "how_to_order": "Ask for salată de vinete among the cold starters; ask whether it is made with oil only or with mayonnaise.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://ro.wikipedia.org/wiki/Salată_de_vinete",
+    "source_urls": [
+      "https://ro.wikipedia.org/wiki/Salată_de_vinete",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-joffre-cake",
+    "name": "Joffre cake",
+    "local_name": "Prăjitură jofre",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Romania",
+    "state": "Bucharest",
+    "regions": [
+      "Bucharest"
+    ],
+    "description": "A chocolate buttermilk layer cake filled with chocolate ganache and covered in chocolate buttercream. It was created at Bucharest's Casa Capșa restaurant shortly after the First World War for a visit by French Marshal Joseph Joffre; its cylindrical shape suggests a French military cap.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for tort or prăjitură Joffre at cake shops (cofetării).",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joffre_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Joffre_cake",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-fasole-cu-carnati",
+    "name": "Fasole cu cârnați (beans with sausages)",
+    "local_name": "Fasole cu cârnați",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Romania",
+    "state": "Bucharest",
+    "regions": [
+      "Bucharest",
+      "Alba Iulia"
+    ],
+    "description": "Baked beans cooked with smoked pork or sausages, carrots, onion, parsnip, tomato and bay leaf; one version replaces the sausages with smoked meat (afumătură). Army cooks prepare it and hand it out free to crowds at the National Day celebrations on 1 December in Bucharest and Alba Iulia.",
+    "how_to_eat": "Eat it hot with bread and pickles.",
+    "how_to_order": "Ask for fasole cu cârnați, or look for the free army servings at 1 December celebrations.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fasole_cu_cârnați",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fasole_cu_cârnați"
+    ]
+  },
+  {
+    "id": "romania-covrigi-de-buzau",
+    "name": "Covrigi (Buzău pretzels)",
+    "local_name": "Covrigi",
+    "pronunciation": "ko-VREEJ",
+    "category": "street_food",
+    "country": "Romania",
+    "state": "Wallachia",
+    "regions": [
+      "Buzău"
+    ],
+    "description": "Baked rings or pretzels of salted bread topped with poppy seeds, sesame seeds or coarse salt, usually with no added sugar. They are a common urban snack across Romania, and the city of Buzău is known for them; a local story says Greek merchants introduced them there in the 19th century to sell more wine.",
+    "how_to_eat": "Eat them warm, on the go.",
+    "how_to_order": "Buy them by the piece or by the bag from covrigi shops and kiosks.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Covrigi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Covrigi",
+      "https://ro.wikipedia.org/wiki/Covrig"
+    ]
+  },
+  {
+    "id": "romania-carnati-de-plescoi",
+    "name": "Cârnați de Pleșcoi (Pleșcoi sausages)",
+    "local_name": "Cârnați de Pleșcoi",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Romania",
+    "state": "Wallachia",
+    "regions": [
+      "Buzău"
+    ],
+    "description": "Thin sausages of mutton seasoned with hot pepper and garlic, in natural casing; some producers add up to a third beef when the mutton is too fatty. They are named after the village of Pleșcoi in Buzău County, an area with documented sheep-rearing since the 16th century, and are an EU protected geographical indication.",
+    "how_to_eat": "Eat them grilled or fried with mustard and bread.",
+    "how_to_order": "Ask for cârnați de Pleșcoi at butchers and markets in Buzău County, or on grill menus.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://ro.wikipedia.org/wiki/Cârnați_de_Pleșcoi",
+    "source_urls": [
+      "https://ro.wikipedia.org/wiki/Cârnați_de_Pleșcoi",
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000014997",
+      "https://romaniatourism.com/unique-romania-foods-autenticity-protected.html"
+    ]
+  },
+  {
+    "id": "romania-babic-de-buzau",
+    "name": "Babic de Buzău",
+    "local_name": "Babic de Buzău",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Romania",
+    "state": "Wallachia",
+    "regions": [
+      "Buzău"
+    ],
+    "description": "A raw-dried salami of finely chopped pork and beef (sometimes mutton), heavily seasoned with pepper and hot paprika, then pressed, dried and smoked. It arrived in Buzău County with Bulgarian migrants in the 17th century, which is why it is also called babic sârbesc; it is an EU protected geographical indication.",
+    "how_to_eat": "Eat thin slices as an appetiser with plum brandy, red wine or beer.",
+    "how_to_order": "Ask for babic at butchers and delicatessen counters in Buzău.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://ro.wikipedia.org/wiki/Babic",
+    "source_urls": [
+      "https://ro.wikipedia.org/wiki/Babic",
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000019764",
+      "https://romaniatourism.com/unique-romania-foods-autenticity-protected.html"
+    ]
+  },
+  {
+    "id": "romania-magiun-de-prune-topoloveni",
+    "name": "Magiun de prune Topoloveni (plum butter)",
+    "local_name": "Magiun de prune Topoloveni",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Romania",
+    "state": "Wallachia",
+    "regions": [
+      "Topoloveni"
+    ],
+    "description": "A thick, dark brown spread made from very ripe plums of at least four varieties, cooked for about 10 hours over low heat with no added sugar. It is produced in Topoloveni and nearby villages in Argeș County, where the first magiun factory opened in 1914, and it was the first Romanian product registered as an EU protected geographical indication.",
+    "how_to_eat": "Spread it on bread or use it as a filling for pastries.",
+    "how_to_order": "Buy jars labelled Magiun de prune Topoloveni in shops and supermarkets.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Magiun_of_Topoloveni",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Magiun_of_Topoloveni",
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000013848",
+      "https://romaniatourism.com/unique-romania-foods-autenticity-protected.html"
+    ]
+  },
+  {
+    "id": "romania-tuica-de-arges",
+    "name": "Țuică de Argeș (plum brandy)",
+    "local_name": "Țuică de Argeș",
+    "pronunciation": "TSOOY-kuh",
+    "category": "drink",
+    "country": "Romania",
+    "state": "Wallachia",
+    "regions": [
+      "Argeș"
+    ],
+    "description": "Țuică is a Romanian spirit made only from plums, which are fermented for 6-8 weeks and then distilled; it usually has 40-55% alcohol and is considered the national drink. Țuică de Argeș is the version from Argeș County, registered as an EU geographical indication for spirits.",
+    "how_to_eat": "Drink a small glass as an aperitif before the meal.",
+    "how_to_order": "Ask for a țuică as an aperitif; look for bottles labelled Țuică de Argeș.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Țuică",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Țuică",
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000014191"
+    ]
+  },
+  {
+    "id": "romania-salam-de-sibiu",
+    "name": "Salam de Sibiu (Sibiu salami)",
+    "local_name": "Salam de Sibiu",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Romania",
+    "state": "Transylvania",
+    "regions": [
+      "Sibiu"
+    ],
+    "description": "A dry-cured salami of pork meat, pork fat, salt and spices, aged with a mould culture on its casing. Production was started by the Italian Filippo Dozzi in Sinaia around 1910, and exports carrying the Sibiu customs stamp gave it its name; it has been an EU protected geographical indication since 2016.",
+    "how_to_eat": "Eat it in thin slices with bread, cheese and pickles.",
+    "how_to_order": "Buy it by the stick or sliced at delicatessen counters and supermarkets.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sibiu_Salami",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sibiu_Salami",
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000015946",
+      "https://romaniatourism.com/unique-romania-foods-autenticity-protected.html"
+    ]
+  },
+  {
+    "id": "romania-telemea-de-ibanesti",
+    "name": "Telemea de Ibănești",
+    "local_name": "Telemea de Ibănești",
+    "pronunciation": "teh-leh-MYA",
+    "category": "snack",
+    "country": "Romania",
+    "state": "Transylvania",
+    "regions": [
+      "Ibănești",
+      "Gurghiu Valley"
+    ],
+    "description": "A white brined cheese made from the milk of cows raised in the Gurghiu Valley (Ibănești, Hodac and Gurghiu communes) in Mureș County. It is matured in natural brine from a salt spring at Orșova village, with a salt concentration of almost 30%, instead of water with added salt. It is an EU protected designation of origin (PDO).",
+    "how_to_eat": "Eat it with bread, tomatoes and peppers, or with mămăligă.",
+    "how_to_order": "Look for packs labelled Telemea de Ibănești in supermarkets and cheese shops.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000015940",
+      "https://www.euronews.ro/articole/telemeaua-de-ibanesti-maturata-in-saramura-cu-apa-de-izvor",
+      "https://en.wikipedia.org/wiki/Telemea"
+    ]
+  },
+  {
+    "id": "romania-novac-afumat-din-tara-barsei",
+    "name": "Novac afumat din Țara Bârsei (smoked bighead carp)",
+    "local_name": "Novac afumat din Țara Bârsei",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Romania",
+    "state": "Transylvania",
+    "regions": [
+      "Brașov"
+    ],
+    "description": "Fillets of bighead carp raised for three years in cold waters of the Olt floodplain in Țara Bârsei, near Brașov, which gives leaner meat (about 4% fat). The fillets are salted for 16-24 hours and smoked for about five hours over beech sawdust. It is an EU protected geographical indication.",
+    "how_to_eat": "Eat it cold, sliced, with bread and onion.",
+    "how_to_order": "Ask for novac afumat at fish counters and supermarkets.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000015892",
+      "https://www.euronews.ro/articole/novac-afumat-tara-barsei",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-varza-a-la-cluj",
+    "name": "Varză à la Cluj (Cluj layered cabbage)",
+    "local_name": "Varză à la Cluj",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Romania",
+    "state": "Transylvania",
+    "regions": [
+      "Cluj-Napoca"
+    ],
+    "description": "Layers of sweet or sour cabbage, minced pork and rice baked together, seasoned with paprika, thyme and caraway; it is also called varză în straturi or 'scattered sarmale'. The recipe was first printed in a 1695 cookbook from Cluj, which allowed beef, chicken, pork or goose.",
+    "how_to_eat": "Eat it hot, topped with sour cream, with mămăligă and hot pepper.",
+    "how_to_order": "Ask for varză à la Cluj in Cluj and elsewhere in Transylvania.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://ro.wikipedia.org/wiki/Varză_à_la_Cluj",
+    "source_urls": [
+      "https://ro.wikipedia.org/wiki/Varză_à_la_Cluj"
+    ]
+  },
+  {
+    "id": "romania-branza-de-burduf",
+    "name": "Brânză de burduf (kneaded sheep cheese)",
+    "local_name": "Brânză de burduf",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Romania",
+    "state": "Transylvania",
+    "regions": [
+      "Bran",
+      "Rucăr",
+      "Sibiu"
+    ],
+    "description": "A salty, strong-tasting semi-soft cheese made by cutting matured sheep's milk caș into small pieces, salting it and kneading it by hand. It is packed into a sheep's stomach or skin, or into a tube of fir bark that gives it a resin flavour; the fir-bark version (brânză în coajă de brad) is linked to the Rucăr-Bran area.",
+    "how_to_eat": "Eat it with bread and onion, or with mămăligă.",
+    "how_to_order": "Buy it at markets and sheepfolds in the Bran-Rucăr area; ask for brânză în coajă de brad for the bark-wrapped kind.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brânză_de_burduf",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Brânză_de_burduf",
+      "https://romaniatourism.com/unique-romania-foods-autenticity-protected.html"
+    ]
+  },
+  {
+    "id": "romania-salinate-de-turda",
+    "name": "Salinate de Turda (Turda brine-cured pork)",
+    "local_name": "Salinate de Turda",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Romania",
+    "state": "Transylvania",
+    "regions": [
+      "Turda"
+    ],
+    "description": "Pork neck, loin, leg and belly cured for 7-21 days in natural brine from the Turda salt mine, rubbed with spices such as mustard, juniper, black pepper, bay and garlic, smoked over beech for 5-7 days and then aged in a salt cave. It comes from Turda and the villages of Mihai Viteazu, Tureni and Ploscoș, and is an EU protected geographical indication.",
+    "how_to_eat": "Eat it sliced thin with bread and onion.",
+    "how_to_order": "Look for products labelled Salinate de Turda in the Turda area.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "mustard"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://romaniatourism.com/unique-romania-foods-autenticity-protected.html",
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000018367"
+    ]
+  },
+  {
+    "id": "romania-palinca",
+    "name": "Pălincă (fruit brandy)",
+    "local_name": "Pălincă",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Romania",
+    "state": "Transylvania",
+    "regions": [],
+    "description": "A double-distilled brandy made from any fleshy fruit or fruit mix, most often plums but also apples, apricots or pears, with at least 40% alcohol and usually around 50%. It is produced in Transylvania, and Romania registered the name Pălincă as an EU geographical indication in 2008.",
+    "how_to_eat": "Drink a small glass as an aperitif.",
+    "how_to_order": "Ask for pălincă de prune (plum) or de pere (pear).",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://ro.wikipedia.org/wiki/Pălincă",
+    "source_urls": [
+      "https://ro.wikipedia.org/wiki/Pălincă",
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000014199",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-tochitura-moldoveneasca",
+    "name": "Tochitură moldovenească",
+    "local_name": "Tochitură moldovenească",
+    "pronunciation": "toh-kee-TOO-ruh",
+    "category": "meal",
+    "country": "Romania",
+    "state": "Moldavia",
+    "regions": [],
+    "description": "Small cubes of pork cooked slowly in their own fat and juices, often with smoked sausages, offal and bacon, sometimes with a little tomato sauce. The Moldavian version is served with mămăligă, a fried egg and salty sheep cheese (telemea or brânză de burduf).",
+    "how_to_eat": "Eat it hot with the mămăligă, egg and cheese, traditionally with wine.",
+    "how_to_order": "Ask for tochitură moldovenească cu mămăligă.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tochitură",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tochitură",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-poale-n-brau",
+    "name": "Poale-n brâu (Moldavian cheese pastries)",
+    "local_name": "Poale-n brâu",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Romania",
+    "state": "Moldavia",
+    "regions": [],
+    "description": "Yeast-dough pastries filled with fresh cow's cheese, made sweet as a dessert or salty as a starter. The Moldavian name comes from folding the dough corners over the filling toward the centre; they are brushed with sour cream or honey and baked.",
+    "how_to_eat": "Eat them warm or cold.",
+    "how_to_order": "Ask for poale-n brâu dulci (sweet) or sărate (salty) at bakeries.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://ro.wikipedia.org/wiki/Brânzoaică",
+    "source_urls": [
+      "https://ro.wikipedia.org/wiki/Brânzoaică",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-ciorba-radauteana",
+    "name": "Ciorbă rădăuțeană",
+    "local_name": "Ciorbă rădăuțeană",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Romania",
+    "state": "Moldavia",
+    "regions": [
+      "Rădăuți"
+    ],
+    "description": "A sour soup of chicken or turkey and vegetables, finished with sour cream, egg, flour and vinegar and served with pickled hot peppers. Cornelia Dumitrescu created it in Rădăuți, Suceava County, in the 1980s as a version of tripe soup made with poultry; the recipe was registered with the Suceava county tourism office in 1982.",
+    "how_to_eat": "Eat it hot, with a pickled hot pepper on the side.",
+    "how_to_order": "Ask for ciorbă rădăuțeană on the soup section of the menu.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://ro.wikipedia.org/wiki/Ciorbă_rădăuțeană",
+    "source_urls": [
+      "https://ro.wikipedia.org/wiki/Ciorbă_rădăuțeană"
+    ]
+  },
+  {
+    "id": "romania-parjoale-moldovenesti",
+    "name": "Pârjoale moldovenești (Moldavian meat patties)",
+    "local_name": "Pârjoale moldovenești",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Romania",
+    "state": "Moldavia",
+    "regions": [],
+    "description": "Elongated patties of minced pork and beef (sometimes lamb or chicken) mixed with egg, grated potato, soaked bread, onion and herbs such as parsley, dill and thyme. They are rolled in breadcrumbs and fried, and are sometimes finished in tomato sauce.",
+    "how_to_eat": "Eat them with mashed potatoes or pickles.",
+    "how_to_order": "Ask for pârjoale moldovenești.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pârjoale",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pârjoale",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-alivenci",
+    "name": "Alivenci (cornmeal cheese bake)",
+    "local_name": "Alivenci",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Romania",
+    "state": "Moldavia",
+    "regions": [],
+    "description": "A custard tart of cornmeal with fresh cheese such as urdă or telemea and sour cream, made in sweet and salty versions. It belongs to the cuisine of Moldavia and is traditionally made for the feast of Saint Peter.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for alivenci in Moldavia.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alivenci",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Alivenci",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-cascaval-de-saveni",
+    "name": "Cașcaval de Săveni",
+    "local_name": "Cașcaval de Săveni",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Romania",
+    "state": "Moldavia",
+    "regions": [
+      "Săveni",
+      "Botoșani"
+    ],
+    "description": "A semi-hard yellow cheese from Botoșani County, made from cow's milk collected from farms and villages around the dairy at Vlăsinești. It is made by hand in the traditional way, melting the curd (caș) in a wicker basket. It is an EU protected geographical indication.",
+    "how_to_eat": null,
+    "how_to_order": "Look for packs labelled Cașcaval de Săveni in shops.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000015508",
+      "https://www.euronews.ro/articole/la-botosani-se-face-cascavalul-care-a-fost-acreditat-la-nivelul-uniunii-europene",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-mucenici-moldovenesti",
+    "name": "Mucenici moldovenești (9 March pastries)",
+    "local_name": "Mucenici",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Romania",
+    "state": "Moldavia",
+    "regions": [],
+    "description": "Figure-eight pastries made for the feast of the 40 Martyrs of Sebaste on 9 March. In Moldavia they are baked from cozonac dough, glazed with honey and sprinkled with walnuts. In Dobruja they are smaller and boiled in water with sugar, cinnamon and walnuts.",
+    "how_to_eat": null,
+    "how_to_order": "Look for them in bakeries and homes around 9 March.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mucenici",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-horinca-de-camarzana",
+    "name": "Horincă de Cămârzana (Oaș plum brandy)",
+    "local_name": "Horincă de Cămârzana",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Romania",
+    "state": "Maramureș & Crișana",
+    "regions": [
+      "Cămârzana",
+      "Țara Oașului"
+    ],
+    "description": "Horincă is the name used in Maramureș and Oaș for a fruit brandy, most often double-distilled from plums, with 52-62% alcohol; it is also called turț. Horincă de Cămârzana is registered as an EU geographical indication for spirits. In Maramureș a glass is served as an aperitif before every meal.",
+    "how_to_eat": "Drink a small glass before the meal.",
+    "how_to_order": "Ask for horincă; look for bottles labelled Horincă de Cămârzana.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://ro.wikipedia.org/wiki/Horincă",
+    "source_urls": [
+      "https://ro.wikipedia.org/wiki/Horincă",
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000014198",
+      "https://www.cjmaramures.ro/attachments/turism/EN%20-%20Visit%20Maramures%20-%20Gastronomy.pdf"
+    ]
+  },
+  {
+    "id": "romania-balmos",
+    "name": "Balmoș (shepherd's polenta)",
+    "local_name": "Balmoș",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Romania",
+    "state": "Maramureș & Crișana",
+    "regions": [],
+    "description": "The shepherds' version of mămăligă, made from maize flour boiled in ewe's milk. It is rarely found except at sheepfolds.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for balmoș at sheepfolds (stâne) in summer.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.cjmaramures.ro/attachments/turism/EN%20-%20Visit%20Maramures%20-%20Gastronomy.pdf"
+    ]
+  },
+  {
+    "id": "romania-mamaliga-cu-branza-si-smantana",
+    "name": "Mămăligă cu brânză și smântână (polenta with cheese and sour cream)",
+    "local_name": "Mămăligă cu brânză și smântână",
+    "pronunciation": "muh-muh-LEE-guh",
+    "category": "meal",
+    "country": "Romania",
+    "state": "Maramureș & Crișana",
+    "regions": [],
+    "description": "Mămăligă is a firm maize-flour porridge; in Maramureș, where it is also called tocană or coleșă, it is the most typical local dish. It is served with cheese and sour cream, with pork greaves (jumări) or pork stew, or baked in layers with cow's or ewe's cheese.",
+    "how_to_eat": "Eat it hot with the cheese and sour cream on top.",
+    "how_to_order": "Ask for mămăligă cu brânză și smântână; add jumări if you eat meat.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.cjmaramures.ro/attachments/turism/EN%20-%20Visit%20Maramures%20-%20Gastronomy.pdf",
+      "https://en.wikipedia.org/wiki/Mămăligă",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-brozbuta",
+    "name": "Brozbuță (Maramureș cabbage rolls)",
+    "local_name": "Brozbuță",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Romania",
+    "state": "Maramureș & Crișana",
+    "regions": [],
+    "description": "A Maramureș version of stuffed cabbage: pickled cabbage leaves wrapped around coarse-ground maize scalded with boiling water, mixed with fried onion, carrot and porcini mushrooms, then boiled. Locals also call stuffed cabbage haluște, holopți or piroște.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for brozbuță or curechi umplut in Maramureș.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.cjmaramures.ro/attachments/turism/EN%20-%20Visit%20Maramures%20-%20Gastronomy.pdf"
+    ]
+  },
+  {
+    "id": "romania-pomana-porcului",
+    "name": "Pomana porcului (pig-slaughter pork fry)",
+    "local_name": "Pomana porcului",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Romania",
+    "state": "Maramureș & Crișana",
+    "regions": [],
+    "description": "Fatty pork, sometimes with ribs and sausages, fried in its own fat with onion, pepper and paprika, then simmered covered for about an hour. It is served right after the winter pig slaughter to thank the relatives and friends who helped.",
+    "how_to_eat": "Eat it with mămăligă and pickles.",
+    "how_to_order": "Look for it around the December pig slaughter.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://ro.wikipedia.org/wiki/Pomana_porcului",
+    "source_urls": [
+      "https://www.cjmaramures.ro/attachments/turism/EN%20-%20Visit%20Maramures%20-%20Gastronomy.pdf",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-piroste",
+    "name": "Piroște (Maramureș dumplings)",
+    "local_name": "Piroște",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Romania",
+    "state": "Maramureș & Crișana",
+    "regions": [],
+    "description": "Boiled dumplings of noodle dough made with flour, eggs and oil. Savoury fillings include mushrooms, potato, salty cheese or cabbage; sweet ones use jam, fruit or sweet cheese.",
+    "how_to_eat": "Eat them with sour cream, with fried onion (savoury) or with jam (sweet).",
+    "how_to_order": "Ask for piroște in Maramureș.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.cjmaramures.ro/attachments/turism/EN%20-%20Visit%20Maramures%20-%20Gastronomy.pdf"
+    ]
+  },
+  {
+    "id": "romania-pita-de-pecica",
+    "name": "Pită de Pecica (Pecica bread)",
+    "local_name": "Pită de Pecica",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Romania",
+    "state": "Banat",
+    "regions": [
+      "Pecica",
+      "Arad"
+    ],
+    "description": "A round, slightly elongated loaf from Pecica in Arad County, made from wheat flour, a sourdough starter (maia), fresh yeast, water and salt, and baked on the hearth of a brick oven with no open flame. Shaping and weighing are done by hand. It is an EU protected geographical indication.",
+    "how_to_eat": "Eat it fresh with any meal.",
+    "how_to_order": "Buy it from bakeries in Pecica and Arad.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pită_de_Pecica",
+    "source_urls": [
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000018420",
+      "https://romaniatourism.com/unique-romania-foods-autenticity-protected.html",
+      "https://www.euronews.ro/articole/pita-de-pecica-buna-ca-sufletul-omului",
+      "https://igcat.org/wp-content/uploads/2025/11/2028-Banat_European-region-of-Gastronomy-2028.pdf"
+    ]
+  },
+  {
+    "id": "romania-supa-de-pui-cu-taitei",
+    "name": "Supă de pui cu tăiței de casă (Banat Sunday soup)",
+    "local_name": "Supă de pui cu tăiței",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Romania",
+    "state": "Banat",
+    "regions": [],
+    "description": "A clear chicken broth with fine homemade egg noodles and parsley, served at Sunday and weekend family meals in Banat. Traditionally the soup is made from household-raised chickens.",
+    "how_to_eat": "Eat it as the first course of a Sunday meal, after a glass of plum brandy.",
+    "how_to_order": "Ask for supă de pui cu tăiței de casă.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.rri.ro/en/close-up/the-cooking-show/dishes-from-banat-id173288.html",
+      "https://igcat.org/wp-content/uploads/2025/11/2028-Banat_European-region-of-Gastronomy-2028.pdf"
+    ]
+  },
+  {
+    "id": "romania-ciuspais",
+    "name": "Ciușpais (Banat creamed courgettes)",
+    "local_name": "Ciușpais",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Romania",
+    "state": "Banat",
+    "regions": [],
+    "description": "Grated courgettes cooked into a creamy sauce with butter, milk, semolina, onion, garlic and dill; another version uses butter, flour and stock. It came to Banat with the Swabians and is related to the Viennese Zuspeise, a vegetable sauce served with meat.",
+    "how_to_eat": "Eat it warm as a side to roast or fried meat and sausages.",
+    "how_to_order": "Ask for ciușpais as a side dish (garnitură).",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://irinageorgescu.substack.com/p/creamed-courgettes-or-banat-ciuspais"
+    ]
+  },
+  {
+    "id": "romania-gomboti",
+    "name": "Gomboți (plum dumplings)",
+    "local_name": "Găluște cu prune",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Romania",
+    "state": "Banat",
+    "regions": [],
+    "description": "Whole plums wrapped in a dough of mashed potatoes, flour and eggs, boiled until they float and rolled in breadcrumbs toasted with butter and sugar. The name is used in Romanian, Hungarian and Serbian cooking, and the dish is made in Banat and Transylvania.",
+    "how_to_eat": "Eat them warm; the plum stone is left in.",
+    "how_to_order": "Ask for gomboți or găluște cu prune in late summer, when plums are in season.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://ro.wikipedia.org/wiki/Găluște_cu_prune",
+    "source_urls": [
+      "https://www.rri.ro/en/close-up/the-cooking-show/dishes-from-banat-id173288.html",
+      "https://www.cjmaramures.ro/attachments/turism/EN%20-%20Visit%20Maramures%20-%20Gastronomy.pdf"
+    ]
+  },
+  {
+    "id": "romania-taitei-cu-nuca-sau-mac",
+    "name": "Tăiței cu nucă sau mac (noodles with walnuts or poppy seeds)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Romania",
+    "state": "Banat",
+    "regions": [],
+    "description": "Noodles tossed with ground walnuts or poppy seeds and sugar. In lowland Banat they are served as a second course rather than as dessert, a combination of sweet and savoury that comes from Slovak and Austro-Hungarian influence.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for tăiței cu nucă or tăiței cu mac.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://igcat.org/wp-content/uploads/2025/11/2028-Banat_European-region-of-Gastronomy-2028.pdf"
+    ]
+  },
+  {
+    "id": "romania-rachia-de-banat",
+    "name": "Rachia de Banat (Banat plum brandy)",
+    "local_name": "Răchie",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Romania",
+    "state": "Banat",
+    "regions": [],
+    "description": "A fermented and distilled fruit brandy, made mostly from plums, produced in Banat. A glass of plum brandy 'to whet the appetite' opens the traditional Banat Sunday meal.",
+    "how_to_eat": "Drink a small glass before the soup.",
+    "how_to_order": "Ask for răchie or rachiu de prune.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Romanian_cuisine",
+      "https://igcat.org/wp-content/uploads/2025/11/2028-Banat_European-region-of-Gastronomy-2028.pdf"
+    ]
+  },
+  {
+    "id": "romania-placinta-dobrogeana",
+    "name": "Plăcintă dobrogeană (Dobruja cheese pie)",
+    "local_name": "Plăcintă dobrogeană",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Romania",
+    "state": "Dobruja & Danube Delta",
+    "regions": [
+      "Constanța",
+      "Tulcea"
+    ],
+    "description": "A pastry of hand-stretched dough sheets, pulled until thin and translucent, filled with salty telemea mixed with fresh caș and eggs, then rolled, crimped and coiled in a spiral in round trays. It is made in Constanța and Tulcea counties and is an EU protected geographical indication (2023).",
+    "how_to_eat": "Eat it warm, cut into portions from the tray.",
+    "how_to_order": "Buy it by the portion or by the kilo at bakeries (patiserii) in Constanța.",
+    "typical_price": "15-20",
+    "currency": "RON",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000016565",
+      "https://romania.representation.ec.europa.eu/news/agricultura-comisia-aproba-placinta-dobrogeana-din-romania-ca-indicatie-geografica-2023-03-30_ro",
+      "https://www.euronews.ro/articole/este-oficial-placinta-dobrogeana-este-marca-romaneasca"
+    ]
+  },
+  {
+    "id": "romania-scrumbie-de-dunare-afumata",
+    "name": "Scrumbie de Dunăre afumată (smoked Danube shad)",
+    "local_name": "Scrumbie de Dunăre afumată",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Romania",
+    "state": "Dobruja & Danube Delta",
+    "regions": [
+      "Tulcea"
+    ],
+    "description": "Pontic shad caught in the Danube, salted and then cold-smoked by a method nearly 100 years old. It was the fifth Romanian product registered as an EU protected geographical indication, in 2018.",
+    "how_to_eat": "Eat it as a cold starter, for example in a salad.",
+    "how_to_order": "Ask for scrumbie afumată at fish shops and on menus in the Delta and Constanța.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000015161",
+      "https://observatornews.ro/social/romania-produs-recunoscut-uniunea-europeana-scrumbia-de-dunare-277358.html",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-salata-cu-icre-de-stiuca-de-tulcea",
+    "name": "Salată cu icre de știucă de Tulcea (Tulcea pike roe spread)",
+    "local_name": "Salată cu icre de știucă de Tulcea",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Romania",
+    "state": "Dobruja & Danube Delta",
+    "regions": [
+      "Tulcea"
+    ],
+    "description": "A spread of sunflower oil with at least 29% salted fish roe, of which at least 15% is whole-grain pike roe and the rest roe of other Delta fish, with mineral water and lemon juice. Pike can be fished only for a short cold-season window. It is an EU protected geographical indication.",
+    "how_to_eat": "Spread it on toasted bread with a little onion and lemon.",
+    "how_to_order": "Look for jars labelled Salată cu icre de știucă de Tulcea in shops.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://ro.wikipedia.org/wiki/Salată_de_icre",
+    "source_urls": [
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000016218",
+      "https://www.euronews.ro/articole/salatele-din-icre-de-crap-si-de-stiuca-recunoscute-european"
+    ]
+  },
+  {
+    "id": "romania-salata-traditionala-cu-icre-de-crap",
+    "name": "Salată tradițională cu icre de crap (carp roe spread)",
+    "local_name": "Salată tradițională cu icre de crap",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Romania",
+    "state": "Dobruja & Danube Delta",
+    "regions": [],
+    "description": "A smooth cream of salted carp roe and other freshwater fish roe beaten with sunflower oil, sparkling water and lemon juice, made with or without boiled onion. It was registered as an EU Traditional Speciality Guaranteed (TSG) in 2021, which protects the recipe rather than a place of origin.",
+    "how_to_eat": "Spread it on bread as a starter.",
+    "how_to_order": "Ask for salată de icre de crap; packaged versions are sold in supermarkets.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://ro.wikipedia.org/wiki/Salată_de_icre",
+    "source_urls": [
+      "https://romania.representation.ec.europa.eu/news/salata-traditionala-cu-icre-de-crap-specialitate-traditionala-garantata-ue-2021-09-30_ro",
+      "https://ro.wikipedia.org/wiki/Salată_de_icre"
+    ]
+  },
+  {
+    "id": "romania-batog-de-sturion",
+    "name": "Batog de sturion (smoked sturgeon fillet)",
+    "local_name": "Batog de sturion",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Romania",
+    "state": "Dobruja & Danube Delta",
+    "regions": [
+      "Tulcea"
+    ],
+    "description": "Thick sturgeon fillets that are portioned and salted, tied with string and cold-smoked over beech sawdust, all done by hand. It is made in Tulcea County, is served in Delta restaurants and became an EU protected geographical indication in 2026.",
+    "how_to_eat": "Eat it thinly sliced as a cold starter.",
+    "how_to_order": "Ask for batog de sturion at fish shops and Delta restaurants; it is sold by weight.",
+    "typical_price": "400 per kg",
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000019580",
+      "https://www.euronews.ro/articole/batogul-de-sturion-din-delta-dunarii-protejat-oficial-de-uniunea-europeana-e-una"
+    ]
+  },
+  {
+    "id": "romania-saramura-de-crap",
+    "name": "Saramură de crap (carp in brine)",
+    "local_name": "Saramură de crap",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Romania",
+    "state": "Dobruja & Danube Delta",
+    "regions": [],
+    "description": "Carp grilled, sometimes on a bed of salt, and then soaked, sprinkled or boiled in brine or a brine-based sauce. Saramură is made with fish especially in Dobruja; the Lipovans call it rassol (karp rassol).",
+    "how_to_eat": "Eat it with mămăligă.",
+    "how_to_order": "Ask for saramură de crap with mămăligă.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Saramură",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Saramură",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  },
+  {
+    "id": "romania-ciorba-de-peste",
+    "name": "Ciorbă de pește ca-n Deltă (Delta fish soup)",
+    "local_name": "Ciorbă de pește",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Romania",
+    "state": "Dobruja & Danube Delta",
+    "regions": [],
+    "description": "A sour soup of freshwater fish such as carp, catfish, pike or zander, cooked with vegetables and soured with borș, vinegar, lemon or cabbage juice. The fish goes in last and cooks only briefly; the Danube Delta style traditionally uses water taken straight from the Danube.",
+    "how_to_eat": "Eat it hot or cold with mămăligă; the soup and the fish can be served separately.",
+    "how_to_order": "Ask for ciorbă or borș de pește.",
+    "typical_price": null,
+    "currency": "RON",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://ro.wikipedia.org/wiki/Ciorbă_de_pește",
+    "source_urls": [
+      "https://ro.wikipedia.org/wiki/Ciorbă_de_pește",
+      "https://en.wikipedia.org/wiki/Romanian_cuisine"
+    ]
+  }
+]

@@ -499,3 +499,20 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
 - Batch 7 research done. Photos: running fetch_dish_images.py.
 - Photos batch 7: 96 new; 10 dropped via NO_PHOTO (Spanish empanadillas, Ecuadorian cazuela, grape drawing on pajarete, German marble cake on kuchen, Samarkand halva, German schnitzel, Turkish künefe on both Jordan knafeh, live crayfish, oyster museum specimen). 1,669 dishes with photos. Next: build + install, commit + push.
 - BATCH 7 DONE: 49 countries, 2,116 dishes, 1,669 with photos. Installed on phone 2026-11-11. README counts updated.
+- Committed + pushed e5c5245.
+
+## 2026-11-11: batch 8
+- Batch 8: Finland, Iceland, Romania, Georgia. Same plan.
+- Finland: research agent running.
+- Finland done: 36 dishes, 7 regions (Helsinki & Uusimaa 8, Turku/SW & Åland 4, Tampere & Häme 5, Savo 5, Karelia 5, Ostrobothnia & Kainuu 4, Lapland 5). GI true 7 (Ruokavirasto list; eAmbrosia did not load): kalakukko TSG, sahti TSG, karjalanpiirakka TSG, Kainuun rönttönen PGI, Lapin Poron kuivaliha PDO, Lapin Poron kylmäsavuliha PDO, Savolainen mustikkakukko (2025, EC Finland page). Lörtsy not GI (applied 2024). 11 fi-wiki links. Overlap with Sweden as Finnish versions (leipäjuusto, poronkäristys, laskiaispulla, korvapuusti). My fix: salmiakki nonveg (gelatin in some brands). Validator OK.
+- Iceland: research agent running.
+- Iceland done: 26 dishes, 5 regions (Reykjavík & Capital 13, South 3, West & Westfjords 4, North 3, East 3). No GIs (Icelandic lamb PDO = meat, not dish). Prices: hot dog 880 ISK (one stand, 2026), Höfn langoustine mains 5,500-8,900. Puffin/whale left out. Thin: Akureyri burger, Mývatn trout, bulsur (single source). 16 null wiki links. Spot-check OK. Validator OK.
+- Romania: research agent running.
+- User: after batch 9, start batch 10. Batch 10 registered: Ethiopia, Tunisia, Jamaica, Bulgaria (ETB, TND, JMD, EUR — Bulgaria on euro since 1 Jan 2026).
+- Romania done: 46 dishes, 7 regions (Bucharest 8, Wallachia 5, Transylvania 7, Moldavia 7, Maramureș & Crișana 6, Banat 6, Dobruja & Delta 7). GI true 17 (eAmbrosia API): PDO Telemea de Ibănești; PGI Magiun Topoloveni, Salam de Sibiu, Novac afumat, Cârnați de Pleșcoi, Scrumbie de Dunăre, Cașcaval de Săveni, Salată cu icre de știucă de Tulcea, Plăcintă dobrogeană, Pită de Pecica, Salinate de Turda, Batog de sturion, Babic de Buzău; spirits Pălincă, Țuică de Argeș, Horincă de Cămârzana; TSG Salată cu icre de crap (EC page only). Prices: plăcintă dobrogeană 15-20, batog 400/kg. Thin: Maramureș (one county PDF), Banat. Sarmale wiki null (redirects to Sarma). Spot-check OK. Validator OK.
+- Georgia: research agent running (last of batch 8).
+- Georgia done: 53 dishes, 8 regions (Tbilisi & Kartli 7, Kakheti 8, Imereti 8, Samegrelo 7, Adjara & Guria 7, Svaneti & Mountains 8, Racha-Lechkhumi 4, Samtskhe-Javakheti 4). GI true 17 (Sakpatenti register): AO Khvanchkara, Mukuzani, Tsinandali, Kindzmarauli, Tushetian guda, Borjomi; GI chacha, churchkhela, matsoni, tenili, sulguni, Imeretian cheese, dambalkhacho, ajika, tkemali, Svan salt, Rachuli lori. Khachapuri variants no own wiki article. Several dishes on one general source. Spot-check OK. Validator OK.
+- Batch 8 research done. Photos: running fetch_dish_images.py.
+- User: after batch 10, start batch 11. Batch 11 registered: Ecuador, Uzbekistan, Kenya, Pakistan (USD, UZS, KES, PKR).
+- Photos batch 8: 96 new; 4 dropped via NO_PHOTO (German pea soup, empty wooden trough on särä, Armenian matsun, Serbian plum dumplings on gomboți). 1,761 dishes with photos. Building + installing.
+- BATCH 8 DONE: 53 countries, 2,277 dishes, 1,761 with photos. Built OK; install FAILED: adb "no devices/emulators found" (phone not connected). Install later. README counts updated.

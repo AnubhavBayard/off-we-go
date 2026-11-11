@@ -1,0 +1,1081 @@
+[
+  {
+    "id": "finland-runeberg-torte",
+    "name": "Runeberg torte",
+    "local_name": "Runebergintorttu",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Finland",
+    "state": "Helsinki & Uusimaa",
+    "regions": [
+      "Porvoo",
+      "Helsinki"
+    ],
+    "description": "A small Finnish torte of about 100 grams flavoured with almonds and arrack or rum, usually topped with raspberry jam inside a ring of icing. It is named after the poet Johan Ludvig Runeberg, who lived most of his life in Porvoo; a recipe appears in his wife Fredrika's 1850s recipe book, and Café Ekberg in Helsinki began selling it in 1865.",
+    "how_to_eat": "Traditionally eaten in the weeks up to Runeberg Day, 5 February.",
+    "how_to_order": "Sold in shops and cafés in the weeks before 5 February; some Porvoo cafés sell it all year.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts",
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Runeberg_torte",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Runeberg_torte"
+    ]
+  },
+  {
+    "id": "finland-rye-bread",
+    "name": "Finnish rye bread",
+    "local_name": "Ruisleipä",
+    "pronunciation": "RU-is-lay-pa",
+    "category": "snack",
+    "country": "Finland",
+    "state": "Helsinki & Uusimaa",
+    "regions": [],
+    "description": "A dark sourdough bread made from whole-grain rye flour, the most popular bread in Finland and voted the national food in 2017. Unlike Swedish rye breads it is usually unsweetened and made without caraway; traditional forms include the round loaf of Karelia and Savo and the ring-shaped reikäleipä of western Finland.",
+    "how_to_eat": "Best eaten fresh with butter; it is served with most meals.",
+    "how_to_order": "Sold in every supermarket and bakery; it is also served with most lunches.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ruisleip%C3%A4",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ruisleip%C3%A4",
+      "https://visittampere.fi/en/articles/8-must-try-foods-from-finland-where-to-find-them-in-tampere/"
+    ]
+  },
+  {
+    "id": "finland-pea-soup",
+    "name": "Finnish pea soup",
+    "local_name": "Hernekeitto",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Finland",
+    "state": "Helsinki & Uusimaa",
+    "regions": [],
+    "description": "A soup of dried green peas soaked overnight and boiled with pork until they break down, seasoned with salt, black pepper, marjoram and mustard. In western Finland it is thick and finished with smoked meat, while Karelian hernerokka keeps the peas whole. It is traditionally eaten on Thursdays and on Shrove Tuesday, followed by oven pancake.",
+    "how_to_eat": "Followed by oven pancake (pannukakku) for dessert, especially on Thursdays.",
+    "how_to_order": "Offered on Thursday lunch menus; also served at outdoor markets and large public events.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fi.wikipedia.org/wiki/Hernekeitto",
+    "source_urls": [
+      "https://fi.wikipedia.org/wiki/Hernekeitto",
+      "https://en.wikipedia.org/wiki/Finnish_cuisine"
+    ]
+  },
+  {
+    "id": "finland-laskiaispulla",
+    "name": "Shrovetide bun",
+    "local_name": "Laskiaispulla",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Finland",
+    "state": "Helsinki & Uusimaa",
+    "regions": [],
+    "description": "The Finnish version of the Shrovetide bun: a sweet wheat bun filled with whipped cream and either almond paste or jam. Most buns sold in Finland are filled with jam; almond paste is mainly preferred among Swedish-speaking Finns, such as on the Vaasa coast. The bun spread in Finland in the early 1900s, at first along the Swedish-speaking coast.",
+    "how_to_eat": "Eaten around Shrove Tuesday (laskiainen), often after pea soup.",
+    "how_to_order": "Ask for jam (hillo) or almond paste (mantelimassa) filling at bakeries and cafés in the weeks before Lent.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fi.wikipedia.org/wiki/Laskiaispulla",
+    "source_urls": [
+      "https://fi.wikipedia.org/wiki/Laskiaispulla",
+      "https://en.wikipedia.org/wiki/Finnish_cuisine"
+    ]
+  },
+  {
+    "id": "finland-lonkero",
+    "name": "Lonkero (long drink)",
+    "local_name": "Lonkero",
+    "pronunciation": "LONG-ke-ro",
+    "category": "drink",
+    "country": "Finland",
+    "state": "Helsinki & Uusimaa",
+    "regions": [
+      "Helsinki"
+    ],
+    "description": "A ready-mixed drink of gin and, most commonly, grapefruit soda; cranberry, raspberry and lime versions also exist. It was introduced in 1952 by the state alcohol monopoly to serve visitors to the Helsinki Olympic Games.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in cans and bottles in shops and on draught in bars.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lonkero",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lonkero",
+      "https://en.wikivoyage.org/wiki/Finland"
+    ]
+  },
+  {
+    "id": "finland-salmiakki",
+    "name": "Salty liquorice",
+    "local_name": "Salmiakki",
+    "pronunciation": "SAL-mee-ak-kee",
+    "category": "snack",
+    "country": "Finland",
+    "state": "Helsinki & Uusimaa",
+    "regions": [],
+    "description": "Liquorice candy flavoured with ammonium chloride (salmiakki), which gives it a taste that is sweet and salty at the same time. It is eaten mainly in the Nordic countries, northern Germany and the Netherlands, and was being produced as candy in Finland by the 1930s. It is also mixed into Koskenkorva spirit as salmiakkikossu.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in supermarkets, kiosks and candy shops.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://fi.wikipedia.org/wiki/Salmiakki",
+    "source_urls": [
+      "https://fi.wikipedia.org/wiki/Salmiakki",
+      "https://en.wikivoyage.org/wiki/Finland",
+      "https://en.wikipedia.org/wiki/Finnish_cuisine"
+    ]
+  },
+  {
+    "id": "finland-tippaleipa",
+    "name": "May Day funnel cake",
+    "local_name": "Tippaleipä",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Finland",
+    "state": "Helsinki & Uusimaa",
+    "regions": [
+      "Helsinki"
+    ],
+    "description": "A deep-fried pastry made by piping batter into hot fat to form a multi-layered nest, eaten for Vappu (May Day). It was made as a festive pastry in Finnish gentry homes from at least the 1700s and became a Vappu treat in the late 1800s; it was the first product of the Elanto bakery founded in Helsinki in 1907.",
+    "how_to_eat": "Eaten with sima on Vappu, around 1 May.",
+    "how_to_order": "Sold in bakeries and supermarkets in the weeks before 1 May.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fi.wikipedia.org/wiki/Tippaleip%C3%A4",
+    "source_urls": [
+      "https://fi.wikipedia.org/wiki/Tippaleip%C3%A4",
+      "https://en.wikipedia.org/wiki/Finnish_cuisine",
+      "https://en.wikipedia.org/wiki/Sima_(mead)"
+    ]
+  },
+  {
+    "id": "finland-sima",
+    "name": "Sima",
+    "local_name": "Sima",
+    "pronunciation": "SEE-ma",
+    "category": "drink",
+    "country": "Finland",
+    "state": "Helsinki & Uusimaa",
+    "regions": [],
+    "description": "A sweet, sparkling, low-alcohol fermented drink, traditionally a form of mead but now usually made with brown or white sugar or syrup, lemon and yeast, with raisins added to the bottles. It is associated with the Vappu (May Day) festival.",
+    "how_to_eat": "Drunk on Vappu with munkki doughnuts or tippaleipä.",
+    "how_to_order": "Bought in shops before 1 May or made at home.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sima_(mead)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sima_(mead)",
+      "https://en.wikivoyage.org/wiki/Finland"
+    ]
+  },
+  {
+    "id": "finland-aland-pancake",
+    "name": "Åland pancake",
+    "local_name": "Ålandspannkaka",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Finland",
+    "state": "Turku, Southwest & Åland",
+    "regions": [
+      "Åland",
+      "Mariehamn"
+    ],
+    "description": "An oven-baked pancake made with semolina (sometimes rice), eggs, sugar and cardamom. It is believed to have started in the Åland archipelago as a way of using leftover porridge, and is commonly served at public celebrations in Mariehamn on Åland's Autonomy Day, 9 June.",
+    "how_to_eat": "Served warm or cold with prune jam (sviskonkräm) and whipped cream.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%85land_pancake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/%C3%85land_pancake",
+      "https://en.wikipedia.org/wiki/Finnish_cuisine"
+    ]
+  },
+  {
+    "id": "finland-archipelago-bread",
+    "name": "Archipelago bread",
+    "local_name": "Saaristolaisleipä",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Finland",
+    "state": "Turku, Southwest & Åland",
+    "regions": [
+      "Turku archipelago",
+      "Åland"
+    ],
+    "description": "A dark, dense, sweet-sour bread, usually brick-shaped, baked from buttermilk or water, malt, rye and syrup on Finland's southwest coast and archipelago. It keeps for weeks or months, which made it a staple on long sailing trips; the traditional method took three days.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in large supermarkets across Finland and in small local shops in Southwest Finland and Åland.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fi.wikipedia.org/wiki/Saaristolaisleip%C3%A4",
+    "source_urls": [
+      "https://fi.wikipedia.org/wiki/Saaristolaisleip%C3%A4",
+      "https://en.wikivoyage.org/wiki/Finland"
+    ]
+  },
+  {
+    "id": "finland-aland-black-bread",
+    "name": "Åland black bread",
+    "local_name": "Svartbröd",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Finland",
+    "state": "Turku, Southwest & Åland",
+    "regions": [
+      "Åland"
+    ],
+    "description": "A heavy, sweet black bread eaten in Swedish-speaking Åland, similar to archipelago bread but round and flat. It is made from rye with a large amount of dark syrup.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikivoyage.org/wiki/Finland",
+      "https://en.wikipedia.org/wiki/Finnish_cuisine",
+      "https://fi.wikipedia.org/wiki/Saaristolaisleip%C3%A4"
+    ]
+  },
+  {
+    "id": "finland-mammi",
+    "name": "Mämmi",
+    "local_name": "Mämmi",
+    "pronunciation": "MAM-mee",
+    "category": "sweet",
+    "country": "Finland",
+    "state": "Turku, Southwest & Åland",
+    "regions": [],
+    "description": "An Easter dessert of water, rye flour, ground malted rye, salt and dried Seville orange zest, left to sweeten naturally and then baked until set and chilled for three to four days. It was first mentioned in the 16th century and is said to have been eaten in southwestern Finland since the 13th century; most mämmi today is factory-made and sweetened with molasses.",
+    "how_to_eat": "Eaten cold with milk or cream and sugar.",
+    "how_to_order": "Sold in supermarkets around Easter, in birch-bark-style boxes.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/M%C3%A4mmi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/M%C3%A4mmi",
+      "https://en.wikipedia.org/wiki/Finnish_cuisine"
+    ]
+  },
+  {
+    "id": "finland-mustamakkara",
+    "name": "Black sausage",
+    "local_name": "Mustamakkara",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Finland",
+    "state": "Tampere & Häme",
+    "regions": [
+      "Tampere"
+    ],
+    "description": "A blood sausage of ground pork, pig blood and crushed rye and flour stuffed into intestine casing, regarded as a speciality of Tampere and known to have been eaten since the 17th century. It is sold hot at Tampere's market squares, delivered straight from the factories.",
+    "how_to_eat": "Eaten warm with lingonberry jam.",
+    "how_to_order": "In Tampere ask for a money amount's worth (for example 'five euros' worth') or a 'meno-paluu' (round trip) for a whole U-shaped sausage; sold at Tammelantori, Laukontori and the Market Hall.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mustamakkara",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mustamakkara",
+      "https://visittampere.fi/en/articles/8-must-try-foods-from-finland-where-to-find-them-in-tampere/",
+      "https://en.wikivoyage.org/wiki/Tampere"
+    ]
+  },
+  {
+    "id": "finland-peremec",
+    "name": "Pärämätsi",
+    "local_name": "Pärämäts",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Finland",
+    "state": "Tampere & Häme",
+    "regions": [
+      "Tampere"
+    ],
+    "description": "A round deep-fried pie of Tatar origin with a strongly seasoned minced beef filling (traditionally lamb), its edges pleated over the filling so the centre stays open. It was first sold in Finland in the 1960s at the Siilinkari grill in Tampere, using a Finnish Tatar family recipe.",
+    "how_to_eat": "Eaten 'dry' with a spice mix or 'wet' with mustard or ketchup.",
+    "how_to_order": "Sold at grills, kiosks and bakeries in Tampere, including at the Market Hall.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fi.wikipedia.org/wiki/P%C3%A4r%C3%A4m%C3%A4ts",
+    "source_urls": [
+      "https://fi.wikipedia.org/wiki/P%C3%A4r%C3%A4m%C3%A4ts",
+      "https://visittampere.fi/en/articles/8-must-try-foods-from-finland-where-to-find-them-in-tampere/"
+    ]
+  },
+  {
+    "id": "finland-sahti",
+    "name": "Sahti",
+    "local_name": "Sahti",
+    "pronunciation": "SAH-tee",
+    "category": "drink",
+    "country": "Finland",
+    "state": "Tampere & Häme",
+    "regions": [
+      "Lammi",
+      "Sysmä",
+      "Kuhmoinen",
+      "Joutsa"
+    ],
+    "description": "A Finnish farmhouse ale made from malted and unmalted grains including barley and rye, traditionally flavoured with juniper and filtered through juniper twigs in a trough called a kuurna. It is cloudy, with low carbonation and often a banana-like flavour; it is known as Tavastian ale because many well-known sahti areas are in Häme. Commercial sahti is usually about 8% ABV and must be kept cold.",
+    "how_to_eat": null,
+    "how_to_order": "Not stocked in every shop because it must be stored cold; the Finnish sahti championship is held on the first weekend of August.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sahti",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sahti",
+      "https://www.ruokavirasto.fi/en/foodstuffs/food-sector/ainesosat-ja-sisalto/scheme-for-registration-of-names/"
+    ]
+  },
+  {
+    "id": "finland-munkki",
+    "name": "Finnish doughnut",
+    "local_name": "Munkki",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Finland",
+    "state": "Tampere & Häme",
+    "regions": [
+      "Tampere"
+    ],
+    "description": "A deep-fried bun of sweet pulla dough coated in sugar, traditionally eaten for Vappu (May Day) with sima. In Tampere doughnuts are eaten all year round, and the café at Pyynikki observation tower is known for them.",
+    "how_to_eat": "Eaten with coffee, or with sima on Vappu.",
+    "how_to_order": "Ask for one at the Pyynikki observation tower café or the Tampere Market Hall.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Finnish_cuisine",
+      "https://visittampere.fi/en/articles/8-must-try-foods-from-finland-where-to-find-them-in-tampere/"
+    ]
+  },
+  {
+    "id": "finland-korvapuusti",
+    "name": "Finnish cinnamon bun",
+    "local_name": "Korvapuusti",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Finland",
+    "state": "Tampere & Häme",
+    "regions": [
+      "Tampere"
+    ],
+    "description": "A bun of yeasted, often cardamom-flavoured wheat dough rolled with butter, cinnamon and sugar, cut on the slant and pressed in the middle so it spreads into an 'ear' shape (the name means 'slapped ear'), then brushed with egg and sprinkled with pearl sugar. Finland marks a national korvapuusti day on 4 October.",
+    "how_to_eat": "Eaten with coffee.",
+    "how_to_order": "Sold in cafés and bakeries; in Tampere guides point to Café Puusti and Café Siiri.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fi.wikipedia.org/wiki/Korvapuusti",
+    "source_urls": [
+      "https://fi.wikipedia.org/wiki/Korvapuusti",
+      "https://visittampere.fi/en/articles/8-must-try-foods-from-finland-where-to-find-them-in-tampere/",
+      "https://en.wikipedia.org/wiki/Finnish_cuisine"
+    ]
+  },
+  {
+    "id": "finland-kalakukko",
+    "name": "Kalakukko",
+    "local_name": "Kalakukko",
+    "pronunciation": "KA-la-kook-ko",
+    "category": "meal",
+    "country": "Finland",
+    "state": "Savo",
+    "regions": [
+      "Kuopio"
+    ],
+    "description": "A fish pie from Savo: fish such as vendace or perch, with pork and bacon, baked for several hours inside a thick rye crust until the fish bones soften. It is especially associated with Kuopio, which has many kalakukko bakeries and holds an annual baking contest. It has been registered as an EU Traditional Speciality Guaranteed since 2002.",
+    "how_to_eat": "Cut open the top crust, eat it with butter, then widen the hole and eat slices of crust with the filling; buttermilk is the traditional drink.",
+    "how_to_order": "Buy it at Kuopio Market Hall and market square, or at markets around Finland.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kalakukko",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kalakukko",
+      "https://en.wikivoyage.org/wiki/Kuopio",
+      "https://www.ruokavirasto.fi/en/foodstuffs/food-sector/ainesosat-ja-sisalto/scheme-for-registration-of-names/"
+    ]
+  },
+  {
+    "id": "finland-fried-vendace",
+    "name": "Fried vendace",
+    "local_name": "Paistetut muikut",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Finland",
+    "state": "Savo",
+    "regions": [
+      "Kuopio"
+    ],
+    "description": "Vendace (muikku), a small lake fish that is the main catch of Finland's inland commercial fishers, fried and sold as a staple at markets and festivals. Kuopio travel guides recommend it at local kiosks and restaurants, and Tampere sells it at summer market squares.",
+    "how_to_eat": "Usually served with mashed potatoes.",
+    "how_to_order": "Sold at summer market squares and kiosks, including in Kuopio and Tampere.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Finnish_cuisine",
+      "https://en.wikivoyage.org/wiki/Kuopio",
+      "https://en.wikivoyage.org/wiki/Finland",
+      "https://visittampere.fi/en/articles/8-must-try-foods-from-finland-where-to-find-them-in-tampere/",
+      "https://fi.wikipedia.org/wiki/Muikku"
+    ]
+  },
+  {
+    "id": "finland-lortsy",
+    "name": "Lörtsy",
+    "local_name": "Lörtsy",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Finland",
+    "state": "Savo",
+    "regions": [
+      "Savonlinna"
+    ],
+    "description": "A thin, flat, half-moon-shaped pastry from Savonlinna, filled either with meat and rice or with apple jam. The meat version was created in a Savonlinna kitchen in the 1950s and the apple version by a Savonlinna bakery in the 1980s; in December 2024 five Savonlinna bakeries applied for EU PGI protection for the name.",
+    "how_to_eat": "On the street a meat lörtsy can be folded around pickled cucumber, raw onion and optionally a sausage.",
+    "how_to_order": "Sold at Savonlinna market square and from street vendors and supermarkets elsewhere.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/L%C3%B6rtsy",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/L%C3%B6rtsy",
+      "https://fi.wikipedia.org/wiki/L%C3%B6rtsy"
+    ]
+  },
+  {
+    "id": "finland-mykyrokka",
+    "name": "Mykyrokka",
+    "local_name": "Mykyrokka",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Finland",
+    "state": "Savo",
+    "regions": [
+      "Heinola"
+    ],
+    "description": "A traditional soup from eastern Finland (Savo) with myky, palm-sized dumplings of blood and barley flour, cooked with potatoes, onions, fatty meat and offal such as kidney, liver or heart. It is also called tappaiskeitto ('butchery soup') after the autumn slaughtering season when it was made.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mykyrokka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mykyrokka",
+      "https://en.wikipedia.org/wiki/Finnish_cuisine"
+    ]
+  },
+  {
+    "id": "finland-mustikkakukko",
+    "name": "Savo blueberry pie",
+    "local_name": "Savolainen mustikkakukko",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Finland",
+    "state": "Savo",
+    "regions": [],
+    "description": "A traditional pastry of Northern and Southern Savo with a sealed rye-flour crust around a filling of wild blueberries (bilberries), also called rättänä. It received EU protected geographical indication status in 2025.",
+    "how_to_eat": "In Savo it is eaten with whipped cream at the coffee table.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://fi.wikipedia.org/wiki/Mustikkakukko",
+    "source_urls": [
+      "https://finland.representation.ec.europa.eu/uutiset/savolainen-mustikkakukko-sai-eun-nimisuojan-2025-05-22_fi",
+      "https://fi.wikipedia.org/wiki/Mustikkakukko"
+    ]
+  },
+  {
+    "id": "finland-karelian-pasty",
+    "name": "Karelian pasty",
+    "local_name": "Karjalanpiirakka",
+    "pronunciation": "KAR-ya-lan-pee-rak-ka",
+    "category": "snack",
+    "country": "Finland",
+    "state": "Karelia",
+    "regions": [],
+    "description": "Small open pasties from Karelia with a thin rye crust, today most often filled with rice porridge, or mashed potato or rice and carrot. Older versions used barley and talkkuna fillings. They have held EU Traditional Speciality Guaranteed status since 2003, so pasties not made to the traditional recipe must be sold under other names such as riisipiirakka.",
+    "how_to_eat": "Spread with egg butter (munavoi), butter mixed with chopped boiled egg, while hot.",
+    "how_to_order": "Sold in every supermarket, bakery and café across Finland.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Karelian_pasty",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Karelian_pasty",
+      "https://www.ruokavirasto.fi/en/foodstuffs/food-sector/ainesosat-ja-sisalto/scheme-for-registration-of-names/",
+      "https://visittampere.fi/en/articles/8-must-try-foods-from-finland-where-to-find-them-in-tampere/"
+    ]
+  },
+  {
+    "id": "finland-karelian-hot-pot",
+    "name": "Karelian hot pot",
+    "local_name": "Karjalanpaisti",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Finland",
+    "state": "Karelia",
+    "regions": [],
+    "description": "A meat stew from Karelia, usually of pork and beef (sometimes elk or lamb) braised slowly in a pot in the oven with black peppercorns, allspice, bay leaf and salt. It was voted Finland's national dish by Iltalehti readers in 2007 and came second to rye bread in a 2016 poll; it is often eaten on Independence Day and at Christmas.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Karelian_hot_pot",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Karelian_hot_pot",
+      "https://en.wikipedia.org/wiki/Finnish_cuisine"
+    ]
+  },
+  {
+    "id": "finland-sultsina",
+    "name": "Sultsina",
+    "local_name": "Sultsina",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Finland",
+    "state": "Karelia",
+    "regions": [
+      "Joensuu"
+    ],
+    "description": "A traditional Karelian pastry, between a crêpe and a flatbread: thin rounds of unleavened rye dough cooked on a hot pan, basted with melted butter, then spread with semolina porridge (or rice porridge), folded and cut in half. It does not keep well and is best eaten fresh.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at Joensuu market square and elsewhere in the region.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sultsina",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sultsina",
+      "https://en.wikipedia.org/wiki/Finnish_cuisine"
+    ]
+  },
+  {
+    "id": "finland-sara",
+    "name": "Särä",
+    "local_name": "Särä",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Finland",
+    "state": "Karelia",
+    "regions": [
+      "Lemi"
+    ],
+    "description": "A South Karelian dish of lamb and potatoes slow-roasted in a wood-fired oven in a wooden trough (also called särä), with salt as the only seasoning; peeled boiled potatoes are added near the end. The municipality of Lemi is known for it, and the Lemi särä tradition was added to Finland's national inventory of living heritage in 2023.",
+    "how_to_eat": "Served with barley rieska flatbread, kotikalja and water.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://fi.wikipedia.org/wiki/S%C3%A4r%C3%A4",
+    "source_urls": [
+      "https://fi.wikipedia.org/wiki/S%C3%A4r%C3%A4",
+      "https://en.wikipedia.org/wiki/Finnish_cuisine"
+    ]
+  },
+  {
+    "id": "finland-vety",
+    "name": "Vety and atomi meat pies",
+    "local_name": "Vety",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Finland",
+    "state": "Karelia",
+    "regions": [
+      "Lappeenranta"
+    ],
+    "description": "Two Lappeenranta variants of the Finnish lihapiirakka, a deep-fried pie of enriched yeast dough filled with minced meat and rice. A vety is filled with boiled egg and ham; an atomi has either ham or egg.",
+    "how_to_eat": "Usually eaten with ketchup, mustard and cucumber relish.",
+    "how_to_order": "Sold at grill kiosks and market stalls in Lappeenranta.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lihapiirakka",
+      "https://fi.wikipedia.org/wiki/Lihapiirakka"
+    ]
+  },
+  {
+    "id": "finland-leipajuusto",
+    "name": "Bread cheese",
+    "local_name": "Leipäjuusto",
+    "pronunciation": "LAY-pa-yoo-sto",
+    "category": "snack",
+    "country": "Finland",
+    "state": "Ostrobothnia & Kainuu",
+    "regions": [
+      "Kainuu"
+    ],
+    "description": "A fresh cheese traditionally made from cow's colostrum (commercially from cow's milk), set into a disc 2-3 cm thick and then baked, grilled or flambéed to give it brown marks. It originates in Southern Ostrobothnia, northern Finland and Kainuu, where it is called juustoleipä, and squeaks against the teeth when fresh.",
+    "how_to_eat": "Served in slices with coffee, in pieces with cloudberry jam, or warmed with cream, cinnamon and sugar.",
+    "how_to_order": "Sold in supermarkets and at market halls; ask for it with lakkahillo (cloudberry jam) as a dessert.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bread_cheese",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bread_cheese",
+      "https://visittampere.fi/en/articles/8-must-try-foods-from-finland-where-to-find-them-in-tampere/"
+    ]
+  },
+  {
+    "id": "finland-ronttonen",
+    "name": "Kainuu rönttönen",
+    "local_name": "Kainuun rönttönen",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Finland",
+    "state": "Ostrobothnia & Kainuu",
+    "regions": [
+      "Kainuu"
+    ],
+    "description": "A palm-sized open pie from Kainuu with a barley or rye crust and a filling of sweetened mashed potato and berries, most often lingonberry. Kainuun rönttönen has been registered as an EU protected geographical indication since 2008.",
+    "how_to_eat": "Typically served with coffee.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%B6ntt%C3%B6nen",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/R%C3%B6ntt%C3%B6nen",
+      "https://www.ruokavirasto.fi/en/foodstuffs/food-sector/ainesosat-ja-sisalto/scheme-for-registration-of-names/"
+    ]
+  },
+  {
+    "id": "finland-rossypottu",
+    "name": "Rössypottu",
+    "local_name": "Rössypottu",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Finland",
+    "state": "Ostrobothnia & Kainuu",
+    "regions": [
+      "Oulu"
+    ],
+    "description": "A stew from the Oulu region of potatoes, some pork and rössy, a blood bread made of blood, beer, rye flour and spices. It is little known in southern Finland and is locally called 'the pride of Oulu'.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%B6ssypottu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/R%C3%B6ssypottu",
+      "https://en.wikipedia.org/wiki/Finnish_cuisine"
+    ]
+  },
+  {
+    "id": "finland-klimppisoppa",
+    "name": "Dumpling soup",
+    "local_name": "Klimppisoppa",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Finland",
+    "state": "Ostrobothnia & Kainuu",
+    "regions": [],
+    "description": "A soup from Southern Ostrobothnia and Satakunta dating from the late 1800s: beef bones, shoulder or shank are boiled with root vegetables and onion, the broth is strained, and spoonfuls of a wheat-flour and egg dough are cooked in it until they float. Variants were named the parish dish of dozens of Finnish municipalities in the 1980s.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fi.wikipedia.org/wiki/Klimppisoppa",
+    "source_urls": [
+      "https://fi.wikipedia.org/wiki/Klimppisoppa",
+      "https://en.wikipedia.org/wiki/Finnish_cuisine"
+    ]
+  },
+  {
+    "id": "finland-sauteed-reindeer",
+    "name": "Finnish sautéed reindeer",
+    "local_name": "Poronkäristys",
+    "pronunciation": "PO-ron-ka-ris-tys",
+    "category": "meal",
+    "country": "Finland",
+    "state": "Lapland",
+    "regions": [],
+    "description": "The Finnish version of the Sámi-region dish of thinly sliced reindeer, cut while still frozen, fried in fat with salt and black pepper and then simmered with water, cream or beer until tender. In Finland it is usually served with pickled cucumber, which is less common in Sweden.",
+    "how_to_eat": "Eaten with mashed potatoes and lingonberry jam or raw lingonberries mashed with sugar.",
+    "how_to_order": "Found on restaurant menus throughout Lapland and on tourist menus elsewhere.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Saut%C3%A9ed_reindeer",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Saut%C3%A9ed_reindeer",
+      "https://en.wikivoyage.org/wiki/Lapland_(Finland)"
+    ]
+  },
+  {
+    "id": "finland-dried-reindeer",
+    "name": "Lapland dried reindeer meat",
+    "local_name": "Lapin Poron kuivaliha",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Finland",
+    "state": "Lapland",
+    "regions": [],
+    "description": "Whole reindeer muscles salted for 3-14 days and then dried outdoors under cover, giving dark, dense pieces 1-5 cm thick with low water and high protein content. It must come from reindeer born and raised in the Finnish reindeer husbandry area, between the 65th and 70th parallels, and be processed and packed there. It has been an EU Protected Designation of Origin since 2010.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in packs in shops in Lapland; check the label says poro (reindeer).",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://paliskunnat.fi/reindeer/wp-content/uploads/2015/05/lapin_poron_kuivaliha.pdf",
+      "https://www.ruokavirasto.fi/en/foodstuffs/food-sector/ainesosat-ja-sisalto/scheme-for-registration-of-names/",
+      "https://paliskunnat.fi/reindeer/reindeer-food/pdo-status/",
+      "https://en.wikivoyage.org/wiki/Lapland_(Finland)"
+    ]
+  },
+  {
+    "id": "finland-cold-smoked-reindeer",
+    "name": "Lapland cold-smoked reindeer meat",
+    "local_name": "Lapin Poron kylmäsavuliha",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Finland",
+    "state": "Lapland",
+    "regions": [],
+    "description": "Whole reindeer muscles cold-smoked into a dark red to almost black, fine-grained meat with a mild smoky, somewhat salty taste. Like other Lapland reindeer PDO products it must come from reindeer born and raised in the Finnish reindeer husbandry area and be processed there; it has been an EU Protected Designation of Origin since 2011.",
+    "how_to_eat": "Eaten thinly sliced as a cold cut.",
+    "how_to_order": "Sold as packaged cold cuts in Lapland; check the label says poro (reindeer).",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://paliskunnat.fi/reindeer/wp-content/uploads/2015/05/lapin_poron_kylmasavuliha.pdf",
+      "https://www.ruokavirasto.fi/en/foodstuffs/food-sector/ainesosat-ja-sisalto/scheme-for-registration-of-names/",
+      "https://paliskunnat.fi/reindeer/reindeer-food/pdo-status/",
+      "https://en.wikivoyage.org/wiki/Lapland_(Finland)"
+    ]
+  },
+  {
+    "id": "finland-salmon-soup",
+    "name": "Salmon soup",
+    "local_name": "Lohikeitto",
+    "pronunciation": "LO-hi-kay-to",
+    "category": "meal",
+    "country": "Finland",
+    "state": "Lapland",
+    "regions": [],
+    "description": "A creamy soup of salmon fillet, potatoes, carrots and leeks cooked in cream or whole milk and seasoned with dill, allspice, salt and black pepper. It is listed among Lapland's regional dishes and is eaten across Finland.",
+    "how_to_eat": "Served hot; soups like this are eaten as a lunch or dinner main course in Finland.",
+    "how_to_order": "Often on lunch menus throughout Finland.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lohikeitto",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lohikeitto",
+      "https://en.wikipedia.org/wiki/Finnish_cuisine",
+      "https://visittampere.fi/en/articles/8-must-try-foods-from-finland-where-to-find-them-in-tampere/"
+    ]
+  },
+  {
+    "id": "finland-rieska",
+    "name": "Rieska",
+    "local_name": "Rieska",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Finland",
+    "state": "Lapland",
+    "regions": [
+      "Ylivieska"
+    ],
+    "description": "An unleavened soft flatbread, usually of barley, sometimes rye, oat or potato, baked in the oven, on a pan or on a hot stone. It is described as traditional to Lapland, while milk rieska is a speciality of the Ylivieska area; the word means different breads in different parts of Finland.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fi.wikipedia.org/wiki/Rieska",
+    "source_urls": [
+      "https://fi.wikipedia.org/wiki/Rieska",
+      "https://en.wikivoyage.org/wiki/Lapland_(Finland)",
+      "https://en.wikipedia.org/wiki/Finnish_bread"
+    ]
+  }
+]
