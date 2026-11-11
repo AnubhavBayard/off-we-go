@@ -1,0 +1,944 @@
+[
+  {
+    "id": "ethiopia-injera",
+    "name": "Injera",
+    "local_name": "እንጀራ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "Addis Ababa",
+    "regions": [],
+    "description": "Sour, fermented, spongy flatbread traditionally made from teff flour and water, fermented with a starter called ersho from earlier batches. It is the staple base of most Ethiopian meals; teff is gluten-free, but injera is often made with or mixed with barley, wheat, sorghum, maize or rice depending on region and price.",
+    "how_to_eat": "Tear off pieces with the right hand and use them to scoop up stews served on top.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Injera",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Injera",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-doro-wat",
+    "name": "Doro wat",
+    "local_name": "ዶሮ ወጥ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "Addis Ababa",
+    "regions": [],
+    "description": "Spicy chicken stew cooked with berbere and niter kibbeh (spiced clarified butter), often with whole peeled hard-boiled eggs. Wikipedia calls it the national dish; it takes about 10 hours to prepare and is eaten on special occasions.",
+    "how_to_eat": "Eaten from a shared platter of injera.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wat_(food)",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-tibs",
+    "name": "Tibs",
+    "local_name": "ጥብስ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "Addis Ababa",
+    "regions": [],
+    "description": "Pieces of beef, mutton or goat sautéed with onions and vegetables, ranging from mild to hot. An 18th-century visitor described it as grilled meat served to honour a guest, and it is still prepared for special events and holidays.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-yetsom-beyaynetu",
+    "name": "Yetsom beyaynetu (fasting platter)",
+    "local_name": "የጾም በያይነቱ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "Addis Ababa",
+    "regions": [],
+    "description": "An assortment of stews and vegetable dishes served together on injera; beyaynetu means 'various' or 'assorted'. The fasting (yetsom) version contains no meat or dairy, following Ethiopian Orthodox fasting rules; a meat version is called beyaynetu besiga.",
+    "how_to_eat": "Share it from one large injera, scooping each dish with torn injera.",
+    "how_to_order": "Ask for yetsom (fasting) beyaynetu for the meat- and dairy-free version.",
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beyaynetu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Beyaynetu",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-shiro",
+    "name": "Shiro",
+    "local_name": "ሽሮ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "Addis Ababa",
+    "regions": [],
+    "description": "Stew of powdered chickpeas or broad beans cooked with onions, garlic and, by region, ginger, tomato and chilli; it originated in northern Ethiopia and southern Eritrea. It is vegan in its basic form and is eaten during fasting seasons; versions with niter kibbeh or meat (bozena shiro) are not.",
+    "how_to_eat": "Served atop injera; tegabino shiro comes bubbling in a small clay pot.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shiro_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shiro_(food)"
+    ]
+  },
+  {
+    "id": "ethiopia-misir-wat",
+    "name": "Misir wat",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "Addis Ababa",
+    "regions": [],
+    "description": "Stew of split red lentils cooked with garlic, onions and spices. Wikipedia describes it as a popular vegan dish in high demand during Orthodox Christian fasting periods.",
+    "how_to_eat": "Eaten with injera.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wat_(food)",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-gored-gored",
+    "name": "Gored gored",
+    "local_name": "ጎረድ ጎረድ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "Addis Ababa",
+    "regions": [],
+    "description": "Raw beef cut into cubes and left unmarinated, unlike minced kitfo; the fat is usually left on. It is considered a national dish and is eaten at festive occasions.",
+    "how_to_eat": "Served with injera, mitmita, awaze chilli paste and lemon wedges.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gored_gored",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gored_gored",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-buna",
+    "name": "Buna (coffee ceremony)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Ethiopia",
+    "state": "Addis Ababa",
+    "regions": [],
+    "description": "Coffee roasted over a flame in front of guests, ground in a wooden mortar (mukecha) and boiled in a clay pot (jebena), then poured into small handleless cups over three rounds: abol, tona and bereka. Ethiopia is within the native range of Arabica coffee, and the ceremony is a daily social ritual.",
+    "how_to_eat": "Usually taken with sugar; in the countryside sometimes with salt or butter, alongside popcorn, kolo or himbasha.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Coffee_ceremony_of_Ethiopia_and_Eritrea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Coffee_ceremony_of_Ethiopia_and_Eritrea",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine",
+      "https://en.wikipedia.org/wiki/Coffee_production_in_Ethiopia"
+    ]
+  },
+  {
+    "id": "ethiopia-tej",
+    "name": "Tej",
+    "local_name": "ጠጅ",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Ethiopia",
+    "state": "Amhara & North",
+    "regions": [],
+    "description": "Honey wine brewed from honey, water and gesho (Rhamnus prinoides) leaves, usually 7-11% alcohol. It is considered Ethiopia's national drink, is linked to the Amhara, and is served at festivals, weddings and Enkutatash (New Year).",
+    "how_to_eat": "Served in a flask-like glass called a berele.",
+    "how_to_order": "Found in a tej bet (tej house).",
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tej",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tej",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-tella",
+    "name": "Tella",
+    "local_name": "ጠላ",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Ethiopia",
+    "state": "Amhara & North",
+    "regions": [],
+    "description": "Traditional home-brewed beer from the Amhara Region made from barley or teff (sometimes wheat, sorghum or maize) fermented with dried gesho leaves in a smoked clay pot. It is around 2-4% alcohol and is the most common drink served in households during holidays.",
+    "how_to_eat": null,
+    "how_to_order": "Served in a tella bet (tella house).",
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tella",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tella",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-injera-firfir",
+    "name": "Injera fir-fir",
+    "local_name": "ፍርፍር",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "Amhara & North",
+    "regions": [],
+    "description": "Breakfast of shredded injera mixed with a sauce of niter kibbeh, berbere and onions; leftover wat is also used. Wikipedia's Ethiopian cuisine page lists fir-fir among Amhara dishes; variants add meat or boiled egg.",
+    "how_to_eat": "Eaten with a spoon from a bowl or with the right hand on another piece of injera.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fit-fit",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fit-fit",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-anebabero",
+    "name": "Anebabero",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "Amhara & North",
+    "regions": [],
+    "description": "Layered thick injera soaked in butter and a spiced berbere mixture, listed among Amhara dishes.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-lake-tana-fried-fish",
+    "name": "Lake Tana fried fish",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Ethiopia",
+    "state": "Amhara & North",
+    "regions": [
+      "Bahir Dar"
+    ],
+    "description": "Nile tilapia from Lake Tana fried whole in roadside shacks in Bahir Dar; restaurants serve it with injera or rice. Asa (fish) is also a standard wat ingredient in Ethiopian cooking.",
+    "how_to_eat": "Eaten by hand, dipped in berbere or vinegar; shacks do not serve injera.",
+    "how_to_order": "Look for the streetside fish shacks a few blocks back from the lakeshore.",
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://new-faces-new-places.com/2016/11/27/bahir-dar-seafood-ethiopia-travel-blog/",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-dabo-kolo",
+    "name": "Dabo kolo",
+    "local_name": "ዳቦ ቆሎ",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Ethiopia",
+    "state": "Amhara & North",
+    "regions": [],
+    "description": "Small pieces of spiced dough cut from rolls and fried or baked, sometimes sweetened with honey. It is sold in paper cones by kiosks and street vendors and is made for Ethiopian New Year.",
+    "how_to_eat": null,
+    "how_to_order": "Sold by kiosks and street vendors in paper cones.",
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dabo_kolo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dabo_kolo",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-kolo",
+    "name": "Kolo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Ethiopia",
+    "state": "Amhara & North",
+    "regions": [],
+    "description": "Roasted barley, sometimes mixed with peanuts, chickpeas or safflower kernels. It is sold by kiosks and street vendors and served as a snack during the coffee ceremony.",
+    "how_to_eat": null,
+    "how_to_order": "Sold wrapped in a paper cone by kiosks and street vendors.",
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine",
+      "https://en.wikipedia.org/wiki/Dabo_kolo"
+    ]
+  },
+  {
+    "id": "ethiopia-tihlo",
+    "name": "Tihlo",
+    "local_name": "ጥሕሎ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "Tigray",
+    "regions": [],
+    "description": "Dish from the historical Agame province of Tigray: balls of moistened roasted barley dough set around a bowl of spicy meat stew made with berbere. It is served as a snack or side dish and on cultural holidays.",
+    "how_to_eat": "Spear each ball with a two-pronged wooden fork (shint'ar) and dip it in the stew.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tihlo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tihlo"
+    ]
+  },
+  {
+    "id": "ethiopia-siwa",
+    "name": "Siwa",
+    "local_name": "ሰዋ",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Ethiopia",
+    "state": "Tigray",
+    "regions": [],
+    "description": "Tigray's home-brewed beer made from water, toasted flatbread (barley in the highlands; sorghum, finger millet or maize in the lowlands), yeast and gesho leaves, fermented for a few days. It is 2-5% alcohol with a smoky, sour taste; a stronger version is called meknen.",
+    "how_to_eat": "Served in clay beakers, gourds or horns, sometimes with bread pieces floating on top.",
+    "how_to_order": "Served in traditional beer houses (enda siwa).",
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Siwa_(beer)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Siwa_(beer)"
+    ]
+  },
+  {
+    "id": "ethiopia-gaat",
+    "name": "Ga'at (genfo)",
+    "local_name": "ጋዓት",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "Tigray",
+    "regions": [],
+    "description": "Stiff porridge of barley or wheat flour, stirred continuously while cooking, called ga'at in Tigrinya and genfo in Amharic. It is shaped into a mound with a hollow in the centre filled with niter kibbeh and berbere, and is a common breakfast.",
+    "how_to_eat": "Break off pieces by hand or with a spoon and dip them in the butter-berbere centre.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Genfo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Genfo",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-himbasha",
+    "name": "Himbasha",
+    "local_name": "ሕምባሻ",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Ethiopia",
+    "state": "Tigray",
+    "regions": [],
+    "description": "Slightly sweet celebration bread (ambasha in Amharic) scored into a wheel pattern with spokes before baking. Common additions include ground cardamom, ginger or candied orange; it is also served with coffee.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Himbasha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Himbasha",
+      "https://en.wikipedia.org/wiki/Coffee_ceremony_of_Ethiopia_and_Eritrea"
+    ]
+  },
+  {
+    "id": "ethiopia-chechebsa",
+    "name": "Chechebsa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "Oromia, Harar & East",
+    "regions": [],
+    "description": "Shredded unleavened kitta flatbread fried with berbere and niter kibbeh; also called kita fir-fir, it is widely known by its Oromo name and listed among Oromo dishes. A common breakfast.",
+    "how_to_eat": "Eaten with a spoon, sometimes with plain yogurt.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fit-fit",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-hanid",
+    "name": "Hanid",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "Oromia, Harar & East",
+    "regions": [
+      "Harar"
+    ],
+    "description": "Harari dish of goat meat steamed slowly overnight in a pot made from termite-mound soil. It is served with a dipping sauce of tamarind, lime, water and berbere.",
+    "how_to_eat": "Dip the meat in the tamarind-berbere sauce.",
+    "how_to_order": "Served late morning (around 10-11:30am) and sells out quickly.",
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://peopleimeetandfoodtheyeat.com/2018/03/12/harar-street-food-what-where-and-when-to-eat-it/"
+    ]
+  },
+  {
+    "id": "ethiopia-hulbat-marakh",
+    "name": "Hulbat marakh (abish)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "Oromia, Harar & East",
+    "regions": [
+      "Harar"
+    ],
+    "description": "Harari stew of meat and potatoes in a slightly tart broth of fenugreek, tomato and onions, traditionally made without butter or berbere. It is described as the national dish of the Harari people; hulbat marakh means 'fenugreek broth'.",
+    "how_to_eat": "Tear injera into pieces and soak them in the broth.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://allaboutethio.com/rhabish.html",
+      "https://peopleimeetandfoodtheyeat.com/2018/03/12/harar-street-food-what-where-and-when-to-eat-it/"
+    ]
+  },
+  {
+    "id": "ethiopia-ful",
+    "name": "Ful (Harar breakfast)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "Oromia, Harar & East",
+    "regions": [
+      "Harar"
+    ],
+    "description": "Slow-cooked fava beans crushed to a coarse paste, served with toppings such as onion, tomato, green chilli, yogurt, cheese, berbere and cumin. In Harar it is a breakfast dish, with the components brought separately so diners mix them, served with bread rolls.",
+    "how_to_eat": "Eaten by hand with a bread roll.",
+    "how_to_order": "Served at breakfast (about 7-9am) and again in the evening.",
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shahan_ful",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shahan_ful",
+      "https://peopleimeetandfoodtheyeat.com/2018/03/12/harar-street-food-what-where-and-when-to-eat-it/",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-fetira",
+    "name": "Fetira",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Ethiopia",
+    "state": "Oromia, Harar & East",
+    "regions": [
+      "Harar"
+    ],
+    "description": "Thin pancake-style bread layered with omelette, tomato, onion, garlic and green chilli, cooked over hot coals. It is sold as street food across Ethiopia; elsewhere it is eaten with honey for breakfast.",
+    "how_to_eat": null,
+    "how_to_order": "Choose how many eggs you want, and whether it is served chopped or scrambled.",
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://peopleimeetandfoodtheyeat.com/2018/03/12/harar-street-food-what-where-and-when-to-eat-it/",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-wosla",
+    "name": "Wosla",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "Oromia, Harar & East",
+    "regions": [
+      "Babille"
+    ],
+    "description": "Camel-meat dish of Somali origin found in Babille, near Harar: roasted camel meat and hump fat with a spiced camel-stock soup, rice and kondo, a black-sesame spice mix.",
+    "how_to_eat": "Washed down with tea made with camel milk; one portion feeds about three people.",
+    "how_to_order": "Served at lunchtime on Babille market days (Monday and Thursday).",
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://peopleimeetandfoodtheyeat.com/2018/03/12/harar-street-food-what-where-and-when-to-eat-it/"
+    ]
+  },
+  {
+    "id": "ethiopia-kuti",
+    "name": "Kuti (coffee-leaf tea)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Ethiopia",
+    "state": "Oromia, Harar & East",
+    "regions": [
+      "Harar"
+    ],
+    "description": "Infusion of boiled coffee leaves, called kuti by the Harari; seasonings vary widely and include sugar, salt, rue, hot peppers and ginger.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-kitfo",
+    "name": "Kitfo",
+    "local_name": "ክትፎ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "South (Gurage & Sidama)",
+    "regions": [],
+    "description": "Minced raw beef marinated in mitmita chilli powder and niter kibbeh, originating among the Gurage people; lightly cooked it is called kitfo leb leb. It is served on holidays such as Meskel.",
+    "how_to_eat": "Traditionally eaten with kocho, ayibe cheese and gomen (greens); elsewhere with injera.",
+    "how_to_order": "Ask for leb leb if you want it lightly cooked.",
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kitfo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kitfo",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-kocho",
+    "name": "Kocho",
+    "local_name": "ቆጮ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "South (Gurage & Sidama)",
+    "regions": [],
+    "description": "Dense, sour bread-like food made from the scraped and pulped pseudo-stem and corm of the enset (false banana), fermented for weeks to months and stored underground. It is a staple in parts of southern Ethiopia, used in place of or alongside injera, and is gluten-free.",
+    "how_to_eat": "Used to scoop other foods such as kitfo, gomen and ayibe.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kocho_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kocho_(food)",
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine",
+      "https://en.wikipedia.org/wiki/Ensete_ventricosum"
+    ]
+  },
+  {
+    "id": "ethiopia-gomen-kitfo",
+    "name": "Gomen kitfo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "South (Gurage & Sidama)",
+    "regions": [],
+    "description": "Gurage dish of collard greens (gomen) boiled, dried and finely chopped, then served with butter, chilli and spices. It is prepared specially for Meskel.",
+    "how_to_eat": "Served with ayibe or kitfo in the Meskel tradition called dengesa.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-ayibe",
+    "name": "Ayibe",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Ethiopia",
+    "state": "South (Gurage & Sidama)",
+    "regions": [],
+    "description": "Mild, crumbly fresh cheese made from buttermilk curds, close in texture to crumbled feta. It is served as a side to soften spicy food and, in Gurage cuisine, is mixed with mild or hot spices.",
+    "how_to_eat": "Eat alongside kitfo or spicy stews.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine",
+      "https://en.wikipedia.org/wiki/Kitfo"
+    ]
+  },
+  {
+    "id": "ethiopia-bulla",
+    "name": "Bulla",
+    "local_name": "ቡላ",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Ethiopia",
+    "state": "South (Gurage & Sidama)",
+    "regions": [],
+    "description": "Hot drink made from powdered enset root, part of the enset-based cooking of southern Ethiopia. It is often given to people who are tired or ill.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-borasaame",
+    "name": "Borasaame",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "South (Gurage & Sidama)",
+    "regions": [
+      "Sidama"
+    ],
+    "description": "Sidama dish of wassa (fermented enset) cooked with butter, sometimes with Ethiopian mustard greens or beans; a maize version is called badela borasaame. It is served at funerals and at Fichee Chambalaalla, the Sidama new year.",
+    "how_to_eat": "Eaten by hand using a false banana leaf, from a ceramic vessel (shafeta), with the yogurt drink wätät.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-amulcho",
+    "name": "Amulcho",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ethiopia",
+    "state": "South (Gurage & Sidama)",
+    "regions": [
+      "Sidama"
+    ],
+    "description": "Sidama enset flatbread used like injera to eat stews of beef, mushrooms, beans, gomen or pumpkin. In gomen ba siga it is layered over stewed beef and Ethiopian mustard greens.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  },
+  {
+    "id": "ethiopia-borde",
+    "name": "Borde",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Ethiopia",
+    "state": "South (Gurage & Sidama)",
+    "regions": [],
+    "description": "Cereal-based traditional fermented beverage associated with southern Ethiopia; it is non-alcoholic according to Wikipedia's Ethiopian cuisine page.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ETB",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ethiopian_cuisine"
+    ]
+  }
+]

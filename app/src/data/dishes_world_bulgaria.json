@@ -1,0 +1,1094 @@
+[
+  {
+    "id": "bulgaria-banitsa",
+    "name": "Banitsa",
+    "local_name": "Баница",
+    "pronunciation": "BAH-nee-tsa",
+    "category": "snack",
+    "country": "Bulgaria",
+    "state": "Sofia & West",
+    "regions": [],
+    "description": "A pie of filo sheets layered with a filling of whisked eggs, plain yogurt and crumbled white brined cheese (sirene), baked in the oven. It is treated as a symbol of Bulgarian cuisine: at Christmas and on New Year's Eve families bake kasmeti (lucky charms such as dogwood twigs or coins) into it and spin the tray to share out the pieces.",
+    "how_to_eat": "Eat it for breakfast, hot or cold, with plain yogurt, ayran or boza.",
+    "how_to_order": "Besides the cheese version, ask for spanachnik (with spinach), tikvenik (pumpkin) or mlechna banitsa (sweet, with milk).",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Banitsa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Banitsa",
+      "https://visitbulgaria.com/about-bulgaria/traditional-cuisine/"
+    ]
+  },
+  {
+    "id": "bulgaria-shopska-salad",
+    "name": "Shopska salad",
+    "local_name": "Шопска салата",
+    "pronunciation": "SHOP-ska",
+    "category": "snack",
+    "country": "Bulgaria",
+    "state": "Sofia & West",
+    "regions": [],
+    "description": "Chopped tomatoes, cucumbers, onion and raw or roasted peppers, salted, dressed with sunflower or olive oil and covered with a thick layer of grated sirene cheese. It is named after Shopluk, the westernmost Bulgarian region, but was created by the state tourism company Balkantourist in 1956 and first served on the Black Sea coast near Varna; it became a national culinary symbol in the 1970s and 1980s.",
+    "how_to_eat": "Eat it as a starter, traditionally with a glass of rakia.",
+    "how_to_order": "In restaurants the oil and vinegar dressing is usually brought separately.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shopska_salad",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shopska_salad",
+      "https://www.inyourpocket.com/bulgaria/articles/bulgarian-cuisine"
+    ]
+  },
+  {
+    "id": "bulgaria-tarator",
+    "name": "Tarator (cold yogurt soup)",
+    "local_name": "Таратор",
+    "pronunciation": "ta-ra-TOR",
+    "category": "meal",
+    "country": "Bulgaria",
+    "state": "Sofia & West",
+    "regions": [],
+    "description": "A cold soup of yogurt thinned with water, with finely chopped or grated cucumber, oil, dill, salt and crushed garlic, often topped with ground walnuts. This yogurt form took shape in Bulgaria in the mid-20th century; before that the name covered a wider group of cold vinegar-, walnut- or tahini-based soups and sauces.",
+    "how_to_eat": "Eat it chilled as a summer soup.",
+    "how_to_order": "Ask whether walnuts are added if you avoid nuts.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://bg.wikipedia.org/wiki/Таратор",
+    "source_urls": [
+      "https://bg.wikipedia.org/wiki/Таратор",
+      "https://www.inyourpocket.com/bulgaria/articles/bulgarian-cuisine",
+      "https://visiteurope.com/experiences/bulgarias-famous-flavors"
+    ]
+  },
+  {
+    "id": "bulgaria-kebapche",
+    "name": "Kebapche",
+    "local_name": "Кебапче",
+    "pronunciation": "ke-BAP-che",
+    "category": "meal",
+    "country": "Bulgaria",
+    "state": "Sofia & West",
+    "regions": [],
+    "description": "Elongated cylinders of minced meat, usually a pork and beef mix (sometimes only pork), seasoned with black pepper, cumin and salt and always grilled, never fried or baked. The name means 'little kebab'; it is close to the former Yugoslav ćevapčići but the Bulgarian version is typically larger.",
+    "how_to_eat": "Eat it with chips covered in grated sirene, lyutenitsa as a dip and a beer.",
+    "how_to_order": "The classic order is 'troika kebapcheta s garnitura' (three kebapcheta with sides), or a meshana skara (mixed grill) plate that includes them.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kebapche",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kebapche",
+      "https://en.wikipedia.org/wiki/Bulgarian_cuisine"
+    ]
+  },
+  {
+    "id": "bulgaria-boza",
+    "name": "Boza",
+    "local_name": "Боза",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Bulgaria",
+    "state": "Sofia & West",
+    "regions": [
+      "Radomir"
+    ],
+    "description": "A thick fermented grain drink with low alcohol (around 1%) and a slightly acidic, sweet flavour. In Bulgaria the most popular recipes come from Radomir and Lyubimets, and it is drunk year-round as a refreshing beverage.",
+    "how_to_eat": "Drink it at breakfast alongside a slice of banitsa.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boza",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Boza",
+      "https://en.wikipedia.org/wiki/Bulgarian_cuisine",
+      "https://en.wikipedia.org/wiki/Banitsa"
+    ]
+  },
+  {
+    "id": "bulgaria-kiselo-mlyako",
+    "name": "Bulgarian yogurt (kiselo mlyako)",
+    "local_name": "Българско кисело мляко",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Bulgaria",
+    "state": "Sofia & West",
+    "regions": [],
+    "description": "Soured milk made in Bulgaria from sheep's, cow's, buffalo's or goat's milk, or a mix, fermented by Lactobacillus delbrueckii subsp. bulgaricus together with Streptococcus thermophilus. It is more acidic than similar products and has a creamy consistency; the name is an EU protected designation of origin (2023), and yogurt goes into many Bulgarian dishes, from tarator to banitsa.",
+    "how_to_eat": "Eat it plain, or in dishes such as tarator and banitsa.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://bg.wikipedia.org/wiki/Кисело_мляко",
+    "source_urls": [
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/18941?lang=EN",
+      "https://publications.europa.eu/resource/celex/52023XC0405(02)",
+      "https://en.wikipedia.org/wiki/Bulgarian_cuisine"
+    ]
+  },
+  {
+    "id": "bulgaria-sirene",
+    "name": "Sirene (Bulgarian white brine cheese)",
+    "local_name": "Българско бяло саламурено сирене",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Bulgaria",
+    "state": "Sofia & West",
+    "regions": [],
+    "description": "A white cheese matured in brine, made from cow's, sheep's, goat's or buffalo milk or a mix, moderately salty with a pronounced lactic flavour. 'Bulgarsko byalo salamureno sirene' was registered as an EU protected designation of origin in 2023, and the cheese tops shopska salad and fills banitsa, stuffed peppers and many other dishes.",
+    "how_to_eat": "Eat it as a table cheese, grated over salads and chips, or baked in pastries.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sirene",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sirene",
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/18940?lang=EN",
+      "https://publications.europa.eu/resource/celex/52023XC0413(04)"
+    ]
+  },
+  {
+    "id": "bulgaria-lyutenitsa",
+    "name": "Lyutenitsa",
+    "local_name": "Лютеница",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Bulgaria",
+    "state": "Sofia & West",
+    "regions": [],
+    "description": "A vegetable relish based on red peppers and tomatoes, with carrots, aubergines, garlic, oil, sugar and salt in many recipes; it can be smooth or chunky, mild or hot. The name means 'spicy', and industrial production has spread it beyond the Balkans.",
+    "how_to_eat": "Spread it on bread and top it with white cheese, or use it as a dip for kebapche.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lyutenitsa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lyutenitsa",
+      "https://en.wikipedia.org/wiki/Bulgarian_cuisine",
+      "https://en.wikipedia.org/wiki/Kebapche"
+    ]
+  },
+  {
+    "id": "bulgaria-mekitsa",
+    "name": "Mekitsa",
+    "local_name": "Мекица",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Bulgaria",
+    "state": "Sofia & West",
+    "regions": [],
+    "description": "Deep-fried rounds of risen dough made with flour, eggs, yogurt, water, salt and a leavening agent. The name comes from the Slavic root 'mek' (soft); regional recipes differ, from yogurt and baking soda in Silistra to yeast and milk in Aytos.",
+    "how_to_eat": "Eat them hot for breakfast, dusted with icing sugar or topped with jam, honey or sirene.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mekitsa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mekitsa",
+      "https://bg.wikipedia.org/wiki/Мекица"
+    ]
+  },
+  {
+    "id": "bulgaria-lukanka-panagyurska",
+    "name": "Lukanka Panagyurska (Panagyurishte salami)",
+    "local_name": "Луканка Панагюрска",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Bulgaria",
+    "state": "Plovdiv & Thrace",
+    "regions": [
+      "Panagyurishte"
+    ],
+    "description": "A pressed raw-cured salami of 60% beef (or buffalo) and 40% pork, seasoned only with black or white pepper and cumin and dried in a natural or artificial casing; the cut surface is red to brownish red and dotted with small pieces of fat. Its recipe has been fixed since a 1983 standard, and the name is an EU Traditional Speciality Guaranteed.",
+    "how_to_eat": "Slice it thinly and serve it cold as an appetizer.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lukanka",
+    "source_urls": [
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/14287?lang=EN",
+      "https://publications.europa.eu/resource/celex/52014XC0328(02)",
+      "https://en.wikipedia.org/wiki/Lukanka"
+    ]
+  },
+  {
+    "id": "bulgaria-yaytsa-po-panagyurski",
+    "name": "Panagyurishte-style eggs",
+    "local_name": "Яйца по панагюрски",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Bulgaria",
+    "state": "Plovdiv & Thrace",
+    "regions": [
+      "Panagyurishte"
+    ],
+    "description": "Poached eggs served over crumbled sirene and covered with a sauce of yogurt and garlic, with parsley and sometimes walnuts. It is a popular way of serving sirene.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sirene",
+      "https://bg.wikipedia.org/wiki/Яйца_по_панагюрски",
+      "https://en.wikipedia.org/wiki/Bulgarian_cuisine"
+    ]
+  },
+  {
+    "id": "bulgaria-kayserovan-vrat-trakiya",
+    "name": "Kayserovan vrat Trakiya (spiced cured pork neck)",
+    "local_name": "Кайсерован врат Тракия",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Bulgaria",
+    "state": "Plovdiv & Thrace",
+    "regions": [
+      "Plovdiv"
+    ],
+    "description": "Boneless pork collar that is salted, pressed repeatedly while curing and coated with a 'Kaiser mixture' of red peppers, fenugreek, garlic and white wine, giving it a brownish-red crust. Its recipe and technique were set down in 1980 by researchers in Plovdiv, and the name is an EU Traditional Speciality Guaranteed.",
+    "how_to_eat": "It needs no cooking; eat it sliced.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/16956?lang=EN",
+      "https://publications.europa.eu/resource/celex/52014XC0314(02)"
+    ]
+  },
+  {
+    "id": "bulgaria-mavrud",
+    "name": "Mavrud wine",
+    "local_name": "Мавруд",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Bulgaria",
+    "state": "Plovdiv & Thrace",
+    "regions": [
+      "Asenovgrad",
+      "Perushtitsa"
+    ],
+    "description": "Red wine from Mavrud, a low-yielding, late-ripening grape native to the Balkans and grown in Bulgaria's Thrace region, mainly around Asenovgrad and Perushtitsa. It gives tannic, spicy wines that can age, and a local legend ties the replanting of vineyards under Khan Krum to a young man named Mavrud.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mavrud",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mavrud",
+      "https://visitbulgaria.com/about-bulgaria/traditional-cuisine/"
+    ]
+  },
+  {
+    "id": "bulgaria-sarmi",
+    "name": "Sarmi (Bulgarian stuffed leaves)",
+    "local_name": "Сарми",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Bulgaria",
+    "state": "Plovdiv & Thrace",
+    "regions": [],
+    "description": "Rice filling, with or without minced meat, onion and spices, rolled in vine leaves or fresh or pickled cabbage leaves and simmered until the rice is soft. Stuffed cabbage and vine leaves are very popular in Thrace, where Visit Europe names stanimashki sarmi (vine-leaf rolls) as a local dish; on Christmas Eve the meatless version is traditional.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://bg.wikipedia.org/wiki/Сарми",
+    "source_urls": [
+      "https://bg.wikipedia.org/wiki/Сарми",
+      "https://visitbulgaria.com/about-bulgaria/traditional-cuisine/",
+      "https://visiteurope.com/experiences/bulgarias-famous-flavors",
+      "https://en.wikipedia.org/wiki/Bulgarian_cuisine"
+    ]
+  },
+  {
+    "id": "bulgaria-tahan-halva",
+    "name": "Tahan halva",
+    "local_name": "Тахан халва",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Bulgaria",
+    "state": "Plovdiv & Thrace",
+    "regions": [
+      "Haskovo"
+    ],
+    "description": "A confection of tahini, sugar and flavourings; in Bulgaria it is most often made from sunflower tahini, though sesame versions are also sold. Haskovo and Yablanitsa are traditionally known for producing it.",
+    "how_to_eat": null,
+    "how_to_order": "Check the label for sunflower or sesame tahini.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bulgarian_cuisine",
+      "https://bg.wikipedia.org/wiki/Халва"
+    ]
+  },
+  {
+    "id": "bulgaria-patatnik",
+    "name": "Patatnik (Rhodope potato pie)",
+    "local_name": "Пататник",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Bulgaria",
+    "state": "Rhodopes",
+    "regions": [
+      "Smolyan"
+    ],
+    "description": "Grated potatoes, onions, salt and a mild local mint (gyosum) mixed and cooked slowly, either as one mass or between two sheets of the potato mixture, and flipped when the bottom is done. It is traditional across the Rhodopes from Bansko to Chernichevo; the name comes from the local dialect word 'patato' (potato), and adding cheese or eggs is a non-traditional variation.",
+    "how_to_eat": "Eat it sliced like a pie, with a spoonful of yogurt if you like.",
+    "how_to_order": "Look for it in Smolyan and the villages around Shiroka Laka.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Patatnik",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Patatnik",
+      "https://visitbulgaria.com/about-bulgaria/traditional-cuisine/",
+      "https://www.guidebg.com/?p=49567"
+    ]
+  },
+  {
+    "id": "bulgaria-rodopski-klin",
+    "name": "Rodopski klin (Rhodope rice pie)",
+    "local_name": "Родопски клин",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Bulgaria",
+    "state": "Rhodopes",
+    "regions": [
+      "Smolyan"
+    ],
+    "description": "A Rhodope banitsa: rice boiled with butter and mixed with eggs and sirene, enclosed between two thin hand-rolled pastry sheets and cooked on a stovetop or wood stove, turned once to brown both sides.",
+    "how_to_eat": "Eat it warm, with yogurt on the side.",
+    "how_to_order": "Ask for klin in Smolyan and Shiroka Laka.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://bg.wikipedia.org/wiki/Родопски_клин",
+    "source_urls": [
+      "https://bg.wikipedia.org/wiki/Родопски_клин",
+      "https://visiteurope.com/experiences/bulgarias-famous-flavors",
+      "https://www.guidebg.com/?p=49567"
+    ]
+  },
+  {
+    "id": "bulgaria-smilyan-beans",
+    "name": "Smilyan beans",
+    "local_name": "Смилянски фасул",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Bulgaria",
+    "state": "Rhodopes",
+    "regions": [
+      "Smilyan"
+    ],
+    "description": "Beans grown by families in the upper Arda valley around Smilyan, Mogilitsa and Arda, often intercropped with corn and potatoes, with a growing tradition of more than 250 years; the name is protected by a Bulgarian trademark and the beans are listed by the Slow Food Foundation. There are golden light-brown streaked beans used for soups and the bean-corn-beef stew trahna, and larger white or purple ones for salads.",
+    "how_to_eat": "Eat them as bean soup, a slow-baked clay-pot dish or a salad with leek and mint.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://bg.wikipedia.org/wiki/Смилянски_боб",
+    "source_urls": [
+      "https://bg.wikipedia.org/wiki/Смилянски_боб",
+      "https://www.fondazioneslowfood.com/en/?p=44465",
+      "https://visitbulgaria.com/about-bulgaria/traditional-cuisine/",
+      "https://www.guidebg.com/?p=49567"
+    ]
+  },
+  {
+    "id": "bulgaria-cheverme",
+    "name": "Cheverme (spit-roast lamb)",
+    "local_name": "Чеверме",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Bulgaria",
+    "state": "Rhodopes",
+    "regions": [
+      "Zlatograd"
+    ],
+    "description": "A whole lamb or kid (also pig) threaded on a large wooden spit and turned slowly by hand over embers of beech, oak or hornbeam for 5-8 hours. It is typical of the Rhodopes but served across Bulgaria at weddings and celebrations, and Zlatograd holds an annual cheverme festival in May.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://bg.wikipedia.org/wiki/Чеверме",
+    "source_urls": [
+      "https://bg.wikipedia.org/wiki/Чеверме",
+      "https://visitbulgaria.com/about-bulgaria/traditional-cuisine/",
+      "https://en.wikipedia.org/wiki/Bulgarian_cuisine"
+    ]
+  },
+  {
+    "id": "bulgaria-rodopski-katak",
+    "name": "Rodopski katak (spiced curd cheese)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Bulgaria",
+    "state": "Rhodopes",
+    "regions": [],
+    "description": "A spicy curd cheese from the Rhodope region flavoured with peppers. Katak is a traditional Bulgarian fermented curd or yogurt-like dairy product.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.inyourpocket.com/bulgaria/articles/bulgarian-cuisine",
+      "https://en.wikipedia.org/wiki/Bulgarian_cuisine"
+    ]
+  },
+  {
+    "id": "bulgaria-tsatsa",
+    "name": "Tsatsa (fried sprat)",
+    "local_name": "Цаца",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Bulgaria",
+    "state": "Black Sea Coast",
+    "regions": [
+      "Kranevo"
+    ],
+    "description": "Black Sea sprat, a small fish up to about 13 cm long in Bulgarian waters, gutted, washed and fried whole. About a dozen fish are traditionally pierced through the heads with a straw so they fry together, and peddlers used to fry them on the spot and sell them in brown paper bags.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://vagabond.bg/we-want-our-tsatsa-4634",
+      "https://bg.wikipedia.org/wiki/Цаца"
+    ]
+  },
+  {
+    "id": "bulgaria-sozopol-mussels",
+    "name": "Mussels (Sozopol style)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Bulgaria",
+    "state": "Black Sea Coast",
+    "regions": [
+      "Sozopol"
+    ],
+    "description": "Black Sea mussels cooked in butter with onion and fresh herbs, a dish traditionally from Sozopol; mussels also go into pilaf with rice in small coastal towns.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for mussels in butter or mussels with rice at coastal restaurants.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bulgarian_cuisine",
+      "https://visiteurope.com/experiences/bulgarias-famous-flavors"
+    ]
+  },
+  {
+    "id": "bulgaria-ribena-chorba",
+    "name": "Ribena chorba (fisherman's soup)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Bulgaria",
+    "state": "Black Sea Coast",
+    "regions": [
+      "Burgas"
+    ],
+    "description": "A spicy fish soup flavoured with thyme and fresh lovage. Fish soups are served along the Black Sea coast and the Danube, and Burgas holds fish-soup cooking competitions.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bulgarian_cuisine",
+      "https://visitbulgaria.com/about-bulgaria/traditional-cuisine/",
+      "https://www.bta.bg/en/news/380939"
+    ]
+  },
+  {
+    "id": "bulgaria-strandzhanski-manov-med",
+    "name": "Strandzhanski manov med (Strandzha honeydew honey)",
+    "local_name": "Странджански манов мед",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Bulgaria",
+    "state": "Black Sea Coast",
+    "regions": [
+      "Strandzha",
+      "Tsarevo"
+    ],
+    "description": "Honey made by bees from honeydew secreted by insects and from oak sap in the Strandzha area of south-east Bulgaria. It is brown to black with a greenish tint, sweet with slight acidity and bitter notes and an aroma of roasted fruit and caramel; it has been an EU protected designation of origin since 2019.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/16618?lang=EN",
+      "https://assets.publishing.service.gov.uk/media/6686754b541aeb9e928f4494/specification_PDO_Strandzhanski_manov_med.docx"
+    ]
+  },
+  {
+    "id": "bulgaria-burgaska-muskatova-rakiya",
+    "name": "Burgaska muskatova rakiya (Burgas muscat rakia)",
+    "local_name": "Бургаска мускатова ракия",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Bulgaria",
+    "state": "Black Sea Coast",
+    "regions": [
+      "Burgas"
+    ],
+    "description": "Rakia distilled from Muscat grape wine, registered as an EU geographical indication for spirit drinks under the name 'Bourgaska Muscatova rakya / Muscatova rakya from Bourgas'. Rakia is the Balkan fruit brandy, normally 40% ABV, and grape (grozdova) rakia is one of the two most common Bulgarian types.",
+    "how_to_eat": "Drink it with the starter salad, the usual way rakia is served.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/15571?lang=EN",
+      "https://en.wikipedia.org/wiki/Rakia",
+      "https://www.inyourpocket.com/bulgaria/articles/bulgarian-cuisine"
+    ]
+  },
+  {
+    "id": "bulgaria-gornooryahovski-sudzhuk",
+    "name": "Gornooryahovski sudzhuk (Gorna Oryahovitsa sausage)",
+    "local_name": "Горнооряховски суджук",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Bulgaria",
+    "state": "Veliko Tarnovo & North",
+    "regions": [
+      "Gorna Oryahovitsa"
+    ],
+    "description": "A flattened, horseshoe-shaped dried sausage of minced beef in natural gut, 35-40 cm long, with a white sausage mould on the casing and seasoned with black pepper, cumin and savory. Flat sausage has its longest tradition in Gorna Oryahovitsa, and the name has been an EU protected geographical indication since 2011, contains no pork and may only be produced in the town.",
+    "how_to_eat": "It needs no cooking; eat it sliced.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/13948?lang=EN",
+      "https://publications.europa.eu/resource/celex/52010XC0326(02)",
+      "https://bg.wikipedia.org/wiki/Суджук",
+      "https://visitbulgaria.com/about-bulgaria/traditional-cuisine/"
+    ]
+  },
+  {
+    "id": "bulgaria-sudzhuk-tarnovski",
+    "name": "Sudzhuk Tarnovski (Tarnovo sausage)",
+    "local_name": "Суджук Търновски",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Bulgaria",
+    "state": "Veliko Tarnovo & North",
+    "regions": [
+      "Veliko Tarnovo"
+    ],
+    "description": "A pressed raw-cured beef sausage in natural casing, joined at the ends into a horseshoe shape and seasoned with black or white pepper, savory, cardamom and allspice. It is named after Veliko Tarnovo, capital of the Second Bulgarian Empire, whose slaughterhouse mainly produced sudzhuk; first standardised in 1980, it is an EU Traditional Speciality Guaranteed.",
+    "how_to_eat": "Remove the casing, slice it and eat it cold.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/18800?lang=EN",
+      "https://publications.europa.eu/resource/celex/52022XC1201(06)"
+    ]
+  },
+  {
+    "id": "bulgaria-file-elena",
+    "name": "Filet Elena (cured pork tenderloin)",
+    "local_name": "Филе Елена",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Bulgaria",
+    "state": "Veliko Tarnovo & North",
+    "regions": [
+      "Elena"
+    ],
+    "description": "Pork tenderloin dry-salted, pressed and dried, with a surface coated in savory and black pepper that turns it green; the inside is pinkish red. The technique was standardised in 1973 and became established in the early 1980s by specialists in the Elena area, and the name is an EU Traditional Speciality Guaranteed.",
+    "how_to_eat": "It needs no cooking; eat it sliced.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/14286?lang=EN",
+      "https://publications.europa.eu/resource/celex/52014XC0308(01)",
+      "https://visiteurope.com/experiences/bulgarias-famous-flavors"
+    ]
+  },
+  {
+    "id": "bulgaria-elenski-but",
+    "name": "Elenski but (Elena dry-cured ham)",
+    "local_name": "Еленски бут",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Bulgaria",
+    "state": "Veliko Tarnovo & North",
+    "regions": [
+      "Elena"
+    ],
+    "description": "Pork leg salted in a postav barrel for about 40 days and then air-dried, a speciality of the town of Elena and the Elena Balkan in the Stara Planina. It can keep for several years, and family preservation methods include packing in maize meal or hanging in airy cloth bags.",
+    "how_to_eat": "It needs no cooking; eat it sliced.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Elenski_but",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Elenski_but",
+      "https://bg.wikipedia.org/wiki/Еленски_бут",
+      "https://visitbulgaria.com/about-bulgaria/traditional-cuisine/"
+    ]
+  },
+  {
+    "id": "bulgaria-lukanka-troyanska",
+    "name": "Lukanka Troyanska (Troyan salami)",
+    "local_name": "Луканка Троянска",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Bulgaria",
+    "state": "Veliko Tarnovo & North",
+    "regions": [
+      "Troyan"
+    ],
+    "description": "A pressed, raw-cured and raw-smoked salami of 60% beef or buffalo and 40% pork with natural seasoning, 20-60 cm long, with a smoky aroma. It is named after Troyan, where it was first made and popularised by Ilia Taslakov, who imported Bulgaria's first meat grinders in 1883; it is an EU Traditional Speciality Guaranteed.",
+    "how_to_eat": "Remove the casing, slice it and eat it cold.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/18198?lang=EN",
+      "https://publications.europa.eu/resource/celex/52022XC0906(03)"
+    ]
+  },
+  {
+    "id": "bulgaria-troyanska-slivova-rakiya",
+    "name": "Troyanska slivova rakiya (Troyan plum rakia)",
+    "local_name": "Троянска сливова ракия",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Bulgaria",
+    "state": "Veliko Tarnovo & North",
+    "regions": [
+      "Troyan"
+    ],
+    "description": "Plum rakia from the area of Troyan and Teteven, registered as an EU geographical indication for spirit drinks. Plum and grape are the two most common types of Bulgarian rakia, a fruit brandy normally bottled at 40% ABV.",
+    "how_to_eat": "Drink it with the starter salad, the usual Bulgarian way to serve rakia.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/15558?lang=EN",
+      "https://visitbulgaria.com/about-bulgaria/traditional-cuisine/",
+      "https://en.wikipedia.org/wiki/Rakia",
+      "https://www.inyourpocket.com/bulgaria/articles/bulgarian-cuisine"
+    ]
+  },
+  {
+    "id": "bulgaria-garash-cake",
+    "name": "Garash cake",
+    "local_name": "Торта „Гараш“",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Bulgaria",
+    "state": "Veliko Tarnovo & North",
+    "regions": [
+      "Ruse"
+    ],
+    "description": "A chocolate cake of five thin layers made from ground walnuts, egg whites and sugar, filled and covered with a cream-and-chocolate ganache and chocolate icing. It was created in 1885 in Ruse by the Austro-Hungarian chef Kosta Garash for receptions at the Islah Hane hotel, and uses no wheat flour.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Garash_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Garash_cake",
+      "https://www.inyourpocket.com/bulgaria/articles/bulgarian-cuisine"
+    ]
+  },
+  {
+    "id": "bulgaria-kapama",
+    "name": "Kapama (Bansko clay-pot stew)",
+    "local_name": "Капама",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Bulgaria",
+    "state": "Pirin & Southwest",
+    "regions": [
+      "Bansko",
+      "Razlog"
+    ],
+    "description": "Layers of sauerkraut, rice and several meats such as pork, veal, chicken, rabbit, blood sausage and sausage, with red beetroot or pickled beet added around Razlog, moistened with wine and baked slowly for hours in a clay pot sealed with dough. It is associated with Bansko and Razlog in the Pirin region; the original was cooked in a cauldron over an open fire.",
+    "how_to_eat": "It is served with one piece of each ingredient on the plate.",
+    "how_to_order": "Look for it in Bansko and Razlog.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://bg.wikipedia.org/wiki/Капама",
+    "source_urls": [
+      "https://bg.wikipedia.org/wiki/Капама",
+      "https://visitbulgaria.com/about-bulgaria/traditional-cuisine/",
+      "https://luckybansko.com/the-traditional-cuisine-of-bansko-p74026",
+      "https://destinationrazlog.com/razlojka-kapama/?lang=en",
+      "https://www.inyourpocket.com/bulgaria/articles/bulgarian-cuisine"
+    ]
+  },
+  {
+    "id": "bulgaria-banski-starets",
+    "name": "Banski starets (Bansko dry sausage)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Bulgaria",
+    "state": "Pirin & Southwest",
+    "regions": [
+      "Bansko"
+    ],
+    "description": "A spicy dry sausage native to the Bansko area, whose name means 'Bansko old man'. It is made with pork, bacon and pig's liver seasoned with salt, black pepper and cumin, stuffed into pork tripe and hung to dry in an airy place for at least 6 months.",
+    "how_to_eat": "Eat it sliced as an appetizer.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bulgarian_cuisine",
+      "https://visitbulgaria.com/about-bulgaria/traditional-cuisine/",
+      "https://luckybansko.com/the-traditional-cuisine-of-bansko-p74026"
+    ]
+  },
+  {
+    "id": "bulgaria-chomlek",
+    "name": "Chomlek (clay-pot veal shank)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Bulgaria",
+    "state": "Pirin & Southwest",
+    "regions": [
+      "Bansko",
+      "Razlog"
+    ],
+    "description": "Veal shank (or pork) with whole potatoes, carrots, onions, tomatoes, spices, tomato paste and wine, baked in a clay pot for about 10 hours. It is one of the slow-cooked clay-pot dishes of the Bansko and Razlog area and is served with kapama.",
+    "how_to_eat": "Eat it with a glass of red wine.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://luckybansko.com/the-traditional-cuisine-of-bansko-p74026",
+      "https://visiteurope.com/experiences/bulgarias-famous-flavors"
+    ]
+  },
+  {
+    "id": "bulgaria-kostureta",
+    "name": "Kostureta (Bansko clay-pot beans)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Bulgaria",
+    "state": "Pirin & Southwest",
+    "regions": [
+      "Bansko"
+    ],
+    "description": "Kidney beans cooked slowly in a clay pot with pickled red beetroot, dried red peppers and bacon, a Bansko dish.",
+    "how_to_eat": "Eat it with flat sausage and red wine.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://luckybansko.com/the-traditional-cuisine-of-bansko-p74026"
+    ]
+  },
+  {
+    "id": "bulgaria-melnik-wine",
+    "name": "Melnik wine (Shiroka melnishka loza)",
+    "local_name": "Широка мелнишка лоза",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Bulgaria",
+    "state": "Pirin & Southwest",
+    "regions": [
+      "Melnik",
+      "Sandanski"
+    ],
+    "description": "Red wine from Shiroka melnishka loza ('broad-leaved vine of Melnik'), a late-ripening red grape grown mainly around Petrich and Sandanski near the Greek border; its wines take well to oak and develop tobacco notes. 'Melnik' is a registered EU protected designation of origin for wine.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Siroka_Melniska",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Siroka_Melniska",
+      "https://bg.wikipedia.org/wiki/Широка_мелнишка_лоза",
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/6277?lang=EN",
+      "https://visitbulgaria.com/about-bulgaria/traditional-cuisine/"
+    ]
+  }
+]

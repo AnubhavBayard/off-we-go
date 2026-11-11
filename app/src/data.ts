@@ -78,6 +78,7 @@ export const COUNTRY_CODE: Record<string, string> = {
   Iran: 'IR', Cambodia: 'KH', Cuba: 'CU', 'South Africa': 'ZA',
   Ethiopia: 'ET', Tunisia: 'TN', Jamaica: 'JM', Bulgaria: 'BG',
   Ecuador: 'EC', Uzbekistan: 'UZ', Kenya: 'KE', Pakistan: 'PK',
+  Nigeria: 'NG', Ghana: 'GH', Uruguay: 'UY', Slovenia: 'SI',
 }
 
 // "₹20-40", "€8-12", "THB 50-80"

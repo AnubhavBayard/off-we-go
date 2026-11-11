@@ -99,6 +99,7 @@ NO_PHOTO = {
     "finland-pea-soup", "finland-sara", "georgia-matsoni", "romania-gomboti",
     "cambodia-samlor-prahal", "cambodia-sra-peang", "cuba-moros-y-cristianos", "iran-doogh",
     "iran-masghati", "south_africa-waterblommetjiebredie", "south_africa-pinotage", "south_africa-morogo",
+    "ethiopia-tej", "ethiopia-tella", "ethiopia-kocho", "jamaica-jerk-pork", "tunisia-chakchouka",
 }
 out = {}
 for d in dishes:

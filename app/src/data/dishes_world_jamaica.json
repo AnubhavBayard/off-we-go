@@ -1,0 +1,820 @@
+[
+  {
+    "id": "jamaica-ackee-and-saltfish",
+    "name": "Ackee and saltfish",
+    "local_name": null,
+    "pronunciation": "AK-ee",
+    "category": "meal",
+    "country": "Jamaica",
+    "state": "Kingston & St Andrew",
+    "regions": [],
+    "description": "Jamaica's national dish: boiled ackee, the national fruit, sautéed with salted cod, onions, Scotch bonnet pepper and tomato. Ackee came from West Africa before 1725, and salt cod was shipped to Jamaica as a cheap, long-keeping protein for enslaved people. Parts of the fruit are toxic before the husk opens, which is why its import is restricted in some countries.",
+    "how_to_eat": "Usually eaten at breakfast with breadfruit, hard dough bread, dumplings or boiled green bananas; it is also served with rice and peas.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ackee_and_saltfish",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ackee_and_saltfish",
+      "https://en.wikipedia.org/wiki/Jamaican_cuisine"
+    ]
+  },
+  {
+    "id": "jamaica-jamaican-patty",
+    "name": "Jamaican patty",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Jamaica",
+    "state": "Kingston & St Andrew",
+    "regions": [
+      "Kingston"
+    ],
+    "description": "A semicircular turnover with a flaky crust tinted yellow with turmeric, annatto or egg yolk, traditionally filled with ground beef seasoned with onion, garlic, thyme and Scotch bonnet. It draws on the Cornish pasty and the Spanish empanada; one of the earliest patty shops opened in Kingston in 1930, and Chinese Jamaican bakers commercialised patties from the 1960s.",
+    "how_to_eat": "Often eaten as a full meal stuffed inside a split coco bread.",
+    "how_to_order": "Sold at bakeries and patty chains; beef is the classic, with chicken, vegetable, callaloo, shrimp and cheese fillings also common.",
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jamaican_patty",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jamaican_patty",
+      "https://en.wikipedia.org/wiki/Coco_bread"
+    ]
+  },
+  {
+    "id": "jamaica-oxtail",
+    "name": "Stewed oxtail",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jamaica",
+    "state": "Kingston & St Andrew",
+    "regions": [],
+    "description": "Gelatin-rich oxtail stewed with butter beans (lima beans or broad beans), a common main dish in Jamaica. Brown stews came to Jamaica with the Spanish, and Chinese Jamaicans added soy sauce, ginger and escallion to their seasoning.",
+    "how_to_eat": "Traditionally served with plain white rice and, more recently, rice and peas.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Oxtail",
+      "https://en.wikipedia.org/wiki/Jamaican_cuisine"
+    ]
+  },
+  {
+    "id": "jamaica-rice-and-peas",
+    "name": "Rice and peas",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jamaica",
+    "state": "Kingston & St Andrew",
+    "regions": [],
+    "description": "Rice cooked in one pot with kidney beans (called red peas) or gungo (pigeon) peas, coconut milk, herbs and spices. It is a one-pot Creole dish from the colonial era.",
+    "how_to_eat": "Served with brown stew chicken for Sunday dinner, and with oxtail.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rice_and_peas",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rice_and_peas",
+      "https://en.wikipedia.org/wiki/Brown_stew_chicken"
+    ]
+  },
+  {
+    "id": "jamaica-hard-dough-bread",
+    "name": "Hard dough bread",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Jamaica",
+    "state": "Kingston & St Andrew",
+    "regions": [],
+    "description": "A dense, soft, slightly sweet white loaf of flour, water, yeast, salt and sugar, brushed with sugared water for a glossy crust. Chinese indentured labourers brought the recipe in the mid-1800s, and Chinese Jamaican bakeries still bake much of it; the word 'hard-dough' appears in the Daily Gleaner as early as 1911.",
+    "how_to_eat": "Thick slices are a standard side with jerk.",
+    "how_to_order": "Sold sliced or unsliced in rectangular loaves at bakeries and grocery shops.",
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hard_dough_bread",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hard_dough_bread",
+      "https://www.visitjamaica.com/resort-areas/port-antonio/where-to-eat/"
+    ]
+  },
+  {
+    "id": "jamaica-gizzada",
+    "name": "Gizzada",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Jamaica",
+    "state": "Kingston & St Andrew",
+    "regions": [],
+    "description": "A small open tart with a pinched, star-like crust filled with grated coconut stewed with brown sugar, ginger, nutmeg, cinnamon and vanilla; it is also called pinch-me-round. Its name comes from Portuguese guisada ('stewed'), and it is linked to Portuguese Jews who settled in Jamaica from the 1530s.",
+    "how_to_eat": "Eaten as a snack or dessert.",
+    "how_to_order": "Sold on the street, on buses, in supermarkets, pastry shops and at airports.",
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gizzada",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gizzada",
+      "https://en.wikipedia.org/wiki/Jamaican_cuisine"
+    ]
+  },
+  {
+    "id": "jamaica-toto",
+    "name": "Toto",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Jamaica",
+    "state": "Kingston & St Andrew",
+    "regions": [],
+    "description": "A small baked coconut cake made with shredded coconut, brown sugar, flour, baking soda and powder and coconut milk, often spiced with nutmeg, ginger or allspice. It dates from the colonial era and is a staple of home baking for family gatherings and Sunday dinners.",
+    "how_to_eat": "Served after Sunday dinner, sometimes with homemade ice cream.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Toto_(dessert)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Toto_(dessert)"
+    ]
+  },
+  {
+    "id": "jamaica-sorrel",
+    "name": "Sorrel",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Jamaica",
+    "state": "Kingston & St Andrew",
+    "regions": [],
+    "description": "A spiced drink brewed from sorrel (hibiscus) with ginger, sometimes with rum added. It is a Christmas mainstay in Jamaica, with African roots; Chinese Jamaicans added ginger and five-spice to it.",
+    "how_to_eat": "Served at Christmas with fruitcake or sweet potato pudding.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jamaican_cuisine",
+      "https://en.wikipedia.org/wiki/Hibiscus_tea"
+    ]
+  },
+  {
+    "id": "jamaica-irish-moss",
+    "name": "Irish moss",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Jamaica",
+    "state": "Kingston & St Andrew",
+    "regions": [],
+    "description": "A thick drink of Gracilaria seaweed boiled in milk with sugar or honey and spices such as vanilla, cinnamon and nutmeg; some recipes add condensed milk, oats, linseed or isinglass (fish gelatin). Carrageenan from the seaweed gives it its thick texture, and it is widely sold as a tonic.",
+    "how_to_eat": "Bars also use it as a mixer for rum.",
+    "how_to_order": "Sold at roadside 'punch man' stalls alongside peanut punch, and in cans in shops.",
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Irish_moss_(drink)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Irish_moss_(drink)",
+      "https://en.wikipedia.org/wiki/Jamaican_cuisine"
+    ]
+  },
+  {
+    "id": "jamaica-jamaica-rum",
+    "name": "Jamaica Rum",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Jamaica",
+    "state": "Kingston & St Andrew",
+    "regions": [],
+    "description": "Rum distilled in Jamaica, where the British developed rum distillation for export in the colonial era. 'Jamaica Rum' was registered as a geographical indication on 1 December 2016, held by the Spirits Pool Association; every rum must pass analytical and sensory examination by a technical committee before it is approved to carry the name.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.wipo.int/edocs/mdocs/sct/en/wipo_geo_tbs_23/wipo_geo_tbs_23_panel_4_2.pdf",
+      "https://en.wikipedia.org/wiki/Jamaican_cuisine"
+    ]
+  },
+  {
+    "id": "jamaica-jerk-pork",
+    "name": "Jerk pork",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Jamaica",
+    "state": "Portland & the Blue Mountains",
+    "regions": [
+      "Boston Bay",
+      "Port Antonio"
+    ],
+    "description": "Pork dry-rubbed or marinated with hot jerk spice built on allspice (pimento) and Scotch bonnet pepper, then slow-cooked over pimento wood. Jerking comes from the Taíno, and the Maroons kept the practice alive by hunting and jerking wild hogs; Visit Jamaica names Portland as where jerk began, and vendors at Boston Bay sell jerk pork, chicken and fish. The registered 'Jamaica Jerk' GI covers jerk seasonings and sauces, not the cooked meat.",
+    "how_to_eat": "Eaten with festival or thick slices of hard dough bread.",
+    "how_to_order": "Buy from the jerk stands at Boston Bay near Port Antonio or from roadside jerk vendors.",
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jerk_(cooking)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jerk_(cooking)",
+      "https://www.visitjamaica.com/resort-areas/port-antonio/where-to-eat/",
+      "https://www.wipo.int/edocs/mdocs/sct/en/wipo_geo_tbs_23/wipo_geo_tbs_23_panel_4_2.pdf"
+    ]
+  },
+  {
+    "id": "jamaica-festival",
+    "name": "Festival",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Jamaica",
+    "state": "Portland & the Blue Mountains",
+    "regions": [],
+    "description": "A slightly sweet fried dumpling made from wheat flour, cornmeal, baking powder, sugar, milk and butter, crisp outside and soft inside. It is the usual side for jerk and fried or escovitch fish and is also eaten at breakfast.",
+    "how_to_eat": "Use it to soak up spicy jerk sauce.",
+    "how_to_order": "Order as a side at jerk stands and fish shacks.",
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Festival_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Festival_(food)",
+      "https://www.visitjamaica.com/resort-areas/port-antonio/where-to-eat/"
+    ]
+  },
+  {
+    "id": "jamaica-escovitch-fish",
+    "name": "Escovitch fish",
+    "local_name": null,
+    "pronunciation": "ES-ko-vich",
+    "category": "meal",
+    "country": "Jamaica",
+    "state": "Portland & the Blue Mountains",
+    "regions": [
+      "Port Antonio"
+    ],
+    "description": "Fish (or shrimp or lobster) in a vinegar sauce of onions, carrots, chayote (cho cho), pimento and Scotch bonnet pepper. It descends from Spanish escabeche and is traditional during Lent; Visit Jamaica recommends eating it on the dock in Port Antonio.",
+    "how_to_eat": "Eat with bammy or festival.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Escabeche",
+      "https://www.visitjamaica.com/resort-areas/port-antonio/where-to-eat/"
+    ]
+  },
+  {
+    "id": "jamaica-mannish-water",
+    "name": "Mannish water",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jamaica",
+    "state": "Portland & the Blue Mountains",
+    "regions": [],
+    "description": "A soup of goat parts, also called goat head soup, cooked with yam, potato, green bananas and dumplings. It has been part of Maroon celebrations for over 300 years, is served at 'dead yard' wakes, stage shows and parties, and is popularly held to be an aphrodisiac.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at local food stalls in Port Antonio alongside fish tea and conch soup.",
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mannish_water",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mannish_water",
+      "https://en.wikipedia.org/wiki/Jamaican_cuisine",
+      "https://www.visitjamaica.com/resort-areas/port-antonio/where-to-eat/"
+    ]
+  },
+  {
+    "id": "jamaica-fish-tea",
+    "name": "Fish tea",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jamaica",
+    "state": "Portland & the Blue Mountains",
+    "regions": [],
+    "description": "A spicy fish broth simmered for hours with yam, pumpkin, cassava, potato and green bananas until very soft, flavoured with coconut milk, black pepper, thyme and scallion. It is a thinner relative of run down and is popularly believed to be an aphrodisiac.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at local food stalls in Port Antonio alongside mannish water and conch soup.",
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fish_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fish_tea",
+      "https://www.visitjamaica.com/resort-areas/port-antonio/where-to-eat/"
+    ]
+  },
+  {
+    "id": "jamaica-bulla",
+    "name": "Bulla",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Jamaica",
+    "state": "Portland & the Blue Mountains",
+    "regions": [
+      "Port Antonio"
+    ],
+    "description": "A flat, round spiced cake made with molasses, brown sugar, flour and baking soda, flavoured with ginger and nutmeg; versions include spice, ginger, coconut and pineapple. The name comes from Spanish bollo ('bun'). Visit Jamaica notes 'holey bulla' as a baked speciality in Port Antonio.",
+    "how_to_eat": "Commonly eaten with cheese or avocado, or with milk as a school snack.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bulla_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bulla_cake",
+      "https://www.visitjamaica.com/resort-areas/port-antonio/where-to-eat/"
+    ]
+  },
+  {
+    "id": "jamaica-blue-mountain-coffee",
+    "name": "Jamaica Blue Mountain coffee",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Jamaica",
+    "state": "Portland & the Blue Mountains",
+    "regions": [
+      "Blue Mountains"
+    ],
+    "description": "Arabica coffee of the Typica variety grown in the Blue Mountains between Kingston and Port Antonio, where coffee was introduced in 1728. Its name is a certification mark: only coffee certified by the Jamaica Agricultural Commodities Regulatory Authority can be sold as Blue Mountain coffee. It is known for a mild flavour with little bitterness, and over 80% of it is exported to Japan.",
+    "how_to_eat": "The beans are also the flavour base of Tia Maria coffee liqueur.",
+    "how_to_order": "Look for the certification on packs; uncertified coffee may not use the name.",
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jamaican_Blue_Mountain_Coffee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jamaican_Blue_Mountain_Coffee",
+      "https://en.wikipedia.org/wiki/Jamaican_cuisine"
+    ]
+  },
+  {
+    "id": "jamaica-pepper-shrimp",
+    "name": "Pepper shrimp",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Jamaica",
+    "state": "South Coast & Central Hills",
+    "regions": [
+      "Middle Quarters"
+    ],
+    "description": "Freshwater shrimp (crawfish) from the Black River cooked with traditional seasoning and Scotch bonnet pepper. Middle Quarters in St Elizabeth is known as the home of pepper shrimp, sold by roadside vendors; in drought seasons some sellers have to import shrimp.",
+    "how_to_eat": null,
+    "how_to_order": "Buy from roadside vendors in Middle Quarters, by the pound or in small bags.",
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Middle_Quarters,_Jamaica",
+      "https://www.visitjamaica.com/resort-areas/south-coast/where-to-eat/",
+      "https://www.jamaicaexperiences.com/blogs/details/article/a-food-lover-s-map-of-saint-elizabeth",
+      "https://past.jamaica-gleaner.com/gleaner/20100722/cook/cook4.html"
+    ]
+  },
+  {
+    "id": "jamaica-bammy",
+    "name": "Bammy",
+    "local_name": null,
+    "pronunciation": "BAM-ee",
+    "category": "snack",
+    "country": "Jamaica",
+    "state": "South Coast & Central Hills",
+    "regions": [
+      "St Elizabeth",
+      "Scott's Cove"
+    ],
+    "description": "A flat round bread of grated, pressed cassava that descends from the casabe of the Taíno. The traditional method survives in parts of St Elizabeth and south-east Manchester; before eating, bammy is soaked in coconut milk and then fried or steamed.",
+    "how_to_eat": "Eaten with fried or escovitch fish, seafood, meat or avocado.",
+    "how_to_order": "Fish and bammy vendors at Scott's Cove, on the Westmoreland-St Elizabeth border, sold fried and baked bammy; the Jamaica Observer reported the stalls were flattened by Hurricane Melissa in late 2025.",
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bammy",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bammy",
+      "https://past.jamaica-gleaner.com/gleaner/20100909/cook/cook4.html",
+      "https://www.jamaicaobserver.com/2025/11/02/life-spared-livelihood-lost-scotts-cove-flattened-hurricane-melissa"
+    ]
+  },
+  {
+    "id": "jamaica-steamed-fish",
+    "name": "Steamed fish",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jamaica",
+    "state": "South Coast & Central Hills",
+    "regions": [
+      "Alligator Pond"
+    ],
+    "description": "Fish steamed with okra and carrot, a common Jamaican fish dish. At Alligator Pond on the south coast, seafood spots let you pick a fish from the cooler and have it fried or steamed.",
+    "how_to_eat": "Served with bammy or festival on the side.",
+    "how_to_order": "Choose your fish and ask for it steamed.",
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jamaican_cuisine",
+      "https://www.jamaicaexperiences.com/blogs/details/article/a-food-lover-s-map-of-saint-elizabeth",
+      "https://www.visitjamaica.com/resort-areas/south-coast/where-to-eat/"
+    ]
+  },
+  {
+    "id": "jamaica-curry-goat",
+    "name": "Curry goat",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jamaica",
+    "state": "South Coast & Central Hills",
+    "regions": [
+      "Spur Tree"
+    ],
+    "description": "Goat stewed with Jamaican curry powder, a blend adapted from the turmeric and curry brought by Indian indentured labourers; mutton is used when goat is not available. It is a dish for parties and special occasions, and Spur Tree in Manchester is known for its curried goat.",
+    "how_to_eat": "Usually served with rice or roti.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Goat_curry",
+      "https://en.wikipedia.org/wiki/Jamaican_cuisine",
+      "https://www.visitjamaica.com/resort-areas/south-coast/where-to-eat/"
+    ]
+  },
+  {
+    "id": "jamaica-roast-yam-and-saltfish",
+    "name": "Roast yam and saltfish",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Jamaica",
+    "state": "South Coast & Central Hills",
+    "regions": [
+      "Albert Town",
+      "Melrose Hill"
+    ],
+    "description": "Roasted yam served with salted fish. South Trelawny is known for yellow yam: at the Trelawny Yam Festival in Albert Town on Easter Monday, yam is sold boiled, fried or roasted with pickled mackerel, salt fish, coconut run down or ackee and saltfish. Melrose Hill in Manchester is a stop for roasted yam, roasted sweet potato and salted fish.",
+    "how_to_eat": null,
+    "how_to_order": "Buy from roadside roasters at Melrose Hill or at the Faith's Pen rest stop.",
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://jis.gov.jm/thousands-flock-trelawny-yam-festival/",
+      "https://www.visitjamaica.com/resort-areas/south-coast/where-to-eat/",
+      "https://www.jamaicaobserver.com/2019/04/01/keeping-the-faith-in-faiths-pen/"
+    ]
+  },
+  {
+    "id": "jamaica-run-down",
+    "name": "Run down",
+    "local_name": "Run dun",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jamaica",
+    "state": "South Coast & Central Hills",
+    "regions": [],
+    "description": "Fish, often mackerel or salt mackerel, simmered in coconut milk that is reduced ('run down') until thick, with plantain, yam, tomato, onion and seasoning. It is a traditional breakfast dish, and Jamaican workers carried it to Central America in the 19th and 20th centuries, where it is called rondón.",
+    "how_to_eat": "Served with boiled dumplings or roast breadfruit, or with yam.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Run_down",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Run_down",
+      "https://jis.gov.jm/thousands-flock-trelawny-yam-festival/"
+    ]
+  },
+  {
+    "id": "jamaica-jerk-chicken",
+    "name": "Jerk chicken",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Jamaica",
+    "state": "North Coast (Ocho Rios, Montego Bay, Negril)",
+    "regions": [
+      "Ocho Rios",
+      "Montego Bay",
+      "Faith's Pen"
+    ],
+    "description": "Chicken marinated in jerk seasoning of allspice, Scotch bonnet pepper and herbs, then grilled and smoked over pimento wood or charcoal, often in halved oil drums with hinged lids, a method that spread from the 1960s. Jerk centres in Ocho Rios and Montego Bay serve it alongside jerk pork, fish, conch and sausage, and vendors at the Faith's Pen rest stop in St Ann sell it to passing drivers.",
+    "how_to_eat": "Eaten with festival, bammy, fried dumplings or hard dough bread.",
+    "how_to_order": "Sold at roadside jerk stands and jerk centres.",
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jerk_(cooking)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jerk_(cooking)",
+      "https://www.visitjamaica.com/resort-areas/ocho-rios/where-to-eat/",
+      "https://www.visitjamaica.com/resort-areas/montego-bay/where-to-eat/",
+      "https://www.jamaicaobserver.com/2019/04/01/keeping-the-faith-in-faiths-pen/"
+    ]
+  },
+  {
+    "id": "jamaica-roast-corn",
+    "name": "Roast corn",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Jamaica",
+    "state": "North Coast (Ocho Rios, Montego Bay, Negril)",
+    "regions": [
+      "Faith's Pen"
+    ],
+    "description": "Corn on the cob roasted and sold by roadside vendors; corn was grown on the island by the Taíno. The Faith's Pen rest stop between Mount Rosser (St Catherine) and Moneague (St Ann) is known for vendors selling roast corn alongside jerk and roast yam.",
+    "how_to_eat": null,
+    "how_to_order": "Buy from roadside vendors such as those at Faith's Pen.",
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.jamaicaobserver.com/2019/04/01/keeping-the-faith-in-faiths-pen/",
+      "https://en.wikipedia.org/wiki/Jamaican_cuisine"
+    ]
+  },
+  {
+    "id": "jamaica-brown-stew-fish",
+    "name": "Brown stew fish",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jamaica",
+    "state": "North Coast (Ocho Rios, Montego Bay, Negril)",
+    "regions": [
+      "Ocho Rios"
+    ],
+    "description": "Fish cooked as a brown stew; Jamaica's brown stews came from Spanish cooking, and Chinese Jamaicans added soy sauce, ginger and escallion. Visit Jamaica lists brown stew fish among the dishes at seafood spots in Ocho Rios.",
+    "how_to_eat": "Served with rice and peas or white rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jamaican_cuisine",
+      "https://www.visitjamaica.com/resort-areas/ocho-rios/where-to-eat/"
+    ]
+  },
+  {
+    "id": "jamaica-curried-shrimp",
+    "name": "Curried shrimp",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jamaica",
+    "state": "North Coast (Ocho Rios, Montego Bay, Negril)",
+    "regions": [
+      "Ocho Rios"
+    ],
+    "description": "Shrimp cooked in Jamaican curry powder, the Indo-Jamaican spice blend also used for goat, chicken, lobster and conch. Visit Jamaica lists it at seafood restaurants in Ocho Rios and with lobster in Port Antonio.",
+    "how_to_eat": "Served with white rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jamaican_cuisine",
+      "https://www.visitjamaica.com/resort-areas/ocho-rios/where-to-eat/",
+      "https://www.visitjamaica.com/resort-areas/port-antonio/where-to-eat/"
+    ]
+  },
+  {
+    "id": "jamaica-grilled-lobster",
+    "name": "Grilled lobster",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Jamaica",
+    "state": "North Coast (Ocho Rios, Montego Bay, Negril)",
+    "regions": [
+      "Negril"
+    ],
+    "description": "Grilled spiny lobster. Visit Jamaica lists freshly grilled lobster among the seafood in Negril, and a seafood spot at Alligator Pond on the south coast is known for it.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "JMD",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.visitjamaica.com/resort-areas/negril/where-to-eat/",
+      "https://www.visitjamaica.com/resort-areas/south-coast/where-to-eat/",
+      "https://en.wikipedia.org/wiki/Jamaican_cuisine"
+    ]
+  }
+]

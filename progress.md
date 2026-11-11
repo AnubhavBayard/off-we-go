@@ -531,3 +531,19 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
 - Batch 9 research done. Photos: running fetch_dish_images.py.
 - Photos batch 9: 78 new; 8 dropped via NO_PHOTO (num banh chok on samlor prahal, clay vessel, ropa vieja on moros, Russian tan on doogh, koloocheh on masghati, tinned plant on waterblommetjiebredie, grape plant on Pinotage, amaranth plant on morogo). 1,831 with photos.
 - BATCH 9 DONE: 57 countries, 2,414 dishes, 1,831 with photos. Built OK; install pending (phone still not connected). README updated.
+- Committed + pushed 75ecb02.
+
+## 2026-11-11: batch 10
+- Batch 10: Ethiopia, Tunisia, Jamaica, Bulgaria. Same plan.
+- Ethiopia: research agent running.
+- Ethiopia done: 34 dishes, 5 regions (Addis 8, Amhara & North 7, Tigray 4, Oromia/Harar & East 7, South 8). No GIs (Harar/Sidamo/Yirgacheffe = trademarks). No prices. Thin: Tigray (sources would not load), anebabero/borde/bulla/amulcho/gomen kitfo/kuti one-line Wikipedia mentions, hanid/wosla one blog. Doro wat/tibs/misir wat no own article. Spot-check OK. Validator OK.
+- Tunisia: research agent running.
+- Tunisia done: 41 dishes, 6 regions (Tunis & North 11, Cap Bon & Zaghouan 4, Sahel & Kairouan 5, Sfax 6, Djerba & South 9, Northwest 6). No GIs (Tunisian GIs are dates/figs/pomegranate). Price: legmi 2.5/litre (2019). My fix: nulled mkharek/zlabia prices (Ramadan market report, year unknown). Chakchouka/mloukhia written as Tunisian versions. Thin: several single-source (smasem, mjamaa, yehni, mraghed, Nabeul sugar dolls). French wiki links for 10. Validator OK.
+- Jamaica: research agent running.
+- Jamaica done: 28 dishes, 4 regions (Kingston & St Andrew 10, Portland & Blue Mountains 7, South Coast & Central 6, North Coast 5). GI true 1: Jamaica Rum (2016, WIPO doc + JIS). Jerk GI covers seasoning only (not tagged); Blue Mountain coffee = certification mark (not tagged). No prices. Bammy notes Scott's Cove stalls hit by Hurricane Melissa 2025. Canada file also has a Jamaican patty (Toronto). My fix: Irish moss nonveg + fish (isinglass in some recipes). Validator OK.
+- Bulgaria: research agent running (last of batch 10).
+- User: after batch 11, start batch 12. Batch 12 registered: Nigeria, Ghana, Uruguay, Slovenia (NGN, GHS, UYU, EUR).
+- Bulgaria done: 37 dishes, 6 regions (Sofia & West 9, Plovdiv & Thrace 6, Rhodopes 5, Black Sea 5, Veliko Tarnovo & North 7, Pirin & SW 5). GI true 13 (eAmbrosia API): PDO kiselo mlyako, byalo salamureno sirene, Strandzhanski manov med, Melnik wine; PGI Gornooryahovski sudzhuk; TSG Lukanka Panagyurska, Kayserovan vrat Trakiya, Filet Elena, Sudzhuk Tarnovski, Lukanka Troyanska; spirits Burgaska muskatova rakiya, Troyanska slivova rakiya. No prices (no EUR source). Thin: katak, kostureta, chomlek (one source). bg-wiki links for 7. Spot-check OK. Validator OK.
+- Batch 10 research done. Photos: running fetch_dish_images.py.
+- Photos batch 10: 67 new; 5 dropped via NO_PHOTO (Lake Tana landscape on tej, raw grain on tella, unclear spread on kocho, jerk chicken photo on jerk pork, Israel shakshuka photo reused on Tunisian chakchouka). 1,893 with photos.
+- BATCH 10 DONE: 61 countries, 2,554 dishes, 1,893 with photos. Built OK; install pending (phone not connected). README updated.

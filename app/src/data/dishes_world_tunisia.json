@@ -1,0 +1,1242 @@
+[
+  {
+    "id": "tunisia-brik-a-l-oeuf",
+    "name": "Brik à l'œuf",
+    "local_name": "بريك",
+    "pronunciation": "BREEK",
+    "category": "street_food",
+    "country": "Tunisia",
+    "state": "Tunis & North",
+    "regions": [
+      "Tunis"
+    ],
+    "description": "A sheet of thin malsouka pastry folded around a whole egg, usually with tuna, parsley, chopped onion and mashed potato, then deep-fried. The egg is meant to stay runny inside. Other fillings include minced meat, shrimp or cheese.",
+    "how_to_eat": "Eat it by hand while hot, with a squeeze of lemon, without letting the runny yolk drip.",
+    "how_to_order": "Ask for a brik à l'œuf; it appears on most Tunisian restaurant menus.",
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brik",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Brik",
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne",
+      "https://africa.com/lifestyle/seven-typical-tunisian-dishes-you-must-try"
+    ]
+  },
+  {
+    "id": "tunisia-lablabi",
+    "name": "Lablabi",
+    "local_name": "لبلابي",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Tunis & North",
+    "regions": [],
+    "description": "Chickpeas in a thin garlic and cumin broth poured over pieces of stale bread, finished with olive oil, harissa, lemon juice and salt. Sold in casual eateries and in the street, including late at night, all over Tunisia, and eaten mainly in winter.",
+    "how_to_eat": "Break bread into the empty bowl yourself before the waiter ladles the chickpeas and broth over it.",
+    "how_to_order": "Often topped with egg and tuna; ask for it sans oeufs et thon if you want it vegan.",
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lablabi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lablabi",
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne",
+      "https://africa.com/lifestyle/seven-typical-tunisian-dishes-you-must-try"
+    ]
+  },
+  {
+    "id": "tunisia-fricasse",
+    "name": "Fricassé",
+    "local_name": "Fricassé",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Tunisia",
+    "state": "Tunis & North",
+    "regions": [],
+    "description": "A small fried bread-dough bun split open, spread with harissa and filled with tuna in oil, capers, boiled potato and olives. Mostly sold in small fry shops; it has nothing in common with the European fricassee stew.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in friteries (fry shops), which also sell bambalouni.",
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tunisian_cuisine",
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne"
+    ]
+  },
+  {
+    "id": "tunisia-kafteji",
+    "name": "Kafteji",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Tunis & North",
+    "regions": [],
+    "description": "A mix of fried vegetables (courgette, pumpkin, peppers, potatoes), fried egg and liver chopped together and seasoned with olive oil, harissa, coriander and caraway; some versions use a garlicky tomato sauce with meatballs. It is substantial enough to be a full meal.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne"
+    ]
+  },
+  {
+    "id": "tunisia-chakchouka",
+    "name": "Tunisian chakchouka",
+    "local_name": "شكشوكة",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Tunis & North",
+    "regions": [],
+    "description": "Tomato and onion cooked in olive oil with garlic, pepper, paprika, coriander and caraway, a main vegetable such as pepper or courgette, potatoes, and soft-cooked eggs. Unlike ojja it uses onion and can take several vegetables; the Djerba version adds dried meat preserved in oil and dried anchovies (ouzaf).",
+    "how_to_eat": "Eat with bread, dipping it into the sauce.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shakshouka",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne",
+      "https://africa.com/lifestyle/seven-typical-tunisian-dishes-you-must-try",
+      "https://en.wikipedia.org/wiki/Shakshouka"
+    ]
+  },
+  {
+    "id": "tunisia-ojja",
+    "name": "Ojja",
+    "local_name": "عجة تونسية",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Tunis & North",
+    "regions": [],
+    "description": "Eggs scrambled into a sauce of tomatoes and peppers cooked in oil with garlic, ground caraway and harissa or paprika. It is often made with merguez, meatballs, brains or shrimp, and differs from chakchouka in using no onion and only caraway as spice.",
+    "how_to_eat": null,
+    "how_to_order": "Ojja merguez (with sausage) is a common version.",
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Ojja",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Ojja",
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne"
+    ]
+  },
+  {
+    "id": "tunisia-mloukhia",
+    "name": "Tunisian mloukhia",
+    "local_name": "ملوخية",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Tunis & North",
+    "regions": [],
+    "description": "A very dark stew made from dried, finely ground jute (corète) leaves mixed with olive oil and cooked for hours with beef or young camel meat, onion, tomato paste, garlic, coriander, caraway, chilli and bay leaves. Unlike the leaf-based Egyptian and Levantine versions, the Tunisian one uses the powder. It is traditionally cooked for the Islamic New Year.",
+    "how_to_eat": "Eat with fresh bread.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Mloukhiya",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne",
+      "https://www.discovertunisia.com/sites/default/files/gastronomie_tunisie.pdf",
+      "https://fr.wikipedia.org/wiki/Mloukhiya"
+    ]
+  },
+  {
+    "id": "tunisia-bambalouni",
+    "name": "Bambalouni",
+    "local_name": "بمبالوني",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Tunisia",
+    "state": "Tunis & North",
+    "regions": [
+      "Sidi Bou Said"
+    ],
+    "description": "A ring-shaped doughnut of flour dough fried in oil, sprinkled with sugar or soaked in honey. It is made at home or bought from fry shops and is associated with Sidi Bou Said, where it is sold to Tunisians and visitors.",
+    "how_to_eat": "Eaten at breakfast or as an afternoon snack, sometimes with honey or jam.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bambalouni",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bambalouni",
+      "https://fr.wikipedia.org/wiki/Bambalouni",
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne"
+    ]
+  },
+  {
+    "id": "tunisia-assidat-zgougou",
+    "name": "Assidat zgougou",
+    "local_name": "عصيدة الزقوقو",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Tunisia",
+    "state": "Tunis & North",
+    "regions": [],
+    "description": "A cream of Aleppo pine seed powder, flour, milk, condensed milk and sugar, decorated with patterns of pine nuts, pistachios and hazelnuts. It is prepared for the Mawlid (Mouled) holiday.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Assidat_zgougou",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Assidat_zgougou",
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne"
+    ]
+  },
+  {
+    "id": "tunisia-the-aux-pignons",
+    "name": "Tea with pine nuts",
+    "local_name": "شاي بالصنوبر",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Tunisia",
+    "state": "Tunis & North",
+    "regions": [],
+    "description": "Mint tea (or geranium-scented tea in winter) served with pine nuts floating in the glass; almonds or roasted peanuts can replace them. It is served at weddings and family or friends' gatherings.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for thé aux pignons.",
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tea_with_pine_nuts",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tea_with_pine_nuts",
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne"
+    ]
+  },
+  {
+    "id": "tunisia-boukha",
+    "name": "Boukha",
+    "local_name": "بوخة",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Tunisia",
+    "state": "Tunis & North",
+    "regions": [],
+    "description": "A distilled spirit made from figs. It originated in the Tunisian Jewish community, which still produces most of it.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boukha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Boukha",
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne"
+    ]
+  },
+  {
+    "id": "tunisia-slata-mechouia",
+    "name": "Slata mechouia",
+    "local_name": "سلاطة مشوية",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Cap Bon & Zaghouan",
+    "regions": [
+      "Cap Bon"
+    ],
+    "description": "Grilled tomatoes, peppers or fresh chillies and onions, peeled and chopped, seasoned with garlic, coriander, caraway, olive oil and lemon juice, often with harissa. It is normally topped with tuna and slices of hard-boiled egg, and is credited to Andalusians who settled in Cap Bon after 1492 bringing New World peppers and tomatoes.",
+    "how_to_eat": "Served as a starter or alongside grilled fish.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mechouia_salad",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mechouia_salad",
+      "https://fr.wikipedia.org/wiki/Slata_méchouia",
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne",
+      "https://africa.com/lifestyle/seven-typical-tunisian-dishes-you-must-try"
+    ]
+  },
+  {
+    "id": "tunisia-kaak-warka",
+    "name": "Kaak warka of Zaghouan",
+    "local_name": "Kaak El Warka",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Tunisia",
+    "state": "Cap Bon & Zaghouan",
+    "regions": [
+      "Zaghouan"
+    ],
+    "description": "A small white ring of very thin pastry wrapped around almond paste flavoured with nesri, water distilled from wild rose (églantine) gathered around Zaghouan. The recipe is linked to Andalusian families who settled in Zaghouan in the 17th century; it is made for Eid al-Fitr and weddings, and the town holds a festival for it.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://fr.allafrica.com/stories/202603080012.html",
+      "https://fr.wikipedia.org/wiki/Zaghouan"
+    ]
+  },
+  {
+    "id": "tunisia-kaak-dates",
+    "name": "Date kaak of Hammam Ghezaz",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Tunisia",
+    "state": "Cap Bon & Zaghouan",
+    "regions": [
+      "Hammam Ghezaz"
+    ],
+    "description": "Bagel-shaped biscuits of semolina sourdough enriched with homemade butter and rosewater, filled with dates worked with olive oil and sesame, and decorated with shapes such as flowers, fish or the khamsa. Families start making them during Ramadan to eat at Eid al-Fitr, baking them on the walls of a tabouna oven.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://aa.com.tr/en/africa/kaak-tunisias-quintessential-eid-al-fitr-dessert/1177227"
+    ]
+  },
+  {
+    "id": "tunisia-sugar-dolls",
+    "name": "Nabeul sugar dolls",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Tunisia",
+    "state": "Cap Bon & Zaghouan",
+    "regions": [
+      "Nabeul"
+    ],
+    "description": "Figures made of sugar in the shape of a bride, gazelle or fish for girls and a rooster, horse or lion for boys. They are broken and eaten ten days after the Islamic New Year to mark Achoura; Nabeul holds a festival and a contest for them.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Nabeul"
+    ]
+  },
+  {
+    "id": "tunisia-stuffed-squid",
+    "name": "Stuffed squid",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Sahel & Kairouan",
+    "regions": [
+      "Sousse",
+      "Monastir"
+    ],
+    "description": "Squid pockets stuffed with greens (chard, spinach, parsley), a little sheep liver, chickpeas, rice or bulgur, onion, garlic, dried mint and harissa bound with raw egg, or with greens, hard-boiled egg and chopped tentacles. They are eaten with couscous or in a spicy tomato sauce, and are a specialty of the central coast, particularly Sousse and Monastir.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "shellfish",
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tunisian_cuisine"
+    ]
+  },
+  {
+    "id": "tunisia-couscous-charkaw",
+    "name": "Couscous charkaw",
+    "local_name": "Couscous au cherkaw",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Sahel & Kairouan",
+    "regions": [
+      "Monastir"
+    ],
+    "description": "A fish couscous of Monastir: fine or medium semolina steamed over a broth of fried peppers and onions, potatoes, pumpkin, tomato paste and fish, served with fish marinated in garlic, harissa, cumin and lemon and fried. A local festival has been dedicated to it every summer since 2004.",
+    "how_to_eat": "The grain, peppers, fried fish, vegetables and boiled fish are served separately, with mechouia salad.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://lepetitjournal.com/vivre-a-tunis/en-images-le-couscous-charkaw-de-monastir-53330",
+      "https://fr.wikipedia.org/wiki/Monastir"
+    ]
+  },
+  {
+    "id": "tunisia-smasem",
+    "name": "Smasem",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Sahel & Kairouan",
+    "regions": [
+      "Monastir"
+    ],
+    "description": "A beef couscous cooked in Monastir for wedding feasts. Its name refers to the generous portions of meat served beside the semolina.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Monastir"
+    ]
+  },
+  {
+    "id": "tunisia-chapati-mahdia",
+    "name": "Chapati mahdia",
+    "local_name": "Chapati de Mahdia",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Tunisia",
+    "state": "Sahel & Kairouan",
+    "regions": [
+      "Mahdia"
+    ],
+    "description": "The Sahel version of the Tunisian chapati sandwich: a leavened bread with a sticky dough, shaped like a calzone, filled with turmeric omelette, tuna, potato, harissa, olive oil, onion and parsley, sometimes cheese, then closed and heated. The northern chapati of Tunis is round instead.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "egg",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Chapati_tunisien",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Chapati_tunisien"
+    ]
+  },
+  {
+    "id": "tunisia-makroudh",
+    "name": "Makroudh of Kairouan",
+    "local_name": "مقروض",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Tunisia",
+    "state": "Sahel & Kairouan",
+    "regions": [
+      "Kairouan"
+    ],
+    "description": "Diamond-shaped pastries of semolina and olive oil filled with date paste (sometimes almonds), fried and soaked in honey or sugar syrup; white versions are baked. Kairouan is the Tunisian city known for them; the town's own history credits the Aghlabid dynasty with bringing the pastry there.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Makroudh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Makroudh",
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne",
+      "https://fr.wikipedia.org/wiki/Kairouan",
+      "https://africa.com/lifestyle/seven-typical-tunisian-dishes-you-must-try"
+    ]
+  },
+  {
+    "id": "tunisia-couscous-bel-marka",
+    "name": "Couscous bel marka",
+    "local_name": "M'raika sfaxia",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Sfax",
+    "regions": [
+      "Sfax"
+    ],
+    "description": "Sfax's fish couscous: fine semolina served with small fish (sbares) cooked in a tomato, onion, garlic, chilli, turmeric and cumin sauce, with larger fish such as bream grilled on the barbecue. It is typically cooked on Sundays; the same sauce can also be served with barley, macaroni, barley bread or toasted stale bread.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.discovertunisia.com/sites/default/files/gastronomie_tunisie.pdf",
+      "https://lepetitjournal.com/vivre-a-tunis/gastronomie-cuisine-sfaxienne-53301",
+      "https://fr.wikipedia.org/wiki/Sfax"
+    ]
+  },
+  {
+    "id": "tunisia-charmoula",
+    "name": "Charmoula with salted fish",
+    "local_name": "Charmoula",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Sfax",
+    "regions": [
+      "Sfax",
+      "Monastir"
+    ],
+    "description": "A sweet-savoury sauce of raisins, onions, olive oil and spices served with salted fish (hout mālah), in Monastir usually mullet, desalted and steamed. It is a festive dish eaten on Eid al-Fitr.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tunisian_cuisine",
+      "https://fr.wikipedia.org/wiki/Sfax",
+      "https://fr.wikipedia.org/wiki/Monastir",
+      "https://lepetitjournal.com/vivre-a-tunis/gastronomie-cuisine-sfaxienne-53301"
+    ]
+  },
+  {
+    "id": "tunisia-malthouth-bel-besbes",
+    "name": "Malthouth bel besbes",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Sfax",
+    "regions": [
+      "Sfax"
+    ],
+    "description": "Cracked barley (malthouth) mixed with fennel leaves and coriander, served spiced with plenty of vegetables. It is made in large quantities to share with family and neighbours and is followed by fresh mint tea.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.discovertunisia.com/sites/default/files/gastronomie_tunisie.pdf"
+    ]
+  },
+  {
+    "id": "tunisia-halelem-bel-kaddid",
+    "name": "Halelem bel kaddid",
+    "local_name": "حلالم",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Sfax",
+    "regions": [
+      "Sfax"
+    ],
+    "description": "A soup of homemade pasta (hlalem) with dried meat (kaddid) and dried merguez, usually served in winter. Hlalem with pulses and kaddid is also a traditional dish in Béja.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Hlalem",
+    "source_urls": [
+      "https://www.discovertunisia.com/sites/default/files/gastronomie_tunisie.pdf",
+      "https://fr.wikipedia.org/wiki/Hlalem",
+      "https://fr.wikipedia.org/wiki/Béja"
+    ]
+  },
+  {
+    "id": "tunisia-fish-kefta",
+    "name": "Sfax fish kefta",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Tunisia",
+    "state": "Sfax",
+    "regions": [
+      "Sfax"
+    ],
+    "description": "Patties of steamed fish mashed with potato, parsley, egg, onion, garlic and spices (coriander, caraway, chilli, ras el hanout), slightly flattened and fried. They are served hot or cold with lemon.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://lepetitjournal.com/vivre-a-tunis/gastronomie-cuisine-sfaxienne-53301",
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne"
+    ]
+  },
+  {
+    "id": "tunisia-mlabes",
+    "name": "Mlabes",
+    "local_name": "ملبس",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Tunisia",
+    "state": "Sfax",
+    "regions": [
+      "Sfax"
+    ],
+    "description": "Small almond-based pastries of sugar, blanched almonds (or pistachio or hazelnut) and egg whites, sometimes with rosewater, finished with a glaze of egg white and sugar and made in various shapes and colours. In Tunisia they are a specialty of Sfax, whose pastry shops are known for fine almond and pistachio sweets.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Mlabes",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Mlabes",
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne",
+      "https://fr.wikipedia.org/wiki/Sfax"
+    ]
+  },
+  {
+    "id": "tunisia-rouz-jerbi",
+    "name": "Rouz jerbi",
+    "local_name": "روز جربي",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Djerba & South",
+    "regions": [
+      "Djerba"
+    ],
+    "description": "Djerba rice: rice mixed raw with chopped seafood (usually octopus, cuttlefish or shrimp), chicken, lamb or beef, liver, spinach or chard, herbs, tomato paste, olive oil and spices, left to rest and then steamed in a couscoussier.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Riz_djerbien",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Riz_djerbien",
+      "https://lepetitjournal.com/vivre-a-tunis/typique-saveurs-du-sud-tunisien-53649",
+      "https://fr.wikipedia.org/wiki/Djerba"
+    ]
+  },
+  {
+    "id": "tunisia-couscous-djerbien",
+    "name": "Couscous djerbien",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Djerba & South",
+    "regions": [
+      "Djerba"
+    ],
+    "description": "In Djerba's couscous the semolina, the fish or meat and the spiced vegetables are all steamed, using a two-tier clay couscoussier typical of the island called keskess bou rouhine. Fish is the common version on the coast; meat couscous is served at most Djerba weddings.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Djerba",
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne",
+      "https://africa.com/lifestyle/seven-typical-tunisian-dishes-you-must-try"
+    ]
+  },
+  {
+    "id": "tunisia-mesfouf-djerbien",
+    "name": "Mesfouf djerbien",
+    "local_name": "مسفوف",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Djerba & South",
+    "regions": [
+      "Djerba"
+    ],
+    "description": "A savoury, lightly sauced and spicy couscous of Djerba, made with herbs such as wild garlic (yazoul), pickled peppers and chillies (hrous), dried meat preserved in olive oil or small dried anchovies (ouzaf). In northern Tunisia mesfouf is instead a sweet dessert.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mesfouf",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Mesfouf",
+      "https://fr.wikipedia.org/wiki/Djerba",
+      "https://africanmanager.com/tourisme-culinaire-lile-de-djerba-celebre-les-variantes-locales-de-son-couscous-tunisien/"
+    ]
+  },
+  {
+    "id": "tunisia-zammita",
+    "name": "Zammita",
+    "local_name": "بسيسة",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Tunisia",
+    "state": "Djerba & South",
+    "regions": [
+      "Djerba"
+    ],
+    "description": "A barley bsisa: roasted barley flour with lentils, fenugreek, anise and spices, mixed with olive oil and water. Djerbians eat it for breakfast, as a snack or a main meal with raw or pickled vegetables or fruit such as grapes or pomegranate.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bsisa",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Djerba",
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne",
+      "https://en.wikipedia.org/wiki/Bsisa"
+    ]
+  },
+  {
+    "id": "tunisia-yehni",
+    "name": "Yehni",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Djerba & South",
+    "regions": [
+      "Djerba"
+    ],
+    "description": "A meat stew with tomato sauce, pumpkin, potato, peppers, chickpeas and raisins. Together with meat couscous it is served at most weddings in Djerba.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne"
+    ]
+  },
+  {
+    "id": "tunisia-legmi",
+    "name": "Legmi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Tunisia",
+    "state": "Djerba & South",
+    "regions": [
+      "Gabès"
+    ],
+    "description": "Sweet date-palm sap collected at dawn and drunk fresh like juice; it ferments within hours into palm wine and quickly turns to vinegar in the summer heat. It is drunk mainly from March to October, including to break the Ramadan fast.",
+    "how_to_eat": null,
+    "how_to_order": "Bought by the bottle early in the morning from oasis producers around Gabès.",
+    "typical_price": "2.5 per litre",
+    "currency": "TND",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.africanews.com/2019/08/14/tunisia-s-delicate-legmi-palm-wine-drink/",
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne",
+      "https://fr.wikipedia.org/wiki/Djerba"
+    ]
+  },
+  {
+    "id": "tunisia-mtabga",
+    "name": "Mtabga",
+    "local_name": "مطبقة",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Tunisia",
+    "state": "Djerba & South",
+    "regions": [],
+    "description": "A southern flatbread, also called kesra bech'ham, of fine semolina dough filled with cubed lamb-tail fat, onion, garlic, parsley, tomato paste, chilli, harissa, caraway and turmeric, sealed, flattened thin and cooked on both sides in a very hot pan.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Mtabga",
+    "source_urls": [
+      "https://lepetitjournal.com/vivre-a-tunis/typique-saveurs-du-sud-tunisien-53649",
+      "https://fr.wikipedia.org/wiki/Mtabga"
+    ]
+  },
+  {
+    "id": "tunisia-mahchi-tataouine",
+    "name": "Mahchi Tataouine (gazelle horns)",
+    "local_name": "Garn ghzel",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Tunisia",
+    "state": "Djerba & South",
+    "regions": [
+      "Tataouine"
+    ],
+    "description": "A traditional pastry of Tataouine shaped like small elongated horns: dough filled with crushed almonds, fried in oil and dipped in honey or sugar syrup.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne"
+    ]
+  },
+  {
+    "id": "tunisia-mosli",
+    "name": "Mosli",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Djerba & South",
+    "regions": [
+      "Tozeur"
+    ],
+    "description": "Leg or shoulder of lamb roasted in the oven or over embers, seasoned with saffron or turmeric, pepper, salt and olive oil. Around Tozeur the local free-range lamb is eaten with couscous or as mosli with spiced apples.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne",
+      "https://fr.wikipedia.org/wiki/Tozeur"
+    ]
+  },
+  {
+    "id": "tunisia-borzgane",
+    "name": "Borzgane",
+    "local_name": "برزقان",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Northwest",
+    "regions": [
+      "Le Kef",
+      "Béja"
+    ],
+    "description": "A lightly sweet couscous with lamb, layered with dried fruit and nuts and dates, prepared with milk, butter and orange blossom water and no vegetables. It is the spring dish of the northwest, eaten in Le Kef from early May during the Mayou (borzgane) festival.",
+    "how_to_eat": "Eaten with milk and herbs such as thyme or rosemary.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Borzgane",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Borzgane",
+      "https://fr.wikipedia.org/wiki/Le_Kef",
+      "https://lepetitjournal.com/vivre-a-tunis/terroir-couscous-borzguene-specialite-kef-331557",
+      "https://www.webdo.tn/fr/actualite/chroniques/mraghed-mraiech-borzgane-tradition-nordiste-de-lagneau-de-lait-printemps/187062/",
+      "https://africa.com/lifestyle/seven-typical-tunisian-dishes-you-must-try"
+    ]
+  },
+  {
+    "id": "tunisia-mraghed",
+    "name": "Mraghed",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Tunisia",
+    "state": "Northwest",
+    "regions": [
+      "Le Kef"
+    ],
+    "description": "A spring couscous of the northwest made with lamb, eaten with milk or lben (fermented milk). Related variants include mraiech and the rosemary-scented ftat of Béja.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.webdo.tn/fr/actualite/chroniques/mraghed-mraiech-borzgane-tradition-nordiste-de-lagneau-de-lait-printemps/187062/"
+    ]
+  },
+  {
+    "id": "tunisia-mkharek",
+    "name": "Mkharek of Béja",
+    "local_name": "مخارق",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Tunisia",
+    "state": "Northwest",
+    "regions": [
+      "Béja"
+    ],
+    "description": "Round fritters of a soft, light yeasted dough of flour, smen and beaten eggs, left to rise up to 24 hours, fried and dipped in honey or thick sugar syrup. Typical of Béja and sold all year, they are a standard Ramadan sweet across Tunisia.",
+    "how_to_eat": null,
+    "how_to_order": "Sold by weight at Béja pastry stalls, especially during Ramadan.",
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Mkharek",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Mkharek",
+      "https://www.tunisienumerique.com/beja-en-mode-ramadan-mkharek-et-zlabia-en-vedette-au-marche-photosvideo/",
+      "https://www.tunisienumerique.com/beja-zlabia-mkharak-et-fromages-attirent-des-milliers-de-visiteurs-pendant-le-ramadan/"
+    ]
+  },
+  {
+    "id": "tunisia-zlabia-beja",
+    "name": "Zlabia of Béja",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Tunisia",
+    "state": "Northwest",
+    "regions": [
+      "Béja"
+    ],
+    "description": "A fried, syrup-soaked sweet of very light leavened dough, close to mkharek but different in shape and colour. Béja's artisans make it with clarified butter, honey and eggs, and families from across Tunisia buy it there for Ramadan iftar.",
+    "how_to_eat": null,
+    "how_to_order": "Sold by weight alongside mkharek in Béja during Ramadan.",
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Cuisine_tunisienne",
+      "https://fr.wikipedia.org/wiki/Béja",
+      "https://www.tunisienumerique.com/beja-zlabia-mkharak-et-fromages-attirent-des-milliers-de-visiteurs-pendant-le-ramadan/",
+      "https://www.tunisienumerique.com/beja-en-mode-ramadan-mkharek-et-zlabia-en-vedette-au-marche-photosvideo/"
+    ]
+  },
+  {
+    "id": "tunisia-mjamaa",
+    "name": "Mjamaa (khobz el aid)",
+    "local_name": "Khobz el aid",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Tunisia",
+    "state": "Northwest",
+    "regions": [
+      "Le Kef"
+    ],
+    "description": "A festive bread of Le Kef baked for holidays, topped with an egg and decorated with dough.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Le_Kef"
+    ]
+  },
+  {
+    "id": "tunisia-thibarine",
+    "name": "Thibarine",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Tunisia",
+    "state": "Northwest",
+    "regions": [
+      "Thibar"
+    ],
+    "description": "A liqueur of 40-45% alcohol made from alcohol, sugar and aromatic plants, often presented as a date liqueur. It was first produced by the White Fathers of Thibar.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "TND",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/Thibarine",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Thibarine",
+      "https://en.wikipedia.org/wiki/Tunisian_cuisine"
+    ]
+  }
+]
