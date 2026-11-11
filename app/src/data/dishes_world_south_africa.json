@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "south_africa-bobotie",
+    "name": "Bobotie",
+    "local_name": null,
+    "pronunciation": "buh-BOO-uh-tee",
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Cape Town & Cape Malay",
+    "regions": [
+      "Cape Town"
+    ],
+    "description": "Spiced minced meat, today usually beef or lamb, baked with milk-soaked bread and dried fruit such as raisins or apricots under an egg-and-milk topping, seasoned with curry powder. A recipe appeared in a Dutch cookbook in 1609; at the Cape it was adopted by the Cape Malay community and has been known there since the 17th century.",
+    "how_to_eat": "Usually served with turmeric yellow rice, often with sambal, chutney and banana slices.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bobotie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bobotie",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-tomato-bredie",
+    "name": "Tomato bredie",
+    "local_name": "Tamatiebredie",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Cape Town & Cape Malay",
+    "regions": [],
+    "description": "A long-cooked stew, normally of mutton, with tomato and spices including cinnamon, cardamom, ginger, cloves and chilli. Bredie is the Afrikaans word for stew; the cooking style was brought to the Cape by enslaved Malays, and other versions use pumpkin, green beans or waterblommetjies.",
+    "how_to_eat": "Served with rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tomato_bredie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tomato_bredie"
+    ]
+  },
+  {
+    "id": "south_africa-koesister",
+    "name": "Koe'sister",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "South Africa",
+    "state": "Cape Town & Cape Malay",
+    "regions": [
+      "Cape Flats"
+    ],
+    "description": "A Cape Malay yeast-dough dumpling spiced with cinnamon, aniseed, ginger, cardamom and dried tangerine peel, deep-fried, briefly boiled in syrup and rolled in desiccated coconut. It is softer and cake-like, unlike the plaited, crisp Afrikaner koeksister; World Koesister Day is held on the first Sunday in September.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Koe%27sister",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Koe%27sister",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-gatsby",
+    "name": "Gatsby",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "South Africa",
+    "state": "Cape Town & Cape Malay",
+    "regions": [
+      "Cape Town",
+      "Athlone"
+    ],
+    "description": "A long bread roll, a foot or more, filled with chips plus fillings such as steak, masala steak, chicken, polony, Vienna sausage or fried fish, dressed with achar or peri-peri sauce. It was created in 1976 in Athlone on the Cape Flats by shop owner Rashaad Pandy, and is made big enough to be cut and shared, usually four ways.",
+    "how_to_eat": "Cut into wedges and shared among several people.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gatsby_(sandwich)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gatsby_(sandwich)"
+    ]
+  },
+  {
+    "id": "south_africa-denningvleis",
+    "name": "Denningvleis",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Cape Town & Cape Malay",
+    "regions": [],
+    "description": "A Cape Malay braise of lamb or mutton slow-cooked with browned onions, allspice, bay leaves, garlic, chilli, nutmeg, tamarind and a little sugar, giving a sweet-sour gravy.",
+    "how_to_eat": "Served with yellow rice and cooked vegetables such as butternut or carrots.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "http://www.koesister.com/post/denningvleis"
+    ]
+  },
+  {
+    "id": "south_africa-pickled-fish",
+    "name": "Cape Malay pickled fish",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Cape Town & Cape Malay",
+    "regions": [
+      "Cape Town"
+    ],
+    "description": "Fish such as yellowtail, kabeljou, snoek or hake left for two to three days in a sweet-sour curried sauce of onions, vinegar, sugar, bay leaves and fish masala. Cape Malay cooks used a spice masala to preserve fish for Dutch East India Company voyages, and it is traditionally eaten by both Christian and Muslim families over the Easter weekend.",
+    "how_to_eat": "Often eaten with hot cross buns or bread, hot or cold.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.news24.com/southafrica/news/pickled-fish-fever-sets-in-in-cape-town-20220415",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-boeber",
+    "name": "Boeber",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "South Africa",
+    "state": "Cape Town & Cape Malay",
+    "regions": [],
+    "description": "A Cape Malay sweet milk drink or pudding made with vermicelli, sago and sugar, flavoured with cardamom, cinnamon stick and rose water. It is traditionally served on the 15th night of Ramadan to mark the middle of the fast.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boeber",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Boeber",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-hertzoggie",
+    "name": "Hertzoggie",
+    "local_name": "Hertzogkoekie",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "South Africa",
+    "state": "Cape Town & Cape Malay",
+    "regions": [],
+    "description": "A small pastry tartlet filled with apricot jam and topped with a baked desiccated-coconut meringue, named after Prime Minister J. B. M. Hertzog. In the Cape Malay community it is often eaten during Eid, and it is commonly home-baked and sold alongside koeksisters.",
+    "how_to_eat": "Often eaten with a cup of tea.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hertzoggie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hertzoggie",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-waterblommetjiebredie",
+    "name": "Waterblommetjiebredie",
+    "local_name": "Waterblommetjiebredie",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Winelands & Western Cape",
+    "regions": [],
+    "description": "A winter stew of lamb or mutton cooked with waterblommetjies, the flower buds of the Cape pondweed (Aponogeton distachyos) that grows in Western Cape dams and marshes. The buds are usually picked in July and August, and the taste has been compared to stewed green beans.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Waterblommetjiebredie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Waterblommetjiebredie",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-melktert",
+    "name": "Melktert",
+    "local_name": "Melktert",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "South Africa",
+    "state": "Winelands & Western Cape",
+    "regions": [],
+    "description": "Afrikaans for milk tart: a sweet shortcrust pastry case filled with a custard of milk, flour, sugar and eggs, often dusted with cinnamon. It uses more milk relative to egg than a Portuguese custard tart, giving a lighter texture and a stronger milk flavour.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Melktert",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Melktert"
+    ]
+  },
+  {
+    "id": "south_africa-malva-pudding",
+    "name": "Malva pudding",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "South Africa",
+    "state": "Winelands & Western Cape",
+    "regions": [],
+    "description": "A baked sponge pudding made with apricot jam, soaked while hot with a sauce of butter, cream and sugar poured into holes pricked in the top. It is thought to be of Dutch or Cape Dutch origin; it appeared on the menu of the Boschendal wine estate in 1978, and a 1918 recipe for a similar telefoenpoeding is recorded.",
+    "how_to_eat": "Served warm with custard or ice cream.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Malva_pudding",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Malva_pudding"
+    ]
+  },
+  {
+    "id": "south_africa-mosbolletjies",
+    "name": "Mosbolletjies",
+    "local_name": "Mosbolletjies",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "South Africa",
+    "state": "Winelands & Western Cape",
+    "regions": [
+      "Franschhoek"
+    ],
+    "description": "Sweet aniseed buns from the wine-producing Western Cape, traditionally leavened with mos (grape must left from winemaking), now usually grape juice and yeast. The buns are baked packed together in a tray, and can be dried into rusks (mosbeskuit); the tradition is linked to Huguenot settlers in Franschhoek.",
+    "how_to_eat": "Pulled apart and served with tea or coffee.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mosbolletjies",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mosbolletjies",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-pinotage",
+    "name": "Pinotage",
+    "local_name": null,
+    "pronunciation": "PIN-oh-tahzh",
+    "category": "drink",
+    "country": "South Africa",
+    "state": "Winelands & Western Cape",
+    "regions": [
+      "Stellenbosch"
+    ],
+    "description": "A red wine grape created in 1924 by Professor Abraham Izak Perold at Stellenbosch University by crossing Pinot noir with Cinsaut, then called Hermitage in South Africa. The first wine was made in 1941 at Elsenburg; it is described as South Africa's signature variety, giving deep red wines with smoky, bramble and earthy flavours.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pinotage",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pinotage"
+    ]
+  },
+  {
+    "id": "south_africa-rooibos",
+    "name": "Rooibos tea",
+    "local_name": "Rooibos",
+    "pronunciation": "ROY-boss",
+    "category": "drink",
+    "country": "South Africa",
+    "state": "Winelands & Western Cape",
+    "regions": [
+      "Cederberg",
+      "Clanwilliam"
+    ],
+    "description": "A caffeine-free herbal infusion from the leaves of Aspalathus linearis ('red bush'), grown in the Cederberg area north of Cape Town; the leaves are usually oxidised, giving the red-brown colour. Since 31 May 2021 'Rooibos'/'Red Bush' is an EU protected designation of origin, the first African food with that status.",
+    "how_to_eat": "Steeped in hot water in the same way as black tea.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rooibos",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rooibos",
+      "https://www.sanews.gov.za/south-africa/south-african-rooibos-makes-list-eus-protected-designations"
+    ]
+  },
+  {
+    "id": "south_africa-bunny-chow",
+    "name": "Bunny chow",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "South Africa",
+    "state": "Durban & KwaZulu-Natal",
+    "regions": [
+      "Durban"
+    ],
+    "description": "A hollowed-out loaf of white bread, often a quarter loaf, filled with curry and served with salad on the side. It originated among Indian South Africans in Durban, dated to the 1940s; early versions held beans and vegetables, with meat fillings coming later.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bunny_chow",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bunny_chow",
+      "https://southafrica.net/uk/en/travel/article/all-you-need-to-know-about-durban-indian-cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-durban-curry",
+    "name": "Durban curry",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Durban & KwaZulu-Natal",
+    "regions": [
+      "Durban"
+    ],
+    "description": "A hot curry, typically of mutton or lamb, built on garlic, ginger and a masala of cayenne, paprika, cinnamon, cumin and fennel, with potatoes often added; it is spicier than Cape Malay curry. Its roots lie with Indian indentured labourers who arrived in Natal from 1860, and Durban curries are known for the glossy layer of oil on top.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/South_African_cuisine",
+      "https://southafrica.net/uk/en/travel/article/all-you-need-to-know-about-durban-indian-cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-ujeqe",
+    "name": "Ujeqe",
+    "local_name": "Ujeqe",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Durban & KwaZulu-Natal",
+    "regions": [],
+    "description": "A Zulu steamed bread of wheat flour, sugar, salt, yeast and water, sometimes with maize meal, steamed sealed so it keeps its moisture and forms a thin golden skin. It is usually made at home to be eaten the same day.",
+    "how_to_eat": "Eaten alone or with tomato soup or stews.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Steamed_bread"
+    ]
+  },
+  {
+    "id": "south_africa-amasi",
+    "name": "Amasi",
+    "local_name": "Amasi",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "South Africa",
+    "state": "Durban & KwaZulu-Natal",
+    "regions": [],
+    "description": "Thick, sour fermented cow's milk, traditionally made by leaving milk to ferment for 1-5 days in a calabash or hide sack. It is poured over maize porridge or drunk, and in Zulu tradition it is believed to make a man strong and healthy.",
+    "how_to_eat": "Poured over crumbly pap or drunk on its own.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amasi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Amasi",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-isidudu",
+    "name": "Isidudu",
+    "local_name": "Isidudu",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Durban & KwaZulu-Natal",
+    "regions": [],
+    "description": "A soft porridge of mealie meal (ground maize), a common breakfast in Zulu and Xhosa households; the maize is sometimes fermented for a sour taste.",
+    "how_to_eat": "Eaten with sugar and milk, or with butter, peanut butter or vinegar and sugar.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Isidudu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Isidudu",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-kota",
+    "name": "Kota",
+    "local_name": "Sphatlho",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "South Africa",
+    "state": "Johannesburg & Gauteng",
+    "regions": [
+      "Soweto"
+    ],
+    "description": "A hollowed-out quarter loaf of bread stuffed with slap chips plus fillings such as polony, sausage, egg, cheese, beef patty and atchar. It started in the townships, derived from the bunny chow, and the name comes from 'quarter'; it is also called sphatlho or skhambane.",
+    "how_to_eat": "Often eaten with a cola.",
+    "how_to_order": "Sold at spaza shops and township takeaways; price depends on size and fillings.",
+    "typical_price": "15-120",
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spatlo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Spatlo",
+      "https://www.gulf-times.com/story/605494/Soweto-township-celebrates-iconic-street-snack"
+    ]
+  },
+  {
+    "id": "south_africa-mala-mogodu",
+    "name": "Mala mogodu",
+    "local_name": "Mala mogodu",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Johannesburg & Gauteng",
+    "regions": [],
+    "description": "A stew of chopped tripe (serobe) and intestines (mala) of a cow or sheep; mala is the Setswana/Sesotho word for the insides. It is a local form of tripe also called ulusu.",
+    "how_to_eat": "Usually eaten with hot pap and spinach.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mala_mogodu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mala_mogodu",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-pap",
+    "name": "Pap",
+    "local_name": "Pap",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Johannesburg & Gauteng",
+    "regions": [],
+    "description": "A stiff maize-meal porridge, the staple of many South African households, usually served with stewed meat gravy. Rural families often ferment it for a few days, especially when made from sorghum; the Sotho-Tswana call fermented pap ting. At weekend braais it is eaten as pap en vleis, maize porridge with grilled meat.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-chakalaka",
+    "name": "Chakalaka",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Johannesburg & Gauteng",
+    "regions": [
+      "Johannesburg"
+    ],
+    "description": "A spicy vegetable relish of tomatoes, beans, onion, garlic and chilli or curry paste, sometimes with cabbage or butternut. It is said to have started in Johannesburg's townships or gold mines, where Mozambican mineworkers cooked tinned produce with chilli to go with pap.",
+    "how_to_eat": "Served with pap, bread, samp or at a braai, warm, cold or at room temperature.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chakalaka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chakalaka"
+    ]
+  },
+  {
+    "id": "south_africa-vetkoek",
+    "name": "Vetkoek",
+    "local_name": "Magwinya",
+    "pronunciation": "FET-cook",
+    "category": "street_food",
+    "country": "South Africa",
+    "state": "Johannesburg & Gauteng",
+    "regions": [],
+    "description": "Deep-fried yeast-dough bread shaped like a doughnut without a hole; the Afrikaans name means 'fat cake', and it is called amagwinya or magwinya in isiZulu, isiXhosa and Setswana. It is thought to date to the Voortrekkers of the 1830s and is sold at taxi ranks, roadside stalls and takeaways.",
+    "how_to_eat": "Eaten plain, with jam, or split and stuffed with curried mince.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vetkoek",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Vetkoek",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-mageu",
+    "name": "Mageu",
+    "local_name": "Mageu",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "South Africa",
+    "state": "Johannesburg & Gauteng",
+    "regions": [],
+    "description": "A non-alcoholic drink of thin maize porridge fermented with a little wheat flour, giving a sour taste from lactic acid. It is still made at home and also sold in supermarkets, often flavoured and sweetened.",
+    "how_to_eat": null,
+    "how_to_order": "Sold ready-made in supermarkets.",
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mageu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mageu",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-smiley",
+    "name": "Smiley",
+    "local_name": "Inhloko",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "South Africa",
+    "state": "Johannesburg & Gauteng",
+    "regions": [],
+    "description": "A cooked sheep's or cow's head, boiled as a stew. It is sold by street vendors in townships, sometimes in industrial areas with many workers.",
+    "how_to_eat": "Usually served with phuthu (crumbly maize meal).",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-umngqusho",
+    "name": "Umngqusho",
+    "local_name": "Umngqusho",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "regions": [],
+    "description": "Samp (stamped dried maize kernels) cooked with sugar beans, a staple of Xhosa cooking, also called isitambu by Zulu people. The Xhosa version, served with butter or fat, is said to have been Nelson Mandela's favourite dish.",
+    "how_to_eat": "Traditionally served with chicken (umleqwa) or with chakalaka.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Umngqusho",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Umngqusho",
+      "https://en.wikipedia.org/wiki/Samp"
+    ]
+  },
+  {
+    "id": "south_africa-umqombothi",
+    "name": "Umqombothi",
+    "local_name": "Umqombothi",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "regions": [],
+    "description": "A home-brewed beer of maize meal, maize malt, sorghum malt, yeast and water, below about 3% alcohol, thick, creamy and sour. It is cooked in a cast-iron potjie over a fire and fermented overnight.",
+    "how_to_eat": "Passed around a circle in a clay pot as a gesture of hospitality.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Umqombothi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Umqombothi",
+      "https://foodandhome.co.za/features/from-mopani-worms-to-magege-6-must-try-foods-in-limpopo"
+    ]
+  },
+  {
+    "id": "south_africa-umphokoqo",
+    "name": "Umphokoqo",
+    "local_name": "Umphokoqo",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "regions": [],
+    "description": "A crumbly, dry-cooked maize meal (also called phuthu), over which amasi sour milk is traditionally poured.",
+    "how_to_eat": "Eaten with amasi poured over the top.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/South_African_cuisine",
+      "https://en.wikipedia.org/wiki/Amasi"
+    ]
+  },
+  {
+    "id": "south_africa-honeybush-tea",
+    "name": "Honeybush tea",
+    "local_name": "Heuningbos",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "regions": [],
+    "description": "A herbal tea from the leaves of Cyclopia species, which grow only in small areas of the southwestern and southeastern Cape; the flowers smell of honey. It tastes similar to rooibos but a little sweeter, and does not turn bitter with long simmering.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cyclopia_(plant)"
+    ]
+  },
+  {
+    "id": "south_africa-karoo-lamb",
+    "name": "Karoo lamb",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Karoo & the Interior",
+    "regions": [
+      "Beaufort West",
+      "Laingsburg",
+      "Prince Albert"
+    ],
+    "description": "Lamb from sheep raised free-range on the natural veld of the Karoo, where they graze indigenous bushes such as kapok bush (wild rosemary) that locals credit for the meat's flavour. 'Karoo Lamb' was registered in 2023 as the first South African geographical indication under the Agricultural Product Standards Act; origin is checked through abattoir traceability.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://westerncape.gov.za/agriculture/article/gi-registration-karoo-lamb-promise-financial-and-reputational-benefits",
+      "https://www.karooheartland.com/karoo-lamb/"
+    ]
+  },
+  {
+    "id": "south_africa-potjiekos",
+    "name": "Potjiekos",
+    "local_name": "Potjiekos",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Karoo & the Interior",
+    "regions": [],
+    "description": "Afrikaans for 'small-pot food': meat, typically lamb or pork, slow-cooked outdoors with vegetables and starches in a three-legged cast-iron pot over wood or charcoal, often with beer or sherry added. It began with the Voortrekkers, who kept a stew of game and vegetables going in the pot on their journeys.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Potjiekos",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Potjiekos",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-biltong",
+    "name": "Biltong",
+    "local_name": "Biltong",
+    "pronunciation": "BILL-tong",
+    "category": "snack",
+    "country": "South Africa",
+    "state": "Karoo & the Interior",
+    "regions": [],
+    "description": "Strips of meat, usually beef but also game such as kudu or ostrich, cured with salt, vinegar and spices like coriander and pepper, then air-dried. Unlike jerky it is not heat-dried; the name comes from Afrikaans bil (buttock) and tong (strip).",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Biltong",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Biltong",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-droewors",
+    "name": "Droëwors",
+    "local_name": "Droëwors",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "South Africa",
+    "state": "Karoo & the Interior",
+    "regions": [],
+    "description": "Afrikaans for 'dry sausage': a thin boerewors-style sausage spiced with coriander, usually all beef with mutton fat, dried quickly in warm, dry air like biltong. It has no curing agent, so it must be kept dry.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dro%C3%ABwors",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dro%C3%ABwors",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-boerewors",
+    "name": "Boerewors",
+    "local_name": "Boerewors",
+    "pronunciation": "BOO-ruh-vors",
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Karoo & the Interior",
+    "regions": [],
+    "description": "A coarse sausage of beef, often with pork, lamb or goat, spiced with toasted coriander, pepper, nutmeg, cloves and allspice, and usually formed into a continuous spiral. By South African regulation it must be at least 90% meat and may contain no offal other than the casing.",
+    "how_to_eat": "Grilled on the braai and served with pap.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boerewors",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Boerewors",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-sosatie",
+    "name": "Sosatie",
+    "local_name": "Sosatie",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Karoo & the Interior",
+    "regions": [],
+    "description": "Cubes of meat, usually lamb or mutton, marinated overnight with fried onions, chilli, garlic, curry leaves and tamarind, threaded on skewers often with onions, peppers and dried apricots, and grilled. It is of Cape Malay origin, and the name comes from sate and saus.",
+    "how_to_eat": "Cooked on a braai.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sosatie",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sosatie",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-skilpadjies",
+    "name": "Skilpadjies",
+    "local_name": "Skilpadjies",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Karoo & the Interior",
+    "regions": [],
+    "description": "Minced lamb's liver with coriander, onion and Worcestershire sauce, wrapped in caul fat (netvet) and grilled over coals until the fat is crisp. The name means 'little tortoises'; a large sausage-sized version is called pofadder.",
+    "how_to_eat": "Eaten with mealie pap or toast.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Skilpadjies",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Skilpadjies",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-koeksister",
+    "name": "Koeksister",
+    "local_name": "Koeksister",
+    "pronunciation": "COOK-sis-ter",
+    "category": "sweet",
+    "country": "South Africa",
+    "state": "Karoo & the Interior",
+    "regions": [],
+    "description": "Plaited strips of dough deep-fried and plunged hot into ice-cold sugar syrup, giving a crunchy crust and a syrupy centre. It is an Afrikaner tradition; koeksisters were baked to raise funds for churches and schools, which a monument in Orania commemorates.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Koeksister",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Koeksister",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-mopane-worms",
+    "name": "Mopane worms",
+    "local_name": "Mashonzha",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "South Africa",
+    "state": "Limpopo & the North",
+    "regions": [],
+    "description": "The caterpillar of the emperor moth Gonimbrasia belina, hand-picked from mopane trees, gutted, boiled in salt and sun-dried or smoked. Limpopo and Mpumalanga are South Africa's main producing areas, and they are a seasonal protein source favoured by the Venda people.",
+    "how_to_eat": "Eaten dried as a crunchy snack, or rehydrated and cooked with tomato, onion and spices and served with pap.",
+    "how_to_order": "Sold dried, or tinned in brine, tomato or chilli sauce, at rural supermarkets and markets.",
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gonimbrasia_belina",
+      "https://www.sa-venues.com/cuisine-african-venda.php",
+      "https://foodandhome.co.za/features/from-mopani-worms-to-magege-6-must-try-foods-in-limpopo"
+    ]
+  },
+  {
+    "id": "south_africa-magege",
+    "name": "Magege",
+    "local_name": "Magege",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "South Africa",
+    "state": "Limpopo & the North",
+    "regions": [],
+    "description": "Termites harvested in Limpopo by dipping a dried grass stem into the mound; they are roasted into a crunchy, salty snack.",
+    "how_to_eat": "Eaten roasted as a snack or as a relish with pap.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://foodandhome.co.za/features/from-mopani-worms-to-magege-6-must-try-foods-in-limpopo"
+    ]
+  },
+  {
+    "id": "south_africa-morogo",
+    "name": "Morogo",
+    "local_name": "Morogo",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Limpopo & the North",
+    "regions": [],
+    "description": "Wild dark-green leafy vegetables, including amaranth, picked across Southern Africa and part of the staple diet in rural communities. They are boiled, or dried in small lumps for keeping, and complement the nutrients in maize.",
+    "how_to_eat": "Served with pap.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Morogo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Morogo",
+      "https://en.wikipedia.org/wiki/South_African_cuisine"
+    ]
+  },
+  {
+    "id": "south_africa-dikgobe",
+    "name": "Dikgobe",
+    "local_name": "Dikgobe",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "South Africa",
+    "state": "Limpopo & the North",
+    "regions": [],
+    "description": "Samp and beans cooked together, also called izinkobe. It is served at Setswana celebrations of life such as weddings, and at funerals, where it is one of two acceptable starches along with sorghum.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "ZAR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dikgobe",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dikgobe"
+    ]
+  }
+]

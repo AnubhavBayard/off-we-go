@@ -1,0 +1,784 @@
+[
+  {
+    "id": "cambodia-kuyteav-phnom-penh",
+    "name": "Kuyteav Phnom Penh",
+    "local_name": "គុយទាវ",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Cambodia",
+    "state": "Phnom Penh",
+    "regions": [
+      "Phnom Penh"
+    ],
+    "description": "Rice noodle soup in a clear broth of pork bones, dried squid and sugar, seasoned with fish sauce, over noodles dressed with caramelised garlic oil and an oyster-soy sauce. The Phnom Penh version carries the most toppings: ground pork, pork loin, belly, ribs, blood jelly, liver and other offal, and prawns. It is mainly a breakfast dish and vendors often sell out before midday.",
+    "how_to_eat": "Adjust it yourself with the herbs, bean sprouts, lime, crushed Kampot pepper, chilli and sauces on the table; it can also be served dry with the soup on the side.",
+    "how_to_order": "Look for it at market stalls and noodle shops (hang kuyteav) in the morning.",
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "soy",
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kuyteav",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kuyteav",
+      "https://en.wikipedia.org/wiki/Cambodian_cuisine"
+    ]
+  },
+  {
+    "id": "cambodia-lort-cha",
+    "name": "Lort cha",
+    "local_name": "លតឆា",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Cambodia",
+    "state": "Phnom Penh",
+    "regions": [
+      "Phnom Penh"
+    ],
+    "description": "Short silver needle rice noodles stir-fried with garlic, bean sprouts, chives or scallions, greens and beef, chicken or pork in palm sugar, fish sauce and dark soy sauce, topped with a fried egg. A Cambodian Chinese street dish sold as a cheap lunch from hot plates in Phnom Penh.",
+    "how_to_eat": "Add chilli sauce, soy or fish sauce from the side to taste.",
+    "how_to_order": "Ask for lort cha at street-side hot-plate stalls around lunchtime.",
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "soy",
+      "fish",
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lort_cha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lort_cha",
+      "https://www.nationalgeographic.com/travel/article/culinary-guide-cambodia-ancient-recipes-street-food"
+    ]
+  },
+  {
+    "id": "cambodia-bay-sach-chruk",
+    "name": "Bay sach chruk",
+    "local_name": "បាយសាច់ជ្រូក",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Cambodia",
+    "state": "Phnom Penh",
+    "regions": [],
+    "description": "Thin slices of pork marinated in palm sugar, garlic, coconut milk and fish sauce, grilled over coals and served on steamed rice. It comes with a bowl of chicken broth garnished with radish and fried onions and is a common breakfast across Cambodia.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in the morning by vendors keeping the pork warm over a grill.",
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bay_sach_chruk",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bay_sach_chruk"
+    ]
+  },
+  {
+    "id": "cambodia-fish-amok",
+    "name": "Fish amok",
+    "local_name": "អាម៉ុកត្រី",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cambodia",
+    "state": "Phnom Penh",
+    "regions": [],
+    "description": "Steamed fish curry with a mousse-like texture: fish such as goby, snakehead or catfish is mixed with yellow or green kroeung paste, coconut cream and egg, then steamed in a banana-leaf cup lined with great morinda leaves. It is considered one of Cambodia's national dishes and may date to the Khmer royal court.",
+    "how_to_eat": "Eat it hot with steamed rice.",
+    "how_to_order": "Ask for amok trey; versions with chicken, tofu or beef are mainly made for tourists.",
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fish_amok",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fish_amok",
+      "https://travelauthenticasia.com/guides/cambodia/battambang-specialties.aspx"
+    ]
+  },
+  {
+    "id": "cambodia-samlor-kako",
+    "name": "Samlor kako",
+    "local_name": "សម្លកកូរ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cambodia",
+    "state": "Phnom Penh",
+    "regions": [],
+    "description": "A traditional 'stirring soup' of green kroeung, prahok, roasted ground rice, catfish, pork or chicken, with many vegetables, fruits and herbs. It is considered one of Cambodia's national dishes and appears in a Khmer folk legend.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Samlar_kako",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Samlar_kako",
+      "https://en.wikipedia.org/wiki/Prahok"
+    ]
+  },
+  {
+    "id": "cambodia-samlor-prahal",
+    "name": "Samlor prahal",
+    "local_name": "សម្លប្រហើរ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cambodia",
+    "state": "Phnom Penh",
+    "regions": [],
+    "description": "A 'fragrant soup' with a chicken or fish stock base and lemongrass or green kroeung, containing vegetables such as taro, winter melon, pumpkin and luffa, mushrooms and freshwater fish, seasoned with fish sauce, palm sugar and rice powder. It is a staple soup of Cambodian villages.",
+    "how_to_eat": "Served as the light soup alongside rice and other dishes.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Samlor_prahal",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Samlor_prahal",
+      "https://www.nationalgeographic.com/travel/article/culinary-guide-cambodia-ancient-recipes-street-food"
+    ]
+  },
+  {
+    "id": "cambodia-cha-huoy-teuk",
+    "name": "Cha huoy teuk",
+    "local_name": "ចាហួយទឹក",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Cambodia",
+    "state": "Phnom Penh",
+    "regions": [],
+    "description": "A chilled jelly dessert made from agar or gelatin, often flavoured with pandan or jasmine, in pink, green or blue. It is served with coconut milk, palm sugar syrup and toppings such as mung beans, taro, sago, tapioca, pumpkin or jackfruit over crushed ice.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at street stalls and restaurants.",
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cha_huoy_teuk",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cha_huoy_teuk",
+      "https://en.wikipedia.org/wiki/Cambodian_cuisine"
+    ]
+  },
+  {
+    "id": "cambodia-tuk-krolok",
+    "name": "Tuk krolok (fruit smoothie)",
+    "local_name": "ទឹកក្រឡុក",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Cambodia",
+    "state": "Phnom Penh",
+    "regions": [],
+    "description": "Blended fruit shakes sold at food markets; durian, mango and banana are popular choices.",
+    "how_to_eat": null,
+    "how_to_order": "Order from shake stalls in markets, naming the fruit you want.",
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cambodian_cuisine"
+    ]
+  },
+  {
+    "id": "cambodia-num-banhchok-siem-reap",
+    "name": "Num banhchok Siem Reap",
+    "local_name": "នំបញ្ចុកសៀមរាប",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cambodia",
+    "state": "Siem Reap & Angkor",
+    "regions": [
+      "Siem Reap"
+    ],
+    "description": "Lightly fermented fresh rice noodles served with a fish gravy made from yellow kroeung (lemongrass, kaffir lime, garlic, turmeric, fingerroot), freshwater fish and prahok. The Siem Reap version is thinner because no coconut milk is added. Num banhchok is a breakfast dish.",
+    "how_to_eat": "Eaten at room temperature with fresh herbs and vegetables.",
+    "how_to_order": "Sold mainly in the morning; ask for num banhchok.",
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Num_banhchok",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Num_banhchok",
+      "https://en.wikipedia.org/wiki/Cambodian_cuisine"
+    ]
+  },
+  {
+    "id": "cambodia-sach-krak",
+    "name": "Siem Reap sausage (sach krak)",
+    "local_name": "សាច់ក្រក",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Cambodia",
+    "state": "Siem Reap & Angkor",
+    "regions": [
+      "Siem Reap"
+    ],
+    "description": "In Siem Reap, ground pork is made into spicy or sweet-savoury sausages (sach krak); a beef version is called kwa ko. They are eaten with steamed rice, congee or baguettes.",
+    "how_to_eat": "Eat with rice, congee or in a baguette.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cambodian_cuisine"
+    ]
+  },
+  {
+    "id": "cambodia-num-akor",
+    "name": "Num akor",
+    "local_name": "នំអាកោរ",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Cambodia",
+    "state": "Siem Reap & Angkor",
+    "regions": [
+      "Siem Reap",
+      "Phnom Penh"
+    ],
+    "description": "Small steamed cakes made from a batter of rice flour, palm sugar and water fermented overnight, served with coconut cream or grated coconut; pandan juice is sometimes added. Eaten as a snack, dessert or at festivals.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in sets of four to six at markets such as Old Market in Siem Reap and Orussey and Central markets in Phnom Penh.",
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Num_akor",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Num_akor"
+    ]
+  },
+  {
+    "id": "cambodia-num-pang-brahet",
+    "name": "Num pang brahet",
+    "local_name": "នំបុ័ងប្រហិត",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Cambodia",
+    "state": "Siem Reap & Angkor",
+    "regions": [
+      "Siem Reap"
+    ],
+    "description": "A Cambodian baguette sandwich filled with pork meatballs, mayonnaise, pickled carrot and daikon, salad and herbs such as coriander, mint and basil. Baguettes were adopted from the French; this filling is a popular street snack in Siem Reap.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for num pang brahet at sandwich carts.",
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Num_pang",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Num_pang"
+    ]
+  },
+  {
+    "id": "cambodia-sang-vak",
+    "name": "Sang vak (grilled fish paste)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Cambodia",
+    "state": "Battambang & Northwest",
+    "regions": [
+      "Battambang"
+    ],
+    "description": "Fish paste grilled in banana leaves, a Battambang street food.",
+    "how_to_eat": "Wrap it in lettuce with cold noodles, basil, saw-tooth coriander and a tangy sauce.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://travelauthenticasia.com/guides/cambodia/battambang-specialties.aspx"
+    ]
+  },
+  {
+    "id": "cambodia-nom-krok",
+    "name": "Nom krok",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Cambodia",
+    "state": "Battambang & Northwest",
+    "regions": [
+      "Battambang"
+    ],
+    "description": "Small fried cakes of coconut and rice flour, cooked in cast-iron moulds over charcoal. A Battambang street snack.",
+    "how_to_eat": null,
+    "how_to_order": "Sold from street stalls.",
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://travelauthenticasia.com/guides/cambodia/battambang-specialties.aspx"
+    ]
+  },
+  {
+    "id": "cambodia-mee-kola",
+    "name": "Mee kola",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cambodia",
+    "state": "Battambang & Northwest",
+    "regions": [
+      "Battambang"
+    ],
+    "description": "Noodles made with green papaya, listed as a Battambang dish and described by the source as vegetarian.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://focus-cambodia.com/article/cambodia-food-battambang/"
+    ]
+  },
+  {
+    "id": "cambodia-banh-ja-neuk",
+    "name": "Banh ja'neuk",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Cambodia",
+    "state": "Battambang & Northwest",
+    "regions": [
+      "Battambang"
+    ],
+    "description": "A Khmer dessert of rice-flour balls filled with mung bean paste, served in coconut milk with tapioca, ginger syrup and sesame seeds.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://travelauthenticasia.com/guides/cambodia/battambang-specialties.aspx"
+    ]
+  },
+  {
+    "id": "cambodia-sach-ko-ang",
+    "name": "Sach ko ang (beef skewers)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Cambodia",
+    "state": "Battambang & Northwest",
+    "regions": [
+      "Battambang",
+      "Phnom Penh"
+    ],
+    "description": "Barbecued beef skewers flavoured with lemongrass kroeung, with pork fat threaded between the beef to keep it moist. In Phnom Penh they are served with pickled young papaya.",
+    "how_to_eat": null,
+    "how_to_order": "Sold from charcoal grills at markets and street stalls.",
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://travelauthenticasia.com/guides/cambodia/battambang-specialties.aspx",
+      "https://www.nationalgeographic.com/travel/article/culinary-guide-cambodia-ancient-recipes-street-food"
+    ]
+  },
+  {
+    "id": "cambodia-prahok-ang",
+    "name": "Prahok ang",
+    "local_name": "ប្រហុកអាំង",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cambodia",
+    "state": "Battambang & Northwest",
+    "regions": [
+      "Battambang"
+    ],
+    "description": "Prahok, the salted fermented fish paste central to Cambodian cooking, mixed with kroeung and grilled in banana leaf. Plain prahok is an important protein with rice in rural Cambodia.",
+    "how_to_eat": "Eat with rice and fresh vegetables.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://travelauthenticasia.com/guides/cambodia/battambang-specialties.aspx",
+      "https://en.wikipedia.org/wiki/Prahok",
+      "https://en.wikipedia.org/wiki/Cambodian_cuisine"
+    ]
+  },
+  {
+    "id": "cambodia-chha-khnhei",
+    "name": "Chha kh'nhei",
+    "local_name": "ឆាខ្ញី",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cambodia",
+    "state": "Battambang & Northwest",
+    "regions": [],
+    "description": "A stir-fry of meat, usually chicken, eel or frog, with matchsticks of young ginger, black pepper, garlic, soy sauce and palm sugar, garnished with holy basil. The ginger is cooked briefly so it stays crunchy.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chha_kh%27nhei",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chha_kh%27nhei",
+      "https://travelauthenticasia.com/guides/cambodia/battambang-specialties.aspx"
+    ]
+  },
+  {
+    "id": "cambodia-samlor-machu-kroeung",
+    "name": "Samlor machu kroeung",
+    "local_name": "សម្លរម្ជូរគ្រឿង",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cambodia",
+    "state": "Battambang & Northwest",
+    "regions": [],
+    "description": "A sour soup made with yellow kroeung and tamarind, with beef or pork ribs, water spinach or other vegetables, and fish sauce and/or prahok. Samlor machu is the Khmer name for the family of tamarind-soured soups.",
+    "how_to_eat": "Eat with steamed rice.",
+    "how_to_order": "Sold among the soups and curries at takeaway stalls such as those outside Psar Nat in Battambang.",
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Samlor_machu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Samlor_machu",
+      "https://travelauthenticasia.com/guides/cambodia/battambang-specialties.aspx"
+    ]
+  },
+  {
+    "id": "cambodia-kampot-pepper-crab",
+    "name": "Kampot pepper crab",
+    "local_name": "ឆាក្តាមម្រេច",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cambodia",
+    "state": "Kampot & Kep",
+    "regions": [
+      "Kep",
+      "Kampot"
+    ],
+    "description": "Crab stir-fried with garlic, palm sugar, spring onions, fish sauce and fresh green Kampot peppercorns, a regional specialty of Kampot and Kep. At the Kep crab market, blue crab bought from vendors is cooked in woks over wood fires.",
+    "how_to_eat": null,
+    "how_to_order": "At the Kep crab market, choose crab from a vendor and have it cooked on the spot.",
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kampot_pepper_crab",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kampot_pepper_crab",
+      "https://www.cambodgemag.com/en/post/psar-kdam-the-crab-market-of-kep-a-century-of-history-facing-the-sea",
+      "https://en.wikipedia.org/wiki/Kampot_pepper"
+    ]
+  },
+  {
+    "id": "cambodia-kep-grilled-squid",
+    "name": "Kep grilled squid",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Cambodia",
+    "state": "Kampot & Kep",
+    "regions": [
+      "Kep"
+    ],
+    "description": "Pieces of dried squid pounded or grilled over a wood fire and served with pickled papaya and cucumber, one of the simple seafood dishes sold by vendors in Kep.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cambodian_cuisine"
+    ]
+  },
+  {
+    "id": "cambodia-num-banhchok-kampot",
+    "name": "Num banhchok Kampot",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cambodia",
+    "state": "Kampot & Kep",
+    "regions": [
+      "Kampot"
+    ],
+    "description": "A Kampot version of fermented rice noodles prepared with peanuts, dried shrimp, Kampot fish sauce made from saltwater fish and sometimes sliced fish cake. Unlike most versions, it is usually eaten cold.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "peanuts",
+      "shellfish",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Num_banhchok",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Num_banhchok",
+      "https://en.wikipedia.org/wiki/Kampot"
+    ]
+  },
+  {
+    "id": "cambodia-fried-spider",
+    "name": "Fried spider (a-ping)",
+    "local_name": "រពីងបំពង",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Cambodia",
+    "state": "Mekong & East",
+    "regions": [
+      "Skuon"
+    ],
+    "description": "Palm-sized tarantulas called a-ping, bred or foraged near Skuon in Kampong Cham province, tossed in sugar, salt and seasoning and fried with garlic. Skuon, about 75 km from Phnom Penh, is the centre of the trade and is nicknamed 'Spiderville'; the snack became popular from around the 1990s.",
+    "how_to_eat": "The legs are crisp; the head and thorax hold soft white meat.",
+    "how_to_order": "Sold by vendors at the Skuon market stop on the highway north of Phnom Penh, and in Phnom Penh.",
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fried_spider",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fried_spider",
+      "https://en.wikipedia.org/wiki/Skuon"
+    ]
+  },
+  {
+    "id": "cambodia-kralan",
+    "name": "Kralan",
+    "local_name": "ក្រឡាន",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Cambodia",
+    "state": "Mekong & East",
+    "regions": [
+      "Kratie"
+    ],
+    "description": "Glutinous rice mixed with black-eyed peas or beans, coconut milk, grated coconut and palm sugar, roasted in bamboo tubes over a fire for about 90 minutes. Thma Krae village in Kratie province and Samrong Khnong village in Battambang province are known for it, and it is often eaten at Chinese and Khmer New Year.",
+    "how_to_eat": "Peel back the bamboo and eat the rice from the tube.",
+    "how_to_order": "Sold from roadside carts.",
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sticky_rice_in_bamboo",
+      "https://en.wikipedia.org/wiki/Cambodian_cuisine"
+    ]
+  },
+  {
+    "id": "cambodia-samlor-prong",
+    "name": "Samlor prong",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cambodia",
+    "state": "Mekong & East",
+    "regions": [
+      "Mondulkiri"
+    ],
+    "description": "A Bunong soup from Mondulkiri cooked inside a section of young bamboo stood upright over a fire. Fish or other meat, or prahok, goes in with Thai eggplant, chillies and a garlic-like herb, and is stirred with a bamboo stick into a thick soup; the name comes from the Bunong word for bamboo.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://focus-cambodia.com/?p=7525"
+    ]
+  },
+  {
+    "id": "cambodia-sra-peang",
+    "name": "Sra peang",
+    "local_name": "ស្រាពាង",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Cambodia",
+    "state": "Mekong & East",
+    "regions": [
+      "Mondulkiri",
+      "Ratanakiri"
+    ],
+    "description": "Jar wine of fermented glutinous rice and local herbs, fermented in earthenware for at least a month to about 15-25% alcohol. It is made mainly by indigenous groups of northeast Cambodia, and drinking it through long bamboo straws is part of ceremonies.",
+    "how_to_eat": "Drunk from the jar through long bamboo straws.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "KHR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sra_peang",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sra_peang"
+    ]
+  }
+]

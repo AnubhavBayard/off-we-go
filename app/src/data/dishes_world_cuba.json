@@ -1,0 +1,671 @@
+[
+  {
+    "id": "cuba-ropa-vieja",
+    "name": "Ropa vieja",
+    "local_name": "Ropa vieja",
+    "pronunciation": "ROH-pah vee-EH-hah",
+    "category": "meal",
+    "country": "Cuba",
+    "state": "Havana & Western Cuba",
+    "regions": [],
+    "description": "Stewed beef with tomatoes on a sofrito base; the name means 'old clothes', possibly for the tattered look of the meat. It came to Cuba from Spain via Canary Islands immigrants, was first reported cooked in Cuba in 1857, and is known as one of Cuba's national dishes.",
+    "how_to_eat": "In Cuba it is often served with moros y cristianos and fried plantains.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ropa_vieja",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ropa_vieja"
+    ]
+  },
+  {
+    "id": "cuba-picadillo-a-la-habanera",
+    "name": "Picadillo a la habanera",
+    "local_name": "Picadillo a la habanera",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cuba",
+    "state": "Havana & Western Cuba",
+    "regions": [
+      "Havana"
+    ],
+    "description": "Minced beef cooked in a sofrito of garlic, onion and peppers with tomato, wine, olives, raisins and diced potato. EcuRed traces it to colonial-era home cooking and calls it a signature dish of Havana; Cuban picadillo is also used to fill papas rellenas, empanadas and pastelitos.",
+    "how_to_eat": "Usually served over white rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Picadillo",
+    "source_urls": [
+      "https://www.ecured.cu/Picadillo_a_la_habanera",
+      "https://en.wikipedia.org/wiki/Picadillo"
+    ]
+  },
+  {
+    "id": "cuba-frita-cubana",
+    "name": "Frita cubana",
+    "local_name": "Frita cubana",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Cuba",
+    "state": "Havana & Western Cuba",
+    "regions": [
+      "Havana"
+    ],
+    "description": "A small round bun holding a seasoned patty of ground beef (often mixed with pork) flavoured with Spanish paprika, topped with fine-cut fried potato, malanga or sweet potato and dressed with mustard and ketchup. It was a staple of Havana street stalls by the 1920s, when Jorge Mañach wrote about it.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.ecured.cu/Frita_cubana"
+    ]
+  },
+  {
+    "id": "cuba-moros-y-cristianos",
+    "name": "Moros y cristianos",
+    "local_name": "Moros y cristianos",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cuba",
+    "state": "Havana & Western Cuba",
+    "regions": [],
+    "description": "Black beans and white rice cooked together in one pot with a sofrito of onion, garlic and peppers, seasoned with cumin, Cuban oregano and bay leaf and often tocino (pork fat). The name, 'Moors and Christians', refers to the dark beans and white rice. Rice and black beans form part of a typical Cuban meal.",
+    "how_to_eat": "Served as the side to meat dishes such as ropa vieja.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Moros_y_Cristianos_(dish)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Moros_y_Cristianos_(dish)",
+      "https://en.wikipedia.org/wiki/Cuban_cuisine"
+    ]
+  },
+  {
+    "id": "cuba-lechon-asado",
+    "name": "Lechón asado",
+    "local_name": "Lechón asado",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cuba",
+    "state": "Havana & Western Cuba",
+    "regions": [],
+    "description": "Whole pig or pork marinated in mojo criollo, a mix of sour orange juice, garlic, cumin, oregano, bay leaf and salt, then roasted while being basted with the marinade. Roast pork is one of the traditional dishes of Cuban Christmas-season celebrations.",
+    "how_to_eat": "Typically eaten with congrí, yuca and salad.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.ecured.cu/Lech%C3%B3n_asado",
+      "https://www.ecured.cu/Cerdo_asado"
+    ]
+  },
+  {
+    "id": "cuba-yuca-con-mojo",
+    "name": "Yuca con mojo",
+    "local_name": "Yuca con mojo",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cuba",
+    "state": "Havana & Western Cuba",
+    "regions": [],
+    "description": "Yuca (cassava) marinated in a mojo of garlic, lime and olive oil, often with onions. It is a traditional Cuban side dish.",
+    "how_to_eat": "Eaten as a side to roast pork.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yuca_con_mojo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Yuca_con_mojo",
+      "https://www.ecured.cu/Cerdo_asado"
+    ]
+  },
+  {
+    "id": "cuba-tostones",
+    "name": "Tostones",
+    "local_name": "Tostones",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Cuba",
+    "state": "Havana & Western Cuba",
+    "regions": [],
+    "description": "Slices of green plantain fried once, pressed flat and fried again until crisp. In Cuba they are also called chatinos or tachinos.",
+    "how_to_eat": "Salted and eaten like chips, sometimes dipped in garlic mojo.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tostones",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tostones"
+    ]
+  },
+  {
+    "id": "cuba-mojito",
+    "name": "Mojito",
+    "local_name": "Mojito",
+    "pronunciation": "mo-HEE-toh",
+    "category": "drink",
+    "country": "Cuba",
+    "state": "Havana & Western Cuba",
+    "regions": [
+      "Havana"
+    ],
+    "description": "A cocktail of white rum, sugar (traditionally sugarcane juice), lime juice, soda water and mint. In Cuba it is usually made with yerba buena (Mentha × villosa). Havana is considered its birthplace, though the exact origin is debated.",
+    "how_to_eat": "Served over crushed ice, garnished with mint sprigs.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mojito",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mojito",
+      "https://www.ecured.cu/Mojito"
+    ]
+  },
+  {
+    "id": "cuba-cafe-cubano",
+    "name": "Café cubano",
+    "local_name": "Café cubano",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Cuba",
+    "state": "Havana & Western Cuba",
+    "regions": [],
+    "description": "A sweetened espresso: the first drops of coffee are whipped with sugar into a foam called espumita, giving a sweeter, thicker shot. Variations include the cortadito (with steamed milk) and café con leche, the traditional breakfast drink.",
+    "how_to_eat": "Often taken with buttered toasted bread or pastries.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cuban_espresso",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cuban_espresso",
+      "https://en.wikipedia.org/wiki/Cuban_cuisine"
+    ]
+  },
+  {
+    "id": "cuba-guayabita-del-pinar",
+    "name": "Guayabita del Pinar",
+    "local_name": "Guayabita del Pinar",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Cuba",
+    "state": "Havana & Western Cuba",
+    "regions": [
+      "Pinar del Río"
+    ],
+    "description": "A liqueur from Pinar del Río made by macerating the small guava Psidium salutare, harvested in the Vueltabajo area, in cane spirit with sugar; each bottle holds two or three of the fruits. It comes in a dry version and a sweet version and is made at the Casa Garay factory, whose recipe is attributed to Lucio Garay Zabala in 1892.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://oncubanews.com/tendencias/exclusividad-de-la-guayabita-del-pinar",
+      "https://www.ecured.cu/Guayabita_del_Pinar_(Bebida)"
+    ]
+  },
+  {
+    "id": "cuba-ajiaco-camagueyano",
+    "name": "Ajiaco",
+    "local_name": "Ajiaco",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cuba",
+    "state": "Central Cuba",
+    "regions": [
+      "Camagüey"
+    ],
+    "description": "A thick stew of tasajo (dried beef) and other meats with many root vegetables and starches such as green and half-ripe plantain, malanga, yuca, ñame, boniato, pumpkin and young corn, finished with lime and hot pepper. It differs from Colombia's chicken-and-potato ajiaco. In Camagüey the San Juan festival opens on 24 June with ajiaco cooked in collective cauldrons on neighbourhood blocks.",
+    "how_to_eat": "Traditionally eaten with casabe (cassava bread).",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ajiaco",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ajiaco",
+      "https://www.ecured.cu/Ajiaco",
+      "https://www.cuba.travel/en/destinations/camaguey/cultural-scenario/traditions-and-customs"
+    ]
+  },
+  {
+    "id": "cuba-casabe",
+    "name": "Casabe",
+    "local_name": "Casabe",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Cuba",
+    "state": "Central Cuba",
+    "regions": [
+      "Camagüey"
+    ],
+    "description": "A bread made from yuca, eaten in Cuba since before Spanish arrival and once called the 'bread of the land'. It is still made in some rural and mountain areas and is part of the food served at the San Juan festival in Camagüey.",
+    "how_to_eat": "Eaten alongside ajiaco.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.ecured.cu/Casabe",
+      "https://www.cuba.travel/en/destinations/camaguey/cultural-scenario/traditions-and-customs"
+    ]
+  },
+  {
+    "id": "cuba-canchanchara",
+    "name": "Canchánchara",
+    "local_name": "Canchánchara",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Cuba",
+    "state": "Central Cuba",
+    "regions": [
+      "Trinidad"
+    ],
+    "description": "A mix of aguardiente de caña (or rum), honey, lime juice and water over ice. It is linked to 19th-century independence fighters in the eastern countryside and is now associated with Trinidad, which holds an annual Canchánchara festival in December.",
+    "how_to_eat": "Traditionally drunk from a jícara, a small handleless clay cup.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.ecured.cu/Canch%C3%A1nchara",
+      "https://cubaplusmagazine.com/en/news/irresistible-invitation-the-canchanchara-trinidad.html"
+    ]
+  },
+  {
+    "id": "cuba-torticas-de-moron",
+    "name": "Torticas de Morón",
+    "local_name": "Torticas de Morón",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Cuba",
+    "state": "Central Cuba",
+    "regions": [
+      "Morón"
+    ],
+    "description": "Shortbread-style biscuits from Morón in Ciego de Ávila province, made from flour, sugar, salt and lard, sometimes with a little guava or mango jam; modern recipes add citrus zest and egg yolks. EcuRed credits their creation to the local baker Serafina Echemendía and calls them a symbol of the town.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.ecured.cu/Serafina_Echemend%C3%ADa",
+      "https://kariculture.net/en/?p=3791"
+    ]
+  },
+  {
+    "id": "cuba-congri-oriental",
+    "name": "Congrí",
+    "local_name": "Congrí",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cuba",
+    "state": "Eastern Cuba",
+    "regions": [],
+    "description": "Rice cooked together with red kidney beans, pork scraps and a sofrito of onion, peppers and garlic with cumin and oregano. The red-bean version is the one traditionally eaten in eastern Cuba, as distinct from black-bean moros y cristianos.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.ecured.cu/Congr%C3%AD",
+      "https://en.wikipedia.org/wiki/Moros_y_Cristianos_(dish)"
+    ]
+  },
+  {
+    "id": "cuba-caldosa",
+    "name": "Caldosa",
+    "local_name": "Caldosa",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cuba",
+    "state": "Eastern Cuba",
+    "regions": [
+      "Las Tunas"
+    ],
+    "description": "A thick soup of hen cooked with yuca, green plantains, malanga and potato, seasoned with garlic, onion, cumin, peppers and mustard; the meat and vegetables are puréed back into the broth. The version credited to Kike and Marina of Las Tunas dates from 1979 and spread through carnivals across the country.",
+    "how_to_eat": "Served in a large bowl, sometimes with a lime, garlic and tomato dressing added on top.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "mustard",
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.ecured.cu/Caldosa"
+    ]
+  },
+  {
+    "id": "cuba-pru-oriental",
+    "name": "Pru oriental",
+    "local_name": "Pru oriental",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Cuba",
+    "state": "Eastern Cuba",
+    "regions": [
+      "Granma",
+      "Santiago de Cuba"
+    ],
+    "description": "A fermented soft drink brewed from the root of the bejuco ubí and other roots, with ginger, allspice leaves, cinnamon and raw sugar, fermented with a starter kept from the previous batch. It is traced to French settlers and enslaved people who arrived in eastern Cuba after the Haitian Revolution.",
+    "how_to_eat": "Served very cold.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.ecured.cu/Pru"
+    ]
+  },
+  {
+    "id": "cuba-daiquiri",
+    "name": "Daiquiri",
+    "local_name": "Daiquirí",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Cuba",
+    "state": "Eastern Cuba",
+    "regions": [
+      "Santiago de Cuba",
+      "Havana"
+    ],
+    "description": "A cocktail of white rum, lime juice and sugar, named after a beach and iron mine near Santiago de Cuba, where it is generally credited to mining engineer Jennings Cox around 1898. It was later refined and popularized by bartenders in Havana.",
+    "how_to_eat": "Served in a cocktail glass with crushed ice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Daiquiri",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Daiquiri",
+      "https://www.ecured.cu/Daiquir%C3%AD"
+    ]
+  },
+  {
+    "id": "cuba-cucurucho",
+    "name": "Cucurucho de coco",
+    "local_name": "Cucurucho",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Cuba",
+    "state": "Baracoa",
+    "regions": [
+      "Baracoa"
+    ],
+    "description": "Grated coconut cooked with sugar or honey until thick, often mixed with guava, papaya, orange or pineapple, and packed in a cone made from dried palm bark (yagua). It is a traditional sweet of Baracoa.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.baracoa.org/customs.html",
+      "https://www.ecured.cu/Cucurucho_de_coco",
+      "https://en.wikipedia.org/wiki/Cucurucho"
+    ]
+  },
+  {
+    "id": "cuba-bacan",
+    "name": "Bacán",
+    "local_name": "Bacán",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cuba",
+    "state": "Baracoa",
+    "regions": [
+      "Baracoa"
+    ],
+    "description": "A tamal of grated green plantain mixed with coconut, filled with seasoned pork (sometimes crab) and wrapped in wilted banana leaves, then boiled. Unstuffed versions are called guanimo in Baracoa.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.baracoa.org/customs.html",
+      "https://www.ecured.cu/Bak%C3%A1n",
+      "https://cubaplusmagazine.com/en/news/delicacies-traditions-baracoa.html"
+    ]
+  },
+  {
+    "id": "cuba-teti",
+    "name": "Tetí",
+    "local_name": "Tetí",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cuba",
+    "state": "Baracoa",
+    "regions": [
+      "Baracoa"
+    ],
+    "description": "A tiny, nearly transparent fish that enters the river mouths at Baracoa during the waning moon between July and January. It is cooked with tomatoes, fried, in omelettes, with rice or in coconut milk; its seasonal catch is a local event.",
+    "how_to_eat": null,
+    "how_to_order": "Fishermen sell it in the streets during the season.",
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.baracoa.org/customs.html",
+      "https://www.ecured.cu/Tet%C3%AD"
+    ]
+  },
+  {
+    "id": "cuba-chorote",
+    "name": "Chorote",
+    "local_name": "Chorote",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Cuba",
+    "state": "Baracoa",
+    "regions": [
+      "Baracoa"
+    ],
+    "description": "A thick hot chocolate made in Baracoa from a grated ball of local cacao boiled with coconut milk or cow's milk, sweetened and thickened with a starch such as plantain, cassava or corn flour. Elsewhere in eastern Cuba chorote is a drink of toasted ground corn.",
+    "how_to_eat": "Drunk hot, often at breakfast.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.baracoa.org/customs.html",
+      "https://www.ecured.cu/Chorote"
+    ]
+  },
+  {
+    "id": "cuba-frangollo",
+    "name": "Frangollo",
+    "local_name": "Frangollo",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Cuba",
+    "state": "Baracoa",
+    "regions": [
+      "Baracoa"
+    ],
+    "description": "Dried bananas ground and sweetened with sugar, then pressed into small squares wrapped in banana leaves.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.baracoa.org/customs.html"
+    ]
+  },
+  {
+    "id": "cuba-calalu",
+    "name": "Calalú",
+    "local_name": "Calalú",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Cuba",
+    "state": "Baracoa",
+    "regions": [
+      "Baracoa"
+    ],
+    "description": "Tender cabbage leaves boiled with coconut milk and spices. Baracoa's tourism site describes it as a dish eaten in the countryside when few other foods were available.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "CUP",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.baracoa.org/customs.html"
+    ]
+  }
+]

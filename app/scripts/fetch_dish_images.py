@@ -97,6 +97,8 @@ NO_PHOTO = {
     "chile-empanada-de-pino", "chile-cazuela", "chile-pajarete", "chile-kuchen", "israel-tahini-halva",
     "israel-schnitzel-in-pita", "jordan-knafeh-nabulsieh", "jordan-knafeh-ramlawiyyeh", "new_zealand-kaikoura-crayfish", "new_zealand-bluff-oysters",
     "finland-pea-soup", "finland-sara", "georgia-matsoni", "romania-gomboti",
+    "cambodia-samlor-prahal", "cambodia-sra-peang", "cuba-moros-y-cristianos", "iran-doogh",
+    "iran-masghati", "south_africa-waterblommetjiebredie", "south_africa-pinotage", "south_africa-morogo",
 }
 out = {}
 for d in dishes:

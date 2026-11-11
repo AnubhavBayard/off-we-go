@@ -516,3 +516,18 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
 - User: after batch 10, start batch 11. Batch 11 registered: Ecuador, Uzbekistan, Kenya, Pakistan (USD, UZS, KES, PKR).
 - Photos batch 8: 96 new; 4 dropped via NO_PHOTO (German pea soup, empty wooden trough on särä, Armenian matsun, Serbian plum dumplings on gomboți). 1,761 dishes with photos. Building + installing.
 - BATCH 8 DONE: 53 countries, 2,277 dishes, 1,761 with photos. Built OK; install FAILED: adb "no devices/emulators found" (phone not connected). Install later. README counts updated.
+- Committed + pushed 76b9bf0.
+
+## 2026-11-11: batch 9
+- Batch 9: Iran, Cambodia, Cuba, South Africa. Same plan.
+- Iran: research agent running.
+- Iran done: 44 dishes, 8 regions (Tehran 9, Isfahan & Central 5, Shiraz & Fars 5, Tabriz & Azerbaijan 5, Caspian 6, Yazd & Kerman 6, Mashhad & Khorasan 4, Khuzestan & Gulf 4). No GIs (only ingredient GIs found: saffron, pistachio, raisins, dates). No prices. Thin: shishlik, rivas, nabat, boz ghormeh, sambuseh, shakar polo (one travel blog each). My safe-side fixes: shakar polo nonveg (served with qeimeh), pashmak gluten, tahdig + kateh dairy. Validator OK.
+- Cambodia: research agent running.
+- Cambodia done: 27 dishes, 5 regions (Phnom Penh 8, Battambang & NW 8, Siem Reap 4, Mekong & East 4, Kampot & Kep 3; coast dropped, no sources). No GIs (Kampot pepper, Kampong Speu palm sugar = ingredients). No prices. Skipped som tam/mango sticky rice/lok lak (other countries). Thin: Battambang (2 travel pages), Mekong, Kampot. My fix: tuk krolok egg + dairy (usually raw egg + condensed milk). Validator OK.
+- Cuba: research agent running.
+- Cuba done: 24 dishes, 4 regions (Havana & Western 10, Central 4, Eastern 4, Baracoa 6). No GIs ("Cuba" rum DO only in secondary sources; rum not a dish). No prices. Cuban sandwich/bread left out (Wikipedia places origin in Tampa/Key West). Thin: frangollo, calalú (baracoa.org), pru, caldosa (EcuRed). Spot-check OK. Validator OK.
+- South Africa: research agent running (last of batch 9).
+- South Africa done: 42 dishes, 7 regions (Cape Town & Cape Malay 8, Winelands 6, Durban & KZN 5, Joburg & Gauteng 7, Eastern Cape 4, Karoo & Interior 8, Limpopo & North 4). GI true 2: rooibos (EU PDO 2021, sanews.gov.za), Karoo lamb (SA GI 2023, westerncape.gov.za). Honeybush not tagged (no official page reached). Price: kota R15-120. Thin: denningvleis, magege, smiley, umphokoqo. My fixes: ids south-africa- -> south_africa- (slug convention); koesister, koeksister, malva pudding egg + dairy. Validator OK.
+- Batch 9 research done. Photos: running fetch_dish_images.py.
+- Photos batch 9: 78 new; 8 dropped via NO_PHOTO (num banh chok on samlor prahal, clay vessel, ropa vieja on moros, Russian tan on doogh, koloocheh on masghati, tinned plant on waterblommetjiebredie, grape plant on Pinotage, amaranth plant on morogo). 1,831 with photos.
+- BATCH 9 DONE: 57 countries, 2,414 dishes, 1,831 with photos. Built OK; install pending (phone still not connected). README updated.

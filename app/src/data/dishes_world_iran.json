@@ -1,0 +1,1286 @@
+[
+  {
+    "id": "iran-kabab-koobideh",
+    "name": "Kabab koobideh",
+    "local_name": "کباب کوبیده",
+    "pronunciation": "ka-BAAB koo-bee-DEH",
+    "category": "meal",
+    "country": "Iran",
+    "state": "Tehran",
+    "regions": [],
+    "description": "A kebab of ground lamb mixed with grated onion, salt and black pepper, shaped onto wide skewers and grilled. The name comes from the Persian verb koobidan, 'to pound', after the old method of pounding the meat. One soft style is served with flatbreads such as sangak or lavash and a firmer style with rice.",
+    "how_to_eat": "Eat with buttered saffron rice or flatbread, grilled tomatoes and a sprinkle of sumac.",
+    "how_to_order": "Ask for 'koobideh' at a kababi; 'soltani' is a combined plate of barg and koobideh.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kabab_koobideh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kabab_koobideh",
+      "https://en.wikipedia.org/wiki/Chelow_kabab"
+    ]
+  },
+  {
+    "id": "iran-chelow-kabab-barg",
+    "name": "Chelow kabab barg",
+    "local_name": "کباب برگ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Tehran",
+    "regions": [],
+    "description": "Strips of beef tenderloin or lamb (less often chicken) marinated in olive oil, onion, garlic and saffron, then skewered and grilled. Served on steamed rice (chelow), it makes chelow kabab, which is considered the national dish of Iran. It traditionally comes with butter, sumac, grilled tomatoes and doogh.",
+    "how_to_eat": "Put a knob of butter and some sumac on the rice and eat with the grilled tomatoes.",
+    "how_to_order": "Ask for 'chelow kabab barg'; 'shah abbasi' adds koobideh and joojeh to the plate.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kabab_barg",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kabab_barg",
+      "https://en.wikipedia.org/wiki/Chelow_kabab"
+    ]
+  },
+  {
+    "id": "iran-ghormeh-sabzi",
+    "name": "Ghormeh sabzi",
+    "local_name": "قورمه سبزی",
+    "pronunciation": "ghor-MEH sab-ZEE",
+    "category": "meal",
+    "country": "Iran",
+    "state": "Tehran",
+    "regions": [],
+    "description": "A herb stew of sautéed parsley, leeks, green onions and coriander with dried fenugreek, cooked with red kidney beans, dried lime and slowly braised lamb. It is considered a national dish of Iran and is one of the oldest khoresh stews.",
+    "how_to_eat": "Eat spooned over Persian rice, often with Shirazi salad on the side.",
+    "how_to_order": "Ask for 'ghormeh sabzi' with chelow (white rice) at home-style restaurants.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ghormeh_sabzi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ghormeh_sabzi"
+    ]
+  },
+  {
+    "id": "iran-abgoosht",
+    "name": "Abgoosht (dizi)",
+    "local_name": "آبگوشت",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Tehran",
+    "regions": [],
+    "description": "A lamb stew with chickpeas, white beans, onion, potatoes, tomatoes, turmeric and dried lime, also called dizi after the stoneware crock it is served in. The broth is strained and eaten first with bread, then the solids are mashed into gusht kubideh.",
+    "how_to_eat": "Tear bread into the broth first, then mash the meat and beans and eat them with bread, onion and pickles.",
+    "how_to_order": "Ask for 'dizi'; it is commonly served with doogh.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Abgoosht",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Abgoosht",
+      "https://en.wikipedia.org/wiki/Doogh"
+    ]
+  },
+  {
+    "id": "iran-ash-reshteh",
+    "name": "Ash reshteh",
+    "local_name": "آش رشته",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Tehran",
+    "regions": [],
+    "description": "A thick soup (ash) of thin noodles, kidney beans, chickpeas, lentils, herbs and kashk, a sour dairy product made from yogurt, garnished with fried garlic, onion and mint. It is served at Nowruz and Sizdah Be-dar, and the noodles are meant to bring good fortune.",
+    "how_to_eat": "Eat hot with the kashk and fried mint stirred in.",
+    "how_to_order": "Ask for 'ash reshteh'; it is most often made in autumn and winter.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aush_reshteh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Aush_reshteh",
+      "https://visitiran.ir/en/cuisine/ash-e-reshteh-noodle-and-bean-soup",
+      "https://en.wikipedia.org/wiki/Kashk"
+    ]
+  },
+  {
+    "id": "iran-fesenjan",
+    "name": "Fesenjan",
+    "local_name": "فسنجان",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Tehran",
+    "regions": [],
+    "description": "A sweet and sour stew of ground walnuts and pomegranate paste with chicken, duck, meatballs or lamb, called fesenjoon in Tehrani dialect. It is often kept for special occasions and is part of the Yalda Night table.",
+    "how_to_eat": "Eat over white or saffron rice.",
+    "how_to_order": "Ask for 'fesenjoon' at Persian home-style restaurants.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fesenj%C4%81n",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fesenj%C4%81n"
+    ]
+  },
+  {
+    "id": "iran-tahdig",
+    "name": "Tahdig",
+    "local_name": "ته‌دیگ",
+    "pronunciation": "tah-DEEG",
+    "category": "snack",
+    "country": "Iran",
+    "state": "Tehran",
+    "regions": [],
+    "description": "The crisp, golden layer of rice taken from the bottom of the pot in which chelow is cooked. Variations crisp a layer of yogurt and saffron, thin bread, potato or other vegetables under the rice instead. It is a part of Iranian rice cooking and is traditionally offered to guests.",
+    "how_to_eat": "Eat in broken pieces alongside rice and stew.",
+    "how_to_order": "Ask for 'tahdig' as an extra with your rice at Persian restaurants.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Scorched_rice"
+    ]
+  },
+  {
+    "id": "iran-bastani-sonnati",
+    "name": "Bastani sonnati",
+    "local_name": "بستنی سنتی",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iran",
+    "state": "Tehran",
+    "regions": [],
+    "description": "Iranian 'traditional ice cream' made from milk, egg yolk, sugar, rose water, saffron, vanilla and pistachios, often with flakes of frozen clotted cream. It is sometimes served alongside faloodeh.",
+    "how_to_eat": "Eat from a cup, sometimes alongside faloodeh.",
+    "how_to_order": "Ask for 'bastani sonnati' (or 'bastani zaferani') at ice cream shops.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bastani",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bastani",
+      "https://en.wikipedia.org/wiki/Faloodeh"
+    ]
+  },
+  {
+    "id": "iran-doogh",
+    "name": "Doogh",
+    "local_name": "دوغ",
+    "pronunciation": "doogh",
+    "category": "drink",
+    "country": "Iran",
+    "state": "Tehran",
+    "regions": [],
+    "description": "A cold, savoury drink of fermented milk, sometimes carbonated and seasoned with dried mint. It is the traditional drink with chelow kabab and dizi.",
+    "how_to_eat": "Drink cold with kebab or dizi.",
+    "how_to_order": "Ask for 'doogh' with your meal at any kababi.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Doogh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Doogh",
+      "https://en.wikipedia.org/wiki/Chelow_kabab"
+    ]
+  },
+  {
+    "id": "iran-isfahan-beryan",
+    "name": "Beryan (Isfahan beryani)",
+    "local_name": "بریان اصفهان",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Isfahan & Central Iran",
+    "regions": [
+      "Isfahan"
+    ],
+    "description": "Minced lamb, often mixed with lamb lung, cooked with onion, cinnamon and saffron and served on sangak bread with onion and fresh herbs. Locals call it 'beryun'; it is cooked and sold in dedicated beryani shops and is not usually served with other dishes.",
+    "how_to_eat": "Eat folded in the sangak bread with basil and onion, with doogh on the side.",
+    "how_to_order": "Ask for 'beryun' at a beryani shop in Isfahan.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Isfahan_beryan",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Isfahan_beryan",
+      "https://iranicaonline.org/articles/beryani-from-beryan-roast-an-iranian-meat-dish-usually-served-wrapped-in-flat-bread-in-later-times-particularly-pop"
+    ]
+  },
+  {
+    "id": "iran-khoresh-mast",
+    "name": "Khoresh mast",
+    "local_name": "خورش ماست",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iran",
+    "state": "Isfahan & Central Iran",
+    "regions": [
+      "Isfahan"
+    ],
+    "description": "A cold, sweet Isfahani dish of lamb neck cooked, deboned and mashed until white and stretchy, then mixed with thick yogurt, sugar, saffron, rose water, almonds and walnuts. It was once a royal court main course and is now served as a starter or dessert, garnished with barberries and pistachios.",
+    "how_to_eat": "Eat chilled, as a starter or dessert.",
+    "how_to_order": "Ask for 'khoresh mast' in Isfahan; it is chilled for hours before serving.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khoresht_mast",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khoresht_mast"
+    ]
+  },
+  {
+    "id": "iran-gaz",
+    "name": "Gaz",
+    "local_name": "گز",
+    "pronunciation": "gaz",
+    "category": "sweet",
+    "country": "Iran",
+    "state": "Isfahan & Central Iran",
+    "regions": [
+      "Isfahan"
+    ],
+    "description": "A nougat from the Isfahan region made with egg whites, sugar, rosewater and pistachios or almonds, traditionally with honeydew collected from Persian manna shrubs. Its modern form dates back about 450 years to the Safavid period.",
+    "how_to_eat": null,
+    "how_to_order": "Buy boxed gaz at confectioners in Isfahan.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gaz_(candy)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Gaz_(candy)"
+    ]
+  },
+  {
+    "id": "iran-sohan-qom",
+    "name": "Sohan of Qom",
+    "local_name": "سوهان",
+    "pronunciation": "so-HAAN",
+    "category": "sweet",
+    "country": "Iran",
+    "state": "Isfahan & Central Iran",
+    "regions": [
+      "Qom"
+    ],
+    "description": "A saffron brittle toffee from Qom made with sprouted wheat, flour, egg yolks, rose water, sugar, butter or oil, saffron, cardamom and slivered almonds and pistachios. There are several types, including honey, sesame and almond sohan.",
+    "how_to_eat": null,
+    "how_to_order": "Buy tins of sohan from confectioners in Qom.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sohan_(confectionery)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sohan_(confectionery)",
+      "https://en.wikipedia.org/wiki/Sohan_asali"
+    ]
+  },
+  {
+    "id": "iran-sohan-asali",
+    "name": "Sohan asali",
+    "local_name": "سوهان عسلی",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iran",
+    "state": "Isfahan & Central Iran",
+    "regions": [
+      "Isfahan"
+    ],
+    "description": "A hard honey toffee from Isfahan made with honey, sugar, saffron, almonds and pistachios. Unlike Qom's sohan it uses no wheat and much less butter, so it breaks into shards.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'sohan asali' at Isfahan sweet shops.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sohan_asali",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sohan_asali",
+      "https://en.wikipedia.org/wiki/Nan-e_berenji"
+    ]
+  },
+  {
+    "id": "iran-faloodeh-shirazi",
+    "name": "Faloodeh Shirazi",
+    "local_name": "فالوده شیرازی",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iran",
+    "state": "Shiraz & Fars",
+    "regions": [
+      "Shiraz"
+    ],
+    "description": "A cold dessert of thin starch noodles in a semi-frozen syrup of sugar and rose water, the version from Shiraz being particularly well known. It is often served with lime juice and sometimes ground pistachios. In 2023 faloodeh-making was added to Iran's national intangible heritage list.",
+    "how_to_eat": "Squeeze lime juice over it and eat before it melts.",
+    "how_to_order": "Ask for 'faloodeh' at ice cream shops, often alongside bastani.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Faloodeh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Faloodeh",
+      "https://en.wikipedia.org/wiki/Bastani"
+    ]
+  },
+  {
+    "id": "iran-kalam-polo-shirazi",
+    "name": "Kalam polo Shirazi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Shiraz & Fars",
+    "regions": [
+      "Shiraz"
+    ],
+    "description": "A rice dish from Fars made with kohlrabi, herbs (tarragon, dill, basil and leek) and tiny fried meatballs of minced meat, chickpea flour and onion. It is cooked in many Iranian homes but has a distinct local taste in Fars.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'kalam polo' in Shiraz.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://visitiran.ir/cuisine/kalam-polo-shirazi"
+    ]
+  },
+  {
+    "id": "iran-shirazi-salad",
+    "name": "Shirazi salad",
+    "local_name": "سالاد شیرازی",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Iran",
+    "state": "Shiraz & Fars",
+    "regions": [
+      "Shiraz"
+    ],
+    "description": "A salad of finely diced cucumber, tomato and onion with verjuice or lime juice, olive oil and herbs, named after Shiraz. It dates from after tomatoes reached Iran in the late 19th century and is a common side to kebabs and rice.",
+    "how_to_eat": "Eat as a side with kebab or stew.",
+    "how_to_order": "Ask for 'salad Shirazi' as a side at any Persian restaurant.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shirazi_salad",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Shirazi_salad"
+    ]
+  },
+  {
+    "id": "iran-masghati",
+    "name": "Masghati",
+    "local_name": "مسقطی",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iran",
+    "state": "Shiraz & Fars",
+    "regions": [
+      "Shiraz",
+      "Kazerun",
+      "Larestan"
+    ],
+    "description": "A soft, translucent confection of rose water, starch, sugar and water, sometimes with pistachio, saffron and cardamom. It is made in Fars, especially Kazerun, Larestan and Shiraz, and is a Nowruz tradition and a Shiraz souvenir.",
+    "how_to_eat": null,
+    "how_to_order": "Buy masghati at Shiraz confectioners.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Masghati",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Masghati"
+    ]
+  },
+  {
+    "id": "iran-koloocheh",
+    "name": "Koloocheh",
+    "local_name": "کلوچه",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iran",
+    "state": "Shiraz & Fars",
+    "regions": [
+      "Shiraz"
+    ],
+    "description": "A stamped cookie or bread, typically filled with dates and walnuts and sometimes spiced with saffron, rose water or cardamom. Koloocheh from southern Iran are brittle biscuits made mainly of flour, sugar, water and egg white; along with masghati it is a souvenir of Shiraz.",
+    "how_to_eat": null,
+    "how_to_order": "Buy koloocheh at bakeries and sweet shops in Shiraz.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Koloocheh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Koloocheh",
+      "https://en.wikipedia.org/wiki/Masghati"
+    ]
+  },
+  {
+    "id": "iran-kufteh-tabrizi",
+    "name": "Kufteh Tabrizi",
+    "local_name": "کوفته تبریزی",
+    "pronunciation": "koof-TEH tab-ree-ZEE",
+    "category": "meal",
+    "country": "Iran",
+    "state": "Tabriz & Azerbaijan",
+    "regions": [
+      "Tabriz"
+    ],
+    "description": "A fist-sized meatball of minced meat, rice, yellow split peas and herbs wrapped around a boiled egg, walnuts and dried apricot or plum, braised with fried onion, tomato paste and barberries. The broth is served separately with shredded bread before the meatball.",
+    "how_to_eat": "Drink the broth with bread first, then eat the meatball.",
+    "how_to_order": "Ask for 'kufteh Tabrizi' at traditional restaurants in Tabriz.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tabriz_meatballs",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tabriz_meatballs",
+      "https://visitiran.ir/cuisine/kufteh-tabrizi",
+      "https://www.tehrantimes.com/news/521036/"
+    ]
+  },
+  {
+    "id": "iran-ash-e-doogh",
+    "name": "Ash-e doogh",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Tabriz & Azerbaijan",
+    "regions": [
+      "Ardabil"
+    ],
+    "description": "A yogurt soup from Ardabil made with yogurt or doogh, chickpeas, rice and herbs such as leek, parsley and dill, often with small lamb meatballs. It is also cooked in Azerbaijan province, Shiraz and other regions.",
+    "how_to_eat": "Eat hot, topped with fried mint.",
+    "how_to_order": "Ask for 'ash-e doogh' in Ardabil and Tabriz, mainly in the cold season.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ash-e_doogh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ash-e_doogh",
+      "https://visitiran.ir/cuisine/ash-e-doogh"
+    ]
+  },
+  {
+    "id": "iran-dolmeh-barg-mo",
+    "name": "Dolmeh barg-e mo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Tabriz & Azerbaijan",
+    "regions": [
+      "Tabriz"
+    ],
+    "description": "Fresh grape leaves stuffed with rice, minced meat, split peas and herbs, simmered in tomato paste and lemon juice. It is one of the traditional dishes of Tabriz.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'dolmeh barg' in Tabriz.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.tehrantimes.com/news/521036/"
+    ]
+  },
+  {
+    "id": "iran-qorabieh-tabriz",
+    "name": "Qorabieh of Tabriz",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iran",
+    "state": "Tabriz & Azerbaijan",
+    "regions": [
+      "Tabriz"
+    ],
+    "description": "Soft pieces made from ground almonds, sugar, egg white and rosewater, one of Tabriz's oldest sweets.",
+    "how_to_eat": null,
+    "how_to_order": "Buy qorabieh at Tabriz confectioners.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.tehrantimes.com/news/521036/"
+    ]
+  },
+  {
+    "id": "iran-lighvan-cheese",
+    "name": "Lighvan cheese",
+    "local_name": "پنیر لیقوان",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Iran",
+    "state": "Tabriz & Azerbaijan",
+    "regions": [
+      "Liqvan"
+    ],
+    "description": "A sour, brined curd cheese made from raw ewe's milk in the village of Liqvan in north-western Iran, ripened in salt brine for three to four months. It is served for breakfast or dinner with fresh bread.",
+    "how_to_eat": "Eat with fresh bread such as barbari, often at breakfast.",
+    "how_to_order": "Ask for 'panir-e Lighvan' at dairy shops and breakfast cafés.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lighvan_cheese",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lighvan_cheese",
+      "https://en.wikipedia.org/wiki/Barbari_bread"
+    ]
+  },
+  {
+    "id": "iran-mirza-ghassemi",
+    "name": "Mirza ghassemi",
+    "local_name": "میرزا قاسمی",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Gilan & Mazandaran (Caspian)",
+    "regions": [
+      "Rasht"
+    ],
+    "description": "A Gilan dish of grilled aubergine with garlic, tomato, oil or butter, salt and pepper, bound with eggs. It is named after Mohammad Qasim Khan, a 19th-century governor of Rasht.",
+    "how_to_eat": "Eat with bread or rice, as a starter or main.",
+    "how_to_order": "Ask for 'mirza ghasemi' at Gilani restaurants.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mirza_ghassemi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mirza_ghassemi"
+    ]
+  },
+  {
+    "id": "iran-baghali-ghatogh",
+    "name": "Baghali ghatogh",
+    "local_name": "باقالی قاتق",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Gilan & Mazandaran (Caspian)",
+    "regions": [
+      "Rasht"
+    ],
+    "description": "A Gilan stew of local pach-baqala beans (or fava beans) with dill, garlic and turmeric, finished with eggs cracked on top. It is a meatless khoresh served with kateh rice.",
+    "how_to_eat": "Eat with rice, garlic, olives and salted fish on the side.",
+    "how_to_order": "Ask for 'baghali ghatogh' in Gilan.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Baghali_ghatogh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Baghali_ghatogh",
+      "https://visitiran.ir/en/cuisine/baqala-qatoq"
+    ]
+  },
+  {
+    "id": "iran-kabab-torsh",
+    "name": "Kabab torsh",
+    "local_name": "کباب ترش",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Gilan & Mazandaran (Caspian)",
+    "regions": [],
+    "description": "A 'sour kebab' from Gilan and Mazandaran of beef marinated in crushed walnuts, pomegranate juice, parsley, olive oil and garlic, then grilled over charcoal. A local herb, chochagh, gives it its particular taste.",
+    "how_to_eat": "Eat with kateh rice and Gilani side dishes.",
+    "how_to_order": "Ask for 'kabab torsh' at restaurants in Gilan.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kabab_torsh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kabab_torsh"
+    ]
+  },
+  {
+    "id": "iran-kateh",
+    "name": "Kateh",
+    "local_name": "کته",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Gilan & Mazandaran (Caspian)",
+    "regions": [],
+    "description": "A sticky rice from the Caspian region cooked with butter or oil in about half the time of polo-style rice. It is called 'everyday rice' and in the region is also eaten for breakfast, warm with milk and jam or cold with cheese and garlic.",
+    "how_to_eat": "Eat with Caspian stews and kebabs.",
+    "how_to_order": "Ask for 'kateh' instead of chelow at northern restaurants.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kateh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kateh",
+      "https://en.wikipedia.org/wiki/Iranian_cuisine"
+    ]
+  },
+  {
+    "id": "iran-sabzi-polo-mahi",
+    "name": "Sabzi polo ba mahi",
+    "local_name": "سبزی پلو",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Gilan & Mazandaran (Caspian)",
+    "regions": [],
+    "description": "Rice with chopped herbs such as coriander, dill, chives, fenugreek and parsley, served with fried Caspian kutum (mahi sefid). It is the traditional Nowruz lunch across Iran.",
+    "how_to_eat": "Eat with pickled garlic (seer torshi).",
+    "how_to_order": "Ask for 'sabzi polo mahi', especially around Nowruz.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sabzi_polo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sabzi_polo",
+      "https://en.wikipedia.org/wiki/Iranian_cuisine"
+    ]
+  },
+  {
+    "id": "iran-reshteh-khoshkar",
+    "name": "Reshteh khoshkar",
+    "local_name": "رشته‌خشکار",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iran",
+    "state": "Gilan & Mazandaran (Caspian)",
+    "regions": [],
+    "description": "A Gilan pastry made by drizzling rice-flour batter into a thin lace sheet, filling it with sugar, ground walnuts or hazelnuts and spices, then folding and frying it. It is made especially for Ramadan.",
+    "how_to_eat": null,
+    "how_to_order": "Buy at Gilan sweet shops, mostly during Ramadan.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Reshteh_khoshkar",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Reshteh_khoshkar",
+      "https://en.wikipedia.org/wiki/Iranian_cuisine"
+    ]
+  },
+  {
+    "id": "iran-baghlava-yazd",
+    "name": "Baghlava of Yazd",
+    "local_name": "باقلوا",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iran",
+    "state": "Yazd & Kerman",
+    "regions": [
+      "Yazd"
+    ],
+    "description": "Iranian baghlava is less crisp and less syrupy than other baklava, filled with chopped almonds or pistachios spiced with saffron, cardamom or jasmine, and soaked in a syrup of rose water, lemon juice, sugar and honey. Yazd is one of the cities known for it.",
+    "how_to_eat": null,
+    "how_to_order": "Buy baghlava at Yazd confectioners.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Baklava",
+      "https://en.wikipedia.org/wiki/Pashmak"
+    ]
+  },
+  {
+    "id": "iran-qottab",
+    "name": "Qottab",
+    "local_name": "قطاب",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iran",
+    "state": "Yazd & Kerman",
+    "regions": [
+      "Yazd"
+    ],
+    "description": "A deep-fried turnover filled with almonds, powdered sugar and cardamom, sometimes with walnuts instead. Yazd is known for it, and it is commonly made for Nowruz.",
+    "how_to_eat": null,
+    "how_to_order": "Buy qottab at Yazd sweet shops.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Qottab",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Qottab"
+    ]
+  },
+  {
+    "id": "iran-pashmak",
+    "name": "Pashmak",
+    "local_name": "پشمک",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iran",
+    "state": "Yazd & Kerman",
+    "regions": [
+      "Yazd"
+    ],
+    "description": "A Persian candy floss made from sugar, with a texture like cotton candy but a different method and ingredients. It originated in Yazd and is served on its own or with ice cream and desserts, sometimes with ground pistachio.",
+    "how_to_eat": null,
+    "how_to_order": "Buy pashmak at Yazd confectioners.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pashmak",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pashmak"
+    ]
+  },
+  {
+    "id": "iran-yazdi-cake",
+    "name": "Yazdi cake",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iran",
+    "state": "Yazd & Kerman",
+    "regions": [
+      "Yazd"
+    ],
+    "description": "A small cake from Yazd made with egg, sugar, butter or oil, flour, yogurt, milk and cardamom, sometimes with raisins and pistachio. It is served with tea when guests visit.",
+    "how_to_eat": "Eat with hot tea.",
+    "how_to_order": "Buy at bakeries in Yazd.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yazdi_cake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Yazdi_cake"
+    ]
+  },
+  {
+    "id": "iran-kolompeh",
+    "name": "Kolompeh",
+    "local_name": "کلمپه",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iran",
+    "state": "Yazd & Kerman",
+    "regions": [
+      "Kerman"
+    ],
+    "description": "A Kerman pastry filled with minced dates, walnuts and cardamom, often decorated with pistachios or sesame. It was traditionally baked by Kermani women with local dates and is now a main Kerman souvenir.",
+    "how_to_eat": null,
+    "how_to_order": "Buy kolompeh at Kerman bakeries.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kolompeh",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kolompeh"
+    ]
+  },
+  {
+    "id": "iran-boz-ghormeh",
+    "name": "Boz ghormeh",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Yazd & Kerman",
+    "regions": [
+      "Kerman"
+    ],
+    "description": "A Kerman dish of goat meat (or lamb) cooked with onions, peas, garlic, saffron and turmeric, then mixed with kashk (curd). It is garnished with ground walnuts, fried mint and fried onions.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'boz ghormeh' in Kerman.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://legendaryiran.com/?p=993"
+    ]
+  },
+  {
+    "id": "iran-sholeh-mashhadi",
+    "name": "Sholeh Mashhadi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Mashhad & Khorasan",
+    "regions": [
+      "Mashhad"
+    ],
+    "description": "A thick, elastic dish of beef and lamb, tail fat, bulgur, rice, beans and peas spiced with nutmeg, ginger and cardamom, dating to the Qajar era. It is cooked in Mashhad for religious ceremonies and gatherings rather than as an everyday meal.",
+    "how_to_eat": "Eat with a little gheimeh on top, sangak bread, cheese and herbs.",
+    "how_to_order": "Look for 'sholeh' in Mashhad during Muharram and Safar.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://visitiran.ir/cuisine/shole-mashhadi",
+      "https://legendaryiran.com/Mashhad/Mashhad-food/"
+    ]
+  },
+  {
+    "id": "iran-shishlik-mashhadi",
+    "name": "Shishlik",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Mashhad & Khorasan",
+    "regions": [
+      "Mashhad"
+    ],
+    "description": "Lamb ribs marinated in onion, yogurt, saffron, lemon juice and pepper, then grilled. It is a Mashhad specialty.",
+    "how_to_eat": "Eat with rice, grilled tomatoes and lemon.",
+    "how_to_order": "Ask for 'shishlik' at kebab restaurants in Mashhad.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://legendaryiran.com/Mashhad/Mashhad-food/"
+    ]
+  },
+  {
+    "id": "iran-nabat",
+    "name": "Saffron nabat",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Iran",
+    "state": "Mashhad & Khorasan",
+    "regions": [
+      "Mashhad"
+    ],
+    "description": "Rock candy made from sugar and water, often flavoured with saffron, used to sweeten tea. It is a Mashhad souvenir.",
+    "how_to_eat": "Stir a stick into hot tea until it dissolves.",
+    "how_to_order": "Buy saffron nabat in Mashhad's shops.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://legendaryiran.com/Mashhad/Mashhad-food/",
+      "https://en.wikipedia.org/wiki/Iranian_cuisine"
+    ]
+  },
+  {
+    "id": "iran-khoresh-rivas",
+    "name": "Khoresh rivas",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Mashhad & Khorasan",
+    "regions": [
+      "Mashhad"
+    ],
+    "description": "A sour stew of beef or lamb with rhubarb, parsley, mint and onion.",
+    "how_to_eat": "Eat over rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://legendaryiran.com/Mashhad/Mashhad-food/"
+    ]
+  },
+  {
+    "id": "iran-ghalieh-mahi",
+    "name": "Ghalieh mahi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Khuzestan & Persian Gulf",
+    "regions": [
+      "Bushehr",
+      "Ahvaz"
+    ],
+    "description": "A southern fish stew of mackerel or other local fish (sometimes shrimp) with coriander, fenugreek, garlic, onion, turmeric and tomato paste, soured with tamarind. It is popular across the south of Iran.",
+    "how_to_eat": "Eat over rice, or with bread.",
+    "how_to_order": "Ask for 'ghalieh mahi' in Bushehr, Khuzestan or Hormozgan.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://visitiran.ir/cuisine/ghalieh-mahi",
+      "https://incredibleiran.com/blog/delicious-foods-of-southern-iran/"
+    ]
+  },
+  {
+    "id": "iran-mahyaveh",
+    "name": "Mahyaveh",
+    "local_name": "مهیاوه",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Iran",
+    "state": "Khuzestan & Persian Gulf",
+    "regions": [
+      "Bandar Abbas",
+      "Bushehr"
+    ],
+    "description": "A tangy sauce of fermented small fish with spices and mustard, sold in bottles at bakeries and by street vendors in Hormozgan, Bushehr and southern Fars.",
+    "how_to_eat": "Spread on fresh tandoor bread.",
+    "how_to_order": "Ask bakeries in Bandar Abbas for 'mahyaveh' on bread.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mahyawa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mahyawa",
+      "https://incredibleiran.com/blog/delicious-foods-of-southern-iran/",
+      "https://en.wikipedia.org/wiki/Iranian_cuisine"
+    ]
+  },
+  {
+    "id": "iran-sambuseh",
+    "name": "Sambuseh",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Iran",
+    "state": "Khuzestan & Persian Gulf",
+    "regions": [
+      "Ahvaz"
+    ],
+    "description": "Triangles of thin lavash filled with meat, potato, herbs and spices, made extra spicy in Khuzestan. The savoury turnover sanbosag survived mainly in Laristan and the Persian Gulf coast.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'sambuseh' at street stalls in Ahvaz.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://incredibleiran.com/blog/delicious-foods-of-southern-iran/",
+      "https://en.wikipedia.org/wiki/Qottab"
+    ]
+  },
+  {
+    "id": "iran-shakar-polo",
+    "name": "Shakar polo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Iran",
+    "state": "Khuzestan & Persian Gulf",
+    "regions": [
+      "Bushehr"
+    ],
+    "description": "A sweet rice of saffron and sugar, served at parties in Bushehr and other southern cities alongside qeimeh Bushehri, a split pea stew.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'shakar polo' with qeimeh in Bushehr.",
+    "typical_price": null,
+    "currency": "IRR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://incredibleiran.com/blog/delicious-foods-of-southern-iran/"
+    ]
+  }
+]
