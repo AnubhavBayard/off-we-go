@@ -547,3 +547,27 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
 - Batch 10 research done. Photos: running fetch_dish_images.py.
 - Photos batch 10: 67 new; 5 dropped via NO_PHOTO (Lake Tana landscape on tej, raw grain on tella, unclear spread on kocho, jerk chicken photo on jerk pork, Israel shakshuka photo reused on Tunisian chakchouka). 1,893 with photos.
 - BATCH 10 DONE: 61 countries, 2,554 dishes, 1,893 with photos. Built OK; install pending (phone not connected). README updated.
+- Committed + pushed 50c23b9.
+
+## 2026-11-11: batch 11
+- Batch 11: Ecuador, Uzbekistan, Kenya, Pakistan. Same plan.
+- Ecuador: research agent running.
+- User: wrap up session. Ecuador agent stopped before writing any file. Batches 11 + 12 stay registered (harmless: picker lists only countries with dishes).
+
+## 2026-11-11: WRAP-UP (session end)
+**Done this session**
+- Batches 7-10: 16 countries added (Israel, Jordan, Chile, New Zealand, Finland, Iceland, Romania, Georgia, Iran, Cambodia, Cuba, South Africa, Ethiopia, Tunisia, Jamaica, Bulgaria). Now 2,554 dishes in 61 countries, 1,893 with photos.
+- NO_PHOTO grew by 27 ids (other countries' versions, plants, live animals, landscapes, reused photos).
+- My safe-side diet fixes per country logged above (gelatin, lard, egg/dairy in pastries, undated prices nulled). South Africa ids normalised to south_africa-.
+- All committed + pushed (last: 50c23b9 + this log).
+- Phone NOT updated since batch 7: adb found no device for batches 8-10.
+
+**Next session, in order**
+1. Plug in phone (USB debugging) and install current build (command below). It carries batches 8-10.
+2. Batch 11: Ecuador, Uzbekistan, Kenya, Pakistan (registered; USD, UZS, KES, PKR). Ecuador brief: SENADI DOs, avoid Peru/Colombia duplicates.
+3. Batch 12: Nigeria, Ghana, Uruguay, Slovenia (registered; NGN, GHS, UYU, EUR).
+4. Per batch: same method (one agent at a time, spot-check diet/allergens/GI, validate, fetch photos, view unclear thumbnails, NO_PHOTO bad ones, build, install, README counts, commit + push). Tell agents dish ids must start with `<slug>-` (underscore slug).
+5. Still open: Android back closes bottom sheets first (optional); before public release: owned logo, privacy policy, restaurant coordinates CSV (waiting on user), revoke Supabase token `claude-setup`.
+
+**Rebuild + install**
+`cd app && nvm use 22 && npm run build && npx cap sync android && cd android && ANDROID_HOME=~/Android/Sdk ./gradlew assembleDebug && ~/Android/Sdk/platform-tools/adb install -r app/build/outputs/apk/debug/app-debug.apk`
