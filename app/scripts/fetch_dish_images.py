@@ -100,6 +100,11 @@ NO_PHOTO = {
     "cambodia-samlor-prahal", "cambodia-sra-peang", "cuba-moros-y-cristianos", "iran-doogh",
     "iran-masghati", "south_africa-waterblommetjiebredie", "south_africa-pinotage", "south_africa-morogo",
     "ethiopia-tej", "ethiopia-tella", "ethiopia-kocho", "jamaica-jerk-pork", "tunisia-chakchouka",
+    "ecuador-chontacuro", "ecuador-guagua-de-pan", "ecuador-guayusa", "ecuador-locro-de-papa", "kenya-biryani",
+    "kenya-pilau", "kenya-matoke", "kenya-uji", "kenya-mursik", "pakistan-balochi-dampukht",
+    "pakistan-gurgur-cha", "pakistan-hunza-harisa", "pakistan-karachi-nihari", "pakistan-lahori-karahi", "pakistan-peshawari-dumba-karahi",
+    "pakistan-peshawari-qehwa", "uzbekistan-andijan-devzira-oshi", "uzbekistan-khorezm-plov", "uzbekistan-samarkand-plov", "uzbekistan-manti",
+    "uzbekistan-qatlama", "uzbekistan-sumalak",
 }
 out = {}
 for d in dishes:

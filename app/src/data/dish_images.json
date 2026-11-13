@@ -2088,10 +2088,10 @@
   "license": "CC BY 2.0"
  },
  "brazil-acai-na-tigela": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/A%C3%A7a%C3%AD_do_Par%C3%A1.jpg/960px-A%C3%A7a%C3%AD_do_Par%C3%A1.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:A%C3%A7a%C3%AD_do_Par%C3%A1.jpg",
-  "credit": "Túllio F",
-  "license": "CC BY-SA 4.0"
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/A%C3%A7a%C3%AD.jpg/960px-A%C3%A7a%C3%AD.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:A%C3%A7a%C3%AD.jpg",
+  "credit": "Gervásio Baptista/ABr",
+  "license": "CC BY 3.0 br"
  },
  "brazil-baiao-de-dois": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bai%C3%A3o_de_dois.jpg/960px-Bai%C3%A3o_de_dois.jpg",
@@ -3562,6 +3562,150 @@
   "page": "https://commons.wikimedia.org/wiki/File:Solei-toeller.jpg",
   "credit": "Superbass",
   "license": "CC BY-SA 3.0"
+ },
+ "ecuador-yahuarlocro": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Yahuarlocro_%28Ecuador%29.jpg/960px-Yahuarlocro_%28Ecuador%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Yahuarlocro_(Ecuador).jpg",
+  "credit": "Alejandro Lozano",
+  "license": "CC0"
+ },
+ "ecuador-fanesca": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/SEMANA_SANTA_QUITE%C3%91A_%2833852581341%29.jpg/960px-SEMANA_SANTA_QUITE%C3%91A_%2833852581341%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:SEMANA_SANTA_QUITE%C3%91A_(33852581341).jpg",
+  "credit": "Agencia de Noticias ANDES",
+  "license": "CC BY-SA 2.0"
+ },
+ "ecuador-espumilla": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Espumilla.jpg/960px-Espumilla.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Espumilla.jpg",
+  "credit": "LittleT889",
+  "license": "CC BY 4.0"
+ },
+ "ecuador-helado-de-paila": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Quito%2C_helado_de_paila%2C_street_food%2C_ice_cream.jpg/960px-Quito%2C_helado_de_paila%2C_street_food%2C_ice_cream.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Quito,_helado_de_paila,_street_food,_ice_cream.jpg",
+  "credit": "David Adam Kess",
+  "license": "CC BY-SA 4.0"
+ },
+ "ecuador-colada-morada": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Colada_morada.jpg/960px-Colada_morada.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Colada_morada.jpg",
+  "credit": "Juan Jorge Arellano Lima, Perú",
+  "license": "CC BY-SA 2.0"
+ },
+ "ecuador-canelazo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Canelazo.jpg/960px-Canelazo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Canelazo.jpg",
+  "credit": "momentcaptured1 from NYC, USA",
+  "license": "CC BY 2.0"
+ },
+ "ecuador-fritada": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/CUENCA_-_CIUDAD_-_GENTE_-_GASTRONOM%C3%8DA_%2818136357868%29.jpg/960px-CUENCA_-_CIUDAD_-_GENTE_-_GASTRONOM%C3%8DA_%2818136357868%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:CUENCA_-_CIUDAD_-_GENTE_-_GASTRONOM%C3%8DA_(18136357868).jpg",
+  "credit": "Agencia de Noticias ANDES",
+  "license": "CC BY-SA 2.0"
+ },
+ "ecuador-llapingacho": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Llapingachos._%2840491622163%29.jpg/960px-Llapingachos._%2840491622163%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Llapingachos._(40491622163).jpg",
+  "credit": "young shanahan from Bratislava, Slovakia",
+  "license": "CC BY 2.0"
+ },
+ "ecuador-hornado": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Hornado.jpg/960px-Hornado.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hornado.jpg",
+  "credit": "calliopejen",
+  "license": "CC BY-SA 2.0"
+ },
+ "ecuador-quimbolito": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Quimbolito_and_Ecuadorian_Chocolate_inside_the_cafe_atop_Bas%C3%ADlica_del_Voto_Nacional%2C_Quito.jpg/960px-Quimbolito_and_Ecuadorian_Chocolate_inside_the_cafe_atop_Bas%C3%ADlica_del_Voto_Nacional%2C_Quito.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Quimbolito_and_Ecuadorian_Chocolate_inside_the_cafe_atop_Bas%C3%ADlica_del_Voto_Nacional,_Quito.jpg",
+  "credit": "David Adam Kess",
+  "license": "CC BY-SA 4.0"
+ },
+ "ecuador-muchines-de-yuca": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Muchines.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Muchines.jpg",
+  "credit": "Ceibos",
+  "license": "CC BY-SA 4.0"
+ },
+ "ecuador-mote-pillo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Mote-pillo.jpg/960px-Mote-pillo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mote-pillo.jpg",
+  "credit": "Roduar",
+  "license": "CC BY-SA 4.0"
+ },
+ "ecuador-mote-pata": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mote_pata_cuencano.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mote_pata_cuencano.jpg",
+  "credit": "Jfbeltranr",
+  "license": "CC BY-SA 4.0"
+ },
+ "ecuador-humita": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Humitas.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Humitas.jpg",
+  "credit": "Unknown author",
+  "license": "CC BY-SA 3.0"
+ },
+ "ecuador-encebollado": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Semifinal_del_Campeonato_del_Encebollado_en_Esmeraldas_2015_%2818062294436%29.jpg/960px-Semifinal_del_Campeonato_del_Encebollado_en_Esmeraldas_2015_%2818062294436%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Semifinal_del_Campeonato_del_Encebollado_en_Esmeraldas_2015_(18062294436).jpg",
+  "credit": "Ministerio de Turismo Ecuador from Ecuador",
+  "license": "CC BY-SA 2.0"
+ },
+ "ecuador-ceviche-de-camaron": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/CEVICHE_DE_CAMAR%C3%93N_ECUATORIANO.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:CEVICHE_DE_CAMAR%C3%93N_ECUATORIANO.jpg",
+  "credit": "THEJORNAL",
+  "license": "CC BY-SA 4.0"
+ },
+ "ecuador-arroz-con-menestra": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Arrozmenestragye.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Arrozmenestragye.JPG",
+  "credit": "Joshoran",
+  "license": "CC BY-SA 3.0"
+ },
+ "ecuador-caldo-de-salchicha": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Ima20180501_140013.jpg/960px-Ima20180501_140013.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ima20180501_140013.jpg",
+  "credit": "JONAVIAG",
+  "license": "CC BY-SA 4.0"
+ },
+ "ecuador-guatita": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Guatita_%28gastronom%C3%ADa_Ecuatoriana%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Guatita_(gastronom%C3%ADa_Ecuatoriana).jpg",
+  "credit": "Kevinmero",
+  "license": "CC BY-SA 4.0"
+ },
+ "ecuador-corviche": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Corviche_de_pescado_%28gastronom%C3%ADa_Ecuatoriana%29.jpg/960px-Corviche_de_pescado_%28gastronom%C3%ADa_Ecuatoriana%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Corviche_de_pescado_(gastronom%C3%ADa_Ecuatoriana).jpg",
+  "credit": "Kevinmero",
+  "license": "CC BY-SA 4.0"
+ },
+ "ecuador-sal-prieta": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Salprieta.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Salprieta.jpg",
+  "credit": "Jorgeluisbajaña",
+  "license": "CC BY 4.0"
+ },
+ "ecuador-bollo-de-pescado": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Bollo_de_pescado_Las_Cataratas.jpg/960px-Bollo_de_pescado_Las_Cataratas.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bollo_de_pescado_Las_Cataratas.jpg",
+  "credit": "Elmilagreno",
+  "license": "CC BY-SA 4.0"
+ },
+ "ecuador-encocado": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Encocado_de_camarones.jpg/960px-Encocado_de_camarones.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Encocado_de_camarones.jpg",
+  "credit": "Paulakindsvater",
+  "license": "CC BY-SA 4.0"
+ },
+ "ecuador-maito": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Maito_cooking_over_the_fire.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Maito_cooking_over_the_fire.jpg",
+  "credit": "Sauvemel73",
+  "license": "CC BY-SA 4.0"
  },
  "egypt-koshary": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Egyptian_food_Koshary.jpg/960px-Egyptian_food_Koshary.jpg",
@@ -6389,6 +6533,66 @@
   "credit": "Canbel",
   "license": "CC BY-SA 4.0"
  },
+ "kenya-ugali": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Ugali_%26_Sukuma_Wiki.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ugali_%26_Sukuma_Wiki.jpg",
+  "credit": "Paresh Jai from Nairobi, Kenya",
+  "license": "CC BY 2.0"
+ },
+ "kenya-sukuma-wiki": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Ugali_%26_Sukuma_Wiki.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ugali_%26_Sukuma_Wiki.jpg",
+  "credit": "Paresh Jai from Nairobi, Kenya",
+  "license": "CC BY 2.0"
+ },
+ "kenya-nyama-choma": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Goat_meat_being_roasted.jpg/960px-Goat_meat_being_roasted.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Goat_meat_being_roasted.jpg",
+  "credit": "Samuel Kiongo",
+  "license": "CC BY-SA 4.0"
+ },
+ "kenya-kachumbari": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Kachumbari.jpg/960px-Kachumbari.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kachumbari.jpg",
+  "credit": "Charles Haynes",
+  "license": "CC BY-SA 2.0"
+ },
+ "kenya-chapati": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/2_Chapati_warm_and_ready_to_be_eaten.jpg/960px-2_Chapati_warm_and_ready_to_be_eaten.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:2_Chapati_warm_and_ready_to_be_eaten.jpg",
+  "credit": "KittyKaht from Hong Kong, Hong Kong",
+  "license": "CC BY-SA 2.0"
+ },
+ "kenya-mandazi": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bowl_of_mandazi.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bowl_of_mandazi.jpg",
+  "credit": "The original uploader was ChildofMidnight at English Wikipedia.",
+  "license": "CC BY 2.0"
+ },
+ "kenya-madafu": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Coconut_drink.jpg/960px-Coconut_drink.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Coconut_drink.jpg",
+  "credit": "The original uploader was Benjaminong at Kiingereza Wikipedia. Later versions were uploaded by Ravedave at en.wikipedia.",
+  "license": "CC BY-SA 2.5"
+ },
+ "kenya-githeri": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Githeri_Meal.jpg/960px-Githeri_Meal.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Githeri_Meal.jpg",
+  "credit": "safaritravelplus",
+  "license": "CC0"
+ },
+ "kenya-mukimo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Mukimo_%26_Beef_Stew.jpg/960px-Mukimo_%26_Beef_Stew.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mukimo_%26_Beef_Stew.jpg",
+  "credit": "Anitah Pezz",
+  "license": "CC BY-SA 4.0"
+ },
+ "kenya-mutura": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Mutura.jpg/960px-Mutura.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mutura.jpg",
+  "credit": "Leemwangi29",
+  "license": "CC BY-SA 4.0"
+ },
  "lebanon-hummus": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Lebanese_style_hummus.jpg/960px-Lebanese_style_hummus.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Lebanese_style_hummus.jpg",
@@ -7654,6 +7858,84 @@
   "page": "https://commons.wikimedia.org/wiki/File:R%C3%B6mmegr%C3%B6t.jpg",
   "credit": "Tomas Eklund",
   "license": "Public domain"
+ },
+ "pakistan-lahori-chargha": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Marinated_whole_Chicken.JPG/960px-Marinated_whole_Chicken.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Marinated_whole_Chicken.JPG",
+  "credit": "Miansari66",
+  "license": "CC0"
+ },
+ "pakistan-siri-paye": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Paya_Curry.JPG/960px-Paya_Curry.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Paya_Curry.JPG",
+  "credit": "Miansari66",
+  "license": "Public domain"
+ },
+ "pakistan-multani-sohan-halwa": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Sohan_Halwa.JPG/960px-Sohan_Halwa.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Sohan_Halwa.JPG",
+  "credit": "Miansari66",
+  "license": "Public domain"
+ },
+ "pakistan-sindhi-biryani": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Sindhi_Biryani.JPG/960px-Sindhi_Biryani.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Sindhi_Biryani.JPG",
+  "credit": "Miansari66",
+  "license": "Public domain"
+ },
+ "pakistan-bun-kebab": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bun_Kabab.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Bun_Kabab.JPG",
+  "credit": "LunaticFringe97",
+  "license": "CC BY-SA 4.0"
+ },
+ "pakistan-kata-kat": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Katakat.JPG/960px-Katakat.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Katakat.JPG",
+  "credit": "Miansari66",
+  "license": "CC0"
+ },
+ "pakistan-sai-bhaji": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Sindhi_Sai_Bhaji.JPG/960px-Sindhi_Sai_Bhaji.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Sindhi_Sai_Bhaji.JPG",
+  "credit": "Miansari66",
+  "license": "Public domain"
+ },
+ "pakistan-thadal": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Thandiay_%28Thadal%29.JPG/960px-Thandiay_%28Thadal%29.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Thandiay_(Thadal).JPG",
+  "credit": "Miansari66",
+  "license": "CC0"
+ },
+ "pakistan-peshawari-chapli-kebab": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Chapli_Kebab.jpg/960px-Chapli_Kebab.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Chapli_Kebab.jpg",
+  "credit": "Murcotipton",
+  "license": "CC BY-SA 3.0"
+ },
+ "pakistan-kabuli-pulao": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Afghan_Palo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Afghan_Palo.jpg",
+  "credit": "Jost Wagner",
+  "license": "CC BY-SA 1.0"
+ },
+ "pakistan-bannu-pulao": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bannu_Gull_Beeff_Pulao.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bannu_Gull_Beeff_Pulao.jpg",
+  "credit": "Nainsahil",
+  "license": "CC BY-SA 4.0"
+ },
+ "pakistan-balochi-sajji": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Sajji.JPG/960px-Sajji.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Sajji.JPG",
+  "credit": "Miansari66",
+  "license": "CC0"
+ },
+ "pakistan-tabaheg": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/%D8%AA%D8%A8%D8%A7%D9%87%DA%AF.jpeg",
+  "page": "https://commons.wikimedia.org/wiki/File:%D8%AA%D8%A8%D8%A7%D9%87%DA%AF.jpeg",
+  "credit": "گیشتر",
+  "license": "CC BY-SA 4.0"
  },
  "peru-ceviche": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Cebiche_de_corvina.JPG/960px-Cebiche_de_corvina.JPG",
@@ -11224,6 +11506,42 @@
   "page": "https://commons.wikimedia.org/wiki/File:Haupia.jpg",
   "credit": "Arnold Gatilao from Fremont, CA, USA",
   "license": "CC BY 2.0"
+ },
+ "uzbekistan-tashkent-toy-oshi": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Urazmat-Plov.jpg/960px-Urazmat-Plov.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Urazmat-Plov.jpg",
+  "credit": "Ji-Elle",
+  "license": "CC BY-SA 4.0"
+ },
+ "uzbekistan-naryn": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%D0%A1%D0%B0%D0%BA%D1%81%D0%B0%D1%83%D0%BB_%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%2C_naryn_soup_with_horse-meat_qaz%C4%B1_and_noodles.jpg/960px-%D0%A1%D0%B0%D0%BA%D1%81%D0%B0%D1%83%D0%BB_%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%2C_naryn_soup_with_horse-meat_qaz%C4%B1_and_noodles.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%B0%D1%83%D0%BB_%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD,_naryn_soup_with_horse-meat_qaz%C4%B1_and_noodles.jpg",
+  "credit": "Ser Amantio di Nicolao",
+  "license": "CC BY-SA 4.0"
+ },
+ "uzbekistan-mastava": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%D0%9C%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%B0.jpg/960px-%D0%9C%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%B0.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%B0.jpg",
+  "credit": "Sakateka",
+  "license": "CC BY-SA 4.0"
+ },
+ "uzbekistan-samarkand-non": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Naan_in_Samarkand.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Naan_in_Samarkand.jpg",
+  "credit": "Farsizabon",
+  "license": "CC BY-SA 4.0"
+ },
+ "uzbekistan-shivit-oshi": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Shivit_osh.jpg/960px-Shivit_osh.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Shivit_osh.jpg",
+  "credit": "Miss Kamola",
+  "license": "CC BY-SA 4.0"
+ },
+ "uzbekistan-tukhum-barak": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Tuxumbarak.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tuxumbarak.jpg",
+  "credit": "Diwikiped",
+  "license": "CC0"
  },
  "vietnam-pho": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Bowl_of_Meatball_pho.jpg/960px-Bowl_of_Meatball_pho.jpg",
