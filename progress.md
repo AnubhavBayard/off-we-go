@@ -592,3 +592,7 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
 3. Build, install, README counts, commit + push.
 4. Batch 12: Nigeria, Ghana, Uruguay, Slovenia (registered).
 5. Still open: Android back closes sheets first (optional); owned logo, privacy policy, restaurant coordinates CSV (waiting on user), revoke Supabase token `claude-setup`.
+- 2026-11-12 new session: Pakistan research agent started; session ended before it wrote a file.
+- 2026-11-13: Pakistan research agent restarted.
+- Pakistan done: 35 dishes, 5 regions (Lahore & Punjab 8, Karachi & Sindh 8, Peshawar & KP 5, Balochistan 6, Gilgit-Baltistan & Hunza 8). Islamabad and Azad Kashmir dropped (no distinct dishes / duplicates J&K). No GIs (registered food GIs are only basmati, Sindhri + Chaunsa mango, all ingredients; Multani sohan halwa only a candidate; IPO register site refused connections). No prices (no dated 2023+ source). Karachi nihari kept despite delhi-nihari (sourced post-1947 Karachi history). Thin: molida, chilpek (single source), tabaheg, landhi, Balochi dampukht, thadal, pallo machhi, Hunza harisa (blogs). Safe-side calls by agent: dairy in halwa puri, bun kebab, thadal; gluten in nihari; hoilo garma vegan false. Spot-check OK. Validator OK (2,714 total).
+- BATCH 11 research done. Next: batch 11 photos, build, install, README counts, push.

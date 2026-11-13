@@ -1,0 +1,1056 @@
+[
+  {
+    "id": "pakistan-lahori-chargha",
+    "name": "Lahori chargha",
+    "local_name": "چرغا",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Lahore & Punjab",
+    "regions": [
+      "Lahore"
+    ],
+    "description": "A whole chicken scored with deep cuts, marinated overnight in spiced yoghurt, then steamed until tender and fried until crisp. It is a Lahore speciality now eaten all over Pakistan.",
+    "how_to_eat": "Tear the chicken apart by hand and eat it with naan, chutney and salad.",
+    "how_to_order": "Ask for a whole or half chargha at Lahore grill and chargha shops.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chargha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chargha",
+      "https://en.wikipedia.org/wiki/Lahori_cuisine"
+    ]
+  },
+  {
+    "id": "pakistan-siri-paye",
+    "name": "Siri paye",
+    "local_name": "سری پایا",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Lahore & Punjab",
+    "regions": [
+      "Lahore"
+    ],
+    "description": "A stew of the trotters (paye) and head (siri) of cow, goat or sheep, slow-cooked overnight until the stock turns thick and gelatinous. In Pakistan it is a classic winter breakfast eaten with plain naan; Lahore is known for its paye shops.",
+    "how_to_eat": "Tear fresh naan into the hot stew; squeeze lemon and add ginger and green chilli on top.",
+    "how_to_order": "Go early in the morning to a paye shop and ask for siri paye with naan; the bone marrow (nalli) is a prized extra.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paya_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Paya_(food)",
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine",
+      "https://food.tribune.com.pk/en/blog/the-most-iconic-food-in-lahore-you-have-to-try",
+      "https://artsandculture.google.com/story/WgXR7l3Qjqqpxg"
+    ]
+  },
+  {
+    "id": "pakistan-halwa-puri",
+    "name": "Halwa puri",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Lahore & Punjab",
+    "regions": [
+      "Lahore"
+    ],
+    "description": "Puffy fried wheat puris served with sweet semolina halwa and a chickpea (and often potato) curry. It is a weekend and holiday breakfast in urban Pakistan, and Lahore is the city most associated with it.",
+    "how_to_eat": "Tear the puri and alternate bites of spicy chanay and sweet halwa, with milky tea.",
+    "how_to_order": "Go to a breakfast shop in the morning, especially on weekends, and order a plate of halwa puri with chanay.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine",
+      "https://en.wikipedia.org/wiki/Lahori_cuisine",
+      "https://food.tribune.com.pk/en/blog/the-most-iconic-food-in-lahore-you-have-to-try",
+      "https://migrationology.com/best-street-food-lahore/"
+    ]
+  },
+  {
+    "id": "pakistan-lahori-fried-fish",
+    "name": "Lahori fried fish",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Lahore & Punjab",
+    "regions": [
+      "Lahore"
+    ],
+    "description": "River fish such as rahu coated in a spiced gram-flour (besan) batter and deep-fried, often in mustard oil. It is a Lahore winter street favourite served with tangy chutney.",
+    "how_to_eat": "Eat hot with the dipping chutney, lemon and sliced onions.",
+    "how_to_order": "Ask for fried fish (machhli) by weight at a fish corner; it is mainly sold in the cooler months.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "mustard"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lahori_cuisine",
+      "https://food.tribune.com.pk/en/blog/the-most-iconic-food-in-lahore-you-have-to-try",
+      "https://migrationology.com/best-street-food-lahore/"
+    ]
+  },
+  {
+    "id": "pakistan-murgh-cholay",
+    "name": "Murgh cholay",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Lahore & Punjab",
+    "regions": [
+      "Lahore"
+    ],
+    "description": "A curry of chicken cooked with chickpeas, a signature dish of central Punjab. In Lahore it is a breakfast and lunch staple, usually eaten with roghni naan.",
+    "how_to_eat": "Scoop it up with roghni naan or kulcha.",
+    "how_to_order": "Ask for murgh cholay (also chicken chanay) at breakfast and cholay shops.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine",
+      "https://en.wikipedia.org/wiki/Lahori_cuisine",
+      "https://food.tribune.com.pk/en/blog/the-most-iconic-food-in-lahore-you-have-to-try"
+    ]
+  },
+  {
+    "id": "pakistan-lahori-karahi",
+    "name": "Lahori karahi",
+    "local_name": "کڑاہی",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Lahore & Punjab",
+    "regions": [
+      "Lahore"
+    ],
+    "description": "Chicken or mutton cooked fast over high heat in a wok-like karahi with tomatoes, ginger and green chillies; Lahore's version is known for its heat. At places like Lakshmi Chowk the meat is chosen and cut in front of you and often cooked in butter.",
+    "how_to_eat": "Eat straight from the karahi with hot naan or roti.",
+    "how_to_order": "Order by weight (half or full kilo) of chicken or mutton karahi at a karahi house; it is cooked to order.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Karahi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lahori_cuisine",
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine",
+      "https://food.tribune.com.pk/en/blog/the-most-iconic-food-in-lahore-you-have-to-try",
+      "https://en.wikipedia.org/wiki/Karahi"
+    ]
+  },
+  {
+    "id": "pakistan-multani-sohan-halwa",
+    "name": "Multani sohan halwa",
+    "local_name": "سوہن حلوہ",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Pakistan",
+    "state": "Lahore & Punjab",
+    "regions": [
+      "Multan"
+    ],
+    "description": "A dense, brittle, caramelised halwa made by boiling milk, sugar, water and cornflour with ghee, flavoured with saffron and cardamom and studded with almonds and pistachios. The Multani variety is famous in Saraiki cuisine and is sold in decorated tins as a gift.",
+    "how_to_eat": "Break off a small piece; it is very rich and hard.",
+    "how_to_order": "Buy it in tins or boxes from traditional confectioners in Multan or at sweet shops across Pakistan.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sohan_halwa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sohan_halwa",
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine"
+    ]
+  },
+  {
+    "id": "pakistan-doodh-patti",
+    "name": "Doodh patti chai",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Pakistan",
+    "state": "Lahore & Punjab",
+    "regions": [],
+    "description": "Tea made by boiling the tea leaves directly in milk with sugar, sometimes with cardamom. Very sweet and strong, it is Pakistan's everyday tea, drunk at all hours and central to hospitality.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for doodh patti at any dhaba or tea stall.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine",
+      "https://migrationology.com/best-street-food-lahore/"
+    ]
+  },
+  {
+    "id": "pakistan-sindhi-biryani",
+    "name": "Sindhi biryani",
+    "local_name": "سندھی بریانی",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Karachi & Sindh",
+    "regions": [
+      "Karachi"
+    ],
+    "description": "Sindh's meat-and-rice biryani, made with mutton or chicken (sometimes fish or prawns), basmati rice, potatoes, tomatoes, onions, yoghurt and spices; prunes may be added. It is one of the most eaten dishes in Pakistan.",
+    "how_to_eat": "Eat with raita and salad.",
+    "how_to_order": "Biryani shops sell it by the plate; ask for Sindhi biryani with chicken or mutton.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sindhi_biryani",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sindhi_biryani",
+      "https://en.wikipedia.org/wiki/Sindhi_cuisine",
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine"
+    ]
+  },
+  {
+    "id": "pakistan-bun-kebab",
+    "name": "Bun kebab (anda shami)",
+    "local_name": "بن کباب",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Pakistan",
+    "state": "Karachi & Sindh",
+    "regions": [
+      "Karachi"
+    ],
+    "description": "A grilled bun with a shallow-fried shami patty of minced beef or mutton and lentils dipped in egg, topped with onions, tamarind chutney and raita. It was born in Karachi in the 1950s and is the city's signature street sandwich, with Burns Road vendors the best known.",
+    "how_to_eat": "Eat it hot from the griddle with extra chutney.",
+    "how_to_order": "Ask for an anda shami (with fried egg) or beef bun kebab at a street stall; daal and aloo patties exist for non-meat eaters.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bun_kebab",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bun_kebab",
+      "https://en.wikipedia.org/wiki/Burnes_Road",
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine",
+      "https://www.zameen.com/blog/best-street-foods-karachi.html"
+    ]
+  },
+  {
+    "id": "pakistan-karachi-nihari",
+    "name": "Karachi nihari",
+    "local_name": "نہاری",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Karachi & Sindh",
+    "regions": [
+      "Karachi"
+    ],
+    "description": "A slow-cooked stew of beef shank with bone marrow, flavoured with long pepper. Muhajir migrants brought it from Delhi and Lucknow after 1947, and in Karachi it became a huge success and spread across Pakistan; some shops add part of the previous day's pot (taar) to the next.",
+    "how_to_eat": "Top with ginger, green chilli, coriander and lemon and eat with naan or khamiri roti.",
+    "how_to_order": "Go to a nihari house, usually for breakfast; ask for nalli (marrow) or maghaz (brain) as extras.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nihari",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nihari",
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine",
+      "https://www.zameen.com/blog/best-street-foods-karachi.html"
+    ]
+  },
+  {
+    "id": "pakistan-kata-kat",
+    "name": "Kata-kat (taka-tak)",
+    "local_name": "کٹاکٹ",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Pakistan",
+    "state": "Karachi & Sindh",
+    "regions": [
+      "Karachi",
+      "Lahore"
+    ],
+    "description": "Offal such as kidney, brain, heart, liver and testicles, with lamb chops, chopped and stir-fried in butter on a flat griddle. The name comes from the clatter of the two blades chopping on the griddle; it began in Karachi and is popular across Pakistan.",
+    "how_to_eat": "Eat with naan straight off the griddle.",
+    "how_to_order": "Order by the plate at night-time street griddles; ask which parts go in if you are squeamish.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kata-kat",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kata-kat",
+      "https://food.tribune.com.pk/en/blog/the-most-iconic-food-in-lahore-you-have-to-try"
+    ]
+  },
+  {
+    "id": "pakistan-sai-bhaji",
+    "name": "Sai bhaji",
+    "local_name": "سائي ڀاڄي",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Karachi & Sindh",
+    "regions": [],
+    "description": "A Sindhi green curry of spinach with fenugreek and dill, cooked with chana or moong dal, tomatoes, onions and mild spices until smooth. It is an everyday household dish in Sindh, usually eaten with plain rice (sai bhaji ain chawar).",
+    "how_to_eat": "Eat with white rice or roti.",
+    "how_to_order": "Mostly home food; ask for it at Sindhi eateries.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sai_bhaji",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sai_bhaji",
+      "https://en.wikipedia.org/wiki/Sindhi_cuisine"
+    ]
+  },
+  {
+    "id": "pakistan-pallo-machhi",
+    "name": "Pallo machhi (palla fish)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Karachi & Sindh",
+    "regions": [],
+    "description": "Hilsa (palla) from the Indus, a prized Sindhi delicacy that is fried with local spices, cooked with onions and potatoes, or barbecued. The roe (aani) is fried alongside and considered a treat.",
+    "how_to_eat": "Eat carefully, the fish is very bony.",
+    "how_to_order": "Ask for palla in season at Sindhi fish shops and riverside eateries.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sindhi_cuisine",
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine"
+    ]
+  },
+  {
+    "id": "pakistan-gola-ganda",
+    "name": "Gola ganda (baraf gola)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Pakistan",
+    "state": "Karachi & Sindh",
+    "regions": [
+      "Karachi"
+    ],
+    "description": "Shaved ice packed into a ball or cup and soaked in coloured syrups, often topped with fruit such as pineapple and cherries and condensed milk. It is a summer pushcart sweet; in Karachi Dhoraji is the famous spot.",
+    "how_to_eat": "Eat quickly with a spoon before it melts.",
+    "how_to_order": "Buy from pushcarts and gola shops; ask for it with or without condensed milk (malai).",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine",
+      "https://www.zameen.com/blog/best-street-foods-karachi.html"
+    ]
+  },
+  {
+    "id": "pakistan-thadal",
+    "name": "Thadal",
+    "local_name": "ٿاڌل",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Pakistan",
+    "state": "Karachi & Sindh",
+    "regions": [],
+    "description": "A cooling Sindhi drink made with ground char magaz (melon, pumpkin and cucumber seeds), dry fruits, pepper, almonds and poppy seeds. It is traditionally drunk by pehlwani wrestlers to stay cool.",
+    "how_to_eat": null,
+    "how_to_order": "Look for it at Sindhi drink stalls in hot weather.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "nuts",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thadal",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thadal",
+      "https://en.wikipedia.org/wiki/Sindhi_cuisine",
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine"
+    ]
+  },
+  {
+    "id": "pakistan-peshawari-chapli-kebab",
+    "name": "Peshawari chapli kebab",
+    "local_name": "چپلی کباب",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Pakistan",
+    "state": "Peshawar & Khyber Pakhtunkhwa",
+    "regions": [
+      "Peshawar"
+    ],
+    "description": "A large flat patty of minced beef or mutton mixed with wheat flour, egg, chillies, coriander, tomatoes, onions and spices, traditionally fried in lamb or beef fat over wood fires. It originated in Peshawar and is a Pashtun speciality; Namak Mandi is the famous place to eat it.",
+    "how_to_eat": "Eat hot with naan, yoghurt and salad, or wrapped as a bun kebab; kahwa often follows.",
+    "how_to_order": "Order by the piece at kebab shops; ask for beef or mutton.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chapli_kebab",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chapli_kebab",
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine",
+      "https://artsandculture.google.com/story/WgXR7l3Qjqqpxg"
+    ]
+  },
+  {
+    "id": "pakistan-kabuli-pulao",
+    "name": "Kabuli pulao",
+    "local_name": "قابلی پلاؤ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Peshawar & Khyber Pakhtunkhwa",
+    "regions": [
+      "Peshawar"
+    ],
+    "description": "An Afghan pilaf common in Pashtun areas of Pakistan: steamed rice with lamb, caramelised carrots and raisins, often garnished with almonds and pistachios. In Peshawar it is a festive dish served at gatherings.",
+    "how_to_eat": "Eat from a shared platter, often with chapli kebab or salad.",
+    "how_to_order": "Ask for Kabuli pulao at Afghan and Pashtun restaurants in Peshawar.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kabuli_pulao",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kabuli_pulao",
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine",
+      "https://en.wikipedia.org/wiki/Pashtun_cuisine"
+    ]
+  },
+  {
+    "id": "pakistan-bannu-pulao",
+    "name": "Bannu pulao",
+    "local_name": "بنوں پلاؤ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Peshawar & Khyber Pakhtunkhwa",
+    "regions": [
+      "Bannu"
+    ],
+    "description": "A rice dish from Bannu district: bone-in beef slow-cooked into a rich stock, with the rice cooked separately in ghee and whole spices, then garnished with fried onions, green chillies and lemon. It is a dish for special occasions and is popular across Pakistan.",
+    "how_to_eat": "Eat with yoghurt, salad or raita.",
+    "how_to_order": "Ask for Bannu beef pulao at Pashtun pulao houses.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bannu_pulao",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bannu_pulao",
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine",
+      "https://en.wikipedia.org/wiki/Pashtun_cuisine"
+    ]
+  },
+  {
+    "id": "pakistan-peshawari-dumba-karahi",
+    "name": "Peshawari dumba karahi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Peshawar & Khyber Pakhtunkhwa",
+    "regions": [
+      "Peshawar"
+    ],
+    "description": "Meat and fat of the fat-tailed dumba sheep cooked down over high heat with whole tomatoes, salt and pepper until dry. Unlike Lahore's karahi it is lightly spiced; Namak Mandi in Peshawar is famous for it.",
+    "how_to_eat": "Eat with naan straight from the karahi.",
+    "how_to_order": "Order by weight at Namak Mandi karahi shops; the meat is cooked to order.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Karahi",
+    "source_urls": [
+      "https://artsandculture.google.com/story/WgXR7l3Qjqqpxg",
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine"
+    ]
+  },
+  {
+    "id": "pakistan-peshawari-qehwa",
+    "name": "Peshawari qehwa",
+    "local_name": "قہوہ",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Pakistan",
+    "state": "Peshawar & Khyber Pakhtunkhwa",
+    "regions": [
+      "Peshawar"
+    ],
+    "description": "Peshawar's green tea, traditionally brewed with jasmine tea and green cardamom and sweetened with sugar. It is served after meals and at the old chaikhanas of Qissa Khwani Bazaar, where water is kept hot in samovars.",
+    "how_to_eat": "Sip from small cups, usually after a meal.",
+    "how_to_order": "Ask for qehwa (kahwa) at any Peshawar tea house; it comes without milk.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kahwah",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kahwah",
+      "https://artsandculture.google.com/story/WgXR7l3Qjqqpxg",
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine"
+    ]
+  },
+  {
+    "id": "pakistan-balochi-sajji",
+    "name": "Balochi sajji",
+    "local_name": "سجی",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "regions": [
+      "Quetta"
+    ],
+    "description": "Whole lamb, or chicken in the cities, marinated mainly in salt with a few spices and roasted on skewers around a fire, often stuffed with rice. It comes from the Baloch and is served with kaak bread in Balochistan and with rice elsewhere.",
+    "how_to_eat": "Pull the meat off the bone and eat with kaak or rice.",
+    "how_to_order": "Order a whole or half chicken sajji at sajji houses; lamb sajji usually needs pre-ordering.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sajji",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sajji",
+      "https://en.wikipedia.org/wiki/Balochi_cuisine",
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine",
+      "https://migrationology.com/best-street-food-lahore/"
+    ]
+  },
+  {
+    "id": "pakistan-kaak",
+    "name": "Kaak (stone bread)",
+    "local_name": "کاک",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "regions": [],
+    "description": "A Baloch and Pashtun bread whose dough (flour, yeast, sugar, salt, milk, sometimes sesame) is wrapped around a heated stone and baked in a tandoor. It hardens into a crusty ball that keeps for days and is often served with sajji.",
+    "how_to_eat": "Break it open and eat with sajji or other meat.",
+    "how_to_order": "Ask for kaak at sajji houses in Balochistan.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "sesame"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kaak_(bread)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kaak_(bread)",
+      "https://en.wikipedia.org/wiki/Balochi_cuisine"
+    ]
+  },
+  {
+    "id": "pakistan-rosh",
+    "name": "Rosh",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "regions": [
+      "Quetta"
+    ],
+    "description": "Large chunks of lamb or goat cooked slowly until tender in their own fat with onions and very little seasoning, often just salt. A Balochi staple, especially in Quetta, served with naan and moong dal.",
+    "how_to_eat": "Eat with tandoor naan, dal and raita.",
+    "how_to_order": "Order at roadside restaurants on the highways around Quetta.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://images.dawn.com/news/1190127",
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine",
+      "https://en.wikipedia.org/wiki/Pashtun_cuisine"
+    ]
+  },
+  {
+    "id": "pakistan-landhi",
+    "name": "Landhi (dried mutton)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "regions": [],
+    "description": "Sheep or goat meat dried for up to two weeks in the cold of winter, then double-boiled: once to remove salt and again with herbs and spices to make a hearty soup-stew. A tribal winter food of Balochistan now popular across Pakistan.",
+    "how_to_eat": "Eat with rice, kaak or naan.",
+    "how_to_order": "Mainly a home and winter dish; ask in Quetta in December-January.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://artsandculture.google.com/story/5wVxA6qLxhm_NQ",
+      "https://en.wikipedia.org/wiki/Pashtun_cuisine"
+    ]
+  },
+  {
+    "id": "pakistan-balochi-dampukht",
+    "name": "Balochi dampukht",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "regions": [],
+    "description": "Meat slow-cooked on low heat in its own fat in a sealed pot, with few spices, a traditional Balochi way of cooking that preserves the taste of the meat.",
+    "how_to_eat": "Eat with naan or rice.",
+    "how_to_order": "Ask for dampukht at Balochi restaurants; it takes hours, so pre-order.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dum_pukht",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Balochi_cuisine",
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine",
+      "https://en.wikipedia.org/wiki/Dum_pukht"
+    ]
+  },
+  {
+    "id": "pakistan-tabaheg",
+    "name": "Tabaheg",
+    "local_name": "تباهگ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "regions": [],
+    "description": "Thin slices of sheep or goat meat rubbed with sour pomegranate powder, salt and lemon juice and sun-dried on ropes, then cooked with rice. One of the best-known traditional foods of Balochistan.",
+    "how_to_eat": null,
+    "how_to_order": "Mostly made at home; ask in Baloch areas.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tabaheg",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tabaheg",
+      "https://en.wikipedia.org/wiki/Balochi_cuisine"
+    ]
+  },
+  {
+    "id": "pakistan-chapshuro",
+    "name": "Chapshuro",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Pakistan",
+    "state": "Gilgit-Baltistan & Hunza",
+    "regions": [
+      "Hunza",
+      "Nagar",
+      "Gilgit"
+    ],
+    "description": "Minced or boiled meat with onions, ginger, garlic and green chillies sealed between two thin wheat flatbreads and cooked on a griddle, traditionally in walnut or apricot oil. It began in Nagar valley and is Gilgit-Baltistan's best-known dish, often called the local pizza.",
+    "how_to_eat": "Cut into wedges and eat hot, sometimes with chutney or yoghurt.",
+    "how_to_order": "Sold at cafes and street stalls in Karimabad and Gilgit.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine",
+      "https://artsandculture.google.com/story/kAVRIgnAI7drzw",
+      "https://www.slurrp.com/article/6-traditional-hunza-dishes-you-must-try-1735823996440"
+    ]
+  },
+  {
+    "id": "pakistan-mamtu",
+    "name": "Mamtu (mantu)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Gilgit-Baltistan & Hunza",
+    "regions": [
+      "Gilgit"
+    ],
+    "description": "Steamed dumplings filled with minced meat and onion, a well-known dish of Gilgit with Central Asian roots. They are served with yoghurt and parsley, black pepper, vinegar or chilli sauce.",
+    "how_to_eat": "Dip in the yoghurt sauce.",
+    "how_to_order": "Ask for mamtu at local eateries in Gilgit and Hunza.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine",
+      "https://en.wikipedia.org/wiki/Chitrali_cuisine",
+      "https://www.apricottours.pk/food-in-gilgit-baltistan/"
+    ]
+  },
+  {
+    "id": "pakistan-hunza-harisa",
+    "name": "Hunza harisa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Gilgit-Baltistan & Hunza",
+    "regions": [
+      "Hunza"
+    ],
+    "description": "Wheat or barley boiled with beef or mutton for hours until it breaks down into a thick, smooth porridge, finished with melted butter or oil. A winter breakfast in Hunza, often shared with neighbours.",
+    "how_to_eat": "Eat hot with a spoon, with butter poured on top.",
+    "how_to_order": "Mostly cooked in homes in winter; ask at local restaurants in Karimabad.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Harees",
+    "source_urls": [
+      "https://www.slurrp.com/article/6-traditional-hunza-dishes-you-must-try-1735823996440",
+      "https://www.apricottours.pk/food-in-gilgit-baltistan/"
+    ]
+  },
+  {
+    "id": "pakistan-diram-fitti",
+    "name": "Diram fitti",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Pakistan",
+    "state": "Gilgit-Baltistan & Hunza",
+    "regions": [
+      "Hunza"
+    ],
+    "description": "A Hunza bread made from sprouted wheat flour, which makes it sweeter than other breads; some sources describe a buckwheat version. It is eaten plain or with butter or apricot oil.",
+    "how_to_eat": "Eat warm with butter or apricot oil.",
+    "how_to_order": "Ask at Hunza homes and traditional food cafes, usually for breakfast.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.slurrp.com/article/6-traditional-hunza-dishes-you-must-try-1735823996440",
+      "https://www.pakistantraveler.com/organic-cuisine-of-hunza"
+    ]
+  },
+  {
+    "id": "pakistan-molida",
+    "name": "Molida",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Gilgit-Baltistan & Hunza",
+    "regions": [
+      "Hunza"
+    ],
+    "description": "Shredded flatbread cooked with rehydrated qurut (dried cheese) liquid, then drizzled with apricot oil. In Hunza it is made on special occasions and for honoured guests.",
+    "how_to_eat": null,
+    "how_to_order": "Rarely on menus; try it at traditional food cafes or homestays in Hunza.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://artsandculture.google.com/story/kAVRIgnAI7drzw"
+    ]
+  },
+  {
+    "id": "pakistan-hoilo-garma",
+    "name": "Hoilo garma",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Pakistan",
+    "state": "Gilgit-Baltistan & Hunza",
+    "regions": [
+      "Hunza"
+    ],
+    "description": "Hoi, a spinach-like green, boiled together with pieces of bread, garlic, ginger and onions into a soft dish. A traditional Hunza home dish eaten alone or with other food.",
+    "how_to_eat": null,
+    "how_to_order": "Try it at traditional food cafes in Hunza.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://artsandculture.google.com/story/kAVRIgnAI7drzw",
+      "https://www.slurrp.com/article/6-traditional-hunza-dishes-you-must-try-1735823996440"
+    ]
+  },
+  {
+    "id": "pakistan-chilpek",
+    "name": "Chilpek (arzoq)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Pakistan",
+    "state": "Gilgit-Baltistan & Hunza",
+    "regions": [
+      "Hunza"
+    ],
+    "description": "Bread dough made with oil, salt and sugar, flattened into a patterned oval and fried in apricot or walnut oil. A traditional Hunza breakfast served with homemade fruit jams and desi ghee.",
+    "how_to_eat": "Eat with apricot jam and ghee.",
+    "how_to_order": "Try it at breakfast in Hunza homestays and traditional cafes.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://artsandculture.google.com/story/kAVRIgnAI7drzw"
+    ]
+  },
+  {
+    "id": "pakistan-gurgur-cha",
+    "name": "Gurgur cha (butter tea)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Pakistan",
+    "state": "Gilgit-Baltistan & Hunza",
+    "regions": [
+      "Skardu",
+      "Chitral"
+    ],
+    "description": "Salty Tibetan-style tea churned with butter and salt to a froth, drunk in Gilgit-Baltistan and Chitral. It is a warming drink taken throughout the day in the cold mountains.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for namkeen (salt) chai or gurgur cha in Baltistan and Chitral.",
+    "typical_price": null,
+    "currency": "PKR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Butter_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pakistani_cuisine",
+      "https://en.wikipedia.org/wiki/Chitrali_cuisine",
+      "https://www.apricottours.pk/food-in-gilgit-baltistan/"
+    ]
+  }
+]
