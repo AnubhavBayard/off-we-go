@@ -1,0 +1,665 @@
+[
+  {
+    "id": "laos-laap",
+    "name": "Laap",
+    "local_name": "ລາບ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Laos",
+    "state": "Vientiane & Centre",
+    "regions": [
+      "Vientiane"
+    ],
+    "description": "Finely chopped and pounded meat or fish, raw or cooked, mixed with chilli, mint, toasted ground rice (khao khua), lime, fish sauce and padaek. It is the national dish of Laos and is eaten for luck at weddings and New Year. Unlike the Thai version, Lao laap can be made with raw meat (laap dip), and traditional beef laap uses offal and bile without lime.",
+    "how_to_eat": "Eat it at room temperature with sticky rice and a plate of raw vegetables and herbs.",
+    "how_to_order": "Ask for laap with your choice of meat or fish (laap pa); it can be raw or cooked.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Larb",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Larb",
+      "https://en.wikipedia.org/wiki/Lao_cuisine",
+      "https://en.wikivoyage.org/wiki/Laos",
+      "https://www.indietraveller.co/street-food-in-laos/"
+    ]
+  },
+  {
+    "id": "laos-tam-mak-hoong",
+    "name": "Tam mak hoong",
+    "local_name": "ຕຳຫມາກຫຸ່ງ",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Laos",
+    "state": "Vientiane & Centre",
+    "regions": [],
+    "description": "Shredded green papaya pounded in a mortar with chillies, garlic, tomatoes, lime and sugar, seasoned with padaek fermented fish sauce and often fermented crab. One of Laos's three national dishes with laap and sticky rice. The Lao version's padaek and crab give it a stronger, funkier taste than the milder Thai som tam.",
+    "how_to_eat": "Eat it with sticky rice and grilled chicken, with raw cabbage or water spinach to cool the heat.",
+    "how_to_order": "Order it from papaya-salad stalls and say how many chillies you want; ask for tam som if you see that name.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Green_papaya_salad",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Green_papaya_salad",
+      "https://en.wikipedia.org/wiki/Lao_cuisine",
+      "https://en.wikivoyage.org/wiki/Laos",
+      "https://www.indietraveller.co/street-food-in-laos/"
+    ]
+  },
+  {
+    "id": "laos-khao-niao",
+    "name": "Khao niao (sticky rice)",
+    "local_name": "ເຂົ້າໜຽວ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Laos",
+    "state": "Vientiane & Centre",
+    "regions": [],
+    "description": "Steamed glutinous rice, the staple of Laos, served from small bamboo baskets and shared by everyone at the table. Laos eats more sticky rice per person than anywhere in the world, about 171 kg a year, and Lao people call themselves luk khao niao, 'children of sticky rice'.",
+    "how_to_eat": "Pinch off a small ball by hand and use it to scoop up dips, laap and stews; close the basket lid when you finish.",
+    "how_to_order": "It comes with almost every Lao meal; ask for khao niao if it is not served automatically.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Glutinous_rice",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lao_cuisine",
+      "https://www.tourismlaos.org/welcome/food-flavours/"
+    ]
+  },
+  {
+    "id": "laos-khao-jee-pate",
+    "name": "Khao jee pâté",
+    "local_name": "ເຂົ້າຈີ່ປາເຕ້",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Laos",
+    "state": "Vientiane & Centre",
+    "regions": [
+      "Vientiane"
+    ],
+    "description": "A small French-style baguette filled with pâté and condiments, the Lao version of bánh mì. Baguettes (khao jee) are a legacy of French Indochina and are still sold on the streets of Vientiane.",
+    "how_to_eat": null,
+    "how_to_order": "Look for baguette vendors at morning markets, where it is a common breakfast.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khao_jee",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lao_cuisine",
+      "https://en.wikipedia.org/wiki/Khao_jee",
+      "https://en.wikivoyage.org/wiki/Laos"
+    ]
+  },
+  {
+    "id": "laos-nam-khao",
+    "name": "Nam khao",
+    "local_name": "ແໜມເຂົ້າ",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Laos",
+    "state": "Vientiane & Centre",
+    "regions": [
+      "Vientiane",
+      "Tha Deua"
+    ],
+    "description": "Crispy rice salad of deep-fried rice balls, seasoned with red curry paste and coconut and coated in egg, broken up and mixed with sour fermented pork sausage (som moo), peanuts, herbs, lime and fish sauce. It comes from the river port village of Tha Deua in Vientiane and is also called naem Thadeua.",
+    "how_to_eat": "Spoon it into a lettuce leaf, top with herbs and dried chillies, and eat it as a wrap.",
+    "how_to_order": "Sold at street stalls and restaurants, and served on big trays at parties.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "egg",
+      "peanuts",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nam_khao",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nam_khao",
+      "https://en.wikipedia.org/wiki/Lao_cuisine"
+    ]
+  },
+  {
+    "id": "laos-khao-piak-sen",
+    "name": "Khao piak sen",
+    "local_name": "ເຂົ້າປຽກເສັ້ນ",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Laos",
+    "state": "Vientiane & Centre",
+    "regions": [],
+    "description": "Noodle soup of thick, chewy fresh noodles made from rice flour and tapioca, cooked directly in a pork or chicken broth simmered with galangal, lemongrass and kaffir lime leaves so the starch thickens it. It is topped with shredded chicken or pork, fried garlic, shallots and herbs, and is a common breakfast.",
+    "how_to_eat": "Season it with lime, fried garlic chilli and fish sauce; it is eaten with chopsticks and sometimes with fried dough sticks.",
+    "how_to_order": "Find it at morning markets and noodle shops early in the day.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khao_piak_sen",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khao_piak_sen",
+      "https://en.wikipedia.org/wiki/Lao_cuisine",
+      "https://www.indietraveller.co/street-food-in-laos/"
+    ]
+  },
+  {
+    "id": "laos-khao-lam",
+    "name": "Khao lam",
+    "local_name": "ເຂົ້າຫລາມ",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Laos",
+    "state": "Vientiane & Centre",
+    "regions": [],
+    "description": "White or purple sticky rice mixed with coconut cream, beans and sometimes taro or sweet potato, roasted inside a section of bamboo. Made since ancient times for feasts and offerings to monks, it is sold along roadsides across Laos.",
+    "how_to_eat": "Peel back the bamboo and eat the rice as a sweet, or with grilled chicken.",
+    "how_to_order": "Buy it from roadside stalls, often the same ones selling ping kai.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sticky_rice_in_bamboo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sticky_rice_in_bamboo",
+      "https://en.wikipedia.org/wiki/Lao_cuisine"
+    ]
+  },
+  {
+    "id": "laos-khanom-kok",
+    "name": "Khanom kok",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Laos",
+    "state": "Vientiane & Centre",
+    "regions": [],
+    "description": "Small coconut dumplings cooked on a dimpled griddle from coconut milk, tapioca and rice flour, sometimes topped with green onions. A common Lao street sweet.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lao_cuisine",
+      "https://en.wikivoyage.org/wiki/Laos"
+    ]
+  },
+  {
+    "id": "laos-beerlao",
+    "name": "Beerlao",
+    "local_name": "ເບຍລາວ",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Laos",
+    "state": "Vientiane & Centre",
+    "regions": [
+      "Vientiane"
+    ],
+    "description": "Lager brewed by the Lao Brewery Company in Vientiane from locally grown jasmine rice with imported malt, hops and yeast. It is a symbol of Lao identity and is sold almost everywhere in the country; there are also dark, IPA and other versions.",
+    "how_to_eat": "Drink it cold, often over ice, with grilled snacks.",
+    "how_to_order": "Order a large 640 ml bottle; on tap it is called bia sot.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beerlao",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Beerlao",
+      "https://en.wikivoyage.org/wiki/Laos",
+      "https://southeastasiabackpacker.com/cost-of-travel/laos/"
+    ]
+  },
+  {
+    "id": "laos-or-lam",
+    "name": "Or lam",
+    "local_name": "ເອາະຫຼາມ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Laos",
+    "state": "Luang Prabang & North",
+    "regions": [
+      "Luang Prabang"
+    ],
+    "description": "A thick, peppery and slightly tongue-numbing stew of lemongrass, chillies and sakhaan chilli wood, thickened with pounded sticky rice, with eggplant, wood ear mushrooms and yard-long beans. It is usually made with dried buffalo skin, beef or chicken; the original royal Luang Prabang recipe used deer. It is often called Luang Prabang's most famous dish.",
+    "how_to_eat": "Eat it with sticky rice; chew the sakhaan wood for flavour but do not swallow it.",
+    "how_to_order": "Look for it at Lao restaurants and markets in Luang Prabang.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Or_lam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Or_lam",
+      "https://en.wikivoyage.org/wiki/Luang_Prabang",
+      "https://www.indietraveller.co/street-food-in-laos/"
+    ]
+  },
+  {
+    "id": "laos-jeow-bong",
+    "name": "Jeow bong",
+    "local_name": "ແຈ່ວບອງ",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Laos",
+    "state": "Luang Prabang & North",
+    "regions": [
+      "Luang Prabang"
+    ],
+    "description": "A sweet and spicy chilli paste from Luang Prabang made with sun-dried chillies, galangal, garlic and fish sauce, set apart by shredded water buffalo or pork skin. It was a favourite of the former Lao royal family and keeps for a long time.",
+    "how_to_eat": "Dip sticky rice, raw vegetables or crisp kaipen into it.",
+    "how_to_order": "Sold in jars at Luang Prabang markets and served as a dip at most Lao meals.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jeow_bong",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jeow_bong",
+      "https://en.wikipedia.org/wiki/Lao_cuisine",
+      "https://www.indietraveller.co/street-food-in-laos/"
+    ]
+  },
+  {
+    "id": "laos-kaipen",
+    "name": "Kaipen",
+    "local_name": "ໄຄແຜ່ນ",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Laos",
+    "state": "Luang Prabang & North",
+    "regions": [
+      "Luang Prabang"
+    ],
+    "description": "Sheets of Mekong river algae gathered in the dry season, pounded, flattened and sun-dried with sesame seeds and sometimes garlic and tomato, like a Lao nori. It is a speciality of Luang Prabang and is flash-fried into a crisp snack with beer.",
+    "how_to_eat": "Eat it fried and crisp, dipped in jeow bong; it is not meant to be eaten raw.",
+    "how_to_order": "Buy packs at Luang Prabang markets or order it fried as a beer snack.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "sesame",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kaipen",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kaipen",
+      "https://en.wikivoyage.org/wiki/Luang_Prabang",
+      "https://www.indietraveller.co/street-food-in-laos/"
+    ]
+  },
+  {
+    "id": "laos-sai-oua",
+    "name": "Sai oua",
+    "local_name": "ໄສ້ອັ່ວ",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Laos",
+    "state": "Luang Prabang & North",
+    "regions": [
+      "Luang Prabang"
+    ],
+    "description": "Grilled sausage of coarsely chopped fatty pork with lemongrass, galangal, kaffir lime leaves, shallots, chillies, garlic, sticky rice and fish sauce. It originates in Luang Prabang and appears in the Lao royal recipes of Phia Sing; Laos makes both pork (sai oua moo) and water buffalo versions.",
+    "how_to_eat": "Eat it with sticky rice or as a snack with beer.",
+    "how_to_order": "Find it at grills in markets and at drinking spots.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sai_oua",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sai_oua",
+      "https://en.wikivoyage.org/wiki/Laos"
+    ]
+  },
+  {
+    "id": "laos-khao-soi",
+    "name": "Lao khao soi",
+    "local_name": "ເຂົ້າຊອຍ",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Laos",
+    "state": "Luang Prabang & North",
+    "regions": [
+      "Luang Prabang",
+      "Luang Namtha"
+    ],
+    "description": "Wide rice noodles cut from steamed sheets in a clear chicken, beef or pork broth, topped with a tomato meat sauce of minced pork, tomatoes, garlic and fermented bean paste and served with fresh herbs. It is completely different from the coconut-curry khao soi of northern Thailand; Luang Namtha and Luang Prabang are said to be its birthplace.",
+    "how_to_eat": "Stir the meat sauce into the broth and add the herbs served alongside.",
+    "how_to_order": "Look for noodle stalls in Luang Prabang, where some vendors still hand-slice the noodles.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "soy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khao_soi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khao_soi",
+      "https://en.wikivoyage.org/wiki/Luang_Prabang",
+      "https://www.indietraveller.co/street-food-in-laos/"
+    ]
+  },
+  {
+    "id": "laos-khao-poon",
+    "name": "Khao poon",
+    "local_name": "ເຂົ້າປຸ້ນ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Laos",
+    "state": "Luang Prabang & North",
+    "regions": [
+      "Luang Prabang"
+    ],
+    "description": "Rice vermicelli soup with pounded chicken, fish or pork in a coconut-milk broth, or without coconut, seasoned with fish sauce, padaek, lime leaves, galangal and chillies. Sometimes called Lao laksa or royal vermicelli curry soup, it was recorded in Luang Prabang's markets around 1900 and in Phia Sing's royal recipes.",
+    "how_to_eat": "Fill the bowl with banana flower, bean sprouts and mint, then add the soup.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khao_poon",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Khao_poon",
+      "https://en.wikipedia.org/wiki/Lao_cuisine"
+    ]
+  },
+  {
+    "id": "laos-ping-kai",
+    "name": "Ping kai",
+    "local_name": "ປີ້ງໄກ່",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Laos",
+    "state": "Savannakhet & Southern Laos",
+    "regions": [
+      "Savannakhet",
+      "Seno"
+    ],
+    "description": "Chicken pounded flat, marinated with fish sauce, garlic, turmeric, coriander root and white pepper, and grilled slowly over charcoal. The town of Seno in Savannakhet is famous for its version, ping kai Xeno, which is officially recognised as Savannakhet's culinary symbol.",
+    "how_to_eat": "Eat it with sticky rice, papaya salad or khao lam and dip it in jeow.",
+    "how_to_order": "Buy it at street markets and roadside grills.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kai_yang",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kai_yang",
+      "https://en.wikipedia.org/wiki/Lao_cuisine",
+      "https://www.tourismlaos.org/welcome/food-flavours/"
+    ]
+  },
+  {
+    "id": "laos-mok-pa",
+    "name": "Mok pa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Laos",
+    "state": "Savannakhet & Southern Laos",
+    "regions": [
+      "Si Phan Don",
+      "Don Khong"
+    ],
+    "description": "Fish steamed in a banana-leaf parcel tied with bamboo string, with lemongrass, kaffir lime leaves, green onions, chillies, dill, fish sauce and shrimp paste. On the Mekong islands of Si Phan Don it is the signature dish, cooked to a custard-like texture and taking about an hour to prepare.",
+    "how_to_eat": "Unwrap the leaf and eat it with sticky rice.",
+    "how_to_order": "Order it at guesthouse restaurants on the islands; allow time as it is made fresh.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lao_cuisine",
+      "https://www.roughguides.com/laos/far-south/si-phan-don"
+    ]
+  },
+  {
+    "id": "laos-ping-pa",
+    "name": "Ping pa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Laos",
+    "state": "Savannakhet & Southern Laos",
+    "regions": [
+      "Si Phan Don"
+    ],
+    "description": "Freshwater fish grilled with spices and herbs. Fish is the staple of the Si Phan Don islands, where most dishes use the day's Mekong catch.",
+    "how_to_eat": "Eat it with sticky rice and a jeow dip.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lao_cuisine",
+      "https://www.roughguides.com/laos/far-south/si-phan-don"
+    ]
+  },
+  {
+    "id": "laos-sin-dat",
+    "name": "Sin dat",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Laos",
+    "state": "Savannakhet & Southern Laos",
+    "regions": [
+      "Pakse"
+    ],
+    "description": "Lao-style barbecue and hot pot in one: diners cook meat and vegetables on a domed griddle over coals while broth collects in the trough around the edge. It is meant for sharing, which makes it an economical meal for groups.",
+    "how_to_eat": "Grill the meat on the dome and cook vegetables and noodles in the broth around it.",
+    "how_to_order": "Order one set for two or more people.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lao_cuisine",
+      "https://www.indietraveller.co/street-food-in-laos/",
+      "https://en.wikivoyage.org/wiki/Pakse"
+    ]
+  },
+  {
+    "id": "laos-bolaven-coffee",
+    "name": "Bolaven coffee",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Laos",
+    "state": "Savannakhet & Southern Laos",
+    "regions": [
+      "Bolaven Plateau",
+      "Paksong"
+    ],
+    "description": "Coffee grown on the volcanic Bolaven Plateau around Paksong, where the French planted it and where about 95% of Lao coffee is produced. 'Bolaven Coffee' is a registered geographical indication. Locally it is drunk from a glass with condensed milk at the bottom, followed by a chaser of green tea.",
+    "how_to_eat": "Stir the condensed milk up from the bottom and sip the tea after.",
+    "how_to_order": "Ask for kaafeh thung (filtered) to avoid instant coffee; kaafeh dam is black, kaafeh nom has milk.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Coffee_production_in_Laos",
+    "source_urls": [
+      "https://www.wipo.int/en/web/ip-advantage/w/stories/sackda",
+      "https://en.wikipedia.org/wiki/Lao_cuisine",
+      "https://en.wikipedia.org/wiki/Coffee_production_in_Laos",
+      "https://en.wikivoyage.org/wiki/Laos"
+    ]
+  },
+  {
+    "id": "laos-paksong-tea",
+    "name": "Paksong tea",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Laos",
+    "state": "Savannakhet & Southern Laos",
+    "regions": [
+      "Bolaven Plateau",
+      "Paksong"
+    ],
+    "description": "Tea grown on the high Bolaven Plateau around Paksong, which is highly regarded. 'Paksong Tea' is a geographical indication linked to the plateau's elevation and volcanic soil.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.wipo.int/en/web/ip-advantage/w/stories/sackda",
+      "https://en.wikipedia.org/wiki/Lao_cuisine"
+    ]
+  },
+  {
+    "id": "laos-lao-lao",
+    "name": "Lao-lao",
+    "local_name": "ເຫລົ້າລາວ",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Laos",
+    "state": "Savannakhet & Southern Laos",
+    "regions": [
+      "Si Phan Don"
+    ],
+    "description": "A strong rice whisky distilled across Laos, often by women for extra income, and with Beerlao the staple drink of the country. Rough Guides rates the lao-lao of Si Phan Don among the best; a milder 'Lao cocktail' mixes it with wild honey and lime.",
+    "how_to_eat": "It is traditionally drunk neat in one gulp, with two glasses served at ceremonies.",
+    "how_to_order": "Stick to sealed commercial bottles; homemade spirit carries a methanol risk.",
+    "typical_price": null,
+    "currency": "LAK",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lao-Lao",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Lao-Lao",
+      "https://www.roughguides.com/laos/far-south/si-phan-don",
+      "https://en.wikivoyage.org/wiki/Laos"
+    ]
+  }
+]
