@@ -105,6 +105,8 @@ NO_PHOTO = {
     "pakistan-gurgur-cha", "pakistan-hunza-harisa", "pakistan-karachi-nihari", "pakistan-lahori-karahi", "pakistan-peshawari-dumba-karahi",
     "pakistan-peshawari-qehwa", "uzbekistan-andijan-devzira-oshi", "uzbekistan-khorezm-plov", "uzbekistan-samarkand-plov", "uzbekistan-manti",
     "uzbekistan-qatlama", "uzbekistan-sumalak",
+    # batch 12
+    "nigeria-zobo", "nigeria-tuwo-miyan-kuka", "ghana-kelewele", "ghana-jollof-rice", "ghana-fante-kenkey", "ghana-akple-fetri-detsi", "uruguay-medio-y-medio", "uruguay-tannat", "uruguay-grappamiel", "slovenia-ricet", "slovenia-trojanski-krofi", "slovenia-cvicek", "slovenia-izolski-brodet", "slovenia-fritaja",
 }
 out = {}
 for d in dishes:

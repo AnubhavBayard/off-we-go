@@ -616,3 +616,7 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
 - User: resume batch 12. Rerunning fetch_dish_images.py.
 - Photo fetch stopped by user before finishing; dish_images.json unchanged. Batch 12 photos still to do.
 - Restarted photo fetch; committed batch 12 data first.
+- Photos batch 12: +78 fetched; 14 dropped via NO_PHOTO (reused: Ghana jollof = Nigeria photo, Fante kenkey = Ga kenkey, Izola brodet = Croatia brudet, zobo = Egyptian karkadeh tea bag; wrong dish: tuwo with garden egg soup, kelewele = plantain vendors, akple = banku balls, medio y medio = torta frita, ričet = Kärntner Ritschert, Trojane krofi = Croatian Križevci doughnuts, fritaja = generic frittata; non-food: Tannat grape drawing, grappamiel brand label, Cviček location map). 2,010 dishes with photos.
+- Building + installing.
+- Built + installed on phone. README: 2,841 dishes, 69 countries.
+- BATCH 12 DONE: 69 countries, 2,841 dishes, 2,010 with photos. No more batches registered. Next: pick batch 13 countries (register in spec + COUNTRY_CODE in src/data.ts + currency).

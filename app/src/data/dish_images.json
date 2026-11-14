@@ -840,9 +840,9 @@
   "license": "CC BY-SA 3.0"
  },
  "rasagola": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Rasgulla.jpg/960px-Rasgulla.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Rasgulla.jpg",
-  "credit": "HrichikHv",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bengali_Sponge_Roshogolla_in_date_palm_jaggery_syrup.jpg/960px-Bengali_Sponge_Roshogolla_in_date_palm_jaggery_syrup.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bengali_Sponge_Roshogolla_in_date_palm_jaggery_syrup.jpg",
+  "credit": "Prianxi",
   "license": "CC BY-SA 4.0"
  },
  "rasabali": {
@@ -1212,9 +1212,9 @@
   "license": "CC BY-SA 4.0"
  },
  "west_bengal-rosogolla": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Rasgulla.jpg/960px-Rasgulla.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Rasgulla.jpg",
-  "credit": "HrichikHv",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bengali_Sponge_Roshogolla_in_date_palm_jaggery_syrup.jpg/960px-Bengali_Sponge_Roshogolla_in_date_palm_jaggery_syrup.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bengali_Sponge_Roshogolla_in_date_palm_jaggery_syrup.jpg",
+  "credit": "Prianxi",
   "license": "CC BY-SA 4.0"
  },
  "west_bengal-mishti-doi": {
@@ -4775,6 +4775,96 @@
   "credit": "Kemfar",
   "license": "CC BY-SA 4.0"
  },
+ "ghana-ga-kenkey": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Kenkey_and_ground_pepper_with_sardine.jpg/960px-Kenkey_and_ground_pepper_with_sardine.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kenkey_and_ground_pepper_with_sardine.jpg",
+  "credit": "Mwintirew",
+  "license": "CC BY-SA 4.0"
+ },
+ "ghana-banku-tilapia": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/BALLS_OF_BANKU.jpg/960px-BALLS_OF_BANKU.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:BALLS_OF_BANKU.jpg",
+  "credit": "DromoTetteh",
+  "license": "CC BY-SA 4.0"
+ },
+ "ghana-waakye": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Waakye_with_vegetables%2C_fish_and_egg_with_ripe_plantains.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Waakye_with_vegetables,_fish_and_egg_with_ripe_plantains.jpg",
+  "credit": "daSupremo",
+  "license": "CC BY-SA 4.0"
+ },
+ "ghana-red-red": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Ghanaian_Red-Red_with_Fish.jpg/960px-Ghanaian_Red-Red_with_Fish.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ghanaian_Red-Red_with_Fish.jpg",
+  "credit": "benketaro",
+  "license": "CC BY 2.0"
+ },
+ "ghana-asaana": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Asaana.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Asaana.jpg",
+  "credit": "Xibitgh",
+  "license": "CC BY-SA 4.0"
+ },
+ "ghana-fufu-light-soup": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Wrapped_fufu.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Wrapped_fufu.jpg",
+  "credit": "daSupremo",
+  "license": "CC BY-SA 4.0"
+ },
+ "ghana-fufu-groundnut-soup": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Fufu.jpg/960px-Fufu.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Fufu.jpg",
+  "credit": "Londonsista",
+  "license": "CC BY-SA 3.0"
+ },
+ "ghana-omo-tuo": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Omo_Tuo_at_a_Ghanaian_restaurant_in_Colorado.jpg/960px-Omo_Tuo_at_a_Ghanaian_restaurant_in_Colorado.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Omo_Tuo_at_a_Ghanaian_restaurant_in_Colorado.jpg",
+  "credit": "Thomson200",
+  "license": "CC0"
+ },
+ "ghana-ampesi-kontomire": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Palava_sauce_w-_cocoyam_leaf_%285612472154%29.jpg/960px-Palava_sauce_w-_cocoyam_leaf_%285612472154%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Palava_sauce_w-_cocoyam_leaf_(5612472154).jpg",
+  "credit": "benketaro from San Francisco",
+  "license": "CC BY 2.0"
+ },
+ "ghana-kokonte": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Kokonte_Dish.jpg/960px-Kokonte_Dish.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kokonte_Dish.jpg",
+  "credit": "Iamrobotboy",
+  "license": "CC BY-SA 4.0"
+ },
+ "ghana-aprapransa": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Aprapransa.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Aprapransa.jpg",
+  "credit": "Rberchie",
+  "license": "CC BY-SA 4.0"
+ },
+ "ghana-akyeke": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Attieke.JPG/960px-Attieke.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Attieke.JPG",
+  "credit": "Serein",
+  "license": "CC BY-SA 3.0"
+ },
+ "ghana-hausa-koko": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Porridge_and_bean_balls.jpg/960px-Porridge_and_bean_balls.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Porridge_and_bean_balls.jpg",
+  "credit": "Jemima2019",
+  "license": "CC BY-SA 4.0"
+ },
+ "ghana-pito": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Pito.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pito.jpg",
+  "credit": "Jwbtravel",
+  "license": "Public domain"
+ },
+ "ghana-wagashi": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Wagasi.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Wagasi.jpg",
+  "credit": "daSupremo",
+  "license": "CC BY-SA 4.0"
+ },
  "greece-souvlaki": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8C_%CE%A3%CE%BF%CF%85%CE%B2%CE%BB%CE%AC%CE%BA%CE%B9_-_panoramio.jpg/960px-%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8C_%CE%A3%CE%BF%CF%85%CE%B2%CE%BB%CE%AC%CE%BA%CE%B9_-_panoramio.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8C_%CE%A3%CE%BF%CF%85%CE%B2%CE%BB%CE%AC%CE%BA%CE%B9_-_panoramio.jpg",
@@ -5880,10 +5970,10 @@
   "license": "CC BY 2.0"
  },
  "italy-pasta-alla-norma": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Pasta_alla_Norma_-_Wiki_Loves_Sicilia.jpg/960px-Pasta_alla_Norma_-_Wiki_Loves_Sicilia.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Pasta_alla_Norma_-_Wiki_Loves_Sicilia.jpg",
-  "credit": "8w9d",
-  "license": "CC0"
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Pasta_alla_Norma_%282563876877%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pasta_alla_Norma_(2563876877).jpg",
+  "credit": "Paoletta S.",
+  "license": "CC BY 2.0"
  },
  "italy-granita": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Granita_originelle_au_citron_de_Sicile.jpg/960px-Granita_originelle_au_citron_de_Sicile.jpg",
@@ -7757,6 +7847,198 @@
   "credit": "Richard Giddins from London, UK",
   "license": "CC BY 2.0"
  },
+ "nigeria-jollof-rice": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Jollof_Rice_with_Stew.jpg/960px-Jollof_Rice_with_Stew.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Jollof_Rice_with_Stew.jpg",
+  "credit": "Noahalorwu",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-pounded-yam-egusi": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Pounded_yam_%28Iy%C3%A0n%29.jpg/960px-Pounded_yam_%28Iy%C3%A0n%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pounded_yam_(Iy%C3%A0n).jpg",
+  "credit": "Taoheedah",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-abula": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Amala_with_Ewedu.jpg/960px-Amala_with_Ewedu.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Amala_with_Ewedu.jpg",
+  "credit": "Ajia4ty",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-ofada-rice-ayamase": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ofada_rise_with_fried_plantain_and_beaf.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ofada_rise_with_fried_plantain_and_beaf.jpg",
+  "credit": "Itsmrchacha",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-akara": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Beans_Ball-Akara.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Beans_Ball-Akara.jpg",
+  "credit": "AkinkuotuFunmi",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-moi-moi": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Moin-Moin-good.jpg/960px-Moin-Moin-good.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Moin-Moin-good.jpg",
+  "credit": "ProVeg International",
+  "license": "CC0"
+ },
+ "nigeria-ewa-agoyin": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Beans_and_fried_plantains_with_Beef02.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Beans_and_fried_plantains_with_Beef02.jpg",
+  "credit": "James Moore200",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-asun": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Asun.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Asun.jpg",
+  "credit": "Unknown author",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-pepper-soup": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Assorted_meat_pepper_soup_at_Lagos_Island.jpg/960px-Assorted_meat_pepper_soup_at_Lagos_Island.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Assorted_meat_pepper_soup_at_Lagos_Island.jpg",
+  "credit": "bob walker",
+  "license": "CC BY-SA 2.0"
+ },
+ "nigeria-puff-puff": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Nigerian-puff-puff-recipe_cropped.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Nigerian-puff-puff-recipe_cropped.jpg",
+  "credit": "Afrolems ; cropped by Off-shell",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-chapman": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Chapman_in_a_punch_bowl.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Chapman_in_a_punch_bowl.jpg",
+  "credit": "Sandylagi",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-ofe-onugbu": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Bitter_leaf_soup_%28Ofe_Onugbu%29.jpg/960px-Bitter_leaf_soup_%28Ofe_Onugbu%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bitter_leaf_soup_(Ofe_Onugbu).jpg",
+  "credit": "Edriiic",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-ofe-nsala": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Nsala_Soup_%28Pepper_soup%29.jpg/960px-Nsala_Soup_%28Pepper_soup%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Nsala_Soup_(Pepper_soup).jpg",
+  "credit": "Edriiic",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-ofe-oha": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Ofe_Oha_%28Oha_Soup%29.png/960px-Ofe_Oha_%28Oha_Soup%29.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Ofe_Oha_(Oha_Soup).png",
+  "credit": "ChimaB",
+  "license": "CC0"
+ },
+ "nigeria-abacha": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Abacha_by_Chef_Phizzle._Native_Delight._01.jpg/960px-Abacha_by_Chef_Phizzle._Native_Delight._01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Abacha_by_Chef_Phizzle._Native_Delight._01.jpg",
+  "credit": "Phizzle01",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-okpa": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Okpa_nsukka.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Okpa_nsukka.jpg",
+  "credit": "Todto1",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-nkwobi": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Nkwobi_made_with_Chevon.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Nkwobi_made_with_Chevon.jpg",
+  "credit": "Bukky658",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-isi-ewu": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Isi_ewu.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Isi_ewu.jpg",
+  "credit": "Aderiqueza",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-palm-wine": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Toddy_Bottle_and_Glass.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Toddy_Bottle_and_Glass.jpg",
+  "credit": "Dhruvarahjs at ml.wikipedia",
+  "license": "CC BY 3.0"
+ },
+ "nigeria-edikang-ikong": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Edikang_ikong.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Edikang_ikong.jpg",
+  "credit": "Aderiqueza",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-afia-efere": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Afia_Efere.jpg/960px-Afia_Efere.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Afia_Efere.jpg",
+  "credit": "Atimukoh",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-banga-soup-starch": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Palm_nut_soup_close_up_02.jpg/960px-Palm_nut_soup_close_up_02.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Palm_nut_soup_close_up_02.jpg",
+  "credit": "Nkansahrexford",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-owo-soup": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Owo_Soup_and_starch_%28cropped%29.jpg/960px-Owo_Soup_and_starch_%28cropped%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Owo_Soup_and_starch_(cropped).jpg",
+  "credit": "Justdifference",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-ukodo": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Picture_Of_Ukodo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Picture_Of_Ukodo.jpg",
+  "credit": "Randybloc",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-bole-and-fish": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Bole_Food_well_garnished.jpg/960px-Bole_Food_well_garnished.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bole_Food_well_garnished.jpg",
+  "credit": "Dappasolomon001",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-suya": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/SuyavarietiesTX.JPG/960px-SuyavarietiesTX.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:SuyavarietiesTX.JPG",
+  "credit": "WhisperToMe",
+  "license": "CC0"
+ },
+ "nigeria-kilishi": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/%22Kilishi%22.JPG/960px-%22Kilishi%22.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:%22Kilishi%22.JPG",
+  "credit": "Abubakar M. Ahmad",
+  "license": "CC BY-SA 3.0"
+ },
+ "nigeria-masa": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Cooked_masa.jpg/960px-Cooked_masa.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cooked_masa.jpg",
+  "credit": "Zmu'az4Z",
+  "license": "CC BY 4.0"
+ },
+ "nigeria-dan-wake": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Hausa_Food_Dan_wake_01.jpg/960px-Hausa_Food_Dan_wake_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hausa_Food_Dan_wake_01.jpg",
+  "credit": "Anasskoko",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-fura-da-nono": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Fura_da_nono.jpg/960px-Fura_da_nono.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Fura_da_nono.jpg",
+  "credit": "Umaruyusuf",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-kunu": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Kunu.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kunu.jpg",
+  "credit": "Agan56",
+  "license": "CC BY-SA 4.0"
+ },
+ "nigeria-kuli-kuli": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kulikuli.jpg/960px-Kulikuli.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kulikuli.jpg",
+  "credit": "Kwameghana",
+  "license": "CC BY-SA 4.0"
+ },
  "norway-farikal": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/F%C3%A5r_i_k%C3%A5l.jpg/960px-F%C3%A5r_i_k%C3%A5l.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:F%C3%A5r_i_k%C3%A5l.jpg",
@@ -9100,6 +9382,60 @@
   "page": "https://commons.wikimedia.org/wiki/File:Singapore_Sling_and_peanuts_at_the_Raffles_Hotel_Long_Bar_in_Singapore.jpg",
   "credit": "Paul2520",
   "license": "CC BY 4.0"
+ },
+ "slovenia-kranjska-klobasa": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Carniolian_sausage_-_Kranjska_klobasa_-_Klobasarna_Ljubljana.jpg/960px-Carniolian_sausage_-_Kranjska_klobasa_-_Klobasarna_Ljubljana.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Carniolian_sausage_-_Kranjska_klobasa_-_Klobasarna_Ljubljana.jpg",
+  "credit": "ModriDirkac",
+  "license": "CC BY-SA 4.0"
+ },
+ "slovenia-slovenska-potica": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/MintpoticabySara.jpg/960px-MintpoticabySara.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:MintpoticabySara.jpg",
+  "credit": "SaraKHintz",
+  "license": "CC BY-SA 4.0"
+ },
+ "slovenia-struklji": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Struklji_2.jpg/960px-Struklji_2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Struklji_2.jpg",
+  "credit": "FocalPoint",
+  "license": "CC BY-SA 4.0"
+ },
+ "slovenia-matevz": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Matev%C5%BE_%28Slovenian_cuisine%29.jpg/960px-Matev%C5%BE_%28Slovenian_cuisine%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Matev%C5%BE_(Slovenian_cuisine).jpg",
+  "credit": "Petar Milošević",
+  "license": "CC BY-SA 4.0"
+ },
+ "slovenia-blejska-kremna-rezina": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Kremna_rezina.jpg/960px-Kremna_rezina.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kremna_rezina.jpg",
+  "credit": "UkPaolo",
+  "license": "CC BY-SA 3.0"
+ },
+ "slovenia-ajdovi-zganci": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Ajdovi_zganci.JPG/960px-Ajdovi_zganci.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Ajdovi_zganci.JPG",
+  "credit": "myself",
+  "license": "CC BY-SA 4.0"
+ },
+ "slovenia-jota": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Jota_02.JPG/960px-Jota_02.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Jota_02.JPG",
+  "credit": "Petar43",
+  "license": "CC BY-SA 4.0"
+ },
+ "slovenia-idrijski-zlikrofi": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Zlikrofi_with_gulasch.jpg/960px-Zlikrofi_with_gulasch.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Zlikrofi_with_gulasch.jpg",
+  "credit": "Yerpo",
+  "license": "CC BY-SA 3.0"
+ },
+ "slovenia-prekmurska-gibanica": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/PrekmurskaGibanica1.JPG/960px-PrekmurskaGibanica1.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:PrekmurskaGibanica1.JPG",
+  "credit": "Sl-Ziga",
+  "license": "Public domain"
  },
  "south_africa-bobotie": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Bobotie%2C_South_African_dish.jpg/960px-Bobotie%2C_South_African_dish.jpg",
@@ -11506,6 +11842,54 @@
   "page": "https://commons.wikimedia.org/wiki/File:Haupia.jpg",
   "credit": "Arnold Gatilao from Fremont, CA, USA",
   "license": "CC BY 2.0"
+ },
+ "uruguay-asado": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Asado_2005.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Asado_2005.jpg",
+  "credit": "Unknown author",
+  "license": "Attribution"
+ },
+ "uruguay-capelettis-a-la-caruso": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Tortelines_con_salsa_caruso.jpg/960px-Tortelines_con_salsa_caruso.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tortelines_con_salsa_caruso.jpg",
+  "credit": "Gustavo86",
+  "license": "CC BY-SA 2.5"
+ },
+ "uruguay-pascualina": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Torta_Pasqualina_%28Ostertorte_aus_Ligurien%29.jpg/960px-Torta_Pasqualina_%28Ostertorte_aus_Ligurien%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Torta_Pasqualina_(Ostertorte_aus_Ligurien).jpg",
+  "credit": "DrTrumpet",
+  "license": "CC BY 3.0"
+ },
+ "uruguay-massini": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Massini.jpg/960px-Massini.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Massini.jpg",
+  "credit": "Diosverde",
+  "license": "CC BY-SA 4.0"
+ },
+ "uruguay-queso-colonia": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Queso_Colonia_Uruguayo.jpg/960px-Queso_Colonia_Uruguayo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Queso_Colonia_Uruguayo.jpg",
+  "credit": "Coquimbo58",
+  "license": "CC BY-SA 4.0"
+ },
+ "uruguay-postre-chaja": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Torta_chaj%C3%A1.jpg/960px-Torta_chaj%C3%A1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Torta_chaj%C3%A1.jpg",
+  "credit": "Muago",
+  "license": "CC0"
+ },
+ "uruguay-chivito": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Chivito1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Chivito1.jpg",
+  "credit": "Carlinosin at English Wikipedia",
+  "license": "CC BY-SA 3.0"
+ },
+ "uruguay-torta-frita": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/TortaFrita.jpg/960px-TortaFrita.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:TortaFrita.jpg",
+  "credit": "Jerowiki",
+  "license": "CC BY-SA 4.0"
  },
  "uzbekistan-tashkent-toy-oshi": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Urazmat-Plov.jpg/960px-Urazmat-Plov.jpg",
