@@ -43,7 +43,7 @@
     "regions": [
       "Reykjavík"
     ],
-    "description": "Lamb soup with swede, carrots, potatoes and onions in a clear broth. Older versions used barley, sour milk or skyr; potatoes and carrots were added in the late 19th century.",
+    "description": "Lamb soup with swede, carrots, potatoes and onions in a clear broth; rice, oats or barley are often added. In the past mutton was boiled in soup with sour milk and a cereal such as barley, and potatoes and carrots came into use in the late 19th century.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -52,10 +52,13 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "gluten"
+    ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://is.wikipedia.org/wiki/%C3%8Dslensk_kj%C3%B6ts%C3%BApa",
     "source_urls": [
+      "https://is.wikipedia.org/wiki/%C3%8Dslensk_kj%C3%B6ts%C3%BApa",
       "https://www.re.is/blog/traditional-icelandic-food/",
       "https://visitreykjavik.is/traditional-icelandic-dishes-try-reykjavik",
       "https://guidetoiceland.is/history-culture/food-in-iceland"
@@ -101,7 +104,7 @@
     "country": "Iceland",
     "state": "Reykjavík & Capital Region",
     "regions": [],
-    "description": "Smoked lamb or mutton, named 'hung meat' after the practice of hanging it to smoke; it is smoked over birch wood or dried sheep dung. It is the main Christmas dish, eaten by around 90% of Icelanders over the holidays, and is also sold year-round as sliced cold meat.",
+    "description": "Smoked lamb or mutton, named 'hung meat' after the old practice of hanging it from the rafters of a smoking shed; it is smoked over birch wood or dried sheep dung. It is a traditional Christmas dish, eaten by around 90% of Icelanders over the holidays, and can be found year-round in Reykjavík.",
     "how_to_eat": "Served hot with boiled potatoes, white sauce and green peas, or cold in thin slices on flatkaka, rúgbrauð or laufabrauð.",
     "how_to_order": null,
     "typical_price": null,
@@ -249,7 +252,7 @@
     "country": "Iceland",
     "state": "Reykjavík & Capital Region",
     "regions": [],
-    "description": "Twisted pastry of flattened dough cut into trapezoids with a cutting wheel, pulled through a slit to form a knot and deep-fried in oil. It is an everyday pastry sold in bakeries singly and in shops in bags, usually eaten plain; its name comes from Low German, and it is recorded in Denmark from the 14th century.",
+    "description": "Twisted pastry of flattened dough cut into trapezoids with a cutting wheel (kleinujárn), pulled through a slit to form a knot and deep-fried, traditionally in sheep tallow and today usually in oil. It is a very common everyday pastry in Iceland, sold in bakeries and shops all year round.",
     "how_to_eat": "Eaten plain with coffee, sometimes dipped in chocolate.",
     "how_to_order": "Sold singly in bakeries or in bags of about ten in shops.",
     "typical_price": null,
@@ -264,11 +267,12 @@
       "dairy"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://is.wikipedia.org/wiki/Kleina",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Icelandic_cuisine",
+      "https://is.wikipedia.org/wiki/Kleina",
       "https://en.wikipedia.org/wiki/Klen%C3%A4t",
-      "https://visiticeland.com/article/icelandic-bakery-guide",
+      "https://en.wikipedia.org/wiki/Icelandic_cuisine",
+      "https://www.visiticeland.com/article/icelandic-bakery-guide/",
       "https://guidetoiceland.is/history-culture/food-in-iceland"
     ]
   },
@@ -281,8 +285,8 @@
     "country": "Iceland",
     "state": "Reykjavík & Capital Region",
     "regions": [],
-    "description": "Thin crêpe-style pancakes. They are served either rolled with sugar or folded with rhubarb jam and whipped cream.",
-    "how_to_eat": "Often eaten with black coffee or cold milk.",
+    "description": "Very thin crêpe-style pancakes made from a batter of wheat flour, eggs and milk. They are served either rolled with sugar or folded with jam and whipped cream.",
+    "how_to_eat": "Often eaten at afternoon family gatherings with black coffee or cold milk.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "ISK",
@@ -296,8 +300,9 @@
       "dairy"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://is.wikipedia.org/wiki/P%C3%B6nnukaka",
     "source_urls": [
+      "https://is.wikipedia.org/wiki/P%C3%B6nnukaka",
       "https://guidetoiceland.is/history-culture/food-in-iceland",
       "https://en.wikipedia.org/wiki/List_of_Icelandic_desserts"
     ]
@@ -341,7 +346,7 @@
     "country": "Iceland",
     "state": "Reykjavík & Capital Region",
     "regions": [],
-    "description": "Cinnamon roll, usually topped with glaze or melted chocolate; some bakeries use caramel, vanilla, blueberry or liquorice toppings. It is a long-standing bakery item, reflecting the Danish roots of Icelandic baking.",
+    "description": "Cinnamon roll, usually topped with glaze or melted chocolate; some bakeries use caramel, vanilla, blueberry or liquorice flavours. It is a long-time local bakery favourite, and Icelandic baking traditions reflect the fact that the first professional bakers in Iceland were Danish.",
     "how_to_eat": null,
     "how_to_order": "Sold in most bakeries.",
     "typical_price": null,
@@ -360,7 +365,7 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Icelandic_cuisine",
       "https://guidetoiceland.is/history-culture/food-in-iceland",
-      "https://visiticeland.com/article/icelandic-bakery-guide"
+      "https://www.visiticeland.com/article/icelandic-bakery-guide/"
     ]
   },
   {
@@ -402,8 +407,8 @@
       "Selfoss"
     ],
     "description": "Cultured dairy product with the texture of strained yogurt and a milder flavour, classed as a fresh sour-milk cheese. It is made from skimmed milk with a culture from a previous batch and rennet, then strained; it was originally made from sheep's milk and has survived as a tradition only in Iceland. The country's largest dairy is in Selfoss.",
-    "how_to_eat": "Eaten cold for breakfast or as a snack, with cream, milk or berries.",
-    "how_to_order": "Sold plain or flavoured in every supermarket.",
+    "how_to_eat": "Eaten cold, sometimes with cream; commonly for breakfast or as a snack.",
+    "how_to_order": "Sold plain or flavoured (such as vanilla, coffee or fruit) in shops.",
     "typical_price": null,
     "currency": "ISK",
     "diet": "veg",
@@ -425,13 +430,13 @@
   {
     "id": "iceland-langoustine-soup",
     "name": "Langoustine soup",
-    "local_name": "Humarsúpa",
+    "local_name": null,
     "pronunciation": null,
     "category": "meal",
     "country": "Iceland",
-    "state": "South Iceland",
+    "state": "Reykjavík & Capital Region",
     "regions": [],
-    "description": "Soup made with langoustine meat, which Icelandic menus call 'lobster' (humar), usually finished with cream and herbs; in Höfn it is made from the heads and shells left from the tails. Icelandic langoustine is caught mainly off the south coast.",
+    "description": "Soup made with langoustine meat, which Icelandic menus call 'lobster' (humar), often finished with cream and herbs. In Höfn it is made from the heads and shells left over from the tails; Icelandic langoustine is usually caught off the south coast.",
     "how_to_eat": null,
     "how_to_order": "Listed on menus as lobster soup.",
     "typical_price": null,
@@ -461,11 +466,10 @@
     "country": "Iceland",
     "state": "South Iceland",
     "regions": [
-      "Laugarvatn",
-      "Mývatn"
+      "Laugarvatn"
     ],
     "description": "Dense, dark, crustless and slightly sweet rye bread. When baked by burying the dough in the hot ground near a hot spring it is called hverabrauð; at Laugarvatn the rye, milk and golden syrup dough is buried in a tin overnight.",
-    "how_to_eat": "Served with butter, smoked trout, hangikjöt or pickled herring.",
+    "how_to_eat": "Served with butter, mutton pâté, hangikjöt or pickled herring.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "ISK",
@@ -557,8 +561,7 @@
     "country": "Iceland",
     "state": "West & Westfjords",
     "regions": [
-      "Westfjords",
-      "Ísafjörður"
+      "Westfjords"
     ],
     "description": "Dried fish, usually haddock, wolffish or cod, lightly brined and hung outdoors on racks for four to six weeks, or dried in heated chambers. Outdoor drying is done in windy places such as the Westfjords, where drying racks and sheds can be seen from the road.",
     "how_to_eat": "Eaten as a snack, often spread with salted butter.",
@@ -573,9 +576,10 @@
       "fish"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://is.wikipedia.org/wiki/Har%C3%B0fiskur",
     "source_urls": [
       "https://www.westfjords.is/en/travel-info/travel-blog-1/hardfiskur-a-taste-of-icelandic-tradition",
+      "https://is.wikipedia.org/wiki/Har%C3%B0fiskur",
       "https://www.re.is/blog/traditional-icelandic-food/",
       "https://guidetoiceland.is/history-culture/food-in-iceland"
     ]
@@ -628,7 +632,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Laufabrau%C3%B0",

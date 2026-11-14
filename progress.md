@@ -636,3 +636,32 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
 - Building + installing.
 - Built + installed on phone. README: 2,948 dishes, 73 countries.
 - BATCH 13 DONE: 73 countries, 2,948 dishes, 2,046 with photos. No more batches registered.
+
+## 2026-11-15: after batches
+- User: skip revoking Supabase token `claude-setup` and the restaurant coordinates CSV (both dropped from open list).
+- Remaining open: verification pass on batches 7-13 (~28 countries, only spot-checked), privacy policy, owned logo, Android back closes sheets first, photo coverage (2,046/2,948), thin regions, more countries.
+
+## 2026-11-15: verification pass (batches 7-13)
+- Correction: batches 1-6 (24 countries: Austria ... Colombia) were also never fully verified (method then: agents source every fact + my spot-check). Fully verified so far: India + original 20 world countries + UAE. Starting with batches 7-13 (28 countries) as agreed; 1-6 to ask about after.
+- Brief: scratchpad verify_brief.md (check every dish vs fetched sources; fix diet/vegan/allergens/local names/prices/GI/links/regions; remove unsupportable dishes). Two agents at a time (separate files).
+- Order: Israel, Jordan, Chile, New Zealand, Finland, Iceland, Romania, Georgia, Iran, Cambodia, Cuba, South Africa, Ethiopia, Tunisia, Jamaica, Bulgaria, Ecuador, Uzbekistan, Kenya, Pakistan, Nigeria, Ghana, Uruguay, Slovenia, Laos, Tanzania, Serbia, Dominican Republic.
+- Israel + Jordan: verify agents running.
+- Jordan verified: 24 checked, 12 fixed. Allergens: fattet hummus + galayet bandora +nuts (pine-nut garnish). Rewrites: unsourced claims (knafeh cooking method, fatteh Friday claim, qatayef semolina, mujallala lamb, sage tea details); rashoof moved Salt & Balqa -> North (no Salt source). Maqluba pronunciation nulled. No diet, link, GI, price changes; no removals. Open: mansaf-in-a-cup bread/gluten unknown. Validator OK.
+- Chile: verify agent running.
+- Israel verified: 31 checked, 11 fixed. Bourekas veg -> egg (+egg; egg wash). Allergens: labneh balls +sesame (za'atar), tahini halva +nuts, hamin +gluten. Druze pita: Daliyat al-Karmel + za'atar claim removed. Other unsourced details rewritten (goose liver, sambusak fried, jachnun, labneh). No link/GI/price changes, no removals. Open: sambusak kept veg (chickpea version; meat/cheese versions exist), orez shuit kept vegan (base dish). Validator OK.
+- New Zealand: verify agent running.
+- Chile verified: 47 checked, 21 fixed. Diet: chapalele veg -> nonveg (lard/chicharrones in curanto version), porotos granados veg -> nonveg (meat broth common). Allergens: curanto +fish, pan de pascua + tortilla de rescoldo +dairy, chupe de centolla +gluten, Rapa Nui ceviche +gluten (soy sauce). GI: pajarete false -> true (DO Atacama/Coquimbo); La Ligua/Curacaví sweets + Longaniza de Chillán reworded "Sello de Origen (INAPI)", stay true. 4 pronunciations + crudo alemán local name nulled. Unsourced claims removed. No links/prices/removals. Validator OK.
+- Finland: verify agent running.
+- Chile: my fix pisco sour diet veg -> egg (matches its egg allergen; egg white version common abroad).
+- New Zealand verified: 34 checked, 16 fixed. Diet: pineapple lumps veg -> nonveg (gelatine, Open Food Facts; +dairy +soy), kānga pirau veg -> egg. Hāngī pie +dairy. Unsourced claims cut (pie awards, pavlova 1926 story, Zespri, colonial goose dates). Pronunciation kūmara/pāua nulled; mānuka honey local name nulled. Wine GIs confirmed on IPONZ (Waiheke, Central Otago, Marlborough). One redirect URL swapped. My fix: kiwi onion dip +gluten (onion soup mix usually wheat; safe side). Open: chocolate fish + lolly cake nonveg assumed (gelatine unconfirmed); species/plant links kept for kūmara, feijoa, crayfish, oysters, mussels. Validator OK.
+- Iceland: verify agent running.
+- Finland verified: 36 checked, 17 fixed. Laskiaispulla veg -> egg (+egg; safe side). Allergens: tippaleipä, vety, klimppisoppa +dairy; lörtsy +dairy +egg; salmiakki +gluten. Pronunciation sahti/sima/salmiakki nulled. Unsourced how_to_order claims cut; rieska Ylivieska dropped from regions. Wikivoyage Finland source removed everywhere (no food content); Lapland link updated. GI 6 confirmed (Ruokavirasto): TSG sahti, kalakukko, karjalanpiirakka; PGI rönttönen, mustikkakukko; PDO two reindeer products. Open: salmiakki nonveg (gelatin assumed), mustikkakukko crust dairy unknown, peremec dough unknown. Validator OK.
+- Romania: verify agent running.
+- Iceland verified: 26 checked, 10 fixed. Allergens: kjötsúpa +gluten (oats/barley), laufabrauð +dairy (usual recipe, unsourced). 4 links -> is wiki (kjötsúpa, kleina, pönnukaka, harðfiskur). Unsourced claims cut (kleinur history, hangikjöt "main", skyr toppings); regions Mývatn/Ísafjörður dropped; langoustine soup moved South -> Reykjavík, local name nulled. Prices kept: pylsa 880 (2026), Höfn langoustine (Aug 2026). No diet/GI changes. Open: skyr rennet, single-source Akureyri burger, bulsur, Mývatn trout. Validator OK.
+- Georgia: verify agent running.
+- User: pause, continue tomorrow. Romania + Georgia agents stopped before writing (files unchanged, still unverified). Committed the 6 verified files.
+
+## Next session (verification pass)
+1. Romania + Georgia, then Iran, Cambodia, Cuba, South Africa, Ethiopia, Tunisia, Jamaica, Bulgaria, Ecuador, Uzbekistan, Kenya, Pakistan, Nigeria, Ghana, Uruguay, Slovenia, Laos, Tanzania, Serbia, Dominican Republic (22 left). Brief: scratchpad verify_brief.md (scratchpad may be cleared; recreate: check every dish vs fetched sources; fix diet/vegan/allergens/local names/prices (dated 2023+)/GI/links/regions; remove unsupportable; edit only own file; final reply "N checked, M fixed" + grouped fixes). Two agents at a time.
+2. Commit after each 4 countries; at the end rebuild + install + push.
+3. Then ask user: same pass for batches 1-6 (24 countries)?

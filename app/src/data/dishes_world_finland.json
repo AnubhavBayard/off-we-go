@@ -42,8 +42,8 @@
     "state": "Helsinki & Uusimaa",
     "regions": [],
     "description": "A dark sourdough bread made from whole-grain rye flour, the most popular bread in Finland and voted the national food in 2017. Unlike Swedish rye breads it is usually unsweetened and made without caraway; traditional forms include the round loaf of Karelia and Savo and the ring-shaped reikäleipä of western Finland.",
-    "how_to_eat": "Best eaten fresh with butter; it is served with most meals.",
-    "how_to_order": "Sold in every supermarket and bakery; it is also served with most lunches.",
+    "how_to_eat": "Best eaten fresh with butter.",
+    "how_to_order": "Sold in every grocery store and served in many restaurants and cafés.",
     "typical_price": null,
     "currency": "EUR",
     "diet": "veg",
@@ -97,19 +97,20 @@
     "country": "Finland",
     "state": "Helsinki & Uusimaa",
     "regions": [],
-    "description": "The Finnish version of the Shrovetide bun: a sweet wheat bun filled with whipped cream and either almond paste or jam. Most buns sold in Finland are filled with jam; almond paste is mainly preferred among Swedish-speaking Finns, such as on the Vaasa coast. The bun spread in Finland in the early 1900s, at first along the Swedish-speaking coast.",
+    "description": "The Finnish version of the Shrovetide bun: a sweet wheat bun filled with whipped cream and either almond paste or jam. Most buns sold in Finland are filled with jam; almond paste is mainly preferred among Swedish-speaking Finns, such as on the Vaasa coast. The bun spread in Finland in the first half of the 20th century, at first along the Swedish-speaking coast.",
     "how_to_eat": "Eaten around Shrove Tuesday (laskiainen), often after pea soup.",
-    "how_to_order": "Ask for jam (hillo) or almond paste (mantelimassa) filling at bakeries and cafés in the weeks before Lent.",
+    "how_to_order": "Ask for jam (hillo) or almond paste (mantelimassa) filling at bakeries and cafés around Shrove Tuesday.",
     "typical_price": null,
     "currency": "EUR",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
       "gluten",
       "dairy",
-      "nuts"
+      "nuts",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://fi.wikipedia.org/wiki/Laskiaispulla",
@@ -142,34 +143,34 @@
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lonkero",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Lonkero",
-      "https://en.wikivoyage.org/wiki/Finland"
+      "https://en.wikipedia.org/wiki/Lonkero"
     ]
   },
   {
     "id": "finland-salmiakki",
     "name": "Salty liquorice",
     "local_name": "Salmiakki",
-    "pronunciation": "SAL-mee-ak-kee",
+    "pronunciation": null,
     "category": "snack",
     "country": "Finland",
     "state": "Helsinki & Uusimaa",
     "regions": [],
     "description": "Liquorice candy flavoured with ammonium chloride (salmiakki), which gives it a taste that is sweet and salty at the same time. It is eaten mainly in the Nordic countries, northern Germany and the Netherlands, and was being produced as candy in Finland by the 1930s. It is also mixed into Koskenkorva spirit as salmiakkikossu.",
     "how_to_eat": null,
-    "how_to_order": "Sold in supermarkets, kiosks and candy shops.",
+    "how_to_order": null,
     "typical_price": null,
     "currency": "EUR",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "gluten"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://fi.wikipedia.org/wiki/Salmiakki",
     "source_urls": [
       "https://fi.wikipedia.org/wiki/Salmiakki",
-      "https://en.wikivoyage.org/wiki/Finland",
       "https://en.wikipedia.org/wiki/Finnish_cuisine"
     ]
   },
@@ -186,7 +187,7 @@
     ],
     "description": "A deep-fried pastry made by piping batter into hot fat to form a multi-layered nest, eaten for Vappu (May Day). It was made as a festive pastry in Finnish gentry homes from at least the 1700s and became a Vappu treat in the late 1800s; it was the first product of the Elanto bakery founded in Helsinki in 1907.",
     "how_to_eat": "Eaten with sima on Vappu, around 1 May.",
-    "how_to_order": "Sold in bakeries and supermarkets in the weeks before 1 May.",
+    "how_to_order": null,
     "typical_price": null,
     "currency": "EUR",
     "diet": "egg",
@@ -195,7 +196,8 @@
     "spice": 0,
     "allergens": [
       "gluten",
-      "egg"
+      "egg",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://fi.wikipedia.org/wiki/Tippaleip%C3%A4",
@@ -209,7 +211,7 @@
     "id": "finland-sima",
     "name": "Sima",
     "local_name": "Sima",
-    "pronunciation": "SEE-ma",
+    "pronunciation": null,
     "category": "drink",
     "country": "Finland",
     "state": "Helsinki & Uusimaa",
@@ -227,8 +229,7 @@
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sima_(mead)",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Sima_(mead)",
-      "https://en.wikivoyage.org/wiki/Finland"
+      "https://en.wikipedia.org/wiki/Sima_(mead)"
     ]
   },
   {
@@ -292,8 +293,7 @@
     "gi_tag": false,
     "wikipedia_url": "https://fi.wikipedia.org/wiki/Saaristolaisleip%C3%A4",
     "source_urls": [
-      "https://fi.wikipedia.org/wiki/Saaristolaisleip%C3%A4",
-      "https://en.wikivoyage.org/wiki/Finland"
+      "https://fi.wikipedia.org/wiki/Saaristolaisleip%C3%A4"
     ]
   },
   {
@@ -322,7 +322,6 @@
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
-      "https://en.wikivoyage.org/wiki/Finland",
       "https://en.wikipedia.org/wiki/Finnish_cuisine",
       "https://fi.wikipedia.org/wiki/Saaristolaisleip%C3%A4"
     ]
@@ -420,7 +419,7 @@
     "id": "finland-sahti",
     "name": "Sahti",
     "local_name": "Sahti",
-    "pronunciation": "SAH-tee",
+    "pronunciation": null,
     "category": "drink",
     "country": "Finland",
     "state": "Tampere & Häme",
@@ -527,7 +526,7 @@
     ],
     "description": "A fish pie from Savo: fish such as vendace or perch, with pork and bacon, baked for several hours inside a thick rye crust until the fish bones soften. It is especially associated with Kuopio, which has many kalakukko bakeries and holds an annual baking contest. It has been registered as an EU Traditional Speciality Guaranteed since 2002.",
     "how_to_eat": "Cut open the top crust, eat it with butter, then widen the hole and eat slices of crust with the filling; buttermilk is the traditional drink.",
-    "how_to_order": "Buy it at Kuopio Market Hall and market square, or at markets around Finland.",
+    "how_to_order": "Buy it at Kuopio Market Hall and market square.",
     "typical_price": null,
     "currency": "EUR",
     "diet": "nonveg",
@@ -557,7 +556,7 @@
     "regions": [
       "Kuopio"
     ],
-    "description": "Vendace (muikku), a small lake fish that is the main catch of Finland's inland commercial fishers, fried and sold as a staple at markets and festivals. Kuopio travel guides recommend it at local kiosks and restaurants, and Tampere sells it at summer market squares.",
+    "description": "Vendace (muikku), a small lake fish that is the main catch of Finland's inland commercial fishers, fried whole; it is sold as fast food at summer market squares. Kuopio travel guides recommend it at local kiosks and restaurants.",
     "how_to_eat": "Usually served with mashed potatoes.",
     "how_to_order": "Sold at summer market squares and kiosks, including in Kuopio and Tampere.",
     "typical_price": null,
@@ -574,7 +573,6 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Finnish_cuisine",
       "https://en.wikivoyage.org/wiki/Kuopio",
-      "https://en.wikivoyage.org/wiki/Finland",
       "https://visittampere.fi/en/articles/8-must-try-foods-from-finland-where-to-find-them-in-tampere/",
       "https://fi.wikipedia.org/wiki/Muikku"
     ]
@@ -600,7 +598,9 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "dairy",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/L%C3%B6rtsy",
@@ -678,7 +678,7 @@
     "regions": [],
     "description": "Small open pasties from Karelia with a thin rye crust, today most often filled with rice porridge, or mashed potato or rice and carrot. Older versions used barley and talkkuna fillings. They have held EU Traditional Speciality Guaranteed status since 2003, so pasties not made to the traditional recipe must be sold under other names such as riisipiirakka.",
     "how_to_eat": "Spread with egg butter (munavoi), butter mixed with chopped boiled egg, while hot.",
-    "how_to_order": "Sold in every supermarket, bakery and café across Finland.",
+    "how_to_order": "Sold in every grocery store and in many restaurants and cafés across Finland.",
     "typical_price": null,
     "currency": "EUR",
     "diet": "veg",
@@ -795,7 +795,7 @@
     ],
     "description": "Two Lappeenranta variants of the Finnish lihapiirakka, a deep-fried pie of enriched yeast dough filled with minced meat and rice. A vety is filled with boiled egg and ham; an atomi has either ham or egg.",
     "how_to_eat": "Usually eaten with ketchup, mustard and cucumber relish.",
-    "how_to_order": "Sold at grill kiosks and market stalls in Lappeenranta.",
+    "how_to_order": "Sold at grill kiosks in Lappeenranta.",
     "typical_price": null,
     "currency": "EUR",
     "diet": "nonveg",
@@ -805,7 +805,8 @@
     "allergens": [
       "gluten",
       "egg",
-      "mustard"
+      "mustard",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
@@ -825,9 +826,9 @@
     "regions": [
       "Kainuu"
     ],
-    "description": "A fresh cheese traditionally made from cow's colostrum (commercially from cow's milk), set into a disc 2-3 cm thick and then baked, grilled or flambéed to give it brown marks. It originates in Southern Ostrobothnia, northern Finland and Kainuu, where it is called juustoleipä, and squeaks against the teeth when fresh.",
+    "description": "A fresh cheese traditionally made from cow's colostrum (commercially from cow's milk), set into a disc 2-3 cm thick and then baked, grilled or flambéed to give it brown marks. It originates in Southern Ostrobothnia, northern Finland and Kainuu (where it is traditionally called juustoleipä), and squeaks against the teeth when fresh.",
     "how_to_eat": "Served in slices with coffee, in pieces with cloudberry jam, or warmed with cream, cinnamon and sugar.",
-    "how_to_order": "Sold in supermarkets and at market halls; ask for it with lakkahillo (cloudberry jam) as a dessert.",
+    "how_to_order": "Often served as a dessert with cloudberry jam (lakkahillo).",
     "typical_price": null,
     "currency": "EUR",
     "diet": "veg",
@@ -924,7 +925,8 @@
     "spice": 0,
     "allergens": [
       "gluten",
-      "egg"
+      "egg",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://fi.wikipedia.org/wiki/Klimppisoppa",
@@ -944,7 +946,7 @@
     "regions": [],
     "description": "The Finnish version of the Sámi-region dish of thinly sliced reindeer, cut while still frozen, fried in fat with salt and black pepper and then simmered with water, cream or beer until tender. In Finland it is usually served with pickled cucumber, which is less common in Sweden.",
     "how_to_eat": "Eaten with mashed potatoes and lingonberry jam or raw lingonberries mashed with sugar.",
-    "how_to_order": "Found on restaurant menus throughout Lapland and on tourist menus elsewhere.",
+    "how_to_order": "Lapland is the place to try it; reindeer dishes are less common elsewhere in Finland, though some restaurants (e.g. in Tampere) serve it.",
     "typical_price": null,
     "currency": "EUR",
     "diet": "nonveg",
@@ -958,7 +960,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Saut%C3%A9ed_reindeer",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Saut%C3%A9ed_reindeer",
-      "https://en.wikivoyage.org/wiki/Lapland_(Finland)"
+      "https://en.wikivoyage.org/wiki/Finnish_Lapland"
     ]
   },
   {
@@ -986,7 +988,7 @@
       "https://paliskunnat.fi/reindeer/wp-content/uploads/2015/05/lapin_poron_kuivaliha.pdf",
       "https://www.ruokavirasto.fi/en/foodstuffs/food-sector/ainesosat-ja-sisalto/scheme-for-registration-of-names/",
       "https://paliskunnat.fi/reindeer/reindeer-food/pdo-status/",
-      "https://en.wikivoyage.org/wiki/Lapland_(Finland)"
+      "https://en.wikivoyage.org/wiki/Finnish_Lapland"
     ]
   },
   {
@@ -1014,7 +1016,7 @@
       "https://paliskunnat.fi/reindeer/wp-content/uploads/2015/05/lapin_poron_kylmasavuliha.pdf",
       "https://www.ruokavirasto.fi/en/foodstuffs/food-sector/ainesosat-ja-sisalto/scheme-for-registration-of-names/",
       "https://paliskunnat.fi/reindeer/reindeer-food/pdo-status/",
-      "https://en.wikivoyage.org/wiki/Lapland_(Finland)"
+      "https://en.wikivoyage.org/wiki/Finnish_Lapland"
     ]
   },
   {
@@ -1055,9 +1057,7 @@
     "category": "snack",
     "country": "Finland",
     "state": "Lapland",
-    "regions": [
-      "Ylivieska"
-    ],
+    "regions": [],
     "description": "An unleavened soft flatbread, usually of barley, sometimes rye, oat or potato, baked in the oven, on a pan or on a hot stone. It is described as traditional to Lapland, while milk rieska is a speciality of the Ylivieska area; the word means different breads in different parts of Finland.",
     "how_to_eat": null,
     "how_to_order": null,
@@ -1074,7 +1074,7 @@
     "wikipedia_url": "https://fi.wikipedia.org/wiki/Rieska",
     "source_urls": [
       "https://fi.wikipedia.org/wiki/Rieska",
-      "https://en.wikivoyage.org/wiki/Lapland_(Finland)",
+      "https://en.wikivoyage.org/wiki/Finnish_Lapland",
       "https://en.wikipedia.org/wiki/Finnish_bread"
     ]
   }

@@ -78,7 +78,7 @@
     ],
     "description": "A Yemenite Jewish bread: thinly rolled dough brushed with clarified butter (samneh) or shortening, rolled up and baked overnight in a lidded pot at very low heat until dark amber and sweet. It is a Shabbat morning food, also sold at roadside stalls and in Tel Aviv's Yemenite Quarter next to Carmel Market.",
     "how_to_eat": "Eat with grated tomato dip (resek), hard-boiled eggs and zhug.",
-    "how_to_order": "Ask for jachnun at Yemenite eateries, typically on Saturday mornings or as a breakfast dish.",
+    "how_to_order": "Ask for jachnun at Yemenite eateries and roadside stalls, especially on Shabbat (Saturday) mornings.",
     "typical_price": null,
     "currency": "ILS",
     "diet": "veg",
@@ -108,7 +108,7 @@
     "regions": [
       "South Tel Aviv"
     ],
-    "description": "Goose liver threaded on skewers and grilled over coals with salt and black pepper, sometimes with cumin or baharat. Israeli cuisine sources describe it as a dish from southern Tel Aviv, part of the country's grilled-meat culture of small kebab and shashlik eateries.",
+    "description": "Goose liver threaded on skewers and grilled with salt and black pepper, sometimes with cumin or baharat spice mix. It is a dish from southern Tel Aviv, part of Israel's grilled-meat tradition of small kebab and shashlik eateries.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -136,19 +136,20 @@
       "Carmel Market",
       "Levinsky Market"
     ],
-    "description": "Baked Sephardic turnovers of puff pastry, filo or brik dough, often topped with sesame and filled with feta or kashkaval cheese, mashed potato, spinach, eggplant, mushrooms or minced meat. Brought by Jews from Turkey and the Balkans, they are sold at kiosks, bakeries and markets including Tel Aviv's Carmel and Levinsky markets and Jerusalem's Mahane Yehuda.",
-    "how_to_eat": "Often eaten as a light meal with hard-boiled eggs and chopped salad.",
-    "how_to_order": "Sold at kiosks, cafés, market stalls and dedicated boureka bakeries.",
+    "description": "Baked Sephardic turnovers of puff pastry, filo or brik dough, brushed with egg wash, often topped with sesame and filled with feta or kashkaval cheese, mashed potato, spinach, eggplant, mushrooms or minced meat. Brought by Jews from Turkey and the Balkans, they are sold at kiosks, cafés and markets including Tel Aviv's Carmel and Levinsky markets and Jerusalem's Mahane Yehuda.",
+    "how_to_eat": "Traditionally paired with hard-boiled eggs, grated tomato, hot sauce and pickles.",
+    "how_to_order": "Sold at kiosks, cafés, supermarkets and market stalls.",
     "typical_price": null,
     "currency": "ILS",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
       "gluten",
       "dairy",
-      "sesame"
+      "sesame",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bourekas",
@@ -317,7 +318,7 @@
     "country": "Israel",
     "state": "Jerusalem",
     "regions": [],
-    "description": "A semicircular dough pocket filled with mashed chickpeas, fried onions and spices; other versions hold meat with pine nuts, or feta or Tzfat cheese with za'atar for breakfast. It is fried or baked, and pies like sambusak are counted among the classics of Jerusalem Sephardi cooking.",
+    "description": "A semicircular dough pocket filled with mashed chickpeas, fried onions and spices; other versions hold meat with pine nuts, or feta or Tzfat cheese with za'atar for breakfast. It is a popular fried pastry, and pies like sambusak are counted among the classics of Jerusalem Sephardi cooking.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -357,7 +358,8 @@
     "vegan": true,
     "spice": 0,
     "allergens": [
-      "sesame"
+      "sesame",
+      "nuts"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Halva",
@@ -376,12 +378,11 @@
     "country": "Israel",
     "state": "Haifa & Galilee",
     "regions": [
-      "Daliyat al-Karmel",
       "Maghar"
     ],
-    "description": "A thin, floppy flatbread cooked on a large black dome, created by Druze Israelis in the Galilee village of Maghar. It is often spread with labneh and za'atar and is sold in Druze villages such as Daliyat al-Karmel on Mount Carmel and at Tel Aviv's Carmel Market.",
-    "how_to_eat": "Eaten plain or spread with labneh, za'atar and olive oil.",
-    "how_to_order": "Buy it from Druze bakers and stands; ask for it with labneh.",
+    "description": "A thin, floppy flatbread cooked on a large black dome, created by Druze Israelis in the Galilee village of Maghar. It is served plain or with labneh and is sold at Tel Aviv food markets such as the Carmel Market.",
+    "how_to_eat": "Eaten plain or filled with labneh, sometimes with tabbouleh.",
+    "how_to_order": "Buy it from Druze pita stands at markets and ask for it with labneh.",
     "typical_price": null,
     "currency": "ILS",
     "diet": "veg",
@@ -470,8 +471,8 @@
     "country": "Israel",
     "state": "Haifa & Galilee",
     "regions": [],
-    "description": "Salted strained yogurt (labneh) rolled into balls and preserved in olive oil, often with za'atar, oregano, sumac or herbs. They are more common in the north of Israel than in the centre and south, and are sold at Druze farmers' markets in the north.",
-    "how_to_eat": "Eaten at breakfast with bread and other cheeses.",
+    "description": "Salted strained yogurt (labneh) rolled into small balls and preserved in olive oil, often with za'atar, oregano, sumac or herbs. They are more common in the north of Israel than in the centre and south, and are sold at Druze farmers' markets in the north.",
+    "how_to_eat": "Eaten as a mezze dish or in sandwiches, often with za'atar and olive oil.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "ILS",
@@ -480,7 +481,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "dairy"
+      "dairy",
+      "sesame"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Strained_yogurt",
@@ -646,7 +648,7 @@
     "country": "Israel",
     "state": "Nationwide street food",
     "regions": [],
-    "description": "Lemonade made from freshly squeezed lemons blended with mint. The name combines the Hebrew words for lemon and mint and was coined for an advertising campaign; it is drunk mainly in summer.",
+    "description": "Lemonade made from freshly squeezed lemons and mint, invented in Israel in the early 1990s. The name combines the Hebrew words for lemon and mint and was coined for an advertising campaign; it is drunk mainly in summer.",
     "how_to_eat": "Drunk ice-cold, sometimes blended with ice into a slush.",
     "how_to_order": "Ask for limonana at cafés and juice stands.",
     "typical_price": null,
@@ -770,7 +772,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "egg"
+      "egg",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hamin",

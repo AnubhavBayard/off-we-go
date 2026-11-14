@@ -10,8 +10,8 @@
     "regions": [
       "Amman"
     ],
-    "description": "The most common form of knafeh in Jordan: a single layer of soft semolina or shredded kadayif pastry baked over white, salty nabulsi cheese and soaked in sugar syrup. The pastry, traditionally coloured orange, is pressed into a pan coated with clarified butter, topped with desalted cheese, cooked on the stovetop, then flipped and garnished with nuts. The style takes its name from Nablus in Palestine.",
-    "how_to_eat": "Eaten hot, straight after the syrup is poured, while the cheese is still melted.",
+    "description": "The most common form of knafeh in Jordan: a single layer of soft semolina or shredded kadayif pastry on top of white, salty nabulsi cheese, soaked in sugar syrup. The pastry, traditionally coloured orange, is pressed into a pan coated with clarified butter, topped with desalted cheese, cooked on the stovetop, then flipped and garnished with nuts. The style takes its name from Nablus in Palestine.",
+    "how_to_eat": "Served hot, after the syrup is poured over.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "JOD",
@@ -74,8 +74,8 @@
     "regions": [
       "Amman"
     ],
-    "description": "A fatteh of pieces of khubz (flatbread) layered with chickpeas, tahini and lemon; the Jordanian version is topped with strained yogurt and olive oil, and nuts or ground meat may be added as garnish. Falafel shops serve it alongside ful, and with hummus and falafel it makes up the Friday breakfast many Jordanians prefer.",
-    "how_to_eat": "Eaten with a spoon or scooped up with bread at breakfast.",
+    "description": "A fatteh of pieces of khubz (flatbread) layered with chickpeas, tahini and lemon; Levantine versions are topped with strained yogurt and olive oil, and nuts or ground meat may be added as garnish. In Jordan, falafel shops serve it alongside ful.",
+    "how_to_eat": "Eaten at breakfast or in the evening.",
     "how_to_order": "Ask for it at falafel shops, which also serve ful and hummus.",
     "typical_price": null,
     "currency": "JOD",
@@ -86,7 +86,8 @@
     "allergens": [
       "dairy",
       "gluten",
-      "sesame"
+      "sesame",
+      "nuts"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fatteh",
@@ -107,7 +108,7 @@
     "state": "Amman",
     "regions": [],
     "description": "Tomatoes sautéed and stewed with onions, hot peppers, olive oil and salt until thick but not dry. It is popular across the Levant, especially in Jordan and Palestine, where it is traditionally made during the olive harvest; versions with ground or stewed meat, fried eggs or garlic also exist. King Abdullah II named it his favourite dish in a 2019 interview.",
-    "how_to_eat": "Scooped up with warm pita bread, or served over rice.",
+    "how_to_eat": "Scooped up with warm pita bread, or served over rice; in restaurants it is often garnished with toasted pine nuts.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "JOD",
@@ -115,7 +116,9 @@
     "jain": false,
     "vegan": true,
     "spice": 2,
-    "allergens": [],
+    "allergens": [
+      "nuts"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Qalayet_bandora",
     "source_urls": [
@@ -164,7 +167,7 @@
     "country": "Jordan",
     "state": "Amman",
     "regions": [],
-    "description": "Small pancakes of wheat or semolina batter cooked on one side only, then filled and folded; fillings include cream (qishta), nuts or sweet cheese, and they are served fresh with syrup or deep-fried or baked. In Jordan they are a Ramadan specialty, appearing in markets and bakeries almost only during that month; Al Ghad reported that Jordanians ate about 120 million pieces in Ramadan 2015.",
+    "description": "Small pancakes of wheat-flour batter cooked on one side only, then filled and folded; fillings include cream (qishta), nuts or sweet cheese, and they are served fresh with syrup or deep-fried or baked. In Jordan they are a Ramadan specialty, appearing in markets and bakeries almost only during that month; Al Ghad reported that Jordanians ate about 120 million pieces in Ramadan 2015.",
     "how_to_eat": "Eaten after iftar during Ramadan, with syrup.",
     "how_to_order": "Sold by bakeries and market vendors during Ramadan.",
     "typical_price": null,
@@ -317,11 +320,9 @@
     "pronunciation": null,
     "category": "meal",
     "country": "Jordan",
-    "state": "Salt & Balqa",
-    "regions": [
-      "Salt"
-    ],
-    "description": "A heavy winter soup of lentils and coarse wheat or grain cooked with jameed, the same dried yogurt used in mansaf. It is a Bedouin and rural dish popular in northern Jordan and eaten in the north, centre and south; in Salt a women's group cooks it to keep it from being forgotten.",
+    "state": "North (Irbid, Jerash, Ajloun)",
+    "regions": [],
+    "description": "A heavy winter soup of lentils and coarse wheat flour or grain cooked with jameed, the same dried yogurt used in mansaf. It is a Bedouin and rural dish popular in northern Jordan and also eaten in the centre and south.",
     "how_to_eat": "Eaten hot in winter, with sour pickles and vegetables.",
     "how_to_order": null,
     "typical_price": null,
@@ -339,8 +340,7 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Jordanian_cuisine",
       "https://edutravel.visitjordan.com/en/page/79/Food-and-Drinks",
-      "https://al-ain.com/video/traditional-food-jordan",
-      "https://www.yahoo.com/news/jordanian-women-try-revive-forgotten-192827175.html"
+      "https://al-ain.com/video/traditional-food-jordan"
     ]
   },
   {
@@ -379,7 +379,7 @@
     "id": "jordan-maqluba",
     "name": "Maqluba",
     "local_name": "مقلوبة",
-    "pronunciation": "mak-LOO-ba",
+    "pronunciation": null,
     "category": "meal",
     "country": "Jordan",
     "state": "North (Irbid, Jerash, Ajloun)",
@@ -387,7 +387,7 @@
       "Ajloun"
     ],
     "description": "A one-pot dish of rice, chicken or lamb and fried vegetables such as aubergine, cauliflower and potato, layered in a pot that is flipped upside down onto a platter, which gives it its name. In Ajloun it is a Friday family meal, often made with chicken because it costs less than lamb; Karak cooks spice their version with cardamom and cinnamon.",
-    "how_to_eat": "Served with salad or cold yogurt.",
+    "how_to_eat": "Served with salad or fresh yogurt.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "JOD",
@@ -418,7 +418,7 @@
     "regions": [
       "Ajloun"
     ],
-    "description": "Vine leaves stuffed mainly with rice, served as part of a Jordanian mezze. In the Ajloun highlands, home cooks flavour the filling with coriander grown in their gardens.",
+    "description": "Vine leaves stuffed mainly with rice, served as part of a Jordanian mezze. Home cooks in the Ajloun highlands use garden-grown coriander in it.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -564,7 +564,7 @@
     "country": "Jordan",
     "state": "Karak & South",
     "regions": [],
-    "description": "A dish popular in southern Jordan: bread dipped in hot jameed sauce and topped with mutton or chicken and fried nuts.",
+    "description": "A dish popular in southern Jordan: bread made from dough and clarified butter, dipped in hot jameed sauce and topped with lamb or chicken and fried nuts.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -693,8 +693,8 @@
     "regions": [
       "Wadi Rum"
     ],
-    "description": "Tea brewed over an open fire by Bedouins, traditionally with dried wild sage and large amounts of raw sugar; thyme, cardamom, cinnamon or black tea leaves may be added, and there is no single recipe. In Wadi Rum it is part of Bedouin hospitality and of a zarb dinner.",
-    "how_to_eat": "Served hot in small glasses.",
+    "description": "Tea brewed over an open fire by Bedouins, traditionally with dried wild sage and large amounts of raw sugar; thyme, cardamom, cinnamon or black tea leaves may also be added. In Wadi Rum it is served at Bedouin zarb dinners.",
+    "how_to_eat": "Served piping hot.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "JOD",

@@ -10,7 +10,7 @@
     "regions": [
       "Auckland"
     ],
-    "description": "A single-portion meat pie of minced beef in gravy with cheese, in a shortcrust case; mince and cheese is one of the judged categories at the annual Bakels New Zealand Supreme Pie Awards, held since 1997. The meat pie is described as the nearest thing New Zealand has to street food, and Auckland's Big Ben Pies has made pies since 1969. The meat pie itself is shared with Australia, where it has been called the national dish.",
+    "description": "A single-portion meat pie of minced beef in gravy with cheese, in a shortcrust case; minced beef is the traditional filling and cheese is a common addition. The meat pie is described as the nearest thing New Zealand has to street food, and an annual pie competition, the Bakels New Zealand Supreme Pie Awards, has been held since 1997.",
     "how_to_eat": "Eaten by hand as a takeaway snack.",
     "how_to_order": "Sold in dairies, bakeries, supermarkets, petrol stations and school canteens.",
     "typical_price": null,
@@ -41,7 +41,7 @@
     "regions": [
       "Paeroa"
     ],
-    "description": "A sweet, lemon-flavoured soft drink, originally made by combining lemon juice with naturally carbonated mineral water from a spring in the town of Paeroa; it was being advertised by 1915 and is now made by Coca-Cola. Paeroa has a 7-metre L&P bottle statue on its main road.",
+    "description": "A sweet, lemon-flavoured soft drink, traditionally made by combining lemon juice with naturally carbonated mineral water from a spring in the town of Paeroa; it was being advertised by November 1915 and is now made by Coca-Cola. Paeroa has a 7-metre L&P bottle statue.",
     "how_to_eat": null,
     "how_to_order": "Sold in bottles and cans throughout New Zealand.",
     "typical_price": null,
@@ -62,7 +62,7 @@
     "id": "new_zealand-kumara",
     "name": "Kūmara",
     "local_name": "kūmara",
-    "pronunciation": "KOO-ma-ra",
+    "pronunciation": null,
     "category": "meal",
     "country": "New Zealand",
     "state": "Auckland & Northland",
@@ -84,7 +84,8 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/New_Zealand_cuisine",
       "https://en.wikipedia.org/wiki/Dargaville",
-      "https://en.wikipedia.org/wiki/H%C4%81ng%C4%AB"
+      "https://en.wikipedia.org/wiki/H%C4%81ng%C4%AB",
+      "https://en.wikipedia.org/wiki/Sweet_potato"
     ]
   },
   {
@@ -126,8 +127,8 @@
     "regions": [
       "Rotorua"
     ],
-    "description": "Traditional Māori cooking in a pit oven: stones are heated by fire, baskets of meat (lamb, pork, chicken, seafood) and vegetables (potato, kūmara, pumpkin, cabbage) are placed on them, covered with wet cloths and earth, and steamed for 2 to 4 hours. Most large Māori gatherings feature one. In Rotorua, Whakarewarewa village cooks its hāngī with geothermal steam boxes instead of hot stones.",
-    "how_to_eat": "Served as a plate of carved meats, vegetables and stuffing.",
+    "description": "Traditional Māori cooking in a pit oven: stones are heated by fire, baskets of meat (lamb, pork, chicken, seafood) and vegetables (potato, kūmara, pumpkin, cabbage) are placed on them, covered with wet sacks or cloths and earth, and cooked for about 2 to 4 hours. Most large Māori gatherings feature one. At Whakarewarewa village in Rotorua, hāngī is cooked in geothermal steam boxes instead of on hot stones.",
+    "how_to_eat": "Served as a plate of meats and vegetables with bread stuffing and gravy.",
     "how_to_order": "Served at Māori cultural experiences in Rotorua such as Whakarewarewa and Te Puia.",
     "typical_price": null,
     "currency": "NZD",
@@ -158,9 +159,9 @@
     "regions": [
       "Rotorua"
     ],
-    "description": "A hand-held pastry pie filled with hāngī-cooked food, sold at Whakarewarewa living Māori village in Rotorua.",
+    "description": "Meat and vegetables cooked by the hāngī method in geothermal steam, wrapped in a puff pastry casing; sold at Whakarewarewa living Māori village in Rotorua in beef, chicken or vegetarian versions.",
     "how_to_eat": "Eaten by hand.",
-    "how_to_order": "Sold at Whakarewarewa in Rotorua.",
+    "how_to_order": "Sold daily at the Geyser Cafe at Whakarewarewa in Rotorua.",
     "typical_price": null,
     "currency": "NZD",
     "diet": "nonveg",
@@ -168,12 +169,14 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
-      "https://www.rotoruanz.com/visit/stories-articles/december-2025/summer-kai-a-taste-of-te-ao-maori"
+      "https://www.rotoruanz.com/visit/stories-articles/december-2025/summer-kai-a-taste-of-te-ao-maori",
+      "https://whakarewarewa.com/experiences-traditional-food/"
     ]
   },
   {
@@ -303,12 +306,13 @@
     "how_to_order": null,
     "typical_price": null,
     "currency": "NZD",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "dairy"
+      "dairy",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/K%C4%81nga_pirau",
@@ -328,7 +332,7 @@
     "regions": [
       "Te Puke"
     ],
-    "description": "The fruit of Actinidia vines, native to China and called Chinese gooseberry until New Zealand exporter Turners & Growers adopted the name 'kiwifruit' in 1959; New Zealand's marketing board became Zespri in 1997. Te Puke in the Western Bay of Plenty markets itself as the 'Kiwifruit capital of the world'. Green and gold (SunGold) varieties are grown.",
+    "description": "The fruit of Actinidia vines, native to China and once called Chinese gooseberry; New Zealand exporter Turners & Growers began using the name 'kiwifruit' in 1959. Te Puke in the Bay of Plenty markets itself as the 'Kiwifruit capital of the world'. The flesh is green or golden.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -386,7 +390,7 @@
     "regions": [
       "Wellington"
     ],
-    "description": "A baked meringue with a crisp crust and soft inside, topped with whipped cream and fruit; New Zealand pavlova is more likely to carry kiwifruit. Its origin is disputed with Australia: University of Otago anthropologist Helen Leach found at least 21 pavlova recipes in New Zealand cookbooks by 1940, and an unverified story places its creation in a Wellington hotel in 1926. Te Papa in Wellington made a 45-metre pavlova for its first birthday in 1999.",
+    "description": "A baked meringue with a crisp crust and soft inside, topped with whipped cream and fruit; New Zealand pavlova is more likely to carry kiwifruit. Its origin is disputed with Australia: University of Otago anthropologist Helen Leach found at least 21 pavlova recipes in New Zealand cookbooks by 1940. Te Papa in Wellington made a very large pavlova for its first birthday in 1999.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -453,7 +457,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "dairy"
+      "dairy",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kiwi_onion_dip",
@@ -465,7 +470,7 @@
     "id": "new_zealand-paua-fritters",
     "name": "Pāua fritters",
     "local_name": null,
-    "pronunciation": "PAH-oo-ah",
+    "pronunciation": null,
     "category": "snack",
     "country": "New Zealand",
     "state": "Wellington & Lower North Island",
@@ -520,7 +525,7 @@
   {
     "id": "new_zealand-manuka-honey",
     "name": "Mānuka honey",
-    "local_name": "mānuka",
+    "local_name": null,
     "pronunciation": "MAH-noo-kah",
     "category": "snack",
     "country": "New Zealand",
@@ -612,7 +617,7 @@
     "country": "New Zealand",
     "state": "Canterbury & Christchurch",
     "regions": [],
-    "description": "A boned leg of lamb or mutton stuffed with honey, dried apricots, breadcrumbs, onion and herbs and marinated in red wine, devised by settlers who had plenty of sheep but few geese. It was common on New Zealand tables until the mid-1980s; some restaurants serve it at midwinter. Traditional Kiwiana fare remains the norm in many homes in rural Canterbury.",
+    "description": "A boned leg of lamb or mutton stuffed with honey, dried apricots and a breadcrumb, onion and herb stuffing, then marinated in red wine, devised by settlers who had plenty of sheep but few geese. It was popular in New Zealand until the last quarter of the 20th century; some restaurants serve it at midwinter.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -730,7 +735,7 @@
     "regions": [
       "Southland"
     ],
-    "description": "Juvenile galaxiid fish (mainly inanga) bound with egg, essentially an omelette containing whitebait; purists use only the egg white. Whitebait are netted in the lower reaches of rivers during a season of 1 September to 30 October on the mainland, and the fish commands high prices.",
+    "description": "Juvenile galaxiid fish (mainly inanga) bound with beaten egg (often extra whites) and fried in butter. Whitebait are netted in the lower reaches of rivers during a season of 1 September to 30 October on the mainland, and the fish commands high prices.",
     "how_to_eat": "Served in buttered bread or on their own with lemon.",
     "how_to_order": "Ask for a whitebait patty at a local café during or just after the season.",
     "typical_price": null,
@@ -742,8 +747,8 @@
     "allergens": [
       "fish",
       "egg",
-      "gluten",
-      "dairy"
+      "dairy",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
@@ -826,17 +831,19 @@
     "how_to_order": "Sold in supermarkets and dairies.",
     "typical_price": null,
     "currency": "NZD",
-    "diet": "veg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "dairy"
+      "dairy",
+      "soy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pineapple_lumps",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Pineapple_lumps"
+      "https://en.wikipedia.org/wiki/Pineapple_lumps",
+      "https://world.openfoodfacts.org/product/9300617074526/pascall-pineapple-lumps"
     ]
   },
   {
@@ -939,7 +946,7 @@
       "Havelock",
       "Marlborough Sounds"
     ],
-    "description": "The New Zealand green-lipped mussel (Perna canaliculus), endemic to New Zealand and farmed on longlines since the 1970s under the trademark Greenshell. Havelock in the Marlborough Sounds is the centre of much of the industry and calls itself the greenshell mussel capital of the world.",
+    "description": "The New Zealand green-lipped mussel (Perna canaliculus), endemic to New Zealand and farmed since the 1970s, now mainly on longlines, under the trademark Greenshell. Havelock in the Marlborough Sounds is the centre of much of the industry and calls itself the greenshell mussel capital of the world.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -984,7 +991,7 @@
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
-      "https://www.nelsontasman.nz/visit-nelson-tasman/plan-your-trip/activities/food-wine-and-beer",
+      "https://www.nelsontasman.nz/explore/eat-and-drink/",
       "https://en.wikipedia.org/wiki/New_Zealand_cuisine"
     ]
   }
