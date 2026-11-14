@@ -1,0 +1,835 @@
+[
+  {
+    "id": "uruguay-asado",
+    "name": "Uruguayan asado",
+    "local_name": "Asado uruguayo",
+    "pronunciation": "aa-SAA-do",
+    "category": "meal",
+    "country": "Uruguay",
+    "state": "Montevideo",
+    "regions": [
+      "Montevideo"
+    ],
+    "description": "Uruguay's most popular dish: beef and pork grilled slowly over the embers of firewood rather than charcoal, salted and basted with mojo. A full asado brings several cuts such as tira de asado (short ribs), entraña and pulpón, plus chorizo, morcilla and offal like chinchulines and mollejas. Montevideo's Mercado del Puerto, a covered 1868 iron market in the Ciudad Vieja, is the city's most famous place for parrillas.",
+    "how_to_eat": "Usually eaten with bread and ensalada criolla, and in Montevideo with a lager at lunchtime.",
+    "how_to_order": "Ordering an asado gets a mixed grill for two or more; ask for tira de asado if you just want the ribs.",
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Asado",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay",
+      "https://www.guruguay.com/?p=16333",
+      "https://es.wikipedia.org/wiki/Mercado_del_Puerto",
+      "https://en.wikipedia.org/wiki/Cuisine_of_Montevideo",
+      "https://quantocustaviajar.com/uruguai/montevideu/alimentacao"
+    ]
+  },
+  {
+    "id": "uruguay-medio-y-medio",
+    "name": "Medio y medio",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Uruguay",
+    "state": "Montevideo",
+    "regions": [
+      "Montevideo"
+    ],
+    "description": "A blend of sweet sparkling wine and dry white wine. The best-known one carries the name of the Roldós bar, opened inside the Mercado del Puerto in 1888, and is now made for it by the Bruzzone y Sciutto winery; rosé and red versions also exist. In popular bars the same name can mean caña mixed with white vermouth.",
+    "how_to_eat": "Drunk as an aperitif before a parrilla meal at the Mercado del Puerto.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Medio_y_medio",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Medio_y_medio",
+      "https://es.wikipedia.org/wiki/Mercado_del_Puerto",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay"
+    ]
+  },
+  {
+    "id": "uruguay-capelettis-a-la-caruso",
+    "name": "Capelettis a la Caruso",
+    "local_name": "Capeletis a la Caruso",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uruguay",
+    "state": "Montevideo",
+    "regions": [
+      "Montevideo"
+    ],
+    "description": "Cappelletti pasta in Caruso sauce, a warm sauce of cream, ham, cheese, beef extract and mushrooms, sometimes with nuts or onion. It was created in the 1950s by chef Raymundo Monti of the Montevideo restaurant Mario y Alberto and named after the tenor Enrico Caruso; it is unknown in Italy and is often called the one exclusively Uruguayan dish.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caruso_sauce",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Caruso_sauce",
+      "https://www.elobservador.com.uy/nota/el-bien-criollo-matambre-a-la-leche-2014529000",
+      "https://en.wikipedia.org/wiki/Uruguayan_cuisine"
+    ]
+  },
+  {
+    "id": "uruguay-pascualina",
+    "name": "Pascualina",
+    "local_name": "Torta pascualina",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uruguay",
+    "state": "Montevideo",
+    "regions": [],
+    "description": "A savoury Ligurian-origin pie adopted in Uruguay after Italian immigration in the late 19th century: thin sheets of flour-and-olive-oil dough around chopped chard or spinach mixed with egg and grated cheese, with whole eggs set into the filling that hard-boil as it bakes. It is traditionally an Easter (Holy Week) dish.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Torta_pascualina",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Torta_pascualina"
+    ]
+  },
+  {
+    "id": "uruguay-pancho",
+    "name": "Pancho",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Uruguay",
+    "state": "Montevideo",
+    "regions": [],
+    "description": "The Uruguayan hot dog: a boiled Frankfurt sausage in a soft Vienna bun with ketchup, mayonnaise, salsa golf or the spicy picantina. Variants include the pancho porteño with ham and grilled cheese, the bacon-wrapped pancho con panceta, and the spicier, thinner húngara cooked on the griddle.",
+    "how_to_eat": null,
+    "how_to_order": "Sold from street carritos in short (corto) or long (largo) sizes.",
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay",
+      "https://en.wikipedia.org/wiki/Uruguayan_cuisine"
+    ]
+  },
+  {
+    "id": "uruguay-sandwich-olimpico",
+    "name": "Sándwich olímpico",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Uruguay",
+    "state": "Montevideo",
+    "regions": [],
+    "description": "A triple-decker of three slices of soft sandwich bread filled with ham, cheese, hard-boiled egg, tomato, lettuce, olives and mayonnaise; a Uruguayan variant of the sándwich de miga.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay",
+      "https://en.wikipedia.org/wiki/Uruguayan_cuisine"
+    ]
+  },
+  {
+    "id": "uruguay-jesuitas",
+    "name": "Jesuitas",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Uruguay",
+    "state": "Montevideo",
+    "regions": [],
+    "description": "Two layers of puff pastry filled with ham and cheese and topped with a sweet meringue icing, so they are both sweet and salty. The same pastry is called fosforito in Argentina.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in bakeries.",
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Uruguayan_cuisine"
+    ]
+  },
+  {
+    "id": "uruguay-noquis-del-29",
+    "name": "Ñoquis del 29",
+    "local_name": "Ñoquis",
+    "pronunciation": "nee-YOK-ees",
+    "category": "meal",
+    "country": "Uruguay",
+    "state": "Montevideo",
+    "regions": [],
+    "description": "Gnocchi, brought by immigrants from the Veneto, are eaten on the 29th of every month, the day before payday. They are served with a sauce such as tuco (meat sauce).",
+    "how_to_eat": "Many people put money under the plate before eating for financial luck.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.guruguay.com/?p=16333",
+      "https://en.wikipedia.org/wiki/Uruguayan_cuisine",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay"
+    ]
+  },
+  {
+    "id": "uruguay-romanitos",
+    "name": "Romanitos",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uruguay",
+    "state": "Montevideo",
+    "regions": [],
+    "description": "Gnocchi-like dough balls with a filling, typically mozzarella and ham, considered a pasta original to Uruguay. They are produced industrially by brands such as Los Abuelos and Budakiss.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay"
+    ]
+  },
+  {
+    "id": "uruguay-buseca",
+    "name": "Buseca",
+    "local_name": "Sopa de mondongo",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uruguay",
+    "state": "Montevideo",
+    "regions": [],
+    "description": "A tripe stew of Italian tradition, also called sopa de mondongo, made with tripe (mondongo), meat, chorizo, tomato and potato.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Uruguayan_cuisine"
+    ]
+  },
+  {
+    "id": "uruguay-massini",
+    "name": "Massini",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Uruguay",
+    "state": "Montevideo",
+    "regions": [
+      "Montevideo"
+    ],
+    "description": "An individual cake of two layers of pionono sponge filled with whipped cream and topped with a caramelised (burnt) egg-yolk sabayon. It was popularised in Uruguay by Spanish immigrant Pedro Carrera, who founded the Confitería Carrera in Montevideo in 1951; whether it originated there or in Catalonia (as flamet) is unclear.",
+    "how_to_eat": null,
+    "how_to_order": "Sold in confiterías and bakeries.",
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Massini",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Massini",
+      "https://en.wikipedia.org/wiki/Uruguayan_cuisine",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay"
+    ]
+  },
+  {
+    "id": "uruguay-martin-fierro",
+    "name": "Martín Fierro",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Uruguay",
+    "state": "Montevideo",
+    "regions": [],
+    "description": "A simple dessert of a slice of cheese, traditionally Uruguay's queso Yamandú, with a slice of dulce de membrillo (quince paste). It is named after the hero of José Hernández's gaucho poem.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay",
+      "https://en.wikipedia.org/wiki/Uruguayan_cuisine"
+    ]
+  },
+  {
+    "id": "uruguay-garrapinada",
+    "name": "Garrapiñada",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Uruguay",
+    "state": "Montevideo",
+    "regions": [],
+    "description": "Peanuts cooked in sugar with vanilla (some versions with cocoa) until coated, similar to pralines. They are sold in small bags from street stalls downtown, especially in autumn and winter.",
+    "how_to_eat": null,
+    "how_to_order": "Buy a bag from a street cart.",
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay",
+      "https://en.wikipedia.org/wiki/Uruguayan_cuisine"
+    ]
+  },
+  {
+    "id": "uruguay-queso-colonia",
+    "name": "Colonia cheese",
+    "local_name": "Queso Colonia",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Uruguay",
+    "state": "Colonia & the Litoral",
+    "regions": [
+      "Nueva Helvecia"
+    ],
+    "description": "A semi-hard cow's-milk cheese named after Nueva Helvecia (Colonia Suiza) in Colonia department, the heart of Uruguay's dairy region. Swiss settler Juan Teófilo Karlen from Bern began making it in 1868 to reproduce Emmental; local conditions turned it into a milder, softer cheese with small eyes, matured 4 to 12 months.",
+    "how_to_eat": "Eaten in cubes as part of a picada with olives, salami and wine before an asado.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Colonia_cheese",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Colonia_cheese",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay",
+      "https://en.wikipedia.org/wiki/Uruguayan_cuisine"
+    ]
+  },
+  {
+    "id": "uruguay-postre-chaja",
+    "name": "Postre chajá",
+    "local_name": "Chajá",
+    "pronunciation": "cha-HA",
+    "category": "sweet",
+    "country": "Uruguay",
+    "state": "Colonia & the Litoral",
+    "regions": [
+      "Paysandú"
+    ],
+    "description": "A cake of sponge, meringue pieces, whipped cream and peaches (sometimes strawberries), created on 27 April 1927 by Orlando Castellano of the Confitería Las Familias in Paysandú and named after the chajá bird common in that department. It is often called the most Uruguayan dessert, and the original recipe is kept secret.",
+    "how_to_eat": null,
+    "how_to_order": "Many restaurants serve the factory-made version from Paysandú in its white wax-paper wrapping.",
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Postre_chaj%C3%A1",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Postre_chaj%C3%A1",
+      "https://www.guruguay.com/?p=16333",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay"
+    ]
+  },
+  {
+    "id": "uruguay-tannat",
+    "name": "Tannat",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Uruguay",
+    "state": "Colonia & the Litoral",
+    "regions": [
+      "Carmelo"
+    ],
+    "description": "A red wine grape brought by Basque settlers in the 19th century, chiefly Pascual Harriague, and now Uruguay's national grape; most of the world's Tannat is produced in Uruguay. Uruguayan Tannat is generally lighter and softer in tannin than French Madiran, with blackberry notes. Carmelo in Colonia department is one of the country's oldest wine areas, with Tannat as its main variety.",
+    "how_to_eat": null,
+    "how_to_order": "Visit the family wineries around Carmelo, several of which open for tastings.",
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tannat",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tannat",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay",
+      "https://www.elobservador.com.uy/nota/rumbo-al-vino-bodegas-de-carmelo-201912212130"
+    ]
+  },
+  {
+    "id": "uruguay-chivito",
+    "name": "Chivito",
+    "local_name": null,
+    "pronunciation": "chee-VEE-toe",
+    "category": "street_food",
+    "country": "Uruguay",
+    "state": "Punta del Este & Rocha",
+    "regions": [
+      "Punta del Este"
+    ],
+    "description": "Uruguay's national dish: a sandwich of thin grilled beef steak with ham, bacon, mozzarella, lettuce, tomato, olives, egg and mayonnaise, usually served with fries. It is said to have been created in 1946 at El Mejillón bar in Punta del Este by Antonio Carbonaro, who used beef fillet when a customer asked for a kid-goat (chivito) sandwich he could not make.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for it al plato for the platter version without bread, or canadiense for the version with extra ham or bacon.",
+    "typical_price": "480-520",
+    "currency": "UYU",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chivito_(sandwich)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chivito_(sandwich)",
+      "https://www.guruguay.com/?p=16333",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay",
+      "https://www.montevideo.com.uy/Noticias/-Punta-del-Este-es-inaccesible-Los-precios-que-manejan-restaurantes-cafes-y-paradores-uc949634"
+    ]
+  },
+  {
+    "id": "uruguay-bunuelos-de-algas",
+    "name": "Seaweed fritters",
+    "local_name": "Buñuelos de algas",
+    "pronunciation": "boo-nweloz day AL-gas",
+    "category": "snack",
+    "country": "Uruguay",
+    "state": "Punta del Este & Rocha",
+    "regions": [
+      "Rocha"
+    ],
+    "description": "A Rocha classic: seaweed collected from the shore in the morning, mixed into a batter and deep-fried. They are served everywhere from humble fish stands to the most exclusive restaurants along the Rocha coast.",
+    "how_to_eat": null,
+    "how_to_order": "Order them as a starter to share at beach fish stands.",
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.guruguay.com/?p=6787",
+      "https://www.sippitysup.com/recipe/bunuelos-de-algas-seaweed-fritters/"
+    ]
+  },
+  {
+    "id": "uruguay-croquetas-de-siri",
+    "name": "Sirí crab croquettes",
+    "local_name": "Croquetas de sirí",
+    "pronunciation": "crow-KEH-taz day see-REE",
+    "category": "snack",
+    "country": "Uruguay",
+    "state": "Punta del Este & Rocha",
+    "regions": [
+      "Rocha"
+    ],
+    "description": "Deep-fried croquettes of sirí, the blue crab caught along the Rocha coast and its lagoons, a classic of the department. The crab features on Rocha's coastal menus in the summer high season.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "shellfish",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.guruguay.com/?p=6787",
+      "https://www.montevideo.com.uy/Tiempo-libre/El-cangrejo-siri-un-manjar-de-pinzas-azules-que-brilla-en-la-gastronomia-de-Rocha-uc947512"
+    ]
+  },
+  {
+    "id": "uruguay-miniaturas",
+    "name": "Miniaturas",
+    "local_name": null,
+    "pronunciation": "mee-nee-ah-TOO-raz",
+    "category": "snack",
+    "country": "Uruguay",
+    "state": "Punta del Este & Rocha",
+    "regions": [
+      "Punta del Este",
+      "Rocha"
+    ],
+    "description": "Bite-size pieces of white fish dipped in batter or breadcrumbs and deep-fried, a staple of Uruguayan beach menus.",
+    "how_to_eat": "Served as an appetiser to share.",
+    "how_to_order": null,
+    "typical_price": "950",
+    "currency": "UYU",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.guruguay.com/?p=6787",
+      "https://www.montevideo.com.uy/Noticias/-Punta-del-Este-es-inaccesible-Los-precios-que-manejan-restaurantes-cafes-y-paradores-uc949634"
+    ]
+  },
+  {
+    "id": "uruguay-milanesa-de-pescado",
+    "name": "Fish milanesa",
+    "local_name": "Milanesa de pescado",
+    "pronunciation": "mee-la-NAY-sa day peh-SKAH-doh",
+    "category": "meal",
+    "country": "Uruguay",
+    "state": "Punta del Este & Rocha",
+    "regions": [],
+    "description": "A breaded, deep-fried fish fillet, the beach version of the milanesa that is usually made with beef or chicken elsewhere in Uruguay.",
+    "how_to_eat": "Eaten plain or in a bun as a milanesa al pan.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.guruguay.com/?p=6787",
+      "https://en.wikipedia.org/wiki/Uruguayan_cuisine"
+    ]
+  },
+  {
+    "id": "uruguay-licor-de-butia",
+    "name": "Butiá liqueur",
+    "local_name": "Licor de butiá",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Uruguay",
+    "state": "Punta del Este & Rocha",
+    "regions": [
+      "Rocha"
+    ],
+    "description": "A liqueur made from the bright orange, sweet-and-sour fruit of the butiá palm that grows in Rocha; the fruit is also used to flavour caña, ice cream, jams and sauces. Rocha's traditional cooking has been described as based on sea products and native fruits like the butiá.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.guruguay.com/?p=6787",
+      "https://www.montevideo.com.uy/Tiempo-libre/Butia-en-Rocha-cosecha-propiedades-y-platos-tipicos-uc953823",
+      "https://www.gub.uy/ministerio-turismo/comunicacion/noticias/gastronomia-rochense-servida-libro-repleto-sabores-propios"
+    ]
+  },
+  {
+    "id": "uruguay-torta-frita",
+    "name": "Torta frita",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Uruguay",
+    "state": "Interior & Gaucho Country",
+    "regions": [],
+    "description": "A thin round of leavened wheat dough with a cut or hole in the centre, fried in beef or mutton fat (sometimes butter or oil); the Uruguayan version is thinner and crispier than the Argentine one. A popular belief links it to gauchos collecting rainwater for the dough, and Uruguay holds an annual Fiesta de la Torta Frita.",
+    "how_to_eat": "Eaten with mate on rainy days, plain, with sugar, salt or dulce de leche.",
+    "how_to_order": "Sold at street stands and fairs, especially on cold or rainy afternoons.",
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Torta_frita",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Torta_frita",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay",
+      "https://en.wikipedia.org/wiki/Uruguayan_cuisine",
+      "https://www.guruguay.com/?p=16333"
+    ]
+  },
+  {
+    "id": "uruguay-asado-con-cuero",
+    "name": "Asado con cuero",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uruguay",
+    "state": "Interior & Gaucho Country",
+    "regions": [
+      "Tacuarembó",
+      "Lascano"
+    ],
+    "description": "A gaucho technique of slow-roasting a quartered cow or sheep with its hide still on, which holds in juices and fat; it cooks over a large bed of embers for several hours until the hair pulls off easily. It is common in rural areas where animals are slaughtered locally, and city dwellers mostly meet it at festivals such as the Lascano festival in April and the Fiesta de la Patria Gaucha in Tacuarembó.",
+    "how_to_eat": null,
+    "how_to_order": "Look for it at rural festivals rather than city parrillas.",
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Asado_con_cuero",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Asado_con_cuero",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay",
+      "https://en.wikipedia.org/wiki/Uruguayan_cuisine"
+    ]
+  },
+  {
+    "id": "uruguay-asado-en-estacas",
+    "name": "Asado en estacas",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uruguay",
+    "state": "Interior & Gaucho Country",
+    "regions": [],
+    "description": "A rural style of asado found north of the Río Negro, in which meat is roasted on wooden stakes beside the fire and moistened with brine, cooking for 4 to 5 hours.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay"
+    ]
+  },
+  {
+    "id": "uruguay-guiso-carrero",
+    "name": "Guiso carrero",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uruguay",
+    "state": "Interior & Gaucho Country",
+    "regions": [],
+    "description": "A hearty stew of meat, butter beans and noodles with potato, sweet potato, squash, onion and tomato, shared with Argentina.",
+    "how_to_eat": "Served with red wine, bread and grated cheese.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Uruguayan_cuisine"
+    ]
+  },
+  {
+    "id": "uruguay-ensopado",
+    "name": "Ensopado",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Uruguay",
+    "state": "Interior & Gaucho Country",
+    "regions": [],
+    "description": "A rural summer dish of broth with noodles, meat, chorizo and bacon, made with few vegetables so that it does not spoil in the heat.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Uruguayan_cuisine"
+    ]
+  },
+  {
+    "id": "uruguay-grappamiel",
+    "name": "Grappamiel",
+    "local_name": "Grapamiel",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Uruguay",
+    "state": "Interior & Gaucho Country",
+    "regions": [],
+    "description": "A Uruguayan invention of grappa (grape-pomace spirit brought by Italian immigrants) mixed with honey and water, at about 20-25% alcohol. Popular in rural areas, it is drunk especially in winter and on cold mornings; newer versions are flavoured with lemon, coffee or other additions.",
+    "how_to_eat": "Served in bars as a shot (medida), or over ice in a long glass in hot weather.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "UYU",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Grappamiel",
+    "source_urls": [
+      "https://es.wikipedia.org/wiki/Grappamiel",
+      "https://en.wikipedia.org/wiki/Uruguayan_cuisine",
+      "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay"
+    ]
+  }
+]

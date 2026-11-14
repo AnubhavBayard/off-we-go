@@ -1,0 +1,1086 @@
+[
+  {
+    "id": "slovenia-kranjska-klobasa",
+    "name": "Carniolan sausage",
+    "local_name": "Kranjska klobasa",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Slovenia",
+    "state": "Ljubljana & Central Slovenia",
+    "regions": [],
+    "description": "A parboiled, hot-smoked sausage of coarsely cut pork and at most 20% bacon, seasoned only with garlic, pepper and sea salt, stuffed into pork intestine and linked in pairs with a wooden skewer. Named after the historical region of Carniola, it has been an EU PGI since 2015 and is one of Slovenia's best-known foods at home and abroad.",
+    "how_to_eat": "Eat it warm after brief heating in hot water, traditionally with sauerkraut, or on its own or with a stew.",
+    "how_to_order": "Ask for 'kranjska klobasa'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carniolan_sausage",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Carniolan_sausage",
+      "https://www.gov.si/assets/ministrstva/MKGP/PODROCJA/HRANA/SHEME-KAKOVOSTI/PUBLIKACIJA/Protected_Slovenian_Agricultural_Products_and_Foodstuffs_2021.pdf",
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/14336?lang=EN",
+      "https://www.slovenia.info/uploads/pr/6791/gastronomic_specialities_of_slovenia_11676.pdf"
+    ]
+  },
+  {
+    "id": "slovenia-slovenska-potica",
+    "name": "Potica",
+    "local_name": "Slovenska potica",
+    "pronunciation": "poh-TEE-tsah",
+    "category": "sweet",
+    "country": "Slovenia",
+    "state": "Ljubljana & Central Slovenia",
+    "regions": [],
+    "description": "A festive rolled cake of thin leavened dough spread with filling, rolled up and baked in a ring-shaped mould (potičnik); walnut is the classic filling, others include tarragon, raisin and tarragon with cottage cheese. First recorded in the 1570s as povitica and described by Valvasor in 1689, it has been an EU Traditional Speciality Guaranteed since 2021.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'orehova potica' for the walnut version.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Potica",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Potica",
+      "https://www.gov.si/assets/ministrstva/MKGP/PODROCJA/HRANA/SHEME-KAKOVOSTI/PUBLIKACIJA/Protected_Slovenian_Agricultural_Products_and_Foodstuffs_2021.pdf",
+      "https://www.slovenia.info/en/stories/savouring-slovenian-tradition"
+    ]
+  },
+  {
+    "id": "slovenia-ricet",
+    "name": "Ričet",
+    "local_name": "Ričet",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Slovenia",
+    "state": "Ljubljana & Central Slovenia",
+    "regions": [],
+    "description": "A thick soup or porridge of pot barley, beans, potatoes and vegetables (carrot, parsley, celery, leek, tomato, onion, garlic) cooked with a good amount of smoked pork. The word is typical of central Slovenia, including Ljubljana, and the dish has a reputation as old prison food.",
+    "how_to_eat": "Eat it with a spoon as a one-pot meal.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ritschert",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ritschert",
+      "https://sl.wikipedia.org/wiki/Ričet",
+      "https://www.slovenia.info/en/things-to-do/food-and-wine/locally-typical"
+    ]
+  },
+  {
+    "id": "slovenia-struklji",
+    "name": "Štruklji",
+    "local_name": "Štruklji",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Slovenia",
+    "state": "Ljubljana & Central Slovenia",
+    "regions": [],
+    "description": "Rolled dumplings of thin dough (wheat or buckwheat) spread with a sweet or savoury filling such as cottage cheese, tarragon, walnut, apple or poppy seed, then boiled, steamed or baked. Once a festive dish, they are now everyday food across all Slovenian gastronomic regions, with over 100 variants; they are related to Croatia's Zagorski štrukli.",
+    "how_to_eat": "Eat them with meat and gravy, or topped with buttered breadcrumbs.",
+    "how_to_order": "Ask for 'skutni štruklji' (cottage cheese) or 'pehtranovi štruklji' (tarragon).",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Štruklji",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Štruklji",
+      "https://www.slovenia.info/uploads/pr/6791/gastronomic_specialities_of_slovenia_11676.pdf"
+    ]
+  },
+  {
+    "id": "slovenia-trojanski-krofi",
+    "name": "Krofi (Trojane doughnuts)",
+    "local_name": "Krofi",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Slovenia",
+    "state": "Ljubljana & Central Slovenia",
+    "regions": [
+      "Trojane"
+    ],
+    "description": "Airy yeast doughnuts made with flour, eggs, milk, butter and sugar, traditionally filled with apricot jam and eaten especially at Carnival (Pust). The village of Trojane, on the pass between Carniola and Styria, has made them for travellers since the 1960s and its krofi are often called the best in Slovenia.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'krof' with apricot jam.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Krofne",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Krofne",
+      "https://rtvslo.si/news-in-english/half-a-century-of-trojane-doughnuts-100-000-were-sold-during-the-carnival-days/358758",
+      "https://rtvslo.si/news-in-english/slovenia-revealed/slovenians-wait-in-line-for-a-special-doughnut/350233"
+    ]
+  },
+  {
+    "id": "slovenia-matevz",
+    "name": "Matevž",
+    "local_name": "Matevž",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Slovenia",
+    "state": "Ljubljana & Central Slovenia",
+    "regions": [
+      "Kočevje"
+    ],
+    "description": "A mash of beans and potatoes, dressed with cracklings, typical of central Slovenia and especially the Kočevje area. It dates from the 19th century, when poorer households ate it as a main course; it is also called krompirjev mož or belokranjski mož.",
+    "how_to_eat": "Eat it as a side, usually with sauerkraut or sour turnip.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Matevž",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Matevž",
+      "https://en.wikipedia.org/wiki/Slovenian_cuisine"
+    ]
+  },
+  {
+    "id": "slovenia-blejska-kremna-rezina",
+    "name": "Bled cream cake",
+    "local_name": "Blejska kremna rezina",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Slovenia",
+    "state": "Upper Carniola (Gorenjska)",
+    "regions": [
+      "Bled"
+    ],
+    "description": "A square slice of buttery puff pastry, a thick layer of vanilla custard, whipped cream and a second pastry layer dusted with icing sugar. Locals call it kremšnita; the Bled version has been made at the town's Hotel Park patisserie since 1953 to a recipe brought by pastry chef Ištvan Lukačević, and over 10 million had been baked by 2009.",
+    "how_to_eat": null,
+    "how_to_order": "Sold at almost every café around Lake Bled; ask for 'kremšnita'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cremeschnitte",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cremeschnitte",
+      "https://sl.wikipedia.org/wiki/Kremna_rezina",
+      "https://matadornetwork.com/read/slovenia-lake-bled-creamy-cake/"
+    ]
+  },
+  {
+    "id": "slovenia-ajdovi-zganci",
+    "name": "Buckwheat žganci",
+    "local_name": "Ajdovi žganci",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Slovenia",
+    "state": "Upper Carniola (Gorenjska)",
+    "regions": [],
+    "description": "Buckwheat flour boiled and broken up with some of its cooking water into crumbly mash, considered a national dish; in Gorenjska it is very dry and crumb-like, while in the east it is softer. It was the everyday meal of central and Alpine Slovenia ('žganci are the pedestal of Carniola').",
+    "how_to_eat": "Eat it dressed with pork cracklings, as a side to stew, or with milk or sour milk.",
+    "how_to_order": "Ask for 'ajdovi žganci z ocvirki'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Žganci",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Žganci",
+      "https://sl.wikipedia.org/wiki/Ajdovi_žganci",
+      "https://www.slovenia.info/en/press-centre/news-of-the-tourism-press-agency/35662-slovenian-food-the-taste-of-tradition-nature-and-community"
+    ]
+  },
+  {
+    "id": "slovenia-prezganka",
+    "name": "Prežganka",
+    "local_name": "Prežganka",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Slovenia",
+    "state": "Upper Carniola (Gorenjska)",
+    "regions": [],
+    "description": "A 'browned' soup of flour toasted in oil or butter, flavoured with caraway and finished with beaten eggs; breadcrumbs can replace the flour. Called the Slovenian national soup, it is a traditional dish of Upper Carniola.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Prežganka",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Prežganka",
+      "https://en.wikipedia.org/wiki/Slovenian_cuisine"
+    ]
+  },
+  {
+    "id": "slovenia-mohant",
+    "name": "Mohant",
+    "local_name": "Mohant",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Slovenia",
+    "state": "Upper Carniola (Gorenjska)",
+    "regions": [
+      "Bohinj"
+    ],
+    "description": "A soft cow's-milk cheese from Bohinj with a strong smell and a piquant, sometimes bitter taste, still made by a traditional method. It has been an EU PDO since 2013.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'mohant' in Bohinj.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.gov.si/assets/ministrstva/MKGP/PODROCJA/HRANA/SHEME-KAKOVOSTI/PUBLIKACIJA/Protected_Slovenian_Agricultural_Products_and_Foodstuffs_2021.pdf",
+      "https://www.slovenia.info/en/stories/savouring-slovenian-tradition",
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/14298?lang=EN"
+    ]
+  },
+  {
+    "id": "slovenia-skofjeloski-kruhek",
+    "name": "Škofja Loka bread",
+    "local_name": "Loški kruhek",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Slovenia",
+    "state": "Upper Carniola (Gorenjska)",
+    "regions": [
+      "Škofja Loka"
+    ],
+    "description": "A gingerbread pressed into special carved moulds, a traditional speciality of the historic town of Škofja Loka.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.slovenia.info/en/stories/gastronomy-of-slovenian-historical-cities",
+      "https://en.wikipedia.org/wiki/Slovenian_cuisine"
+    ]
+  },
+  {
+    "id": "slovenia-tepkovec",
+    "name": "Tepkovec (pear brandy)",
+    "local_name": "Tepkovec",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Slovenia",
+    "state": "Upper Carniola (Gorenjska)",
+    "regions": [],
+    "description": "A distillate made from pears of the old 'tepka' variety, with a sweet aroma and taste; the tourist board lists it as Gorenjska's spirit.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.slovenia.info/uploads/pr/6791/gastronomic_specialities_of_slovenia_11676.pdf",
+      "https://www.slovenia.info/en/things-to-do/food-and-wine/the-flavours-of-slovenia-when-a-kitchen-is-filled-with-slovenian-aromas"
+    ]
+  },
+  {
+    "id": "slovenia-kraski-prsut",
+    "name": "Karst prosciutto",
+    "local_name": "Kraški pršut",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Slovenia",
+    "state": "Littoral & Karst (Primorska)",
+    "regions": [
+      "Karst"
+    ],
+    "description": "Air-dried ham from whole fresh pork legs, dry-salted only with coarse sea salt and matured for about a year in the Karst's bora wind; it is not smoked. It has been an EU PGI since 2012 and is the most prized Slovenian pršut.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'kraški pršut', sliced thin.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.gov.si/assets/ministrstva/MKGP/PODROCJA/HRANA/SHEME-KAKOVOSTI/PUBLIKACIJA/Protected_Slovenian_Agricultural_Products_and_Foodstuffs_2021.pdf",
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/13985?lang=EN",
+      "https://sl.wikipedia.org/wiki/Pršut",
+      "https://www.slovenia.info/en/stories/savouring-slovenian-tradition"
+    ]
+  },
+  {
+    "id": "slovenia-jota",
+    "name": "Jota",
+    "local_name": "Jota",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Slovenia",
+    "state": "Littoral & Karst (Primorska)",
+    "regions": [],
+    "description": "A soup-stew of beans with sauerkraut or sour turnip, potatoes, bacon and spare ribs, seasoned mainly with garlic and often olive oil. It is typical across the Slovenian Littoral and neighbouring Trieste, Gorizia and Istria, showing both Central European and Mediterranean influences.",
+    "how_to_eat": "In Slovenian Istria it is often eaten with polenta.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jota_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jota_(food)",
+      "https://www.slovenia.info/en/things-to-do/food-and-wine/locally-typical"
+    ]
+  },
+  {
+    "id": "slovenia-teran",
+    "name": "Teran",
+    "local_name": "Kraški teran",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Slovenia",
+    "state": "Littoral & Karst (Primorska)",
+    "regions": [
+      "Karst"
+    ],
+    "description": "A dry, carmine-red wine made from the refošk (Refosco) grape grown on the iron-rich terra rossa of the Karst, high in lactic acid, fruity (raspberry, currant) and low in alcohol. 'Teran' has been an EU PDO since 2006; it is best drunk young, within its first year.",
+    "how_to_eat": "Drink it with pršut, grilled meat, game or spicy cheese.",
+    "how_to_order": "Ask for 'kraški teran'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Terrano_(grape)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Terrano_(grape)",
+      "https://sl.wikipedia.org/wiki/Kraški_teran",
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/8094?lang=EN"
+    ]
+  },
+  {
+    "id": "slovenia-brinjevec",
+    "name": "Brinjevec (juniper brandy)",
+    "local_name": "Kraški brinjevec",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Slovenia",
+    "state": "Littoral & Karst (Primorska)",
+    "regions": [
+      "Karst",
+      "Brkini"
+    ],
+    "description": "A strong (40-50%) clear spirit distilled only from fermented juniper berries, made by farmers in the Karst and Brkini for centuries and valued as folk medicine. Brinjevec is a registered EU spirit-drink geographical indication; cheap versions are often plum or pomace brandy flavoured with juniper.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brinjevec",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Brinjevec",
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/16654?lang=EN",
+      "https://www.slovenia.info/uploads/pr/6791/gastronomic_specialities_of_slovenia_11676.pdf"
+    ]
+  },
+  {
+    "id": "slovenia-fritaja",
+    "name": "Fritaja",
+    "local_name": "Fritaja",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Slovenia",
+    "state": "Littoral & Karst (Primorska)",
+    "regions": [
+      "Koper",
+      "Piran"
+    ],
+    "description": "An Istrian egg dish, made especially in spring with wild asparagus, wild hops, herbs, chicory or young garlic; other versions add ham, mushrooms or sausage. It is a speciality of the Istrian coast around Koper and Piran.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'fritaja s šparglji' (with wild asparagus).",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Frittata",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Slovenian_cuisine",
+      "https://www.slovenia.info/en/stories/gastronomy-of-slovenian-historical-cities"
+    ]
+  },
+  {
+    "id": "slovenia-izolski-brodet",
+    "name": "Brodet with polenta",
+    "local_name": "Ribji brodet",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Slovenia",
+    "state": "Littoral & Karst (Primorska)",
+    "regions": [
+      "Izola"
+    ],
+    "description": "A fish stew of several kinds of fish cooked with wine, olive oil and tomato, served with polenta; the fishermen of Izola have always favoured brodet and polenta. Today it is the star of local cuisine, sometimes paired with polenta, baccalà and Istrian truffles.",
+    "how_to_eat": "Eat it with polenta or bread to soak up the broth.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brudet",
+    "source_urls": [
+      "https://www.slovenia.info/en/places-to-go/regions/mediterranean-karst-slovenia/izola/-brodet-fish-stew-and-gratineed-polenta-with-baccala-prepared-cod-and-fresh-istrian-truffles",
+      "https://en.wikipedia.org/wiki/Brudet"
+    ]
+  },
+  {
+    "id": "slovenia-idrijski-zlikrofi",
+    "name": "Idrija dumplings",
+    "local_name": "Idrijski žlikrofi",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Slovenia",
+    "state": "Soča Valley & Idrija",
+    "regions": [
+      "Idrija"
+    ],
+    "description": "Small hat-shaped dumplings of soft pasta-like dough filled with potato, minced lard or smoked bacon, onion and herbs, originally miners' food in Idrija. The recipe dates to the mid-19th century, and in 2010 they became the first Slovenian dish registered as an EU Traditional Speciality Guaranteed.",
+    "how_to_eat": "Eat them as a main topped with breadcrumbs, or with bakalca, a slow-cooked mutton and vegetable stew.",
+    "how_to_order": "Ask for 'žlikrofi z bakalco'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Idrijski_žlikrofi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Idrijski_žlikrofi",
+      "https://www.gov.si/assets/ministrstva/MKGP/PODROCJA/HRANA/SHEME-KAKOVOSTI/PUBLIKACIJA/Protected_Slovenian_Agricultural_Products_and_Foodstuffs_2021.pdf",
+      "https://sl.wikipedia.org/wiki/Bakalca",
+      "https://www.slovenia.info/en/stories/gastronomy-of-slovenian-historical-cities"
+    ]
+  },
+  {
+    "id": "slovenia-frika",
+    "name": "Frika",
+    "local_name": "Tolminska frika",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Slovenia",
+    "state": "Soča Valley & Idrija",
+    "regions": [
+      "Tolmin",
+      "Bovec"
+    ],
+    "description": "A pan-fried cake of aged cheese (usually Tolminc), potatoes, eggs and pork lard, sometimes with pancetta or pršut; every village in the upper Soča Valley has its own recipe. It came from neighbouring Friuli (frico), and a version with potato and cheese appears in Vodnik's 1799 cookbook.",
+    "how_to_eat": "Eat it on its own as a main or with polenta.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://sl.wikipedia.org/wiki/Frika",
+      "https://www.slovenia.info/en/things-to-do/food-and-wine/locally-typical"
+    ]
+  },
+  {
+    "id": "slovenia-kobariski-struklji",
+    "name": "Kobarid štruklji",
+    "local_name": "Kobariški štruklji",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Slovenia",
+    "state": "Soča Valley & Idrija",
+    "regions": [
+      "Kobarid"
+    ],
+    "description": "Sweet boiled dough pockets filled with walnuts, raisins, sugar, butter and breadcrumbs, each marked by the cook's fingerprint in the centre. Once a snack for summer haymaking, they are now the signature dessert of the Kobarid area and star of its autumn Jestival.",
+    "how_to_eat": "Eat them warm, topped with butter, golden breadcrumbs, icing sugar and ground walnuts.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "nuts",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.soca-valley.com/en/in-search-of-adventure/gastronomy/traditional-food/2021020313474784/kobariski-struklji/",
+      "https://en.wikipedia.org/wiki/Štruklji"
+    ]
+  },
+  {
+    "id": "slovenia-tolminc",
+    "name": "Tolminc cheese",
+    "local_name": "Tolminc",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Slovenia",
+    "state": "Soča Valley & Idrija",
+    "regions": [
+      "Tolmin"
+    ],
+    "description": "A hard cheese of raw cow's milk from the Tolmin area below Mt Krn, with small lentil- or pea-sized eyes, a long maturing time and a sweet, tangy flavour. It has been an EU PDO since 2012 and is the usual cheese in frika.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.gov.si/assets/ministrstva/MKGP/PODROCJA/HRANA/SHEME-KAKOVOSTI/PUBLIKACIJA/Protected_Slovenian_Agricultural_Products_and_Foodstuffs_2021.pdf",
+      "https://www.slovenia.info/en/stories/savouring-slovenian-tradition",
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/13793?lang=EN"
+    ]
+  },
+  {
+    "id": "slovenia-bovski-sir",
+    "name": "Bovec cheese",
+    "local_name": "Bovški sir",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Slovenia",
+    "state": "Soča Valley & Idrija",
+    "regions": [
+      "Bovec"
+    ],
+    "description": "A firm cheese of raw sheep's milk (with at most 20% goat's or cow's milk) from the Bovec area by the Soča; records go back to the 14th century, when it fetched higher prices than other cheeses. It has been an EU PDO since 2012.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.gov.si/assets/ministrstva/MKGP/PODROCJA/HRANA/SHEME-KAKOVOSTI/PUBLIKACIJA/Protected_Slovenian_Agricultural_Products_and_Foodstuffs_2021.pdf",
+      "https://www.slovenia.info/en/stories/savouring-slovenian-tradition",
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/13997?lang=EN"
+    ]
+  },
+  {
+    "id": "slovenia-prekmurska-gibanica",
+    "name": "Prekmurje layer cake",
+    "local_name": "Prekmurska gibanica",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Slovenia",
+    "state": "Styria & Prekmurje",
+    "regions": [
+      "Prekmurje"
+    ],
+    "description": "A rich layered cake on a shortcrust base with two rounds of four fillings - poppy seed, cottage cheese, walnut and apple - separated by filo sheets and topped with cream and egg yolk or a fatty topping; lard is a listed ingredient. Native to Prekmurje, where it was a wedding and festive dish (recorded in 1828), it is now a national specialty and an EU Traditional Speciality Guaranteed since 2010.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'prekmurska gibanica'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "nuts"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Prekmurska_gibanica",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Prekmurska_gibanica",
+      "https://www.gov.si/assets/ministrstva/MKGP/PODROCJA/HRANA/SHEME-KAKOVOSTI/PUBLIKACIJA/Protected_Slovenian_Agricultural_Products_and_Foodstuffs_2021.pdf",
+      "https://assets.publishing.service.gov.uk/media/665ef480dc15efdddf1a86ca/CELEX_52014XC0904_03__EN_TXT_Prekmurska_gibanica.pdf"
+    ]
+  },
+  {
+    "id": "slovenia-bograc",
+    "name": "Bograč",
+    "local_name": "Bograč",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Slovenia",
+    "state": "Styria & Prekmurje",
+    "regions": [
+      "Lendava"
+    ],
+    "description": "A goulash-like stew of at least three meats (pork, beef, game) with potatoes cooked in the pot, seasoned with onion, garlic and paprika. It is characteristic of Prekmurje; Lendava, the 'capital of bograč', holds the yearly Bogračfest.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://sl.wikipedia.org/wiki/Bograč",
+      "https://www.slovenia.info/en/things-to-do/food-and-wine/locally-typical"
+    ]
+  },
+  {
+    "id": "slovenia-bujta-repa",
+    "name": "Bujta repa",
+    "local_name": "Bujta repa",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Slovenia",
+    "state": "Styria & Prekmurje",
+    "regions": [
+      "Prekmurje"
+    ],
+    "description": "A hotpot of pork (traditionally fatty parts of the head, neck and skin) with sour turnip and millet porridge, seasoned with garlic and onion. The name means 'killed turnip', from the pig slaughter (koline) at which it was made in winter in Prekmurje.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bujta_repa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bujta_repa",
+      "https://sl.wikipedia.org/wiki/Bujta_repa"
+    ]
+  },
+  {
+    "id": "slovenia-dodoli",
+    "name": "Dödöli",
+    "local_name": "Dödöli",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Slovenia",
+    "state": "Styria & Prekmurje",
+    "regions": [
+      "Prekmurje"
+    ],
+    "description": "Potato and wheat-flour dumplings from Prekmurje, whose name comes from Hungarian; once a main dish, now mostly a side for meat.",
+    "how_to_eat": "Eat them topped with lard or butter, fried onions and sour cream.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://slovenian-kitchen.com/blog-1/dodoli",
+      "https://jre.eu/en/recipes/doedoeli-with-chicken-paprikash"
+    ]
+  },
+  {
+    "id": "slovenia-prleska-tunka",
+    "name": "Prlekija tünka",
+    "local_name": "Prleška tünka",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Slovenia",
+    "state": "Styria & Prekmurje",
+    "regions": [
+      "Prlekija"
+    ],
+    "description": "Salt-cured, dry-heated and smoked pork (leg, loin or neck) layered with minced lard in a vessel called a tünka, where it matures for at least 30 days. Recorded in Prlekija since 1487, it has been an EU PGI since 2010.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.gov.si/assets/ministrstva/MKGP/PODROCJA/HRANA/SHEME-KAKOVOSTI/PUBLIKACIJA/Protected_Slovenian_Agricultural_Products_and_Foodstuffs_2021.pdf",
+      "https://www.slovenia.info/en/stories/savouring-slovenian-tradition",
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/13920?lang=EN"
+    ]
+  },
+  {
+    "id": "slovenia-pohorska-omleta",
+    "name": "Pohorje omelette",
+    "local_name": "Pohorska omleta",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Slovenia",
+    "state": "Styria & Prekmurje",
+    "regions": [
+      "Pohorje",
+      "Maribor"
+    ],
+    "description": "A sweet baked omelette of whipped eggs, sugar, flour and a little rum, folded around warm cranberry jam and topped with whipped cream. It is the signature dessert of the Pohorje hills above Maribor.",
+    "how_to_eat": "Eat it warm, sprinkled with peppermint liqueur.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "egg",
+      "gluten",
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.slovenia.info/en/places-to-go/regions/alpine-slovenia/maribor-pohorje/the-pohorje-omelette",
+      "https://visitmaribor.si/en/what-to-do/nature/pohorje/pohorje-culinary-transversal"
+    ]
+  },
+  {
+    "id": "slovenia-stajerska-kisla-juha",
+    "name": "Styrian sour soup",
+    "local_name": "Štajerska kisla juha",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Slovenia",
+    "state": "Styria & Prekmurje",
+    "regions": [
+      "Lower Styria"
+    ],
+    "description": "A sour soup from Lower Styria made at koline (pig slaughter) from pork trotters and parts of the pig's head. It was a staple of the koline feast and was typically served at weddings after midnight.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Styrian_sour_soup",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Styrian_sour_soup",
+      "https://en.wikipedia.org/wiki/Slovenian_cuisine"
+    ]
+  },
+  {
+    "id": "slovenia-zgornjesavinjski-zelodec",
+    "name": "Upper Savinja želodec",
+    "local_name": "Zgornjesavinjski želodec",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Slovenia",
+    "state": "Styria & Prekmurje",
+    "regions": [
+      "Upper Savinja Valley"
+    ],
+    "description": "A dried-meat product of high-quality pork and hard bacon, salted and seasoned and traditionally stuffed into a pig's bladder or stomach (želodec), matured in the sub-Alpine climate of the Upper Savinja Valley. Once served at weddings and blessed at Easter, it has been an EU PGI since 2011.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.gov.si/assets/ministrstva/MKGP/PODROCJA/HRANA/SHEME-KAKOVOSTI/PUBLIKACIJA/Protected_Slovenian_Agricultural_Products_and_Foodstuffs_2021.pdf",
+      "https://www.slovenia.info/en/stories/savouring-slovenian-tradition",
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/13937?lang=EN"
+    ]
+  },
+  {
+    "id": "slovenia-cvicek",
+    "name": "Cviček",
+    "local_name": "Cviček",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Slovenia",
+    "state": "Lower Carniola & Bela krajina",
+    "regions": [
+      "Dolenjska"
+    ],
+    "description": "A light, slightly tart, low-alcohol (8.5-10%) wine from Lower Carniola, blended from red and white grapes with žametna črnina as the main variety. Its name is an old word for very sour wine; Cviček has been an EU PDO since 2006 and is now a popular casual drink.",
+    "how_to_eat": null,
+    "how_to_order": "Ask for 'cviček'.",
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cviček",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Cviček",
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/8093?lang=EN",
+      "https://www.slovenia.info/en/stories/gastronomy-of-slovenian-historical-cities"
+    ]
+  },
+  {
+    "id": "slovenia-belokranjska-pogaca",
+    "name": "Bela krajina flatbread",
+    "local_name": "Belokranjska pogača",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Slovenia",
+    "state": "Lower Carniola & Bela krajina",
+    "regions": [
+      "Bela krajina",
+      "Metlika"
+    ],
+    "description": "A round leavened flatbread about 30 cm across, scored in a grid, brushed with beaten egg and sprinkled with caraway and coarse salt. It has been an EU Traditional Speciality Guaranteed since 2010.",
+    "how_to_eat": "Eat it warm, broken by hand along the scored lines rather than cut.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.gov.si/assets/ministrstva/MKGP/PODROCJA/HRANA/SHEME-KAKOVOSTI/PUBLIKACIJA/Protected_Slovenian_Agricultural_Products_and_Foodstuffs_2021.pdf",
+      "https://www.slovenia.info/en/stories/savouring-slovenian-tradition",
+      "https://slovenia.si/this-is-slovenia/bela-krajina-a-beautiful-region-in-the-far-south-of-slovenia"
+    ]
+  },
+  {
+    "id": "slovenia-belokranjska-povitica",
+    "name": "Bela krajina povitica",
+    "local_name": "Belokranjska povitica",
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Slovenia",
+    "state": "Lower Carniola & Bela krajina",
+    "regions": [
+      "Bela krajina"
+    ],
+    "description": "A traditional rolled pastry of stretched filo-type dough filled with cottage cheese, eggs, sweet cream and butter; a buckwheat version with raisins also exists. Its composition and preparation are set by a Slovenian regulation.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://sl.wikipedia.org/wiki/Belokranjska_povitica",
+      "https://slovenia.si/this-is-slovenia/bela-krajina-a-beautiful-region-in-the-far-south-of-slovenia"
+    ]
+  },
+  {
+    "id": "slovenia-metliska-crnina",
+    "name": "Metliška črnina",
+    "local_name": "Metliška črnina",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Slovenia",
+    "state": "Lower Carniola & Bela krajina",
+    "regions": [
+      "Bela krajina",
+      "Metlika"
+    ],
+    "description": "A dry, medium-bodied red wine from Bela krajina blended from the region's red grapes (blaufränkisch, žametna črnina, portugieser, St. Laurent and others), with 9.5-11.4% alcohol and a pleasant slight bitterness. It is a registered EU PDO.",
+    "how_to_eat": "Serve at 13-15 °C with roast or grilled meat, game, mushrooms or cured meats.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://sl.wikipedia.org/wiki/Metliška_črnina",
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/7442?lang=EN"
+    ]
+  },
+  {
+    "id": "slovenia-dolenjski-sadjevec",
+    "name": "Dolenjski sadjevec (fruit brandy)",
+    "local_name": "Dolenjski sadjevec",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Slovenia",
+    "state": "Lower Carniola & Bela krajina",
+    "regions": [
+      "Dolenjska"
+    ],
+    "description": "A fruit brandy from Dolenjska that the tourist board lists among Slovenia's characteristic spirits. Dolenjski sadjevec is a registered EU spirit-drink geographical indication.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "EUR",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": true,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.slovenia.info/uploads/pr/6791/gastronomic_specialities_of_slovenia_11676.pdf",
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/16816?lang=EN"
+    ]
+  }
+]

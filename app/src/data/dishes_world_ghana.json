@@ -1,0 +1,751 @@
+[
+  {
+    "id": "ghana-ga-kenkey",
+    "name": "Ga kenkey with fried fish and shito",
+    "local_name": "Komi",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Greater Accra (Ga)",
+    "regions": [
+      "Accra"
+    ],
+    "description": "Fermented maize dough, part-cooked, wrapped in dried maize husks and boiled into firm, slightly sour balls. Ga kenkey (Nkran dokon) comes from the Ga people and is mostly eaten in Greater Accra, typically with fried fish, ground pepper and shito, the Ga black pepper sauce of dried fish and prawns.",
+    "how_to_eat": "Unwrap the husk, pinch off pieces and dip them in the ground pepper or shito, eating them with bites of fried fish.",
+    "how_to_order": "Buy balls of kenkey from street sellers and ask for fried fish, pepper and shito; it is one of Accra's most common street foods.",
+    "typical_price": "4-5",
+    "currency": "GHS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kenkey",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kenkey",
+      "https://en.wikipedia.org/wiki/Shito",
+      "https://www.graphic.com.gh/lifestyle/life/fante-kenkey-food-that-must-be-protected.html",
+      "https://citinewsroom.com/2024/02/kenkey-price-hit-gh%c2%a24-in-nov-2022-teshie-was-last-resort-for-gh%c2%a22-ball-researcher/"
+    ]
+  },
+  {
+    "id": "ghana-banku-tilapia",
+    "name": "Banku with grilled tilapia",
+    "local_name": "Banku",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Greater Accra (Ga)",
+    "regions": [
+      "Accra"
+    ],
+    "description": "Banku is a slightly fermented mixture of maize and cassava doughs cooked in hot water into a smooth, whitish ball; it is the softer Ga-Dangme version of the dish. In Accra it is classically eaten with whole grilled tilapia, hot pepper sauce and shito, and it is also served with okra stew or soups.",
+    "how_to_eat": "Tear off banku with your right hand, dip it in the pepper sauce and eat it with flakes of tilapia.",
+    "how_to_order": "Look for grilled tilapia and banku at markets such as Makola and at evening grill spots; upscale versions cost several times more.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Banku_(dish)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Banku_(dish)",
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine",
+      "https://www.pulse.com.gh/articles/entertainment/ghana-best-food-destinations-guide-2025032017065526760"
+    ]
+  },
+  {
+    "id": "ghana-kelewele",
+    "name": "Kelewele",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Ghana",
+    "state": "Greater Accra (Ga)",
+    "regions": [
+      "Accra"
+    ],
+    "description": "Cubes of ripe plantain seasoned with spices and pepper and deep-fried. Ghana's spiced take on fried plantain, sometimes served with roasted peanuts, and a common side for red red and fish stew.",
+    "how_to_eat": "Eat it hot from the paper with a toothpick, with roasted groundnuts on the side.",
+    "how_to_order": "Sold by evening street vendors and at markets such as Makola; ask for kelewele with groundnuts.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fried_plantain",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fried_plantain",
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine",
+      "https://www.pulse.com.gh/articles/entertainment/ghana-best-food-destinations-guide-2025032017065526760"
+    ]
+  },
+  {
+    "id": "ghana-waakye",
+    "name": "Waakye",
+    "local_name": null,
+    "pronunciation": "WAH-chay",
+    "category": "street_food",
+    "country": "Ghana",
+    "state": "Greater Accra (Ga)",
+    "regions": [
+      "Accra"
+    ],
+    "description": "Rice and black-eyed peas or cow beans cooked together with dried red sorghum leaf sheaths and kaun (limestone), which give the dish its reddish colour and flavour. The name comes from the Dagbani word for a kind of bean. It is a roadside breakfast and lunch, wrapped in leaf and topped with stew, boiled egg, garri, shito, salad, spaghetti (talia) or fried plantain.",
+    "how_to_eat": "Choose your toppings and eat everything together from the leaf, with shito and stew mixed in.",
+    "how_to_order": "Buy it from roadside waakye sellers in the morning and point at the extras you want; with only stew and garri it is close to veg, but shito and stew usually contain fish or meat.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "shellfish",
+      "gluten",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Waakye",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Waakye",
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine",
+      "https://www.pulse.com.gh/articles/entertainment/ghana-best-food-destinations-guide-2025032017065526760"
+    ]
+  },
+  {
+    "id": "ghana-jollof-rice",
+    "name": "Ghanaian jollof rice",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Greater Accra (Ga)",
+    "regions": [
+      "Accra"
+    ],
+    "description": "Rice cooked in a stew of fried onions, ginger, garlic, chillies, tomato paste and tomatoes with beef, goat or chicken. Unlike the Nigerian version, Ghanaian jollof is typically made with jasmine rice and has no green vegetables. It is Ghana's side of the friendly 'Jollof wars' with Nigeria and a fixture at parties.",
+    "how_to_eat": "Eat it with fried chicken or fish, fried plantain, salad and a spoon of shito.",
+    "how_to_order": "On almost every menu, from chop bars to restaurants; ask for jollof with chicken.",
+    "typical_price": "80-120",
+    "currency": "GHS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jollof_rice",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jollof_rice",
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine",
+      "https://newscenta.com/ghana-ranks-5th-in-africa-for-expensive-dining-out-costs"
+    ]
+  },
+  {
+    "id": "ghana-red-red",
+    "name": "Red red",
+    "local_name": "Yɔ kɛ gari",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Greater Accra (Ga)",
+    "regions": [],
+    "description": "Black-eyed peas stewed in red palm oil with tomatoes, onions and Scotch bonnet pepper, usually with tinned mackerel or pilchards, served with fried ripe plantain. The name comes from the red of the palm oil and the plantain; it is a common Ghanaian street dish, often eaten with garri.",
+    "how_to_eat": "Sprinkle garri over the beans and eat them with the fried plantain.",
+    "how_to_order": "Ask for red red (beans and plantain) at chop bars; ask if they have a fish-free version, which exists but is not the norm.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Red_red",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Red_red",
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine",
+      "https://pinkpangea.com/2014/09/flavors-volta-region-introduction-food-ghana/"
+    ]
+  },
+  {
+    "id": "ghana-kpokpoi",
+    "name": "Kpokpoi",
+    "local_name": "Kpekple",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Greater Accra (Ga)",
+    "regions": [
+      "Accra"
+    ],
+    "description": "Steamed, fermented corn meal eaten with palm nut soup and smoked fish, made by the Ga people for the Homowo harvest festival, whose name means 'hooting at hunger'. The chief sprinkles it around as an offering to the ancestors.",
+    "how_to_eat": null,
+    "how_to_order": "Mostly cooked in homes during Homowo rather than sold daily.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kpekple",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kpekple",
+      "https://en.wikipedia.org/wiki/Homowo"
+    ]
+  },
+  {
+    "id": "ghana-asaana",
+    "name": "Asaana",
+    "local_name": "Aliha",
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Ghana",
+    "state": "Greater Accra (Ga)",
+    "regions": [],
+    "description": "A non-alcoholic drink of fermented corn and caramelised sugar that originated in Greater Accra. Also called aliha, liha or elewonyo, it is served chilled, plain or with milk.",
+    "how_to_eat": "Drink it well chilled.",
+    "how_to_order": "Ask for it plain if you avoid dairy, since it is also served with milk.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Asaana",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Asaana",
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine"
+    ]
+  },
+  {
+    "id": "ghana-fufu-light-soup",
+    "name": "Fufu with light soup",
+    "local_name": "Aponkye nkrakra",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Ashanti (Kumasi)",
+    "regions": [
+      "Kumasi"
+    ],
+    "description": "Fufu, a Twi word, is boiled cassava pounded with green plantain or cocoyam into a smooth, elastic ball. In Ashanti it is eaten with light soup, a thin, tomato-based broth of the Akan people cooked with goat, beef, lamb or fish. It is a standard chop-bar meal across Ashanti.",
+    "how_to_eat": "Pinch off fufu with your right hand, dip it in the soup and swallow without chewing.",
+    "how_to_order": "Go to a chop bar and ask for fufu with light soup and goat meat (aponkye) or fish.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fufu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fufu",
+      "https://en.wikipedia.org/wiki/Light_soup",
+      "https://www.pulse.com.gh/articles/entertainment/ghana-best-food-destinations-guide-2025032017065526760"
+    ]
+  },
+  {
+    "id": "ghana-fufu-groundnut-soup",
+    "name": "Fufu with groundnut soup",
+    "local_name": "Nkatenkwan",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Ashanti (Kumasi)",
+    "regions": [
+      "Kumasi"
+    ],
+    "description": "Soup made from ground roasted peanut paste, often very spicy, cooked with meat or fish and eaten with fufu, omo tuo or banku. Kumasi is known for fufu with nkatenkwan.",
+    "how_to_eat": "Eat it like any fufu meal: pinch, dip and swallow.",
+    "how_to_order": "Ask for fufu with groundnut soup and your choice of chicken, goat or fish at a chop bar.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "peanuts",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peanut_soup",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Peanut_soup",
+      "https://www.pulse.com.gh/articles/entertainment/ghana-best-food-destinations-guide-2025032017065526760"
+    ]
+  },
+  {
+    "id": "ghana-omo-tuo",
+    "name": "Omo tuo with palm nut soup",
+    "local_name": "Ɛmo tuo",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Ashanti (Kumasi)",
+    "regions": [
+      "Kumasi"
+    ],
+    "description": "Rice cooked soft with extra water, beaten smooth and shaped into balls; the name means 'rice balls' in Twi. It is served with groundnut soup or with palm nut soup, made from palm fruit cream with stewed meats and smoked dried fish.",
+    "how_to_eat": "Scoop pieces of rice ball with your fingers and dip them in the soup.",
+    "how_to_order": "At chop bars in Kumasi, ask for omo tuo with palm nut soup.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Omo_tuo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Omo_tuo",
+      "https://en.wikipedia.org/wiki/Palm_nut_soup",
+      "https://www.pulse.com.gh/articles/entertainment/ghana-best-food-destinations-guide-2025032017065526760"
+    ]
+  },
+  {
+    "id": "ghana-ampesi-kontomire",
+    "name": "Ampesi with kontomire stew",
+    "local_name": "Ampesie",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Ashanti (Kumasi)",
+    "regions": [
+      "Kumasi"
+    ],
+    "description": "Ampesi is boiled yam, plantain, cocoyam or cassava served as a plain starch; in Ashanti it comes with kontomire stew, made with cocoyam (taro) leaves and palm oil, often with fish or egg. The forest-zone cooking of Kumasi centres on cocoyam leaves, plantain and palm nut.",
+    "how_to_eat": "Cut the boiled yam or plantain and scoop up the stew with it.",
+    "how_to_order": "Ask for ampesi with kontomire at chop bars and home-style eateries.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Palaver_sauce",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine",
+      "https://en.wikipedia.org/wiki/Palaver_sauce",
+      "https://www.pulse.com.gh/articles/entertainment/ghana-best-food-destinations-guide-2025032017065526760"
+    ]
+  },
+  {
+    "id": "ghana-kokonte",
+    "name": "Kokonte with groundnut soup",
+    "local_name": "Abetiɛ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Ashanti (Kumasi)",
+    "regions": [],
+    "description": "A brown 'swallow' made by stirring flour of dried, pounded cassava with water, also nicknamed 'face the wall'. Prepared by the Akans and others, it is usually eaten with groundnut or palm nut soup, often with tripe or lamb.",
+    "how_to_eat": "Pinch it off with your right hand and dip it in the soup.",
+    "how_to_order": "Ask for kokonte (brown fufu) at chop bars that serve local swallows.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "peanuts",
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kokonte",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kokonte",
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine"
+    ]
+  },
+  {
+    "id": "ghana-aprapransa",
+    "name": "Aprapransa",
+    "local_name": "Akplijii",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Ashanti (Kumasi)",
+    "regions": [],
+    "description": "Roasted corn flour blended with palm nut soup into a single dish with its soup built in. Of Ga origin, it is now mostly served by Akans on special occasions such as weddings and naming ceremonies, and is rarely sold on the street.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aprapransa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Aprapransa",
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine"
+    ]
+  },
+  {
+    "id": "ghana-fante-kenkey",
+    "name": "Fante kenkey",
+    "local_name": "Fante dokono",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Central & Western coast (Fante, Nzema)",
+    "regions": [
+      "Cape Coast",
+      "Abura Dunkwa",
+      "Moree"
+    ],
+    "description": "Kenkey made by the Fante people of the Central and Western Regions from fermented maize dough, wrapped in dried plantain or asofuo leaves rather than maize husks. Towns such as Abura Dunkwa and Moree Junction are known for it. It is eaten with stews, fried fish, shito and ground pepper, or mashed into a sweet pudding with milk, sugar and roasted groundnuts.",
+    "how_to_eat": "Eat it with fried fish and pepper, or with fante fante stew.",
+    "how_to_order": "Buy it from kenkey sellers in Central Region towns such as Abura Dunkwa and Moree Junction.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kenkey",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kenkey",
+      "https://www.graphic.com.gh/lifestyle/life/fante-kenkey-food-that-must-be-protected.html",
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine"
+    ]
+  },
+  {
+    "id": "ghana-fante-fante",
+    "name": "Fante fante",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Central & Western coast (Fante, Nzema)",
+    "regions": [
+      "Cape Coast",
+      "Elmina"
+    ],
+    "description": "A Fante stew of fresh fish cooked in palm oil with tomatoes and pepper, from the Cape Coast and Elmina area; some cooks add shrimp powder or smoked fish. Traditionally it was made only with fresh fish and eaten with Fante kenkey or ɛtsew, the Fante version of banku.",
+    "how_to_eat": "Eat it with Fante kenkey or banku, dipping the starch in the stew.",
+    "how_to_order": "Ask for it at chop bars and home-style eateries in Cape Coast and Elmina.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.pulse.com.gh/story/efie-aduane-series-fantefo-ne-fante-fante-2024080220214055348",
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine",
+      "https://www.chefspencil.com/fante-fante/"
+    ]
+  },
+  {
+    "id": "ghana-akyeke",
+    "name": "Akyeke with fried fish",
+    "local_name": "Akyɛkɛ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Central & Western coast (Fante, Nzema)",
+    "regions": [],
+    "description": "Fermented, grated cassava steamed into a couscous-like grain, the Ghanaian spelling of attiéké. It is a specialty of the Nzema people of Ghana's Western Region, where it is said one is not a true Nzema without having eaten it, and it is eaten with fried fish, ground pepper and onions.",
+    "how_to_eat": "Eat it with fried fish, hot pepper sauce, sliced onions and a little oil.",
+    "how_to_order": "Ask for akyeke and fried fish at chop bars and street stalls.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Acheke",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Acheke",
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine"
+    ]
+  },
+  {
+    "id": "ghana-akple-fetri-detsi",
+    "name": "Akple with okra soup",
+    "local_name": "Akple",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Volta (Ewe)",
+    "regions": [
+      "Ho",
+      "Keta"
+    ],
+    "description": "A firm ball of cooked corn flour, sometimes mixed with cassava, that is the Ewe staple 'swallow' of the Volta Region. It is usually served with okra soup (fetri detsi) or herring stew, and the soups are known to be very spicy.",
+    "how_to_eat": "Pinch off akple, dip it in the slippery okra soup and swallow.",
+    "how_to_order": "Ask for akple and okro soup at chop bars in Ho, Keta and elsewhere in Volta.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Banku_(dish)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine",
+      "https://en.wikipedia.org/wiki/Banku_(dish)",
+      "https://www.pulse.com.gh/articles/entertainment/ghana-best-food-destinations-guide-2025032017065526760"
+    ]
+  },
+  {
+    "id": "ghana-abolo",
+    "name": "Abolo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Volta (Ewe)",
+    "regions": [
+      "Keta"
+    ],
+    "description": "A steamed dumpling of corn dough and sugar, slightly sweet and sour, eaten by the Ewe. It is served with soups and sauces, and in Volta classically with grilled or fried fish and pepper.",
+    "how_to_eat": "Eat it with grilled fish and ground pepper.",
+    "how_to_order": "Ask for abolo and fish from Volta street sellers and chop bars.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine",
+      "https://www.pulse.com.gh/articles/entertainment/ghana-best-food-destinations-guide-2025032017065526760"
+    ]
+  },
+  {
+    "id": "ghana-yakayake",
+    "name": "Yakayake",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Volta (Ewe)",
+    "regions": [],
+    "description": "Ewe dish of grated cassava dough, pressed, mixed with a little corn flour and salt, and steamed. It is served with fish and chilli pepper, green leaf stew (amatadi) or beans, and appears at weddings, funerals and naming ceremonies.",
+    "how_to_eat": "Eat it with fish and pepper or with a leafy stew.",
+    "how_to_order": "Ask for yakayake and fish in Volta markets and chop bars.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.gbcghanaonline.com/general-news/yakayake-a-volta-region-staple-celebrating-culture-and-sustenance/2025/",
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine",
+      "https://www.pulse.com.gh/articles/entertainment/ghana-best-food-destinations-guide-2025032017065526760"
+    ]
+  },
+  {
+    "id": "ghana-agbelikaklo",
+    "name": "Agbelikaklo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Ghana",
+    "state": "Volta (Ewe)",
+    "regions": [
+      "Ho"
+    ],
+    "description": "Fritters of grated cassava, onion and salt rolled into small balls and deep-fried until golden, from the southern Volta Region. Hawkers sell them across Ghana, and hotels in Ho serve them to welcome visitors.",
+    "how_to_eat": "Eat them with pieces of dried coconut.",
+    "how_to_order": "Buy from hawkers; ask for agbelikaklo with coconut.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://www.graphic.com.gh/features/opinion/agbelikaklo-the-comfort-food-from-volta.html"
+    ]
+  },
+  {
+    "id": "ghana-tuo-zaafi",
+    "name": "Tuo zaafi with ayoyo soup",
+    "local_name": "TZ",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Ghana",
+    "state": "Northern Ghana (Tamale)",
+    "regions": [
+      "Tamale"
+    ],
+    "description": "A stiff 'swallow' of maize, millet or sorghum flour stirred into boiling water, the daily staple of the Dagomba, Mamprusi, Gonja and other northern groups; the name comes from Hausa. It is classically paired with ayoyo, a slimy jute mallow leaf soup made with dried fish and dawadawa, or with okra or groundnut soup and meat or fish.",
+    "how_to_eat": "Mould a small portion into a ball with your right hand, dip it in the soup and swallow.",
+    "how_to_order": "Ask for TZ with ayoyo at chop bars in Tamale, for example around Lamashegu and Aboabo markets.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine",
+      "https://www.pulse.com.gh/story/pulse-food-how-to-prepare-tuo-zaafi-and-ayoyo-soup-2024072318585616323",
+      "https://www.pulse.com.gh/articles/entertainment/ghana-best-food-destinations-guide-2025032017065526760",
+      "https://www.graphic.com.gh/lifestyle/life/ghana-news-world-tuo-zaafi-festival-held-in-tamale-hundreds-treated-to-scrumptious-traditional-dishes.html"
+    ]
+  },
+  {
+    "id": "ghana-hausa-koko",
+    "name": "Hausa koko",
+    "local_name": "Za koko",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Ghana",
+    "state": "Northern Ghana (Tamale)",
+    "regions": [],
+    "description": "A spicy, sweet millet porridge eaten for breakfast or as an afternoon snack. It is called Hausa koko where Hausa speakers introduced it; in northern Ghana millet porridge is called za koko in Dagbanli. It usually comes with koose (bean fritters), pinkaso or kuli-kuli.",
+    "how_to_eat": "Drink or spoon it hot, with koose or bread and groundnuts on the side.",
+    "how_to_order": "Buy it in the morning from street koko sellers; ask for koko with koose.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Koko_(millet_porridge)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Koko_(millet_porridge)",
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine"
+    ]
+  },
+  {
+    "id": "ghana-pito",
+    "name": "Pito",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Ghana",
+    "state": "Northern Ghana (Tamale)",
+    "regions": [],
+    "description": "Beer brewed from fermented millet or sorghum in northern Ghana by household producers. It is served warm or cold in a calabash outside the brewer's home and is never bottled or canned.",
+    "how_to_eat": "Drink it from a calabash on the brewer's bench.",
+    "how_to_order": "Buy it directly from the household that brews it; look for benches outside homes in northern towns.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [
+      "gluten"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pito_(beer)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pito_(beer)",
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine"
+    ]
+  },
+  {
+    "id": "ghana-wagashi",
+    "name": "Wagashi",
+    "local_name": "Wagashie",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Ghana",
+    "state": "Northern Ghana (Tamale)",
+    "regions": [],
+    "description": "A soft, mild cottage cheese made from raw cow's milk curdled with Sodom apple leaves, developed by Fulani herders to preserve milk; in Ghana the Hausa are the main producers. It does not melt when heated and is usually fried until puffed and brown, eaten as a snack or added to stews.",
+    "how_to_eat": "Eat the fried pieces hot as a snack or in stew with a starch.",
+    "how_to_order": "Buy fried wagashi from street vendors; choose freshly fried pieces, as raw-milk market cheese can carry bacteria.",
+    "typical_price": null,
+    "currency": "GHS",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wagasi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wagasi",
+      "https://en.wikipedia.org/wiki/Ghanaian_cuisine",
+      "https://ugspace.ug.edu.gh/handle/123456789/21881"
+    ]
+  }
+]

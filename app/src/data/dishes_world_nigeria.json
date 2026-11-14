@@ -1,0 +1,1116 @@
+[
+  {
+    "id": "nigeria-jollof-rice",
+    "name": "Nigerian jollof rice",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Lagos & Southwest",
+    "regions": [
+      "Lagos"
+    ],
+    "description": "Parboiled long-grain rice cooked in one pot in a sauce of tomato purée or paste, onions and pepper, with oil, meat stock, thyme, bay leaves and curry powder. Party jollof is cooked over a wood fire, which gives it a smoky taste and a crusty bottom layer. Nigeria's version is one side of the friendly 'Jollof wars' with Ghana.",
+    "how_to_eat": "Eat it with chicken, beef, turkey or fish, usually with fried plantain, moi moi or coleslaw on the side.",
+    "how_to_order": "Ask for jollof with chicken or fish at any buka or local eatery; it is on almost every menu in Lagos and Abuja.",
+    "typical_price": "2500-4500",
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jollof_rice",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jollof_rice",
+      "https://www.travelwithhello.com/blog/nigeria-food-dining-guide"
+    ]
+  },
+  {
+    "id": "nigeria-pounded-yam-egusi",
+    "name": "Pounded yam and egusi soup",
+    "local_name": "iyán / Ẹ̀gúṣí",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Lagos & Southwest",
+    "regions": [],
+    "description": "Boiled yam pounded in a mortar into a smooth, heavy, stretchy dough, served with egusi soup, which is thickened with ground melon seeds and cooked with leafy greens, palm oil, locust beans and beef, goat, fish, shrimp or crayfish. Egusi is rooted in Yoruba cooking but eaten across Nigeria, and pounded yam is one of the most common 'swallows'.",
+    "how_to_eat": "Pinch off a piece of pounded yam with your right hand, dip it in the soup and swallow it with little chewing.",
+    "how_to_order": "Sold as a set plate in urban restaurants and bukas; you can also ask for vegetable soup instead of egusi.",
+    "typical_price": "3500-7000",
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pounded_yam",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pounded_yam",
+      "https://en.wikipedia.org/wiki/Egusi",
+      "https://www.travelwithhello.com/blog/nigeria-food-dining-guide"
+    ]
+  },
+  {
+    "id": "nigeria-abula",
+    "name": "Abula (amala, ewedu and gbegiri)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Lagos & Southwest",
+    "regions": [
+      "Lagos"
+    ],
+    "description": "The classic Yoruba combination of amala, a brown swallow made from dried yam (or cassava or unripe plantain) flour, with ewedu (slimy jute-leaf soup), gbegiri (smooth bean soup) and a tomato-pepper stew with meat or fish. Amala is a Yoruba staple of southwestern Nigeria.",
+    "how_to_eat": "Eat the amala with your hand, scooping up the soups and stew together, with your choice of meat or fish.",
+    "how_to_order": "Ask for 'amala abula' at a buka; the price depends on the meat or fish you pick.",
+    "typical_price": "1000-3000",
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amala_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Amala_(food)",
+      "https://en.wikipedia.org/wiki/Gbegiri",
+      "https://en.wikipedia.org/wiki/Ewedu_soup",
+      "https://somethingcurated.com/2024/10/11/local-guide-street-food-lagos"
+    ]
+  },
+  {
+    "id": "nigeria-ofada-rice-ayamase",
+    "name": "Ofada rice with ayamase",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Lagos & Southwest",
+    "regions": [
+      "Ogun State",
+      "Lagos"
+    ],
+    "description": "Unpolished local rice named after the Ofada community in Ogun State, served with ayamase, a dark green stew of green peppers, palm oil and iru (fermented locust beans) with assorted meat, offal, fish and eggs. A favourite at Yoruba owambe parties.",
+    "how_to_eat": "In Lagos it is often wrapped in a fragrant leaf; eat the rice with the stew and the assorted meats.",
+    "how_to_order": "Ask for ofada rice and sauce (ayamase is the green version; the red one is called ofada sauce).",
+    "typical_price": "1200-2000",
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ofada_rice",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ofada_rice",
+      "https://en.wikipedia.org/wiki/Ayamase",
+      "https://somethingcurated.com/2024/10/11/local-guide-street-food-lagos"
+    ]
+  },
+  {
+    "id": "nigeria-akara",
+    "name": "Akara",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Nigeria",
+    "state": "Lagos & Southwest",
+    "regions": [],
+    "description": "Deep-fried fritters made from a batter of cowpeas (black-eyed beans), also called bean cake. It originated with the Yoruba and is found across West Africa, the Caribbean and Brazil.",
+    "how_to_eat": "Eat hot, usually with bread or with pap (ogi) for breakfast.",
+    "how_to_order": "Buy from street stalls and markets in the morning; ask for a serving with bread.",
+    "typical_price": "500-1000",
+    "currency": "NGN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Akara",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Akara",
+      "https://www.travelwithhello.com/blog/nigeria-food-dining-guide",
+      "https://en.wikipedia.org/wiki/Nigerian_cuisine"
+    ]
+  },
+  {
+    "id": "nigeria-moi-moi",
+    "name": "Moi moi",
+    "local_name": "olele",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Lagos & Southwest",
+    "regions": [],
+    "description": "A steamed bean pudding made from washed and peeled beans blended with onions, fresh red peppers and spices, often with fish, eggs, chicken or crayfish inside. A protein-rich Yoruba food eaten across Yorubaland and a usual side to jollof rice.",
+    "how_to_eat": "Eat on its own, with pap, or as a side with jollof rice.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "egg",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Moin_moin",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Moin_moin",
+      "https://en.wikipedia.org/wiki/Jollof_rice",
+      "https://www.travelwithhello.com/blog/nigeria-food-dining-guide"
+    ]
+  },
+  {
+    "id": "nigeria-ewa-agoyin",
+    "name": "Ewa agoyin",
+    "local_name": "Ewa aganyin",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Nigeria",
+    "state": "Lagos & Southwest",
+    "regions": [
+      "Lagos"
+    ],
+    "description": "Beans cooked until very soft and mashed, topped with a fiery dark stew of dried chillies, onions, palm oil and crayfish powder. A Yoruba street food, in Lagos often served with fried plantain, boiled egg and stewed ponmo (cow skin).",
+    "how_to_eat": "Eat with agege bread or on its own.",
+    "how_to_order": "Sold by street vendors and bukas; ask for bread and plantain with it.",
+    "typical_price": "1000-2000",
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ewa_aganyin",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ewa_aganyin",
+      "https://somethingcurated.com/2024/10/11/local-guide-street-food-lagos"
+    ]
+  },
+  {
+    "id": "nigeria-asun",
+    "name": "Asun",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Nigeria",
+    "state": "Lagos & Southwest",
+    "regions": [
+      "Ondo"
+    ],
+    "description": "Spicy smoked goat meat linked to the Ondo people: seasoned goat is roasted over charcoal, then tossed with fried onions, bell peppers and habanero. A fixture of the 'small chops' at Yoruba owambe parties.",
+    "how_to_eat": "Eat as a finger food or appetiser with drinks.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Asun",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Asun",
+      "https://guardian.ng/?p=372294"
+    ]
+  },
+  {
+    "id": "nigeria-pepper-soup",
+    "name": "Pepper soup",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Lagos & Southwest",
+    "regions": [],
+    "description": "A light, watery, spicy broth made with goat, chicken or fish (often catfish), chilli, scent leaves and calabash nutmeg. Eaten across Nigeria and Cameroon; its flavour is nutty, bitter and woodsy as much as hot.",
+    "how_to_eat": "Drink it as a soup; it is popular in the evening with drinks.",
+    "how_to_order": "Choose your protein (fish, goat or chicken) at casual spots and bars.",
+    "typical_price": "2000-4000",
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peppersoup",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Peppersoup",
+      "https://www.travelwithhello.com/blog/nigeria-food-dining-guide"
+    ]
+  },
+  {
+    "id": "nigeria-puff-puff",
+    "name": "Puff-puff",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "sweet",
+    "country": "Nigeria",
+    "state": "Lagos & Southwest",
+    "regions": [],
+    "description": "Balls of sweet yeasted dough (flour, sugar, butter, sometimes eggs) deep-fried until golden and sometimes rolled in sugar. The name comes from Nigeria; it is eaten across West and Central Africa.",
+    "how_to_eat": "Eat warm by the handful as a snack.",
+    "how_to_order": "Buy a small bag from street carts, roadside stalls and markets.",
+    "typical_price": "200-500",
+    "currency": "NGN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Puff-puff",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Puff-puff",
+      "https://www.travelwithhello.com/blog/nigeria-food-dining-guide"
+    ]
+  },
+  {
+    "id": "nigeria-chapman",
+    "name": "Chapman",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Nigeria",
+    "state": "Lagos & Southwest",
+    "regions": [],
+    "description": "A non-alcoholic punch from Nigeria made with Fanta, Sprite, grenadine, Angostura bitters, cucumber and lemon, served in a large mug with ice. Often called Nigeria's favourite drink; some add vodka or rum.",
+    "how_to_eat": null,
+    "how_to_order": "Order it at bars, clubs and restaurants; say if you want it with alcohol.",
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chapman_(drink)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chapman_(drink)"
+    ]
+  },
+  {
+    "id": "nigeria-ofe-onugbu",
+    "name": "Ofe onugbu (bitterleaf soup)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Southeast (Igbo)",
+    "regions": [
+      "Anambra"
+    ],
+    "description": "An Igbo soup of washed bitterleaf thickened with cocoyam paste (or achi or ofor), cooked with meat, smoked fish, stockfish, crayfish and ogiri. Particularly associated with Anambra.",
+    "how_to_eat": "Eat with a swallow such as eba, pounded yam or fufu.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ofe_onugbu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ofe_onugbu",
+      "https://en.wikibooks.org/wiki/Cookbook:Ofe_Onugbu_(Bitter_Leaf_Soup)",
+      "https://en.wikipedia.org/wiki/Igbo_cuisine"
+    ]
+  },
+  {
+    "id": "nigeria-ofe-nsala",
+    "name": "Ofe nsala (white soup)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Southeast (Igbo)",
+    "regions": [],
+    "description": "An Igbo soup made without palm oil, hence 'white soup', usually with catfish, small pieces of yam or cocoyam as thickener, and bitter utazi leaves. Similar to the Efik afia efere.",
+    "how_to_eat": "Eat with pounded yam or akpu (fermented cassava swallow).",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ofe_Nsala",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ofe_Nsala",
+      "https://en.wikipedia.org/wiki/Igbo_cuisine"
+    ]
+  },
+  {
+    "id": "nigeria-ofe-oha",
+    "name": "Ofe oha",
+    "local_name": "Ofe Ọha",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Southeast (Igbo)",
+    "regions": [],
+    "description": "A traditional Igbo soup of fresh oha leaves cooked with uziza, achi (as thickener), meat, crayfish and palm oil. Also called uha, aja or ora soup.",
+    "how_to_eat": "Eat with a swallow such as fufu, eba or pounded yam.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ofe_Oha",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ofe_Oha",
+      "https://en.wikipedia.org/wiki/Igbo_cuisine"
+    ]
+  },
+  {
+    "id": "nigeria-ofe-owerri",
+    "name": "Ofe Owerri",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Southeast (Igbo)",
+    "regions": [
+      "Owerri"
+    ],
+    "description": "A rich Igbo soup from Owerri in Imo State, made with okazi, ugu, uziza and oha leaves and a cocoyam thickener, loaded with snails, beef, assorted meat and fish.",
+    "how_to_eat": "Eat with a swallow such as pounded yam or fufu.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ofe_Owerri",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ofe_Owerri",
+      "https://en.wikipedia.org/wiki/Nigerian_cuisine"
+    ]
+  },
+  {
+    "id": "nigeria-abacha",
+    "name": "Abacha (African salad)",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Nigeria",
+    "state": "Southeast (Igbo)",
+    "regions": [
+      "Enugu"
+    ],
+    "description": "Shredded, soaked cassava mixed in palm oil curdled with potash, then dressed with ugba (fermented oil bean), utazi, garden eggs, peppers, ogiri and often crayfish, fish or cow skin. Can be a light cold snack or a full meal.",
+    "how_to_eat": "Eat at room temperature, often topped with fried fish or kanda.",
+    "how_to_order": "Ask whether it comes with fish or kanda; plain versions still usually contain crayfish.",
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Abacha_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Abacha_(food)",
+      "https://en.wikipedia.org/wiki/Igbo_cuisine"
+    ]
+  },
+  {
+    "id": "nigeria-okpa",
+    "name": "Okpa",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Nigeria",
+    "state": "Southeast (Igbo)",
+    "regions": [
+      "Enugu"
+    ],
+    "description": "A steamed savoury cake of bambara nut flour mixed with pepper, palm oil and seasoning. A traditional Igbo breakfast, common in the Southeast; known in Hausa as gurjiya or kwaruru.",
+    "how_to_eat": "Eat warm for breakfast, often with pap or a soft drink.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Okpa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Okpa",
+      "https://en.wikipedia.org/wiki/Igbo_cuisine"
+    ]
+  },
+  {
+    "id": "nigeria-nkwobi",
+    "name": "Nkwobi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Southeast (Igbo)",
+    "regions": [],
+    "description": "Igbo dish of de-hoofed cow foot cooked and coated in a thick, spicy palm-oil sauce. Typically sold in bars and beer parlours as an evening dish.",
+    "how_to_eat": "Eat with your hands, usually with cold drinks.",
+    "how_to_order": "Look for it at evening joints and bars rather than daytime eateries.",
+    "typical_price": "4000-7000",
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nkwobi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nkwobi",
+      "https://www.travelwithhello.com/blog/nigeria-food-dining-guide"
+    ]
+  },
+  {
+    "id": "nigeria-isi-ewu",
+    "name": "Isi ewu",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Southeast (Igbo)",
+    "regions": [],
+    "description": "Goat's head spiced with habanero, ehu seeds, utazi and palm oil; the name means 'goat's head'. Similar to nkwobi but made with goat head instead of cow foot.",
+    "how_to_eat": null,
+    "how_to_order": "Order at bars and evening joints, where it is served alongside nkwobi.",
+    "typical_price": "4000-7000",
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Isi_ewu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Isi_ewu",
+      "https://www.travelwithhello.com/blog/nigeria-food-dining-guide"
+    ]
+  },
+  {
+    "id": "nigeria-palm-wine",
+    "name": "Palm wine",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Nigeria",
+    "state": "Southeast (Igbo)",
+    "regions": [],
+    "description": "A naturally fermented alcoholic drink tapped from palm sap, listed among traditional Igbo foods and drunk across Nigeria; it can be distilled into the spirit ogogoro.",
+    "how_to_eat": "Drink it fresh, as it keeps fermenting and turns sour.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Palm_wine",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Palm_wine",
+      "https://en.wikipedia.org/wiki/Igbo_cuisine",
+      "https://en.wikipedia.org/wiki/Nigerian_cuisine"
+    ]
+  },
+  {
+    "id": "nigeria-edikang-ikong",
+    "name": "Edikang ikong",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Niger Delta & South-South",
+    "regions": [
+      "Calabar",
+      "Uyo"
+    ],
+    "description": "A dense, nearly dry vegetable soup of the Efik (Cross River) and Ibibio (Akwa Ibom) peoples, made with pumpkin leaves and water leaves, beef, dried fish, crayfish, periwinkle, tripe, cow skin and palm oil. Expensive to prepare and served on important occasions.",
+    "how_to_eat": "Eat with fufu, eba or pounded yam.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Edikang_ikong",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Edikang_ikong",
+      "https://www.zikoko.com/?p=82712"
+    ]
+  },
+  {
+    "id": "nigeria-afang-soup",
+    "name": "Afang soup",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Niger Delta & South-South",
+    "regions": [
+      "Calabar",
+      "Uyo"
+    ],
+    "description": "A vegetable soup of the Ibibio of Akwa Ibom, also common among the Efik of Cross River, made with afang (okazi) leaves and water leaves, meat, fish, ponmo and periwinkles. Served at home and at weddings and festivals.",
+    "how_to_eat": "Eat with a swallow such as fufu, eba or pounded yam.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Afang_soup",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Afang_soup",
+      "https://en.wikipedia.org/wiki/Nigerian_cuisine"
+    ]
+  },
+  {
+    "id": "nigeria-afia-efere",
+    "name": "Afia efere",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Niger Delta & South-South",
+    "regions": [
+      "Calabar"
+    ],
+    "description": "Efik and Ibibio 'white soup' made without palm oil, using goat meat or fresh fish seasoned with uyayak (aidan fruit) and crayfish.",
+    "how_to_eat": "Eat with pounded yam.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Afia_Efere",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Afia_Efere",
+      "https://thewhistler.ng/8-calabar-delicacies-guaranteed-to-tease-your-appetite/"
+    ]
+  },
+  {
+    "id": "nigeria-ekpang-nkukwo",
+    "name": "Ekpang nkukwo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Niger Delta & South-South",
+    "regions": [
+      "Calabar"
+    ],
+    "description": "An Efik and Ibibio cocoyam pottage: grated cocoyam or water yam is wrapped in cocoyam leaves, then simmered with palm oil, meat, fish, crayfish, prawns and periwinkles. A time-consuming dish worth seeking out at traditional restaurants.",
+    "how_to_eat": null,
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": null,
+    "source_urls": [
+      "https://thewhistler.ng/8-calabar-delicacies-guaranteed-to-tease-your-appetite/",
+      "https://en.wikipedia.org/wiki/Nigerian_cuisine",
+      "https://www.zikoko.com/?p=82712"
+    ]
+  },
+  {
+    "id": "nigeria-banga-soup-starch",
+    "name": "Banga soup and starch",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Niger Delta & South-South",
+    "regions": [
+      "Warri",
+      "Delta State"
+    ],
+    "description": "Palm-nut soup made by cooking palm fruit extract with meat stock and fresh or dried fish, associated with the Urhobo, Isoko and Itsekiri of Delta State and often served in a native clay pot (evwere). Its classic partner is usi, a thick yellow cassava starch.",
+    "how_to_eat": "Eat the starch with your hand, dipping it in the soup.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Palm_nut_soup",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Palm_nut_soup",
+      "https://www.pulse.ng/story/5-foods-you-should-try-if-youre-visiting-warri-2024072520092557406",
+      "https://en.wikipedia.org/wiki/Nigerian_cuisine"
+    ]
+  },
+  {
+    "id": "nigeria-owo-soup",
+    "name": "Owo soup",
+    "local_name": "Oghwo evwri",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Niger Delta & South-South",
+    "regions": [
+      "Delta State"
+    ],
+    "description": "A sweet, yellowish soup of the Urhobo, Isoko and Itsekiri, thickened with garri soaked in water after a palm oil and potash mixture is added. Traditionally served at Delta State weddings, where its absence is considered an insult to guests.",
+    "how_to_eat": "Eat with starch or eba, or with boiled yam or plantain.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Owo_soup",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Owo_soup",
+      "https://www.pulse.ng/story/5-foods-you-should-try-if-youre-visiting-warri-2024072520092557406"
+    ]
+  },
+  {
+    "id": "nigeria-ukodo",
+    "name": "Ukodo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "Niger Delta & South-South",
+    "regions": [
+      "Delta State"
+    ],
+    "description": "Urhobo yam and unripe plantain pottage with a pepper-soup base, cooked with goat meat or dried fish and sometimes lemongrass and potash. Eaten at marriages and burials, and as a breakfast in the cold season.",
+    "how_to_eat": "Eat hot from the bowl like a pepper soup.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ukodo",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ukodo",
+      "https://www.pulse.ng/story/5-foods-you-should-try-if-youre-visiting-warri-2024072520092557406"
+    ]
+  },
+  {
+    "id": "nigeria-bole-and-fish",
+    "name": "Bole and fish",
+    "local_name": "Boli",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Nigeria",
+    "state": "Niger Delta & South-South",
+    "regions": [
+      "Port Harcourt"
+    ],
+    "description": "Half-ripe plantain roasted over charcoal and served with grilled fish (often tilapia or croaker) and a sauce of palm oil, pepper and onions. Native to the Yoruba as boli, it is the signature street food of Port Harcourt, which holds an annual Bole Festival.",
+    "how_to_eat": "Eat the plantain with the fish and pepper sauce; roasted yam is often offered too.",
+    "how_to_order": "Sold at roadside grills across Port Harcourt; choose busy, established vendors.",
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boli_(plantain)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Boli_(plantain)",
+      "https://businessday.ng/news/article/2025-bole-festival-draws-massive-turnout-boosts-culture-and-tourism/",
+      "https://www.kitchenbutterfly.com/nigerian-street-food-bole-fish/"
+    ]
+  },
+  {
+    "id": "nigeria-suya",
+    "name": "Suya",
+    "local_name": "Tsire",
+    "pronunciation": null,
+    "category": "street_food",
+    "country": "Nigeria",
+    "state": "North (Hausa)",
+    "regions": [
+      "Kano",
+      "Kaduna"
+    ],
+    "description": "Hausa smoke-grilled skewers of thin-sliced beef, goat, ram or chicken coated in yaji, a spice mix of dried chilli, ginger, dried onion and ground peanut cake (kuli-kuli). Now sold at night stalls all over Nigeria.",
+    "how_to_eat": "Eat with extra yaji and sliced raw onions, sometimes with masa or bread.",
+    "how_to_order": "Buy skewers from evening suya stands; ask for extra yaji if you like heat.",
+    "typical_price": "500-1000",
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 3,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Suya",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Suya",
+      "https://www.travelwithhello.com/blog/nigeria-food-dining-guide",
+      "https://somethingcurated.com/2024/10/11/local-guide-street-food-lagos"
+    ]
+  },
+  {
+    "id": "nigeria-kilishi",
+    "name": "Kilishi",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Nigeria",
+    "state": "North (Hausa)",
+    "regions": [],
+    "description": "Hausa jerky: thin slabs of beef, lamb or goat seasoned with salt, pepper and spices (often including ground kuli-kuli), smoked and sun-dried so it keeps for a long time. Like a dried form of suya.",
+    "how_to_eat": "Eat as a snack, traditionally with pap or garri.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kilishi",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kilishi",
+      "https://en.wikipedia.org/wiki/Kuli-kuli"
+    ]
+  },
+  {
+    "id": "nigeria-tuwo-miyan-kuka",
+    "name": "Tuwo shinkafa with miyan kuka",
+    "local_name": "Tuwon shinkafa da miyan kuka",
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "North (Hausa)",
+    "regions": [
+      "Kano"
+    ],
+    "description": "Tuwo shinkafa is a soft, sticky swallow of mashed local rice; it is classically served with miyan kuka, a green, slimy soup of powdered baobab leaves with dawadawa (locust beans), crayfish, palm oil, beef or lamb and dried fish.",
+    "how_to_eat": "Pinch the tuwo with your fingers and dip it in the soup.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tuwon_shinkafa",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tuwon_shinkafa",
+      "https://en.wikipedia.org/wiki/Hausa_cuisine",
+      "https://en.wikibooks.org/wiki/Cookbook:Miyan_Kuka_(Baobab_Leaf_Soup)"
+    ]
+  },
+  {
+    "id": "nigeria-miyan-taushe",
+    "name": "Miyan taushe",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "North (Hausa)",
+    "regions": [],
+    "description": "A Hausa and Fulani soup of groundnut paste and pumpkin with yakuwa leaf, dawadawa, crayfish, meat and spices; creamy and slightly sweet.",
+    "how_to_eat": "Eat with tuwon shinkafa or tuwon masara.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "nonveg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "peanuts",
+      "shellfish"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Miyan_taushe",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Miyan_taushe",
+      "https://en.wikipedia.org/wiki/Hausa_cuisine"
+    ]
+  },
+  {
+    "id": "nigeria-masa",
+    "name": "Masa",
+    "local_name": "Waina",
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Nigeria",
+    "state": "North (Hausa)",
+    "regions": [
+      "Kano"
+    ],
+    "description": "Fermented rice cakes cooked in a special dimpled pan, crisp outside and spongy inside with a sweet-sour taste. A Hausa staple of Northern Nigeria, made with rice, yeast and often yoghurt.",
+    "how_to_eat": "Eat with a spicy sauce, or alongside suya.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 1,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Masa_(Nigerian_food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Masa_(Nigerian_food)",
+      "https://en.wikipedia.org/wiki/Hausa_cuisine"
+    ]
+  },
+  {
+    "id": "nigeria-dan-wake",
+    "name": "Dan wake",
+    "local_name": null,
+    "pronunciation": "dahn WAH-kay",
+    "category": "meal",
+    "country": "Nigeria",
+    "state": "North (Hausa)",
+    "regions": [],
+    "description": "Boiled dumplings of cowpea (bean) flour from northern Nigeria. Bland on their own, they are dressed with palm or groundnut oil, chilli pepper, sauce, egg or vegetables.",
+    "how_to_eat": "Eat with oil and pepper poured over.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "egg",
+    "jain": false,
+    "vegan": false,
+    "spice": 2,
+    "allergens": [
+      "egg"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_wake",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Dan_wake",
+      "https://en.wikipedia.org/wiki/Hausa_cuisine"
+    ]
+  },
+  {
+    "id": "nigeria-fura-da-nono",
+    "name": "Fura da nono",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Nigeria",
+    "state": "North (Hausa)",
+    "regions": [],
+    "description": "Millet dough balls (fura) mashed into nono, a fermented milk, to make a thick, slightly sour drink. Popular with Hausa and Fulani in Northern Nigeria as an afternoon meal and on special occasions.",
+    "how_to_eat": "Drink it cold; one serving is filling.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": false,
+    "spice": 0,
+    "allergens": [
+      "dairy"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fura_(food)",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Fura_(food)",
+      "https://en.wikipedia.org/wiki/Nigerian_cuisine"
+    ]
+  },
+  {
+    "id": "nigeria-kunu",
+    "name": "Kunu",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Nigeria",
+    "state": "North (Hausa)",
+    "regions": [],
+    "description": "A popular drink across Nigeria, mostly in the North: kunu zaki is made from millet, sorghum or maize, and kunu aya from tiger nuts. The sorghum version is light brown, the millet and maize versions whitish.",
+    "how_to_eat": "Drink chilled.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kunu",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kunu",
+      "https://en.wikipedia.org/wiki/Hausa_cuisine"
+    ]
+  },
+  {
+    "id": "nigeria-zobo",
+    "name": "Zobo",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "drink",
+    "country": "Nigeria",
+    "state": "North (Hausa)",
+    "regions": [],
+    "description": "A tart, deep red drink made by infusing dried roselle (hibiscus) calyces; listed among Hausa beverages and drunk all over Nigeria.",
+    "how_to_eat": "Drink chilled.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 0,
+    "allergens": [],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hibiscus_tea",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hibiscus_tea",
+      "https://en.wikipedia.org/wiki/Hausa_cuisine",
+      "https://en.wikipedia.org/wiki/Nigerian_cuisine"
+    ]
+  },
+  {
+    "id": "nigeria-kuli-kuli",
+    "name": "Kuli-kuli",
+    "local_name": null,
+    "pronunciation": null,
+    "category": "snack",
+    "country": "Nigeria",
+    "state": "North (Hausa)",
+    "regions": [],
+    "description": "Crunchy deep-fried peanut snack, first made by the Nupe and a by-product of pressing peanut oil. Eaten alone, with garri soakings, or with fura and koko, and ground into the yaji spice for suya and kilishi.",
+    "how_to_eat": "Eat as a crunchy snack, or with soaked garri.",
+    "how_to_order": null,
+    "typical_price": null,
+    "currency": "NGN",
+    "diet": "veg",
+    "jain": false,
+    "vegan": true,
+    "spice": 1,
+    "allergens": [
+      "peanuts"
+    ],
+    "gi_tag": false,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kuli-kuli",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kuli-kuli",
+      "https://en.wikipedia.org/wiki/Hausa_cuisine"
+    ]
+  }
+]
