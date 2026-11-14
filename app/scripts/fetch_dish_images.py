@@ -107,6 +107,8 @@ NO_PHOTO = {
     "uzbekistan-qatlama", "uzbekistan-sumalak",
     # batch 12
     "nigeria-zobo", "nigeria-tuwo-miyan-kuka", "ghana-kelewele", "ghana-jollof-rice", "ghana-fante-kenkey", "ghana-akple-fetri-detsi", "uruguay-medio-y-medio", "uruguay-tannat", "uruguay-grappamiel", "slovenia-ricet", "slovenia-trojanski-krofi", "slovenia-cvicek", "slovenia-izolski-brodet", "slovenia-fritaja",
+    # batch 13
+    "laos-khao-niao", "laos-khao-lam", "laos-khao-soi", "laos-ping-kai", "laos-bolaven-coffee", "tanzania-ugali-dagaa", "tanzania-senene", "tanzania-ndizi-bukoba", "tanzania-sangara", "tanzania-sugarcane-juice", "serbia-sarma", "serbia-krofne", "serbia-sremski-kulen", "serbia-sumadijska-sljivovica", "serbia-kajmak", "dominican_republic-quipe", "dominican_republic-dulce-de-leche-de-paya", "dominican_republic-yaniqueques",
 }
 out = {}
 for d in dishes:
