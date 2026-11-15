@@ -714,3 +714,5 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
 - VERIFICATION PASS BATCHES 7-13 DONE (28 countries). Committed Tanzania, Dominican Republic, Serbia. Building + installing.
 - Built OK. Install blocked: phone shows adb 'unauthorized' (needs USB debugging prompt accepted). Pushed commits.
 - Installed on phone after USB debugging accepted. Next: ask user about same pass for batches 1-6 (24 countries).
+- User: skip owned logo (dropped from open list).
+- Open: privacy policy, Android back closes sheets first, verify batches 1-6 (24 countries), photo refresh for changed wiki links, photo coverage (2,046/2,948), thin regions, flagged diet calls (proja vegan, amasi nonveg, Panagyurishte eggs, Ecuador lard dishes), Uzbek GIs Kokand patir + Chust oshi, more countries.
