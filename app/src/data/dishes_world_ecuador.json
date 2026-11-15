@@ -69,9 +69,9 @@
     "country": "Ecuador",
     "state": "Quito & Northern Sierra",
     "regions": [],
-    "description": "A thick soup of many tender grains and beans with squash, dairy and salted dried fish, traditionally prepared for Good Friday and Holy Week. It is eaten across Ecuador, by households and communities.",
-    "how_to_eat": "Eat as the Holy Week main meal, shared with family.",
-    "how_to_order": "Look for 'fanesca' on restaurant menus during Lent and Holy Week only.",
+    "description": "A thick soup of figleaf gourd, squash and many tender beans and grains with salt cod cooked in milk, traditionally prepared for Holy Week. It is eaten by households and communities in Ecuador and is most popular in the northern highlands.",
+    "how_to_eat": "Eat as the Holy Week midday meal, shared with family; it is often garnished with hard-boiled egg, fried plantain and empanadas de viento.",
+    "how_to_order": "Look for 'fanesca' on restaurant menus during Holy Week.",
     "typical_price": null,
     "currency": "USD",
     "diet": "nonveg",
@@ -80,7 +80,10 @@
     "spice": 0,
     "allergens": [
       "fish",
-      "dairy"
+      "dairy",
+      "egg",
+      "gluten",
+      "peanuts"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fanesca",
@@ -166,13 +169,11 @@
     "how_to_order": "Ask for 'helado de paila' at ice cream shops in Ibarra.",
     "typical_price": null,
     "currency": "USD",
-    "diet": "egg",
+    "diet": "veg",
     "jain": false,
-    "vegan": false,
+    "vegan": true,
     "spice": 0,
-    "allergens": [
-      "egg"
-    ],
+    "allergens": [],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Helado_de_paila",
     "source_urls": [
@@ -347,7 +348,8 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "gluten"
+      "gluten",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chugchucaras",
@@ -376,7 +378,9 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "gluten"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hornado",
     "source_urls": [
@@ -530,7 +534,9 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "dairy"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://es.wikipedia.org/wiki/Mote_pata",
     "source_urls": [
@@ -617,7 +623,9 @@
     "jain": false,
     "vegan": false,
     "spice": 1,
-    "allergens": [],
+    "allergens": [
+      "egg"
+    ],
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
@@ -796,7 +804,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "shellfish"
+      "shellfish",
+      "mustard"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://es.wikipedia.org/wiki/Ceviche_ecuatoriano",
@@ -913,7 +922,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "peanuts"
+      "peanuts",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Guatita",
@@ -931,7 +941,7 @@
     "country": "Ecuador",
     "state": "Guayaquil & Coast",
     "regions": [],
-    "description": "The Ecuadorian seco: goat meat stewed in an acidic sauce such as naranjilla, chicha or beer. Peru has its own seco de cabrito; seco de chivo is one of the commonly cited dishes of Ecuadorian cuisine.",
+    "description": "The Ecuadorian seco of goat: the meat is marinated in chicha de jora or, more often, beer and slow-cooked with spices and vegetables. It derives from northern Peru's seco de cabrito and is eaten mainly in Loja, Santa Elena, El Oro and Guayas.",
     "how_to_eat": "Eat with rice and fried ripe plantain.",
     "how_to_order": "Ask for 'seco de chivo' on lunch menus.",
     "typical_price": null,
@@ -940,7 +950,9 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "gluten"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Seco_(food)",
     "source_urls": [
@@ -992,7 +1004,7 @@
     "regions": [
       "Portoviejo"
     ],
-    "description": "A thick fish soup of Manabí made with ground peanuts, green plantain, yuca, corn, sweet plantain and other vegetables. It is also made with shrimp or crab and is a coastal Holy Week dish.",
+    "description": "A thick fish soup typical of Manabí and served across the coast, made with a peanut-and-milk broth, yuca, sweet plantain, corn and spices. A shrimp version (viche de camarón) also exists.",
     "how_to_eat": "Eat hot with lime and optional hot sauce.",
     "how_to_order": "Ask for 'viche de pescado' in Portoviejo.",
     "typical_price": null,
@@ -1003,7 +1015,8 @@
     "spice": 0,
     "allergens": [
       "fish",
-      "peanuts"
+      "peanuts",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
@@ -1153,7 +1166,8 @@
     "spice": 0,
     "allergens": [
       "fish",
-      "shellfish"
+      "shellfish",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://es.wikipedia.org/wiki/Encocado",
@@ -1174,7 +1188,7 @@
     "regions": [
       "Esmeraldas"
     ],
-    "description": "An Afro-Esmeraldas stew of green plantain slow-cooked with smoked chicken, smoked pork and chorizo in an achiote sofrito with chillangua, oregano and chirarán. 'Tapao' refers to cooking it covered.",
+    "description": "An Afro-Esmeraldas stew of green plantain slow-cooked with smoked chicken, smoked pork and smoked chorizo in an achiote sofrito with chillangua, oregano and chirarán.",
     "how_to_eat": "Eat hot as a hearty lunch.",
     "how_to_order": "Ask for 'tapao' in Esmeraldas.",
     "typical_price": null,
@@ -1187,8 +1201,7 @@
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
-      "https://www.extra.ec/noticia/ecuador/esmeraldas-logra-record-guinness-con-el-tapao-arrecho-mas-grande-del-mundo-140142.html",
-      "https://ecuador.travel/en/what-to-eat"
+      "https://www.extra.ec/noticia/ecuador/esmeraldas-logra-record-guinness-con-el-tapao-arrecho-mas-grande-del-mundo-140142.html"
     ]
   },
   {
@@ -1203,7 +1216,7 @@
       "Esmeraldas",
       "Atacames"
     ],
-    "description": "A sweet of grated coconut cooked with melted sugar or panela, cinnamon, anise and cloves, stirred for about 45 minutes over a wood fire. About 120 families in Esmeraldas make it by hand.",
+    "description": "A sweet of grated coconut cooked with melted sugar, cinnamon, anise and cloves, stirred for about 45 minutes over a wood fire. About 120 families in Esmeraldas make it by hand.",
     "how_to_eat": "Eat as a sweet snack.",
     "how_to_order": "Buy from cocada makers in Esmeraldas city or vendors in Atacames.",
     "typical_price": null,
@@ -1319,7 +1332,7 @@
     "regions": [
       "Sarayaku"
     ],
-    "description": "A fermented drink of cooked yuca chewed and mashed into a dough by women, then stored in clay pots. It is shared daily, at mingas (collective work) and at festivals; Sarayaku also makes versions from chonta palm fruit, peanut and corn.",
+    "description": "A fermented drink of cooked yuca chewed and mashed into a dough by women, then stored in clay pots. It is shared daily, at mingas (collective work) and at festivals; Sarayaku also makes versions from chonta palm fruit, peanut, corn and ungurahua.",
     "how_to_eat": "Drink from a shared bowl when offered.",
     "how_to_order": "Offered in Amazon Kichwa communities; ask for 'chicha' or 'chicha de chonta'.",
     "typical_price": null,
@@ -1333,8 +1346,7 @@
     "wikipedia_url": null,
     "source_urls": [
       "https://sarayaku.org/en/aswa-chicha/",
-      "https://thinkgalapagos.com/a-culinary-journey-through-ecuador-and-the-galapagos/",
-      "https://ecuador.travel/en/what-to-eat"
+      "https://thinkgalapagos.com/a-culinary-journey-through-ecuador-and-the-galapagos/"
     ]
   },
   {
@@ -1352,7 +1364,7 @@
     ],
     "description": "Ceviche of canchalagua, an endemic Galápagos chiton (mollusc) with an octopus-like texture, cured in lime with onion, tomato and cilantro. It is only gathered at night at low tide around the full moon.",
     "how_to_eat": "Eat chilled as a starter.",
-    "how_to_order": "Ask at Puerto Ayora cevicherías; availability depends on the lunar tide.",
+    "how_to_order": "Ask at traditional cevicherías in the islands; availability depends on the lunar tide.",
     "typical_price": null,
     "currency": "USD",
     "diet": "nonveg",
@@ -1410,7 +1422,7 @@
       "Puerto Ayora"
     ],
     "description": "Local spiny and slipper lobster, most traditionally grilled, also served in coconut-seafood sauce or soup. It can only be sold during the authorised fishing season, announced each year.",
-    "how_to_eat": "Eat grilled with garlic butter.",
+    "how_to_eat": "Eat grilled, the most traditional way, or in coconut-seafood sauce.",
     "how_to_order": "Ask for 'langosta' in season at Puerto Ayora restaurants and kiosks.",
     "typical_price": null,
     "currency": "USD",

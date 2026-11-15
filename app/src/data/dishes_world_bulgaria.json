@@ -169,7 +169,7 @@
     "wikipedia_url": "https://bg.wikipedia.org/wiki/Кисело_мляко",
     "source_urls": [
       "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/18941?lang=EN",
-      "https://publications.europa.eu/resource/celex/52023XC0405(02)",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023XC0405(02)",
       "https://en.wikipedia.org/wiki/Bulgarian_cuisine"
     ]
   },
@@ -199,7 +199,7 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Sirene",
       "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/18940?lang=EN",
-      "https://publications.europa.eu/resource/celex/52023XC0413(04)"
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023XC0413(04)"
     ]
   },
   {
@@ -211,9 +211,9 @@
     "country": "Bulgaria",
     "state": "Sofia & West",
     "regions": [],
-    "description": "A vegetable relish based on red peppers and tomatoes, with carrots, aubergines, garlic, oil, sugar and salt in many recipes; it can be smooth or chunky, mild or hot. The name means 'spicy', and industrial production has spread it beyond the Balkans.",
+    "description": "A vegetable relish based on red peppers and tomatoes, with carrots, aubergines, garlic, oil, sugar, salt and sometimes walnuts; it can be smooth or chunky, mild or hot. The name means 'spicy', and industrial production has spread it beyond the Balkans.",
     "how_to_eat": "Spread it on bread and top it with white cheese, or use it as a dip for kebapche.",
-    "how_to_order": null,
+    "how_to_order": "Check the label for walnuts if you avoid nuts.",
     "typical_price": null,
     "currency": "EUR",
     "diet": "veg",
@@ -272,7 +272,7 @@
     "regions": [
       "Panagyurishte"
     ],
-    "description": "A pressed raw-cured salami of 60% beef (or buffalo) and 40% pork, seasoned only with black or white pepper and cumin and dried in a natural or artificial casing; the cut surface is red to brownish red and dotted with small pieces of fat. Its recipe has been fixed since a 1983 standard, and the name is an EU Traditional Speciality Guaranteed.",
+    "description": "A pressed raw-cured salami of 60% beef (or buffalo) and 40% pork, seasoned with black or white pepper and cumin and stuffed into a natural or artificial casing; the cut surface is red to brownish red and dotted with small pieces of fat. Its recipe has been fixed since a 1958 Bulgarian state standard, and the name is an EU Traditional Speciality Guaranteed.",
     "how_to_eat": "Slice it thinly and serve it cold as an appetizer.",
     "how_to_order": null,
     "typical_price": null,
@@ -286,7 +286,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lukanka",
     "source_urls": [
       "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/14287?lang=EN",
-      "https://publications.europa.eu/resource/celex/52014XC0328(02)",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52014XC0328(02)",
       "https://en.wikipedia.org/wiki/Lukanka"
     ]
   },
@@ -301,9 +301,9 @@
     "regions": [
       "Panagyurishte"
     ],
-    "description": "Poached eggs served over crumbled sirene and covered with a sauce of yogurt and garlic, with parsley and sometimes walnuts. It is a popular way of serving sirene.",
+    "description": "Poached eggs served on whipped yogurt, often with crumbled sirene, and topped with melted butter coloured with paprika; some versions add garlic, parsley and walnuts. In Panagyurishte itself the eggs are traditionally topped with melted pork lard instead of butter.",
     "how_to_eat": null,
-    "how_to_order": null,
+    "how_to_order": "Ask whether butter or lard is used if you avoid meat.",
     "typical_price": null,
     "currency": "EUR",
     "diet": "egg",
@@ -348,7 +348,7 @@
     "wikipedia_url": null,
     "source_urls": [
       "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/16956?lang=EN",
-      "https://publications.europa.eu/resource/celex/52014XC0314(02)"
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52014XC0314(02)"
     ]
   },
   {
@@ -389,7 +389,7 @@
     "country": "Bulgaria",
     "state": "Plovdiv & Thrace",
     "regions": [],
-    "description": "Rice filling, with or without minced meat, onion and spices, rolled in vine leaves or fresh or pickled cabbage leaves and simmered until the rice is soft. Stuffed cabbage and vine leaves are very popular in Thrace, where Visit Europe names stanimashki sarmi (vine-leaf rolls) as a local dish; on Christmas Eve the meatless version is traditional.",
+    "description": "Rice filling, with or without minced meat, onion and spices, rolled in vine leaves or fresh or pickled cabbage leaves and simmered until the rice is soft, often served topped with yogurt. Stuffed cabbage and vine leaves are very popular in Thrace, where Visit Europe names stanimashki sarmi (vine-leaf rolls) as a local dish; on Christmas Eve the meatless version is traditional.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -398,7 +398,9 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "dairy"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://bg.wikipedia.org/wiki/Сарми",
     "source_urls": [
@@ -442,23 +444,26 @@
     "id": "bulgaria-patatnik",
     "name": "Patatnik (Rhodope potato pie)",
     "local_name": "Пататник",
-    "pronunciation": null,
+    "pronunciation": "pah-TAHT-neek",
     "category": "meal",
     "country": "Bulgaria",
     "state": "Rhodopes",
     "regions": [
       "Smolyan"
     ],
-    "description": "Grated potatoes, onions, salt and a mild local mint (gyosum) mixed and cooked slowly, either as one mass or between two sheets of the potato mixture, and flipped when the bottom is done. It is traditional across the Rhodopes from Bansko to Chernichevo; the name comes from the local dialect word 'patato' (potato), and adding cheese or eggs is a non-traditional variation.",
+    "description": "Grated potatoes, onions, salt and a mild local mint (gyosum) mixed and cooked slowly, either as one mass or between two sheets of the potato mixture, and flipped when the bottom is done. It is traditional across the Rhodopes from Bansko to Chernichevo; the name comes from the local dialect word 'patato' (potato). Restaurants often add sirene or eggs, though this is not traditional.",
     "how_to_eat": "Eat it sliced like a pie, with a spoonful of yogurt if you like.",
-    "how_to_order": "Look for it in Smolyan and the villages around Shiroka Laka.",
+    "how_to_order": "Ask whether cheese or eggs are added if you want the traditional potato-only version. Look for it in Smolyan and the villages around Shiroka Laka.",
     "typical_price": null,
     "currency": "EUR",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
-    "vegan": true,
+    "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "egg",
+      "dairy"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Patatnik",
     "source_urls": [
@@ -471,7 +476,7 @@
     "id": "bulgaria-rodopski-klin",
     "name": "Rodopski klin (Rhodope rice pie)",
     "local_name": "Родопски клин",
-    "pronunciation": null,
+    "pronunciation": "KLEEN",
     "category": "meal",
     "country": "Bulgaria",
     "state": "Rhodopes",
@@ -608,7 +613,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "fish"
+      "fish",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
@@ -719,7 +725,7 @@
     "regions": [
       "Burgas"
     ],
-    "description": "Rakia distilled from Muscat grape wine, registered as an EU geographical indication for spirit drinks under the name 'Bourgaska Muscatova rakya / Muscatova rakya from Bourgas'. Rakia is the Balkan fruit brandy, normally 40% ABV, and grape (grozdova) rakia is one of the two most common Bulgarian types.",
+    "description": "Muscat rakia from Burgas, registered as an EU geographical indication for spirit drinks under the name 'Bourgaska Muscatova rakya / Muscatova rakya from Bourgas'. Rakia is the Balkan fruit brandy, normally 40% ABV, and in Bulgaria it is made mainly from grapes or plums.",
     "how_to_eat": "Drink it with the starter salad, the usual way rakia is served.",
     "how_to_order": null,
     "typical_price": null,
@@ -762,7 +768,7 @@
     "wikipedia_url": null,
     "source_urls": [
       "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/13948?lang=EN",
-      "https://publications.europa.eu/resource/celex/52010XC0326(02)",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52010XC0326(02)",
       "https://bg.wikipedia.org/wiki/Суджук",
       "https://visitbulgaria.com/about-bulgaria/traditional-cuisine/"
     ]
@@ -792,7 +798,7 @@
     "wikipedia_url": null,
     "source_urls": [
       "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/18800?lang=EN",
-      "https://publications.europa.eu/resource/celex/52022XC1201(06)"
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022XC1201(06)"
     ]
   },
   {
@@ -820,7 +826,7 @@
     "wikipedia_url": null,
     "source_urls": [
       "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/14286?lang=EN",
-      "https://publications.europa.eu/resource/celex/52014XC0308(01)",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52014XC0308(01)",
       "https://visiteurope.com/experiences/bulgarias-famous-flavors"
     ]
   },
@@ -878,7 +884,7 @@
     "wikipedia_url": null,
     "source_urls": [
       "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/gi-applications/id/18198?lang=EN",
-      "https://publications.europa.eu/resource/celex/52022XC0906(03)"
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022XC0906(03)"
     ]
   },
   {
@@ -892,7 +898,7 @@
     "regions": [
       "Troyan"
     ],
-    "description": "Plum rakia from the area of Troyan and Teteven, registered as an EU geographical indication for spirit drinks. Plum and grape are the two most common types of Bulgarian rakia, a fruit brandy normally bottled at 40% ABV.",
+    "description": "Plum rakia from Troyan, registered as an EU geographical indication for spirit drinks; Visit Bulgaria names the Troyan and Teteven area for plum rakia. Rakia is the Balkan fruit brandy, normally 40% ABV, and in Bulgaria it is made mainly from grapes or plums.",
     "how_to_eat": "Drink it with the starter salad, the usual Bulgarian way to serve rakia.",
     "how_to_order": null,
     "typical_price": null,

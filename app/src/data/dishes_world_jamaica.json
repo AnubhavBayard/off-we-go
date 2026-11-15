@@ -3,7 +3,7 @@
     "id": "jamaica-ackee-and-saltfish",
     "name": "Ackee and saltfish",
     "local_name": null,
-    "pronunciation": "AK-ee",
+    "pronunciation": null,
     "category": "meal",
     "country": "Jamaica",
     "state": "Kingston & St Andrew",
@@ -122,7 +122,7 @@
     "state": "Kingston & St Andrew",
     "regions": [],
     "description": "A dense, soft, slightly sweet white loaf of flour, water, yeast, salt and sugar, brushed with sugared water for a glossy crust. Chinese indentured labourers brought the recipe in the mid-1800s, and Chinese Jamaican bakeries still bake much of it; the word 'hard-dough' appears in the Daily Gleaner as early as 1911.",
-    "how_to_eat": "Thick slices are a standard side with jerk.",
+    "how_to_eat": "Eaten with butter, cheese or jam, broken into porridge, or in thick slices as a side with jerk.",
     "how_to_order": "Sold sliced or unsliced in rectangular loaves at bakeries and grocery shops.",
     "typical_price": null,
     "currency": "JMD",
@@ -206,7 +206,7 @@
     "country": "Jamaica",
     "state": "Kingston & St Andrew",
     "regions": [],
-    "description": "A spiced drink brewed from sorrel (hibiscus) with ginger, sometimes with rum added. It is a Christmas mainstay in Jamaica, with African roots; Chinese Jamaicans added ginger and five-spice to it.",
+    "description": "A spiced drink brewed from sorrel (hibiscus), sometimes with rum added. It is a Christmas mainstay in Jamaica with African and Chinese influences; Chinese Jamaicans added ginger and five-spice to it.",
     "how_to_eat": "Served at Christmas with fruitcake or sweet potato pudding.",
     "how_to_order": null,
     "typical_price": null,
@@ -261,7 +261,7 @@
     "country": "Jamaica",
     "state": "Kingston & St Andrew",
     "regions": [],
-    "description": "Rum distilled in Jamaica, where the British developed rum distillation for export in the colonial era. 'Jamaica Rum' was registered as a geographical indication on 1 December 2016, held by the Spirits Pool Association; every rum must pass analytical and sensory examination by a technical committee before it is approved to carry the name.",
+    "description": "Rum distilled in Jamaica. 'Jamaica Rum' was registered as a geographical indication on 1 December 2016, held by the Spirits Pool Association; every rum must pass analytical and sensory examination by the Jamaica Rum and Spirits Traders Association technical committee before it is approved to carry the name.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -290,16 +290,18 @@
       "Boston Bay",
       "Port Antonio"
     ],
-    "description": "Pork dry-rubbed or marinated with hot jerk spice built on allspice (pimento) and Scotch bonnet pepper, then slow-cooked over pimento wood. Jerking comes from the Taíno, and the Maroons kept the practice alive by hunting and jerking wild hogs; Visit Jamaica names Portland as where jerk began, and vendors at Boston Bay sell jerk pork, chicken and fish. The registered 'Jamaica Jerk' GI covers jerk seasonings and sauces, not the cooked meat.",
+    "description": "Pork dry-rubbed or marinated with hot jerk spice built on allspice (pimento) and Scotch bonnet pepper, then slow-cooked over pimento wood. Jerking comes from the Taíno, and the Maroons kept the practice alive by hunting and jerking wild hogs; Visit Jamaica names the parish of Portland as where jerk began and points to the Boston Jerk Centre in Boston Bay. The registered 'Jamaica Jerk' GI covers jerk seasonings and sauces, not the cooked meat.",
     "how_to_eat": "Eaten with festival or thick slices of hard dough bread.",
-    "how_to_order": "Buy from the jerk stands at Boston Bay near Port Antonio or from roadside jerk vendors.",
+    "how_to_order": "Buy from the Boston Jerk Centre at Boston Bay near Port Antonio or from roadside jerk vendors.",
     "typical_price": null,
     "currency": "JMD",
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 3,
-    "allergens": [],
+    "allergens": [
+      "soy"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jerk_(cooking)",
     "source_urls": [
@@ -341,7 +343,7 @@
     "id": "jamaica-escovitch-fish",
     "name": "Escovitch fish",
     "local_name": null,
-    "pronunciation": "ES-ko-vich",
+    "pronunciation": null,
     "category": "meal",
     "country": "Jamaica",
     "state": "Portland & the Blue Mountains",
@@ -518,7 +520,7 @@
     "id": "jamaica-bammy",
     "name": "Bammy",
     "local_name": null,
-    "pronunciation": "BAM-ee",
+    "pronunciation": null,
     "category": "snack",
     "country": "Jamaica",
     "state": "South Coast & Central Hills",
@@ -555,7 +557,7 @@
     "regions": [
       "Alligator Pond"
     ],
-    "description": "Fish steamed with okra and carrot, a common Jamaican fish dish. At Alligator Pond on the south coast, seafood spots let you pick a fish from the cooler and have it fried or steamed.",
+    "description": "Fish steamed with okra and carrot, a common Jamaican fish dish. At a seafood spot in Alligator Pond on the south coast you can pick a fish from the cooler and have it fried or steamed.",
     "how_to_eat": "Served with bammy or festival on the side.",
     "how_to_order": "Choose your fish and ask for it steamed.",
     "typical_price": null,
@@ -616,7 +618,7 @@
       "Albert Town",
       "Melrose Hill"
     ],
-    "description": "Roasted yam served with salted fish. South Trelawny is known for yellow yam: at the Trelawny Yam Festival in Albert Town on Easter Monday, yam is sold boiled, fried or roasted with pickled mackerel, salt fish, coconut run down or ackee and saltfish. Melrose Hill in Manchester is a stop for roasted yam, roasted sweet potato and salted fish.",
+    "description": "Roasted yam served with salted fish. South Trelawny grows over 40% of Jamaica's yam; at the Trelawny Yam Festival in Albert Town on Easter Monday, yam is sold boiled, fried or roasted with pickled mackerel, salt fish, coconut run down or ackee and saltfish. Melrose Hill in Manchester is a stop for roasted yam, roasted sweet potato and salted fish.",
     "how_to_eat": null,
     "how_to_order": "Buy from roadside roasters at Melrose Hill or at the Faith's Pen rest stop.",
     "typical_price": null,
@@ -686,7 +688,9 @@
     "jain": false,
     "vegan": false,
     "spice": 3,
-    "allergens": [],
+    "allergens": [
+      "soy"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jerk_(cooking)",
     "source_urls": [
@@ -766,7 +770,7 @@
     "regions": [
       "Ocho Rios"
     ],
-    "description": "Shrimp cooked in Jamaican curry powder, the Indo-Jamaican spice blend also used for goat, chicken, lobster and conch. Visit Jamaica lists it at seafood restaurants in Ocho Rios and with lobster in Port Antonio.",
+    "description": "Shrimp cooked in Jamaican curry powder, the Indo-Jamaican spice blend also used for goat, chicken, lobster and conch. Visit Jamaica lists it at seafood restaurants in Ocho Rios and as a side to spiny lobster in Port Antonio.",
     "how_to_eat": "Served with white rice.",
     "how_to_order": null,
     "typical_price": null,
@@ -797,7 +801,7 @@
     "regions": [
       "Negril"
     ],
-    "description": "Grilled spiny lobster. Visit Jamaica lists freshly grilled lobster among the seafood in Negril, and a seafood spot at Alligator Pond on the south coast is known for it.",
+    "description": "Grilled spiny lobster. Visit Jamaica lists freshly grilled lobster at a Negril beach bar, and at Little Ochie in Alligator Pond on the south coast.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
