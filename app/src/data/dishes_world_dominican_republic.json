@@ -9,7 +9,7 @@
     "state": "Santo Domingo & South Coast",
     "regions": [],
     "description": "The traditional Dominican daily lunch: white rice, stewed red beans and stewed beef, chicken or pork, often with a salad and sometimes tostones or avocado. The name means 'the Dominican flag'.",
-    "how_to_eat": "Eaten as the midday meal, with the beans spooned over the rice.",
+    "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
     "currency": "DOP",
@@ -45,7 +45,8 @@
     "spice": 0,
     "allergens": [
       "dairy",
-      "egg"
+      "egg",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mang%C3%BA",
@@ -77,8 +78,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sancocho",
     "source_urls": [
       "https://www.dominicancooking.com/sancocho",
-      "https://en.wikipedia.org/wiki/Dominican_Republic_cuisine",
-      "https://theculturetrip.com/caribbean/articles/a-brief-history-of-dominican-sancocho-a-7-meat-stew"
+      "https://en.wikipedia.org/wiki/Dominican_Republic_cuisine"
     ]
   },
   {
@@ -99,7 +99,10 @@
     "jain": false,
     "vegan": false,
     "spice": 1,
-    "allergens": [],
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Locrio",
     "source_urls": [
@@ -118,7 +121,7 @@
     "regions": [
       "Villa Mella"
     ],
-    "description": "Fried pork belly with skin, cooked for about two hours in a lard-greased pot with a little water, sour orange and salt until it fries in its own fat, then squeezed with more sour orange. Villa Mella in Santo Domingo Norte is known as the capital of chicharrón, and it remains the area's most demanded food.",
+    "description": "Fried pork belly with skin, cooked for about two hours in a lard-greased pot with a little water, sour orange and salt until it fries in its own fat, then squeezed with more sour orange. Chicharrón is the signature food of Villa Mella in Santo Domingo Norte and its most demanded dish.",
     "how_to_eat": "Served with casabe, yuca, fried sweet potato or guineíto, often with a cold beer.",
     "how_to_order": null,
     "typical_price": null,
@@ -204,7 +207,7 @@
     "country": "Dominican Republic",
     "state": "Santo Domingo & South Coast",
     "regions": [],
-    "description": "A sweet, liquid dessert of red beans boiled with cinnamon and cloves, then cooked with evaporated, condensed and coconut milk, sugar, sweet potato, raisins and butter. It is especially popular around Lent and Easter.",
+    "description": "A sweet, liquid dessert of red beans boiled with cinnamon and cloves, blended, then cooked with coconut milk, evaporated milk, sugar, sweet potato chunks and raisins. It is especially popular around Lent and Easter.",
     "how_to_eat": "Served cool, garnished with milk cookies or casabe.",
     "how_to_order": null,
     "typical_price": null,
@@ -322,7 +325,7 @@
     "how_to_order": "Sold at the fish shacks on Boca Chica and other south-east beaches.",
     "typical_price": "30-50",
     "currency": "DOP",
-    "diet": "veg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -381,7 +384,7 @@
       "San Pedro de Macorís"
     ],
     "description": "A rum liqueur made with guavaberry (arrayán) fruit, cinnamon, cloves, allspice and sugar, a Cocolo tradition of San Pedro de Macorís. The fruit is harvested around November, so it is made and drunk at Christmas.",
-    "how_to_eat": "Served chilled, in small glasses.",
+    "how_to_eat": "Served chilled.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "DOP",
@@ -451,7 +454,8 @@
     "spice": 0,
     "allergens": [
       "dairy",
-      "egg"
+      "egg",
+      "mustard"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yaroa",
@@ -529,7 +533,7 @@
       "Monción",
       "Santiago Rodríguez"
     ],
-    "description": "A thin, crisp flatbread of bitter cassava, a Taíno staple and one of the country's oldest foods. Monción in Santiago Rodríguez province is known as the 'capital of casabe', and the traditional making of casabe is inscribed on UNESCO's intangible heritage list.",
+    "description": "A thin, crisp flatbread of bitter cassava, a Taíno staple and one of the country's oldest foods. Santiago Rodríguez province, which includes Monción, is considered the capital of casabe production, and the traditional making of casabe was inscribed on UNESCO's intangible heritage list in 2024.",
     "how_to_eat": "Eaten with soups and stews, spread with mambá (peanut butter), or with habichuelas con dulce.",
     "how_to_order": null,
     "typical_price": null,
@@ -544,7 +548,6 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Casabe",
       "https://www.dominicancooking.com/dominican-republic-food-regions",
-      "https://www.elcaribe.com.do/panorama/santiago-rodriguez-cuna-de-la-restauracion-y-el-casabe/",
       "https://presidencia.gob.do/noticias/unesco-reconoce-la-elaboracion-del-casabe-como-patrimonio-cultural-inmaterial-de-la"
     ]
   },
@@ -587,7 +590,7 @@
     "regions": [
       "Puerto Plata"
     ],
-    "description": "Dominican rum holds the Denominación de Origen 'Ron Dominicano', granted by ONAPI in 2021: it must be made from Dominican sugarcane and aged at least 12 months. Brugal, founded in Puerto Plata in 1888, distils in San Pedro de Macorís and ages its rum in Puerto Plata; with Barceló and Bermúdez it is one of the 'three B's'.",
+    "description": "Dominican rum holds the Denominación de Origen 'Ron Dominicano', granted by ONAPI in 2021: it must be made from Dominican sugarcane and aged at least 12 months. Brugal, founded in 1888 by Andrés Brugal, who settled in Puerto Plata in 1897, distils in San Pedro de Macorís and bottles in Puerto Plata; with Barceló and Bermúdez it is one of the 'three B's'.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -616,7 +619,7 @@
       "Samaná"
     ],
     "description": "Fish cooked in fresh coconut milk with annatto (bija), cilantro ancho, onion, garlic and oregano, the signature dish of the coconut-growing Samaná peninsula. It is now popular nationwide.",
-    "how_to_eat": "Served with white rice or moro de guandules con coco.",
+    "how_to_eat": "Traditionally served with moro de guandules.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "DOP",
@@ -632,7 +635,8 @@
     "source_urls": [
       "https://acento.com.do/cultura/pescado-con-coco-tradicion-con-un-sabor-unico-de-samana-8976281.html",
       "https://www.godominicanrepublic.com/things-to-do/samana-dining",
-      "https://www.dominicancooking.com/dominican-republic-food-regions"
+      "https://www.dominicancooking.com/dominican-republic-food-regions",
+      "https://www.diariolibre.com/gastroclub/sabores-cocolos-y-arabes-en-la-gastronomia-nacional-HM8259180"
     ]
   },
   {
@@ -644,7 +648,7 @@
     "country": "Dominican Republic",
     "state": "Samaná Peninsula",
     "regions": [],
-    "description": "Rice cooked with pigeon peas, sofrito and coconut milk, a Samaná-style version of moro de guandules. Recipes often use a chicken bouillon cube, and in recent decades it has joined the traditional Christmas table.",
+    "description": "Rice cooked with pigeon peas, sofrito and coconut milk, a Samaná-style version of moro de guandules. Some recipes use a bouillon cube, and in recent decades it has joined the traditional Christmas table.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -673,7 +677,7 @@
       "Playa Rincón"
     ],
     "description": "A thick, dense coconut bread of flour, coconut milk and coconut oil, raised only with baking powder, sold by street vendors in Samaná.",
-    "how_to_eat": "Eaten warm to soak up pescado or camarones con coco, or with hot chocolate at breakfast.",
+    "how_to_eat": "Served as a side to soak up sauces such as pescado con coco, or with hot chocolate.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "DOP",
@@ -792,7 +796,7 @@
     ],
     "description": "Dominican milk fudge, including dulce de leche cortada made with curdled milk; Paya near Baní is called the 'capital of sweets' for its milk, coconut and cashew-fruit candies and held a national sweets festival in 2023.",
     "how_to_eat": null,
-    "how_to_order": "Buy from the dulcerías along the road through Paya and Baní.",
+    "how_to_order": null,
     "typical_price": null,
     "currency": "DOP",
     "diet": "veg",

@@ -8,9 +8,9 @@
     "country": "Serbia",
     "state": "Belgrade",
     "regions": [],
-    "description": "Small grilled rolls of minced meat; Serbian ćevapčići are made of beef, lamb, pork or a mixture. They are a national dish of Serbia, and the grill dishes of southern Serbia, ćevapi among them, were brought to Belgrade by migrants from Leskovac and became the city's best-selling fast food.",
+    "description": "Small grilled rolls of minced meat; Serbian ćevapčići are made of beef, lamb, pork or a mixture. They are a national dish of Serbia, and migrants from southern Serbia brought the Leskovac grill dishes, ćevapi among them, to Belgrade, where they became a widely sold prepared food.",
     "how_to_eat": "Eat five to ten pieces on a plate or stuffed into lepinja flatbread with chopped onion, kajmak and ajvar.",
-    "how_to_order": "Order by the number of pieces (five or ten) at a grill shop (ćevabdžinica).",
+    "how_to_order": "Order by the number of pieces, usually five to ten, at a grill shop (ćevabdžinica).",
     "typical_price": null,
     "currency": "RSD",
     "diet": "nonveg",
@@ -36,7 +36,7 @@
     "regions": [],
     "description": "A rolled veal, pork or chicken steak stuffed with kajmak, breaded and fried. It was created in 1956 or 1957 by chef Mića Stojanović at a restaurant in Belgrade's Košutnjak as an improvisation on chicken Kiev, and is named after the Serbian revolutionary Karađorđe.",
     "how_to_eat": "It comes with tartar sauce and a slice of lemon, sometimes with fries or steamed vegetables.",
-    "how_to_order": "Ask for 'Karađorđeva šnicla' in a kafana.",
+    "how_to_order": "Ask for 'Karađorđeva šnicla' in a restaurant.",
     "typical_price": null,
     "currency": "RSD",
     "diet": "nonveg",
@@ -90,7 +90,7 @@
     "country": "Serbia",
     "state": "Belgrade",
     "regions": [],
-    "description": "Rolls of sour (pickled) cabbage leaves stuffed with ground pork or beef and rice. It is one of Serbia's national dishes and a fixture of feasts and celebrations; a meatless lenten version is rolled in vine leaves with rice fried on onion.",
+    "description": "Rolls of sour (fermented) cabbage leaves stuffed with ground pork or beef and rice; in spring and summer vine leaves replace the cabbage. It is one of Serbia's national dishes and is the first dish served at celebrations such as slavas; a meatless version is eaten during Lent and on Christmas Eve.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -101,8 +101,9 @@
     "spice": 0,
     "allergens": [],
     "gi_tag": false,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Sarma_(food)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stuffed_leaves",
     "source_urls": [
+      "https://en.wikipedia.org/wiki/Stuffed_leaves",
       "https://en.wikipedia.org/wiki/Serbian_cuisine",
       "https://sr.wikipedia.org/wiki/Сарма"
     ]
@@ -116,12 +117,12 @@
     "country": "Serbia",
     "state": "Belgrade",
     "regions": [],
-    "description": "A Serbian layered pie of filo sheets, usually filled with white cow's cheese, eggs and oil, with sheets slightly thicker than ordinary pita; crumpled sheets soaked in the filling give the gužvara version. It is a national dish, eaten for breakfast, and appears in Vuk Karadžić's 1818 Serbian dictionary.",
+    "description": "A Serbian layered pie of filo sheets, usually filled with white cow's cheese, eggs and oil (lard in older recipes), with sheets slightly thicker than ordinary pita; crumpled sheets soaked in the filling give the gužvara version. It is a national dish, eaten for breakfast and at Christmas, Easter and slava, and appears in Vuk Karadžić's 1818 Serbian dictionary.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
     "currency": "RSD",
-    "diet": "egg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -245,7 +246,8 @@
       "https://en.wikipedia.org/wiki/Kulen",
       "https://en.wikipedia.org/wiki/Serbian_cuisine",
       "https://www.euzatebe.rs/en/general-news/cabbage-and-40-protected-products",
-      "https://biznis.rs/biznis/oznaku-geografskog-porekla-nosi-79-domacih-proizvoda/"
+      "https://biznis.rs/biznis/oznaku-geografskog-porekla-nosi-79-domacih-proizvoda/",
+      "https://www.zis.gov.rs/prava/oznake-geografskog-porekla/statistika-elaborati-ogp/"
     ]
   },
   {
@@ -259,7 +261,7 @@
     "regions": [
       "Srem"
     ],
-    "description": "A slightly smoked, medium-ground sausage of beef and pork spiced with paprika, black pepper and salt, from the Srem area. It is listed among Serbia's products with protected geographical origin, and a Srem sausage festival is held in Šid each February.",
+    "description": "A slightly smoked, medium-ground sausage of beef and pork spiced with paprika, black pepper and salt, from the Srem area. 'Sremska domaća kobasica' is a registered Serbian geographical indication, and a Srem sausage festival is held in Šid each February.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -273,7 +275,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sremska_kobasica",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Sremska_kobasica",
-      "https://en.wikipedia.org/wiki/Serbian_cuisine"
+      "https://en.wikipedia.org/wiki/Serbian_cuisine",
+      "https://www.zis.gov.rs/prava/oznake-geografskog-porekla/statistika-elaborati-ogp/"
     ]
   },
   {
@@ -285,9 +288,9 @@
     "country": "Serbia",
     "state": "Vojvodina",
     "regions": [],
-    "description": "A paprika fish stew with Hungarian roots, made from carp (with optional pike, catfish or sterlet), onions, hot and sweet peppers and tomato. It is a cult dish of Vojvodina, especially along the upper Danube, cooked outdoors in a pot hung over an open fire and served at riverside fish restaurants (čarde).",
-    "how_to_eat": null,
-    "how_to_order": "Order it at a Danube čarda (riverside fish restaurant).",
+    "description": "A thick fish stew made only of fish, ground paprika, onion, tomato juice, salt and water, mostly with carp in the Upper Danube area where it originates. It is cooked in a kettle over an open willow-wood fire, shaken rather than stirred, and served with homemade noodles.",
+    "how_to_eat": "Eat it hot with homemade noodles.",
+    "how_to_order": null,
     "typical_price": null,
     "currency": "RSD",
     "diet": "nonveg",
@@ -295,24 +298,27 @@
     "vegan": false,
     "spice": 2,
     "allergens": [
-      "fish"
+      "fish",
+      "gluten",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
-      "https://link.springer.com/article/10.1186/s42779-021-00096-2"
+      "https://sr.wikipedia.org/wiki/Рибљи_паприкаш",
+      "https://en.wikipedia.org/wiki/Serbian_cuisine"
     ]
   },
   {
     "id": "serbia-rindflajs",
     "name": "Rindflajš",
-    "local_name": "Rindflajš",
+    "local_name": "Rinflajš",
     "pronunciation": null,
     "category": "meal",
     "country": "Serbia",
     "state": "Vojvodina",
     "regions": [],
-    "description": "Boiled beef with boiled vegetables (carrots, potatoes, parsnip, parsley root, celery), a dish whose name comes from German Rindfleisch. It is one of the five main dishes most often found on Vojvodina restaurant menus and is a course of the region's traditional Sunday lunch.",
+    "description": "A beef brisket slowly simmered in broth with carrots, peppers, parsnip, onion, parsley and cauliflower, served with the vegetables and mashed potatoes under a tomato sauce of flour, tomato juice, paprika and sugar. The name comes from German Rindfleisch ('beef'); it is a traditional Vojvodina dish usually made for Sunday lunch.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -321,11 +327,14 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rinflajš",
     "source_urls": [
-      "https://link.springer.com/article/10.1186/s42779-021-00096-2",
+      "https://en.wikipedia.org/wiki/Rinflajš",
       "https://www.serbia.travel/en/stories-items/the-delicacies-of-novi-sad"
     ]
   },
@@ -340,8 +349,8 @@
     "regions": [
       "Sremski Karlovci"
     ],
-    "description": "A sweet aromatised wine from Sremski Karlovci, usually 16-18% alcohol, made from red or white grapes of the Fruška Gora slopes with added herbs; recipes are kept by a few families. Bermet is a registered Serbian indication of geographical origin.",
-    "how_to_eat": "Sip it as a dessert wine.",
+    "description": "A sweet aromatised wine from Sremski Karlovci and the Srem wine area, usually 16-18% alcohol, made from red or white grapes of the Fruška Gora slopes layered with herbs such as wormwood, cinnamon and mustard seed; each family traditionally kept its own recipe. Bermet is a registered Serbian designation of origin.",
+    "how_to_eat": "Sip it as a dessert wine or aperitif.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "RSD",
@@ -349,13 +358,16 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "mustard"
+    ],
     "gi_tag": true,
     "wikipedia_url": null,
     "source_urls": [
       "https://sr.wikipedia.org/wiki/Бермет",
       "https://sr.wikipedia.org/wiki/Ознаке_географског_порекла_(Србија)",
-      "https://www.wipo.int/en/web/lisbon-system/w/news/2026/serbia-joins-the-geneva-act-of-the-lisbon-agreement"
+      "https://www.wipo.int/en/web/lisbon-system/w/news/2026/serbia-joins-the-geneva-act-of-the-lisbon-agreement",
+      "https://www.zis.gov.rs/prava/oznake-geografskog-porekla/statistika-elaborati-ogp/"
     ]
   },
   {
@@ -369,7 +381,7 @@
     "regions": [
       "Šumadija"
     ],
-    "description": "Šljivovica, plum rakija, is Serbia's national drink, and Šumadija in central Serbia is especially known for its plums and šljivovica. Šumadijska šljivovica is double-distilled from fermented plum mash and aged in sessile-oak barrels, and is registered with a Serbian geographical indication; Serbian šljivovica traditions were added to UNESCO's intangible heritage list.",
+    "description": "Šljivovica, plum rakija, is Serbia's national drink, and Serbian šljivovica was added to UNESCO's intangible heritage list in 2021. Šumadijska šljivovica is double-distilled from fermented plum mash grown in Šumadija and aged in sessile-oak barrels, and is protected with a Serbian geographical indication.",
     "how_to_eat": "Drink it chilled from a small shot glass (čokanjčić) as an aperitif.",
     "how_to_order": null,
     "typical_price": null,
@@ -384,7 +396,8 @@
     "source_urls": [
       "https://sr.wikipedia.org/wiki/Шумадијска_шљивовица",
       "https://en.wikipedia.org/wiki/Slivovitz",
-      "https://en.wikipedia.org/wiki/Rakia"
+      "https://en.wikipedia.org/wiki/Rakia",
+      "https://biznis.rs/vesti/sljivovica-dobila-pecat-da-je-iz-sumadije/"
     ]
   },
   {
@@ -399,7 +412,7 @@
       "Čačak"
     ],
     "description": "A thick clotted-cream dairy food made by slowly simmering milk and skimming the cream, often salted and ripened into 'old kajmak' with a texture between butter and cream cheese. Serbian food writers single out the area west of the Great Morava, especially around Čačak, for the best kajmak.",
-    "how_to_eat": "Eat it with bread or proja, or on top of pljeskavica and inside Karađorđe's schnitzel.",
+    "how_to_eat": "Eat it with bread (lepinja s kajmakom), on top of pljeskavica, or inside Karađorđe's schnitzel.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "RSD",
@@ -426,18 +439,16 @@
     "country": "Serbia",
     "state": "Šumadija & Central Serbia",
     "regions": [],
-    "description": "A cornbread of coarse cornmeal, salt and water, baked in a greased pan; the richer projara or projanica adds wheat flour and often cheese and čvarci. It is a national dish that sustained the Serbian army in World War I, and is usually eaten for breakfast.",
+    "description": "A cornbread of coarse cornmeal, salt and water (often with oil and baking powder), baked in a greased pan; the richer projara or projanica, a separate dish, adds wheat flour, cheese, eggs or čvarci. It is a national dish that was popular among Serbian soldiers in World War I, and is usually eaten for breakfast.",
     "how_to_eat": "Eat it with kajmak, ajvar or sour cream.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "RSD",
-    "diet": "nonveg",
-    "jain": false,
-    "vegan": false,
+    "diet": "veg",
+    "jain": true,
+    "vegan": true,
     "spice": 0,
-    "allergens": [
-      "gluten"
-    ],
+    "allergens": [],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Proja",
     "source_urls": [
@@ -509,8 +520,8 @@
       "Zlatibor",
       "Mačkat"
     ],
-    "description": "Smoked, air-dried beef or pork ham from the Užice and Zlatibor area, cured over a constant low fire in a smokehouse and with winter frost. The village of Mačkat is best known for it and holds a prosciutto festival (Pršutijada) in January; Užička pršuta carries Serbian protected designation of origin.",
-    "how_to_eat": "Eat it thinly sliced with kajmak and bread as a meze.",
+    "description": "Smoked, dried beef or pork ham from the Užice and Zlatibor area; beef and pork Užička pršuta are separately registered Serbian geographical indications. The Zlatibor village of Mačkat is best known for it and holds a prosciutto festival (Pršutijada) in January.",
+    "how_to_eat": "Eat it thinly sliced as part of a meze plate with cheese and rakija.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "RSD",
@@ -522,9 +533,10 @@
     "gi_tag": true,
     "wikipedia_url": null,
     "source_urls": [
-      "https://sr.wikipedia.org/wiki/Ужичка_пршута",
+      "https://sr.wikipedia.org/wiki/Златиборска_пршута",
       "https://en.wikipedia.org/wiki/Serbian_cuisine",
-      "https://www.euzatebe.rs/en/general-news/cabbage-and-40-protected-products"
+      "https://www.euzatebe.rs/en/general-news/cabbage-and-40-protected-products",
+      "https://www.zis.gov.rs/prava/oznake-geografskog-porekla/statistika-elaborati-ogp/"
     ]
   },
   {
@@ -586,7 +598,8 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Čvarci",
       "https://sr.wikipedia.org/wiki/Ознаке_географског_порекла_(Србија)",
-      "https://en.wikipedia.org/wiki/Serbian_cuisine"
+      "https://en.wikipedia.org/wiki/Serbian_cuisine",
+      "https://www.zis.gov.rs/prava/oznake-geografskog-porekla/statistika-elaborati-ogp/"
     ]
   },
   {
@@ -617,7 +630,8 @@
     "wikipedia_url": null,
     "source_urls": [
       "https://sr.wikipedia.org/wiki/Златарски_сир",
-      "https://www.euzatebe.rs/en/general-news/cabbage-and-40-protected-products"
+      "https://www.euzatebe.rs/en/general-news/cabbage-and-40-protected-products",
+      "https://www.zis.gov.rs/prava/oznake-geografskog-porekla/statistika-elaborati-ogp/"
     ]
   },
   {
@@ -647,9 +661,9 @@
     "gi_tag": true,
     "wikipedia_url": null,
     "source_urls": [
-      "https://sr.wikipedia.org/wiki/Сјенички_сир",
-      "https://sr.wikipedia.org/wiki/Заштита_традиционалних_производа_у_Србији",
-      "https://www.euzatebe.rs/en/general-news/cabbage-and-40-protected-products"
+      "https://sr.wikipedia.org/wiki/Сјенички_крављи_сир",
+      "https://sr.wikipedia.org/wiki/Сјенички_овчији_сир",
+      "https://www.zis.gov.rs/prava/oznake-geografskog-porekla/statistika-elaborati-ogp/"
     ]
   },
   {
@@ -663,7 +677,7 @@
     "regions": [
       "Leskovac"
     ],
-    "description": "A grilled patty of spiced minced meat; the Leskovac version is traditionally hot, made from mixed meat or pure beef with onion and chilli. Leskovac, the 'meat capital' with a grill festival every September, gave Serbia its grill tradition, and Leskovac grill meat for pljeskavica and ćevapčići has been a protected Serbian name since 2007.",
+    "description": "A grilled patty of spiced minced meat (usually pork, beef and lamb, sometimes with bread crumbs); the Leskovac version is very spicy, with onion. Leskovac, which holds the Roštiljijada grill festival every September, is synonymous with pljeskavica and ćevapi, and 'Leskovac grill meat for pljeskavica and ćevapčići' has been a registered Serbian designation of origin since 2007.",
     "how_to_eat": "Eat it on a plate with onion and kajmak, or in lepinja like a burger.",
     "how_to_order": null,
     "typical_price": null,
@@ -672,14 +686,17 @@
     "jain": false,
     "vegan": false,
     "spice": 2,
-    "allergens": [],
+    "allergens": [
+      "gluten"
+    ],
     "gi_tag": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pljeskavica",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Pljeskavica",
       "https://sr.wikipedia.org/wiki/Пљескавица",
       "https://sr.wikipedia.org/wiki/Ознаке_географског_порекла_(Србија)",
-      "https://en.wikipedia.org/wiki/Leskovac"
+      "https://en.wikipedia.org/wiki/Leskovac",
+      "https://www.zis.gov.rs/prava/oznake-geografskog-porekla/statistika-elaborati-ogp/"
     ]
   },
   {
@@ -709,7 +726,8 @@
       "https://en.wikipedia.org/wiki/Ajvar",
       "https://www.wipo.int/en/web/lisbon-system/w/news/2026/serbia-joins-the-geneva-act-of-the-lisbon-agreement",
       "https://biznis.rs/biznis/oznaku-geografskog-porekla-nosi-79-domacih-proizvoda/",
-      "https://www.euzatebe.rs/en/general-news/cabbage-and-40-protected-products"
+      "https://www.euzatebe.rs/en/general-news/cabbage-and-40-protected-products",
+      "https://www.zis.gov.rs/prava/oznake-geografskog-porekla/statistika-elaborati-ogp/"
     ]
   },
   {
@@ -781,8 +799,8 @@
       "Niš"
     ],
     "description": "A pastry of layered filo or yeast dough filled with cheese, minced meat or vegetables such as spinach. The modern round burek recipe is said to have been introduced in Niš in 1498 by a Turkish baker from Istanbul, and Niš holds an annual burek-making contest (Buregdžijada).",
-    "how_to_eat": "Eat it for breakfast with a glass of yogurt.",
-    "how_to_order": "Order it by weight or by the piece at a burek bakery (buregdžinica).",
+    "how_to_eat": "Eat it hot with a glass of yogurt.",
+    "how_to_order": "Order a portion, usually a quarter of a tray, at a bakery (pekara).",
     "typical_price": null,
     "currency": "RSD",
     "diet": "nonveg",
@@ -790,7 +808,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Börek",
@@ -808,10 +827,9 @@
     "country": "Serbia",
     "state": "Southern & Eastern Serbia",
     "regions": [
-      "Pirot",
-      "Stara Planina"
+      "Pirot"
     ],
-    "description": "A hard yellow cheese from the Stara Planina area of Pirot, traditionally of sheep's milk and made during the summer grazing season. Pirot cow's-milk kačkavalj ('Pirotski kačkavalj od kravljeg mleka') is among Serbia's cheeses with a geographical indication.",
+    "description": "A hard yellow cheese from the Pirot area. Pirot cow's-milk kačkavalj ('Pirotski kačkavalj od kravljeg mleka') has been protected as a Serbian geographical indication since 2013, and Pirot holds a cheese and kačkavalj festival in September.",
     "how_to_eat": "Eat it with Pirot peglana sausage and rakija.",
     "how_to_order": null,
     "typical_price": null,
@@ -826,9 +844,9 @@
     "gi_tag": true,
     "wikipedia_url": null,
     "source_urls": [
-      "https://sr.wikipedia.org/wiki/Заштита_традиционалних_производа_у_Србији",
+      "https://biznis.rs/vesti/na-festivalu-sira-i-kackavalja-u-pirotu-ucestvovalo-dvadesetak-izlagaca/",
       "https://www.euzatebe.rs/en/general-news/cabbage-and-40-protected-products",
-      "https://biznis.rs/vesti/na-festivalu-sira-i-kackavalja-u-pirotu-ucestvovalo-dvadesetak-izlagaca/"
+      "https://www.zis.gov.rs/prava/oznake-geografskog-porekla/statistika-elaborati-ogp/"
     ]
   },
   {
@@ -842,7 +860,7 @@
     "regions": [
       "Pirot"
     ],
-    "description": "A flat-pressed dry sausage from the Pirot area made without pork, from beef, mutton, goat or other meat from Stara Planina, with hot pepper, garlic, salt and herbs, stuffed into beef casing in a horseshoe shape and air-dried. It received a Serbian geographical indication from the Intellectual Property Office.",
+    "description": "A flat dry sausage from the Pirot area made without pork, from goat, beef and mutton with plenty of garlic and paprika, with no heat treatment or additives. It is dried in a draught and pressed ('ironed') with a bottle every day, which gives it its name, and it holds a Serbian geographical indication from the Intellectual Property Office.",
     "how_to_eat": "Eat it sliced with Pirot kačkavalj and rakija, or with nuts.",
     "how_to_order": null,
     "typical_price": null,
@@ -850,13 +868,14 @@
     "diet": "nonveg",
     "jain": false,
     "vegan": false,
-    "spice": 2,
+    "spice": 1,
     "allergens": [],
     "gi_tag": true,
     "wikipedia_url": null,
     "source_urls": [
       "https://sr.wikipedia.org/wiki/Пеглана_кобасица",
-      "https://www.agronews.rs/zasticeno-geografsko-poreklo-pirotske-peglane-kobasice/"
+      "https://www.agronews.rs/zasticeno-geografsko-poreklo-pirotske-peglane-kobasice/",
+      "https://www.zis.gov.rs/prava/oznake-geografskog-porekla/statistika-elaborati-ogp/"
     ]
   },
   {
@@ -889,7 +908,8 @@
     "wikipedia_url": null,
     "source_urls": [
       "https://sr.wikipedia.org/wiki/Белмуж",
-      "https://sr.wikipedia.org/wiki/Ознаке_географског_порекла_(Србија)"
+      "https://sr.wikipedia.org/wiki/Ознаке_географског_порекла_(Србија)",
+      "https://www.zis.gov.rs/prava/oznake-geografskog-porekla/statistika-elaborati-ogp/"
     ]
   }
 ]

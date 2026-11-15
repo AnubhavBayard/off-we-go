@@ -12,7 +12,7 @@
     ],
     "description": "Chips (French fries) fried in a pan with beaten eggs until they set into a thick omelette, sometimes with onion and bell pepper. It was invented on the streets of Dar es Salaam in the 1980s and is often called Tanzania's unofficial national dish. Also known as zege.",
     "how_to_eat": "Eat it hot with kachumbari salad and pili pili hot sauce, or with tomato sauce and mayonnaise.",
-    "how_to_order": "Made to order at street stalls and small eateries in every town, from early morning to late night.",
+    "how_to_order": "Made to order at street stalls; several sellers work at Forodhani Gardens in Stone Town.",
     "typical_price": null,
     "currency": "TZS",
     "diet": "egg",
@@ -42,7 +42,7 @@
     "regions": [
       "Dar es Salaam"
     ],
-    "description": "Ugali served with dagaa, small sardine-like fish that are sun-dried or smoked and cooked with onion, tomato, lime and chilli. Freshwater dagaa come from Lakes Victoria, Tanganyika and Nyasa; in Dar es Salaam the Indian Ocean dagaa mchele are usually fried. Dagaa is a cheap, everyday protein across eastern Africa.",
+    "description": "Ugali served with dagaa, small sardine-like fish that are sun-dried and cooked with onion, tomato, lime and chilli. Freshwater dagaa come from Lakes Victoria, Tanganyika and Nyasa; in Dar es Salaam the Indian Ocean dagaa mchele are usually fried rather than stewed.",
     "how_to_eat": "Pinch off ugali and use it to scoop up the dagaa.",
     "how_to_order": "Ask for ugali dagaa at local eateries; in Dar es Salaam ask whether the dagaa is fried or stewed.",
     "typical_price": null,
@@ -70,16 +70,18 @@
     "country": "Tanzania",
     "state": "Dar es Salaam & Coast",
     "regions": [],
-    "description": "Rice and beans, an everyday Tanzanian meal; older recipes cook them together, while modern versions serve the beans separately in a spiced, often coconut-milk stew. It is commonly eaten for dinner and is also made for holidays, weddings and funerals.",
+    "description": "Rice and beans, an everyday Tanzanian meal. The beans (kidney or soy) are often stewed with onion, tomato, spices and coconut milk and served with greens such as mchicha. It is also made for holidays, weddings, religious festivals and funerals.",
     "how_to_eat": "Eat with a spoon, often with greens such as mchicha on the side.",
-    "how_to_order": "Found at local eateries and mama ntilie (street food) stalls; ask for maharage ya nazi for the coconut-bean version.",
+    "how_to_order": "Found at local eateries; ask for maharage ya nazi for the coconut-bean version.",
     "typical_price": null,
     "currency": "TZS",
     "diet": "veg",
     "jain": false,
     "vegan": true,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "soy"
+    ],
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
@@ -94,9 +96,9 @@
     "pronunciation": null,
     "category": "meal",
     "country": "Tanzania",
-    "state": "Dar es Salaam & Coast",
+    "state": "Zanzibar & Pemba",
     "regions": [],
-    "description": "Pounded cassava leaves simmered for hours, then cooked with onion, garlic, ginger, chilli and coconut milk into a thick, creamy stew. A common home dish on the coast and mainland, usually served with ugali or rice.",
+    "description": "Cassava leaves pounded with garlic, onion, ginger and chilli, simmered for hours, then finished with coconut milk into a thick stew. A daily staple in Zanzibari households, usually served with ugali or rice.",
     "how_to_eat": "Eat with ugali (ugali kisamvu) or rice.",
     "how_to_order": "Usually served as a side at local eateries; ask whether any meat or stock is added if vegetarian.",
     "typical_price": null,
@@ -123,9 +125,9 @@
     "country": "Tanzania",
     "state": "Dar es Salaam & Coast",
     "regions": [],
-    "description": "Small, puffy pancakes of fermented rice-flour batter with coconut milk and cardamom, cooked in a special pan with round moulds. They are a popular breakfast and street snack, especially on the coast.",
-    "how_to_eat": "Eat warm with tea in the morning.",
-    "how_to_order": "Sold by street vendors in the morning, a few pieces at a time.",
+    "description": "Small, slightly sweet pancakes of lightly fermented rice-flour batter with coconut milk and cardamom, cooked in a special pan with round moulds. A common Tanzanian snack.",
+    "how_to_eat": "Eat warm as a snack.",
+    "how_to_order": "Sold by street vendors, several pieces at a time.",
     "typical_price": null,
     "currency": "TZS",
     "diet": "veg",
@@ -180,9 +182,9 @@
     "country": "Tanzania",
     "state": "Dar es Salaam & Coast",
     "regions": [],
-    "description": "A clear broth of meat (beef, tripe, chicken or goat) simmered for hours with potatoes, green bananas, carrots, onion, peppers and chilli, finished with lime. The name means \"boiled\"; it is eaten at any time of day and is a popular hangover cure.",
-    "how_to_eat": "Drink the broth and eat the meat and vegetables, often with bread or chapati.",
-    "how_to_order": "Ask for mchemsho wa nyama (beef) or wa kuku (chicken) at local eateries.",
+    "description": "A clear broth of meat (beef, tripe, chicken or goat) boiled with potatoes, green bananas, carrots, onion, peppers and chilli, finished with lime. Mchemsho is a family of boiled dishes; it is eaten at any time of day and is a popular hangover cure.",
+    "how_to_eat": "Drink the broth and eat the meat and vegetables.",
+    "how_to_order": "Ask for mchemsho at local eateries and say which meat you want.",
     "typical_price": null,
     "currency": "TZS",
     "diet": "nonveg",
@@ -205,11 +207,9 @@
     "category": "drink",
     "country": "Tanzania",
     "state": "Dar es Salaam & Coast",
-    "regions": [
-      "Dar es Salaam"
-    ],
-    "description": "A clear Tanzanian spirit (35% ABV) with a citrus-led proprietary flavour, made since 1970 by Tanzania Distilleries in Dar es Salaam. It is marketed as \"The Spirit of the Nation\" and drunk across Tanzania and beyond.",
-    "how_to_eat": "Drink it with tonic or a soft drink.",
+    "regions": [],
+    "description": "A clear Tanzanian spirit (35% ABV) with citrus notes from a proprietary flavour blend, first distilled in 1970 and made by Tanzania Distilleries, part of Tanzania Breweries. It is marketed as \"The Spirit of the Nation\".",
+    "how_to_eat": null,
     "how_to_order": "Sold in bars and shops in 750, 500 and 200 ml bottles.",
     "typical_price": null,
     "currency": "TZS",
@@ -236,8 +236,8 @@
     "regions": [
       "Stone Town"
     ],
-    "description": "A thin dough folded into a square parcel around minced beef or chicken, onion, peppers, egg, soft cheese and mayonnaise, then fried on a griddle; it is closer to a murtabak than an Italian pizza. Sweet versions are filled with banana, mango or chocolate. It is the signature dish of Stone Town's Forodhani night market.",
-    "how_to_eat": "Eat it hot off the griddle with chilli or mango-chilli sauce.",
+    "description": "A thin dough folded into a square parcel around minced beef or chicken, onion, peppers, egg, soft cheese and mayonnaise, then fried on a griddle; it is closer to a murtabak than an Italian pizza. It is a staple of the stalls at Stone Town's Forodhani Gardens night market.",
+    "how_to_eat": "Eat it hot off the griddle with chilli sauce.",
     "how_to_order": "Choose your filling at the stalls in Forodhani Gardens, which set up around sunset.",
     "typical_price": "3000-5000",
     "currency": "TZS",
@@ -270,7 +270,7 @@
     "regions": [
       "Stone Town"
     ],
-    "description": "A tangy, turmeric-yellow soup thickened with flour and soured with mango or tamarind, ladled over toppings such as bhajia fritters, potatoes, cassava crisps, boiled egg and small meat skewers, then finished with coconut chutney and chilli. It is unique to Zanzibar and also sold in Dar es Salaam.",
+    "description": "A tangy, turmeric-yellow soup thickened with flour and soured with mango or tamarind, ladled over toppings such as bhajia fritters, potato balls, cassava crisps, chickpeas, boiled egg and small beef skewers, then finished with coconut chutney and chilli. Sold at Zanzibar street stands and Forodhani night market, and also in Dar es Salaam.",
     "how_to_eat": "Eat with a spoon, mixing the toppings into the soup as you go.",
     "how_to_order": "Ask for urojo or \"Zanzibar mix\" at Forodhani Gardens or street stands in Stone Town; say if you want it without meat.",
     "typical_price": null,
@@ -280,7 +280,8 @@
     "vegan": false,
     "spice": 2,
     "allergens": [
-      "egg"
+      "egg",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
@@ -300,7 +301,7 @@
     "country": "Tanzania",
     "state": "Zanzibar & Pemba",
     "regions": [],
-    "description": "A Zanzibari rice bread: soaked, ground rice (or rice flour) mixed with coconut milk, sugar, cardamom, egg and yeast, left to rise and baked into a soft, slightly sweet round cake. Also called mkate wa sinia.",
+    "description": "A Zanzibari rice bread: soaked, ground rice (or rice flour) mixed with coconut milk, sugar, cardamom, egg and yeast, left to rise and baked into a soft, slightly sweet round cake. A similar Swahili rice bread is called mkate wa sinia.",
     "how_to_eat": "Eat a slice as an afternoon snack with black tea or chai.",
     "how_to_order": null,
     "typical_price": null,
@@ -328,7 +329,7 @@
     "country": "Tanzania",
     "state": "Zanzibar & Pemba",
     "regions": [],
-    "description": "Octopus simmered in coconut milk with garlic, onion, tomato, turmeric and lime. Octopus is caught by spear-fishers wading out on the reef, and is also sold grilled on skewers in Stone Town.",
+    "description": "Octopus slowly cooked until tender, then simmered in coconut milk with garlic, lime and spices such as curry, cardamom and cinnamon. Octopus is caught by spear-fishers, and is also sold grilled on skewers (mishkaki) in Stone Town.",
     "how_to_eat": "Eat with rice or chapati.",
     "how_to_order": "Order at Zanzibar restaurants; Intrepid warns that pre-cooked octopus skewers at night stalls can be risky when reheated.",
     "typical_price": null,
@@ -387,7 +388,7 @@
     "regions": [
       "Stone Town"
     ],
-    "description": "Strong black Arabic-style coffee, unsweetened and flavoured with ginger or cardamom, poured from brass pots into small handleless cups. Stone Town's Jaws Corner is the classic place where men gather over it to talk and play dominoes.",
+    "description": "Strong black Arabic-style coffee, unsweetened and flavoured with ginger or cardamom, sold by vendors with brass pots in small cups. Stone Town's Jaws Corner is the classic place where men gather over it in the morning to talk.",
     "how_to_eat": "Sip it quickly and alternate with bites of sweet peanut brittle.",
     "how_to_order": "Buy a cup from street coffee sellers, especially at Jaws Corner in Stone Town.",
     "typical_price": null,
@@ -416,7 +417,7 @@
     "regions": [
       "Stone Town"
     ],
-    "description": "Fresh juice pressed from sugarcane to order, sometimes with ginger or lime. It is a cheap staple of the Forodhani night market and roadside stalls.",
+    "description": "Fresh juice pressed from sugarcane to order, sometimes with ginger or lime. It is sold cheaply from carts and roadside stalls in Stone Town.",
     "how_to_eat": null,
     "how_to_order": "Ask the vendor to add ginger or lime when they press it.",
     "typical_price": null,
@@ -443,9 +444,9 @@
     "country": "Tanzania",
     "state": "Arusha & Kilimanjaro",
     "regions": [],
-    "description": "A stew of green cooking bananas and beef (sometimes goat) with tomato, onion, potatoes and carrots, often enriched with coconut milk. The name means \"bananas with meat\"; it is a classic of the Chagga people on the slopes of Kilimanjaro, where bananas are the staple.",
+    "description": "A stew of green cooking bananas and beef with potatoes, simmered in coconut milk. The name means \"bananas with meat\"; it is a classic of the Chagga people on the slopes of Kilimanjaro, who are known for growing bananas.",
     "how_to_eat": "Eat with a spoon, often with sliced avocado on the side.",
-    "how_to_order": "Widely sold at local eateries in Moshi and Arusha; vegetarian versions can be made without meat.",
+    "how_to_order": "Ask for ndizi nyama at local eateries; meatless versions exist.",
     "typical_price": null,
     "currency": "TZS",
     "diet": "nonveg",
@@ -473,7 +474,7 @@
       "Moshi",
       "Arusha"
     ],
-    "description": "A thick soup of green bananas and beef, often with potatoes and milk or cream, cooked and then mashed smooth. It comes from the Chagga of the Kilimanjaro area and is eaten as a morning meal and given to nursing mothers.",
+    "description": "A thick soup of green bananas and beef, often with potatoes and sometimes milk or cream, boiled and then mashed smooth. It comes from the Chagga of the Kilimanjaro (Moshi-Arusha) area and is eaten in the morning for energy; Maasai women also eat it during postpartum confinement.",
     "how_to_eat": "Eat it as a main meal at breakfast, lunch or dinner.",
     "how_to_order": null,
     "typical_price": null,
@@ -555,9 +556,9 @@
     "regions": [
       "Moshi"
     ],
-    "description": "A mildly alcoholic (about 1-3%) beer of the Chagga people, made by cooking mashed bananas for hours, fermenting them for up to a week and mixing in finger-millet porridge. It is sweet then slightly sour, and is served at weddings, meetings and funerals.",
-    "how_to_eat": "Drink it fresh; it does not keep long.",
-    "how_to_order": "Hard to find outside northern Tanzania; Chagga village tours around Machame and Moshi include tastings.",
+    "description": "A mildly alcoholic (about 1-3%) beer of the Chagga people, made by cooking mashed bananas for hours, fermenting them for up to a week and mixing in finger-millet porridge. It is sweet with a slightly sour aftertaste.",
+    "how_to_eat": null,
+    "how_to_order": "Hard to find outside northern Tanzania; Machame village tours include brewing demonstrations and tastings.",
     "typical_price": null,
     "currency": "TZS",
     "diet": "veg",
@@ -570,7 +571,7 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Mbege",
       "https://altezzatravel.com/articles/tanzania-food-guide",
-      "https://www.atlasobscura.com/foods/mbege-banana-beer"
+      "https://machameculturaltourism.com/category/programs/page/2"
     ]
   },
   {
@@ -584,7 +585,7 @@
     "regions": [
       "Ngorongoro"
     ],
-    "description": "A one-pot stew of maize kernels and beans slow-cooked for hours, traditionally in a clay pot over a fire, with onion, peppers and carrots; coastal cooks finish it with coconut milk. Matador links it to the Iraqw people of the Ngorongoro Highlands.",
+    "description": "A one-pot stew of maize kernels and beans slow-cooked for hours, traditionally in a clay pot, with onion, peppers and carrots; the makande ya nazi version is simmered in coconut milk. Matador links it to the Iraqw people of the Ngorongoro Highlands.",
     "how_to_eat": "Eat with a spoon as a filling main.",
     "how_to_order": "Ask for makande (or makande ya nazi) at local eateries.",
     "typical_price": null,
@@ -593,9 +594,7 @@
     "jain": false,
     "vegan": true,
     "spice": 0,
-    "allergens": [
-      "soy"
-    ],
+    "allergens": [],
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
@@ -614,9 +613,9 @@
     "regions": [
       "Moshi"
     ],
-    "description": "Arabica coffee grown on the slopes of Kilimanjaro and Mount Meru, where the Chagga have long farmed it alongside bananas as their main cash crop.",
+    "description": "Arabica coffee grown on the slopes of Kilimanjaro and Mount Meru, a key cash crop of the Chagga people.",
     "how_to_eat": null,
-    "how_to_order": "Ask for local coffee at cafes in Moshi and Arusha, or join a farm tour on Kilimanjaro's slopes.",
+    "how_to_order": "Many farms on Kilimanjaro's slopes offer guided tours during the harvest season.",
     "typical_price": null,
     "currency": "TZS",
     "diet": "veg",
@@ -643,8 +642,8 @@
       "Bukoba"
     ],
     "description": "Longhorn grasshoppers (bush crickets) trapped with lights in swarms after the April and November rains, then fried. They are a prized Haya delicacy in Kagera, offered to guests as a sign of respect, and a lucrative seasonal cash crop around Bukoba.",
-    "how_to_eat": "Eat as a crunchy snack, with beer or tea, or alongside ugali or rice.",
-    "how_to_order": "Sold by vendors in Bukoba and Kagera markets in season; fried senene keeps for months.",
+    "how_to_eat": "Eat as a crunchy snack.",
+    "how_to_order": "Sold fresh or deep-fried by street vendors and shops around Bukoba in season; fried senene keeps for months and is also sold in Dar es Salaam.",
     "typical_price": null,
     "currency": "TZS",
     "diet": "nonveg",
@@ -665,7 +664,7 @@
   {
     "id": "tanzania-ndizi-bukoba",
     "name": "Matoke (ndizi Bukoba)",
-    "local_name": null,
+    "local_name": "ebitooke",
     "pronunciation": null,
     "category": "meal",
     "country": "Tanzania",
@@ -673,7 +672,7 @@
     "regions": [
       "Bukoba"
     ],
-    "description": "Green bananas steamed or boiled, often wrapped in banana leaves, then mashed or cooked with beef, tripe or smoked fish, beans or groundnuts. It is the staple of the Haya people of Kagera, whose bananas are said to be more flavourful than Kilimanjaro's.",
+    "description": "Green bananas steamed in banana leaves, then mashed or cooked with beef, tripe or smoked fish, beans or groundnuts. It is the staple of the Haya people of Kagera.",
     "how_to_eat": "Eat with the accompanying stew.",
     "how_to_order": "Ask for ndizi or matoke at local eateries in Bukoba; ask what it is cooked with.",
     "typical_price": null,
@@ -691,7 +690,8 @@
     "source_urls": [
       "https://dailynews.co.tz/traditional-foods-shine-at-world-food-day-in-bukoba/",
       "https://www.chefspencil.com/most-popular-foods-in-tanzania/",
-      "https://www.willflyforfood.net/food-in-tanzania/"
+      "https://www.willflyforfood.net/food-in-tanzania/",
+      "https://en.wikipedia.org/wiki/Matoke"
     ]
   },
   {
@@ -734,7 +734,7 @@
     "country": "Tanzania",
     "state": "Lake Victoria & Northwest",
     "regions": [],
-    "description": "Tilapia cut into pieces and boiled with sweet potatoes, onion, tomato, carrot and a little chilli; the sweet potato balances the mild, lightly spiced broth. A Lake Zone dish, adapted on the coast with snapper, coconut milk and turmeric.",
+    "description": "Tilapia cut into pieces and boiled with sweet potatoes, onion, tomato, carrot and a little chilli into a mild broth. A Lake Zone dish, adapted on the coast with snapper, coconut milk and turmeric.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
