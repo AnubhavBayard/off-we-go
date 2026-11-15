@@ -10,9 +10,9 @@
     "regions": [
       "Montevideo"
     ],
-    "description": "Uruguay's most popular dish: beef and pork grilled slowly over the embers of firewood rather than charcoal, salted and basted with mojo. A full asado brings several cuts such as tira de asado (short ribs), entraña and pulpón, plus chorizo, morcilla and offal like chinchulines and mollejas. Montevideo's Mercado del Puerto, a covered 1868 iron market in the Ciudad Vieja, is the city's most famous place for parrillas.",
-    "how_to_eat": "Usually eaten with bread and ensalada criolla, and in Montevideo with a lager at lunchtime.",
-    "how_to_order": "Ordering an asado gets a mixed grill for two or more; ask for tira de asado if you just want the ribs.",
+    "description": "Grilled meat, especially beef, is perhaps Uruguay's most popular dish. It is cooked over the embers of firewood rather than charcoal, and a full asado brings at least two cuts of beef plus sausage and morcilla (blood sausage), often with offal such as chinchulines and mollejas. Montevideo's Mercado del Puerto, an 1868 iron-structure market in the Ciudad Vieja, is known for its grills serving Uruguayan beef asado.",
+    "how_to_eat": "Served with simple sides such as crusty bread; in Montevideo a local lager is the most common drink with it at lunch.",
+    "how_to_order": "Ask for tira de asado if you just want the ribs.",
     "typical_price": null,
     "currency": "UYU",
     "diet": "nonveg",
@@ -42,7 +42,7 @@
       "Montevideo"
     ],
     "description": "A blend of sweet sparkling wine and dry white wine. The best-known one carries the name of the Roldós bar, opened inside the Mercado del Puerto in 1888, and is now made for it by the Bruzzone y Sciutto winery; rosé and red versions also exist. In popular bars the same name can mean caña mixed with white vermouth.",
-    "how_to_eat": "Drunk as an aperitif before a parrilla meal at the Mercado del Puerto.",
+    "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
     "currency": "UYU",
@@ -70,7 +70,7 @@
     "regions": [
       "Montevideo"
     ],
-    "description": "Cappelletti pasta in Caruso sauce, a warm sauce of cream, ham, cheese, beef extract and mushrooms, sometimes with nuts or onion. It was created in the 1950s by chef Raymundo Monti of the Montevideo restaurant Mario y Alberto and named after the tenor Enrico Caruso; it is unknown in Italy and is often called the one exclusively Uruguayan dish.",
+    "description": "Cappelletti pasta in Caruso sauce, a warm sauce of cream, ham, cheese, beef extract and mushrooms, sometimes with nuts or onion. The sauce was created in the 1950s by chef Raymundo Monti of the Montevideo restaurant Mario y Alberto and named after the tenor Enrico Caruso; it is unknown in Italy.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -89,7 +89,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Caruso_sauce",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Caruso_sauce",
-      "https://www.elobservador.com.uy/nota/el-bien-criollo-matambre-a-la-leche-2014529000",
       "https://en.wikipedia.org/wiki/Uruguayan_cuisine"
     ]
   },
@@ -141,7 +140,9 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "gluten"
+      "gluten",
+      "egg",
+      "mustard"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
@@ -191,7 +192,7 @@
     "regions": [],
     "description": "Two layers of puff pastry filled with ham and cheese and topped with a sweet meringue icing, so they are both sweet and salty. The same pastry is called fosforito in Argentina.",
     "how_to_eat": null,
-    "how_to_order": "Sold in bakeries.",
+    "how_to_order": null,
     "typical_price": null,
     "currency": "UYU",
     "diet": "nonveg",
@@ -306,7 +307,7 @@
     ],
     "description": "An individual cake of two layers of pionono sponge filled with whipped cream and topped with a caramelised (burnt) egg-yolk sabayon. It was popularised in Uruguay by Spanish immigrant Pedro Carrera, who founded the Confitería Carrera in Montevideo in 1951; whether it originated there or in Catalonia (as flamet) is unclear.",
     "how_to_eat": null,
-    "how_to_order": "Sold in confiterías and bakeries.",
+    "how_to_order": null,
     "typical_price": null,
     "currency": "UYU",
     "diet": "egg",
@@ -394,7 +395,7 @@
       "Nueva Helvecia"
     ],
     "description": "A semi-hard cow's-milk cheese named after Nueva Helvecia (Colonia Suiza) in Colonia department, the heart of Uruguay's dairy region. Swiss settler Juan Teófilo Karlen from Bern began making it in 1868 to reproduce Emmental; local conditions turned it into a milder, softer cheese with small eyes, matured 4 to 12 months.",
-    "how_to_eat": "Eaten in cubes as part of a picada with olives, salami and wine before an asado.",
+    "how_to_eat": "Often eaten as part of a picada (snack spread) with Uruguayan wine.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "UYU",
@@ -457,9 +458,9 @@
     "regions": [
       "Carmelo"
     ],
-    "description": "A red wine grape brought by Basque settlers in the 19th century, chiefly Pascual Harriague, and now Uruguay's national grape; most of the world's Tannat is produced in Uruguay. Uruguayan Tannat is generally lighter and softer in tannin than French Madiran, with blackberry notes. Carmelo in Colonia department is one of the country's oldest wine areas, with Tannat as its main variety.",
+    "description": "A red wine grape brought to Uruguay by Basque settlers in the 19th century, chiefly Pascual Harriague, and now Uruguay's national grape. Uruguayan Tannat is generally lighter and softer in tannin than French Madiran, with blackberry notes. Several wineries around Carmelo in Colonia department grow Tannat.",
     "how_to_eat": null,
-    "how_to_order": "Visit the family wineries around Carmelo, several of which open for tastings.",
+    "how_to_order": "Some Carmelo wineries offer guided visits with tastings; book ahead.",
     "typical_price": null,
     "currency": "UYU",
     "diet": "veg",
@@ -472,7 +473,7 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Tannat",
       "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Uruguay",
-      "https://www.elobservador.com.uy/nota/rumbo-al-vino-bodegas-de-carmelo-201912212130"
+      "https://www.vinetur.com/2022012467654/5-destinos-unicos-en-uruguay-ruta-del-vino-en-colonia.html"
     ]
   },
   {
@@ -814,7 +815,7 @@
     "country": "Uruguay",
     "state": "Interior & Gaucho Country",
     "regions": [],
-    "description": "A Uruguayan invention of grappa (grape-pomace spirit brought by Italian immigrants) mixed with honey and water, at about 20-25% alcohol. Popular in rural areas, it is drunk especially in winter and on cold mornings; newer versions are flavoured with lemon, coffee or other additions.",
+    "description": "A Uruguayan invention of grappa (spirit brought by Italian immigrants) mixed with honey and water, at about 20-25% alcohol. It is drunk more in winter; newer versions are flavoured with lemon, coffee and other additions.",
     "how_to_eat": "Served in bars as a shot (medida), or over ice in a long glass in hot weather.",
     "how_to_order": null,
     "typical_price": null,

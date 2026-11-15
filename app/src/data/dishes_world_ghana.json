@@ -45,7 +45,7 @@
     ],
     "description": "Banku is a slightly fermented mixture of maize and cassava doughs cooked in hot water into a smooth, whitish ball; it is the softer Ga-Dangme version of the dish. In Accra it is classically eaten with whole grilled tilapia, hot pepper sauce and shito, and it is also served with okra stew or soups.",
     "how_to_eat": "Tear off banku with your right hand, dip it in the pepper sauce and eat it with flakes of tilapia.",
-    "how_to_order": "Look for grilled tilapia and banku at markets such as Makola and at evening grill spots; upscale versions cost several times more.",
+    "how_to_order": "Order it at grill spots and chop bars in Accra; a banku and tilapia meal now costs two to three times what it used to.",
     "typical_price": null,
     "currency": "GHS",
     "diet": "nonveg",
@@ -61,7 +61,8 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Banku_(dish)",
       "https://en.wikipedia.org/wiki/Ghanaian_cuisine",
-      "https://www.pulse.com.gh/articles/entertainment/ghana-best-food-destinations-guide-2025032017065526760"
+      "https://www.pulse.com.gh/articles/entertainment/ghana-best-food-destinations-guide-2025032017065526760",
+      "https://newscenta.com/ghana-ranks-5th-in-africa-for-expensive-dining-out-costs"
     ]
   },
   {
@@ -76,15 +77,17 @@
       "Accra"
     ],
     "description": "Cubes of ripe plantain seasoned with spices and pepper and deep-fried. Ghana's spiced take on fried plantain, sometimes served with roasted peanuts, and a common side for red red and fish stew.",
-    "how_to_eat": "Eat it hot from the paper with a toothpick, with roasted groundnuts on the side.",
-    "how_to_order": "Sold by evening street vendors and at markets such as Makola; ask for kelewele with groundnuts.",
+    "how_to_eat": "Eat it hot, on its own or with roasted groundnuts.",
+    "how_to_order": "In Accra it is sold mostly at night by street vendors, and by day at markets such as Makola; ask for kelewele with groundnuts.",
     "typical_price": null,
     "currency": "GHS",
     "diet": "veg",
     "jain": false,
     "vegan": true,
     "spice": 2,
-    "allergens": [],
+    "allergens": [
+      "peanuts"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fried_plantain",
     "source_urls": [
@@ -175,7 +178,8 @@
     "vegan": false,
     "spice": 2,
     "allergens": [
-      "fish"
+      "fish",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Red_red",
@@ -209,9 +213,9 @@
       "fish"
     ],
     "gi_tag": false,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Kpekple",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kpekpele",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Kpekple",
+      "https://en.wikipedia.org/wiki/Kpekpele",
       "https://en.wikipedia.org/wiki/Homowo"
     ]
   },
@@ -248,13 +252,13 @@
     "pronunciation": null,
     "category": "meal",
     "country": "Ghana",
-    "state": "Ashanti (Kumasi)",
+    "state": "Greater Accra (Ga)",
     "regions": [
-      "Kumasi"
+      "Accra"
     ],
-    "description": "Fufu, a Twi word, is boiled cassava pounded with green plantain or cocoyam into a smooth, elastic ball. In Ashanti it is eaten with light soup, a thin, tomato-based broth of the Akan people cooked with goat, beef, lamb or fish. It is a standard chop-bar meal across Ashanti.",
+    "description": "Fufu, a Twi word, is boiled cassava pounded with green plantain or cocoyam into a smooth, elastic ball. It is eaten with light soup, a thin, tomato-based soup of the Akan people that began as a seafood soup for fishermen on the Accra coast and is now cooked with goat, lamb, beef or fish.",
     "how_to_eat": "Pinch off fufu with your right hand, dip it in the soup and swallow without chewing.",
-    "how_to_order": "Go to a chop bar and ask for fufu with light soup and goat meat (aponkye) or fish.",
+    "how_to_order": "Go to a chop bar, for example in Osu or East Legon, and ask for fufu with light soup and goat meat (aponkye) or fish.",
     "typical_price": null,
     "currency": "GHS",
     "diet": "nonveg",
@@ -345,7 +349,7 @@
     "regions": [
       "Kumasi"
     ],
-    "description": "Ampesi is boiled yam, plantain, cocoyam or cassava served as a plain starch; in Ashanti it comes with kontomire stew, made with cocoyam (taro) leaves and palm oil, often with fish or egg. The forest-zone cooking of Kumasi centres on cocoyam leaves, plantain and palm nut.",
+    "description": "Ampesi is boiled yam, plantain, cocoyam or cassava served as a plain starch; in Ashanti it comes with kontomire stew, made with cocoyam (taro) leaves and palm oil, often with dried fish or egg. It is one of the typical dishes of Kumasi.",
     "how_to_eat": "Cut the boiled yam or plantain and scoop up the stew with it.",
     "how_to_order": "Ask for ampesi with kontomire at chop bars and home-style eateries.",
     "typical_price": null,
@@ -414,7 +418,8 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "fish"
+      "fish",
+      "shellfish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aprapransa",
@@ -436,7 +441,7 @@
       "Abura Dunkwa",
       "Moree"
     ],
-    "description": "Kenkey made by the Fante people of the Central and Western Regions from fermented maize dough, wrapped in dried plantain or asofuo leaves rather than maize husks. Towns such as Abura Dunkwa and Moree Junction are known for it. It is eaten with stews, fried fish, shito and ground pepper, or mashed into a sweet pudding with milk, sugar and roasted groundnuts.",
+    "description": "Kenkey made by the Fante people from fermented maize dough, wrapped in dried plantain leaves (or asofuo leaves for the Akonkro type) rather than maize husks. Central Region towns such as Abura Dunkwa and Moree Junction are known for it. It is eaten with stews, fried fish, shito and ground pepper, or mashed into a pudding with milk, sugar and roasted groundnuts.",
     "how_to_eat": "Eat it with fried fish and pepper, or with fante fante stew.",
     "how_to_order": "Buy it from kenkey sellers in Central Region towns such as Abura Dunkwa and Moree Junction.",
     "typical_price": null,
@@ -465,13 +470,10 @@
     "category": "meal",
     "country": "Ghana",
     "state": "Central & Western coast (Fante, Nzema)",
-    "regions": [
-      "Cape Coast",
-      "Elmina"
-    ],
-    "description": "A Fante stew of fresh fish cooked in palm oil with tomatoes and pepper, from the Cape Coast and Elmina area; some cooks add shrimp powder or smoked fish. Traditionally it was made only with fresh fish and eaten with Fante kenkey or ɛtsew, the Fante version of banku.",
+    "regions": [],
+    "description": "A Fante stew of fresh fish cooked in palm oil, usually with tomatoes, onion and Scotch bonnet pepper, from the Central Region. It is traditionally eaten with Fante kenkey or ɛtsew, the Fante version of banku.",
     "how_to_eat": "Eat it with Fante kenkey or banku, dipping the starch in the stew.",
-    "how_to_order": "Ask for it at chop bars and home-style eateries in Cape Coast and Elmina.",
+    "how_to_order": "Ask for it at chop bars and home-style eateries in the Central Region.",
     "typical_price": null,
     "currency": "GHS",
     "diet": "nonveg",
@@ -479,8 +481,7 @@
     "vegan": false,
     "spice": 2,
     "allergens": [
-      "fish",
-      "shellfish"
+      "fish"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
@@ -530,7 +531,7 @@
       "Ho",
       "Keta"
     ],
-    "description": "A firm ball of cooked corn flour, sometimes mixed with cassava, that is the Ewe staple 'swallow' of the Volta Region. It is usually served with okra soup (fetri detsi) or herring stew, and the soups are known to be very spicy.",
+    "description": "A firm ball of cooked corn flour, sometimes mixed with cassava, that is the Ewe staple 'swallow' of the Volta Region. It is usually served with okra soup (fetri detsi) or herring stew, and Volta soups are often spicy.",
     "how_to_eat": "Pinch off akple, dip it in the slippery okra soup and swallow.",
     "how_to_order": "Ask for akple and okro soup at chop bars in Ho, Keta and elsewhere in Volta.",
     "typical_price": null,
@@ -560,9 +561,10 @@
     "country": "Ghana",
     "state": "Volta (Ewe)",
     "regions": [
+      "Ho",
       "Keta"
     ],
-    "description": "A steamed dumpling of corn dough and sugar, slightly sweet and sour, eaten by the Ewe. It is served with soups and sauces, and in Volta classically with grilled or fried fish and pepper.",
+    "description": "A steamed mixture of corn dough and sugar eaten by the Ewe. It is served with soups and sauces, and in Volta classically with grilled fish.",
     "how_to_eat": "Eat it with grilled fish and ground pepper.",
     "how_to_order": "Ask for abolo and fish from Volta street sellers and chop bars.",
     "typical_price": null,
@@ -587,8 +589,11 @@
     "category": "meal",
     "country": "Ghana",
     "state": "Volta (Ewe)",
-    "regions": [],
-    "description": "Ewe dish of grated cassava dough, pressed, mixed with a little corn flour and salt, and steamed. It is served with fish and chilli pepper, green leaf stew (amatadi) or beans, and appears at weddings, funerals and naming ceremonies.",
+    "regions": [
+      "Ho",
+      "Keta"
+    ],
+    "description": "Ewe dish of cassava milled into a coarse dough, mixed with a little corn flour and salt, and steamed. It is served with fish and chilli pepper, green leaf stew (amatadi) or beans, and appears at weddings, funerals and naming ceremonies.",
     "how_to_eat": "Eat it with fish and pepper or with a leafy stew.",
     "how_to_order": "Ask for yakayake and fish in Volta markets and chop bars.",
     "typical_price": null,
@@ -617,7 +622,7 @@
     "regions": [
       "Ho"
     ],
-    "description": "Fritters of grated cassava, onion and salt rolled into small balls and deep-fried until golden, from the southern Volta Region. Hawkers sell them across Ghana, and hotels in Ho serve them to welcome visitors.",
+    "description": "Fritters of grated cassava, onion and salt rolled into small balls and deep-fried until golden, from the southern Volta Region. Hawkers sell them, and hotels in Ho serve them to welcome visitors.",
     "how_to_eat": "Eat them with pieces of dried coconut.",
     "how_to_order": "Buy from hawkers; ask for agbelikaklo with coconut.",
     "typical_price": null,
@@ -644,8 +649,8 @@
     "regions": [
       "Tamale"
     ],
-    "description": "A stiff 'swallow' of maize, millet or sorghum flour stirred into boiling water, the daily staple of the Dagomba, Mamprusi, Gonja and other northern groups; the name comes from Hausa. It is classically paired with ayoyo, a slimy jute mallow leaf soup made with dried fish and dawadawa, or with okra or groundnut soup and meat or fish.",
-    "how_to_eat": "Mould a small portion into a ball with your right hand, dip it in the soup and swallow.",
+    "description": "A stiff 'swallow' of maize or millet flour (some cooks add cassava flour) stirred into boiling water, eaten across northern Ghana. It is typically served with green vegetable soups such as ayoyo, made with powdered fish and dawadawa, or okra soup, and in Tamale also with guinea fowl.",
+    "how_to_eat": "Pinch off a portion, dip it in the soup and swallow.",
     "how_to_order": "Ask for TZ with ayoyo at chop bars in Tamale, for example around Lamashegu and Aboabo markets.",
     "typical_price": null,
     "currency": "GHS",
@@ -681,9 +686,12 @@
     "currency": "GHS",
     "diet": "veg",
     "jain": false,
-    "vegan": true,
+    "vegan": false,
     "spice": 1,
-    "allergens": [],
+    "allergens": [
+      "dairy",
+      "peanuts"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Koko_(millet_porridge)",
     "source_urls": [
@@ -709,9 +717,7 @@
     "jain": false,
     "vegan": true,
     "spice": 0,
-    "allergens": [
-      "gluten"
-    ],
+    "allergens": [],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pito_(beer)",
     "source_urls": [
@@ -728,9 +734,9 @@
     "country": "Ghana",
     "state": "Northern Ghana (Tamale)",
     "regions": [],
-    "description": "A soft, mild cottage cheese made from raw cow's milk curdled with Sodom apple leaves, developed by Fulani herders to preserve milk; in Ghana the Hausa are the main producers. It does not melt when heated and is usually fried until puffed and brown, eaten as a snack or added to stews.",
+    "description": "A soft, mild cottage cheese made by the semi-nomadic Fulani from fresh cow's milk curdled with Sodom apple (Calotropis procera) extract. It is fried or smoked, eaten as a snack or cooked in stews in place of meat or fish.",
     "how_to_eat": "Eat the fried pieces hot as a snack or in stew with a starch.",
-    "how_to_order": "Buy fried wagashi from street vendors; choose freshly fried pieces, as raw-milk market cheese can carry bacteria.",
+    "how_to_order": "Buy fried wagashi from street vendors, often sold with pepper for dipping.",
     "typical_price": null,
     "currency": "GHS",
     "diet": "veg",

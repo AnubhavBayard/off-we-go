@@ -98,7 +98,7 @@
     "state": "Ljubljana & Central Slovenia",
     "regions": [],
     "description": "Rolled dumplings of thin dough (wheat or buckwheat) spread with a sweet or savoury filling such as cottage cheese, tarragon, walnut, apple or poppy seed, then boiled, steamed or baked. Once a festive dish, they are now everyday food across all Slovenian gastronomic regions, with over 100 variants; they are related to Croatia's Zagorski štrukli.",
-    "how_to_eat": "Eat them with meat and gravy, or topped with buttered breadcrumbs.",
+    "how_to_eat": "Eat them with meat and gravy, or topped with a breadcrumb sauce.",
     "how_to_order": "Ask for 'skutni štruklji' (cottage cheese) or 'pehtranovi štruklji' (tarragon).",
     "typical_price": null,
     "currency": "EUR",
@@ -109,7 +109,8 @@
     "allergens": [
       "gluten",
       "dairy",
-      "egg"
+      "egg",
+      "nuts"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Štruklji",
@@ -129,7 +130,7 @@
     "regions": [
       "Trojane"
     ],
-    "description": "Airy yeast doughnuts made with flour, eggs, milk, butter and sugar, traditionally filled with apricot jam and eaten especially at Carnival (Pust). The village of Trojane, on the pass between Carniola and Styria, has made them for travellers since the 1960s and its krofi are often called the best in Slovenia.",
+    "description": "Airy yeast doughnuts made with flour, eggs, milk, butter and sugar, filled with jam (apricot is traditional) and eaten especially at Carnival. Trojane, an inn stop on the road between Ljubljana and Styria, has made them since 1961 and its krofi are often called the best in Slovenia.",
     "how_to_eat": null,
     "how_to_order": "Ask for 'krof' with apricot jam.",
     "typical_price": null,
@@ -192,7 +193,7 @@
     ],
     "description": "A square slice of buttery puff pastry, a thick layer of vanilla custard, whipped cream and a second pastry layer dusted with icing sugar. Locals call it kremšnita; the Bled version has been made at the town's Hotel Park patisserie since 1953 to a recipe brought by pastry chef Ištvan Lukačević, and over 10 million had been baked by 2009.",
     "how_to_eat": null,
-    "how_to_order": "Sold at almost every café around Lake Bled; ask for 'kremšnita'.",
+    "how_to_order": "Found in cafés across Slovenia; the best known is from Hotel Park in Bled. Locals call it 'kremšnita'.",
     "typical_price": null,
     "currency": "EUR",
     "diet": "egg",
@@ -280,7 +281,7 @@
     "regions": [
       "Bohinj"
     ],
-    "description": "A soft cow's-milk cheese from Bohinj with a strong smell and a piquant, sometimes bitter taste, still made by a traditional method. It has been an EU PDO since 2013.",
+    "description": "A cow's-milk cheese from Bohinj, smooth and from firm to spreadable, with a strong smell and a pungent, sometimes slightly bitter taste, still made by a traditional method. It has been an EU PDO since 2013.",
     "how_to_eat": null,
     "how_to_order": "Ask for 'mohant' in Bohinj.",
     "typical_price": null,
@@ -311,7 +312,7 @@
     "regions": [
       "Škofja Loka"
     ],
-    "description": "A gingerbread pressed into special carved moulds, a traditional speciality of the historic town of Škofja Loka.",
+    "description": "A local gingerbread made in special carved moulds, a traditional speciality of the historic town of Škofja Loka.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -326,8 +327,7 @@
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
-      "https://www.slovenia.info/en/stories/gastronomy-of-slovenian-historical-cities",
-      "https://en.wikipedia.org/wiki/Slovenian_cuisine"
+      "https://www.slovenia.info/en/stories/gastronomy-of-slovenian-historical-cities"
     ]
   },
   {
@@ -339,7 +339,7 @@
     "country": "Slovenia",
     "state": "Upper Carniola (Gorenjska)",
     "regions": [],
-    "description": "A distillate made from pears of the old 'tepka' variety, with a sweet aroma and taste; the tourist board lists it as Gorenjska's spirit.",
+    "description": "A distillate made from pears of the old 'tepka' variety, with a sweet aroma and taste; the tourist board lists it as a spirit of Gorenjska.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -513,7 +513,7 @@
     "regions": [
       "Izola"
     ],
-    "description": "A fish stew of several kinds of fish cooked with wine, olive oil and tomato, served with polenta; the fishermen of Izola have always favoured brodet and polenta. Today it is the star of local cuisine, sometimes paired with polenta, baccalà and Istrian truffles.",
+    "description": "A seafood stew of fish, squid and shellfish cooked with onion, garlic, white wine, olive oil and tomato. Izola's version is served with polenta.",
     "how_to_eat": "Eat it with polenta or bread to soak up the broth.",
     "how_to_order": null,
     "typical_price": null,
@@ -523,7 +523,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "fish"
+      "fish",
+      "shellfish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Brudet",
@@ -608,8 +609,8 @@
     "regions": [
       "Kobarid"
     ],
-    "description": "Sweet boiled dough pockets filled with walnuts, raisins, sugar, butter and breadcrumbs, each marked by the cook's fingerprint in the centre. Once a snack for summer haymaking, they are now the signature dessert of the Kobarid area and star of its autumn Jestival.",
-    "how_to_eat": "Eat them warm, topped with butter, golden breadcrumbs, icing sugar and ground walnuts.",
+    "description": "Sweet dumplings filled with walnuts and raisins, each 'signed' with the cook's fingerprint in the middle. Once a fortifying snack during summer mowing, they are now the star dessert of restaurants in the Kobarid area, which holds a festival for them.",
+    "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
     "currency": "EUR",
@@ -641,7 +642,7 @@
     "regions": [
       "Tolmin"
     ],
-    "description": "A hard cheese of raw cow's milk from the Tolmin area below Mt Krn, with small lentil- or pea-sized eyes, a long maturing time and a sweet, tangy flavour. It has been an EU PDO since 2012 and is the usual cheese in frika.",
+    "description": "A hard, full-fat cheese of raw or thermised cow's milk from the Tolmin area below Mt Krn, with occasional lentil- or pea-sized eyes and a sweet, tangy flavour. It has been an EU PDO since 2012 and is the usual cheese in frika.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -703,7 +704,7 @@
     "regions": [
       "Prekmurje"
     ],
-    "description": "A rich layered cake on a shortcrust base with two rounds of four fillings - poppy seed, cottage cheese, walnut and apple - separated by filo sheets and topped with cream and egg yolk or a fatty topping; lard is a listed ingredient. Native to Prekmurje, where it was a wedding and festive dish (recorded in 1828), it is now a national specialty and an EU Traditional Speciality Guaranteed since 2010.",
+    "description": "A rich layered cake on a shortcrust base with two rounds of four fillings - poppy seed, cottage cheese, walnut and apple - separated by filo sheets and topped with cream and egg or a fatty topping; lard is one of the permitted fats. Native to Prekmurje, where it was a wedding and festive dish (recorded in 1828), it is now a national specialty and an EU Traditional Speciality Guaranteed since 2010.",
     "how_to_eat": null,
     "how_to_order": "Ask for 'prekmurska gibanica'.",
     "typical_price": null,
@@ -854,7 +855,7 @@
       "Pohorje",
       "Maribor"
     ],
-    "description": "A sweet baked omelette of whipped eggs, sugar, flour and a little rum, folded around warm cranberry jam and topped with whipped cream. It is the signature dessert of the Pohorje hills above Maribor.",
+    "description": "A sweet baked omelette of whipped eggs, sugar, flour and a little rum, folded around warm cranberry jam and topped with whipped cream. The tourist board features it as a speciality of the Maribor-Pohorje area.",
     "how_to_eat": "Eat it warm, sprinkled with peppermint liqueur.",
     "how_to_order": null,
     "typical_price": null,
@@ -871,8 +872,7 @@
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
-      "https://www.slovenia.info/en/places-to-go/regions/alpine-slovenia/maribor-pohorje/the-pohorje-omelette",
-      "https://visitmaribor.si/en/what-to-do/nature/pohorje/pohorje-culinary-transversal"
+      "https://www.slovenia.info/en/places-to-go/regions/alpine-slovenia/maribor-pohorje/the-pohorje-omelette"
     ]
   },
   {
