@@ -9,7 +9,7 @@
     "state": "Tehran",
     "regions": [],
     "description": "A kebab of ground lamb mixed with grated onion, salt and black pepper, shaped onto wide skewers and grilled. The name comes from the Persian verb koobidan, 'to pound', after the old method of pounding the meat. One soft style is served with flatbreads such as sangak or lavash and a firmer style with rice.",
-    "how_to_eat": "Eat with buttered saffron rice or flatbread, grilled tomatoes and a sprinkle of sumac.",
+    "how_to_eat": "Eat with buttered rice or flatbread, grilled tomatoes and a sprinkle of sumac.",
     "how_to_order": "Ask for 'koobideh' at a kababi; 'soltani' is a combined plate of barg and koobideh.",
     "typical_price": null,
     "currency": "IRR",
@@ -172,12 +172,12 @@
     "country": "Iran",
     "state": "Tehran",
     "regions": [],
-    "description": "The crisp, golden layer of rice taken from the bottom of the pot in which chelow is cooked. Variations crisp a layer of yogurt and saffron, thin bread, potato or other vegetables under the rice instead. It is a part of Iranian rice cooking and is traditionally offered to guests.",
+    "description": "The crisp, golden layer of rice taken from the bottom of the pot in which chelow is cooked. The pot is often greased with oil or lamb fat, and variations crisp yogurt and saffron, thin bread, potato or other vegetables under the rice instead. It is a necessary part of Iranian rice cooking and is traditionally served to guests.",
     "how_to_eat": "Eat in broken pieces alongside rice and stew.",
-    "how_to_order": "Ask for 'tahdig' as an extra with your rice at Persian restaurants.",
+    "how_to_order": "Ask for 'tahdig' with your rice at Persian restaurants.",
     "typical_price": null,
     "currency": "IRR",
-    "diet": "veg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -185,7 +185,7 @@
       "dairy"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scorched_rice",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Scorched_rice"
     ]
@@ -259,7 +259,7 @@
     "regions": [
       "Isfahan"
     ],
-    "description": "Minced lamb, often mixed with lamb lung, cooked with onion, cinnamon and saffron and served on sangak bread with onion and fresh herbs. Locals call it 'beryun'; it is cooked and sold in dedicated beryani shops and is not usually served with other dishes.",
+    "description": "Minced lamb, often with lung and tail fat, cooked with onion, cinnamon and saffron and served on sangak bread with onion and fresh herbs. Locals call it 'beryun'; it is cooked and sold in dedicated beryani shops and is not usually served with other dishes.",
     "how_to_eat": "Eat folded in the sangak bread with basil and onion, with doogh on the side.",
     "how_to_order": "Ask for 'beryun' at a beryani shop in Isfahan.",
     "typical_price": null,
@@ -269,13 +269,15 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "dairy",
+      "nuts"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Isfahan_beryan",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Isfahan_beryan",
-      "https://iranicaonline.org/articles/beryani-from-beryan-roast-an-iranian-meat-dish-usually-served-wrapped-in-flat-bread-in-later-times-particularly-pop"
+      "https://kentaltravel.com/en/blog/beryani/"
     ]
   },
   {
@@ -332,10 +334,11 @@
       "egg",
       "nuts"
     ],
-    "gi_tag": false,
+    "gi_tag": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gaz_(candy)",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Gaz_(candy)"
+      "https://en.wikipedia.org/wiki/Gaz_(candy)",
+      "https://lisbon-express.wipo.int/"
     ]
   },
   {
@@ -364,11 +367,12 @@
       "dairy",
       "nuts"
     ],
-    "gi_tag": false,
+    "gi_tag": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sohan_(confectionery)",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Sohan_(confectionery)",
-      "https://en.wikipedia.org/wiki/Sohan_asali"
+      "https://en.wikipedia.org/wiki/Sohan_asali",
+      "https://lisbon-express.wipo.int/"
     ]
   },
   {
@@ -536,7 +540,8 @@
     "allergens": [
       "gluten",
       "egg",
-      "nuts"
+      "nuts",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Koloocheh",
@@ -588,7 +593,7 @@
     "regions": [
       "Ardabil"
     ],
-    "description": "A yogurt soup from Ardabil made with yogurt or doogh, chickpeas, rice and herbs such as leek, parsley and dill, often with small lamb meatballs. It is also cooked in Azerbaijan province, Shiraz and other regions.",
+    "description": "A yogurt soup from Ardabil made with yogurt or doogh, chickpeas, rice and herbs such as leek, parsley and dill, sometimes with small meatballs. It is also cooked in Azerbaijan province, Shiraz and other regions.",
     "how_to_eat": "Eat hot, topped with fried mint.",
     "how_to_order": "Ask for 'ash-e doogh' in Ardabil and Tabriz, mainly in the cold season.",
     "typical_price": null,
@@ -1239,7 +1244,7 @@
     ],
     "description": "Triangles of thin lavash filled with meat, potato, herbs and spices, made extra spicy in Khuzestan. The savoury turnover sanbosag survived mainly in Laristan and the Persian Gulf coast.",
     "how_to_eat": null,
-    "how_to_order": "Ask for 'sambuseh' at street stalls in Ahvaz.",
+    "how_to_order": "Ask for 'sambuseh' in Khuzestan, where it is made extra spicy.",
     "typical_price": null,
     "currency": "IRR",
     "diet": "nonveg",
@@ -1272,7 +1277,7 @@
     "how_to_order": "Ask for 'shakar polo' with qeimeh in Bushehr.",
     "typical_price": null,
     "currency": "IRR",
-    "diet": "nonveg",
+    "diet": "veg",
     "jain": false,
     "vegan": false,
     "spice": 0,

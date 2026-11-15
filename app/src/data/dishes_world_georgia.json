@@ -390,7 +390,8 @@
     "country": "Georgia",
     "state": "Kakheti",
     "regions": [
-      "Tsinandali"
+      "Telavi",
+      "Kvareli"
     ],
     "description": "A white wine blended from Rkatsiteli and Mtsvane grapes from the Telavi and Kvareli micro-regions of Kakheti. It is a registered Georgian appellation of origin.",
     "how_to_eat": null,
@@ -477,7 +478,7 @@
     "country": "Georgia",
     "state": "Imereti",
     "regions": [],
-    "description": "Chopped boiled vegetables such as spinach, beetroot, cabbage or beans mixed with ground walnuts, garlic, vinegar, onion and herbs. Restaurants usually serve spinach, beetroot and white-bean versions; the tourism board notes Imereti makes a dozen kinds.",
+    "description": "Chopped and minced vegetables such as spinach, beetroot, cabbage, eggplant or beans mixed with ground walnuts, vinegar, onion, garlic and herbs. Restaurants usually serve spinach, beetroot and white-bean versions; the tourism board notes Imereti makes a dozen kinds.",
     "how_to_eat": "Often served with pomegranate seeds.",
     "how_to_order": "Restaurants usually serve it as a set of spinach, beetroot and white-bean pkhali.",
     "typical_price": null,
@@ -560,7 +561,7 @@
     "country": "Georgia",
     "state": "Imereti",
     "regions": [],
-    "description": "Chicken stewed with tomato and fresh herbs, dry-fried first without oil. The name comes from the Georgian word for pheasant.",
+    "description": "Chicken stewed with tomato and fresh herbs, dry-fried first without oil. It originated in western Georgia, and the name comes from the Georgian word for pheasant.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -737,7 +738,9 @@
     "jain": false,
     "vegan": true,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "gluten"
+    ],
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
@@ -899,7 +902,7 @@
     "country": "Georgia",
     "state": "Adjara & Guria",
     "regions": [],
-    "description": "Chopped cheese fried in ghee, a dish of mountainous Adjara.",
+    "description": "Chopped cheese fried in ghee, one of the best-known dishes of Adjara.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -1000,8 +1003,9 @@
       "egg"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guruli_gvezeli",
     "source_urls": [
+      "https://en.wikipedia.org/wiki/Guruli_gvezeli",
       "https://en.wikipedia.org/wiki/Khachapuri",
       "https://en.wikipedia.org/wiki/Georgian_cuisine"
     ]
@@ -1077,7 +1081,7 @@
     "regions": [
       "Svaneti"
     ],
-    "description": "A leavened bread filled with chunks of lamb, kid or pork, spices and onion. It is the national dish of the Svans and was added to Georgia's intangible heritage list in 2015.",
+    "description": "A leavened bread filled with chunks of meat (beef, pork, lamb or kid), spices and onion. It is the national dish of the Svans and was added to Georgia's intangible heritage list in 2015.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -1093,7 +1097,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kubdari",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Kubdari",
-      "https://georgia.travel/why-georgia-delicious-cuisine"
+      "https://georgia.travel/why-georgia-delicious-cuisine",
+      "https://en.wikipedia.org/wiki/Georgian_cuisine"
     ]
   },
   {
@@ -1285,12 +1290,12 @@
     "country": "Georgia",
     "state": "Racha-Lechkhumi",
     "regions": [],
-    "description": "A bread filled with boiled kidney beans, made from matsoni dough like Imeretian khachapuri. The Racha version is the most popular and is often paired with Racha ham.",
+    "description": "A bread filled with boiled kidney beans, made from matsoni dough like Imeretian khachapuri. The Racha version is the most popular; in Racha the filling is made with Rachuli ham (lori), though plain bean lobiani is also common.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
     "currency": "GEL",
-    "diet": "veg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -1302,19 +1307,20 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lobiani",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Lobiani",
-      "https://en.wikipedia.org/wiki/Georgian_cuisine"
+      "https://en.wikipedia.org/wiki/Georgian_cuisine",
+      "https://en.wikipedia.org/wiki/Rachuli_ham"
     ]
   },
   {
     "id": "georgia-rachuli-lori",
     "name": "Rachuli Lori (Racha Ham)",
-    "local_name": "ლორი",
+    "local_name": "რაჭული ლორი",
     "pronunciation": null,
     "category": "meal",
     "country": "Georgia",
     "state": "Racha-Lechkhumi",
     "regions": [],
-    "description": "Smoked pork ham from Racha, often eaten with lobiani. Rachuli Lori is a registered Georgian geographical indication.",
+    "description": "Smoked pork ham and bacon from Racha, often eaten with lobiani. Rachuli Lori is a registered Georgian geographical indication.",
     "how_to_eat": "Eat with Racha lobiani.",
     "how_to_order": null,
     "typical_price": null,
@@ -1325,9 +1331,9 @@
     "spice": 0,
     "allergens": [],
     "gi_tag": true,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rachuli_ham",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Georgian_cuisine",
+      "https://en.wikipedia.org/wiki/Rachuli_ham",
       "https://en.wikipedia.org/wiki/Lobiani",
       "https://www.sakpatenti.gov.ge/en/state_registry"
     ]
@@ -1343,7 +1349,7 @@
     "regions": [
       "Shkmeri"
     ],
-    "description": "Fried chicken cooked in a garlic and milk sauce, named after Shkmeri, a village in Racha's Oni district.",
+    "description": "Fried chicken cooked in a garlic sauce made with milk or cream, named after Shkmeri, a village in Racha's Oni district.",
     "how_to_eat": "Eat with bread to soak up the sauce.",
     "how_to_order": null,
     "typical_price": null,

@@ -9,7 +9,7 @@
     "state": "Bucharest",
     "regions": [],
     "description": "Grilled skinless sausages of minced beef, lamb and pork seasoned with garlic, black pepper, thyme, coriander and other spices, with sodium bicarbonate and broth or water worked into the mixture. They are eaten across Romania, with an estimated 440 million consumed a year, and are closely tied to outdoor grilling on 1 May.",
-    "how_to_eat": "Eat them hot off the grill with mustard, bread or fries and pickles (murături).",
+    "how_to_eat": "Eat them hot off the grill with mustard, fries and pickles (murături).",
     "how_to_order": "Ask for a portion of mici with mustard at grill stalls, beer gardens and outdoor events.",
     "typical_price": null,
     "currency": "RON",
@@ -79,7 +79,7 @@
     "wikipedia_url": null,
     "source_urls": [
       "https://en.wikipedia.org/wiki/Romanian_cuisine",
-      "https://en.wikipedia.org/wiki/Sarma"
+      "https://en.wikipedia.org/wiki/Sarma_(food)"
     ]
   },
   {
@@ -122,7 +122,7 @@
     "country": "Romania",
     "state": "Bucharest",
     "regions": [],
-    "description": "A dessert made from a dough of fresh cheese (urdă or brânză proaspătă), eggs and semolina or flour, shaped like a doughnut with a small ball on top. It is usually fried, but can also be boiled like a dumpling, and is served with sour cream and jam or sour cherries.",
+    "description": "A dessert made from a dough of fresh cheese (urdă or brânză proaspătă), eggs and semolina or flour, shaped like a doughnut with the doughnut hole on top. It is usually fried, but can also be boiled like a dumpling, and is served with sour cream and jam or sour cherries.",
     "how_to_eat": "Eat them warm, with the sour cream and jam spooned over the top.",
     "how_to_order": "Ask for papanași prăjiți (fried) with smântână and dulceață (jam).",
     "typical_price": null,
@@ -162,7 +162,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "egg"
+      "egg",
+      "mustard"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://ro.wikipedia.org/wiki/Salată_de_vinete",
@@ -215,8 +216,8 @@
       "Bucharest",
       "Alba Iulia"
     ],
-    "description": "Baked beans cooked with smoked pork or sausages, carrots, onion, parsnip, tomato and bay leaf; one version replaces the sausages with smoked meat (afumătură). Army cooks prepare it and hand it out free to crowds at the National Day celebrations on 1 December in Bucharest and Alba Iulia.",
-    "how_to_eat": "Eat it hot with bread and pickles.",
+    "description": "Baked beans with sausages, cooked with smoked pork, carrots, onion, parsnip, tomatoes and bay leaf; a variation replaces the sausages with smoked meat (afumătură). Army cooks prepare it and hand it out free to crowds at the National Day celebrations on 1 December in Bucharest and Alba Iulia.",
+    "how_to_eat": "Eat it hot.",
     "how_to_order": "Ask for fasole cu cârnați, or look for the free army servings at 1 December celebrations.",
     "typical_price": null,
     "currency": "RON",
@@ -596,7 +597,7 @@
     "country": "Romania",
     "state": "Moldavia",
     "regions": [],
-    "description": "Small cubes of pork cooked slowly in their own fat and juices, often with smoked sausages, offal and bacon, sometimes with a little tomato sauce. The Moldavian version is served with mămăligă, a fried egg and salty sheep cheese (telemea or brânză de burduf).",
+    "description": "Small cubes of pork cooked slowly in their own fat and juices, often with smoked sausages, offal and bacon, with or without tomato sauce (the tomato version is the most common in restaurants). The Moldavian version is served with mămăligă, a fried egg and salty sheep cheese (telemea or brânză de burduf).",
     "how_to_eat": "Eat it hot with the mămăligă, egg and cheese, traditionally with wine.",
     "how_to_order": "Ask for tochitură moldovenească cu mămăligă.",
     "typical_price": null,
@@ -630,13 +631,14 @@
     "how_to_order": "Ask for poale-n brâu dulci (sweet) or sărate (salty) at bakeries.",
     "typical_price": null,
     "currency": "RON",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
       "gluten",
-      "dairy"
+      "dairy",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://ro.wikipedia.org/wiki/Brânzoaică",
@@ -685,7 +687,7 @@
     "country": "Romania",
     "state": "Moldavia",
     "regions": [],
-    "description": "Elongated patties of minced pork and beef (sometimes lamb or chicken) mixed with egg, grated potato, soaked bread, onion and herbs such as parsley, dill and thyme. They are rolled in breadcrumbs and fried, and are sometimes finished in tomato sauce.",
+    "description": "Elongated patties of minced pork and beef (sometimes lamb or chicken) mixed with egg, grated potato, bread soaked in milk or water, onion and herbs such as parsley, dill and thyme. They are rolled in breadcrumbs and fried, and are sometimes finished in tomato sauce.",
     "how_to_eat": "Eat them with mashed potatoes or pickles.",
     "how_to_order": "Ask for pârjoale moldovenești.",
     "typical_price": null,
@@ -696,7 +698,8 @@
     "spice": 0,
     "allergens": [
       "egg",
-      "gluten"
+      "gluten",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pârjoale",
@@ -719,12 +722,13 @@
     "how_to_order": "Ask for alivenci in Moldavia.",
     "typical_price": null,
     "currency": "RON",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "dairy"
+      "dairy",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Alivenci",
@@ -790,7 +794,7 @@
       "nuts"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mucenici",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Mucenici",
       "https://en.wikipedia.org/wiki/Romanian_cuisine"
@@ -837,7 +841,7 @@
     "regions": [],
     "description": "The shepherds' version of mămăligă, made from maize flour boiled in ewe's milk. It is rarely found except at sheepfolds.",
     "how_to_eat": null,
-    "how_to_order": "Ask for balmoș at sheepfolds (stâne) in summer.",
+    "how_to_order": "Ask for balmoș at sheepfolds (stâne).",
     "typical_price": null,
     "currency": "RON",
     "diet": "veg",
@@ -929,6 +933,7 @@
     "gi_tag": false,
     "wikipedia_url": "https://ro.wikipedia.org/wiki/Pomana_porcului",
     "source_urls": [
+      "https://ro.wikipedia.org/wiki/Pomana_porcului",
       "https://www.cjmaramures.ro/attachments/turism/EN%20-%20Visit%20Maramures%20-%20Gastronomy.pdf",
       "https://en.wikipedia.org/wiki/Romanian_cuisine"
     ]
@@ -1004,7 +1009,7 @@
     "state": "Banat",
     "regions": [],
     "description": "A clear chicken broth with fine homemade egg noodles and parsley, served at Sunday and weekend family meals in Banat. Traditionally the soup is made from household-raised chickens.",
-    "how_to_eat": "Eat it as the first course of a Sunday meal, after a glass of plum brandy.",
+    "how_to_eat": "Eat it as the first course of a Sunday meal, after a glass of brandy (rachiu).",
     "how_to_order": "Ask for supă de pui cu tăiței de casă.",
     "typical_price": null,
     "currency": "RON",
@@ -1077,6 +1082,7 @@
     "gi_tag": false,
     "wikipedia_url": "https://ro.wikipedia.org/wiki/Găluște_cu_prune",
     "source_urls": [
+      "https://ro.wikipedia.org/wiki/Găluște_cu_prune",
       "https://www.rri.ro/en/close-up/the-cooking-show/dishes-from-banat-id173288.html",
       "https://www.cjmaramures.ro/attachments/turism/EN%20-%20Visit%20Maramures%20-%20Gastronomy.pdf"
     ]
@@ -1119,7 +1125,7 @@
     "country": "Romania",
     "state": "Banat",
     "regions": [],
-    "description": "A fermented and distilled fruit brandy, made mostly from plums, produced in Banat. A glass of plum brandy 'to whet the appetite' opens the traditional Banat Sunday meal.",
+    "description": "A fermented and distilled fruit brandy; in mountain Banat plum brandy (răchie) is the drink of choice. A glass of brandy 'to whet the appetite' opens the traditional Banat Sunday meal.",
     "how_to_eat": "Drink a small glass before the soup.",
     "how_to_order": "Ask for răchie or rachiu de prune.",
     "typical_price": null,
@@ -1272,8 +1278,8 @@
     ],
     "description": "Thick sturgeon fillets that are portioned and salted, tied with string and cold-smoked over beech sawdust, all done by hand. It is made in Tulcea County, is served in Delta restaurants and became an EU protected geographical indication in 2026.",
     "how_to_eat": "Eat it thinly sliced as a cold starter.",
-    "how_to_order": "Ask for batog de sturion at fish shops and Delta restaurants; it is sold by weight.",
-    "typical_price": "400 per kg",
+    "how_to_order": "Ask for batog de sturion at fish shops and Delta restaurants; it is sold by weight, about 400 lei per kg.",
+    "typical_price": "400",
     "currency": "RON",
     "diet": "nonveg",
     "jain": false,

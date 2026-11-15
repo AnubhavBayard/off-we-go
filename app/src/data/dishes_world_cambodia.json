@@ -101,7 +101,7 @@
     "country": "Cambodia",
     "state": "Phnom Penh",
     "regions": [],
-    "description": "Steamed fish curry with a mousse-like texture: fish such as goby, snakehead or catfish is mixed with yellow or green kroeung paste, coconut cream and egg, then steamed in a banana-leaf cup lined with great morinda leaves. It is considered one of Cambodia's national dishes and may date to the Khmer royal court.",
+    "description": "Steamed fish curry with a mousse-like texture: fish such as goby, snakehead or catfish is mixed with yellow or green kroeung paste, coconut cream and egg, then steamed in a banana-leaf cup lined with great morinda leaves. It is considered one of Cambodia's national dishes and is believed to have been a royal dish of the Khmer Empire.",
     "how_to_eat": "Eat it hot with steamed rice.",
     "how_to_order": "Ask for amok trey; versions with chicken, tofu or beef are mainly made for tourists.",
     "typical_price": null,
@@ -243,7 +243,7 @@
       "Siem Reap"
     ],
     "description": "Lightly fermented fresh rice noodles served with a fish gravy made from yellow kroeung (lemongrass, kaffir lime, garlic, turmeric, fingerroot), freshwater fish and prahok. The Siem Reap version is thinner because no coconut milk is added. Num banhchok is a breakfast dish.",
-    "how_to_eat": "Eaten at room temperature with fresh herbs and vegetables.",
+    "how_to_eat": "Eaten at room temperature.",
     "how_to_order": "Sold mainly in the morning; ask for num banhchok.",
     "typical_price": null,
     "currency": "KHR",
@@ -329,7 +329,7 @@
     ],
     "description": "A Cambodian baguette sandwich filled with pork meatballs, mayonnaise, pickled carrot and daikon, salad and herbs such as coriander, mint and basil. Baguettes were adopted from the French; this filling is a popular street snack in Siem Reap.",
     "how_to_eat": null,
-    "how_to_order": "Ask for num pang brahet at sandwich carts.",
+    "how_to_order": null,
     "typical_price": null,
     "currency": "KHR",
     "diet": "nonveg",
@@ -413,20 +413,29 @@
     "regions": [
       "Battambang"
     ],
-    "description": "Noodles made with green papaya, listed as a Battambang dish and described by the source as vegetarian.",
-    "how_to_eat": null,
+    "description": "Rice noodles stir-fried in dark soy sauce, served with pickled green papaya, cucumber, carrot, bean sprouts, herbs and crushed peanuts, often with dried shrimp and hard-boiled egg, and dressed with a sweet-sour fish sauce. A dish of the Kola people who settled around Pailin, it is a Battambang signature dish; vegetarian versions skip the shrimp and fish sauce.",
+    "how_to_eat": "Mix everything together with the dressing in your bowl.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "KHR",
-    "diet": "veg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 1,
-    "allergens": [],
+    "allergens": [
+      "soy",
+      "gluten",
+      "peanuts",
+      "egg",
+      "fish",
+      "shellfish"
+    ],
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
-      "https://focus-cambodia.com/article/cambodia-food-battambang/"
+      "https://focus-cambodia.com/article/cambodia-food-battambang/",
+      "https://www.cambodiaembassyuk.org/kola-noodles/",
+      "https://grantourismotravels.com/mee-kola-recipe-vegetarian-noodles-cambodia/"
     ]
   },
   {
@@ -472,7 +481,7 @@
     ],
     "description": "Barbecued beef skewers flavoured with lemongrass kroeung, with pork fat threaded between the beef to keep it moist. In Phnom Penh they are served with pickled young papaya.",
     "how_to_eat": null,
-    "how_to_order": "Sold from charcoal grills at markets and street stalls.",
+    "how_to_order": "Sold at markets and street stalls.",
     "typical_price": null,
     "currency": "KHR",
     "diet": "nonveg",
@@ -537,7 +546,8 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "soy"
+      "soy",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chha_kh%27nhei",
@@ -555,7 +565,7 @@
     "country": "Cambodia",
     "state": "Battambang & Northwest",
     "regions": [],
-    "description": "A sour soup made with yellow kroeung and tamarind, with beef or pork ribs, water spinach or other vegetables, and fish sauce and/or prahok. Samlor machu is the Khmer name for the family of tamarind-soured soups.",
+    "description": "A sour soup made with yellow kroeung and tamarind, with beef tenderloin or pork ribs, water spinach or other vegetables, and fish sauce and/or prahok. Samlor machu is the Khmer name for the family of tamarind-soured soups.",
     "how_to_eat": "Eat with steamed rice.",
     "how_to_order": "Sold among the soups and curries at takeaway stalls such as those outside Psar Nat in Battambang.",
     "typical_price": null,
@@ -588,7 +598,7 @@
     ],
     "description": "Crab stir-fried with garlic, palm sugar, spring onions, fish sauce and fresh green Kampot peppercorns, a regional specialty of Kampot and Kep. At the Kep crab market, blue crab bought from vendors is cooked in woks over wood fires.",
     "how_to_eat": null,
-    "how_to_order": "At the Kep crab market, choose crab from a vendor and have it cooked on the spot.",
+    "how_to_order": "At the Kep crab market, eat it at the small restaurants lining the market, or buy crab raw and take it to a restaurant in town.",
     "typical_price": null,
     "currency": "KHR",
     "diet": "nonveg",
@@ -664,8 +674,7 @@
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Num_banhchok",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Num_banhchok",
-      "https://en.wikipedia.org/wiki/Kampot"
+      "https://en.wikipedia.org/wiki/Num_banhchok"
     ]
   },
   {
@@ -688,7 +697,9 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "shellfish"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fried_spider",
     "source_urls": [
@@ -708,8 +719,8 @@
       "Kratie"
     ],
     "description": "Glutinous rice mixed with black-eyed peas or beans, coconut milk, grated coconut and palm sugar, roasted in bamboo tubes over a fire for about 90 minutes. Thma Krae village in Kratie province and Samrong Khnong village in Battambang province are known for it, and it is often eaten at Chinese and Khmer New Year.",
-    "how_to_eat": "Peel back the bamboo and eat the rice from the tube.",
-    "how_to_order": "Sold from roadside carts.",
+    "how_to_eat": null,
+    "how_to_order": null,
     "typical_price": null,
     "currency": "KHR",
     "diet": "veg",
@@ -718,7 +729,7 @@
     "spice": 0,
     "allergens": [],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sticky_rice_in_bamboo",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Sticky_rice_in_bamboo",
       "https://en.wikipedia.org/wiki/Cambodian_cuisine"
