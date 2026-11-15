@@ -1,12 +1,14 @@
-import { useEffect, useLayoutEffect, useState } from 'react'
+import { useEffect, useLayoutEffect, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Award, ChevronDown, Globe, Leaf, MapPin, Search, Sprout, UserRound, X } from 'lucide-react'
 import { CATEGORY_LABEL, COUNTRIES, COUNTRY_CODE, dishes, imageFor, priceLabel, regionsOf, type Category } from '../data'
 import { positionIfAllowed, reverseGeocode } from '../memories'
 import { CATEGORY_ICON, DishPhoto, FoodTicker, PickerSheet } from '../ui'
 
+const PAGE = 40
+
 // Filters and scroll position outlive the page (open a dish, come back) for the rest of the app session.
-const saved = { q: '', category: null as Category | null, country: '', state: '', vegOnly: false, jainOnly: false, scrollY: 0, located: false }
+const saved = { q: '', category: null as Category | null, country: '', state: '', vegOnly: false, jainOnly: false, scrollY: 0, located: false, limit: PAGE }
 
 export default function Discover() {
   const [q, setQ] = useState(saved.q)
@@ -29,10 +31,16 @@ export default function Discover() {
     })
   }, [])
 
-  // First frame renders a screenful of cards; the rest follow once the tab transition is over, so it stays smooth.
-  // Coming back to a scrolled list renders everything at once so the old position exists to scroll back to.
-  const [limit, setLimit] = useState(saved.scrollY ? Infinity : 20)
-  useEffect(() => { const t = setTimeout(() => setLimit(Infinity), 450); return () => clearTimeout(t) }, [])
+  // Cards mount a page at a time as the user nears the bottom: all ~3,000 at once made every tap and keystroke lag.
+  // The count is remembered so coming back to a scrolled list still has the old position to scroll to.
+  const [limit, setLimit] = useState(saved.limit)
+  useEffect(() => { saved.limit = limit }, [limit])
+  const more = useRef<HTMLDivElement>(null)
+  useEffect(() => {
+    const io = new IntersectionObserver((e) => { if (e[0].isIntersecting) setLimit((l) => l + PAGE) }, { rootMargin: '1500px' })
+    if (more.current) io.observe(more.current)
+    return () => io.disconnect()
+  }, [])
   useLayoutEffect(() => { window.scrollTo(0, saved.scrollY) }, []) // braces: scrollTo returns a Promise React would call as cleanup
   useEffect(() => {
     const remember = () => { saved.scrollY = window.scrollY }
@@ -175,6 +183,7 @@ export default function Discover() {
           </li>
         ))}
       </ul>
+      <div ref={more} />
       {dishes.length > 0 && list.length === 0 && <p className="muted">No dishes match these filters.</p>}
     </div>
   )
