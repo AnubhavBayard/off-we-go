@@ -8,7 +8,7 @@
     "country": "Cuba",
     "state": "Havana & Western Cuba",
     "regions": [],
-    "description": "Stewed beef with tomatoes on a sofrito base; the name means 'old clothes', possibly for the tattered look of the meat. It came to Cuba from Spain via Canary Islands immigrants, was first reported cooked in Cuba in 1857, and is known as one of Cuba's national dishes.",
+    "description": "Stewed beef with tomatoes on a sofrito base; the name means 'old clothes', probably because it was often made from leftovers. It is believed to have come to Cuba from Spain with Canary Islands immigrants, was first reported cooked in Cuba in 1857, and is known as one of Cuba's national dishes.",
     "how_to_eat": "In Cuba it is often served with moros y cristianos and fried plantains.",
     "how_to_order": null,
     "typical_price": null,
@@ -63,7 +63,7 @@
     "regions": [
       "Havana"
     ],
-    "description": "A small round bun holding a seasoned patty of ground beef (often mixed with pork) flavoured with Spanish paprika, topped with fine-cut fried potato, malanga or sweet potato and dressed with mustard and ketchup. It was a staple of Havana street stalls by the 1920s, when Jorge Mañach wrote about it.",
+    "description": "A small round bun holding a seasoned patty of ground beef (often mixed with pork) flavoured with Spanish paprika and bound with egg, flour or milk-soaked breadcrumbs, topped with fine-cut fried potato, malanga or sweet potato and dressed with mustard and ketchup. It was a staple of Havana street stalls by 1926, when Jorge Mañach wrote about it.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -74,7 +74,9 @@
     "spice": 1,
     "allergens": [
       "gluten",
-      "mustard"
+      "mustard",
+      "egg",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
@@ -170,7 +172,7 @@
     "state": "Havana & Western Cuba",
     "regions": [],
     "description": "Slices of green plantain fried once, pressed flat and fried again until crisp. In Cuba they are also called chatinos or tachinos.",
-    "how_to_eat": "Salted and eaten like chips, sometimes dipped in garlic mojo.",
+    "how_to_eat": "Salted and eaten much like chips; in some regions dipped in mojo (garlic sauce).",
     "how_to_order": null,
     "typical_price": null,
     "currency": "CUP",
@@ -196,7 +198,7 @@
     "regions": [
       "Havana"
     ],
-    "description": "A cocktail of white rum, sugar (traditionally sugarcane juice), lime juice, soda water and mint. In Cuba it is usually made with yerba buena (Mentha × villosa). Havana is considered its birthplace, though the exact origin is debated.",
+    "description": "A cocktail of white rum, sugar, lime juice, soda water and mint; an early form used sugarcane juice. In Cuba it is usually made with yerba buena (Mentha × villosa). Havana is considered its birthplace, though the exact origin is debated.",
     "how_to_eat": "Served over crushed ice, garnished with mint sprigs.",
     "how_to_order": null,
     "typical_price": null,
@@ -307,7 +309,7 @@
     "regions": [
       "Camagüey"
     ],
-    "description": "A bread made from yuca, eaten in Cuba since before Spanish arrival and once called the 'bread of the land'. It is still made in some rural and mountain areas and is part of the food served at the San Juan festival in Camagüey.",
+    "description": "A bread made from yuca, eaten in Cuba since before Spanish arrival and called the 'bread of the land' by early chroniclers. It is still eaten mainly in rural and mountain areas; in Camagüey the local ajiaco was traditionally eaten with casabe, never with bread.",
     "how_to_eat": "Eaten alongside ajiaco.",
     "how_to_order": null,
     "typical_price": null,
@@ -335,8 +337,8 @@
     "regions": [
       "Trinidad"
     ],
-    "description": "A mix of aguardiente de caña (or rum), honey, lime juice and water over ice. It is linked to 19th-century independence fighters in the eastern countryside and is now associated with Trinidad, which holds an annual Canchánchara festival in December.",
-    "how_to_eat": "Traditionally drunk from a jícara, a small handleless clay cup.",
+    "description": "A mix of aguardiente de caña (or rum), honey, lime juice and water over ice. It is linked to 19th-century independence fighters (mambises) in the eastern countryside and is now associated with Trinidad, which held its first Canchánchara festival in December.",
+    "how_to_eat": "In Trinidad it is traditionally drunk from a jícara, a small handleless clay cup.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "CUP",
@@ -363,7 +365,7 @@
     "regions": [
       "Morón"
     ],
-    "description": "Shortbread-style biscuits from Morón in Ciego de Ávila province, made from flour, sugar, salt and lard, sometimes with a little guava or mango jam; modern recipes add citrus zest and egg yolks. EcuRed credits their creation to the local baker Serafina Echemendía and calls them a symbol of the town.",
+    "description": "Shortbread-style biscuits from Morón in Ciego de Ávila province, made from flour, sugar, salt and lard, sometimes with a little guava or mango jam; one account says they were brushed with egg yolk. EcuRed credits their creation in 1927 to the local baker Serafina Echemendía and calls them one of the town's main symbols.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -448,10 +450,9 @@
     "country": "Cuba",
     "state": "Eastern Cuba",
     "regions": [
-      "Granma",
-      "Santiago de Cuba"
+      "Granma"
     ],
-    "description": "A fermented soft drink brewed from the root of the bejuco ubí and other roots, with ginger, allspice leaves, cinnamon and raw sugar, fermented with a starter kept from the previous batch. It is traced to French settlers and enslaved people who arrived in eastern Cuba after the Haitian Revolution.",
+    "description": "A fermented soft drink brewed from the root of the bejuco ubí and other roots, with ginger, allspice leaves, cinnamon and raw sugar, fermented with a starter kept from the previous batch. It is traced to French settlers and enslaved people who arrived in eastern Cuba after the Haitian Revolution; in Granma it is also made industrially.",
     "how_to_eat": "Served very cold.",
     "how_to_order": null,
     "typical_price": null,
@@ -480,7 +481,7 @@
       "Havana"
     ],
     "description": "A cocktail of white rum, lime juice and sugar, named after a beach and iron mine near Santiago de Cuba, where it is generally credited to mining engineer Jennings Cox around 1898. It was later refined and popularized by bartenders in Havana.",
-    "how_to_eat": "Served in a cocktail glass with crushed ice.",
+    "how_to_eat": "Shaken with ice and strained into a chilled cocktail glass, or served over ice cubes.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "CUP",
@@ -536,7 +537,7 @@
     "regions": [
       "Baracoa"
     ],
-    "description": "A tamal of grated green plantain mixed with coconut, filled with seasoned pork (sometimes crab) and wrapped in wilted banana leaves, then boiled. Unstuffed versions are called guanimo in Baracoa.",
+    "description": "A tamal of grated green plantain mixed with coconut milk, filled with seasoned pork (sometimes crab) and wrapped in wilted banana leaves, then boiled. Unstuffed versions are called guanimo in Baracoa.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -545,7 +546,9 @@
     "jain": false,
     "vegan": false,
     "spice": 1,
-    "allergens": [],
+    "allergens": [
+      "shellfish"
+    ],
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
@@ -595,7 +598,7 @@
     "regions": [
       "Baracoa"
     ],
-    "description": "A thick hot chocolate made in Baracoa from a grated ball of local cacao boiled with coconut milk or cow's milk, sweetened and thickened with a starch such as plantain, cassava or corn flour. Elsewhere in eastern Cuba chorote is a drink of toasted ground corn.",
+    "description": "A thick hot chocolate made in Baracoa from a grated ball of local cacao boiled with coconut milk or cow's milk, sweetened and thickened with a starch such as plantain, cassava or corn flour (sometimes wheat flour). Elsewhere in eastern Cuba chorote is a drink of toasted ground corn.",
     "how_to_eat": "Drunk hot, often at breakfast.",
     "how_to_order": null,
     "typical_price": null,
@@ -605,7 +608,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "dairy"
+      "dairy",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
@@ -652,7 +656,7 @@
     "regions": [
       "Baracoa"
     ],
-    "description": "Tender cabbage leaves boiled with coconut milk and spices. Baracoa's tourism site describes it as a dish eaten in the countryside when few other foods were available.",
+    "description": "Tender cabbage leaves boiled with coconut milk and spices. Baracoa's local site says it was made when few other foods were available and was eaten by independence fighters (mambises) in the countryside.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,

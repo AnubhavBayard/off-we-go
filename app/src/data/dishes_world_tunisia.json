@@ -10,9 +10,9 @@
     "regions": [
       "Tunis"
     ],
-    "description": "A sheet of thin malsouka pastry folded around a whole egg, usually with tuna, parsley, chopped onion and mashed potato, then deep-fried. The egg is meant to stay runny inside. Other fillings include minced meat, shrimp or cheese.",
-    "how_to_eat": "Eat it by hand while hot, with a squeeze of lemon, without letting the runny yolk drip.",
-    "how_to_order": "Ask for a brik à l'œuf; it appears on most Tunisian restaurant menus.",
+    "description": "A sheet of thin malsouka pastry folded into a triangle around a whole egg, usually with chopped onion, tuna, harissa and parsley, then deep-fried so the egg stays runny. Other fillings include ground meat, chicken, anchovies, capers, cheese or a little potato.",
+    "how_to_eat": "Eat it by hand while piping hot, with a sprinkle of lemon juice, trying not to let the runny egg drip.",
+    "how_to_order": "Ask for a brik à l'œuf; it appears on almost every Tunisian restaurant menu.",
     "typical_price": null,
     "currency": "TND",
     "diet": "nonveg",
@@ -43,15 +43,17 @@
     "regions": [],
     "description": "Chickpeas in a thin garlic and cumin broth poured over pieces of stale bread, finished with olive oil, harissa, lemon juice and salt. Sold in casual eateries and in the street, including late at night, all over Tunisia, and eaten mainly in winter.",
     "how_to_eat": "Break bread into the empty bowl yourself before the waiter ladles the chickpeas and broth over it.",
-    "how_to_order": "Often topped with egg and tuna; ask for it sans oeufs et thon if you want it vegan.",
+    "how_to_order": "Often topped with hard-boiled egg and tuna; ask for it sans oeufs et thon if you want it vegetarian or vegan.",
     "typical_price": null,
     "currency": "TND",
-    "diet": "veg",
+    "diet": "nonveg",
     "jain": false,
-    "vegan": true,
+    "vegan": false,
     "spice": 2,
     "allergens": [
-      "gluten"
+      "gluten",
+      "egg",
+      "fish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lablabi",
@@ -155,17 +157,18 @@
     "country": "Tunisia",
     "state": "Tunis & North",
     "regions": [],
-    "description": "Eggs scrambled into a sauce of tomatoes and peppers cooked in oil with garlic, ground caraway and harissa or paprika. It is often made with merguez, meatballs, brains or shrimp, and differs from chakchouka in using no onion and only caraway as spice.",
+    "description": "Eggs scrambled into a sauce of tomatoes and peppers cooked in oil with garlic, ground caraway and harissa or paprika. It can be made with merguez, meatballs, brains or shrimp, and differs from chakchouka in using no onion and only caraway as spice.",
     "how_to_eat": null,
     "how_to_order": "Ojja merguez (with sausage) is a common version.",
     "typical_price": null,
     "currency": "TND",
-    "diet": "egg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 2,
     "allergens": [
-      "egg"
+      "egg",
+      "shellfish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://fr.wikipedia.org/wiki/Ojja",
@@ -281,7 +284,8 @@
     "vegan": true,
     "spice": 0,
     "allergens": [
-      "nuts"
+      "nuts",
+      "peanuts"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tea_with_pine_nuts",
@@ -328,7 +332,7 @@
       "Cap Bon"
     ],
     "description": "Grilled tomatoes, peppers or fresh chillies and onions, peeled and chopped, seasoned with garlic, coriander, caraway, olive oil and lemon juice, often with harissa. It is normally topped with tuna and slices of hard-boiled egg, and is credited to Andalusians who settled in Cap Bon after 1492 bringing New World peppers and tomatoes.",
-    "how_to_eat": "Served as a starter or alongside grilled fish.",
+    "how_to_eat": "Served as a starter with almost every meal.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "TND",
@@ -371,13 +375,15 @@
     "spice": 0,
     "allergens": [
       "nuts",
-      "gluten"
+      "gluten",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
       "https://fr.allafrica.com/stories/202603080012.html",
-      "https://fr.wikipedia.org/wiki/Zaghouan"
+      "https://fr.wikipedia.org/wiki/Zaghouan",
+      "https://engagingcultures.com/traditional-kaak-warka-of-zaghouan-tunisia"
     ]
   },
   {
@@ -391,7 +397,7 @@
     "regions": [
       "Hammam Ghezaz"
     ],
-    "description": "Bagel-shaped biscuits of semolina sourdough enriched with homemade butter and rosewater, filled with dates worked with olive oil and sesame, and decorated with shapes such as flowers, fish or the khamsa. Families start making them during Ramadan to eat at Eid al-Fitr, baking them on the walls of a tabouna oven.",
+    "description": "Bagel-shaped biscuits of wheat sourdough enriched with homemade butter and rosewater, filled with dates worked with olive oil and sesame, and decorated with shapes such as flowers, fish or the khamsa. Families start making them during Ramadan to eat at Eid al-Fitr, baking them on the walls of a tabouna oven.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -582,7 +588,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "nuts"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Makroudh",
@@ -878,7 +885,7 @@
   {
     "id": "tunisia-zammita",
     "name": "Zammita",
-    "local_name": "بسيسة",
+    "local_name": null,
     "pronunciation": null,
     "category": "snack",
     "country": "Tunisia",
@@ -946,8 +953,8 @@
     ],
     "description": "Sweet date-palm sap collected at dawn and drunk fresh like juice; it ferments within hours into palm wine and quickly turns to vinegar in the summer heat. It is drunk mainly from March to October, including to break the Ramadan fast.",
     "how_to_eat": null,
-    "how_to_order": "Bought by the bottle early in the morning from oasis producers around Gabès.",
-    "typical_price": "2.5 per litre",
+    "how_to_order": "Bought by the bottle early in the morning in Gabès.",
+    "typical_price": null,
     "currency": "TND",
     "diet": "veg",
     "jain": false,
@@ -970,7 +977,9 @@
     "category": "street_food",
     "country": "Tunisia",
     "state": "Djerba & South",
-    "regions": [],
+    "regions": [
+      "Gafsa"
+    ],
     "description": "A southern flatbread, also called kesra bech'ham, of fine semolina dough filled with cubed lamb-tail fat, onion, garlic, parsley, tomato paste, chilli, harissa, caraway and turmeric, sealed, flattened thin and cooked on both sides in a very hot pan.",
     "how_to_eat": null,
     "how_to_order": null,
@@ -1127,8 +1136,8 @@
     ],
     "description": "Round fritters of a soft, light yeasted dough of flour, smen and beaten eggs, left to rise up to 24 hours, fried and dipped in honey or thick sugar syrup. Typical of Béja and sold all year, they are a standard Ramadan sweet across Tunisia.",
     "how_to_eat": null,
-    "how_to_order": "Sold by weight at Béja pastry stalls, especially during Ramadan.",
-    "typical_price": null,
+    "how_to_order": "Sold by the kilo at Béja pastry stalls, especially during Ramadan.",
+    "typical_price": "10",
     "currency": "TND",
     "diet": "egg",
     "jain": false,
@@ -1160,8 +1169,8 @@
     ],
     "description": "A fried, syrup-soaked sweet of very light leavened dough, close to mkharek but different in shape and colour. Béja's artisans make it with clarified butter, honey and eggs, and families from across Tunisia buy it there for Ramadan iftar.",
     "how_to_eat": null,
-    "how_to_order": "Sold by weight alongside mkharek in Béja during Ramadan.",
-    "typical_price": null,
+    "how_to_order": "Sold by the kilo alongside mkharek in Béja during Ramadan.",
+    "typical_price": "12",
     "currency": "TND",
     "diet": "egg",
     "jain": false,
@@ -1229,7 +1238,7 @@
     "currency": "TND",
     "diet": "veg",
     "jain": false,
-    "vegan": true,
+    "vegan": false,
     "spice": 0,
     "allergens": [],
     "gi_tag": false,

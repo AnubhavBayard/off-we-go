@@ -154,8 +154,8 @@
     "regions": [
       "Cape Town"
     ],
-    "description": "Fish such as yellowtail, kabeljou, snoek or hake left for two to three days in a sweet-sour curried sauce of onions, vinegar, sugar, bay leaves and fish masala. Cape Malay cooks used a spice masala to preserve fish for Dutch East India Company voyages, and it is traditionally eaten by both Christian and Muslim families over the Easter weekend.",
-    "how_to_eat": "Often eaten with hot cross buns or bread, hot or cold.",
+    "description": "Fish such as hake, cooked and left in a sweet-sour pickle of vinegar, sugar, onions, bay leaves, turmeric and curry powder. It has historical roots in the Cape Malay community and is mostly associated with Easter, which falls in autumn when fish were historically plentiful on the South African coast.",
+    "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
     "currency": "ZAR",
@@ -169,7 +169,7 @@
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
-      "https://www.news24.com/southafrica/news/pickled-fish-fever-sets-in-in-cape-town-20220415",
+      "https://www.foodformzansi.co.za/pickled-fish-recipe-tradition-and-taste-in-every-bite/",
       "https://en.wikipedia.org/wiki/South_African_cuisine"
     ]
   },
@@ -222,7 +222,8 @@
     "spice": 0,
     "allergens": [
       "egg",
-      "gluten"
+      "gluten",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hertzoggie",
@@ -336,7 +337,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mosbolletjies",
@@ -349,7 +351,7 @@
     "id": "south_africa-pinotage",
     "name": "Pinotage",
     "local_name": null,
-    "pronunciation": "PIN-oh-tahzh",
+    "pronunciation": "PIN-uh-tahzh",
     "category": "drink",
     "country": "South Africa",
     "state": "Winelands & Western Cape",
@@ -428,7 +430,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bunny_chow",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Bunny_chow",
-      "https://southafrica.net/uk/en/travel/article/all-you-need-to-know-about-durban-indian-cuisine"
+      "https://www.vice.com/en/article/the-brutal-history-of-south-africas-most-famous-curry"
     ]
   },
   {
@@ -442,7 +444,7 @@
     "regions": [
       "Durban"
     ],
-    "description": "A hot curry, typically of mutton or lamb, built on garlic, ginger and a masala of cayenne, paprika, cinnamon, cumin and fennel, with potatoes often added; it is spicier than Cape Malay curry. Its roots lie with Indian indentured labourers who arrived in Natal from 1860, and Durban curries are known for the glossy layer of oil on top.",
+    "description": "A hot curry, typically of mutton or lamb, cooked with garlic, ginger and a masala of cayenne, paprika, cinnamon, cumin and fennel, often with chunks of potato; it is spicier than Cape Malay curry. Its roots lie with Indian indentured labourers who came to Natal between 1860 and 1911, and Durban curries are known for the glossy layer of oil on top.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -456,7 +458,7 @@
     "wikipedia_url": null,
     "source_urls": [
       "https://en.wikipedia.org/wiki/South_African_cuisine",
-      "https://southafrica.net/uk/en/travel/article/all-you-need-to-know-about-durban-indian-cuisine"
+      "https://www.vice.com/en/article/the-brutal-history-of-south-africas-most-famous-curry"
     ]
   },
   {
@@ -500,7 +502,7 @@
     "how_to_order": null,
     "typical_price": null,
     "currency": "ZAR",
-    "diet": "veg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -556,7 +558,7 @@
     "description": "A hollowed-out quarter loaf of bread stuffed with slap chips plus fillings such as polony, sausage, egg, cheese, beef patty and atchar. It started in the townships, derived from the bunny chow, and the name comes from 'quarter'; it is also called sphatlho or skhambane.",
     "how_to_eat": "Often eaten with a cola.",
     "how_to_order": "Sold at spaza shops and township takeaways; price depends on size and fillings.",
-    "typical_price": "15-120",
+    "typical_price": null,
     "currency": "ZAR",
     "diet": "nonveg",
     "jain": false,
@@ -637,7 +639,7 @@
       "Johannesburg"
     ],
     "description": "A spicy vegetable relish of tomatoes, beans, onion, garlic and chilli or curry paste, sometimes with cabbage or butternut. It is said to have started in Johannesburg's townships or gold mines, where Mozambican mineworkers cooked tinned produce with chilli to go with pap.",
-    "how_to_eat": "Served with pap, bread, samp or at a braai, warm, cold or at room temperature.",
+    "how_to_eat": "Served with pap, bread, samp, stews or curries, often at a braai; it can be eaten cold or at room temperature.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "ZAR",
@@ -717,7 +719,7 @@
     "country": "South Africa",
     "state": "Johannesburg & Gauteng",
     "regions": [],
-    "description": "A cooked sheep's or cow's head, boiled as a stew. It is sold by street vendors in townships, sometimes in industrial areas with many workers.",
+    "description": "A boiled stew of a cow's or sheep's head, also called inhloko. Cooked heads sold as 'smileys' are popular in townships, sold by street vendors and sometimes in industrial areas with many workers.",
     "how_to_eat": "Usually served with phuthu (crumbly maize meal).",
     "how_to_order": null,
     "typical_price": null,
@@ -751,7 +753,9 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "dairy"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Umngqusho",
     "source_urls": [
@@ -799,7 +803,7 @@
     "how_to_order": null,
     "typical_price": null,
     "currency": "ZAR",
-    "diet": "veg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -955,7 +959,7 @@
     "country": "South Africa",
     "state": "Karoo & the Interior",
     "regions": [],
-    "description": "A coarse sausage of beef, often with pork, lamb or goat, spiced with toasted coriander, pepper, nutmeg, cloves and allspice, and usually formed into a continuous spiral. By South African regulation it must be at least 90% meat and may contain no offal other than the casing.",
+    "description": "A coarse sausage of beef, often with pork, lamb or goat, spiced with toasted coriander, pepper, nutmeg, cloves and allspice, and usually formed into a continuous spiral. By South African regulation it must be at least 90% meat or fat from beef, pork, lamb or goat, and may contain no offal other than the casing.",
     "how_to_eat": "Grilled on the braai and served with pap.",
     "how_to_order": null,
     "typical_price": null,
