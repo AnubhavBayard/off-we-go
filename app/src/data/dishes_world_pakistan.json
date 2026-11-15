@@ -41,7 +41,7 @@
       "Lahore"
     ],
     "description": "A stew of the trotters (paye) and head (siri) of cow, goat or sheep, slow-cooked overnight until the stock turns thick and gelatinous. In Pakistan it is a classic winter breakfast eaten with plain naan; Lahore is known for its paye shops.",
-    "how_to_eat": "Tear fresh naan into the hot stew; squeeze lemon and add ginger and green chilli on top.",
+    "how_to_eat": "Tear fresh naan into the hot stew; add lemon, ginger and coriander on top.",
     "how_to_order": "Go early in the morning to a paye shop and ask for siri paye with naan; the bone marrow (nalli) is a prized extra.",
     "typical_price": null,
     "currency": "PKR",
@@ -164,7 +164,7 @@
     "regions": [
       "Lahore"
     ],
-    "description": "Chicken or mutton cooked fast over high heat in a wok-like karahi with tomatoes, ginger and green chillies; Lahore's version is known for its heat. At places like Lakshmi Chowk the meat is chosen and cut in front of you and often cooked in butter.",
+    "description": "Chicken or mutton cooked over high heat in a wok-like karahi with a spicy tomato-based gravy; it is a Lahore speciality. At places like Lakshmi Chowk the meat is chosen and cut in front of you and often cooked in butter.",
     "how_to_eat": "Eat straight from the karahi with hot naan or roti.",
     "how_to_order": "Order by weight (half or full kilo) of chicken or mutton karahi at a karahi house; it is cooked to order.",
     "typical_price": null,
@@ -225,7 +225,7 @@
     "country": "Pakistan",
     "state": "Lahore & Punjab",
     "regions": [],
-    "description": "Tea made by boiling the tea leaves directly in milk with sugar, sometimes with cardamom. Very sweet and strong, it is Pakistan's everyday tea, drunk at all hours and central to hospitality.",
+    "description": "Tea made by cooking the tea leaves directly in milk with sugar, sometimes with cardamom. Extremely sweet, it is Pakistan's everyday milk tea.",
     "how_to_eat": null,
     "how_to_order": "Ask for doodh patti at any dhaba or tea stall.",
     "typical_price": null,
@@ -252,9 +252,7 @@
     "category": "meal",
     "country": "Pakistan",
     "state": "Karachi & Sindh",
-    "regions": [
-      "Karachi"
-    ],
+    "regions": [],
     "description": "Sindh's meat-and-rice biryani, made with mutton or chicken (sometimes fish or prawns), basmati rice, potatoes, tomatoes, onions, yoghurt and spices; prunes may be added. It is one of the most eaten dishes in Pakistan.",
     "how_to_eat": "Eat with raita and salad.",
     "how_to_order": "Biryani shops sell it by the plate; ask for Sindhi biryani with chicken or mutton.",
@@ -352,9 +350,9 @@
       "Karachi",
       "Lahore"
     ],
-    "description": "Offal such as kidney, brain, heart, liver and testicles, with lamb chops, chopped and stir-fried in butter on a flat griddle. The name comes from the clatter of the two blades chopping on the griddle; it began in Karachi and is popular across Pakistan.",
+    "description": "Offal such as kidney, brain, heart, liver, lungs and testicles, with lamb chops, chopped and stir-fried in butter on a flat griddle. The name comes from the clatter of the two blades chopping on the griddle; it began in Karachi and is popular across Pakistan, including Lahore.",
     "how_to_eat": "Eat with naan straight off the griddle.",
-    "how_to_order": "Order by the plate at night-time street griddles; ask which parts go in if you are squeamish.",
+    "how_to_order": "Order by the plate at street griddles and cafes; ask which parts go in if you are squeamish.",
     "typical_price": null,
     "currency": "PKR",
     "diet": "nonveg",
@@ -406,9 +404,9 @@
     "country": "Pakistan",
     "state": "Karachi & Sindh",
     "regions": [],
-    "description": "Hilsa (palla) from the Indus, a prized Sindhi delicacy that is fried with local spices, cooked with onions and potatoes, or barbecued. The roe (aani) is fried alongside and considered a treat.",
+    "description": "Hilsa (palla) fish, a prized Sindhi delicacy that is deep-fried with local spices, cooked with onions and potatoes, or barbecued. The roe (aani) is fried alongside and considered a treat.",
     "how_to_eat": "Eat carefully, the fish is very bony.",
-    "how_to_order": "Ask for palla in season at Sindhi fish shops and riverside eateries.",
+    "how_to_order": "Ask for palla in season at Sindhi fish shops and eateries.",
     "typical_price": null,
     "currency": "PKR",
     "diet": "nonveg",
@@ -496,7 +494,7 @@
     "regions": [
       "Peshawar"
     ],
-    "description": "A large flat patty of minced beef or mutton mixed with wheat flour, egg, chillies, coriander, tomatoes, onions and spices, traditionally fried in lamb or beef fat over wood fires. It originated in Peshawar and is a Pashtun speciality; Namak Mandi is the famous place to eat it.",
+    "description": "A large flat patty of minced beef or mutton mixed with wheat flour, egg, chillies, coriander, tomatoes, onions and spices, traditionally fried in lamb or beef fat over wood fires. It originated in Peshawar and is a Pashtun speciality.",
     "how_to_eat": "Eat hot with naan, yoghurt and salad, or wrapped as a bun kebab; kahwa often follows.",
     "how_to_order": "Order by the piece at kebab shops; ask for beef or mutton.",
     "typical_price": null,
@@ -644,9 +642,7 @@
     "category": "meal",
     "country": "Pakistan",
     "state": "Balochistan",
-    "regions": [
-      "Quetta"
-    ],
+    "regions": [],
     "description": "Whole lamb, or chicken in the cities, marinated mainly in salt with a few spices and roasted on skewers around a fire, often stuffed with rice. It comes from the Baloch and is served with kaak bread in Balochistan and with rice elsewhere.",
     "how_to_eat": "Pull the meat off the bone and eat with kaak or rice.",
     "how_to_order": "Order a whole or half chicken sajji at sajji houses; lamb sajji usually needs pre-ordering.",
@@ -707,7 +703,7 @@
     "regions": [
       "Quetta"
     ],
-    "description": "Large chunks of lamb or goat cooked slowly until tender in their own fat with onions and very little seasoning, often just salt. A Balochi staple, especially in Quetta, served with naan and moong dal.",
+    "description": "Large chunks of goat or lamb cooked slowly until tender, slightly oily, with very little seasoning, often just salt. A Baloch and Pashtun dish, well known around Quetta, served with naan and moong dal.",
     "how_to_eat": "Eat with tandoor naan, dal and raita.",
     "how_to_order": "Order at roadside restaurants on the highways around Quetta.",
     "typical_price": null,
@@ -814,10 +810,9 @@
     "state": "Gilgit-Baltistan & Hunza",
     "regions": [
       "Hunza",
-      "Nagar",
       "Gilgit"
     ],
-    "description": "Minced or boiled meat with onions, ginger, garlic and green chillies sealed between two thin wheat flatbreads and cooked on a griddle, traditionally in walnut or apricot oil. It began in Nagar valley and is Gilgit-Baltistan's best-known dish, often called the local pizza.",
+    "description": "Minced or boiled meat with onions, ginger, garlic and green chillies sealed between two thin wheat flatbreads and cooked on a griddle, traditionally in walnut oil. It is Gilgit-Baltistan's best-known dish and is now popular across Pakistan.",
     "how_to_eat": "Cut into wedges and eat hot, sometimes with chutney or yoghurt.",
     "how_to_order": "Sold at cafes and street stalls in Karimabad and Gilgit.",
     "typical_price": null,
@@ -827,7 +822,8 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "gluten"
+      "gluten",
+      "nuts"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
@@ -894,7 +890,7 @@
       "dairy"
     ],
     "gi_tag": false,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Harees",
+    "wikipedia_url": null,
     "source_urls": [
       "https://www.slurrp.com/article/6-traditional-hunza-dishes-you-must-try-1735823996440",
       "https://www.apricottours.pk/food-in-gilgit-baltistan/"
@@ -971,7 +967,7 @@
     "regions": [
       "Hunza"
     ],
-    "description": "Hoi, a spinach-like green, boiled together with pieces of bread, garlic, ginger and onions into a soft dish. A traditional Hunza home dish eaten alone or with other food.",
+    "description": "Hoi, a spinach-like green, boiled together with pieces of bread, garlic, ginger and onions into a soft dish, sometimes topped with crushed walnuts. A traditional Hunza home dish eaten alone or with other food.",
     "how_to_eat": null,
     "how_to_order": "Try it at traditional food cafes in Hunza.",
     "typical_price": null,
@@ -981,7 +977,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "nuts"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
@@ -1030,10 +1027,9 @@
     "country": "Pakistan",
     "state": "Gilgit-Baltistan & Hunza",
     "regions": [
-      "Skardu",
       "Chitral"
     ],
-    "description": "Salty Tibetan-style tea churned with butter and salt to a froth, drunk in Gilgit-Baltistan and Chitral. It is a warming drink taken throughout the day in the cold mountains.",
+    "description": "Salty Tibetan-style tea churned with butter (traditionally yak butter) and salt to a froth, drunk in Gilgit-Baltistan and Chitral as a warming drink in the cold mountains.",
     "how_to_eat": null,
     "how_to_order": "Ask for namkeen (salt) chai or gurgur cha in Baltistan and Chitral.",
     "typical_price": null,

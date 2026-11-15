@@ -10,7 +10,7 @@
     "regions": [
       "Tashkent"
     ],
-    "description": "Tashkent's festive plov, cooked early in the morning in large batches in thick-walled hemispherical cast-iron cauldrons. The festive version uses long-grain rice, dried fruits, large chickpeas, boiled horse meat and quail eggs. 'Tashkent wedding pilaf' was registered as a geographical indication by Uzbekistan's Ministry of Justice in April 2026.",
+    "description": "Tashkent's festive plov, cooked early in the morning in large batches in thick-walled hemispherical cast-iron cauldrons. The festive version uses long-grain rice, dried fruits, large peas, boiled horse meat and quail eggs. 'Tashkent wedding pilaf' was registered as a geographical indication by Uzbekistan's Ministry of Justice in April 2026.",
     "how_to_eat": "Eat from a shared platter, with green tea and a tomato-onion salad.",
     "how_to_order": "Served at weddings and celebrations; in plov centres ask for to'y oshi.",
     "typical_price": null,
@@ -75,7 +75,7 @@
       "So'qoq",
       "Parkent"
     ],
-    "description": "Spring greens samsa from So'qoq village in Parkent district, Tashkent region. Its key filling is mador, a wild onion that grows in the cool mountain climate around So'qoq in April and May. It is registered as a geographical indication with the Ministry of Justice.",
+    "description": "Spring greens samsa from So'qoq village in Parkent district, Tashkent region. Its key filling is mador (madra), a wild mountain green of April and May, described as a mountain onion or mountain spinach in different sources. It was registered as a geographical indication with the Ministry of Justice in June 2025.",
     "how_to_eat": "Eat hot from the oven.",
     "how_to_order": "Look for it in spring around Parkent district.",
     "typical_price": null,
@@ -91,6 +91,7 @@
     "wikipedia_url": null,
     "source_urls": [
       "https://en.fergana.news/articles/138530/",
+      "https://www.afisha.uz/uz/tourism/2025/06/18/geographical-indications",
       "https://qalampir.uz/news/andizhon-devzira-oshi-%D2%B3am-patentlandi-137347",
       "https://www.orexca.com/uzbekistan/cuisine/dough-dishes.htm"
     ]
@@ -135,7 +136,7 @@
     "state": "Tashkent",
     "regions": [],
     "description": "Hand-made noodles with a gravy of meat and vegetables. Uzbekistan has several styles: kesma lagman is the Uzbek style of thick cut noodles with a gravy of radish, cabbage, potatoes, bell peppers and tomatoes, while chuzma lagman is the Uyghur pulled-noodle style. This entry is the Uzbek version, distinct from Xinjiang's Uyghur laghman.",
-    "how_to_eat": "Eat as a soup from a deep bowl, or as a main course with the gravy on top.",
+    "how_to_eat": "Eat from a deep bowl with the soup poured over the noodles.",
     "how_to_order": "Ask for kesma lagman or chuzma lagman at teahouses.",
     "typical_price": null,
     "currency": "UZS",
@@ -148,7 +149,7 @@
       "egg"
     ],
     "gi_tag": false,
-    "wikipedia_url": "https://uz.wikipedia.org/wiki/La%CA%BBg%CA%BBmon",
+    "wikipedia_url": "https://uz.wikipedia.org/wiki/Lag%CA%BBmon",
     "source_urls": [
       "https://uzbekistan.travel/en/o/uzbek-lagman/",
       "https://uzbekistan.travel/en/o/aroma-tashkent-cuisine/",
@@ -194,17 +195,18 @@
     "country": "Uzbekistan",
     "state": "Tashkent",
     "regions": [],
-    "description": "A sweet paste cooked from germinated wheat sprouts, flour and fat for about a day. It is prepared during Navruz, the spring new year festival.",
+    "description": "A sweet paste cooked from germinated wheat sprouts, flour and cottonseed oil for about a day. It is prepared during Navruz, the spring new year festival. Some cooks add walnuts or stones to the pot.",
     "how_to_eat": "Eat by the spoonful, often with bread.",
     "how_to_order": "Look for it around Navruz (March), when it is cooked in large cauldrons.",
     "typical_price": null,
     "currency": "UZS",
     "diet": "veg",
     "jain": false,
-    "vegan": false,
+    "vegan": true,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "nuts"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://uz.wikipedia.org/wiki/Sumalak",
@@ -256,13 +258,14 @@
     "how_to_order": "Buy from bakeries and bazaars in Samarkand.",
     "typical_price": null,
     "currency": "UZS",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
       "gluten",
-      "dairy"
+      "dairy",
+      "egg"
     ],
     "gi_tag": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Samarkand_non",
@@ -498,7 +501,7 @@
     ],
     "description": "A Bukharan Jewish 'green palov' of rice with meat or chicken and plenty of coriander, parsley and dill. It is cooked either in a small bag in boiling water (bakhshi khaltagi) or in a cauldron like regular plov (bakhshi degi).",
     "how_to_eat": null,
-    "how_to_order": "Found mainly in Bukharan Jewish homes and community kitchens.",
+    "how_to_order": null,
     "typical_price": null,
     "currency": "UZS",
     "diet": "nonveg",
@@ -554,18 +557,19 @@
     "regions": [
       "Bukhara"
     ],
-    "description": "Bukhara's version of obi non, the tandir-baked staple flatbread, sprinkled with sesame or nigella seeds. Bukhara bread is smaller and thicker than Samarkand's.",
+    "description": "Bukhara's version of obi non, the tandir-baked staple flatbread, sprinkled with sesame or nigella seeds.",
     "how_to_eat": "Tear by hand and eat with any meal.",
     "how_to_order": "Buy at Bukhara bakeries and bazaars.",
     "typical_price": null,
     "currency": "UZS",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
       "gluten",
-      "sesame"
+      "sesame",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
@@ -764,7 +768,7 @@
     "description": "Plov made with devzira, a reddish, dense rice grown in the Fergana Valley that keeps its grains separate. Fergana Valley plov is rich in oil and sometimes spiked with hot chilli. 'Andijan devzira oshi' was registered as a geographical indication, announced by the Intellectual Property Agency in June 2026. A plov portion in Andijan region averaged 31,200 som in January 2025.",
     "how_to_eat": "Eat from a shared plate with salad and tea.",
     "how_to_order": "Order at plov centres in Andijan.",
-    "typical_price": null,
+    "typical_price": "31200",
     "currency": "UZS",
     "diet": "nonveg",
     "jain": false,
@@ -848,9 +852,9 @@
       "Andijan",
       "Fergana"
     ],
-    "description": "A thin, layered flatbread of Andijan and Fergana, rolled thin and cooked in fat. Fat (animal fat or sunflower oil) is used between the layers.",
+    "description": "A thin, layered flatbread of Andijan and Fergana, rolled thin and cooked in fat. The layers are brushed with cream, butter or melted mutton fat (sunflower oil in some versions).",
     "how_to_eat": "Tear and eat with tea or soup.",
-    "how_to_order": "Ask whether animal fat is used if you are vegetarian.",
+    "how_to_order": "Ask whether mutton fat is used if you are vegetarian.",
     "typical_price": null,
     "currency": "UZS",
     "diet": "nonveg",
@@ -858,7 +862,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://uz.wikipedia.org/wiki/Qatlama",
@@ -879,7 +884,7 @@
     "regions": [
       "Kokand"
     ],
-    "description": "A Kokand halva made with cream, with chocolate and nuts added. Kokand is named among the esteemed halva-making towns of Uzbekistan.",
+    "description": "A Kokand halva made with cream, with chocolate and nuts added. Kokand is named among the esteemed halva-making towns of Uzbekistan. 'Qo‘qon holvasi' was registered as a geographical indication by the Ministry of Justice in July 2026.",
     "how_to_eat": "Eat in small pieces with green tea.",
     "how_to_order": "Buy at confectioners and bazaars in Kokand.",
     "typical_price": null,
@@ -892,11 +897,12 @@
       "dairy",
       "nuts"
     ],
-    "gi_tag": false,
+    "gi_tag": true,
     "wikipedia_url": null,
     "source_urls": [
       "https://uzbekistan.travel/en/o/favorite-oriental-delicacy-halva/",
-      "https://www.orexca.com/uzbekistan/cuisine/uzbek-sweets.htm"
+      "https://www.orexca.com/uzbekistan/cuisine/uzbek-sweets.htm",
+      "https://www.afisha.uz/uz/gorod/2026/07/08/halva"
     ]
   },
   {
@@ -1092,7 +1098,7 @@
     "vegan": false,
     "spice": 0,
     "allergens": [],
-    "gi_tag": false,
+    "gi_tag": true,
     "wikipedia_url": null,
     "source_urls": [
       "https://zamin.uz/en/uzbekistan/164857-jarqorgon-tandir-goshti-has-been-recognized-as-a-national-brand.html"
@@ -1107,7 +1113,7 @@
     "country": "Uzbekistan",
     "state": "Kashkadarya & Surkhandarya",
     "regions": [],
-    "description": "A Surkhandarya 'shepherd's kebab' that is not skewered: large pieces of mutton and rump fat fried in oil with potatoes and braised in a cauldron. It was first made by shepherds.",
+    "description": "A Surkhandarya 'shepherd's kebab' that is not skewered: large pieces of mutton, including rump, fried in oil with potatoes and braised in a cauldron. It was first made by shepherds.",
     "how_to_eat": null,
     "how_to_order": "Order at teahouses in Surkhandarya.",
     "typical_price": null,

@@ -11,7 +11,7 @@
       "Lagos"
     ],
     "description": "Parboiled long-grain rice cooked in one pot in a sauce of tomato purée or paste, onions and pepper, with oil, meat stock, thyme, bay leaves and curry powder. Party jollof is cooked over a wood fire, which gives it a smoky taste and a crusty bottom layer. Nigeria's version is one side of the friendly 'Jollof wars' with Ghana.",
-    "how_to_eat": "Eat it with chicken, beef, turkey or fish, usually with fried plantain, moi moi or coleslaw on the side.",
+    "how_to_eat": "Eat it with chicken, beef or fish, often with fried plantain (dodo) or moi moi on the side.",
     "how_to_order": "Ask for jollof with chicken or fish at any buka or local eatery; it is on almost every menu in Lagos and Abuja.",
     "typical_price": "2500-4500",
     "currency": "NGN",
@@ -36,8 +36,8 @@
     "country": "Nigeria",
     "state": "Lagos & Southwest",
     "regions": [],
-    "description": "Boiled yam pounded in a mortar into a smooth, heavy, stretchy dough, served with egusi soup, which is thickened with ground melon seeds and cooked with leafy greens, palm oil, locust beans and beef, goat, fish, shrimp or crayfish. Egusi is rooted in Yoruba cooking but eaten across Nigeria, and pounded yam is one of the most common 'swallows'.",
-    "how_to_eat": "Pinch off a piece of pounded yam with your right hand, dip it in the soup and swallow it with little chewing.",
+    "description": "Boiled yam pounded in a mortar into a smooth, heavy dough, served with egusi soup, which is thickened with ground melon seeds and cooked with leafy greens, oil, locust beans and beef, goat, fish, shrimp or crayfish. The word egusi comes from Yoruba, and the soup is eaten across Nigeria; pounded yam is one of the most common 'swallows'.",
+    "how_to_eat": "Eat with your hand: pinch off a piece of pounded yam, dip it in the soup and swallow it with little chewing.",
     "how_to_order": "Sold as a set plate in urban restaurants and bukas; you can also ask for vegetable soup instead of egusi.",
     "typical_price": "3500-7000",
     "currency": "NGN",
@@ -77,7 +77,10 @@
     "jain": false,
     "vegan": false,
     "spice": 2,
-    "allergens": [],
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Amala_(food)",
     "source_urls": [
@@ -99,7 +102,7 @@
       "Ogun State",
       "Lagos"
     ],
-    "description": "Unpolished local rice named after the Ofada community in Ogun State, served with ayamase, a dark green stew of green peppers, palm oil and iru (fermented locust beans) with assorted meat, offal, fish and eggs. A favourite at Yoruba owambe parties.",
+    "description": "Unpolished local rice named after the Ofada community in Ogun State, served with ayamase, a dark greenish stew of peppers and green peppers that usually contains meat, fish and eggs. Ayamase is popular at Yoruba owambe parties; a reddish ofada sauce of red peppers, onions, iru and palm oil is also common.",
     "how_to_eat": "In Lagos it is often wrapped in a fragrant leaf; eat the rice with the stew and the assorted meats.",
     "how_to_order": "Ask for ofada rice and sauce (ayamase is the green version; the red one is called ofada sauce).",
     "typical_price": "1200-2000",
@@ -216,11 +219,9 @@
     "category": "snack",
     "country": "Nigeria",
     "state": "Lagos & Southwest",
-    "regions": [
-      "Ondo"
-    ],
-    "description": "Spicy smoked goat meat linked to the Ondo people: seasoned goat is roasted over charcoal, then tossed with fried onions, bell peppers and habanero. A fixture of the 'small chops' at Yoruba owambe parties.",
-    "how_to_eat": "Eat as a finger food or appetiser with drinks.",
+    "regions": [],
+    "description": "A spiced Yoruba barbecue from western Nigeria, usually made by grilling goat meat and seasoning it with peppers such as rodo (scotch bonnet), bell peppers, ginger, garlic and other spices. Eaten at restaurants and parties and as street food.",
+    "how_to_eat": "Eat it on its own with a soft drink, or as a side with jollof, fried rice or ofada rice.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "NGN",
@@ -232,8 +233,7 @@
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Asun",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Asun",
-      "https://guardian.ng/?p=372294"
+      "https://en.wikipedia.org/wiki/Asun"
     ]
   },
   {
@@ -245,8 +245,8 @@
     "country": "Nigeria",
     "state": "Lagos & Southwest",
     "regions": [],
-    "description": "A light, watery, spicy broth made with goat, chicken or fish (often catfish), chilli, scent leaves and calabash nutmeg. Eaten across Nigeria and Cameroon; its flavour is nutty, bitter and woodsy as much as hot.",
-    "how_to_eat": "Drink it as a soup; it is popular in the evening with drinks.",
+    "description": "A light, watery, spicy broth made with goat, chicken or fish, chilli, scent leaves and calabash nutmeg. Eaten in Nigeria and Cameroon; its flavour is nutty, bitter and woodsy as much as hot.",
+    "how_to_eat": "Eat it as a soup; it is popular in the evening at bars, often with a cold drink.",
     "how_to_order": "Choose your protein (fish, goat or chicken) at casual spots and bars.",
     "typical_price": "2000-4000",
     "currency": "NGN",
@@ -255,7 +255,8 @@
     "vegan": false,
     "spice": 3,
     "allergens": [
-      "fish"
+      "fish",
+      "shellfish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Peppersoup",
@@ -361,7 +362,7 @@
     "state": "Southeast (Igbo)",
     "regions": [],
     "description": "An Igbo soup made without palm oil, hence 'white soup', usually with catfish, small pieces of yam or cocoyam as thickener, and bitter utazi leaves. Similar to the Efik afia efere.",
-    "how_to_eat": "Eat with pounded yam or akpu (fermented cassava swallow).",
+    "how_to_eat": "Eat with pounded yam, eba or another swallow.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "NGN",
@@ -370,7 +371,8 @@
     "vegan": false,
     "spice": 2,
     "allergens": [
-      "fish"
+      "fish",
+      "shellfish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ofe_Nsala",
@@ -398,7 +400,8 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "shellfish"
+      "shellfish",
+      "fish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ofe_Oha",
@@ -428,7 +431,8 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "fish"
+      "fish",
+      "shellfish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ofe_Owerri",
@@ -445,12 +449,10 @@
     "category": "snack",
     "country": "Nigeria",
     "state": "Southeast (Igbo)",
-    "regions": [
-      "Enugu"
-    ],
-    "description": "Shredded, soaked cassava mixed in palm oil curdled with potash, then dressed with ugba (fermented oil bean), utazi, garden eggs, peppers, ogiri and often crayfish, fish or cow skin. Can be a light cold snack or a full meal.",
-    "how_to_eat": "Eat at room temperature, often topped with fried fish or kanda.",
-    "how_to_order": "Ask whether it comes with fish or kanda; plain versions still usually contain crayfish.",
+    "regions": [],
+    "description": "Shredded, soaked cassava mixed in palm oil curdled with potash, then dressed with ugba (fermented oil bean), utazi, garden eggs, peppers, ogiri and often dried shrimp, fish or cow skin (kanda). Can be a light cold snack or a full meal.",
+    "how_to_eat": "Eat cold or at room temperature, often topped with fried fish or kanda.",
+    "how_to_order": "Ask whether it comes with fish or kanda; many versions also include dried shrimp.",
     "typical_price": null,
     "currency": "NGN",
     "diet": "nonveg",
@@ -476,19 +478,19 @@
     "category": "snack",
     "country": "Nigeria",
     "state": "Southeast (Igbo)",
-    "regions": [
-      "Enugu"
-    ],
-    "description": "A steamed savoury cake of bambara nut flour mixed with pepper, palm oil and seasoning. A traditional Igbo breakfast, common in the Southeast; known in Hausa as gurjiya or kwaruru.",
+    "regions": [],
+    "description": "A steamed savoury cake of bambara nut flour mixed with pepper, palm oil and seasoning, often with crayfish. A common Igbo breakfast in the Southeast; known in Hausa as gurjiya or kwaruru.",
     "how_to_eat": "Eat warm for breakfast, often with pap or a soft drink.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "NGN",
-    "diet": "veg",
+    "diet": "nonveg",
     "jain": false,
-    "vegan": true,
+    "vegan": false,
     "spice": 1,
-    "allergens": [],
+    "allergens": [
+      "shellfish"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Okpa",
     "source_urls": [
@@ -505,8 +507,8 @@
     "country": "Nigeria",
     "state": "Southeast (Igbo)",
     "regions": [],
-    "description": "Igbo dish of de-hoofed cow foot cooked and coated in a thick, spicy palm-oil sauce. Typically sold in bars and beer parlours as an evening dish.",
-    "how_to_eat": "Eat with your hands, usually with cold drinks.",
+    "description": "Igbo dish of de-hoofed cow foot cooked and coated in a thick, spicy palm-oil sauce made with potash, calabash nutmeg and crayfish. Found more in restaurants, bars and at social events than at home.",
+    "how_to_eat": "Eat it as an evening dish, usually with cold drinks.",
     "how_to_order": "Look for it at evening joints and bars rather than daytime eateries.",
     "typical_price": "4000-7000",
     "currency": "NGN",
@@ -514,7 +516,9 @@
     "jain": false,
     "vegan": false,
     "spice": 3,
-    "allergens": [],
+    "allergens": [
+      "shellfish"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nkwobi",
     "source_urls": [
@@ -531,8 +535,8 @@
     "country": "Nigeria",
     "state": "Southeast (Igbo)",
     "regions": [],
-    "description": "Goat's head spiced with habanero, ehu seeds, utazi and palm oil; the name means 'goat's head'. Similar to nkwobi but made with goat head instead of cow foot.",
-    "how_to_eat": null,
+    "description": "Igbo dish of goat's head cooked with palm oil thickened with potash, calabash nutmeg (ehu), ugba, onion and pepper, served with sliced onions and utazi leaves; the name means 'goat's head'. Similar to nkwobi but made with goat head instead of cow foot.",
+    "how_to_eat": "Usually served in a bowl and eaten with your hands, often with palm wine or beer.",
     "how_to_order": "Order at bars and evening joints, where it is served alongside nkwobi.",
     "typical_price": "4000-7000",
     "currency": "NGN",
@@ -540,7 +544,9 @@
     "jain": false,
     "vegan": false,
     "spice": 3,
-    "allergens": [],
+    "allergens": [
+      "shellfish"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Isi_ewu",
     "source_urls": [
@@ -587,7 +593,7 @@
       "Calabar",
       "Uyo"
     ],
-    "description": "A dense, nearly dry vegetable soup of the Efik (Cross River) and Ibibio (Akwa Ibom) peoples, made with pumpkin leaves and water leaves, beef, dried fish, crayfish, periwinkle, tripe, cow skin and palm oil. Expensive to prepare and served on important occasions.",
+    "description": "A vegetable soup of the Efik (Cross River) and Ibibio (Akwa Ibom) peoples, made with pumpkin leaves and water leaves, beef, dried fish, crayfish, periwinkle, tripe, cow skin and palm oil. Expensive to prepare and served on important occasions.",
     "how_to_eat": "Eat with fufu, eba or pounded yam.",
     "how_to_order": null,
     "typical_price": null,
@@ -681,7 +687,7 @@
     "regions": [
       "Calabar"
     ],
-    "description": "An Efik and Ibibio cocoyam pottage: grated cocoyam or water yam is wrapped in cocoyam leaves, then simmered with palm oil, meat, fish, crayfish, prawns and periwinkles. A time-consuming dish worth seeking out at traditional restaurants.",
+    "description": "An Efik and Ibibio cocoyam pottage: grated cocoyam or water yam is wrapped in cocoyam leaves, then simmered with palm oil, meat, fish, crayfish, prawns and periwinkles. Time-consuming to make.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -724,7 +730,8 @@
     "vegan": false,
     "spice": 2,
     "allergens": [
-      "fish"
+      "fish",
+      "shellfish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Palm_nut_soup",
@@ -755,7 +762,8 @@
     "vegan": false,
     "spice": 2,
     "allergens": [
-      "fish"
+      "fish",
+      "shellfish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Owo_soup",
@@ -776,7 +784,7 @@
       "Delta State"
     ],
     "description": "Urhobo yam and unripe plantain pottage with a pepper-soup base, cooked with goat meat or dried fish and sometimes lemongrass and potash. Eaten at marriages and burials, and as a breakfast in the cold season.",
-    "how_to_eat": "Eat hot from the bowl like a pepper soup.",
+    "how_to_eat": "Eat it hot, often as a breakfast on rainy or cold mornings.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "NGN",
@@ -805,9 +813,9 @@
     "regions": [
       "Port Harcourt"
     ],
-    "description": "Half-ripe plantain roasted over charcoal and served with grilled fish (often tilapia or croaker) and a sauce of palm oil, pepper and onions. Native to the Yoruba as boli, it is the signature street food of Port Harcourt, which holds an annual Bole Festival.",
+    "description": "Half-ripe plantain roasted over charcoal and served with roasted fish (often mackerel) and a sauce of palm oil, pepper and onions. Native to the Yoruba as boli, it is the signature street food of Port Harcourt, which holds an annual Bole Festival.",
     "how_to_eat": "Eat the plantain with the fish and pepper sauce; roasted yam is often offered too.",
-    "how_to_order": "Sold at roadside grills across Port Harcourt; choose busy, established vendors.",
+    "how_to_order": "Sold at roadside grills across Port Harcourt.",
     "typical_price": null,
     "currency": "NGN",
     "diet": "nonveg",
@@ -833,10 +841,7 @@
     "category": "street_food",
     "country": "Nigeria",
     "state": "North (Hausa)",
-    "regions": [
-      "Kano",
-      "Kaduna"
-    ],
+    "regions": [],
     "description": "Hausa smoke-grilled skewers of thin-sliced beef, goat, ram or chicken coated in yaji, a spice mix of dried chilli, ginger, dried onion and ground peanut cake (kuli-kuli). Now sold at night stalls all over Nigeria.",
     "how_to_eat": "Eat with extra yaji and sliced raw onions, sometimes with masa or bread.",
     "how_to_order": "Buy skewers from evening suya stands; ask for extra yaji if you like heat.",
@@ -893,9 +898,7 @@
     "category": "meal",
     "country": "Nigeria",
     "state": "North (Hausa)",
-    "regions": [
-      "Kano"
-    ],
+    "regions": [],
     "description": "Tuwo shinkafa is a soft, sticky swallow of mashed local rice; it is classically served with miyan kuka, a green, slimy soup of powdered baobab leaves with dawadawa (locust beans), crayfish, palm oil, beef or lamb and dried fish.",
     "how_to_eat": "Pinch the tuwo with your fingers and dip it in the soup.",
     "how_to_order": null,
@@ -926,7 +929,7 @@
     "country": "Nigeria",
     "state": "North (Hausa)",
     "regions": [],
-    "description": "A Hausa and Fulani soup of groundnut paste and pumpkin with yakuwa leaf, dawadawa, crayfish, meat and spices; creamy and slightly sweet.",
+    "description": "A Hausa and Fulani soup of groundnut paste and pumpkin with yakuwa leaf, dawadawa, meat or dried fish, often crayfish, and spices; creamy and slightly sweet.",
     "how_to_eat": "Eat with tuwon shinkafa or tuwon masara.",
     "how_to_order": null,
     "typical_price": null,
@@ -937,7 +940,8 @@
     "spice": 1,
     "allergens": [
       "peanuts",
-      "shellfish"
+      "shellfish",
+      "fish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Miyan_taushe",
@@ -954,9 +958,7 @@
     "category": "snack",
     "country": "Nigeria",
     "state": "North (Hausa)",
-    "regions": [
-      "Kano"
-    ],
+    "regions": [],
     "description": "Fermented rice cakes cooked in a special dimpled pan, crisp outside and spongy inside with a sweet-sour taste. A Hausa staple of Northern Nigeria, made with rice, yeast and often yoghurt.",
     "how_to_eat": "Eat with a spicy sauce, or alongside suya.",
     "how_to_order": null,
@@ -985,7 +987,7 @@
     "country": "Nigeria",
     "state": "North (Hausa)",
     "regions": [],
-    "description": "Boiled dumplings of cowpea (bean) flour from northern Nigeria. Bland on their own, they are dressed with palm or groundnut oil, chilli pepper, sauce, egg or vegetables.",
+    "description": "Boiled dumplings of cowpea (bean) flour, sometimes wheat flour, from northern Nigeria; the dish came from Niger. Bland on their own, they are dressed with palm or peanut oil, chilli pepper, yaji, boiled egg or vegetables.",
     "how_to_eat": "Eat with oil and pepper poured over.",
     "how_to_order": null,
     "typical_price": null,
@@ -995,7 +997,9 @@
     "vegan": false,
     "spice": 2,
     "allergens": [
-      "egg"
+      "egg",
+      "peanuts",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_wake",

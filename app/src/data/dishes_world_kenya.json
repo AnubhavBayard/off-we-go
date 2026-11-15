@@ -121,8 +121,8 @@
     "regions": [],
     "description": "The East African chapati is a layered wheat flatbread fried in oil, butter or lard, closer to a thin paratha than the Indian chapati; it came with Indian railway workers. Unlike the Indian chapati puffed over a flame, it is fried and layered.",
     "how_to_eat": "Tear pieces to scoop up stews, beans or greens, or eat with tea.",
-    "how_to_order": "Sold at street stalls and canteens; ask if it is cooked with oil if you avoid lard or butter. Street price was KES 20-30 each in 2022 (Kenyans.co.ke).",
-    "typical_price": "20-30",
+    "how_to_order": "Sold at street stalls and canteens; ask if it is cooked with oil if you avoid lard or butter.",
+    "typical_price": null,
     "currency": "KES",
     "diet": "nonveg",
     "jain": false,
@@ -149,10 +149,10 @@
     "country": "Kenya",
     "state": "Nairobi",
     "regions": [],
-    "description": "A lightly sweet fried bread, often triangular, that started on the Swahili coast and is now a standard breakfast across Kenya. It is made from wheat dough with yeast or baking powder; recipes vary and some doughs include milk or egg.",
+    "description": "A lightly sweet fried bread, often triangular, that is a principal dish of Swahili coastal cooking and now a standard breakfast across Kenya. It is made from wheat dough with yeast or baking powder; many Kenyan recipes add milk, butter and egg.",
     "how_to_eat": "Eat fresh in the morning with a cup of chai.",
-    "how_to_order": "Sold at kiosks and cafés from early morning. Price was about KES 20 a piece in 2022 (Kenyans.co.ke).",
-    "typical_price": "20",
+    "how_to_order": "Sold at kiosks and cafés from early morning.",
+    "typical_price": null,
     "currency": "KES",
     "diet": "egg",
     "jain": false,
@@ -169,7 +169,8 @@
       "https://en.wikipedia.org/wiki/Mandazi",
       "https://www.lonelyplanet.com/articles/what-to-eat-and-drink-in-kenya",
       "https://www.theelephant.info/analysis/2022/09/20/food-culture-at-the-kenyan-coast/",
-      "https://www.kenyans.co.ke/news/76848-5-street-foods-whose-prices-have-shot"
+      "https://www.kenyans.co.ke/news/76848-5-street-foods-whose-prices-have-shot",
+      "https://www.pulselive.co.ke/articles/kenyan-mandazi-butter-eggs-milk-and-others-things-needed-to-make-mandazi-2024081609304238617"
     ]
   },
   {
@@ -244,8 +245,8 @@
     ],
     "description": "A boiled egg split and served with a salad of tomatoes, onions and pepper, sold by street vendors in Nairobi's CBD along with smokies. It is a quick snack between meals.",
     "how_to_eat": null,
-    "how_to_order": "Buy from smokie and egg carts in Nairobi CBD. Price was KES 25 in 2022 (Kenyans.co.ke).",
-    "typical_price": "25",
+    "how_to_order": "Buy from smokie and egg carts in Nairobi CBD.",
+    "typical_price": null,
     "currency": "KES",
     "diet": "egg",
     "jain": false,
@@ -297,7 +298,7 @@
       "Mombasa",
       "Lamu"
     ],
-    "description": "Rice cooked with whole spices such as cinnamon, cardamom, cloves and black pepper, usually with meat; in Kenya it is mostly a coastal dish and potatoes are often added. It is served at weddings, Eid and Christmas, with kachumbari on the side. This is the Kenyan coastal version of pilaf.",
+    "description": "Rice cooked with spices such as cloves, cardamom, cinnamon and black pepper, usually with meat, potatoes and onions. A cornerstone of Swahili coastal cooking that is now found across Kenya, it is often kept for special occasions and served with kachumbari. This is the Kenyan version of pilaf.",
     "how_to_eat": "Eat with kachumbari.",
     "how_to_order": "Sold at Swahili eateries and street lunch stalls on the coast.",
     "typical_price": null,
@@ -326,10 +327,9 @@
     "state": "Swahili Coast (Mombasa & Lamu)",
     "regions": [
       "Mombasa",
-      "Malindi",
       "Lamu"
     ],
-    "description": "A coastal rice dish where a spiced meat or chicken masala and the rice are cooked separately, unlike pilau, often with potatoes. Chicken biryani (biryani kuku) with tamarind juice and kachumbari is a common coastal lunch. Listed as the Kenyan coastal version, distinct from Indian biryanis.",
+    "description": "A coastal rice dish where the spiced meat or chicken sauce and the rice are cooked separately, unlike pilau, often with potatoes. Chicken biryani (biryani kuku) with tamarind (ukwaju) juice and kachumbari is the best-selling coastal street lunch. The dish came to the coast from South Asia through trade.",
     "how_to_eat": null,
     "how_to_order": "Ask for biryani kuku (chicken biryani) at Swahili lunch spots and street stalls.",
     "typical_price": null,
@@ -358,16 +358,18 @@
     "regions": [
       "Mombasa"
     ],
-    "description": "Boiled, peeled potatoes dipped in a gram (chickpea) flour batter and deep-fried in a karai, a basin-like pan. It is a Mombasa afternoon snack, served with tamarind sauce, chilli or coconut chutney.",
+    "description": "Boiled, peeled potatoes dipped in a gram (chickpea) flour batter, sometimes mixed with wheat flour, and deep-fried in a karai, a basin-like pan. It is a Mombasa afternoon snack, served with tamarind sauce, chilli or coconut chutney.",
     "how_to_eat": "Eat hot with tamarind sauce or coconut chutney.",
-    "how_to_order": "Buy from street vendors in Mombasa's Old Town or Mama Ngina Drive.",
+    "how_to_order": "Buy from Swahili women vendors in the alleys of Mombasa's Old Town, usually in the late afternoon.",
     "typical_price": null,
     "currency": "KES",
     "diet": "veg",
     "jain": false,
     "vegan": true,
     "spice": 1,
-    "allergens": [],
+    "allergens": [
+      "gluten"
+    ],
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
@@ -416,8 +418,7 @@
     "country": "Kenya",
     "state": "Swahili Coast (Mombasa & Lamu)",
     "regions": [
-      "Mombasa",
-      "Malindi"
+      "Mombasa"
     ],
     "description": "Pigeon peas cooked in coconut milk. Paired with mahamri, it is the classic Swahili breakfast along the Kenyan coast.",
     "how_to_eat": "Dip mahamri into the peas.",
@@ -475,7 +476,7 @@
     "state": "Swahili Coast (Mombasa & Lamu)",
     "regions": [],
     "description": "Chicken that is char-grilled and then cooked in a coconut milk curry sauce; also called kuku na nazi. It has African, Indian and Arab influences and is popular on the coast; fish or shrimp versions exist.",
-    "how_to_eat": "Add a squeeze of lime before eating.",
+    "how_to_eat": "Eat over rice such as wali wa nazi (coconut rice) or with chapati and sukuma wiki.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "KES",
@@ -533,7 +534,7 @@
       "Mombasa",
       "Lamu"
     ],
-    "description": "Strong Swahili coffee spiced with cloves and black pepper and usually served without sugar, hence chungu, meaning bitter. It is sold from coffee pots by street vendors in the old towns.",
+    "description": "Strong Swahili black coffee, similar to Arabic coffee but with a strong clove and black pepper aroma; chungu means bitter. It is a coastal drink, often taken with sweet snacks.",
     "how_to_eat": "Drink with a sweet snack such as mitai.",
     "how_to_order": null,
     "typical_price": null,
@@ -757,7 +758,7 @@
   {
     "id": "kenya-ugali-na-samaki",
     "name": "Ugali with fried tilapia",
-    "local_name": "ngege",
+    "local_name": null,
     "pronunciation": null,
     "category": "meal",
     "country": "Kenya",
@@ -765,7 +766,7 @@
     "regions": [
       "Kisumu"
     ],
-    "description": "Whole tilapia (ngege) from Lake Victoria, fried, stewed in tomato and onion or grilled over charcoal, served with ugali and greens. Fish with ugali is the everyday meal of the Luo around Kisumu.",
+    "description": "Whole tilapia from Lake Victoria, fried, stewed in tomato, onion and garlic or grilled over charcoal, served with ugali and greens. Fish with ugali is the everyday meal of the Luo around Kisumu.",
     "how_to_eat": "Pull the fish apart with your fingers and scoop it up with ugali.",
     "how_to_order": "Order at the fish stalls on Dunga Beach outside Kisumu.",
     "typical_price": null,
@@ -806,7 +807,8 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "fish"
+      "fish",
+      "peanuts"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
@@ -853,7 +855,7 @@
     "country": "Kenya",
     "state": "Western & Lake Victoria (Luo/Luhya)",
     "regions": [],
-    "description": "Indigenous (kienyeji) chicken stewed by the Luhya, served with ugali. It is the dish served to honoured guests and at dowry and other ceremonies.",
+    "description": "Chicken prepared by the Luhya and eaten with ugali, a favourite meal in Western Kenya. It is served to distinguished guests, and a cockerel is slaughtered and cooked at dowry ceremonies.",
     "how_to_eat": "Eat with ugali.",
     "how_to_order": null,
     "typical_price": null,
@@ -909,7 +911,7 @@
     "regions": [
       "Kisumu"
     ],
-    "description": "A slightly bitter leafy green sautéed with onions and tomatoes, one of the traditional Luo vegetables. It is served with fish or meat and ugali.",
+    "description": "A slightly bitter leafy green, the best-loved of the traditional Luo vegetables. It is eaten with ugali, often alongside fish.",
     "how_to_eat": "Eat as a side with ugali and fish.",
     "how_to_order": null,
     "typical_price": null,
@@ -986,7 +988,7 @@
   {
     "id": "kenya-psongiot",
     "name": "Psong'iot",
-    "local_name": "kimnyet",
+    "local_name": null,
     "pronunciation": null,
     "category": "meal",
     "country": "Kenya",
