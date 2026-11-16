@@ -58,8 +58,8 @@ function Tabs() {
   )
 }
 
-// Android back button: any other tab goes to the home tab, home closes the app. Pages opened from
-// a tab (dish, account) go back the usual way.
+// Android back button: an open sheet closes first; then any other tab goes to the home tab, home closes
+// the app. Pages opened from a tab (dish, account) go back the usual way.
 function BackButton() {
   const { pathname } = useLocation()
   const navigate = useNavigate()
@@ -67,7 +67,10 @@ function BackButton() {
   path.current = pathname
   useEffect(() => {
     const handle = NativeApp.addListener('backButton', () => {
-      if (path.current === '/') void NativeApp.exitApp()
+      // Open sheet (picker, memory view) closes first: every sheet's .overlay closes on click.
+      const overlay = document.querySelector<HTMLElement>('.overlay')
+      if (overlay) overlay.click()
+      else if (path.current === '/') void NativeApp.exitApp()
       else if (TABS.some((t) => t.to === path.current)) navigate('/', { replace: true })
       else history.back()
     })
