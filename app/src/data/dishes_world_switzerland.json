@@ -264,7 +264,9 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "mustard"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Berner_Platte",
     "source_urls": [
@@ -374,9 +376,7 @@
     "category": "meal",
     "country": "Switzerland",
     "state": "Romandy",
-    "regions": [
-      "Fribourg"
-    ],
+    "regions": [],
     "description": "Hard cheeses such as Gruyère and Vacherin melted with white wine in a communal pot (caquelon) kept warm over a small burner. The earliest cheese-and-wine recipe appears in a Zurich cookbook of 1699, and the Swiss Cheese Union promoted it as the national dish in the 1930s.",
     "how_to_eat": "Each diner dips pieces of bread into the cheese with a long-stemmed fork.",
     "how_to_order": null,
@@ -563,7 +563,7 @@
       "Bellelay"
     ],
     "description": "A semi-hard raw cow's milk cheese first made by the canons of Bellelay Abbey in the Bernese Jura, documented from the 12th century. It is aged at least 75 days on spruce boards and is pared rather than cut.",
-    "how_to_eat": "Shaved into rosettes with a girolle and typically paired with a dry white wine.",
+    "how_to_eat": "Pared into rosettes with a girolle rather than cut.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "CHF",
@@ -798,7 +798,9 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "dairy"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Polenta",
     "source_urls": [
@@ -871,9 +873,7 @@
     "category": "meal",
     "country": "Switzerland",
     "state": "Ticino",
-    "regions": [
-      "Mendrisiotto"
-    ],
+    "regions": [],
     "description": "Finely chopped beef cooked for two to four hours with butter, garlic, fennel seeds and lard or pancetta, finished with red wine. It comes from Lombardy and is common in southern Ticino as a winter dish.",
     "how_to_eat": "Served with polenta, risotto alla milanese or mashed potatoes.",
     "how_to_order": null,
@@ -1047,7 +1047,7 @@
     "country": "Switzerland",
     "state": "Graubünden",
     "regions": [],
-    "description": "Spätzle dough mixed with herbs and pieces of dried meat such as Bündnerfleisch or salsiz, wrapped in chard leaves and cooked in a mix of milk, water and broth. It is a speciality of western Graubünden.",
+    "description": "Spätzle dough mixed with herbs and pieces of dried meat such as Bündnerfleisch or salsiz, wrapped in chard leaves and cooked in a mix of milk, water and broth. It is a traditional dish of Graubünden.",
     "how_to_eat": "Served with grated cheese on top.",
     "how_to_order": null,
     "typical_price": null,

@@ -109,7 +109,8 @@
     "allergens": [
       "gluten",
       "sesame",
-      "dairy"
+      "dairy",
+      "nuts"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Knafeh",
@@ -408,7 +409,7 @@
     ],
     "description": "A fatteh, or bread-based dish, of fried aubergine and fried or toasted flatbread covered with yogurt and topped with pine nuts. It is listed as a speciality of the Chouf.",
     "how_to_eat": null,
-    "how_to_order": null,
+    "how_to_order": "Ask if it is topped with meat: Lebanese fatteh often adds chicken or minced meat.",
     "typical_price": null,
     "currency": "LBP",
     "diet": "veg",
@@ -660,7 +661,7 @@
       "Akkar"
     ],
     "description": "A cheese made by curdling, straining and fermenting cow or sheep milk yogurt, formed into balls about 6 cm across, coated in thyme or za'atar and chilli, then aged. Shanklish from Akkar and the adjoining Syrian coast is hard, near-white and strong in flavour.",
-    "how_to_eat": "Eaten as a mezze, mashed with chopped tomato, onion and olive oil, often with arak.",
+    "how_to_eat": "Eaten as a mezze with finely chopped tomato, onion and olive oil, often with arak.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "LBP",
@@ -837,9 +838,9 @@
     "state": "Bekaa Valley",
     "regions": [
       "Kherbet Qanafar",
-      "Rashaya"
+      "Aarsal"
     ],
-    "description": "A powder of bulgur fermented with milk and yogurt, often goat milk, kneaded daily during fermentation and then dried and ground; it is prepared in early autumn for winter. In Lebanon it is used mixed with tomato paste as a manakish topping, in soup, with eggs, or as a kibbeh stuffing. It is made in West Bekaa villages such as Kherbet Qanafar and in the Rashaya area.",
+    "description": "A powder of bulgur fermented with milk and yogurt, often goat milk, kneaded daily during fermentation and then dried and ground; it is prepared in early autumn for winter. In Lebanon it is used mixed with tomato paste as a manakish topping, in soup, with eggs, or as a kibbeh stuffing. Producers include Kherbet Qanafar in West Bekaa and Aarsal, where goat-milk kishk is prized.",
     "how_to_eat": "Can be eaten as a soup, possibly with awarma (lamb fried in its own fat).",
     "how_to_order": null,
     "typical_price": null,

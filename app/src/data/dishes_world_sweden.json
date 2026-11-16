@@ -209,7 +209,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Falukorv",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Falukorv",
-      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+      "https://ec.europa.eu/geographical-indications-register/eambrosia-public-api/api/tsgs?lang=en"
     ]
   },
   {
@@ -239,7 +239,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Upplandskubb",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Upplandskubb",
-      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000014324"
     ]
   },
   {
@@ -268,7 +268,7 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Spettekaka",
       "https://sv.wikipedia.org/wiki/Spettekaka",
-      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000013287"
     ]
   },
   {
@@ -310,7 +310,7 @@
     "country": "Sweden",
     "state": "Skåne",
     "regions": [],
-    "description": "A \"black soup\" made mainly from goose blood (sometimes pig blood), eaten traditionally and mostly in Skåne. It is the starter of the Mårten gås dinner on 10 November, Saint Martin's Eve.",
+    "description": "A \"black soup\" made mainly from goose blood (sometimes pig blood), eaten traditionally and mostly in Skåne. It is often eaten before the goose at the Mårten gås dinner on 10 November, Saint Martin's Eve.",
     "how_to_eat": "Eaten as the first course before the roast goose.",
     "how_to_order": null,
     "typical_price": null,
@@ -319,12 +319,15 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "gluten"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Svartsoppa",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Svartsoppa",
-      "https://sv.wikipedia.org/wiki/M%C3%A5rtensafton"
+      "https://sv.wikipedia.org/wiki/M%C3%A5rtensafton",
+      "https://sv.wikipedia.org/wiki/Svartsoppa"
     ]
   },
   {
@@ -511,7 +514,7 @@
     "regions": [
       "Gothenburg"
     ],
-    "description": "A liqueur of arrack (or brandy or rum) mixed with arrack tea, sugar and water, usually about 25% alcohol and 30% sugar. Arrack arrived in Gothenburg with the Swedish East India Company in 1733, and Svensk Punsch has had EU Protected Geographical Indication status since 2008.",
+    "description": "A liqueur of arrack (or brandy or rum) mixed with arrack tea, sugar and water, usually about 25% alcohol and 30% sugar. Arrack arrived in Gothenburg with the Swedish East India Company in 1733, and Svensk Punsch is a registered EU geographical indication for spirit drinks.",
     "how_to_eat": "Drunk warmed or chilled.",
     "how_to_order": "Since the late 19th century it is usually bought as a bottled liqueur.",
     "typical_price": null,
@@ -525,7 +528,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Punsch",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Punsch",
-      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000015402"
     ]
   },
   {
@@ -541,7 +544,7 @@
     ],
     "description": "Wild European oysters (Ostrea edulis) gathered by divers or wading fishermen in the skerries around Grebbestad, which supplies about 90% of Sweden's oysters. The catch is limited to 50,000-60,000 a year, and the oysters have EU Protected Designation of Origin status since 2023.",
     "how_to_eat": "Many prefer them raw, Bohuslän style; they are also used in gratins and soups.",
-    "how_to_order": "Sold at the Gothenburg fish auction and served in fish restaurants in Gothenburg and Grebbestad; autumn and winter are the best seasons.",
+    "how_to_order": "Sold at the Gothenburg fish auctions and to the city's leading fish restaurants; they are harvested from early September until midsummer.",
     "typical_price": null,
     "currency": "SEK",
     "diet": "nonveg",
@@ -556,7 +559,7 @@
     "source_urls": [
       "https://www.vastsverige.com/en/tanum/coastal--archipelago-adventures/oysters/",
       "https://www.vastsverige.com/mat-och-dryck/eu-skyddade-produkter",
-      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000018350"
     ]
   },
   {
@@ -587,7 +590,7 @@
     "source_urls": [
       "https://sv.wikipedia.org/wiki/Kalvdans",
       "https://www.vastsverige.com/mat-och-dryck/eu-skyddade-produkter",
-      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000016586"
     ]
   },
   {
@@ -667,7 +670,7 @@
     "regions": [
       "Småland"
     ],
-    "description": "A coarsely ground, lightly smoked and lacto-fermented sausage of pork, barley groats and potato, with a slightly sour taste. Småländska isterband from Småland is one of its best-known varieties.",
+    "description": "A coarsely ground, lightly smoked and lacto-fermented sausage of pork, barley groats and potato, with a slightly sour taste. Varieties include småländska isterband from Småland.",
     "how_to_eat": "Often served with creamed dill potatoes and pickled beetroot.",
     "how_to_order": null,
     "typical_price": null,
@@ -677,7 +680,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Isterband",
@@ -711,7 +715,7 @@
     "wikipedia_url": "https://sv.wikipedia.org/wiki/Bruna_b%C3%B6nor",
     "source_urls": [
       "https://sv.wikipedia.org/wiki/Bruna_b%C3%B6nor",
-      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000013812"
     ]
   },
   {
@@ -739,7 +743,7 @@
     "wikipedia_url": "https://sv.wikipedia.org/wiki/Polkagris",
     "source_urls": [
       "https://sv.wikipedia.org/wiki/Polkagris",
-      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000017312"
     ]
   },
   {
@@ -822,7 +826,9 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "egg"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Biff_%C3%A0_la_Lindstr%C3%B6m",
     "source_urls": [
@@ -972,7 +978,7 @@
     "wikipedia_url": "https://sv.wikipedia.org/wiki/Kalixl%C3%B6jrom",
     "source_urls": [
       "https://sv.wikipedia.org/wiki/Kalixl%C3%B6jrom",
-      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000013820"
     ]
   },
   {
@@ -1003,7 +1009,7 @@
     "source_urls": [
       "https://sv.wikipedia.org/wiki/Kaffeost",
       "https://en.wikipedia.org/wiki/Bread_cheese",
-      "https://sv.wikipedia.org/wiki/Skyddad_ursprungsbeteckning"
+      "https://webgate.ec.europa.eu/eambrosia-api/api/v1/geographical-indications/EUGI00000019853"
     ]
   },
   {

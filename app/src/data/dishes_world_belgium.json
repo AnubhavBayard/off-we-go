@@ -130,7 +130,7 @@
       "Brussels",
       "Pajottenland"
     ],
-    "description": "A beer made by blending young and old lambics and bottling the blend for a second fermentation, which gives a dry, sour, highly carbonated drink sometimes called \"Brussels Champagne\". It is traditionally produced in Brussels and the Pajottenland. Gueuze, including the unsweetened \"Oude Gueuze\", is registered as an EU Traditional Speciality Guaranteed.",
+    "description": "A beer made by blending young and old lambics and bottling the blend for a second fermentation, which gives a dry, sour, highly carbonated drink sometimes called \"Brussels Champagne\". It is traditionally produced in Brussels and the Pajottenland. The unsweetened traditional version, \"Oude Geuze\", is registered as an EU Traditional Speciality Guaranteed.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -147,7 +147,8 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Gueuze",
       "https://fr.wikipedia.org/wiki/Gueuze",
-      "https://en.wikipedia.org/wiki/Lambic"
+      "https://en.wikipedia.org/wiki/Lambic",
+      "https://eur-lex.europa.eu/eli/reg_impl/2017/2216/oj"
     ]
   },
   {
@@ -161,7 +162,7 @@
     "regions": [
       "Brussels"
     ],
-    "description": "Lambic beer refermented with sour Morello cherries, traditionally the Schaarbeek variety from around Brussels; traditional versions are dry and sour rather than sweet. Both \"Oude kriek\" and \"kriek\" are registered as EU Traditional Specialities Guaranteed.",
+    "description": "Lambic beer refermented with sour Morello cherries, traditionally the Schaarbeek variety from around Brussels; traditional versions are dry and sour rather than sweet, while commercial krieks are often sweetened. The traditional \"Oude Kriek\" is registered as an EU Traditional Speciality Guaranteed.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -178,7 +179,8 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Kriek_lambic",
       "https://nl.wikipedia.org/wiki/Kriek_(bier)",
-      "https://en.wikipedia.org/wiki/Lambic"
+      "https://en.wikipedia.org/wiki/Lambic",
+      "https://eur-lex.europa.eu/eli/reg_impl/2017/2216/oj"
     ]
   },
   {
@@ -272,7 +274,7 @@
     "id": "belgium-waterzooi",
     "name": "Waterzooi",
     "local_name": "Gentse waterzooi",
-    "pronunciation": "VAH-ter-zoy",
+    "pronunciation": "VAH-ter-zoh-ee",
     "category": "meal",
     "country": "Belgium",
     "state": "West & East Flanders",
@@ -367,7 +369,7 @@
     "country": "Belgium",
     "state": "West & East Flanders",
     "regions": [],
-    "description": "A hollowed-out tomato filled with peeled grey shrimp and mayonnaise or cocktail sauce. It became a brasserie classic once shrimp could be shipped inland from the coast in the late 19th century.",
+    "description": "A hollowed-out tomato filled with peeled grey shrimp and mayonnaise. It became a brasserie classic once shrimp could be shipped inland from the coast in the second half of the 19th century.",
     "how_to_eat": "Usually served as a starter.",
     "how_to_order": null,
     "typical_price": null,
@@ -378,7 +380,8 @@
     "spice": 0,
     "allergens": [
       "shellfish",
-      "egg"
+      "egg",
+      "mustard"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://nl.wikipedia.org/wiki/Tomaat-garnaal",
@@ -391,7 +394,7 @@
     "id": "belgium-flemish-stew",
     "name": "Flemish stew",
     "local_name": "Stoofvlees / carbonade flamande",
-    "pronunciation": "STOHF-flays",
+    "pronunciation": "STOHF-lays",
     "category": "meal",
     "country": "Belgium",
     "state": "West & East Flanders",
@@ -446,7 +449,8 @@
     "gi_tag": true,
     "wikipedia_url": "https://nl.wikipedia.org/wiki/Mattentaart",
     "source_urls": [
-      "https://nl.wikipedia.org/wiki/Mattentaart"
+      "https://nl.wikipedia.org/wiki/Mattentaart",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000013627"
     ]
   },
   {
@@ -457,10 +461,8 @@
     "category": "sweet",
     "country": "Belgium",
     "state": "West & East Flanders",
-    "regions": [
-      "Veurne"
-    ],
-    "description": "A long toffee flavoured with honey or vergeoise (brown sugar) from Veurne in West Flanders, closely related to butterscotch. It dates from the 19th century, when a couple made it and sold it to tourists on Belgian beaches.",
+    "regions": [],
+    "description": "A long toffee flavoured with honey or vergeoise (brown sugar), made with butter and closely related to butterscotch. It dates from the 19th century, when it was made and sold to tourists on the Belgian coast; Wikipedia ties it to Veurne in West Flanders.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -470,13 +472,15 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "dairy"
+      "dairy",
+      "soy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Babelutte",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Babelutte",
-      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+      "https://en.wikipedia.org/wiki/Belgian_cuisine",
+      "https://focusonbelgium.be/en/facts/did-you-know-first-babeluttes-date-19th-century"
     ]
   },
   {
@@ -540,7 +544,8 @@
     "gi_tag": true,
     "wikipedia_url": "https://nl.wikipedia.org/wiki/Liers_vlaaike",
     "source_urls": [
-      "https://nl.wikipedia.org/wiki/Liers_vlaaike"
+      "https://nl.wikipedia.org/wiki/Liers_vlaaike",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000014274"
     ]
   },
   {
@@ -630,8 +635,7 @@
     "gi_tag": false,
     "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89lixir_d%27Anvers",
     "source_urls": [
-      "https://fr.wikipedia.org/wiki/%C3%89lixir_d%27Anvers",
-      "https://en.wikipedia.org/wiki/Antwerp_hands"
+      "https://fr.wikipedia.org/wiki/%C3%89lixir_d%27Anvers"
     ]
   },
   {
@@ -794,7 +798,7 @@
       "Liège",
       "Namur"
     ],
-    "description": "A juniper-flavoured spirit, the Walloon name for jenever; the word comes from the Walloon for juniper berry. It is drunk at the 15 August celebrations in Liège's Outremeuse quarter and at the Walloon festivities in Namur.",
+    "description": "A juniper-flavoured spirit, the Walloon name for jenever; the word comes from the Walloon for juniper berry. It is drunk at the 15 August celebrations in Liège's Outremeuse quarter and at the Walloon festivities in Namur, and \"Peket-Pekêt de Wallonie\" is a registered EU spirit geographical indication.",
     "how_to_eat": "Often accompanied by smoked fish or strong cheese such as Herve.",
     "how_to_order": null,
     "typical_price": null,
@@ -804,11 +808,12 @@
     "vegan": true,
     "spice": 0,
     "allergens": [],
-    "gi_tag": false,
+    "gi_tag": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Peket",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Peket",
-      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+      "https://en.wikipedia.org/wiki/Belgian_cuisine",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000014230"
     ]
   },
   {
@@ -854,7 +859,7 @@
     "regions": [
       "Herve"
     ],
-    "description": "A soft, washed-rind cheese of raw cow's milk from the Pays de Herve, with a reddish-brown rind and a flavour that deepens over about three months of ripening. It has been made since at least the 13th century and holds EU Protected Designation of Origin, the only Belgian cheese with that status.",
+    "description": "A soft, washed-rind cheese of cow's milk (raw or pasteurised) from the Pays de Herve, with a reddish-brown rind and a flavour that deepens with ripening, from mild \"doux\" to strong \"piquant\". It has been made since at least the 13th century and holds EU Protected Designation of Origin, the only Belgian cheese with that status.",
     "how_to_eat": null,
     "how_to_order": "Sold as \"Herve doux\" (mild) or \"Herve piquant\" (strong).",
     "typical_price": null,
@@ -870,7 +875,8 @@
     "wikipedia_url": "https://fr.wikipedia.org/wiki/Fromage_de_Herve",
     "source_urls": [
       "https://fr.wikipedia.org/wiki/Fromage_de_Herve",
-      "https://en.wikipedia.org/wiki/Limburger"
+      "https://en.wikipedia.org/wiki/Limburger",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000013133"
     ]
   },
   {
@@ -929,7 +935,8 @@
     "wikipedia_url": "https://fr.wikipedia.org/wiki/Jambon_d%27Ardenne",
     "source_urls": [
       "https://fr.wikipedia.org/wiki/Jambon_d%27Ardenne",
-      "https://en.wikipedia.org/wiki/Belgian_cuisine"
+      "https://en.wikipedia.org/wiki/Belgian_cuisine",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000013131"
     ]
   },
   {
@@ -959,7 +966,8 @@
     "gi_tag": true,
     "wikipedia_url": "https://fr.wikipedia.org/wiki/P%C3%A2t%C3%A9_gaumais",
     "source_urls": [
-      "https://fr.wikipedia.org/wiki/P%C3%A2t%C3%A9_gaumais"
+      "https://fr.wikipedia.org/wiki/P%C3%A2t%C3%A9_gaumais",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000013303"
     ]
   },
   {
@@ -988,7 +996,8 @@
     "gi_tag": true,
     "wikipedia_url": "https://fr.wikipedia.org/wiki/Escav%C3%A8che",
     "source_urls": [
-      "https://fr.wikipedia.org/wiki/Escav%C3%A8che"
+      "https://fr.wikipedia.org/wiki/Escav%C3%A8che",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000015485"
     ]
   },
   {
