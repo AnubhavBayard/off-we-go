@@ -788,3 +788,9 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
   - Discover: filter/sort memoized, search uses useDeferredValue (typing never waits for the list), picker counts precomputed once (was 80 countries x 2,948 dishes per render).
   - Already fine: JSON bundled as JSON.parse (Vite default), cards content-visibility:auto, dish page scroll animations compositor-only.
   - Built + installed. Next: measure frame times on phone via WebView devtools (adb forward webview_devtools_remote_<pid>; scratchpad perf/cdp.mjs) once phone is unlocked with app open.
+- Measured on phone (Realme RMX3360, WebView 157) via adb input + gfxinfo + rAF/long-animation-frame over CDP (scratchpad perf/run.sh):
+  - List fling: React re-rendered every mounted card when the next batch loaded (60-95 ms tasks). Fix: memoized DishRow, batches of 20 in startTransition (React work now 5 ms slices). Android janky frames 0-4%.
+  - Tabs, picker open/close, dish page scroll, typing: smooth (no long tasks; 0-13% janky frames during sheet slide, mostly 1-3 frames).
+  - Dish page opened with a hard cut: added 240 ms fade-in (opacity only; transform would re-anchor the fixed bottom bar). Blur layer costs ~25 ms on first frame; kept.
+  - Remaining: back from dish remounts Discover (~57 ms task) and new-card layout frames 60-80 ms during first scroll of a long list (off the scroll thread). Fine for now.
+- Built + installed.

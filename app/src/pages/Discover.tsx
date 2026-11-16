@@ -1,11 +1,11 @@
-import { useDeferredValue, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react'
+import { memo, startTransition, useDeferredValue, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Award, ChevronDown, Globe, Leaf, MapPin, Search, Sprout, UserRound, X } from 'lucide-react'
-import { CATEGORY_LABEL, COUNTRIES, COUNTRY_CODE, dishes, imageFor, priceLabel, regionsOf, type Category } from '../data'
+import { CATEGORY_LABEL, COUNTRIES, COUNTRY_CODE, dishes, imageFor, priceLabel, regionsOf, type Category, type Dish } from '../data'
 import { positionIfAllowed, reverseGeocode } from '../memories'
 import { CATEGORY_ICON, DishPhoto, FoodTicker, PickerSheet } from '../ui'
 
-const PAGE = 40
+const PAGE = 20 // small batches: each mount is a short task, not one long hitch mid-fling
 
 // Dish counts for the picker sheets, counted once instead of per country on every render.
 const COUNT = new Map<string, number>()
@@ -41,7 +41,7 @@ export default function Discover() {
   useEffect(() => { saved.limit = limit }, [limit])
   const more = useRef<HTMLDivElement>(null)
   useEffect(() => {
-    const io = new IntersectionObserver((e) => { if (e[0].isIntersecting) setLimit((l) => l + PAGE) }, { rootMargin: '1500px' })
+    const io = new IntersectionObserver((e) => { if (e[0].isIntersecting) startTransition(() => setLimit((l) => l + PAGE)) }, { rootMargin: '1500px' })
     if (more.current) io.observe(more.current)
     return () => io.disconnect()
   }, [])
@@ -170,31 +170,36 @@ export default function Discover() {
       </div>
       {dishes.length === 0 && <p className="muted">No dish data yet.</p>}
       <ul className="cards">
-        {list.slice(0, limit).map((d) => (
-          <li key={d.id}>
-            <Link to={`/dish/${d.id}`} className="card row-card">
-              <DishPhoto dish={d} className="thumb-photo" small />
-              <div className="row-card-body">
-                <div className="card-title">
-                  <span className={`diet ${d.diet}`} aria-label={d.diet} />
-                  {d.name}
-                </div>
-                <span className="muted small"><MapPin size={12} /> {country ? d.state : `${d.state}, ${d.country}`}</span>
-                <div className="tags">
-                  <span>{CATEGORY_LABEL[d.category]}</span>
-                  {d.gi_tag && <span>GI tag</span>}
-                  {priceLabel(d) && <span>{priceLabel(d)}</span>}
-                </div>
-              </div>
-            </Link>
-          </li>
-        ))}
+        {list.slice(0, limit).map((d) => <DishRow key={d.id} d={d} showCountry={!country} />)}
       </ul>
       <div ref={more} />
       {dishes.length > 0 && list.length === 0 && <p className="muted">No dishes match these filters.</p>}
     </div>
   )
 }
+
+// Memoized: loading the next page of cards (or any filter change) re-renders only new rows, not every mounted one.
+const DishRow = memo(function DishRow({ d, showCountry }: { d: Dish; showCountry: boolean }) {
+  return (
+    <li>
+      <Link to={`/dish/${d.id}`} className="card row-card">
+        <DishPhoto dish={d} className="thumb-photo" small />
+        <div className="row-card-body">
+          <div className="card-title">
+            <span className={`diet ${d.diet}`} aria-label={d.diet} />
+            {d.name}
+          </div>
+          <span className="muted small"><MapPin size={12} /> {showCountry ? `${d.state}, ${d.country}` : d.state}</span>
+          <div className="tags">
+            <span>{CATEGORY_LABEL[d.category]}</span>
+            {d.gi_tag && <span>GI tag</span>}
+            {priceLabel(d) && <span>{priceLabel(d)}</span>}
+          </div>
+        </div>
+      </Link>
+    </li>
+  )
+})
 
 // Flag emoji from the ISO code: each letter maps to a regional-indicator symbol.
 const flag = (country: string) =>

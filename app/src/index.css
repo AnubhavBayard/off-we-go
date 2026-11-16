@@ -356,3 +356,6 @@ a.btn { text-decoration: none; }
 .card:active, .feature:active, .chips button:active, .btn:active, .picker:active, .icon-btn:active,
 .picker-list button:active, .clear-btn:active, .tabs a:active, .fab:active { transform: scale(0.96); transition-duration: 60ms; }
 @media (prefers-reduced-motion: reduce) { .card:active, .feature:active, .chips button:active, .btn:active, .picker:active, .icon-btn:active, .picker-list button:active, .clear-btn:active, .tabs a:active, .fab:active { transform: none; } }
+/* Dish page fades in on open (opacity only: a transform would re-anchor the fixed bottom bar). backwards: no lingering layer after. */
+.detail { animation: overlay-in 240ms ease-out backwards; }
+@media (prefers-reduced-motion: reduce) { .detail { animation: none; } }
