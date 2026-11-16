@@ -794,3 +794,10 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
   - Dish page opened with a hard cut: added 240 ms fade-in (opacity only; transform would re-anchor the fixed bottom bar). Blur layer costs ~25 ms on first frame; kept.
   - Remaining: back from dish remounts Discover (~57 ms task) and new-card layout frames 60-80 ms during first scroll of a long list (off the scroll thread). Fine for now.
 - Built + installed.
+
+## Next session
+- User to try on phone: rennet tip on cheese dishes, back button closes sheets, sheet slide-down, press feedback, list scroll, dish fade-in.
+- Open: privacy policy (needed for Play Store), confirm unsourced safe-side calls from official specs (Czech PGI pastries frgál/uši/trubičky/suchary, suncake, humita, Belgian/Swiss egg calls), Becherovka (Karlovarská hořká) spirit GI, Uzbek GIs Kokand patir + Chust oshi, photo coverage (2,055/2,948), thin regions, more countries. Optional perf: back-from-dish Discover remount (~57 ms).
+- Rules: GI true only when dish IS the registered product; rennet cheeses veg + in-app ask-the-chef tip; safe side when unclear.
+- Perf testing: adb forward tcp:9333 localabstract:webview_devtools_remote_<pid>; CDP Runtime.evaluate for rAF/long-animation-frame; `dumpsys gfxinfo com.offwego.app` for Android-side jank. Phone must be unlocked with app in front.
+- Build/install: `cd app && PATH=~/.nvm/versions/node/v22.23.3/bin:$PATH npm run build && npx cap sync android && cd android && ANDROID_HOME=~/Android/Sdk ./gradlew assembleDebug && ~/Android/Sdk/platform-tools/adb install -r app/build/outputs/apk/debug/app-debug.apk`
