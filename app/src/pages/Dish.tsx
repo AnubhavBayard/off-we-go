@@ -71,6 +71,10 @@ export default function DishPage() {
         {d.how_to_eat && <><h3>How to eat it</h3><p>{d.how_to_eat}</p></>}
         {d.how_to_order && <><h3>How to order</h3><p>{d.how_to_order}</p></>}
         {d.allergens.length > 0 && <p className="muted">Contains: {d.allergens.join(', ')}</p>}
+        {/* ponytail: keyword match on "cheese"; add a per-dish flag if false positives show up. India skipped: paneer is acid-set. */}
+        {d.diet !== 'nonveg' && d.country !== 'India' && /chees/i.test(d.name + ' ' + d.description) && (
+          <p className="muted">Strict vegetarian? Many cheeses are made with animal rennet. Ask the chef, waiter or locals whether this one is.</p>
+        )}
 
         {places.length > 0 && <h2>Our picks</h2>}
         <ul className="cards">
