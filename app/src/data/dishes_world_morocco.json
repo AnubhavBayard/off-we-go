@@ -320,13 +320,15 @@
     "how_to_order": null,
     "typical_price": null,
     "currency": "MAD",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
       "gluten",
-      "sesame"
+      "sesame",
+      "egg",
+      "nuts"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shebakia",
@@ -695,7 +697,8 @@
     "wikipedia_url": null,
     "source_urls": [
       "https://fr.wikipedia.org/wiki/Agriculture_au_Maroc",
-      "https://fr.wikipedia.org/wiki/Jben"
+      "https://fr.wikipedia.org/wiki/Jben",
+      "https://www.wipo.int/wipolex/fr/legislation/details/19878"
     ]
   },
   {
@@ -900,7 +903,8 @@
     "allergens": [
       "gluten",
       "dairy",
-      "egg"
+      "egg",
+      "nuts"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Medfouna",
@@ -936,7 +940,8 @@
     "source_urls": [
       "https://fr.wikipedia.org/wiki/Mejhoul",
       "https://en.wikipedia.org/wiki/Medjool",
-      "https://fr.wikipedia.org/wiki/Agriculture_au_Maroc"
+      "https://fr.wikipedia.org/wiki/Agriculture_au_Maroc",
+      "https://www.wipo.int/wipolex/fr/legislation/details/19878"
     ]
   },
   {

@@ -67,7 +67,7 @@
     ],
     "description": "A savoury pie of Swiss chard, onion and olive oil between two thin sheets of unleavened dough, traditionally baked on the stone of an open hearth (komin) under embers, then drizzled with olive oil and chopped garlic. It is the speciality of Poljica, between Split and Omiš, dates to about the 13th century, and its preparation is protected intangible cultural heritage of Croatia.",
     "how_to_eat": "Eat it cut into rhomboid pieces, after it has cooled.",
-    "how_to_order": "Sold at markets, restaurants and festivals in the Split–Omiš area; ask for 'soparnik'.",
+    "how_to_order": "Sold at markets, restaurants and festivals (including the soparnik festival in Dugi Rat); ask for 'soparnik'.",
     "typical_price": null,
     "currency": "EUR",
     "diet": "veg",
@@ -81,7 +81,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Soparnik",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Soparnik",
-      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000015939"
     ]
   },
   {
@@ -108,7 +109,8 @@
     "source_urls": [
       "https://hr.wikipedia.org/wiki/Dalmatinski_pršut",
       "https://en.wikipedia.org/wiki/Prosciutto",
-      "https://hr.wikipedia.org/wiki/Drniški_pršut"
+      "https://hr.wikipedia.org/wiki/Drniški_pršut",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000015951"
     ]
   },
   {
@@ -148,7 +150,7 @@
     "regions": [
       "Dubrovnik"
     ],
-    "description": "A Dalmatian custard pudding with a caramel topping, a variant of crème caramel. In Dubrovnik, where it is called rozata, it is flavoured with the local rose liqueur rozalin; it has a documented history from medieval times.",
+    "description": "A Dalmatian custard pudding with a caramel topping, a variant of crème caramel. In Dubrovnik, where it is called rozata, it is flavoured with the local rose liqueur rozalin.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -196,7 +198,7 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Pag_cheese",
       "https://hr.wikipedia.org/wiki/Paški_sir",
-      "https://en.wikipedia.org/wiki/Pag_(island)"
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000016179"
     ]
   },
   {
@@ -226,7 +228,8 @@
     "wikipedia_url": "https://hr.wikipedia.org/wiki/Malostonska_kamenica",
     "source_urls": [
       "https://hr.wikipedia.org/wiki/Malostonska_kamenica",
-      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000016622"
     ]
   },
   {
@@ -280,7 +283,8 @@
     "wikipedia_url": "https://hr.wikipedia.org/wiki/Istarski_pršut",
     "source_urls": [
       "https://hr.wikipedia.org/wiki/Istarski_pršut",
-      "https://en.wikipedia.org/wiki/Prosciutto"
+      "https://en.wikipedia.org/wiki/Prosciutto",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000014562"
     ]
   },
   {
@@ -294,7 +298,7 @@
     "regions": [
       "Krk"
     ],
-    "description": "Ham from the island of Krk, dry-salted with sea salt and spices and air-dried without smoking for at least a year. Registered as an EU PGI on 14 April 2015, it was the first Croatian food to gain EU protection.",
+    "description": "Ham from the island of Krk, made from boneless pork leg dry-salted with sea salt and spices, air-dried without smoking and dried and matured for at least a year. Registered as an EU PGI on 14 April 2015, it was the first Croatian food to gain EU protection.",
     "how_to_eat": null,
     "how_to_order": "Ask for 'krčki pršut' on Krk.",
     "typical_price": null,
@@ -305,11 +309,12 @@
     "spice": 0,
     "allergens": [],
     "gi_tag": true,
-    "wikipedia_url": "https://hr.wikipedia.org/wiki/Krčki_pršut",
+    "wikipedia_url": null,
     "source_urls": [
-      "https://hr.wikipedia.org/wiki/Krčki_pršut",
+      "https://poljoprivreda.gov.hr/UserDocsImages/arhiva/datastore/filestore/105/2016-6-16_-_Krcki_prsut_-_Izmijenjena_specifikacija_proizvoda.pdf",
       "https://en.wikipedia.org/wiki/Prosciutto",
-      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000014527"
     ]
   },
   {
@@ -374,7 +379,7 @@
     "country": "Croatia",
     "state": "Istria & Kvarner",
     "regions": [],
-    "description": "Small deep-fried dough balls, similar to doughnuts, flavoured with liqueur or rakija and lemon zest, often with raisins, and dusted with sugar. They are made in Kvarner, Istria and Dalmatia, traditionally on fast days, Christmas Eve and at carnival time.",
+    "description": "Small deep-fried dough balls, similar to doughnuts, flavoured with liqueur, rakija or rum and lemon zest, often with raisins, and dusted with sugar. They are made in Kvarner, Istria and Dalmatia, particularly for Christmas, and traditionally on fast days, Christmas Eve and at carnival time.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -385,13 +390,15 @@
     "spice": 0,
     "allergens": [
       "gluten",
-      "egg"
+      "egg",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://hr.wikipedia.org/wiki/Fritule",
     "source_urls": [
       "https://hr.wikipedia.org/wiki/Fritule",
-      "https://en.wikipedia.org/wiki/Frittella_(doughnut)"
+      "https://en.wikipedia.org/wiki/Frittella_(doughnut)",
+      "https://www.croatiaweek.com/croatian-christmas-recipes-fritule/"
     ]
   },
   {
@@ -405,7 +412,7 @@
     "regions": [
       "Rab"
     ],
-    "description": "A cake from the island of Rab made mainly from almonds and maraschino liqueur, traditionally baked in a spiral shape. Legend says it was first served to Pope Alexander III in 1177; today it is made for weddings and baptisms and sold as a long-keeping souvenir.",
+    "description": "A cake from the island of Rab: a filling of almonds, sugar, eggs, citrus zest and maraschino liqueur in a thin pastry of flour, eggs and a little butter, traditionally baked in a spiral shape. Legend says it was first served to Pope Alexander III in 1177; today it is made for weddings and baptisms and sold as a long-keeping souvenir.",
     "how_to_eat": null,
     "how_to_order": "Buy it on Rab as a souvenir.",
     "typical_price": null,
@@ -416,13 +423,16 @@
     "spice": 0,
     "allergens": [
       "nuts",
-      "egg"
+      "egg",
+      "gluten",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rab_cake",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Rab_cake",
-      "https://hr.wikipedia.org/wiki/Rapska_torta"
+      "https://hr.wikipedia.org/wiki/Rapska_torta",
+      "https://www.croatiaweek.com/croatian-recipes-rab-cake/"
     ]
   },
   {
@@ -453,7 +463,8 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Zagorski_štrukli",
       "https://hr.wikipedia.org/wiki/Zagorski_štrukli",
-      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000017492"
     ]
   },
   {
@@ -475,7 +486,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://hr.wikipedia.org/wiki/Pura_z_mlinci",
@@ -572,7 +584,8 @@
     "wikipedia_url": "https://hr.wikipedia.org/wiki/Meso_z_tiblice",
     "source_urls": [
       "https://hr.wikipedia.org/wiki/Meso_z_tiblice",
-      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000015977"
     ]
   },
   {
@@ -602,7 +615,8 @@
     "wikipedia_url": "https://hr.wikipedia.org/wiki/Bjelovarski_kvargl",
     "source_urls": [
       "https://hr.wikipedia.org/wiki/Bjelovarski_kvargl",
-      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000016035"
     ]
   },
   {
@@ -614,7 +628,7 @@
     "country": "Croatia",
     "state": "Zagreb & Northern Croatia",
     "regions": [],
-    "description": "White wine mixed with mineral water, a popular combination in Hrvatsko Zagorje and Međimurje; the name comes from German 'gemischt' (mixed).",
+    "description": "Dry white wine mixed with sparkling mineral water in varying proportions, popular in continental Croatia, especially Hrvatsko Zagorje and Međimurje; the name comes from German 'gemischt' (mixed).",
     "how_to_eat": null,
     "how_to_order": "Ask for 'gemišt'.",
     "typical_price": null,
@@ -625,9 +639,10 @@
     "spice": 0,
     "allergens": [],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Gemišt",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Croatian_cuisine"
+      "https://en.wikipedia.org/wiki/Croatian_cuisine",
+      "https://hr.wikipedia.org/wiki/Gemišt"
     ]
   },
   {
@@ -653,7 +668,8 @@
     "wikipedia_url": "https://hr.wikipedia.org/wiki/Lička_janjetina",
     "source_urls": [
       "https://hr.wikipedia.org/wiki/Lička_janjetina",
-      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000016606"
     ]
   },
   {
@@ -679,7 +695,8 @@
     "wikipedia_url": "https://hr.wikipedia.org/wiki/Lički_krumpir",
     "source_urls": [
       "https://hr.wikipedia.org/wiki/Lički_krumpir",
-      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000014560"
     ]
   },
   {
@@ -708,7 +725,8 @@
     "source_urls": [
       "https://hr.wikipedia.org/wiki/Škripavac",
       "https://en.wikipedia.org/wiki/Croatian_cuisine",
-      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000017282"
     ]
   },
   {
@@ -736,7 +754,8 @@
     "wikipedia_url": "https://hr.wikipedia.org/wiki/Ogulinski_kiseli_kupus",
     "source_urls": [
       "https://hr.wikipedia.org/wiki/Ogulinski_kiseli_kupus",
-      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000014553"
     ]
   },
   {
@@ -750,7 +769,7 @@
     "regions": [
       "Gospić"
     ],
-    "description": "A locally brewed beer from near Gospić on the Velebit mountain; its dark beer was voted best beer by an English beer-fan website.",
+    "description": "A lager brewed since 1997 by the Ličanka brewery in Donje Pazarište near Gospić, using spring water from Velebit; it comes in light (svijetlo) and dark (tamno) versions.",
     "how_to_eat": null,
     "how_to_order": "Ask for 'Velebitsko'.",
     "typical_price": null,
@@ -763,10 +782,10 @@
       "gluten"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://hr.wikipedia.org/wiki/Velebitsko_pivo",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Croatian_cuisine",
-      "https://hr.wikipedia.org/wiki/Hrvatska_kuhinja"
+      "https://hr.wikipedia.org/wiki/Velebitsko_pivo",
+      "https://en.wikipedia.org/wiki/Croatian_cuisine"
     ]
   },
   {
@@ -778,7 +797,7 @@
     "country": "Croatia",
     "state": "Slavonia & Baranja",
     "regions": [],
-    "description": "A dense, low-fat sausage of minced pork spiced with hot red paprika and garlic, stuffed into pork appendix, smoked for months and air-dried, maturing for up to a year. Made at the autumn pig slaughter, it is a symbol of Slavonia; Slavonski kulen and Baranjski kulen are both EU-protected names.",
+    "description": "A dense, low-fat sausage of minced pork spiced with hot red paprika and garlic, stuffed into pork appendix, smoked for months and air-dried, maturing for up to a year. It is traditionally made at the autumn pig slaughter in Slavonia; Slavonski kulen and Baranjski kulen are both EU-protected names.",
     "how_to_eat": null,
     "how_to_order": "Ask for 'kulen'.",
     "typical_price": null,
@@ -793,7 +812,8 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Kulen",
       "https://hr.wikipedia.org/wiki/Slavonski_kulen",
-      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji"
+      "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000015880"
     ]
   },
   {

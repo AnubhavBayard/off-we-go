@@ -14,8 +14,8 @@
       "Drummondville"
     ],
     "description": "French fries and cheese curds topped with hot brown gravy made from beef and chicken stock. It emerged in the Centre-du-Québec region in the late 1950s and became a symbol of Québécois culture; it has been called Canada's national dish.",
-    "how_to_eat": "The curds are added at room temperature so they keep their elasticity and squeak under the hot gravy.",
-    "how_to_order": "Sold at casse-croûtes and poutineries, which often list many variants such as smoked meat or chicken poutine.",
+    "how_to_eat": "The hot gravy is poured over room-temperature cheese curds just before serving, so the curds warm without melting completely.",
+    "how_to_order": "Sold at casse-croûtes, chip wagons and specialist poutineries; many add toppings such as sausage, chicken, bacon or Montreal-style smoked meat.",
     "typical_price": null,
     "currency": "CAD",
     "diet": "nonveg",
@@ -43,7 +43,7 @@
     "regions": [
       "Saguenay–Lac-Saint-Jean"
     ],
-    "description": "A French-Canadian meat pie from Québec made with minced pork, veal or beef and potatoes; game such as venison is sometimes used. It is a traditional part of the Christmas réveillon and New Year's Eve meal. The Tourtière du Lac-Saint-Jean version has a thicker crust and cubes of potato, meat and broth.",
+    "description": "A French-Canadian meat pie from Québec made with minced pork, veal or beef and potatoes; wild game such as bear or venison is sometimes used. It is a traditional part of the Christmas réveillon and New Year's Eve meal. The Saguenay–Lac-Saint-Jean version is a slow-cooked deep-dish pie of potatoes and meats, often including game, cut into small cubes.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -82,12 +82,15 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "dairy"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/P%C3%A2t%C3%A9_chinois",
     "source_urls": [
       "https://en.wikipedia.org/wiki/P%C3%A2t%C3%A9_chinois",
-      "https://en.wikipedia.org/wiki/Cuisine_of_Quebec"
+      "https://en.wikipedia.org/wiki/Cuisine_of_Quebec",
+      "https://www.ricardocuisine.com/en/recipes/5541-pate-chinois-shepherd-s-pie"
     ]
   },
   {
@@ -103,7 +106,7 @@
     ],
     "description": "Kosher-style deli beef brisket that is salted and cured with spices for about a week, hot-smoked and then steamed. It is cured with more cracked pepper than New York pastrami, along with coriander, garlic and mustard seed, and was introduced by Jewish immigrants to Montreal.",
     "how_to_eat": "Typically served as a sandwich on light rye bread with yellow mustard.",
-    "how_to_order": "Ask for a smoked meat sandwich or platter; in Québec it is often just called 'smoked meat'.",
+    "how_to_order": "Order a smoked meat sandwich and specify the fat level (lean, medium or medium fat); in Québec it is often just called 'smoked meat'.",
     "typical_price": null,
     "currency": "CAD",
     "diet": "nonveg",
@@ -230,7 +233,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ice_cider",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Ice_cider",
-      "https://en.wikipedia.org/wiki/Cuisine_of_Quebec"
+      "https://en.wikipedia.org/wiki/Cuisine_of_Quebec",
+      "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/agriculture/achat-local-tourisme-gourmand/reconnaitre-les-aliments-quebecois/appellation-reservee-cidre-glace-quebec"
     ]
   },
   {
@@ -307,9 +311,9 @@
     "regions": [
       "Niagara Peninsula"
     ],
-    "description": "A sweet dessert wine made from grapes frozen naturally on the vine; Canadian law requires picking at −8 °C or colder and a minimum of 35° Brix. Canada is the world's largest producer, about 90% of it from Ontario, notably the Niagara Peninsula, often from Vidal grapes. Icewine is regulated by the VQA appellation system in Ontario and British Columbia.",
+    "description": "A sweet dessert wine made from grapes frozen naturally on the vine; Canadian law requires picking at −8 °C or colder, and grapes under 35° Brix may not be used. Canada is the world's largest producer, over 90% of it from Ontario, notably the Niagara Peninsula, often from Vidal grapes. Icewine production is regulated by the VQA in Ontario and British Columbia.",
     "how_to_eat": null,
-    "how_to_order": "Often sold in half bottles (375 mL) or smaller 200 mL bottles.",
+    "how_to_order": null,
     "typical_price": null,
     "currency": "CAD",
     "diet": "veg",
@@ -317,7 +321,7 @@
     "vegan": false,
     "spice": 0,
     "allergens": [],
-    "gi_tag": true,
+    "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ice_wine",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Ice_wine",
@@ -347,7 +351,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Canadian_whisky",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Canadian_whisky",
-      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+      "https://en.wikipedia.org/wiki/Canadian_cuisine",
+      "https://ised-isde.canada.ca/site/ised/en/engagement-paper-review-canadas-geographical-indication-regime"
     ]
   },
   {
@@ -371,7 +376,8 @@
     "vegan": false,
     "spice": 2,
     "allergens": [
-      "gluten"
+      "gluten",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jamaican_patty",
@@ -432,7 +438,8 @@
     "spice": 0,
     "allergens": [
       "gluten",
-      "dairy"
+      "dairy",
+      "mustard"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jiggs_dinner",
@@ -523,7 +530,9 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "shellfish"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rappie_pie",
     "source_urls": [
@@ -548,7 +557,9 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "gluten"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fricot",
     "source_urls": [
@@ -567,22 +578,25 @@
       "Cape Breton"
     ],
     "description": "Sweetened, stewed blueberries topped with biscuit or sweet dumplings, common in the Maritimes and especially Cape Breton. Grunts are a stovetop variety of cobbler, reportedly named for the grunting sound they make while cooking.",
-    "how_to_eat": null,
+    "how_to_eat": "Served hot or warm, ideally with ice cream or whipped cream.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "CAD",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "dairy",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
       "https://en.wikipedia.org/wiki/Canadian_cuisine",
-      "https://en.wikipedia.org/wiki/Cobbler_(food)"
+      "https://en.wikipedia.org/wiki/Cobbler_(food)",
+      "https://thecanadianencyclopedia.ca/index.php/en/article/blueberry-grunt"
     ]
   },
   {
@@ -632,12 +646,17 @@
     "jain": false,
     "vegan": false,
     "spice": 1,
-    "allergens": [],
+    "allergens": [
+      "gluten",
+      "egg",
+      "soy"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ginger_beef",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Ginger_beef",
-      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+      "https://en.wikipedia.org/wiki/Canadian_cuisine",
+      "https://www.jocooks.com/recipes/ginger-beef/"
     ]
   },
   {
@@ -661,7 +680,8 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "shellfish"
+      "shellfish",
+      "fish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Caesar_(cocktail)",
@@ -711,18 +731,19 @@
     "regions": [
       "Glendon"
     ],
-    "description": "Filled dumplings brought to Canada by Polish and Ukrainian immigrants, common throughout the country and especially on the Prairies, where Ukrainian communities are concentrated. Homemade versions are filled with mashed potato (often with cottage or cheddar cheese), sauerkraut or fruit such as saskatoon berries, then boiled and sometimes fried in butter.",
-    "how_to_eat": "Served with butter, sour cream, fried onions and sometimes bacon or kielbasa.",
+    "description": "Filled dumplings brought to Canada by Central and Eastern European immigrants, particularly common in areas with large Polish or Ukrainian populations such as Alberta. Homemade versions are filled with mashed potato (often with dry curd cottage cheese or cheddar), sauerkraut or fruit such as saskatoon berries, then boiled and sometimes fried in butter; the dough sometimes includes egg.",
+    "how_to_eat": "Served with butter or oil, sour cream, fried onions and sometimes fried bacon or kielbasa.",
     "how_to_order": "Spelled 'perogy' locally; Glendon, Alberta has a giant perogy statue.",
     "typical_price": null,
     "currency": "CAD",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
       "gluten",
-      "dairy"
+      "dairy",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pierogi",
@@ -836,20 +857,22 @@
     "how_to_order": null,
     "typical_price": null,
     "currency": "CAD",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
       "gluten",
       "dairy",
-      "nuts"
+      "nuts",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nanaimo_bar",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Nanaimo_bar",
-      "https://en.wikipedia.org/wiki/Canadian_cuisine"
+      "https://en.wikipedia.org/wiki/Canadian_cuisine",
+      "https://divine.ca/en/the-official-nanaimo-approved-nanaimo-bar-recipe/"
     ]
   },
   {
@@ -873,7 +896,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "fish"
+      "fish",
+      "soy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/B.C._roll",
@@ -892,7 +916,7 @@
     "regions": [
       "Vancouver"
     ],
-    "description": "An inside-out sushi roll of cooked crab, avocado and cucumber. Vancouver chef Hidekazu Tojo claims he created it at his restaurant in the late 1970s, though food historians also trace it to Los Angeles; it is one of the most popular sushi styles in Canada.",
+    "description": "An inside-out sushi roll of imitation crab (or, rarely, real crab), avocado and cucumber, often sprinkled with sesame seeds or fish roe. Vancouver chef Hidekazu Tojo claims he created it at his restaurant in the late 1970s, though several Los Angeles chefs are also cited; it is one of the most popular sushi styles in Canada.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -902,7 +926,11 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "shellfish"
+      "shellfish",
+      "fish",
+      "sesame",
+      "gluten",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/California_roll",
@@ -921,7 +949,7 @@
     "regions": [
       "Vancouver Island"
     ],
-    "description": "Large Pacific shrimp with white spots, harvested in a short 6-8 week season from May to June. British Columbia has the largest harvest, about 2,450 tonnes a year, much of it from the waters between Vancouver Island and the mainland; the fishery is recognised as sustainable by Ocean Wise.",
+    "description": "Large Pacific shrimp with white spots, harvested in a short 6-8 week season from May to June. British Columbia has the largest harvest, about 2,450 tonnes a year, much of it from the waters between Vancouver Island and the mainland; the fishery is recognised as sustainable by the Vancouver Aquarium's Ocean Wise program.",
     "how_to_eat": null,
     "how_to_order": "Available only during the short May-June season.",
     "typical_price": null,
@@ -1004,7 +1032,7 @@
     "regions": [],
     "description": "A flatbread eaten by Inuit, First Nations and Métis across Canada, made with flour, baking powder, sugar, lard and water or milk, then fried, baked or cooked on a stick over a fire. Its modern form reflects flour, sugar and lard rations issued on reserves in the late 19th century.",
     "how_to_eat": null,
-    "how_to_order": "Sweet bannock, with cinnamon and sugar, is also made.",
+    "how_to_order": null,
     "typical_price": null,
     "currency": "CAD",
     "diet": "nonveg",
@@ -1012,7 +1040,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bannock_(Indigenous_American_food)",
@@ -1039,7 +1068,9 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "fish"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pemmican",
     "source_urls": [
@@ -1065,7 +1096,9 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "soy"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Muktuk",
     "source_urls": [
