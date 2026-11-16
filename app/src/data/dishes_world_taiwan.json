@@ -72,7 +72,7 @@
       "Shenkeng"
     ],
     "description": "Tofu fermented or marinated in a strong-smelling brine, traditionally made with fermented milk, vegetables and meat and sometimes dried shrimp. In Taiwan it is most often deep-fried, cut into four pieces and served with pickled cabbage; steamed and charcoal-grilled versions also exist, and Shenkeng Old Street in New Taipei has a whole street of stinky tofu eateries.",
-    "how_to_eat": "Fried and steamed versions come with pickled cabbage, garlic sauce and chili sauce.",
+    "how_to_eat": "Fried tofu comes with pickled cabbage and garlic sauce; the steamed version adds chili sauce.",
     "how_to_order": "Found at night-market stalls across Taiwan; Shenkeng Old Street is known for barbecued skewers.",
     "typical_price": null,
     "currency": "TWD",
@@ -166,7 +166,7 @@
     "state": "Taipei",
     "regions": [],
     "description": "Pan-fried mix of small oysters, egg and leafy vegetables such as garland chrysanthemum, bound with a sweet potato or potato starch batter added near the end, often fried in lard. It is a dish of Southern Min origin and is sold at almost every night market in Taiwan.",
-    "how_to_eat": "Eaten with a sweet and mildly spicy sauce poured over the top.",
+    "how_to_eat": "Eaten with a sweet-and-sour or sweet chili sauce poured over the top.",
     "how_to_order": "Most night-market stalls also offer shrimp, clam or egg-only versions.",
     "typical_price": null,
     "currency": "TWD",
@@ -197,12 +197,12 @@
     "country": "Taiwan",
     "state": "Taipei",
     "regions": [],
-    "description": "Square pastry with a thin golden shell around a pineapple filling; some bakeries add winter melon, egg yolk or other fruit. It became one of Taiwan's top-selling souvenirs, and the Taipei City Government ran an annual Pineapple Cake Cultural Festival from 2005. Its Hokkien name sounds like a phrase for prosperity, so it is given as an engagement gift.",
+    "description": "Square pastry with a thin golden shell, traditionally made with lard and today more often butter, around a pineapple filling; some bakeries add winter melon, egg yolk or other fruit. It became one of Taiwan's top-selling souvenirs, and the Taipei City Government ran an annual Pineapple Cake Cultural Festival from 2005. Its Hokkien name sounds like a phrase for prosperity, so it is given as an engagement gift.",
     "how_to_eat": null,
     "how_to_order": "Sold boxed at bakeries and souvenir shops.",
     "typical_price": null,
     "currency": "TWD",
-    "diet": "egg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -227,7 +227,7 @@
     "country": "Taiwan",
     "state": "Taipei",
     "regions": [],
-    "description": "Bite-sized pieces of chicken leg or thigh marinated in soy sauce, sugar and garlic, coated in flour and fried, usually twice at different oil temperatures. It is seasoned with salt and pepper, with optional chili powder, fried basil leaves and garlic.",
+    "description": "Bite-sized pieces of chicken leg or thigh marinated in soy sauce, sugar, garlic, rice wine and five-spice, dipped in beaten egg, coated in flour or sweet potato starch and fried, often twice at different oil temperatures. It is seasoned with salt and pepper, with optional chili powder, fried basil leaves and garlic.",
     "how_to_eat": null,
     "how_to_order": "Vendors usually let you choose the spice level, mild to extra spicy.",
     "typical_price": null,
@@ -238,7 +238,8 @@
     "spice": 1,
     "allergens": [
       "soy",
-      "gluten"
+      "gluten",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Taiwanese_fried_chicken",
@@ -359,7 +360,9 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "shellfish"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pork_ball",
     "source_urls": [
@@ -379,7 +382,7 @@
     "regions": [
       "Hsinchu"
     ],
-    "description": "Thin noodles steamed and then air-dried in Hsinchu's strong autumn monsoon wind, a method brought from Fujian in the Qing era; many now contain more corn starch than rice. They are commonly stir-fried and topped with soy-sauce meat gravy, eaten dry with mushroom and ground pork, or served in pork ball soup.",
+    "description": "Thin noodles steamed and then air-dried in Hsinchu's strong northeast monsoon wind from October to December, a method brought from Fujian in the Qing era; most now contain more corn starch than rice. They are commonly stir-fried and topped with soy-sauce meat gravy, or served in pork ball soup.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -538,7 +541,7 @@
     "how_to_order": "Sold boxed at Taichung bakeries.",
     "typical_price": null,
     "currency": "TWD",
-    "diet": "egg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -576,7 +579,9 @@
     "jain": false,
     "vegan": false,
     "spice": 1,
-    "allergens": [],
+    "allergens": [
+      "soy"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bah-u%C3%A2n",
     "source_urls": [
@@ -761,8 +766,7 @@
     "allergens": [
       "gluten",
       "dairy",
-      "shellfish",
-      "egg"
+      "shellfish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Coffin_bread",
@@ -1193,7 +1197,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Millet_wine",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Millet_wine",
-      "https://travelintaiwan.net/?p=9019",
+      "https://travelintaiwan.net/2022/08/hualien-taitung/",
       "https://en.wikipedia.org/wiki/Taiwanese_cuisine"
     ]
   },
@@ -1221,7 +1225,8 @@
     "allergens": [
       "egg",
       "fish",
-      "gluten"
+      "gluten",
+      "soy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://zh.wikipedia.org/wiki/%E6%B1%A0%E4%B8%8A%E9%A3%AF%E5%8C%85",

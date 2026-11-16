@@ -44,7 +44,7 @@
     "regions": [
       "Copenhagen"
     ],
-    "description": "Smørrebrød on buttered white or toasted bread topped with one steamed and one fried, breaded plaice fillet, piled with shrimp and garnished with mayonnaise, roe or caviar and lemon. The name means \"shooting star\"; it is said to have been created by Ida Davidsen when cosmonaut Yuri Gagarin visited Copenhagen in 1962.",
+    "description": "Smørrebrød on buttered white bread (franskbrød), often toasted, topped with one steamed and one fried, breaded plaice fillet, piled with shrimp and garnished with mayonnaise, roe or caviar and lemon. The name means \"shooting star\"; it is said to have been created by Ida Davidsen when cosmonaut Yuri Gagarin visited Copenhagen in 1962.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -177,7 +177,8 @@
       "gluten",
       "mustard",
       "dairy",
-      "soy"
+      "soy",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%B8d_p%C3%B8lse",
@@ -209,7 +210,9 @@
     "allergens": [
       "gluten",
       "dairy",
-      "egg"
+      "egg",
+      "nuts",
+      "sesame"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Danish_pastry",
@@ -278,7 +281,8 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Esrom",
       "https://da.wikipedia.org/wiki/Esrom_(ost)",
-      "https://en.foedevarestyrelsen.dk/Media/638866301580759241/Geografiske_betegnelser_Engelsk.pdf"
+      "https://en.foedevarestyrelsen.dk/Media/638866301580759241/Geografiske_betegnelser_Engelsk.pdf",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000013143"
     ]
   },
   {
@@ -309,7 +313,8 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Havarti",
       "https://da.wikipedia.org/wiki/Havarti",
-      "https://en.foedevarestyrelsen.dk/Media/638866301580759241/Geografiske_betegnelser_Engelsk.pdf"
+      "https://en.foedevarestyrelsen.dk/Media/638866301580759241/Geografiske_betegnelser_Engelsk.pdf",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000015985"
     ]
   },
   {
@@ -343,7 +348,7 @@
     "source_urls": [
       "https://en.wikipedia.org/wiki/Sol_over_Gudhjem",
       "https://da.wikipedia.org/wiki/Sol_over_Gudhjem",
-      "https://www.visitdenmark.com/denmark/destinations/bornholm/island-culinary-heroes",
+      "https://www.visitdenmark.com/denmark/destinations/bornholm/restaurants-bornholm",
       "https://bornholm.info/en/bornholm-smokehouses/"
     ]
   },
@@ -377,7 +382,7 @@
     "source_urls": [
       "https://bornholm.info/en/bornholm-smokehouses/",
       "https://da.wikipedia.org/wiki/Bornholm",
-      "https://www.visitdenmark.com/denmark/destinations/bornholm/island-culinary-heroes"
+      "https://www.visitdenmark.com/denmark/destinations/bornholm/restaurants-bornholm"
     ]
   },
   {
@@ -417,7 +422,7 @@
     "country": "Denmark",
     "state": "Funen",
     "regions": [],
-    "description": "Tray-baked yeast cake with a topping of brown sugar, syrup and butter or margarine poured over the risen dough before baking. It is especially associated with Funen, where it is eaten on Sunday mornings and, shaped as a cake-man, at children's birthdays; Funen has marked an annual Brunsviger Day since 2017.",
+    "description": "Tray-baked yeast cake with a topping of brown sugar, syrup and butter or margarine poured over the risen dough before baking. It is especially associated with Funen, where it is eaten on Sunday mornings and, shaped as a cake-man, at children's birthdays; an annual Brunsviger Day, started in 2017 by two P4 Fyn radio hosts, is held in October.",
     "how_to_eat": "On Funen it is sometimes eaten folded inside a bread roll, called a runder med brunner.",
     "how_to_order": null,
     "typical_price": null,
@@ -554,7 +559,8 @@
       "https://en.wikipedia.org/wiki/Danish_Blue_Cheese",
       "https://foedevarestyrelsen.dk/Media/638924859496078085/Produktspecifikation%20for%20DANABLU%20-%20september%202025.pdf",
       "https://da.wikipedia.org/wiki/Marslev",
-      "https://en.foedevarestyrelsen.dk/Media/638866301580759241/Geografiske_betegnelser_Engelsk.pdf"
+      "https://en.foedevarestyrelsen.dk/Media/638866301580759241/Geografiske_betegnelser_Engelsk.pdf",
+      "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/details/EUGI00000013142"
     ]
   },
   {
@@ -732,7 +738,7 @@
     "how_to_order": "Offered as bookable events at venues across the region, including Gram Castle.",
     "typical_price": null,
     "currency": "DKK",
-    "diet": "egg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -761,7 +767,7 @@
     "state": "South Jutland",
     "regions": [],
     "description": "Eggs boiled for 15-20 minutes with onion skins, rolled to crack the shell and left in strong brine for 2-3 days, giving a patterned shell and a dark yolk. It is a South Jutland regional dish, also known on the Frisian Islands and in Germany as Solei.",
-    "how_to_eat": "Peeled and halved, the yolk lifted out and the hollow filled with strong mustard, chilli, vinegar and oil, then the yolk put back and the egg eaten in one bite, usually with a snaps or Gammel Dansk.",
+    "how_to_eat": "Peeled and halved, the yolk lifted out and the hollow filled with strong mustard, chilli, vinegar and oil, then the yolk put back on top; it is usually served with a snaps or Gammel Dansk.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "DKK",
@@ -849,7 +855,7 @@
     "country": "Denmark",
     "state": "South Jutland",
     "regions": [],
-    "description": "South Jutland dish of boiled potatoes with a thick sauce of browned smoked pork cubes and onion, thickened with flour and milk or sour cream. The name means \"tailor's dip\", a frugal dish for poor people.",
+    "description": "South Jutland dish of boiled potatoes with a thick sauce of browned smoked pork cubes and onion, thickened with flour and milk or sour cream. The name, \"tailor's dip\", means a poor man's dip: a frugal dish for poor people, personified by the tailor.",
     "how_to_eat": "The sauce is eaten with boiled potatoes.",
     "how_to_order": null,
     "typical_price": null,

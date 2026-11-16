@@ -177,6 +177,7 @@
     "wikipedia_url": "https://es.wikipedia.org/wiki/Bocadillo_(dulce)",
     "source_urls": [
       "https://es.wikipedia.org/wiki/Bocadillo_(dulce)",
+      "https://api.comunidadandina.org/uploads/LISTADO_DENOMINACIONES_DE_ORIGEN_CAN_07025d1e91.pdf",
       "https://www.asuntoslegales.com.co/actualidad/productos-que-tienen-denominacion-de-origen-en-colombia-4057614",
       "https://en.wikipedia.org/wiki/Colombian_cuisine"
     ]
@@ -352,7 +353,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "dairy"
+      "dairy",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Natillas",
@@ -421,7 +423,7 @@
   {
     "id": "colombia-tinto",
     "name": "Tinto (Colombian coffee)",
-    "local_name": "Café de Colombia",
+    "local_name": null,
     "pronunciation": null,
     "category": "drink",
     "country": "Colombia",
@@ -431,7 +433,7 @@
       "Quindío",
       "Risaralda"
     ],
-    "description": "Black coffee with sugar or panela on the side, or café con leche with half heated milk. Most Colombian coffee is grown in the coffee axis of Caldas, Quindío and Risaralda; Café de Colombia was the country's first denominación de origen (2005) and an EU protected geographical indication since 2007, with regional DOs such as Cauca, Nariño, Huila and Santander.",
+    "description": "Black coffee with sugar or panela on the side, or café con leche with half heated milk. Most Colombian coffee is grown in the coffee axis of Caldas, Quindío and Risaralda; the coffee itself is protected as the denominación de origen Café de Colombia (2005, the country's first) and an EU protected geographical indication since 2007, with regional coffee DOs such as Cauca, Nariño, Huila and Santander.",
     "how_to_eat": "Black coffee is often prepared with aguapanela instead of water and sugar.",
     "how_to_order": null,
     "typical_price": null,
@@ -441,10 +443,11 @@
     "vegan": true,
     "spice": 0,
     "allergens": [],
-    "gi_tag": true,
+    "gi_tag": false,
     "wikipedia_url": "https://es.wikipedia.org/wiki/Caf%C3%A9_de_Colombia",
     "source_urls": [
       "https://es.wikipedia.org/wiki/Caf%C3%A9_de_Colombia",
+      "https://api.comunidadandina.org/uploads/LISTADO_DENOMINACIONES_DE_ORIGEN_CAN_07025d1e91.pdf",
       "https://en.wikipedia.org/wiki/Coffee_production_in_Colombia",
       "https://en.wikipedia.org/wiki/Colombian_cuisine",
       "https://www.asuntoslegales.com.co/actualidad/productos-que-tienen-denominacion-de-origen-en-colombia-4057614",
@@ -653,23 +656,23 @@
     "regions": [
       "El Carmen de Bolívar"
     ],
-    "description": "A cake from the Caribbean region made with grated cassava, coconut and sugar, sometimes with anise and guava jam. It is one of the region's traditional sweets, sold around El Carmen de Bolívar.",
+    "description": "A cake from the Caribbean region made with grated cassava, coconut, grated queso costeño and sugar, sometimes with anise and guava jam. It is one of the region's traditional sweets, sold around El Carmen de Bolívar.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
     "currency": "COP",
-    "diet": "egg",
+    "diet": "veg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "dairy",
-      "egg"
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Enyucado",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Enyucado",
+      "https://www.colombia.com/gastronomia/noticias/aprenda-a-preparar-un-enyucado-bien-costeno-378530",
       "https://en.wikipedia.org/wiki/Colombian_cuisine",
       "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Colombia"
     ]
@@ -923,7 +926,7 @@
     "country": "Colombia",
     "state": "Pacific Coast & Valle del Cauca",
     "regions": [],
-    "description": "A home-brewed alcoholic drink of about 35% made from sugar cane on Colombia's Pacific coast, used in traditional communities as a ceremonial drink and remedy. Long illegal, it was declared cultural and ancestral heritage by law in 2021, allowing commercial production, and it is cited among Colombia's denominaciones de origen.",
+    "description": "A home-brewed alcoholic drink of about 35% made from sugar cane on Colombia's Pacific coast, used in traditional communities as a ceremonial drink and remedy. Long illegal, it was declared cultural and ancestral heritage by law in 2021, allowing commercial production.",
     "how_to_eat": "It is drunk on its own or mixed with sweet fruit juices.",
     "how_to_order": null,
     "typical_price": null,
@@ -937,7 +940,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Viche_(drink)",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Viche_(drink)",
-      "https://www.asuntoslegales.com.co/actualidad/productos-que-tienen-denominacion-de-origen-en-colombia-4057614",
       "https://en.wikipedia.org/wiki/Colombian_cuisine"
     ]
   },
@@ -982,8 +984,8 @@
     "regions": [
       "Ibagué"
     ],
-    "description": "A tamal of maize dough with rice and peas, filled with hard-boiled egg, carrot, bacon, pork and chicken, wrapped in plantain leaves and boiled for hours. It is the best-known of Colombia's many regional tamales and is also sold in bakeries in Bogotá.",
-    "how_to_eat": "It is served with arepa, almojábanas, bread and hot chocolate, or topped with lechona.",
+    "description": "A tamal of maize dough with rice and peas, filled with hard-boiled egg, carrot, chicharrón, pork and chicken, wrapped in plantain leaves and boiled for three to four hours. It is the best-known of Colombia's many regional tamales and is also sold in many bakeries in Bogotá.",
+    "how_to_eat": "It is sometimes topped with a small portion of lechona.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "COP",
@@ -998,7 +1000,8 @@
     "wikipedia_url": "https://es.wikipedia.org/wiki/Tamal",
     "source_urls": [
       "https://es.wikipedia.org/wiki/Tamal",
-      "https://en.wikipedia.org/wiki/Colombian_cuisine"
+      "https://en.wikipedia.org/wiki/Colombian_cuisine",
+      "https://es.wikipedia.org/wiki/Lechona"
     ]
   },
   {
@@ -1029,6 +1032,7 @@
     "wikipedia_url": "https://es.wikipedia.org/wiki/Achira_(galleta)",
     "source_urls": [
       "https://es.wikipedia.org/wiki/Achira_(galleta)",
+      "https://api.comunidadandina.org/uploads/LISTADO_DENOMINACIONES_DE_ORIGEN_CAN_07025d1e91.pdf",
       "https://www.asuntoslegales.com.co/actualidad/productos-que-tienen-denominacion-de-origen-en-colombia-4057614",
       "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Colombia"
     ]
@@ -1044,8 +1048,8 @@
     "regions": [
       "Popayán"
     ],
-    "description": "A Cauca tamal filled with chorizo or pork and pipián, with ground peanut added to the dough. Popayán was named a UNESCO City of Gastronomy in 2005, and in Cauca pipián is the usual filling for tamales and empanadas.",
-    "how_to_eat": "It is served with peanut ají and white rice.",
+    "description": "A small Cauca tamal of maize dough filled with pipián, a creamy stew of potato and peanut seasoned with achiote, often with pork. In Cauca pipián is the usual filling for tamales and empanadas, and Popayán was named a UNESCO City of Gastronomy in 2005.",
+    "how_to_eat": "It is served with ají de maní, a peanut hot sauce.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "COP",
@@ -1054,13 +1058,15 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "peanuts"
+      "peanuts",
+      "egg"
     ],
     "gi_tag": false,
-    "wikipedia_url": "https://es.wikipedia.org/wiki/Tamal",
+    "wikipedia_url": null,
     "source_urls": [
-      "https://es.wikipedia.org/wiki/Tamal",
       "https://es.wikipedia.org/wiki/Carantanta",
+      "https://www.mycolombianrecipes.com/tamales-de-pipian-pipian-tamales/",
+      "https://www.colombia.com/gastronomia/noticias/que-comer-en-popayan-empanadas-de-pipian-tamal-y-dulces-del-cauca-592450",
       "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Colombia"
     ]
   },
@@ -1163,7 +1169,7 @@
     "country": "Colombia",
     "state": "Southwest (Tolima, Huila, Cauca, Nariño)",
     "regions": [],
-    "description": "A bread made from cassava starch and cheese, typical of southern Colombia and western Ecuador. In Colombia pandeyuca is among the breads served with masato.",
+    "description": "A bread made from cassava starch, white cheese and egg, typical of southern Colombia and western Ecuador. In Colombia pandeyuca is among the breads served with masato.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -1180,6 +1186,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pan_de_yuca",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Pan_de_yuca",
+      "https://es.wikipedia.org/wiki/Pandeyuca",
       "https://es.wikipedia.org/wiki/Masato",
       "https://en.wikipedia.org/wiki/Colombian_cuisine"
     ]

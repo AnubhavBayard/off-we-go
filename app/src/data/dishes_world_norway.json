@@ -312,7 +312,8 @@
     "spice": 0,
     "allergens": [
       "fish",
-      "dairy"
+      "dairy",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
@@ -333,7 +334,7 @@
       "Bergen"
     ],
     "description": "Cinnamon roll made by rolling yeast dough with butter, sugar and cinnamon and cutting it into thick slices. It reached Norway through Bergen, where it remains a tradition; the name comes from its original price of one skilling, and the Bergen version is large with plenty of sugar on top.",
-    "how_to_eat": null,
+    "how_to_eat": "Torn off bit by bit or bitten from one side, often with coffee; some add butter and brown cheese.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "NOK",
@@ -350,7 +351,7 @@
     "wikipedia_url": null,
     "source_urls": [
       "https://no.wikipedia.org/wiki/Skillingsbolle",
-      "https://en.visitbergen.com/food-and-drink/bergen-city-of-gastronomy/bergen-fish-soup"
+      "https://en.visitbergen.com/food-and-drink/bergen-city-of-gastronomy/skillingsbolle-favourite-pastry-in-Bergen"
     ]
   },
   {
@@ -365,7 +366,7 @@
       "Bergen"
     ],
     "description": "Fresh cod fillets with the skin on, salted and sugared and pressed in a cool place for a few hours to several days, which firms the flesh into fine flakes. A Christmas dinner in many Bergen homes, it has had its own day, 28 January, since 2020; 'perse' is Bergen dialect from Low German for 'press'.",
-    "how_to_eat": "Boiled and served with mustard sauce in traditional recipes.",
+    "how_to_eat": "Boiled; old recipes serve it with mustard sauce, and it was also traditionally served with egg butter.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "NOK",
@@ -375,13 +376,15 @@
     "spice": 0,
     "allergens": [
       "fish",
-      "mustard"
+      "mustard",
+      "egg",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
       "https://no.wikipedia.org/wiki/Persetorsk",
-      "https://en.visitbergen.com/food-and-drink/bergen-city-of-gastronomy/traditional-christmas-food-in-bergen"
+      "https://en.visitbergen.com/food-and-drink/bergen-city-of-gastronomy/persetorsk-from-Bergen"
     ]
   },
   {
@@ -476,7 +479,7 @@
   {
     "id": "norway-sodd",
     "name": "Sodd",
-    "local_name": "Festsodd fra Trøndelag",
+    "local_name": null,
     "pronunciation": null,
     "category": "meal",
     "country": "Norway",
@@ -642,7 +645,7 @@
     "allergens": [
       "dairy"
     ],
-    "gi_tag": false,
+    "gi_tag": true,
     "wikipedia_url": "https://no.wikipedia.org/wiki/Tettemelk",
     "source_urls": [
       "https://www.beskyttedebetegnelser.no/godkjente-produkter/okologisk-tjukkmjolk-fra-roros/",
@@ -661,8 +664,8 @@
     "regions": [
       "Lofoten"
     ],
-    "description": "Unsalted cod (skrei) caught off Lofoten and dried outdoors on wooden racks (hjell) from February to April. It was Norway's main fish export for centuries, with Italy now the largest buyer; Tørrfisk fra Lofoten is protected in Norway (2007) and in the EU as a PGI (2014).",
-    "how_to_eat": "Eaten steamed, grilled or baked, in bacalao, or as dry pieces as a snack.",
+    "description": "Unsalted cod (skrei) caught off Lofoten and dried outdoors on wooden racks (hjell) from February to April. It is Norway's longest sustained export commodity and is widely eaten in Italy; Tørrfisk fra Lofoten is protected in Norway (2007) and in the EU as a PGI (2014).",
+    "how_to_eat": "Eaten steamed, grilled or baked, or as dry pieces as a snack.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "NOK",
@@ -815,7 +818,7 @@
     "regions": [
       "Lofoten"
     ],
-    "description": "The tongue and chin muscle of cod, about 30-40 g each, cut from the heads during the winter skrei fishery, traditionally by local schoolchildren on the quays in Lofoten. Breaded and crisp-fried, they are a coastal delicacy in skrei season.",
+    "description": "The tongue and chin muscle of cod, usually 30-40 g each, cut from the heads on the quays during the winter skrei fishery in Lofoten and elsewhere in Northern Norway; the job is popular with schoolchildren. Breaded and crisp-fried, they are a coastal delicacy in skrei season.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -943,14 +946,13 @@
     "how_to_order": null,
     "typical_price": null,
     "currency": "NOK",
-    "diet": "egg",
+    "diet": "veg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
       "gluten",
-      "dairy",
-      "egg"
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://no.wikipedia.org/wiki/Kakemann",
