@@ -164,7 +164,7 @@
     "regions": [
       "Mount Lavinia"
     ],
-    "description": "A dark, moist coconut cake made of shredded coconut, kithul jaggery and dry-roasted semolina or rice flour with spices. Believed to have been introduced by the Portuguese, it is made for Christmas, New Year and Sinhala and Tamil New Year; the Mount Lavinia area has historically been associated with its production.",
+    "description": "A dark, moist coconut cake made of shredded coconut, kithul jaggery or treacle and dry-roasted semolina or rice flour with spices; many recipes add eggs, butter, cashews and dried fruit. Believed to have been introduced by the Portuguese, it is made for Christmas, New Year and Sinhala and Tamil New Year; the Mount Lavinia area has historically been associated with its production.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -176,13 +176,16 @@
     "allergens": [
       "gluten",
       "egg",
-      "dairy"
+      "dairy",
+      "nuts"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bibikkan",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Bibikkan",
-      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine"
+      "https://en.wikipedia.org/wiki/Sri_Lankan_cuisine",
+      "https://www.life.lk/article/food/Feast-with-Bibikkan-this-Avurudu-/30/17811",
+      "https://cookingworldsrilanka.blogspot.com/2009/11/bibikkan.html"
     ]
   },
   {
@@ -224,12 +227,12 @@
     "country": "Sri Lanka",
     "state": "Colombo & Western",
     "regions": [],
-    "description": "A cold drink of syrup, ice cream, jelly pieces and basil seeds. It comes from the Mughlai falooda, itself derived from the Persian faloodeh, and in Sri Lanka is a popular dairy refreshment.",
+    "description": "A cold drink of rose syrup and milk garnished with basil seeds and jelly cubes and often topped with ice cream; mango and nelli (gooseberry) versions also exist. It comes from the Mughlai falooda, itself derived from the Persian faloodeh, and in Sri Lanka is a popular dairy refreshment.",
     "how_to_eat": "Served cold.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "LKR",
-    "diet": "veg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -509,7 +512,7 @@
       "Batticaloa"
     ],
     "description": "Steamed cylinders of ground rice layered with grated coconut; the Sri Lankan version is usually made with wheat flour or red rice flour. A common breakfast among Sri Lankan Tamils.",
-    "how_to_eat": "Often served with sodhi, a light coconut-milk stew, or with curries.",
+    "how_to_eat": "Usually accompanied by a fish, meat or tripe curry, coconut milk and a sambol; in the north it is also paired with sodhi, a light coconut-milk stew.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "LKR",
@@ -596,8 +599,8 @@
       "Jaffna"
     ],
     "description": "A hard snack of palmyra palm tubers split and dried; it is also ground into the flour used in odiyal pittu and odiyal kool. Popular in the Jaffna Peninsula.",
-    "how_to_eat": "Eaten with tea.",
-    "how_to_order": "Sold in paper cones in Jaffna's bazaars.",
+    "how_to_eat": "Odiyal chips are eaten as a snack with tea.",
+    "how_to_order": "Odiyal chips are sold in paper cones in Jaffna's bazaars.",
     "typical_price": null,
     "currency": "LKR",
     "diet": "veg",
@@ -688,7 +691,7 @@
     "regions": [
       "Galle"
     ],
-    "description": "Rice cooked in stock with a three-meat curry, ash plantain and aubergine curry, seeni sambol, belacan (shrimp paste) and frikadeller meatballs, wrapped in banana leaf and baked. Introduced by the Dutch Burghers, it is based on the Javanese lemper.",
+    "description": "Rice cooked in butter or ghee and meat stock with a three-meat curry, ash plantain and aubergine curry, seeni sambol, belacan (shrimp paste) and frikadeller meatballs, wrapped in banana leaf and baked; a deep-fried boiled egg is a common modern addition. Introduced by the Dutch Burghers, it is based on the Javanese lemper.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -699,7 +702,9 @@
     "spice": 1,
     "allergens": [
       "shellfish",
-      "dairy"
+      "dairy",
+      "egg",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lamprais",

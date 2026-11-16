@@ -79,7 +79,9 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "gluten"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Irish_stew",
     "source_urls": [
@@ -133,7 +135,7 @@
     "currency": "EUR",
     "diet": "veg",
     "jain": false,
-    "vegan": false,
+    "vegan": true,
     "spice": 0,
     "allergens": [
       "gluten"
@@ -165,7 +167,9 @@
     "jain": false,
     "vegan": false,
     "spice": 2,
-    "allergens": [],
+    "allergens": [
+      "gluten"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Spice_bag",
     "source_urls": [
@@ -191,7 +195,9 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "dairy",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chicken_fillet_roll",
@@ -283,7 +289,9 @@
     "jain": false,
     "vegan": false,
     "spice": 1,
-    "allergens": [],
+    "allergens": [
+      "gluten"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Spiced_beef",
     "source_urls": [
@@ -475,7 +483,7 @@
       "Galway",
       "Clarinbridge"
     ],
-    "description": "Native oysters from Galway Bay, celebrated each September at the Galway International Oyster and Seafood Festival, held since 1954 at the start of the oyster season. Oysters are also sourced from Clew Bay and Donegal.",
+    "description": "Native oysters from Galway Bay, celebrated each September at the Galway International Oyster and Seafood Festival, held since 1954 at the start of the oyster season. Other renowned Irish oyster regions include Clew Bay, Donegal and Carlingford Lough.",
     "how_to_eat": "Traditionally paired with Guinness.",
     "how_to_order": null,
     "typical_price": null,
@@ -517,7 +525,8 @@
     "spice": 0,
     "allergens": [
       "fish",
-      "dairy"
+      "dairy",
+      "shellfish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chowder",
@@ -568,9 +577,9 @@
     "regions": [
       "Connemara"
     ],
-    "description": "Lamb from the Connemara black-faced horned ewe, a breed unique to the region dating back to the 1800s, raised on herbs, heathers and grasses of the Connemara hills. It received EU Protected Geographical Indication status in 2007.",
+    "description": "Lamb from the Connemara Blackfaced Horned Ewe, which has roamed the region's hills since the 1800s, grazing on herbs, heathers and wild grasses. It was registered as an EU Protected Geographical Indication in 2007.",
     "how_to_eat": null,
-    "how_to_order": "Available seasonally from July.",
+    "how_to_order": "A seasonal product, not sold until the end of June.",
     "typical_price": null,
     "currency": "EUR",
     "diet": "nonveg",
@@ -581,7 +590,8 @@
     "gi_tag": true,
     "wikipedia_url": null,
     "source_urls": [
-      "https://connemara.net/connemara-hill-lamb",
+      "https://www.irishtimes.com/life-and-style/food-and-drink/leg-it-to-connemara-1.1266770",
+      "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32007R0148",
       "https://en.wikipedia.org/wiki/List_of_Republic_of_Ireland_food_and_drink_products_with_protected_status",
       "https://www.ireland.com/en-fi/magazine/food-and-drink/traditional-irish-food/"
     ]
@@ -628,9 +638,7 @@
     "category": "drink",
     "country": "Ireland",
     "state": "Galway & the West",
-    "regions": [
-      "Connemara"
-    ],
+    "regions": [],
     "description": "A traditional Irish spirit of 40-90% ABV, historically distilled in a small pot still in remote rural areas; under its technical file it may be made only from cereals, grain, whey, sugar beet, molasses and potatoes. Irish poitín has EU geographical indication status, and folk songs such as The Hills of Connemara are about it.",
     "how_to_eat": null,
     "how_to_order": "Commercially produced spirits labelled poitín, poteen or potcheen are sold legally.",
@@ -695,12 +703,13 @@
     "how_to_order": null,
     "typical_price": null,
     "currency": "EUR",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rissole",

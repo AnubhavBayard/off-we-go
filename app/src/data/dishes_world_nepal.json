@@ -20,7 +20,8 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "gluten"
+      "gluten",
+      "soy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Momo_(food)",
@@ -145,7 +146,8 @@
     "source_urls": [
       "https://ntb.gov.np/things-to-do/food-&-culinary",
       "https://en.wikipedia.org/wiki/Nepalese_cuisine",
-      "https://en.wikipedia.org/wiki/Samay_baji"
+      "https://en.wikipedia.org/wiki/Samay_baji",
+      "https://togetherwomenrise.org/the-proven-platter-nepal/"
     ]
   },
   {
@@ -266,7 +268,8 @@
     "source_urls": [
       "https://english.onlinekhabar.com/local-foods-in-nepal.html",
       "https://en.wikipedia.org/wiki/Nepalese_cuisine",
-      "https://ntb.gov.np/things-to-do/food-&-culinary"
+      "https://ntb.gov.np/things-to-do/food-&-culinary",
+      "https://nepaltraveller.com/sidetrack/thakali-khana-set-an-authentic-traditional-cuisine"
     ]
   },
   {
@@ -283,7 +286,7 @@
     "how_to_order": null,
     "typical_price": null,
     "currency": "NPR",
-    "diet": "veg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 2,
@@ -336,7 +339,7 @@
     "country": "Nepal",
     "state": "Himalaya & Mustang",
     "regions": [],
-    "description": "Strong tea churned with butter (yak butter, or ghee) and salt, drunk in the Himalayan regions of Nepal; in Sherpa it is called su chya or phe chya. Traditionally tsampa may be added, and cow's-milk butter is increasingly used.",
+    "description": "Strong tea churned with butter (yak butter, or ghee) and salt, drunk in the Himalayan regions of Nepal. Traditionally tsampa may be added, and cow's-milk butter is increasingly used.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -468,7 +471,7 @@
   {
     "id": "nepal-dal-bhat",
     "name": "Dal bhat",
-    "local_name": "दालभात",
+    "local_name": "दाल भात",
     "pronunciation": null,
     "category": "meal",
     "country": "Nepal",
@@ -686,7 +689,8 @@
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Thekua",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Thekua"
+      "https://en.wikipedia.org/wiki/Thekua",
+      "https://kathmandupost.com/art-culture/2024/01/27/recipes-from-maithili-kitchens"
     ]
   },
   {
@@ -698,7 +702,7 @@
     "country": "Nepal",
     "state": "Terai (Madhesh & Mithila)",
     "regions": [],
-    "description": "A biscuit of soaked, dried and ground rice mixed with jaggery, rolled in white poppy seeds and fried in ghee. It is associated with Tihar and is one of the traditional Maithil dishes.",
+    "description": "A biscuit of soaked, dried and ground rice mixed with jaggery, rolled in white poppy seeds and fried in ghee; Nepali recipes may also use sesame. It is associated with Tihar and is also made for weddings, pujas and other auspicious occasions in Nepal.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -708,13 +712,14 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "dairy"
+      "dairy",
+      "sesame"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Anarsa",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Anarsa",
-      "https://en.wikipedia.org/wiki/Maithil_cuisine"
+      "https://ne.wikipedia.org/wiki/अनरसा"
     ]
   },
   {
@@ -726,7 +731,7 @@
     "country": "Nepal",
     "state": "Terai (Madhesh & Mithila)",
     "regions": [],
-    "description": "A steamed rice-flour dumpling filled with sweet chaku, vegetables or other fried items, made by the Maithil, Tharu and Dhimal communities. It is a key part of Laxmi Puja during Tihar.",
+    "description": "A steamed rice-flour dumpling made by the Maithil, Tharu and Dhimal communities, filled with sweet chaku or with savoury fillings such as spiced potato, lentils and peanuts. It is a key part of Laxmi Puja during Tihar and is common in Terai homes in winter, especially in the month of Magh.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -735,12 +740,16 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "peanuts",
+      "mustard"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bagiya",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Bagiya",
-      "https://en.wikipedia.org/wiki/Nepalese_cuisine"
+      "https://en.wikipedia.org/wiki/Nepalese_cuisine",
+      "https://kathmandupost.com/art-culture/2024/01/27/recipes-from-maithili-kitchens"
     ]
   },
   {
@@ -785,16 +794,18 @@
     "currency": "NPR",
     "diet": "veg",
     "jain": false,
-    "vegan": true,
+    "vegan": false,
     "spice": 2,
     "allergens": [
       "gluten",
-      "mustard"
+      "mustard",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Litti_(dish)",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Litti_(dish)"
+      "https://en.wikipedia.org/wiki/Litti_(dish)",
+      "https://kathmandupost.com/art-culture/2024/01/27/recipes-from-maithili-kitchens"
     ]
   },
   {

@@ -124,7 +124,7 @@
     "description": "A snack of fresh silken tofu with arnibal (caramelized brown sugar syrup) and sago pearls. The dish came from China via Hokkien immigrants, its name coming from the Hokkien word for tofu.",
     "how_to_eat": "Served in plastic cups with a spoon or straw, mostly in the morning.",
     "how_to_order": "Bought from vendors (mágtatahô) who carry two buckets on a pole and call out 'Tahô!' along their route.",
-    "typical_price": "20",
+    "typical_price": null,
     "currency": "PHP",
     "diet": "veg",
     "jain": false,
@@ -241,7 +241,7 @@
     "regions": [
       "Angeles"
     ],
-    "description": "Chopped pork jowl and ears (maskara) seasoned with calamansi, onions and chili peppers, made by boiling, grilling and then chopping the meat. It is a staple of Kapampangan cuisine; the modern version was developed in Angeles by Lucia Cunanan in 1974, and the city declared sizzling pork sisig a tangible heritage in 2017.",
+    "description": "Chopped pork jowl and ears (maskara) seasoned with calamansi, onions and chili peppers; the pig's head is boiled, then chopped and grilled. It is a staple of Kapampangan cuisine; the modern version was developed in Angeles by Lucia Cunanan in 1974, and the city declared sizzling pork sisig a tangible heritage in 2017.",
     "how_to_eat": "Served on a sizzling hot plate.",
     "how_to_order": null,
     "typical_price": null,
@@ -323,7 +323,7 @@
     "state": "Central Luzon",
     "regions": [],
     "description": "Cooked rice and raw fish fillets fermented for about a week with salt and red yeast rice (angkak). It is common in Central Luzon, made by Kapampangan, Sambal, Tagalog and other groups, and versions are named after the fish used, such as burong bangus.",
-    "how_to_eat": "Often paired with blanched vegetables.",
+    "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
     "currency": "PHP",
@@ -746,7 +746,7 @@
     "regions": [
       "Albay"
     ],
-    "description": "An ice cream made with labuyo chili, coconut milk, puréed strawberries and sugar. It was created by the 1st Colonial Grill restaurant in Albay in 2004, inspired by Bicol's spicy coconut milk dishes.",
+    "description": "An ice cream flavored with siling labuyo chili and coconut milk. It was invented by 1st Colonial, a homegrown Albay restaurant founded in 2004, inspired by Bicol's spicy cuisine, and is now one of Bicol's best-known delicacies.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -777,7 +777,7 @@
       "Bacolod",
       "Iloilo"
     ],
-    "description": "Chicken marinated in calamansi, black pepper, coconut vinegar and annatto, then grilled over hot coals while basted with the marinade. Bacolod's version is slightly sour and Iloilo's is sweeter; it became popular on Bacolod's 'Manokan Country' street in the 1970s and was declared a cultural property of Bacolod in 2022.",
+    "description": "Chicken marinated in calamansi, black pepper, coconut vinegar and annatto, then grilled over hot coals while basted with the marinade. Bacolod's version is slightly sour and Iloilo's is sweeter; it became widely popular in the 1970s on Bacolod's Cuadra Street, and Bacolod's 'Manokan Country' market is dedicated to it. It was declared a cultural property of Bacolod in 2022.",
     "how_to_eat": "Served with rice, calamansi, soy sauce, chicken oil and spiced palm vinegar (sinamak).",
     "how_to_order": "Order by part: pecho (breast and wing) or paa (leg and thigh).",
     "typical_price": null,
@@ -1111,7 +1111,9 @@
     "vegan": false,
     "spice": 1,
     "allergens": [
-      "soy"
+      "soy",
+      "fish",
+      "shellfish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pastil",
