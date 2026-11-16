@@ -6,6 +6,7 @@ import type { FeatureCollection, Geometry } from 'geojson'
 import { dishById, restaurantById } from '../data'
 import { useSession } from '../cloud'
 import { deleteMemory, resolvePendingPlaces, useMemories, usePhotoUrl, type Memory } from '../memories'
+import { useSheetClose } from '../ui'
 
 type Countries = FeatureCollection<Geometry, { iso: string; name: string }>
 
@@ -38,8 +39,9 @@ function MemoryView({ m, onClose }: { m: Memory; onClose: () => void }) {
   const url = usePhotoUrl(m.photoPath)
   const dish = m.dishId ? dishById.get(m.dishId) : undefined
   const place = m.restaurantId ? restaurantById.get(m.restaurantId) : undefined
+  const { close, overlayProps } = useSheetClose(onClose)
   return (
-    <div className="overlay" onClick={onClose}>
+    <div {...overlayProps}>
       <div className="sheet" onClick={(e) => e.stopPropagation()}>
         {url && <img src={url} alt="" />}
         <p><strong>{dish?.name ?? 'Memory'}</strong>{place && ` at ${place.name}`}</p>
@@ -47,8 +49,8 @@ function MemoryView({ m, onClose }: { m: Memory; onClose: () => void }) {
         {m.note && <p>{m.note}</p>}
         <div className="row">
           {dish && <Link to={`/dish/${dish.id}`}>About this dish</Link>}
-          <button className="btn" onClick={onClose}>Close</button>
-          <button className="btn danger" onClick={() => confirm('Delete this memory? This cannot be undone.') && deleteMemory(m.id).then(onClose)}>Delete</button>
+          <button className="btn" onClick={close}>Close</button>
+          <button className="btn danger" onClick={() => confirm('Delete this memory? This cannot be undone.') && deleteMemory(m.id).then(close)}>Delete</button>
         </div>
       </div>
     </div>

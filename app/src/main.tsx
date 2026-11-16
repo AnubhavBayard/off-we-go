@@ -68,7 +68,7 @@ function BackButton() {
   useEffect(() => {
     const handle = NativeApp.addListener('backButton', () => {
       // Open sheet (picker, memory view) closes first: every sheet's .overlay closes on click.
-      const overlay = document.querySelector<HTMLElement>('.overlay')
+      const overlay = document.querySelector<HTMLElement>('.overlay:not(.closing)')
       if (overlay) overlay.click()
       else if (path.current === '/') void NativeApp.exitApp()
       else if (TABS.some((t) => t.to === path.current)) navigate('/', { replace: true })

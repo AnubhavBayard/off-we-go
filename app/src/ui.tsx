@@ -1,5 +1,5 @@
 // Small UI pieces shared by the dish list and dish page.
-import { useEffect, useState, type ReactNode, type SyntheticEvent } from 'react'
+import { useEffect, useState, type AnimationEvent, type ReactNode, type SyntheticEvent } from 'react'
 import {
   Candy, Check, Citrus, Coffee, CookingPot, Cookie, CupSoda, Drumstick, Fish, IceCreamCone, Landmark, Popcorn, Sandwich, Search, Shrimp, Soup, Wheat, X,
   type LucideIcon,
@@ -20,13 +20,15 @@ export const CATEGORY_ICON: Record<Category, LucideIcon> = {
 export const hideBroken = (e: SyntheticEvent<HTMLImageElement>) => { e.currentTarget.style.display = 'none' }
 
 // Dish photo, or the category icon on a tinted tile when there is none (or it fails to load).
-export function DishPhoto({ dish, className, alt = '' }: { dish: Dish; className: string; alt?: string }) {
+// small: 330px Wikimedia thumbnail (a standard size) for list thumbs instead of 960px; less to download and decode while scrolling.
+export function DishPhoto({ dish, className, alt = '', small }: { dish: Dish; className: string; alt?: string; small?: boolean }) {
   const img = imageFor(dish.id)
   const Icon = CATEGORY_ICON[dish.category]
+  const src = img && (small ? img.src.replace('/960px-', '/330px-') : img.src)
   return (
     <div className={`photo ${className}`}>
       <Icon className="photo-icon" aria-hidden />
-      {img && <img src={img.src} alt={alt} loading="lazy" onError={hideBroken} />}
+      {src && <img src={src} alt={alt} loading="lazy" decoding="async" onError={hideBroken} />}
     </div>
   )
 }
@@ -62,19 +64,33 @@ export function FoodTicker() {
 
 export type PickerOption = { value: string; label: string; icon: ReactNode; meta?: ReactNode }
 
+// Sheets slide out before unmounting: close() plays the out animation, the overlay's animationend calls onClose.
+// Reduced motion has no animation (no animationend), so it closes at once.
+export function useSheetClose(onClose: () => void) {
+  const [closing, setClosing] = useState(false)
+  const close = () => matchMedia('(prefers-reduced-motion: reduce)').matches ? onClose() : setClosing(true)
+  const overlayProps = {
+    className: closing ? 'overlay closing' : 'overlay',
+    onClick: close,
+    onAnimationEnd: (e: AnimationEvent<HTMLDivElement>) => { if (closing && e.target === e.currentTarget) onClose() },
+  }
+  return { close, overlayProps }
+}
+
 // Bottom sheet list behind the pill pickers (country/region on Home, place/dish on Add).
 export function PickerSheet({ title, options, value, searchable, onPick, onClose }: {
   title: string; options: PickerOption[]; value: string; searchable?: boolean; onPick: (v: string) => void; onClose: () => void
 }) {
   const [q, setQ] = useState('')
   const shown = options.filter((o) => o.label.toLowerCase().includes(q.trim().toLowerCase()))
+  const { close, overlayProps } = useSheetClose(onClose)
   return (
-    <div className="overlay picker-overlay" onClick={onClose}>
+    <div {...overlayProps}>
       <div className="sheet picker-sheet" role="dialog" aria-label={title} onClick={(e) => e.stopPropagation()}>
         <div className="sheet-grip" />
         <div className="picker-head">
           <h2>{title}</h2>
-          <button type="button" className="icon-btn" aria-label="Close" onClick={onClose}><X size={20} /></button>
+          <button type="button" className="icon-btn" aria-label="Close" onClick={close}><X size={20} /></button>
         </div>
         {searchable && (
           <label className="input-icon">
@@ -85,7 +101,7 @@ export function PickerSheet({ title, options, value, searchable, onPick, onClose
         <ul className="picker-list">
           {shown.map((o) => (
             <li key={o.value}>
-              <button type="button" className={o.value === value ? 'on' : ''} onClick={() => { onPick(o.value); onClose() }}>
+              <button type="button" className={o.value === value ? 'on' : ''} onClick={() => { onPick(o.value); close() }}>
                 <span className="picker-icon">{o.icon}</span>
                 <span className="picker-label">{o.label}</span>
                 <span className="muted small picker-meta">{o.meta}</span>

@@ -1,4 +1,4 @@
-import { useEffect, useLayoutEffect, useRef, useState } from 'react'
+import { useDeferredValue, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Award, ChevronDown, Globe, Leaf, MapPin, Search, Sprout, UserRound, X } from 'lucide-react'
 import { CATEGORY_LABEL, COUNTRIES, COUNTRY_CODE, dishes, imageFor, priceLabel, regionsOf, type Category } from '../data'
@@ -6,6 +6,10 @@ import { positionIfAllowed, reverseGeocode } from '../memories'
 import { CATEGORY_ICON, DishPhoto, FoodTicker, PickerSheet } from '../ui'
 
 const PAGE = 40
+
+// Dish counts for the picker sheets, counted once instead of per country on every render.
+const COUNT = new Map<string, number>()
+for (const d of dishes) for (const k of [d.country, `${d.country}|${d.state}`]) COUNT.set(k, (COUNT.get(k) ?? 0) + 1)
 
 // Filters and scroll position outlive the page (open a dish, come back) for the rest of the app session.
 const saved = { q: '', category: null as Category | null, country: '', state: '', vegOnly: false, jainOnly: false, scrollY: 0, located: false, limit: PAGE }
@@ -48,19 +52,22 @@ export default function Discover() {
     return () => removeEventListener('scroll', remember)
   }, [])
 
-  const query = q.trim().toLowerCase()
-  const inState = dishes.filter((d) => (!country || d.country === country) && (!state || d.state === state))
-  const list = inState.filter(
+  // Typing stays instant: the list re-filters from a deferred copy of the query, in the background.
+  const typed = useDeferredValue(q)
+  const query = typed.trim().toLowerCase()
+  const inState = useMemo(() => dishes.filter((d) => (!country || d.country === country) && (!state || d.state === state)), [country, state])
+  const list = useMemo(() => inState.filter(
     (d) =>
-      (!query || d.name.toLowerCase().includes(query) || d.local_name?.includes(q.trim())) &&
+      (!query || d.name.toLowerCase().includes(query) || d.local_name?.includes(typed.trim())) &&
       (!category || d.category === category) &&
       (!vegOnly || d.diet === 'veg') &&
       (!jainOnly || d.jain),
-  ).sort((a, b) => Number(!imageFor(a.id)) - Number(!imageFor(b.id))) // photos first
-  const categories = [...new Set(inState.map((d) => d.category))] // only what this place has (no Temple food in Japan)
+  ).sort((a, b) => Number(!imageFor(a.id)) - Number(!imageFor(b.id))), // photos first
+  [inState, query, typed, category, vegOnly, jainOnly])
+  const categories = useMemo(() => [...new Set(inState.map((d) => d.category))], [inState]) // only what this place has (no Temple food in Japan)
   // Carousel: GI-tagged dishes with a photo first, then any with a photo. Hidden while filtering.
   const filtering = query || category || vegOnly || jainOnly
-  const featured = filtering ? [] : list.filter((d) => imageFor(d.id)).sort((a, b) => Number(b.gi_tag) - Number(a.gi_tag)).slice(0, 10)
+  const featured = useMemo(() => filtering ? [] : list.filter((d) => imageFor(d.id)).sort((a, b) => Number(b.gi_tag) - Number(a.gi_tag)).slice(0, 10), [filtering, list])
 
   return (
     <div className="page">
@@ -98,7 +105,7 @@ export default function Discover() {
           title="Pick a country" searchable value={country} onClose={() => setPicking(null)}
           options={[
             { value: '', label: 'All countries', icon: <Globe size={20} />, meta: dishes.length },
-            ...COUNTRIES.map((c) => ({ value: c, label: c, icon: flag(c), meta: dishes.filter((d) => d.country === c).length })),
+            ...COUNTRIES.map((c) => ({ value: c, label: c, icon: flag(c), meta: COUNT.get(c) })),
           ]}
           onPick={(c) => { setCountry(c); setState(''); if (c && c !== 'India') setJainOnly(false) }}
         />
@@ -107,8 +114,8 @@ export default function Discover() {
         <PickerSheet
           title={`Where in ${country}?`} searchable={regionsOf(country).length > 12} value={state} onClose={() => setPicking(null)}
           options={[
-            { value: '', label: `All of ${country}`, icon: flag(country), meta: dishes.filter((d) => d.country === country).length },
-            ...regionsOf(country).map((s) => ({ value: s, label: s, icon: <MapPin size={20} />, meta: dishes.filter((d) => d.country === country && d.state === s).length })),
+            { value: '', label: `All of ${country}`, icon: flag(country), meta: COUNT.get(country) },
+            ...regionsOf(country).map((s) => ({ value: s, label: s, icon: <MapPin size={20} />, meta: COUNT.get(`${country}|${s}`) })),
           ]}
           onPick={setState}
         />
@@ -166,7 +173,7 @@ export default function Discover() {
         {list.slice(0, limit).map((d) => (
           <li key={d.id}>
             <Link to={`/dish/${d.id}`} className="card row-card">
-              <DishPhoto dish={d} className="thumb-photo" />
+              <DishPhoto dish={d} className="thumb-photo" small />
               <div className="row-card-body">
                 <div className="card-title">
                   <span className={`diet ${d.diet}`} aria-label={d.diet} />

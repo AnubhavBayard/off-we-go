@@ -781,3 +781,10 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
 - User: take the two rule calls. Decided: (1) rennet cheeses stay veg everywhere (rennet type rarely sourced; flagging would be guesswork). (2) GI true when the dish IS the registered product (meat, cheese, ham, drink), false when only made from it (raclette, tinto, Balatoni fogas, käferbohnensalat). So Argentina cordero patagónico + chivito neuquino back to true (entries describe the meat, like Karoo/Connemara/Lika lamb). Rule added to brief.
 - User: tourists should ask chef/waiter/locals whether a cheese is veg. Added tip on dish page (Dish.tsx, under "Contains"): shown when diet is veg/egg, country not India (paneer acid-set), and name/description mentions cheese (181 dishes). Keyword match; per-dish flag if false positives. Built + installed.
 - Android back closes open sheet first: back handler in main.tsx clicks the open `.overlay` (both sheet kinds, PickerSheet + memory view, close on overlay click). Built + installed; user to test on phone.
+- User: smooth all animations + optimize. Done (code read; on-device measurement blocked, phone locked / Google sign-in tab in front):
+  - All sheets (pickers, memory view) slide up over fading backdrop and now slide down on close (useSheetClose in ui.tsx; back button uses it too, skips a closing sheet). Before: picker closed instantly, memory sheet had no animation.
+  - Press feedback: cards, chips, buttons, pickers, tabs scale to 0.96 while held (transform only).
+  - List thumbs load 330px Wikimedia thumbnails instead of 960px (92px box), decoding async.
+  - Discover: filter/sort memoized, search uses useDeferredValue (typing never waits for the list), picker counts precomputed once (was 80 countries x 2,948 dishes per render).
+  - Already fine: JSON bundled as JSON.parse (Vite default), cards content-visibility:auto, dish page scroll animations compositor-only.
+  - Built + installed. Next: measure frame times on phone via WebView devtools (adb forward webview_devtools_remote_<pid>; scratchpad perf/cdp.mjs) once phone is unlocked with app open.

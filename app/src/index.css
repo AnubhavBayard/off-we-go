@@ -325,8 +325,12 @@ a.btn { text-decoration: none; }
 .picker-icon { width: 36px; height: 36px; border-radius: 50%; flex: none; display: grid; place-items: center; background: var(--lime); font-size: 1.3rem; line-height: 1; }
 .picker-text { flex: 1; min-width: 0; display: grid; line-height: 1.2; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .picker-text small { font-size: 0.7rem; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; }
-.picker-overlay { animation: overlay-in 200ms ease both; }
-.picker-sheet { max-height: 80vh; display: flex; flex-direction: column; animation: sheet-up 320ms cubic-bezier(0.2, 0.8, 0.2, 1) both; }
+.picker-sheet { max-height: 80vh; display: flex; flex-direction: column; }
+/* Every sheet slides up over a fading backdrop and back down on close (.closing, see useSheetClose). Transform/opacity only: GPU, no layout. */
+.overlay { animation: overlay-in 220ms ease-out both; }
+.sheet { animation: sheet-up 340ms cubic-bezier(0.22, 1, 0.36, 1) both; will-change: transform; }
+.overlay.closing { animation: overlay-out 240ms ease-in both; pointer-events: none; }
+.overlay.closing .sheet { animation: sheet-down 240ms cubic-bezier(0.4, 0, 1, 1) both; }
 .sheet-grip { width: 40px; height: 5px; border-radius: 3px; background: var(--border); margin: 0 auto 10px; flex: none; }
 .picker-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; }
 .picker-head h2 { margin: 0; }
@@ -341,4 +345,14 @@ a.btn { text-decoration: none; }
 .picker-label { flex: 1; min-width: 0; }
 @keyframes overlay-in { from { opacity: 0; } }
 @keyframes sheet-up { from { transform: translateY(100%); } }
-@media (prefers-reduced-motion: reduce) { .picker-overlay, .picker-sheet { animation: none; } }
+@keyframes overlay-out { to { opacity: 0; } }
+@keyframes sheet-down { to { transform: translateY(100%); } }
+@media (prefers-reduced-motion: reduce) { .overlay, .sheet, .overlay.closing, .overlay.closing .sheet { animation: none; } }
+
+/* Press feedback: tappables sink slightly while held, so taps feel answered at once (transform only: no layout). */
+.card, .feature, .chips button, .btn, .picker, .icon-btn, .picker-list button, .clear-btn, .tabs a, .fab {
+  transition: transform 160ms cubic-bezier(0.2, 0.8, 0.2, 1), background-color 0.3s;
+}
+.card:active, .feature:active, .chips button:active, .btn:active, .picker:active, .icon-btn:active,
+.picker-list button:active, .clear-btn:active, .tabs a:active, .fab:active { transform: scale(0.96); transition-duration: 60ms; }
+@media (prefers-reduced-motion: reduce) { .card:active, .feature:active, .chips button:active, .btn:active, .picker:active, .icon-btn:active, .picker-list button:active, .clear-btn:active, .tabs a:active, .fab:active { transform: none; } }
