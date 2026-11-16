@@ -10,8 +10,8 @@
     "regions": [
       "Buenos Aires"
     ],
-    "description": "Buenos Aires-style pizza, brought in the late 19th century by Italian (mostly Genoese) immigrants who settled in La Boca. Its typical form is pizza al molde, baked in a pan with a thick, spongy base and a large amount of cheese. Argentina has the most pizzerias per inhabitant in the world, with the highest concentration in Buenos Aires.",
-    "how_to_eat": "In Buenos Aires, Rosario and Córdoba a slice is often eaten with a wedge of fainá placed on top.",
+    "description": "Buenos Aires-style pizza, introduced in the late 19th century with the wave of Italian immigration. Its typical form is pizza al molde, baked in a pan with a thick, spongy base and a large amount of cheese. Argentina has the most pizzerias per inhabitant in the world, with the highest concentration in Buenos Aires.",
+    "how_to_eat": "A slice is often eaten with a wedge of fainá placed on top (a caballo).",
     "how_to_order": "Sold in the city's classic pizzerias, most of which specialise in the al molde style.",
     "typical_price": null,
     "currency": "ARS",
@@ -131,12 +131,12 @@
     "country": "Argentina",
     "state": "Buenos Aires",
     "regions": [],
-    "description": "A crescent-shaped pastry based on the French croissant and the most popular of the Argentine facturas (bakery pastries). It comes in two kinds: de manteca (made with butter, sweet) and de grasa (made with fat, salty).",
+    "description": "A crescent-shaped pastry based on the French croissant and the most popular of the Argentine facturas (bakery pastries). It comes in two kinds: de manteca (made with butter, sweet) and de grasa (generally made with beef fat, not sweet).",
     "how_to_eat": "Eaten at breakfast or at the afternoon merienda with coffee or mate.",
-    "how_to_order": "Sold in bakeries (panaderías) and cafés; ask for de manteca if you avoid animal fat, as de grasa is made with fat.",
+    "how_to_order": "Sold in bakeries (panaderías) and cafés; ask for de manteca (butter) if you avoid meat, as de grasa is generally made with beef fat.",
     "typical_price": null,
     "currency": "ARS",
-    "diet": "veg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -163,7 +163,7 @@
     "state": "Buenos Aires",
     "regions": [],
     "description": "Thin, crustless white-bread sandwiches in single, double or multiple layers, filled with thinly sliced ham, cheese, hard-boiled egg, tomato, peppers, tuna or lettuce, with butter or mayonnaise. One account credits bakers at Buenos Aires' Confitería Ideal, who made them for British engineers in the early 20th century.",
-    "how_to_eat": "Eaten cold at parties or as a light evening meal; the toasted version is called tostado or carlitos.",
+    "how_to_eat": "Often eaten at parties; the toasted version, called tostado or carlitos, is common bar food.",
     "how_to_order": "Usually bought at a local bakery rather than made at home.",
     "typical_price": null,
     "currency": "ARS",
@@ -333,7 +333,7 @@
     "country": "Argentina",
     "state": "Pampas",
     "regions": [],
-    "description": "A thin beef cut from between the hide and the ribs, rolled around carrots, hard-boiled eggs and plenty of black pepper, tied, boiled in milk or water and then oven-roasted. The name joins matar and hambre (hunger killer). A flat version topped with tomato sauce and mozzarella is matambre a la pizza.",
+    "description": "A thin beef cut from between the hide and the ribs, rolled around carrots, hard-boiled eggs and plenty of black pepper, sewn or pinned shut, boiled in milk or water and then oven-roasted. The name joins matar and hambre (hunger killer). A flat version topped with tomato sauce and mozzarella is matambre a la pizza.",
     "how_to_eat": "Served in thin slices, hot or cold, often in a French roll with mayonnaise or chimichurri.",
     "how_to_order": null,
     "typical_price": null,
@@ -379,7 +379,7 @@
     "source_urls": [
       "https://es.wikipedia.org/wiki/Salame_de_Tandil",
       "https://lanacion.com.ar/economia/de-alcauciles-platenses-al-cordero-patagonico-cuales-nid2265785",
-      "https://www3.hcdn.gob.ar/dependencias/dcomisiones/periodo-135/135-1825.pdf"
+      "https://www.boletinoficial.gob.ar/detalleAviso/primera/58333/20111005"
     ]
   },
   {
@@ -408,7 +408,7 @@
     "source_urls": [
       "https://lanacion.com.ar/economia/de-alcauciles-platenses-al-cordero-patagonico-cuales-nid2265785",
       "https://www.marval.com/Publicacion/nueva-indicacion-geografica-en-argentina-12603?lang=en",
-      "https://www3.hcdn.gob.ar/dependencias/dcomisiones/periodo-135/135-1825.pdf"
+      "https://www.boletinoficial.gob.ar/detalleAviso/primera/103053/20140312"
     ]
   },
   {
@@ -424,7 +424,7 @@
     ],
     "description": "A long drink of the Italian bitter fernet and cola over ice, which first became popular among young people in Córdoba in the 1980s and spread nationwide. Argentina consumes more than 75% of the world's fernet, and in 2020 the drink became the first Argentine cocktail listed by the IBA, as the fernandito. Córdoba Province accounts for almost 30% of national consumption.",
     "how_to_eat": "Served in a tall glass over ice; a common mix is three parts fernet to seven parts cola.",
-    "how_to_order": "Also nicknamed fernando or fernandito; often drunk after dinner.",
+    "how_to_order": "Also nicknamed fernando or fernandito.",
     "typical_price": null,
     "currency": "ARS",
     "diet": "veg",
@@ -453,10 +453,10 @@
     ],
     "description": "Two round biscuits of wheat flour or cornflour joined with dulce de leche and dusted with powdered sugar or coated in chocolate. Regional versions include the Santa Fe alfajor of three puff-pastry layers glazed in sugar, made since 1851, and the Córdoba alfajor filled with quince jelly. Mass production began on the Atlantic coast in the 1950s, and Argentines ate about 6 million a day in 2021.",
     "how_to_eat": null,
-    "how_to_order": "Sold individually in kiosks and in boxes from regional makers.",
+    "how_to_order": "Industrial alfajores are sold individually wrapped, coated in dark (negro) or white (blanco) chocolate.",
     "typical_price": null,
     "currency": "ARS",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -483,9 +483,9 @@
     "regions": [
       "Salta"
     ],
-    "description": "Salta's empanadas are small, juicy and spicy, filled with beef or chicken, potato, peppers and ground chili, and in the high Andes sometimes with llama meat. Each empanada is closed with a decorative pleated edge (repulgue) that also signals the filling. The empanada is listed as Argentine cultural, food and gastronomic heritage, and the Northwest is the region most associated with it.",
+    "description": "Salta's empanadas are small, juicy and spicy, filled with beef or chicken, potato, peppers and ground chili, and in the high Andes sometimes with llama meat. The empanada is listed as Argentine cultural, food and gastronomic heritage, and the Northwest is the region most associated with it.",
     "how_to_eat": "Eaten with the hands; in Salta and Jujuy often with llajua, a spicy local sauce.",
-    "how_to_order": "Traditionally ordered by the dozen, mixing fillings.",
+    "how_to_order": null,
     "typical_price": null,
     "currency": "ARS",
     "diet": "nonveg",
@@ -550,12 +550,12 @@
       "Salta",
       "Tucumán"
     ],
-    "description": "A pre-Hispanic Andean dish of fresh grated corn sautéed with onion, often with squash, basil, paprika and cumin, mixed with chunks of cheese, wrapped in fresh corn husks and boiled. Argentine humita never contains meat and comes in sweet and salty versions; it is also cooked loose in a pot as humita a la olla.",
+    "description": "A pre-Hispanic Andean dish of fresh grated corn sautéed with onion, often with squash, basil, paprika and cumin, mixed with chunks of cheese, wrapped in fresh corn husks and boiled. In Salta the onions are sometimes fried in beef fat (grasa de pella); Argentine humita never contains meat and comes in sweet and salty versions; it is also cooked loose in a pot as humita a la olla.",
     "how_to_eat": "Unwrap the husk, which is not eaten.",
     "how_to_order": "Found in restaurants and markets in Jujuy, Tucumán and Salta.",
     "typical_price": null,
     "currency": "ARS",
-    "diet": "veg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -611,7 +611,7 @@
     "country": "Argentina",
     "state": "Northwest",
     "regions": [],
-    "description": "A thick stew of white corn, beans and squash with beef, pork, chorizo and offal, cooked slowly for several hours. It spread from the Northwest and Cuyo to the whole country and is eaten in large quantities on the national holidays of 25 May and 9 July. In Salta it is crowned with melted fat, paprika and chives, and a spicy version is called locro pulsudo.",
+    "description": "A thick stew of white corn, beans and squash with beef, pork, chorizo and offal, cooked slowly for several hours. It spread from the Northwest and Cuyo to the whole country and is eaten in large quantities on the national holidays of 25 May and 9 July. In Salta it is crowned with melted fat, paprika and chives, and a hearty version, or a very spicy one, is called locro pulsudo.",
     "how_to_eat": "Drunk with a red malbec on cold days or a torrontés on warm days.",
     "how_to_order": null,
     "typical_price": null,
@@ -665,7 +665,7 @@
     "regions": [
       "Cafayate"
     ],
-    "description": "An aromatic white wine from Torrontés grapes, a variety mostly grown and known in Argentina, with peach and apricot aromas. Salta is particularly noted for it, with vineyards above 1,600 m in the Calchaquí Valleys, and Cafayate is the best-known production centre.",
+    "description": "An aromatic white wine from Torrontés grapes, a variety mostly grown and known in Argentina, with peach and apricot aromas. Salta is particularly noted for it, with vineyards above 1,700 m in the Calchaquí Valleys, and Cafayate is the best-known production centre.",
     "how_to_eat": "Served with locro on warm days.",
     "how_to_order": null,
     "typical_price": null,
@@ -785,7 +785,7 @@
     "regions": [
       "San Juan"
     ],
-    "description": "A blond quince paste from San Juan Province made only from quince pulp and sugar, with a clear, uniform golden colour. It received an Argentine denominación de origen in October 2018 (Resolution 14/2018).",
+    "description": "A blond quince paste from San Juan Province made only from quince pulp and sugar, with a clear, uniform blond colour ranging from yellow-orange to reddish brown. It received an Argentine denominación de origen in October 2018 (Resolution 14/2018).",
     "how_to_eat": "Eaten in slices with fresh cheese, a pairing called postre vigilante, or in pastries such as pastafrola.",
     "how_to_order": null,
     "typical_price": null,
@@ -800,7 +800,8 @@
     "source_urls": [
       "https://es.wikipedia.org/wiki/Dulce_de_membrillo",
       "https://www.marval.com/publicacion/nueva-denominacion-de-origen-13257?lang=en",
-      "https://lanacion.com.ar/economia/de-alcauciles-platenses-al-cordero-patagonico-cuales-nid2265785"
+      "https://lanacion.com.ar/economia/de-alcauciles-platenses-al-cordero-patagonico-cuales-nid2265785",
+      "https://www.boletinoficial.gob.ar/detalleAviso/primera/193980/20181017"
     ]
   },
   {
@@ -874,12 +875,12 @@
       "Misiones",
       "Corrientes"
     ],
-    "description": "Small baked rolls of cassava starch and semi-hard cheese, of Guaraní and Spanish colonial origin and shared with Paraguay. The most common type is chipá almidón or quesú; variants include chipá mbocá, cooked around a stick over embers.",
+    "description": "Small baked rolls of cassava starch and semi-hard cheese, traditionally made with pork fat or lard, of Guaraní and Spanish colonial origin and shared with Paraguay. The most common type is chipá almidón or quesú; variants include chipá mbocá, cooked around a stick over embers.",
     "how_to_eat": "Eaten at breakfast with mate or café con leche.",
     "how_to_order": "Sold in small bags by street sellers.",
     "typical_price": null,
     "currency": "ARS",
-    "diet": "veg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -909,7 +910,7 @@
     "how_to_order": null,
     "typical_price": null,
     "currency": "ARS",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -933,12 +934,12 @@
     "country": "Argentina",
     "state": "Northeast",
     "regions": [],
-    "description": "Despite its name (Paraguayan soup) it is a spongy, savoury cornbread of corn flour, cheese, onion and milk or whey. In the Argentine Northeast it is eaten plain or filled with chicken or beef.",
+    "description": "Despite its name (Paraguayan soup) it is a spongy, savoury cornbread of corn flour, cheese, onion and milk or whey; traditional recipes also use eggs and pork fat. In the Argentine Northeast it is eaten plain or filled with chicken or beef.",
     "how_to_eat": "Eaten for lunch or dinner, often as a side.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "ARS",
-    "diet": "veg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
@@ -1024,7 +1025,7 @@
       "Misiones",
       "Corrientes"
     ],
-    "description": "A caffeine-rich infusion of dried yerba mate leaves in hot (not boiling) water, sipped through a metal straw (bombilla) from a gourd; it is Argentina's national drink and is listed as Argentine cultural, food and gastronomic heritage. Corrientes and Misiones are the main yerba producers. In a group one gourd is refilled and passed around by the person holding the kettle.",
+    "description": "A caffeine-rich infusion of dried yerba mate leaves in hot (not boiling) water, sipped through a metal straw (bombilla) from a gourd; it is Argentina's national drink and is listed as Argentine cultural, food and gastronomic heritage. Corrientes and Misiones are the main yerba producers. In a group one gourd is refilled and passed around by the server (cebador).",
     "how_to_eat": "Do not thank the server after each round; saying gracias means you have had enough.",
     "how_to_order": null,
     "typical_price": null,
@@ -1087,12 +1088,12 @@
     "vegan": false,
     "spice": 0,
     "allergens": [],
-    "gi_tag": true,
+    "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
       "https://argentina.travel/actividades/cordero-patagonico",
       "https://lanacion.com.ar/economia/de-alcauciles-platenses-al-cordero-patagonico-cuales-nid2265785",
-      "https://www3.hcdn.gob.ar/dependencias/dcomisiones/periodo-135/135-1825.pdf",
+      "https://www.boletinoficial.gob.ar/detalleAviso/primera/112096/20140917",
       "https://en.wikipedia.org/wiki/Argentine_cuisine"
     ]
   },
@@ -1107,7 +1108,7 @@
     "regions": [
       "Neuquén"
     ],
-    "description": "Kid goat of the criolla neuquina breed raised by about 1,500 small-scale herders (crianceros) who move their flocks between seasonal pastures in northern Neuquén, using knowledge inherited from the Pehuenche. It holds a denominación de origen, the first granted for an Argentine food product. In Patagonia lamb and chivito are eaten more often than beef, roasted whole over an open fire.",
+    "description": "Kid goat of the criolla neuquina breed raised by about 1,500 families of small-scale herders (crianceros) who move their flocks between seasonal pastures in northern Neuquén, using knowledge inherited from the Pehuenche. It holds a denominación de origen, the first granted for an Argentine food product.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -1117,12 +1118,11 @@
     "vegan": false,
     "spice": 0,
     "allergens": [],
-    "gi_tag": true,
+    "gi_tag": false,
     "wikipedia_url": "https://es.wikipedia.org/wiki/Chivito_criollo_del_norte_neuquino",
     "source_urls": [
       "https://es.wikipedia.org/wiki/Chivito_criollo_del_norte_neuquino",
       "https://lanacion.com.ar/economia/de-alcauciles-platenses-al-cordero-patagonico-cuales-nid2265785",
-      "https://www3.hcdn.gob.ar/dependencias/dcomisiones/periodo-135/135-1825.pdf",
       "https://en.wikipedia.org/wiki/Argentine_cuisine"
     ]
   },
@@ -1156,7 +1156,7 @@
   },
   {
     "id": "argentina-torta-galesa",
-    "name": "Welsh cake",
+    "name": "Welsh fruitcake",
     "local_name": "Torta galesa",
     "pronunciation": null,
     "category": "sweet",
@@ -1166,11 +1166,11 @@
       "Chubut"
     ],
     "description": "A dark fruitcake with dried and glazed fruit created by Welsh settlers in eastern Chubut, who arrived from 1865; it is similar to the Welsh bara brith and is also called torta negra galesa.",
-    "how_to_eat": "Served with tea and scones in the Welsh teahouses of Chubut.",
+    "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
     "currency": "ARS",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,

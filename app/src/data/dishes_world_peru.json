@@ -99,7 +99,7 @@
     "state": "Lima",
     "regions": [],
     "description": "Skewers of beef heart marinated in spices and grilled, often basted with a sauce of garlic, onion, ají panca, cumin, black pepper and beer. The use of offal goes back to colonial times, when enslaved Africans cooked the cuts the Spanish discarded. They are eaten by all social classes and most of all during the July Fiestas Patrias.",
-    "how_to_eat": "Usually eaten with a side of boiled potato or corn.",
+    "how_to_eat": "Usually come with a boiled potato at the end of the skewer, sometimes with corn on the side.",
     "how_to_order": "Commonly sold by street vendors, and also found in creole food restaurants.",
     "typical_price": null,
     "currency": "PEN",
@@ -486,7 +486,7 @@
     "regions": [
       "Arequipa"
     ],
-    "description": "Rocoto peppers boiled in water and vinegar to tame their heat, stuffed with minced beef and pork, onions, pecans and often hard-boiled egg, topped with cheese and baked. It is a dish of the city of Arequipa.",
+    "description": "Rocoto peppers boiled in water with salt and vinegar to tame their heat, stuffed with minced beef and pork, onions, pecans and cream, often with a hard-boiled egg, topped with cheese and baked. It is a popular dish in the city of Arequipa.",
     "how_to_eat": "Served whole with baked potatoes or salad.",
     "how_to_order": null,
     "typical_price": null,
@@ -840,7 +840,7 @@
   {
     "id": "peru-puca-picante",
     "name": "Puca picante",
-    "local_name": "Puka pikanti",
+    "local_name": "Puka picante",
     "pronunciation": null,
     "category": "meal",
     "country": "Peru",
@@ -934,7 +934,7 @@
       "Tarapoto"
     ],
     "description": "Rice with chicken, olives, hard-boiled egg and spices, bound with beaten egg, wrapped in bijao leaves and boiled for about an hour and a half. It is a main dish of the Peruvian jungle, possibly from Moyobamba, and is eaten above all on the feast of San Juan (24 June).",
-    "how_to_eat": "Accompanied by tacacho, yuca or boiled plantain, often with chicha.",
+    "how_to_eat": "Accompanied by tacacho, yuca or boiled plantain, often with chicha de jora or chicha de higo.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "PEN",
@@ -961,9 +961,7 @@
     "category": "meal",
     "country": "Peru",
     "state": "Amazon",
-    "regions": [
-      "Iquitos"
-    ],
+    "regions": [],
     "description": "Tacacho is roasted green bellaco plantain mashed with pork lard and chopped chicharrón and formed into a ball; in Peru cecina (dried meat) is mainly eaten in the jungle together with tacacho. The name comes from Quechua taka chu, 'the beaten one'.",
     "how_to_eat": "Eaten for breakfast in San Martín and Madre de Dios and at lunch or dinner elsewhere, often with chorizo.",
     "how_to_order": null,
@@ -1020,7 +1018,7 @@
     "country": "Peru",
     "state": "Amazon",
     "regions": [],
-    "description": "A thick soup of hen broth with corn flour and toasted ground peanuts, garnished with sacha culantro, of pre-Hispanic origin. It is eaten in the jungle departments of Ucayali, Loreto, Amazonas, San Martín and Madre de Dios on birthdays and special occasions.",
+    "description": "A thick soup of hen broth with corn flour or toasted ground peanuts, garnished with sacha culantro, of pre-Hispanic origin. It is eaten in the jungle departments of Ucayali, Loreto, Amazonas, San Martín and Madre de Dios on birthdays and special occasions.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -1103,8 +1101,8 @@
       "Ica",
       "Pisco"
     ],
-    "description": "A grape brandy made by distilling fermented fresh grape juice, developed by 16th-century Spanish settlers and named after the port of Pisco, from which it was shipped. It is Peru's national drink and has a denominación de origen declared by Indecopi: since 1991 Peruvian pisco may only be made in Lima, Ica, Arequipa, Moquegua and Tacna.",
-    "how_to_eat": "Drunk neat or in cocktails such as the pisco sour and chilcano (pisco with lime and ginger ale).",
+    "description": "A grape brandy made by distilling fermented grape juice, developed by 16th-century Spanish settlers and probably named after the port of Pisco, from which it was shipped. It is Peru's national drink and has a denominación de origen granted by the Peruvian state through Indecopi in the early 1990s, covering Lima, Ica, Arequipa, Moquegua and Tacna.",
+    "how_to_eat": "Drunk in cocktails such as the pisco sour and chilcano (pisco with lime and ginger ale).",
     "how_to_order": null,
     "typical_price": null,
     "currency": "PEN",
@@ -1117,6 +1115,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pisco",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Pisco",
+      "https://andina.pe/Agencia/noticia-pisco-conoce-es-una-denominacion-origen-740873.aspx",
       "https://rpp.pe/economia/mercados/el-peru-tiene-10-productos-de-denominacion-de-origen-y-son-estos-noticia-992881",
       "https://es.wikipedia.org/wiki/Chilcano_(bebida)",
       "https://en.wikipedia.org/wiki/Peruvian_cuisine"
@@ -1197,7 +1196,7 @@
       "Cañete"
     ],
     "description": "An Italian-influenced noodle dish of the coast south of Lima, particularly Cañete and Chincha, served as a pair with carapulcra. A typical recipe cooks spaghetti with chicken, basil, parsley, onion, garlic, tomato and achiote.",
-    "how_to_eat": "Eaten on the same plate as carapulcra.",
+    "how_to_eat": "Served together with carapulcra, a pairing known as manchapecho.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "PEN",
@@ -1209,8 +1208,9 @@
       "gluten"
     ],
     "gi_tag": false,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Sopa_seca_(Per%C3%BA)",
     "source_urls": [
+      "https://es.wikipedia.org/wiki/Sopa_seca_(Per%C3%BA)",
       "https://es.wikipedia.org/wiki/Sopa_seca",
       "https://rpp.pe/cultura/mas-cultura/receta-de-carapulcra-chinchana-con-sopa-seca-prepara-este-rico-plato-tipico-en-casa-paso-a-paso-gastronomia-peruana-coronavirus-peru-noticia-1282182"
     ]

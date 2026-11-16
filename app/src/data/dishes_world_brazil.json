@@ -134,7 +134,7 @@
     "country": "Brazil",
     "state": "Bahia",
     "regions": [],
-    "description": "A dish of okra, onion, dried shrimp, palm oil and toasted peanuts or cashews cooked to a spread-like consistency. It is a typical condiment in Bahia and part of the Bahian Friday dishes along with moqueca and vatapá.",
+    "description": "A dish of okra, onion, dried shrimp, palm oil and toasted peanuts or cashews cooked to a spread-like consistency. It is a typical condiment in Bahia, where it is commonly eaten with acarajé.",
     "how_to_eat": "Commonly eaten with acarajé.",
     "how_to_order": null,
     "typical_price": null,
@@ -308,7 +308,7 @@
       "Medeiros",
       "Vargem Bonita"
     ],
-    "description": "A raw cow's milk cheese from the Serra da Canastra highlands in southwest Minas Gerais, with a mildly spicy, full-bodied flavour. It is sold fresh, half-cured or fully cured (about 40 days). The way it is made has been national intangible heritage since 2008, and 'Canastra' cheese is a registered Indicação de Procedência (INPI, 2012).",
+    "description": "A raw cow's milk cheese from the Serra da Canastra highlands in southwest Minas Gerais, with a mildly spicy, full-bodied flavour. It is sold fresh, half-cured or cured (from two weeks under the INPI specification). The way it is made has been national intangible heritage since 2008, and 'Canastra' cheese is a registered Indicação de Procedência (INPI, 2012).",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -402,7 +402,7 @@
     ],
     "description": "Thin pastry envelopes in half-moon or rectangle shapes with savoury or sweet fillings, deep-fried until crisp. Common fillings are ground meat, cheese, chicken, heart of palm, shrimp and codfish, or guava paste with Minas cheese. Popular accounts say Japanese and Chinese immigrants adapted fried spring rolls to sell at São Paulo street markets.",
     "how_to_eat": "A common drink with pastéis is caldo de cana (sugarcane juice).",
-    "how_to_order": "Sold at street markets (feiras) and in shops called pastelarias; shape often shows the filling, half-moon for cheese and square for meat.",
+    "how_to_order": "Sold at street markets (feiras) and in shops called pastelarias.",
     "typical_price": null,
     "currency": "BRL",
     "diet": "nonveg",
@@ -465,7 +465,7 @@
       "São Paulo",
       "Bauru"
     ],
-    "description": "A sandwich of mozzarella melted in a bain-marie, roast beef slices, tomato and pickled cucumber in a pão francês with the soft crumb removed. It was created in 1934 at the Ponto Chic eatery in São Paulo for a law student nicknamed Bauru, and the city of Bauru later fixed the recipe in a municipal law.",
+    "description": "A sandwich of mozzarella melted in a bain-marie, roast beef slices, tomato and pickled cucumber in a pão francês with the soft crumb removed. It was created in the 1930s (sources give 1934 or 1937) at the Ponto Chic eatery in São Paulo for a law student nicknamed Bauru, and the city of Bauru later fixed the recipe in a municipal law.",
     "how_to_eat": null,
     "how_to_order": "Many eateries sell versions with sliced ham instead of roast beef or sliced bread instead of pão francês.",
     "typical_price": null,
@@ -725,7 +725,8 @@
     "wikipedia_url": null,
     "source_urls": [
       "https://en.wikipedia.org/wiki/Brazilian_cuisine",
-      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Rio_de_Janeiro"
+      "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Rio_de_Janeiro",
+      "https://en.wikipedia.org/wiki/Mate_(drink)"
     ]
   },
   {
@@ -739,7 +740,7 @@
     "regions": [
       "Paraty"
     ],
-    "description": "Artisanal cachaça, a spirit distilled from sugarcane juice, made by small family distilleries in the municipality of Paraty. Paraty was the first place in Brazil to get a geographical indication for cachaça (2007), and in 2024 INPI changed it to a Denominação de Origem; producers are checked by the APACAP association.",
+    "description": "Artisanal cachaça, a spirit distilled from sugarcane juice, made by small family distilleries in the municipality of Paraty. Paraty was the first place in Brazil to get a geographical indication for cachaça (2007), and in 2024 INPI changed it to a Denominação de Origem; the registration is held by the producers' association APACAP.",
     "how_to_eat": null,
     "how_to_order": "Most of it is sold to tourists visiting Paraty, and several distilleries offer tastings.",
     "typical_price": null,
@@ -977,7 +978,7 @@
     "regions": [
       "Pernambuco"
     ],
-    "description": "A cake of flour, eggs, butter and sugar baked in very thin layers and rolled with guava paste (goiabada), like a Swiss roll with many thin layers. It is an adaptation of a Portuguese rolled sponge cake and has been intangible heritage of Pernambuco since 2007.",
+    "description": "A cake of flour, eggs, butter and sugar baked in very thin layers and rolled with guava paste (goiabada), like a Swiss roll with many thin layers. It is an adaptation of a Portuguese rolled sponge cake and is recognised by Pernambuco state law as intangible heritage.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -1094,14 +1095,14 @@
       "Piauí",
       "Teresina"
     ],
-    "description": "A non-alcoholic, non-carbonated drink of clarified cashew-apple juice that is bottled and cooked in a water bath, which caramelises its sugars into an amber colour and preserves it. It was developed by pharmacist Rodolfo Teófilo in the 1890s and is a cultural symbol of Teresina. 'Piauí' is a registered Indicação de Procedência for cajuína (INPI, 2014).",
+    "description": "A non-alcoholic, non-carbonated drink of clarified cashew-apple juice that is bottled and cooked in a water bath, which caramelises its sugars into an amber colour and preserves it. Clarification is commonly done with food-grade gelatine (ultrafiltration is an alternative). It was developed by pharmacist Rodolfo Teófilo in the 1890s and is a cultural symbol of Teresina. 'Piauí' is a registered Indicação de Procedência for cajuína (INPI, 2014).",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
     "currency": "BRL",
-    "diet": "veg",
+    "diet": "nonveg",
     "jain": false,
-    "vegan": true,
+    "vegan": false,
     "spice": 0,
     "allergens": [],
     "gi_tag": true,

@@ -51,13 +51,15 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "shellfish"
+      "shellfish",
+      "fish"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Carpetbag_steak",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Carpetbag_steak",
-      "https://en.wikipedia.org/wiki/Australian_cuisine"
+      "https://en.wikipedia.org/wiki/Australian_cuisine",
+      "https://en.wikipedia.org/wiki/Worcestershire_sauce"
     ]
   },
   {
@@ -101,9 +103,9 @@
     "regions": [
       "Sydney"
     ],
-    "description": "A sweet served at yum cha restaurants in Sydney and elsewhere in Australia. It is believed to have originated in Sydney in the late 1980s and early 1990s.",
-    "how_to_eat": null,
-    "how_to_order": "Ordered from the trolleys or menu at yum cha.",
+    "description": "A thin crepe wrapped around sweetened whipped cream and mango, a staple dessert of yum cha restaurants in Sydney and elsewhere in Australia. It is believed to have originated in Sydney in the late 1980s and early 1990s; Sydney's Marigold Restaurant says it began serving them around 1991-92.",
+    "how_to_eat": "Served fridge-cold as the dessert at the end of a dim sum meal.",
+    "how_to_order": "Taken from the dessert trolley at yum cha.",
     "typical_price": null,
     "currency": "AUD",
     "diet": "egg",
@@ -118,7 +120,9 @@
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Australian_cuisine"
+      "https://en.wikipedia.org/wiki/Australian_cuisine",
+      "https://www.sbs.com.au/food/article/did-australia-invent-the-mango-pancake/ldp108t6z",
+      "https://www.recipetineats.com/mango-pancakes/"
     ]
   },
   {
@@ -144,13 +148,15 @@
     "spice": 0,
     "allergens": [
       "gluten",
-      "dairy"
+      "dairy",
+      "soy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Tam",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Tim_Tam",
-      "https://en.wikipedia.org/wiki/Australian_cuisine"
+      "https://en.wikipedia.org/wiki/Australian_cuisine",
+      "https://www.igashop.com.au/product/arnotts-tim-tam-chocolate-original-308953"
     ]
   },
   {
@@ -199,7 +205,7 @@
     ],
     "description": "A handheld single-portion pie of diced or minced meat, usually beef, in gravy, in a shortcrust pastry case; it has been described as Australia's national dish. Its status owes much to the Four'n Twenty company, founded in Bendigo in 1947, whose pies were sold at Australian Rules football matches and grew in popularity in Melbourne in the 1950s.",
     "how_to_eat": "Eaten hot out of the hand, with tomato sauce spread or dripped on top.",
-    "how_to_order": "Sold at bakeries, milk bars, petrol stations and football matches, often kept in a pie warmer.",
+    "how_to_order": "Commonly eaten as a takeaway snack or at football matches.",
     "typical_price": null,
     "currency": "AUD",
     "diet": "nonveg",
@@ -238,7 +244,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "soy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dim_sim",
@@ -290,7 +297,7 @@
     "regions": [],
     "description": "A thin slice of potato dipped in batter and deep-fried. It is called a potato cake in Victoria, Tasmania and the Murray River regions of New South Wales, a potato scallop in eastern and northern NSW, Queensland and the ACT, and a potato fritter in South Australia.",
     "how_to_eat": null,
-    "how_to_order": "Sold at fish-and-chip shops; in Victoria ask for a potato cake.",
+    "how_to_order": "In Victoria ask for a potato cake; in eastern and northern NSW, Queensland and the ACT it is a potato scallop, and in South Australia a potato fritter.",
     "typical_price": null,
     "currency": "AUD",
     "diet": "veg",
@@ -446,7 +453,7 @@
       "Brisbane",
       "Sydney"
     ],
-    "description": "Toasted bread topped with mashed avocado, often with salt, pepper, lemon juice, olive oil, feta or tomato. Brisbane lays claim to it: the dish is documented in Brisbane as early as 1929, while Sydney cook Bill Granger may have been the first to put it on a modern café menu in 1993.",
+    "description": "Toasted bread topped with mashed avocado, often with salt, pepper, lemon juice, olive oil, feta or tomato. The dish is documented in Brisbane as early as 1929, while Sydney cook Bill Granger may have been the first to put it on a modern café menu in 1993.",
     "how_to_eat": null,
     "how_to_order": "A standard item on café brunch menus.",
     "typical_price": null,
@@ -820,7 +827,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "shellfish"
+      "shellfish",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Panulirus_cygnus",
@@ -849,7 +857,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "shellfish"
+      "shellfish",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cherax_cainii",
@@ -953,9 +962,9 @@
     "regions": [
       "Hobart"
     ],
-    "description": "Whole Tasmanian scallops in a curried béchamel sauce inside shortcrust or flaky pastry, flavoured with Keen's curry powder, which has been made in Tasmania since the mid-1800s. Its exact origin is unknown: curried scallops without pastry were popular in Tasmania in the 1920s, and the first scallop pie recipes appeared in local newspapers in the 1930s.",
+    "description": "Fresh Tasmanian scallops in a hot curry sauce, often creamy, encased in flaky pastry and flavoured with Keen's curry powder, a mild, cumin-free curry created in Tasmania in the 1850s or 1860s. Its exact origin is unknown: curried scallops without pastry were popular in Tasmania in the 1920s, and the first scallop pie recipes appeared in local newspapers in the 1930s.",
     "how_to_eat": null,
-    "how_to_order": "Sold at bakeries around Tasmania and at cafés on the Hobart waterfront.",
+    "how_to_order": "Sold at bakeries around Tasmania; Harbour Lights on the Hobart Waterfront has served them for at least half a century.",
     "typical_price": null,
     "currency": "AUD",
     "diet": "nonveg",
@@ -1021,7 +1030,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "shellfish"
+      "shellfish",
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Abalone",
@@ -1126,7 +1136,7 @@
     "id": "australia-pavlova",
     "name": "Pavlova",
     "local_name": null,
-    "pronunciation": null,
+    "pronunciation": "pav-LOH-və",
     "category": "sweet",
     "country": "Australia",
     "state": "Nationwide & bush food",
@@ -1162,7 +1172,7 @@
     "regions": [],
     "description": "A sweet biscuit of rolled oats, flour, sugar, butter, golden syrup, baking soda and often desiccated coconut, associated with the Australian and New Zealand Army Corps of World War I. They are made most around Anzac Day, 25 April, and are exempt from the ban on commercial use of the word 'Anzac' as long as they are sold as biscuits.",
     "how_to_eat": null,
-    "how_to_order": "Sold in supermarkets and as a fundraiser for the Returned and Services League.",
+    "how_to_order": "Manufactured commercially for retail sale, and sold as a fundraiser for the Returned and Services League.",
     "typical_price": null,
     "currency": "AUD",
     "diet": "veg",
@@ -1199,7 +1209,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "mustard"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sausage_sizzle",
@@ -1245,7 +1256,7 @@
     "country": "Australia",
     "state": "Nationwide & bush food",
     "regions": [],
-    "description": "Lean meat from wild-harvested kangaroos, very high in protein and very low in fat, and a staple protein for Indigenous Australians for more than 40,000 years. It has been sold in supermarkets since the 1980s in cuts and sausages.",
+    "description": "Lean meat from wild-harvested kangaroos, very high in protein and very low in fat, and a staple protein for Indigenous Australians for more than 40,000 years. It was legalised for human consumption in South Australia in 1980 and in NSW, Queensland and Victoria in 1993; many supermarkets now stock fillets, steaks, mince and kangaroo sausages.",
     "how_to_eat": "Because it is so lean, it is usually slow-cooked or quickly stir-fried.",
     "how_to_order": null,
     "typical_price": null,
@@ -1299,7 +1310,7 @@
     "country": "Australia",
     "state": "Nationwide & bush food",
     "regions": [],
-    "description": "A thick bread of flour, salt and water, with butter if available, traditionally baked in the coals of a campfire or in a camp oven by early European settlers, stockmen and swagmen. Smaller portions are called bush scones or johnnycakes; it is distinct from the bush bread Indigenous Australians made from native seeds, nuts and roots.",
+    "description": "A thick bread of flour, salt and water, with butter if available, traditionally baked in the coals of a campfire or in a camp oven by early European settlers and stockmen. Smaller portions are called bush scones or johnnycakes; it is distinct from the bush bread Indigenous Australians made from native seeds, nuts and roots.",
     "how_to_eat": "Eaten with dried or cooked meat or golden syrup.",
     "how_to_order": null,
     "typical_price": null,
