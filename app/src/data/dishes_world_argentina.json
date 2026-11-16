@@ -1088,7 +1088,7 @@
     "vegan": false,
     "spice": 0,
     "allergens": [],
-    "gi_tag": false,
+    "gi_tag": true,
     "wikipedia_url": null,
     "source_urls": [
       "https://argentina.travel/actividades/cordero-patagonico",
@@ -1118,7 +1118,7 @@
     "vegan": false,
     "spice": 0,
     "allergens": [],
-    "gi_tag": false,
+    "gi_tag": true,
     "wikipedia_url": "https://es.wikipedia.org/wiki/Chivito_criollo_del_norte_neuquino",
     "source_urls": [
       "https://es.wikipedia.org/wiki/Chivito_criollo_del_norte_neuquino",

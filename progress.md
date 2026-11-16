@@ -778,3 +778,4 @@ Headless UI check scripts (this session's scratchpad, recreate if gone): CDP via
 - Built + installed on phone 2026-11-16. Pushed.
 - Open choices for user: rennet cheeses kept veg everywhere; meat GIs (Argentina lamb/kid false vs South Africa Karoo lamb true); many safe-side egg/lard calls unsourced (Czech PGI pastries, suncake, humita).
 - Open: privacy policy, Android back closes sheets first, photo coverage, thin regions, Uzbek GIs Kokand patir + Chust oshi, more countries.
+- User: take the two rule calls. Decided: (1) rennet cheeses stay veg everywhere (rennet type rarely sourced; flagging would be guesswork). (2) GI true when the dish IS the registered product (meat, cheese, ham, drink), false when only made from it (raclette, tinto, Balatoni fogas, käferbohnensalat). So Argentina cordero patagónico + chivito neuquino back to true (entries describe the meat, like Karoo/Connemara/Lika lamb). Rule added to brief.
