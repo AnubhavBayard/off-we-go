@@ -3233,6 +3233,12 @@
   "credit": "Roberta F.",
   "license": "CC BY-SA 3.0"
  },
+ "croatia-velebitsko-pivo": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Velebitsko_pivo_Zg_0508.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Velebitsko_pivo_Zg_0508.jpg",
+  "credit": "SpeedyGonsales",
+  "license": "CC BY-SA 3.0"
+ },
  "croatia-slavonski-kulen": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Kulin_%28serviran%29.jpg/960px-Kulin_%28serviran%29.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Kulin_(serviran).jpg",
@@ -3402,10 +3408,10 @@
   "license": "CC BY 4.0"
  },
  "czechia-bramborak": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Latkas.jpg/960px-Latkas.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Latkas.jpg",
-  "credit": "Jonathunder",
-  "license": "GFDL 1.2"
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Potato_pancakes.jpg/960px-Potato_pancakes.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Potato_pancakes.jpg",
+  "credit": "Photo made by Daniel Spils and uploaded to flickr.com",
+  "license": "CC BY-SA 2.0"
  },
  "czechia-ovocne-knedliky": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Plum_Dumpling.jpg/960px-Plum_Dumpling.jpg",
@@ -3448,12 +3454,6 @@
   "page": "https://commons.wikimedia.org/wiki/File:Kerner_2020_Czech_wine_bottle_(Znov%C3%ADn_Znojmo).jpg",
   "credit": "Hayden Soloviev",
   "license": "CC BY 4.0"
- },
- "czechia-burcak": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Winzerkeller_Wiesloch_Glas_neuer_Wein_2011.JPG/960px-Winzerkeller_Wiesloch_Glas_neuer_Wein_2011.JPG",
-  "page": "https://commons.wikimedia.org/wiki/File:Winzerkeller_Wiesloch_Glas_neuer_Wein_2011.JPG",
-  "credit": "4028mdk09",
-  "license": "CC BY-SA 3.0"
  },
  "czechia-slivovice": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Various_Bottles_of_Slivovitz.jpg/960px-Various_Bottles_of_Slivovitz.jpg",
@@ -4517,6 +4517,12 @@
   "credit": "Sdkb",
   "license": "CC BY-SA 4.0"
  },
+ "georgia-gurian-khachapuri": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Guruli_gvezeli.jpg/960px-Guruli_gvezeli.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Guruli_gvezeli.jpg",
+  "credit": "https://georgianrecipes.net/2013/08/14/gurian-cheese-and-egg-filled-pastry/",
+  "license": "CC BY 3.0"
+ },
  "georgia-kupati": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/05_Kupaty_Sausage_plate_-_Tatiana.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:05_Kupaty_Sausage_plate_-_Tatiana.jpg",
@@ -4565,6 +4571,12 @@
   "credit": "Sandra C from Canada",
   "license": "CC BY-SA 2.0"
  },
+ "georgia-rachuli-lori": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Rachuli_ham_%282%29.jpg/960px-Rachuli_ham_%282%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Rachuli_ham_(2).jpg",
+  "credit": "https://georgianrecipes.net/2013/08/26/mashed-lobio-with-racha-ham/",
+  "license": "CC BY 3.0"
+ },
  "georgia-shkmeruli": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Georgian_cuisine_%2833309210248%29.jpg/960px-Georgian_cuisine_%2833309210248%29.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Georgian_cuisine_(33309210248).jpg",
@@ -4576,6 +4588,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:Khvanchkara_wine.jpg",
   "credit": "Adam Jones from Kelowna, BC, Canada",
   "license": "CC BY-SA 2.0"
+ },
+ "georgia-borjomi": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/0.5_GL_Borjomi_Glass_Bottle.jpg/960px-0.5_GL_Borjomi_Glass_Bottle.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:0.5_GL_Borjomi_Glass_Bottle.jpg",
+  "credit": "Ninuca1212",
+  "license": "CC BY-SA 3.0"
  },
  "georgia-tenili": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%A2%E1%83%A0%E1%83%90%E1%83%93%E1%83%98%E1%83%AA%E1%83%98%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%9B%E1%83%94%E1%83%A1%E1%83%AE%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%A7%E1%83%95%E1%83%94%E1%83%9A%E1%83%98.jpg/960px-%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%A2%E1%83%A0%E1%83%90%E1%83%93%E1%83%98%E1%83%AA%E1%83%98%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%9B%E1%83%94%E1%83%A1%E1%83%AE%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%A7%E1%83%95%E1%83%94%E1%83%9A%E1%83%98.jpg",
@@ -4852,6 +4870,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:Ghanaian_Red-Red_with_Fish.jpg",
   "credit": "benketaro",
   "license": "CC BY 2.0"
+ },
+ "ghana-kpokpoi": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Kpekpele_or_Kpokpoi.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kpekpele_or_Kpokpoi.jpg",
+  "credit": "Nii Ashiloh",
+  "license": "CC0"
  },
  "ghana-asaana": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Asaana.jpg",
@@ -5237,6 +5261,12 @@
   "credit": "Traumrune",
   "license": "CC BY-SA 3.0"
  },
+ "iceland-kjotsupa": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Meat_soup.JPG/960px-Meat_soup.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Meat_soup.JPG",
+  "credit": "SeppVei",
+  "license": "Public domain"
+ },
  "iceland-hangikjot": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Hangikj%C3%B6t.jpg/960px-Hangikj%C3%B6t.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Hangikj%C3%B6t.jpg",
@@ -5259,6 +5289,12 @@
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Sl%C3%A1tur.JPG/960px-Sl%C3%A1tur.JPG",
   "page": "https://commons.wikimedia.org/wiki/File:Sl%C3%A1tur.JPG",
   "credit": "Navaro",
+  "license": "CC BY-SA 3.0"
+ },
+ "iceland-kleinur": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Kleina.jpg/960px-Kleina.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kleina.jpg",
+  "credit": "Steinninn ♨",
   "license": "CC BY-SA 3.0"
  },
  "iceland-skyr": {
@@ -5566,6 +5602,12 @@
   "page": "https://commons.wikimedia.org/wiki/File:Khoresht-e_fesenjan.jpg",
   "credit": "stringparts",
   "license": "CC BY 2.0"
+ },
+ "iran-tahdig": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Persianmom%27s_mother%27s_%28persiangrandma%29_perfect_tahdig_rice.png/960px-Persianmom%27s_mother%27s_%28persiangrandma%29_perfect_tahdig_rice.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Persianmom%27s_mother%27s_(persiangrandma)_perfect_tahdig_rice.png",
+  "credit": "AninnymouseEditor",
+  "license": "CC BY-SA 4.0"
  },
  "iran-bastani-sonnati": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Gilak%2C_Archway%2C_London_%285241860049%29.jpg/960px-Gilak%2C_Archway%2C_London_%285241860049%29.jpg",
@@ -7668,10 +7710,10 @@
   "license": "CC BY-SA 4.0"
  },
  "nepal-tongba": {
-  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Tongba.jpg/960px-Tongba.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Tongba.jpg",
-  "credit": "Jweatherley",
-  "license": "Public domain"
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/ChangeDrink.JPG/960px-ChangeDrink.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:ChangeDrink.JPG",
+  "credit": "James Heilman",
+  "license": "CC BY-SA 3.0"
  },
  "nepal-kinema": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Original_Kinema-nepal.jpg",
@@ -8561,6 +8603,12 @@
   "credit": "No machine-readable author provided. Manuel González Olaechea assumed (based on copyright claims).",
   "license": "CC BY 3.0"
  },
+ "peru-sopa-seca": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Rica_Sopa_seca.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Rica_Sopa_seca.JPG",
+  "credit": "Tadachili",
+  "license": "CC BY-SA 4.0"
+ },
  "peru-frejol-colado": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Frejol_colado_2019.jpg/960px-Frejol_colado_2019.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Frejol_colado_2019.jpg",
@@ -9291,6 +9339,12 @@
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/P%C3%A2rjoale_moldovenesti.jpg/960px-P%C3%A2rjoale_moldovenesti.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:P%C3%A2rjoale_moldovenesti.jpg",
   "credit": "Sacha47",
+  "license": "CC BY-SA 4.0"
+ },
+ "romania-mucenici-moldovenesti": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Mucenici_with_honey_and_walnuts_moldavian_style.jpg/960px-Mucenici_with_honey_and_walnuts_moldavian_style.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mucenici_with_honey_and_walnuts_moldavian_style.jpg",
+  "credit": "ideideretete.net/blog",
   "license": "CC BY-SA 4.0"
  },
  "romania-salata-cu-icre-de-stiuca-de-tulcea": {
