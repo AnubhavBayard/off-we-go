@@ -236,7 +236,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Unicum",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Unicum",
-      "https://en.wikipedia.org/wiki/Hungarian_cuisine"
+      "https://en.wikipedia.org/wiki/Hungarian_cuisine",
+      "https://zwackunicum.hu/en/"
     ]
   },
   {
@@ -321,8 +322,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [],
-    "gi_tag": false,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Hungarian_wine",
+    "gi_tag": true,
+    "wikipedia_url": null,
     "source_urls": [
       "https://en.wikipedia.org/wiki/Hungarian_wine",
       "https://en.wikipedia.org/wiki/Badacsony"
@@ -349,8 +350,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [],
-    "gi_tag": false,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Hungarian_wine",
+    "gi_tag": true,
+    "wikipedia_url": null,
     "source_urls": [
       "https://en.wikipedia.org/wiki/Villány",
       "https://en.wikipedia.org/wiki/Hungarian_wine"
@@ -388,9 +389,9 @@
     "pronunciation": null,
     "category": "snack",
     "country": "Hungary",
-    "state": "Lake Balaton & Transdanubia",
+    "state": "Great Plain",
     "regions": [],
-    "description": "Pogácsa is a small savoury scone-like bake that Hungary counts as a Hungarikum; the pork-crackling version (tepertős pogácsa) was born in Hungary. Other popular flavours include cheese, potato, sour cream, poppy seed and paprika, and pogácsa is commonly served at celebrations.",
+    "description": "A small round savoury scone of yeast dough made with chopped pork crackling and pig fat, plus wheat flour, egg, milk and cream; pogácsa is counted as a Hungarikum, and the crackling version developed in Hungary. It was a poor man's bake around Debrecen and the Tiszántúl, made after the pig slaughter, and 'Tepertős pogácsa' is registered as an EU Traditional Speciality Guaranteed.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -404,11 +405,13 @@
       "dairy",
       "egg"
     ],
-    "gi_tag": false,
+    "gi_tag": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pogača",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Pogača",
-      "https://en.wikipedia.org/wiki/Hungarian_cuisine"
+      "https://hu.wikipedia.org/wiki/Tepertős_pogácsa",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R1415",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52016XC0310(02)"
     ]
   },
   {
@@ -433,7 +436,8 @@
     "vegan": false,
     "spice": 3,
     "allergens": [
-      "fish"
+      "fish",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fisherman's_soup",
@@ -454,7 +458,7 @@
     "regions": [
       "Szeged"
     ],
-    "description": "A cold-smoked, air-dried salami of finely chopped pork and pork fat seasoned with white pepper, allspice and sweet paprika, smoked over beech wood until a grey-white noble mould forms on the casing. It was once made only in winter, when Szeged's air was cold enough to cure it, and Szegedi téliszalámi has been an EU protected designation of origin since 2007.",
+    "description": "A smoked, air-dried salami of finely chopped pork and pork fat seasoned with white pepper, allspice and sweet paprika, smoked over beech wood until a grey-white noble mould forms on the casing. It was once made only in winter, because Szeged's air was too humid to dry it and ice was needed to cool it, and 'Szegedi téliszalámi' is a registered EU protected designation of origin.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -511,7 +515,7 @@
       "Békéscsaba",
       "Gyula"
     ],
-    "description": "A spicy paprika pork sausage made strictly without black pepper, traditionally a home-made product of Békéscsaba and its surroundings. It is a Hungarikum and has been an EU protected geographical indication since 2010; Békéscsaba holds a sausage festival every year.",
+    "description": "A spicy paprika pork sausage made strictly without black pepper and, by its specification, produced only within Békéscsaba and Gyula; it began as a home-made product of Békéscsaba and its surroundings. It is a Hungarikum and was registered as an EU protected geographical indication in 2010; Békéscsaba holds a sausage festival every year.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -538,7 +542,7 @@
     "regions": [
       "Kecskemét"
     ],
-    "description": "An apricot pálinka from Kecskemét. Pálinka is a traditional Hungarian fruit spirit protected as an EU geographical indication, and Kecskemét apricot pálinka is one of eight local pálinkas with their own protected designation of origin.",
+    "description": "An apricot pálinka from Kecskemét. Pálinka is a traditional Hungarian fruit spirit protected as an EU geographical indication, and Kecskemét apricot pálinka is registered as a separate EU geographical indication for spirit drinks with its own specification.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -592,7 +596,7 @@
     "country": "Hungary",
     "state": "Great Plain",
     "regions": [],
-    "description": "Chicken simmered in a paprika sauce begun with a roux and finished with sour cream, using sweet or hot paprika. Hungarian sources tie paprika dishes most strongly to the Great Plain, and the first known recipe appeared in István Czifray's Hungarian National Cookbook of 1830.",
+    "description": "Chicken simmered in a paprika sauce begun with a roux and finished with sour cream, using sweet or hot paprika. It grew out of the paprika stews that spread among peasants of the Great Hungarian Plain, and the first known recipe appeared in István Czifray's Hungarian National Cookbook of 1830.",
     "how_to_eat": "It is almost always eaten with nokedli, small dumpling-like egg noodles.",
     "how_to_order": null,
     "typical_price": null,
@@ -663,7 +667,7 @@
     "vegan": false,
     "spice": 0,
     "allergens": [],
-    "gi_tag": false,
+    "gi_tag": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Egri_Bikavér",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Egri_Bikavér",
@@ -677,7 +681,7 @@
     "pronunciation": null,
     "category": "snack",
     "country": "Hungary",
-    "state": "Northern Hungary & Tokaj",
+    "state": "Great Plain",
     "regions": [
       "Debrecen"
     ],
@@ -695,7 +699,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Debrecener",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Debrecener",
-      "https://en.wikipedia.org/wiki/Hungarian_cuisine"
+      "https://en.wikipedia.org/wiki/Hungarian_cuisine",
+      "https://en.wikipedia.org/wiki/Debrecen"
     ]
   },
   {
@@ -767,7 +772,7 @@
     "regions": [
       "Szatmár"
     ],
-    "description": "A plum pálinka from the Szatmár area. Pálinka is a traditional Hungarian fruit spirit protected as an EU geographical indication, and Szatmár plum pálinka is one of eight local pálinkas with their own protected designation of origin.",
+    "description": "A plum pálinka from the Szatmár area. Pálinka is a traditional Hungarian fruit spirit protected as an EU geographical indication, and Szatmár plum pálinka is registered as a separate EU geographical indication for spirit drinks with its own specification.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,

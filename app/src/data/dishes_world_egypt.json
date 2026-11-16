@@ -73,7 +73,9 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "shellfish"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mulukhiyah",
     "source_urls": [
@@ -108,7 +110,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fatteh",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Fatteh",
-      "https://ar.wikipedia.org/wiki/مطبخ_مصري"
+      "https://ar.wikipedia.org/wiki/مطبخ_مصري",
+      "https://www.middleeasteye.net/discover/egyptian-fattah-recipe-eid-adha"
     ]
   },
   {
@@ -216,7 +219,8 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "dairy"
+      "dairy",
+      "nuts"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Salep",
@@ -238,7 +242,7 @@
       "Alexandria"
     ],
     "description": "Egypt's falafel: deep-fried patties of ground fava beans (not chickpeas) mixed with herbs and spices. It most likely originated in Egypt, and the port of Alexandria is credited with spreading the dish and the name falafel across the Middle East; it is a breakfast staple for millions of Egyptians.",
-    "how_to_eat": "Eat it with fresh tomatoes, tahina sauce and arugula, often wrapped in eish baladi.",
+    "how_to_eat": "Eat it at breakfast with ful, torshi (pickles) and tahini, often wrapped in eish baladi as a sandwich.",
     "how_to_order": "Ful and ta'ameya shops sell it as sandwiches or by the piece, mainly at breakfast.",
     "typical_price": null,
     "currency": "EGP",
@@ -356,7 +360,7 @@
   {
     "id": "egypt-alexandrian-koshary",
     "name": "Alexandrian koshary",
-    "local_name": null,
+    "local_name": "الكشري الإسكندراني",
     "pronunciation": null,
     "category": "street_food",
     "country": "Egypt",
@@ -375,13 +379,13 @@
     "spice": 0,
     "allergens": [
       "egg",
-      "dairy",
-      "gluten"
+      "dairy"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Koshary",
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Koshary"
+      "https://en.wikipedia.org/wiki/Koshary",
+      "https://ar.wikipedia.org/wiki/كشري"
     ]
   },
   {
@@ -393,7 +397,7 @@
     "country": "Egypt",
     "state": "Alexandria & the Coast",
     "regions": [],
-    "description": "An Egyptian wafer snack of two thin round wafers filled with a thin layer of honey syrup. It is sold only on beaches in the summertime.",
+    "description": "Round, paper-thin wafers sandwiching a filling such as sesame, peanuts, other nuts or coconut held together with honey or sugar; larger versions have just a thin smear of honey. It is sold by vendors walking Egypt's summer beaches, especially on the Mediterranean coast.",
     "how_to_eat": null,
     "how_to_order": "Buy it from vendors walking the beaches in summer.",
     "typical_price": null,
@@ -403,12 +407,17 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "sesame",
+      "peanuts",
+      "nuts"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
-      "https://en.wikipedia.org/wiki/Wafer"
+      "https://en.wikipedia.org/wiki/Wafer",
+      "https://www.kazu.org/2012-09-01/swimming-and-snacking-on-egypts-north-coast",
+      "https://egyptianstreets.com/?p=50490"
     ]
   },
   {
@@ -454,8 +463,8 @@
     ],
     "description": "Egyptian bread stuffed with minced meat spiced with onions, pepper, parsley and sometimes chilies, then baked in the oven; the Alexandrian version bakes the filling between two rounds of dough. One story says a Cairo butcher invented it in 1971, and it has become especially popular in Sharqia Governorate in the Nile Delta.",
     "how_to_eat": "Eat it hot with spicy mixed pickles.",
-    "how_to_order": "Usually bought as a take-away from restaurants; price depends on size and amount of meat.",
-    "typical_price": "30-100",
+    "how_to_order": "Usually bought as a take-away from restaurants, and also commonly made at home.",
+    "typical_price": null,
     "currency": "EGP",
     "diet": "nonveg",
     "jain": false,

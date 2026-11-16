@@ -79,6 +79,7 @@ def resolve(t):
 
 # Lead image shows the wrong thing (logo, tree, live animal, another dish or country's version): no photo.
 NO_PHOTO = {
+    "poland-andruty-kaliskie",  # Kalisz_andruts lead image is the town
     "australia-vegemite-toast", "australia-bunya-nut", "australia-fruchocs", "australia-moreton-bay-bug",
     "australia-king-george-whiting", "australia-western-rock-lobster", "australia-marron", "australia-dhufish",
     "australia-tasmanian-abalone", "australia-tasmanian-atlantic-salmon",

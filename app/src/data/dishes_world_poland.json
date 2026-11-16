@@ -222,11 +222,9 @@
     "category": "street_food",
     "country": "Poland",
     "state": "Tatras & Podhale",
-    "regions": [
-      "Zakopane"
-    ],
+    "regions": [],
     "description": "A smoked cheese of salted sheep's milk made only in the Tatra Mountains: the curd is scalded, pressed into decorative spindle-shaped wooden moulds, brined and smoked for up to 14 days. It has been an EU protected designation of origin since 2008 and can only be made from late April to early October.",
-    "how_to_eat": "It is often pan-fried and served with cranberry jam, a popular street food in the mountains.",
+    "how_to_eat": "It is often pan-fried and served with cranberry jam.",
     "how_to_order": null,
     "typical_price": null,
     "currency": "PLN",
@@ -309,7 +307,7 @@
     "country": "Poland",
     "state": "Tatras & Podhale",
     "regions": [],
-    "description": "A very sour highlander soup of sauerkraut and meat (often ribs), without other vegetables like carrot, which would make it kapuśniak. It belongs to Polish góral (highlander) cuisine.",
+    "description": "A very sour highlander soup of sauerkraut and meat, without other vegetables like carrot, which would make it kapuśniak. It belongs to Polish góral (highlander) cuisine.",
     "how_to_eat": "It is eaten with potatoes boiled separately, or with bread.",
     "how_to_order": null,
     "typical_price": null,
@@ -400,7 +398,9 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "gluten"
+    ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bigos",
     "source_urls": [
@@ -597,7 +597,7 @@
     "regions": [
       "Gdańsk"
     ],
-    "description": "A 40% herbal liqueur flavoured with spices such as cardamom, cloves, cinnamon and juniper, with tiny flakes of 23-karat gold floating in it. It was made in Gdańsk (Danzig) from 1598 to 2009.",
+    "description": "A 40% herbal liqueur flavoured with spices such as cardamom, cloves, cinnamon and juniper, with tiny flakes of 23-karat gold floating in it. It was made in Gdańsk (Danzig) from 1598 to 2009; production now takes place in Germany.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -772,7 +772,7 @@
     "country": "Poland",
     "state": "Wrocław & Silesia",
     "regions": [],
-    "description": "A beef roll stuffed with pickled vegetables, ham and plenty of seasoning, always served with red cabbage cooked with fried bacon, onion and allspice. With Silesian dumplings it is the classic Sunday dinner, often called Silesia's most iconic dish.",
+    "description": "A beef roll (from topside) spread with mustard and filled with pickled cucumber, onion and bacon or sausage, browned and braised in a flour-thickened gravy, and served with red cabbage. With Silesian dumplings it is the classic Sunday dinner, often called Silesia's most iconic dish.",
     "how_to_eat": "Eat with kluski śląskie and red cabbage, with plenty of gravy.",
     "how_to_order": null,
     "typical_price": null,
@@ -782,14 +782,15 @@
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "mustard"
+      "mustard",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": null,
     "source_urls": [
       "https://en.wikipedia.org/wiki/Silesian_cuisine",
       "https://en.wikipedia.org/wiki/Polish_cuisine",
-      "https://pl.wikipedia.org/wiki/Kuchnia_śląska"
+      "https://www.slaskiesmaki.pl/en-US/Potrawy/Pokaz/322803/rolada-slaska-gumiklejzy-i-modro-kapusta"
     ]
   },
   {
@@ -801,7 +802,7 @@
     "country": "Poland",
     "state": "Wrocław & Silesia",
     "regions": [],
-    "description": "Silesian blood sausage of groats, pork offal, liver, onion and pepper in a natural casing, with less groats than similar sausages. Linked to pig-slaughter days and mining-family meals, it has been an EU protected geographical indication since 2016.",
+    "description": "Silesian offal sausage of pork offal, liver, blood, barley or buckwheat groats, onion and pepper in a natural casing, with less groats (15%) than similar sausages. Linked to pig-slaughter days and mining-family meals, it has been an EU protected geographical indication since 2016.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -810,12 +811,15 @@
     "jain": false,
     "vegan": false,
     "spice": 0,
-    "allergens": [],
+    "allergens": [
+      "gluten"
+    ],
     "gi_tag": true,
     "wikipedia_url": "https://pl.wikipedia.org/wiki/Krupnioki_śląskie",
     "source_urls": [
       "https://pl.wikipedia.org/wiki/Krupnioki_śląskie",
-      "https://en.wikipedia.org/wiki/Silesian_cuisine"
+      "https://en.wikipedia.org/wiki/Silesian_cuisine",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2016:067:FULL"
     ]
   },
   {
@@ -845,7 +849,8 @@
     "wikipedia_url": "https://pl.wikipedia.org/wiki/Kołocz_śląski",
     "source_urls": [
       "https://pl.wikipedia.org/wiki/Kołocz_śląski",
-      "https://en.wikipedia.org/wiki/Silesian_cuisine"
+      "https://en.wikipedia.org/wiki/Silesian_cuisine",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52010XC1105%2802%29"
     ]
   },
   {
@@ -1060,7 +1065,7 @@
       "gluten"
     ],
     "gi_tag": true,
-    "wikipedia_url": null,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kalisz_andruts",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Kalisz_andruts",
       "https://pl.wikipedia.org/wiki/Andruty_kaliskie"

@@ -41,7 +41,7 @@
     "regions": [],
     "description": "Roast pork, sliced potato or bread dumplings and steamed white (less often red) sauerkraut, placed separately on the plate with the pork covered in its own juice. Wikipedia calls it one of the national dishes of the Czech Republic and often the most typical Czech dish; it is believed to have German origins.",
     "how_to_eat": null,
-    "how_to_order": "On menus it appears as pečené vepřové s knedlíky a se zelím.",
+    "how_to_order": "Menus may list it as vepřová s knedlíkem a zelím.",
     "typical_price": null,
     "currency": "CZK",
     "diet": "nonveg",
@@ -103,9 +103,9 @@
     "regions": [
       "Prague"
     ],
-    "description": "A brine-cured, stewed and mildly beechwood-smoked boneless ham first marketed in the 1860s by Prague butcher Antonín Chmel; cooked on the bone it is called šunka od kosti. It is registered as an EU Traditional Speciality Guaranteed.",
+    "description": "A brine-cured, mildly beechwood-smoked and then cooked ham; cooked on the bone it is called šunka od kosti. Prague butchers made it from the mid-19th century, and Antonín Chmel of Zvonařka Street made it famous by producing it industrially from 1879. Since 2018 Pražská šunka has been an EU Traditional Speciality Guaranteed.",
     "how_to_eat": "It is served with boiled potatoes and often a Czech beer.",
-    "how_to_order": "Look for street vendors and restaurants carving šunka od kosti (ham on the bone).",
+    "how_to_order": "Sold in restaurants and by street vendors; ask for šunka od kosti for ham on the bone.",
     "typical_price": null,
     "currency": "CZK",
     "diet": "nonveg",
@@ -117,6 +117,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Prague_ham",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Prague_ham",
+      "https://cs.wikipedia.org/wiki/Pražská_šunka",
+      "https://eur-lex.europa.eu/eli/reg/2018/506/oj",
       "https://en.wikipedia.org/wiki/Czech_cuisine"
     ]
   },
@@ -197,14 +199,15 @@
     "how_to_order": "Prague cafés and stalls also sell it filled with ice cream and toppings such as strawberries and chocolate.",
     "typical_price": null,
     "currency": "CZK",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
       "gluten",
       "dairy",
-      "nuts"
+      "nuts",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Trdelník",
@@ -255,7 +258,7 @@
     ],
     "description": "A pale lager brewed only in Plzeň, hopped with Saaz hops and made with soft water. First served in 1842 after the town's burghers hired Bavarian brewer Josef Groll, it was the world's first pale lager and gave its name to the pilsner style.",
     "how_to_eat": null,
-    "how_to_order": "Tours run at the Plzeň brewery; an unpasteurised tank version is increasingly available.",
+    "how_to_order": "Look for the unpasteurised tank version, which has become increasingly available.",
     "typical_price": null,
     "currency": "CZK",
     "diet": "veg",
@@ -327,7 +330,8 @@
     "gi_tag": true,
     "wikipedia_url": "https://cs.wikipedia.org/wiki/Karlovarské_oplatky",
     "source_urls": [
-      "https://cs.wikipedia.org/wiki/Karlovarské_oplatky"
+      "https://cs.wikipedia.org/wiki/Karlovarské_oplatky",
+      "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32011R0744"
     ]
   },
   {
@@ -346,14 +350,15 @@
     "how_to_order": "Bakeries sell them, including outside Chodsko.",
     "typical_price": null,
     "currency": "CZK",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
       "gluten",
       "dairy",
-      "nuts"
+      "nuts",
+      "egg"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://cs.wikipedia.org/wiki/Chodský_koláč",
@@ -373,7 +378,7 @@
     "regions": [
       "Pardubice"
     ],
-    "description": "Honey gingerbread shaped into hearts, cottages and other figures. Pardubice has made it for centuries: its gingerbread guild dates from the 16th century, the first factory opened in 1913, and Pardubice gingerbread has been an EU protected geographical indication since 2008.",
+    "description": "Spiced honey gingerbread for which Pardubice has been known for centuries: its gingerbread guild dates from the 16th century, the first factory opened in 1913, and Pardubický perník has been an EU protected geographical indication since 2008.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -411,13 +416,14 @@
     "how_to_order": null,
     "typical_price": null,
     "currency": "CZK",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
       "gluten",
-      "dairy"
+      "dairy",
+      "egg"
     ],
     "gi_tag": true,
     "wikipedia_url": "https://cs.wikipedia.org/wiki/Hořické_trubičky",
@@ -441,14 +447,15 @@
     "how_to_order": null,
     "typical_price": null,
     "currency": "CZK",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
       "gluten",
       "nuts",
-      "peanuts"
+      "peanuts",
+      "egg"
     ],
     "gi_tag": true,
     "wikipedia_url": "https://cs.wikipedia.org/wiki/Lomnické_suchary",
@@ -493,7 +500,7 @@
     "country": "Czechia",
     "state": "South Bohemia",
     "regions": [],
-    "description": "A thick, white South Bohemian soup of mushrooms, potatoes, cream and dill, finished with an egg (often a quail's egg). Mushrooms give the main flavour.",
+    "description": "A South Bohemian soup of potatoes, milk or cream, dill and mushrooms, thickened with flour and finished with a boiled or poached egg (one version uses quail's egg). Mushrooms are an important ingredient today, though historical recipes lacked them.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -504,13 +511,14 @@
     "spice": 0,
     "allergens": [
       "dairy",
-      "egg"
+      "egg",
+      "gluten"
     ],
     "gi_tag": false,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kulajda",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Kulajda",
-      "https://en.wikipedia.org/wiki/Czech_cuisine",
+      "https://cs.wikipedia.org/wiki/Kulajda",
       "https://cs.wikipedia.org/wiki/Jihočeská_kuchyně"
     ]
   },
@@ -556,7 +564,7 @@
     "regions": [
       "České Budějovice"
     ],
-    "description": "Pale lager from České Budějovice brewed with artesian water, Moravian barley and Saaz hops from Žatec, matured for at least 90 days. Budějovický Budvar has EU protected geographical indication status (2004); in the US and Canada it is sold as Czechvar.",
+    "description": "Pale lager from České Budějovice brewed with artesian water, Moravian barley and Saaz hops from Žatec, matured for at least 90 days. Budějovické pivo has been an EU protected geographical indication since 2004; in the US and Canada Budvar is sold as Czechvar.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -586,24 +594,25 @@
     "regions": [
       "Kaplice"
     ],
-    "description": "Pancakes of grated potato with egg, breadcrumbs or flour, seasoned with garlic, marjoram, salt and pepper and fried; in South Bohemia and Plzeň they are called cmunda. Cmunda po kaplicku, a large one topped with smoked meat and sauerkraut, was created in an inn in Kaplice.",
+    "description": "Pancakes of grated raw potato with egg, flour or breadcrumbs, seasoned with garlic, marjoram, salt and pepper and traditionally fried in goose or pork lard; the older South Bohemian name is cmunda. Cmunda po kaplicku, a larger one served with smoked meat and sauerkraut, was created in an inn in Kaplice.",
     "how_to_eat": null,
     "how_to_order": "Ask for cmunda in South Bohemia, bramborák elsewhere.",
     "typical_price": null,
     "currency": "CZK",
-    "diet": "egg",
+    "diet": "nonveg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
       "egg",
-      "gluten"
+      "gluten",
+      "dairy"
     ],
     "gi_tag": false,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Potato_pancake",
+    "wikipedia_url": "https://cs.wikipedia.org/wiki/Bramborák",
     "source_urls": [
+      "https://cs.wikipedia.org/wiki/Bramborák",
       "https://en.wikipedia.org/wiki/Potato_pancake",
-      "https://en.wikipedia.org/wiki/Czech_cuisine",
       "https://cs.wikipedia.org/wiki/Jihočeská_kuchyně"
     ]
   },
@@ -682,7 +691,7 @@
       "Loštice"
     ],
     "description": "A ripened soft cheese made in Loštice from low-fat quark, with a strong smell, pungent taste and yellowish colour; it has only about 0.5% fat. First mentioned in 1452, it is a long-standing beer snack and an EU protected geographical indication since 2010.",
-    "how_to_eat": "Eat it with beer, or fried, marinated or mixed into potato pancakes.",
+    "how_to_eat": "Eat it as a beer snack, or breaded and fried as smažené tvarůžky.",
     "how_to_order": "There is a museum and shop at the producer's plant in Loštice.",
     "typical_price": null,
     "currency": "CZK",
@@ -697,7 +706,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Olomoucké_tvarůžky",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Olomoucké_tvarůžky",
-      "https://en.wikipedia.org/wiki/Czech_cuisine"
+      "https://en.wikipedia.org/wiki/Czech_cuisine",
+      "https://en.wikipedia.org/wiki/Smažený_sýr"
     ]
   },
   {
@@ -745,13 +755,14 @@
     "how_to_order": "Look for it at folk festivals at the Wallachian Open Air Museum.",
     "typical_price": null,
     "currency": "CZK",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
       "gluten",
-      "dairy"
+      "dairy",
+      "egg"
     ],
     "gi_tag": true,
     "wikipedia_url": "https://cs.wikipedia.org/wiki/Frgál",
@@ -805,12 +816,13 @@
     "how_to_order": null,
     "typical_price": null,
     "currency": "CZK",
-    "diet": "veg",
+    "diet": "egg",
     "jain": false,
     "vegan": false,
     "spice": 0,
     "allergens": [
-      "gluten"
+      "gluten",
+      "egg"
     ],
     "gi_tag": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Štramberk_ears",
@@ -833,7 +845,7 @@
       "Valtice",
       "Znojmo"
     ],
-    "description": "About 96% of Czech vineyards are in southern Moravia, around Mikulov, Valtice, Znojmo and the Pálava Hills. Common white varieties are Pinot gris, Riesling and Chardonnay, reds include Pinot noir, Blaufränkisch (Frankovka) and Zweigelt, plus local varieties such as Pálava.",
+    "description": "About 96% of Czech vineyards are in Moravia, around towns such as Mikulov, Valtice and Znojmo. The most planted white varieties are Pinot gris, Riesling and Chardonnay; the reds are Pinot noir, Blaufränkisch (Frankovka) and Zweigelt. Morava is a registered EU protected designation of origin for wine.",
     "how_to_eat": null,
     "how_to_order": "Visit the harvest festivals (vinobraní) in September in Znojmo, Mikulov or Brno, or the National Wine Centre at Valtice Castle.",
     "typical_price": null,
@@ -843,7 +855,7 @@
     "vegan": false,
     "spice": 0,
     "allergens": [],
-    "gi_tag": false,
+    "gi_tag": true,
     "wikipedia_url": "https://en.wikipedia.org/wiki/Czech_wine",
     "source_urls": [
       "https://en.wikipedia.org/wiki/Czech_wine",
@@ -859,7 +871,7 @@
     "country": "Czechia",
     "state": "Moravia",
     "regions": [],
-    "description": "Young, partly fermented grape must, typically around 9% alcohol and still fermenting, known in Germany as Federweisser and in the Czech Republic as burčák. It is listed among the specialities of Moravian Slovácko.",
+    "description": "Young, still-fermenting grape must, usually about 1–7% alcohol, drunk in Czechia mainly in Moravia; red burčák from blue grapes is rare. Czech wine law allows the name only for must from that year's domestic grapes, sold between 1 August and 30 November.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
@@ -870,8 +882,9 @@
     "spice": 0,
     "allergens": [],
     "gi_tag": false,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Federweisser",
+    "wikipedia_url": "https://cs.wikipedia.org/wiki/Burčák",
     "source_urls": [
+      "https://cs.wikipedia.org/wiki/Burčák",
       "https://en.wikipedia.org/wiki/Federweisser",
       "https://cs.wikipedia.org/wiki/Moravská_kuchyně"
     ]
@@ -885,7 +898,7 @@
     "country": "Czechia",
     "state": "Moravia",
     "regions": [],
-    "description": "Plum brandy distilled from fermented plums; in Czechia it is mostly a Moravian drink (Slovácko, Haná, Wallachia). Home-distilled slivovice is usually around 52% alcohol, commercial versions 40%; an 1835 decree letting Moravians distil spirit from their own fruit tax-free helped make it more popular there than in Bohemia.",
+    "description": "Plum brandy distilled from fermented plums; in Czechia it is mostly a Moravian drink (Slovácko, Haná, Wallachia). Home-distilled slivovice is usually around 52% alcohol, mass-produced versions 40%; an 1835 imperial patent let farmers distil one bucket without paying tax.",
     "how_to_eat": null,
     "how_to_order": null,
     "typical_price": null,
